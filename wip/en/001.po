@@ -306,7 +306,7 @@ msgstr ""
 
 msgctxt "7988a4a16faf44b3b9a0064d73876976"
 msgid "དུག་ གསུམ་ མམ་ སྒྲིབ་ གསུམ་ གྱི་ དྲི་མ་ མེད་པ་␣ས་"
-msgstr ""
+msgstr "There are no stains of the three poisons or three obscurations."
 
 msgctxt "be01f3746825497fb24d03e67123482f"
 msgid "སྤང་བ་ དང་ རང་བཞིན་ འོད་གསལ་"
