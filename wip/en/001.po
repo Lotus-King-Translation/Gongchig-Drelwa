@@ -317,6 +317,8 @@ msgid ""
 "མཚན་མ་␣འི་ རྡུལ་བྲལ་ སོ་སོ་ རང་རིག་ ཡེ་ཤེས་ ཀྱིས་ མཉམ་བཞག་ ཏུ་ གཟིགས་པ་ "
 "ཇི་ལྟ་བ་ དང༌ །"
 msgstr ""
+"Each mark free from dust is observed under the equipoise of self-knowing "
+"primordial wisdom just as it is."
 
 msgctxt "6f572b4e1bd9448983d7a118d774ac83"
 msgid "དེ་␣འི་ རྗེས་ཐོབ་ ཐུགས་ ཀྱི་ དཀྱིལ་འཁོར་ དུ །"
