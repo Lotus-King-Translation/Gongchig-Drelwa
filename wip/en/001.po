@@ -356,6 +356,7 @@ msgctxt "cd20f0839a6f40399d51bf2aa7ac6945"
 msgid ""
 "འབྲི་གུང་ རིན་ཆེན་ ཏེ་ དགོས་འདོད་ ཐམས་ཅད་ སྟེར་བ་ དེ་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
 msgstr ""
+"[I] pay homage to Drigung Rinchen, who fulfils all the needs and desires."
 
 msgctxt "47100e1eefef403c987c18b85d3db068"
 msgid "རྒྱལ་བ་ སངས་རྒྱས་ མཆོག་ གི་ ཞལ་ ནས་ གསུངས་པ་ ཡི་"
