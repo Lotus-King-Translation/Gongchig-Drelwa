@@ -282,7 +282,7 @@ msgstr "remembering the past places,"
 
 msgctxt "2439c187a1004855810db38357107e89"
 msgid "འཆི་ འཕོ་ དང་ སྐྱེ་བ །"
-msgstr ""
+msgstr "death-transference and birth,"
 
 msgctxt "5a4670a2f23e416f8365dd6f607beed1"
 msgid "ཟག་ཟད་ དེ་ བཅུ་པོ་ དེ་ མཁྱེན་པ་␣ས་ ན་"
