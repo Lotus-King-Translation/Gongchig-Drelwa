@@ -350,7 +350,7 @@ msgstr ""
 
 msgctxt "bac7e79b7ef349939a148fba0199dd8c"
 msgid "དཔེ་ཟླ་ བྲལ་བ་␣ས་ མཉམ་པ་ མེད་པ་"
-msgstr ""
+msgstr "Who is beyond compare and matchless."
 
 msgctxt "cd20f0839a6f40399d51bf2aa7ac6945"
 msgid ""
