@@ -326,7 +326,7 @@ msgstr "In its post-attainment, at the mandala of the mind,"
 
 msgctxt "c40f2ccc4a074cdcb3f8b4ad55583a72"
 msgid "མཚན་ཉིད་ སོ་སོ་␣ར་ རེ་རེ་ ནས་ མ་ འདྲེས་པ་"
-msgstr ""
+msgstr "Each and every characteristic, without being mixed."
 
 msgctxt "3c26c951ade74a3d9aa6f06709a76011"
 msgid "ཤེས་བྱ་␣འི་ དངོས་པོ་ མ་ལུས་པ་ ཀུན་ ཇི་ལྟ་བ་ དེ་ལྟར་ དང་ །"
