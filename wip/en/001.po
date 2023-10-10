@@ -338,7 +338,7 @@ msgstr "Everything is free of the impediment of desire."
 
 msgctxt "8ac130464f71455fa6bb3b6c1b359d21"
 msgid "ལམ་ མེ་␣ར་ གཟིགས་པ་ ཇི་སྙེད་པ་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ཏེ་"
-msgstr ""
+msgstr "The primordial wisdom which knows the extent brilliantly,"
 
 msgctxt "b8f68cf513b14a69b3c60e05d1e50f07"
 msgid ""
