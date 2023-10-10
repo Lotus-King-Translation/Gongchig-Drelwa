@@ -330,7 +330,7 @@ msgstr "Each and every characteristic, without being mixed."
 
 msgctxt "3c26c951ade74a3d9aa6f06709a76011"
 msgid "ཤེས་བྱ་␣འི་ དངོས་པོ་ མ་ལུས་པ་ ཀུན་ ཇི་ལྟ་བ་ དེ་ལྟར་ དང་ །"
-msgstr ""
+msgstr "All the knowable things, none excluded, exactly as how they are and "
 
 msgctxt "d3db5456f3264751bfb5e320fb714471"
 msgid "ཐམས་ཅད་ ཆགས་ ཐོག་ བྲལ་བ་␣ས་"
