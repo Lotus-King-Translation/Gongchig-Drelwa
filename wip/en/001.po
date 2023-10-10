@@ -310,7 +310,7 @@ msgstr "There are no stains of the three poisons or three obscurations."
 
 msgctxt "be01f3746825497fb24d03e67123482f"
 msgid "སྤང་བ་ དང་ རང་བཞིན་ འོད་གསལ་"
-msgstr ""
+msgstr "After being abandoned, [its] intrinsic nature is luminous."
 
 msgctxt "d2384ed6816c458f8bae6c74afbb7731"
 msgid ""
