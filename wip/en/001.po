@@ -322,7 +322,7 @@ msgstr ""
 
 msgctxt "6f572b4e1bd9448983d7a118d774ac83"
 msgid "དེ་␣འི་ རྗེས་ཐོབ་ ཐུགས་ ཀྱི་ དཀྱིལ་འཁོར་ དུ །"
-msgstr ""
+msgstr "In its post-attainment, at the mandala of the mind,"
 
 msgctxt "c40f2ccc4a074cdcb3f8b4ad55583a72"
 msgid "མཚན་ཉིད་ སོ་སོ་␣ར་ རེ་རེ་ ནས་ མ་ འདྲེས་པ་"
