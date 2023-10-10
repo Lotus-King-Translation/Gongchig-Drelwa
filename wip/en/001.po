@@ -286,7 +286,7 @@ msgstr "death-transference and birth,"
 
 msgctxt "5a4670a2f23e416f8365dd6f607beed1"
 msgid "ཟག་ཟད་ དེ་ བཅུ་པོ་ དེ་ མཁྱེན་པ་␣ས་ ན་"
-msgstr ""
+msgstr "the exhaustion of the outflows, by knowing these ten,"
 
 msgctxt "d9f86590f0a24ba8819d4082f0c50d40"
 msgid ""
