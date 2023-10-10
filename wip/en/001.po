@@ -345,6 +345,8 @@ msgid ""
 "དེ་ལྟར་ སྤང་བ་ དང་ རྟོགས་པ་ ཕུན་སུམ་ ཚོགས་པ་␣འི་ བདག་ཉིད་ ཀུན་མཁྱེན་ ཆོས་ "
 "ཀྱི་ རྗེ །"
 msgstr ""
+"Like that, all-knowing great being-Dharma Lord who has perfectly accumulated"
+" abandonments and realizations. "
 
 msgctxt "bac7e79b7ef349939a148fba0199dd8c"
 msgid "དཔེ་ཟླ་ བྲལ་བ་␣ས་ མཉམ་པ་ མེད་པ་"
