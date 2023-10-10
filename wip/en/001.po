@@ -293,6 +293,8 @@ msgid ""
 "སྟོབས་ བཅུ་ སྟེ་ དེ་ལྟ་␣འི་ ཚུལ་ ལ་ དབང་ཕྱུག་ ཕ་ ཤཱཀྱ་ སྟེ་ ནུས་པ་ ལ་ "
 "འཇུག་པ་␣ས་"
 msgstr ""
+"The ten strengths, in this way, like father Shakya who has complete control,"
+" has engaged in power."
 
 msgctxt "737ffef63d5f410c87feffb94311695c"
 msgid ""
