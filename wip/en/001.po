@@ -278,7 +278,7 @@ msgstr "concentrations and complete liberation,"
 
 msgctxt "b87c994717df4195984faea7b59522e9"
 msgid "སྔོན་ གནས་ རྗེས་དྲན །"
-msgstr ""
+msgstr "remembering the past places,"
 
 msgctxt "2439c187a1004855810db38357107e89"
 msgid "འཆི་ འཕོ་ དང་ སྐྱེ་བ །"
