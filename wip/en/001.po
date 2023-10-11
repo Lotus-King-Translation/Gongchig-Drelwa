@@ -448,6 +448,8 @@ msgstr ""
 msgctxt "8aa6b3159e8940848f3abdb21a0f7176"
 msgid "གནས་ དང་ གནས་མ་ ཡིན་པ་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ཀྱི་ ཕྱིར །"
 msgstr ""
+"This is because of the primordial wisdom of knowing [what is] abiding and "
+"[what is] non-abiding."
 
 msgctxt "8efc5d073ff84ce08af373d461eace42"
 msgid "བབ་ ཀྱི་ གནས་ལུགས་ བསྟན་ ཏེ །"
