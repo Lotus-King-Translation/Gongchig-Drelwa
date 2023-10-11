@@ -443,7 +443,7 @@ msgctxt "9ed2c66d740249ecab7044a5f47cd41e"
 msgid "རྟེན་འབྲེལ་ གྱི་ གཤིས་ བསླུ་བ་ མེད་པ་ མཐོ་དམན་ ཀུན་ ཏུ་ འབྱུང་བ་ དང༌ །"
 msgstr ""
 "The nature of interdependence is not deceiving; it occurs to everyone, high "
-"and low."
+"or low."
 
 msgctxt "8aa6b3159e8940848f3abdb21a0f7176"
 msgid "གནས་ དང་ གནས་མ་ ཡིན་པ་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ཀྱི་ ཕྱིར །"
