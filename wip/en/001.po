@@ -365,6 +365,7 @@ msgctxt "358138e8e67444ff916ba7a32f41f66d"
 msgid ""
 "མདོ་ རྒྱུད་ དམ་པ་␣འི་ ཆོས་ རྣམས་ ཇི་བཞིན་ ཐུགས་ སུ་ ཆུད་པ་ ལ་ བརྟེན་ ནས་"
 msgstr ""
+"Depending on how the mind understands the holy dharmas of sutra and tantra,"
 
 msgctxt "f2d9d7a40f494a41a4d1284ec86101a4"
 msgid "ཁྱད་པར་ དུ་ འཕགས་པ་ ཟབ་མོ་␣འི་ དོན་ ཐུན་མོང་ མ་ཡིན་པ ། །"
