@@ -433,7 +433,7 @@ msgstr "The actuality of all phenomena such as this, "
 
 msgctxt "42386f2e8d064507992baedb7e742abf"
 msgid "བརྩེ་བ་␣ས་ སེམས་ཅན་ རྣམས་ ལ་ སྟོན་པ་␣ར་ མཛད་པ་ དང༌ །"
-msgstr ""
+msgstr "is shown by Buddha out of love for sentient beings."
 
 msgctxt "a5f93ac106b54959898328001f7541da"
 msgid "རང་བཞིན་ སངས་རྒྱས་ ཀྱིས་ ཀྱང་ བསྒྱུར་ དུ་ མེད་པ་ དང༌ །"
