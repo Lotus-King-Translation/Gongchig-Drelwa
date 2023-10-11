@@ -437,7 +437,7 @@ msgstr "is shown by Buddha out of love for sentient beings."
 
 msgctxt "a5f93ac106b54959898328001f7541da"
 msgid "རང་བཞིན་ སངས་རྒྱས་ ཀྱིས་ ཀྱང་ བསྒྱུར་ དུ་ མེད་པ་ དང༌ །"
-msgstr ""
+msgstr "Even Buddha cannot change the intrinsic nature and "
 
 msgctxt "9ed2c66d740249ecab7044a5f47cd41e"
 msgid "རྟེན་འབྲེལ་ གྱི་ གཤིས་ བསླུ་བ་ མེད་པ་ མཐོ་དམན་ ཀུན་ ཏུ་ འབྱུང་བ་ དང༌ །"
