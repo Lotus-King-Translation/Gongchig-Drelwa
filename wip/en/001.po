@@ -396,7 +396,7 @@ msgstr "Vajra: Others said,"
 
 msgctxt "391c48714d824c6c9c682f07eb6d7f37"
 msgid "དེ་བཞིན་ གཤེགས་པ་ ནི་ ཆོས་ ཀྱི་ དབང་ཕྱུག་ ཡིན་པ་␣ས་"
-msgstr ""
+msgstr "As Tathagata is the powerful lord of dharmas,"
 
 msgctxt "de118e9afeec4ab6a343bb06b503465f"
 msgid "དེ་␣ས་ ཇི་ལྟར་ བཞེད་པ་ དེ་ལྟར་ འགྱུར་ ཏེ །"
