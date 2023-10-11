@@ -392,7 +392,7 @@ msgstr ""
 
 msgctxt "b065875dda22411cb2fc2aa44358e6c7"
 msgid "༈  རྡོ་␣༽༽  གཞན་དག་ ན་རེ །"
-msgstr ""
+msgstr "Vajra: Others said,"
 
 msgctxt "391c48714d824c6c9c682f07eb6d7f37"
 msgid "དེ་བཞིན་ གཤེགས་པ་ ནི་ ཆོས་ ཀྱི་ དབང་ཕྱུག་ ཡིན་པ་␣ས་"
