@@ -417,6 +417,7 @@ msgid ""
 "ཆོས་ ཀུན་ གྱི་ གཤིས་ སམ་ བབ་ ཀྱི་ རང་བཞིན་ སྟོང་ཉིད་ གནས་ཚུལ་ སངས་རྒྱས་ "
 "ཀྱིས་ བསྟན་པ་ ཡིན་ ཏེ །"
 msgstr ""
+"Buddha shows the intrinsic nature or state of all phenomena as emptiness."
 
 msgctxt "c2eed4e74c2c4379bc4520789470eb72"
 msgid "ཆོས་ ཀུན་ རྣམ་པ་␣ར་ དག་པ་␣འི་ ངོ་བོ་ སངས་རྒྱས་པ་␣ས་"
