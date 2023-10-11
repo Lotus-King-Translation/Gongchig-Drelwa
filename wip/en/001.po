@@ -410,7 +410,7 @@ msgstr ""
 
 msgctxt "64a62d4431f047a59f85693b656f5f66"
 msgid "འདི་␣ར་ ནི །"
-msgstr ""
+msgstr "In this [system],"
 
 msgctxt "2897dd4ad3f04d5096b4e672c8d815ce"
 msgid ""
