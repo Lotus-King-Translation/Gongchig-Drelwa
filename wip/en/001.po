@@ -369,7 +369,7 @@ msgstr ""
 
 msgctxt "f2d9d7a40f494a41a4d1284ec86101a4"
 msgid "ཁྱད་པར་ དུ་ འཕགས་པ་ ཟབ་མོ་␣འི་ དོན་ ཐུན་མོང་ མ་ཡིན་པ ། །"
-msgstr ""
+msgstr "Specially distinguished the extraordinary profound meaning."
 
 msgctxt "86376e626d2946a1926c2e56b464d245"
 msgid ""
