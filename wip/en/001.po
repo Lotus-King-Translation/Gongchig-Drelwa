@@ -376,6 +376,8 @@ msgid ""
 "སྔོན་ དུ་ འཇིག་རྟེན་ མགོན་པོ་␣ས་ མཛད་པ་␣འི་ བཞེད་སྲོལ་ དཔག་ ཏུ་ མེད་པ་ ཐོས་ "
 "ཀྱང་"
 msgstr ""
+"Despite hearing Jigten Gonpo's previously composed unfathomable "
+"philosophical explications,"
 
 msgctxt "9b61d09f9444471eae1994a9be3f11f9"
 msgid "མི་ བརྗེད་པ་␣འི་ གཟུངས་མ་ ཐོབ་པ་ རྨོངས་པ་␣ས་"
