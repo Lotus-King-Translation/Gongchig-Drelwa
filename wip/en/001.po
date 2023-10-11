@@ -404,7 +404,9 @@ msgstr "It becomes like how he accepts,"
 
 msgctxt "6a569e54ef104dad8af8a94fdd8d659b"
 msgid "ཆོས་ ཐམས་ཅད་ ལ་ དབང་ བསྒྱུར་བ་ ཉིད་ ཀྱིས་ སོ་ ཞེས་ འདོད་ དོ ། །"
-msgstr "[They] accept that only someone who has dominion over all phenomena."
+msgstr ""
+"That is only by someone with complete control over all phenomena, as [they] "
+"accept this."
 
 msgctxt "64a62d4431f047a59f85693b656f5f66"
 msgid "འདི་␣ར་ ནི །"
