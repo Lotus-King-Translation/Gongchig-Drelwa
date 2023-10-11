@@ -359,7 +359,7 @@ msgstr "[I] pay homage to Drigung Rinchen, who bestows all needs and desires."
 
 msgctxt "47100e1eefef403c987c18b85d3db068"
 msgid "རྒྱལ་བ་ སངས་རྒྱས་ མཆོག་ གི་ ཞལ་ ནས་ གསུངས་པ་ ཡི་"
-msgstr ""
+msgstr "The supreme conqueror, Buddha, said."
 
 msgctxt "358138e8e67444ff916ba7a32f41f66d"
 msgid ""
