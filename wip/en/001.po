@@ -429,7 +429,7 @@ msgstr "And this is not by chance or an act of Ishvara,"
 
 msgctxt "bb652b8fdc184e62aafb27bb6faac75e"
 msgid "ཆོས་ རྣམས་ ཀྱི་ གནས་ལུགས་ འདི་ལྟར་ ཡིན་པ་ དེ་"
-msgstr ""
+msgstr "The actuality of all phenomena such as this, "
 
 msgctxt "42386f2e8d064507992baedb7e742abf"
 msgid "བརྩེ་བ་␣ས་ སེམས་ཅན་ རྣམས་ ལ་ སྟོན་པ་␣ར་ མཛད་པ་ དང༌ །"
