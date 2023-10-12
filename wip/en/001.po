@@ -1716,6 +1716,8 @@ msgid ""
 "ཉམས་ལེན་ གྱི་ རིམ་པ་ མངོན་རྟོགས་ སྐྱེ་བ་␣འི་ དབང་ གིས་ ཀྱང་ ཐ་མ་ ངེས་དོན་ "
 "དུ་ ངེས་པ་ ཡིན་ ནོ ། །"
 msgstr ""
+"In the stages of practice, also by the power of arising the manifest "
+"realization, one gains certainty about the definitive meaning at the end."
 
 msgctxt "bac16025137541e39971c80107649e38"
 msgid ""
