@@ -528,7 +528,7 @@ msgstr "Besides dependent relations,"
 
 msgctxt "58337c86f23c49afa46021db6715376e"
 msgid "ཆོས་ འགའ་ ཡོད་པ་ མ་ཡིན་པ ། །"
-msgstr ""
+msgstr "There is not a single phenomenon,"
 
 msgctxt "6620beb675154e7898002aad83261f91"
 msgid "དེ་ཕྱིར་ སྟོང་པ་ མ་ཡིན་པ་␣འི ། །"
