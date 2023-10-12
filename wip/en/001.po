@@ -512,6 +512,7 @@ msgstr "And saying complete control over all phenomena."
 msgctxt "abff3898f21b434ba2d8c973eab63ff0"
 msgid "མི་ མཚུངས་ བློ་ ལ་␣ས་ འདས་པ་␣འི་ རྫུ་འཕྲུལ་ བསྟན་པ་ ཡང་"
 msgstr ""
+"Further, the showing of miraculous displays beyond the dissimilar mind"
 
 msgctxt "08b19e190f3241979dce62f551966380"
 msgid "རྒྱུ་རྐྱེན་ རྟེན་འབྲེལ་ གྱི་ གཤིས་ བབ་ བསྟན་པ་ ཡིན་ ནོ ། །"
