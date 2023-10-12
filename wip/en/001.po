@@ -505,7 +505,7 @@ msgstr ""
 
 msgctxt "24fc6b3ef12048109d467c606d14bd69"
 msgid "ཆོས་ ཐམས་ཅད་ ལ་ དབང་ བསྒྱུར་ ཞེས་ བྱ །"
-msgstr ""
+msgstr "Will completely control all phenomena."
 
 msgctxt "abff3898f21b434ba2d8c973eab63ff0"
 msgid "མི་ མཚུངས་ བློ་ ལ་␣ས་ འདས་པ་␣འི་ རྫུ་འཕྲུལ་ བསྟན་པ་ ཡང་"
