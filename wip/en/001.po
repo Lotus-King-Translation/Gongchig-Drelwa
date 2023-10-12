@@ -495,7 +495,7 @@ msgstr ""
 
 msgctxt "ca723417c9b242b29c735555d54f4188"
 msgid "དེ་ ནི་ གཤིས་ བབ་ བསྒྱུར་བ་ མ་ ཡིན་ ཏེ་"
-msgstr ""
+msgstr "That is not due to changes in nature."
 
 msgctxt "b46162a2916b4d7e96709dcfbb53e1a3"
 msgid ""
