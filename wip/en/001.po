@@ -490,6 +490,8 @@ msgstr ""
 msgctxt "221d8295aa004997b2a286a07de37232"
 msgid "འོ་ན་ དབང་ བསྒྱུར་བ་ མི་ འགྲུབ་བོ་ སྙམ་ ན །"
 msgstr ""
+"Well then, If [one] wonders that the complete control will not be "
+"accomplished."
 
 msgctxt "ca723417c9b242b29c735555d54f4188"
 msgid "དེ་ ནི་ གཤིས་ བབ་ བསྒྱུར་བ་ མ་ ཡིན་ ཏེ་"
