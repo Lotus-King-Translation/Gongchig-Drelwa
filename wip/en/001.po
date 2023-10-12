@@ -580,7 +580,7 @@ msgstr "I pay homage to you for defeating the darkness of the view."
 
 msgctxt "3b79fd1bea654fa08a964e9c9ec326b6"
 msgid "ཞེས་ སོ ། །"
-msgstr "So-called."
+msgstr "As stated."
 
 msgctxt "ee569ec038f54ea1963d61ec029fa57f"
 msgid "ལུགས་ འདི་ ལ་␣ས་ གཞན་ དུ་ ན་"
