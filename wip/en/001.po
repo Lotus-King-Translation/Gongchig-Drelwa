@@ -520,7 +520,7 @@ msgstr "The interdependent nature of cause and condition is shown."
 
 msgctxt "cd412bea3c794bffa6378aa29e3de155"
 msgid "དེ་སྐད་ དུའང་"
-msgstr ""
+msgstr "As it is also said:"
 
 msgctxt "e800900bd4d345009a6d5c61f5fd50c3"
 msgid "རྟེན་ ཅིང་ འབྲེལ་ འབྱུང་ མ་གཏོགས་པ་␣འི ། །"
