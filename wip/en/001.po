@@ -461,7 +461,7 @@ msgstr "Though actuality or interdependence is said to be one and many."
 
 msgctxt "eefca07633c542498ea58349aefea9d7"
 msgid "རྒྱུ་འབྲས་ ཀྱི་ དབང་ དུ་ ན །"
-msgstr ""
+msgstr "In terms of cause and effect,"
 
 msgctxt "e18751029f3c44408076ea8c051fb336"
 msgid "ཉེས་པ་ མི་དགེ་བ་ སྡུག་བསྔལ་ རྒྱུ་འབྲས་ སྤོང་བ་␣འི་ ཐབས་ བསྟན །"
