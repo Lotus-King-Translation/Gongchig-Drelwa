@@ -544,7 +544,7 @@ msgstr "And also,"
 
 msgctxt "b90ef37ddf724420a86c332f5930eff8"
 msgid "གང་ ལ་སྟོང་པ་ ཉིད་ རུང་བ ། །"
-msgstr ""
+msgstr "Where emptiness is acceptable,"
 
 msgctxt "14afc3816a4c45f8a648136f20cfc7cc"
 msgid "དེ་ ལ་ ཐམས་ཅད་ རུང་བ་␣ར་ འགྱུར །"
