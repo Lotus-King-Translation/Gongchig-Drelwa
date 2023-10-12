@@ -1659,7 +1659,7 @@ msgstr ""
 
 msgctxt "cf29c10f3b2b4e17b9f139cf179170f2"
 msgid "རིམ་པ་␣འི་ དབང་ གིས་ དང་པོ་␣ར་ རྒྱུ་འབྲས་"
-msgstr ""
+msgstr "In terms of stages, the first is cause and effect."
 
 msgctxt "f05dd73757994c47806bef631a9e47e7"
 msgid "བར་པ་␣ར་ སྟོང་པ་ཉིད་ དུ་ བསྟན་པ་ མཚན་ཉིད་ མེད་པ་"
