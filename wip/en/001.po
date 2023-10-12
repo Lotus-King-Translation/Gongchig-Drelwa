@@ -466,6 +466,8 @@ msgstr "In terms of cause and effect,"
 msgctxt "e18751029f3c44408076ea8c051fb336"
 msgid "ཉེས་པ་ མི་དགེ་བ་ སྡུག་བསྔལ་ རྒྱུ་འབྲས་ སྤོང་བ་␣འི་ ཐབས་ བསྟན །"
 msgstr ""
+"The method of abandoning the bad non-virtue, the cause and effect of "
+"suffering, are shown. "
 
 msgctxt "ca11e078ef2c4ad4a60a48469d6ace22"
 msgid "དགེ་བ་ བདེ་ལེགས་ ཀྱི་ ལ་␣ས་ སྒྲུབ་པ་␣འི་ ཐབས་ཚུལ་ ལ་"
