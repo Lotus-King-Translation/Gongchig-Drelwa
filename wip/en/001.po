@@ -598,7 +598,7 @@ msgstr ""
 
 msgctxt "ce1846eddb5342da9adb686011e51f56"
 msgid "ཉེས་པ་ བསྟན་ རྣམས་ ལྡོག་ ཏུ་ མེད་ དོ །"
-msgstr ""
+msgstr " All of the faults shown are irreversible."
 
 msgctxt "8517dd999cbc4cbf8dba3ea9326893c2"
 msgid "༈  ལྷན་␣༽༽  མཁས་པ་ གཞན་ གྱིས་ གདུལ་བྱ་ ཐ་དད་ ལ་"
