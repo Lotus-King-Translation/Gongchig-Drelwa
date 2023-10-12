@@ -593,6 +593,8 @@ msgstr "Sugata as a doer follows an absurd consequence and "
 msgctxt "1de3c8cb812b449281de97dcc65ed36a"
 msgid "གནས་ དང་ གནས་མིན་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ མེད་པ་ ཐལ་བ་ སོགས་"
 msgstr ""
+"It follows the absurd consequence of the non-existence of the primordial "
+"wisdom of knowing [what is] abiding and [what is] non-abiding and so on."
 
 msgctxt "ce1846eddb5342da9adb686011e51f56"
 msgid "ཉེས་པ་ བསྟན་ རྣམས་ ལྡོག་ ཏུ་ མེད་ དོ །"
