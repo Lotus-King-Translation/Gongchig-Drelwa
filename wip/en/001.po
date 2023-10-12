@@ -536,7 +536,7 @@ msgstr "Because of that, that is not emptiness,"
 
 msgctxt "25468ea5b2b044439e400a9ed7c34211"
 msgid "ཆོས་ འགའ་ ཡོད་པ་ མ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "There is not a single phenomenon."
 
 msgctxt "e8c0965bf21c435baea5c7965232b503"
 msgid "ཅེས་ དང་ །"
