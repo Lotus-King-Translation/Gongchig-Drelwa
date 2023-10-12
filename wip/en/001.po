@@ -568,11 +568,12 @@ msgstr "Buddha, the expert who relies on the cause."
 
 msgctxt "cf2c9d40257d4d64b493dcebd1791298"
 msgid "མཐའ་ གཉིས་ ལྟ་བ་ རྟག་ ཏུ་ མི་ མངའ་ ཞིང༌ ། །"
-msgstr ""
+msgstr "Never having the views of the two extremes."
 
 msgctxt "94b529dd840c42068f6911b0956b8810"
 msgid "ལ་␣ས་ ཀྱི་ རྣམ་སྨིན་ འབྲས་བུ་ དེ་ཉིད་ གསུངས ། །"
 msgstr ""
+"It is said that the complete ripening of karma is the result of thusness."
 
 msgctxt "2bb7c8e9977540ce9b1fce856177a9d5"
 msgid "ལྟ་བ་␣འི་ མུན་འཇོམས་ ཁྱོད་ ལ་ ཕྱག་ འཚལ་ ལོ་ ༑"
