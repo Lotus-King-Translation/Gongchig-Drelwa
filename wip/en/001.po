@@ -548,7 +548,7 @@ msgstr "Where emptiness is acceptable,"
 
 msgctxt "14afc3816a4c45f8a648136f20cfc7cc"
 msgid "དེ་ ལ་ ཐམས་ཅད་ རུང་བ་␣ར་ འགྱུར །"
-msgstr ""
+msgstr "Everything becomes acceptable upon it. "
 
 msgctxt "3aa7e517b01a4052b6c6716aabcf2bbf"
 msgid "སོགས་ དང༌ །"
