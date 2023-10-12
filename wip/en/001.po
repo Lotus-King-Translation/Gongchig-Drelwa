@@ -576,7 +576,7 @@ msgstr "For the complete ripening of karma, the result of thusness is said."
 
 msgctxt "2bb7c8e9977540ce9b1fce856177a9d5"
 msgid "ལྟ་བ་␣འི་ མུན་འཇོམས་ ཁྱོད་ ལ་ ཕྱག་ འཚལ་ ལོ་ ༑"
-msgstr ""
+msgstr "I pay homage to you for defeating the darkness of the view."
 
 msgctxt "3b79fd1bea654fa08a964e9c9ec326b6"
 msgid "ཞེས་ སོ ། །"
