@@ -584,7 +584,7 @@ msgstr "As stated."
 
 msgctxt "ee569ec038f54ea1963d61ec029fa57f"
 msgid "ལུགས་ འདི་ ལ་␣ས་ གཞན་ དུ་ ན་"
-msgstr ""
+msgstr "Other than this system,"
 
 msgctxt "90f7010ac1094304a46c59e1759d0f1f"
 msgid "བདེ་གཤེགས་ བྱེད་པོ་␣ར་ ཐལ་བ་ དང་ །"
