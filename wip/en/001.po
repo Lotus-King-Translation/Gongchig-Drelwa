@@ -552,7 +552,7 @@ msgstr "Everything becomes acceptable upon it. "
 
 msgctxt "3aa7e517b01a4052b6c6716aabcf2bbf"
 msgid "སོགས་ དང༌ །"
-msgstr ""
+msgstr "And so on."
 
 msgctxt "9b90e7306e83430d8c036d34ea2df521"
 msgid "གང་ཞིག་ རྐྱེན་ ལ་ སོཌ་ དང །"
