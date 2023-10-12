@@ -1259,7 +1259,7 @@ msgstr ""
 
 msgctxt "1cfee4b4659e423d8c2be12723a2b42a"
 msgid "ཆོས་ ཀྱི་ དབང་ ནི་ བསྐུར་ གནས་ སུ ། །"
-msgstr ""
+msgstr "The empowerment of dharma is to the place of bestowal,"
 
 msgctxt "efccf86881a241d0ade8dbc22acb3bc4"
 msgid "འོག་མིན་ སྟུག་པོ་ ཉམས་ དགའ་བ་␣ར ། །"
