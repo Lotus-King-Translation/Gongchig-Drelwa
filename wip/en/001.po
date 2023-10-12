@@ -620,7 +620,7 @@ msgstr "the method of showing dharmas is one, as it accepts that."
 
 msgctxt "9f2c9237f8f94325bcdf89c3103ddfd0"
 msgid "སངས་རྒྱས་ ཞེས་པ་␣འི་ ཡི་གེ་ དང་"
-msgstr ""
+msgstr "The word so-called Buddha and "
 
 msgctxt "2687d3b13da7490aa62ca78ef961f784"
 msgid "གསུངས་ དབྱངས་ ཡན་ལག་ དྲུག་ བཅུ་ དང་"
