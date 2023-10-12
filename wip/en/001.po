@@ -556,7 +556,7 @@ msgstr "And so on."
 
 msgctxt "9b90e7306e83430d8c036d34ea2df521"
 msgid "གང་ཞིག་ རྐྱེན་ ལ་ སོཌ་ དང །"
-msgstr ""
+msgstr "The one which condition and so on."
 
 msgctxt "867b016b54a941c89a1ca9991cf9fa43"
 msgid "ལྗོན་པ་␣ས་ ཞུས་པ་␣འི་ མདོ་␣ར །"
