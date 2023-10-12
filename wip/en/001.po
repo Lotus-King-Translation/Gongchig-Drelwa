@@ -602,11 +602,11 @@ msgstr " All of the faults shown are irreversible."
 
 msgctxt "8517dd999cbc4cbf8dba3ea9326893c2"
 msgid "༈  ལྷན་␣༽༽  མཁས་པ་ གཞན་ གྱིས་ གདུལ་བྱ་ ཐ་དད་ ལ་"
-msgstr ""
+msgstr "Addendum: Other experts stated that for distinct disciples,"
 
 msgctxt "67babd5f19f847819c3fb1e041d3b704"
 msgid "ཐེག་པ་␣འང་ སྣ་ཚོགས་ སུ་ བསྟན་པ་␣ས་ ཐ་དད་ དོ་ ཞེས་ ཟེར་ རོ །"
-msgstr ""
+msgstr "different vehicles are also shown, therefore it is distinct."
 
 msgctxt "d47436febd2a4fe29bb115978d5c8508"
 msgid "འདི་␣ར་ ནི་ ཕྱོགས་ བཅུ་ དུས་གསུམ་ གྱི་ རྒྱལ་བ་ མ་ལུས་པ་ ཀུན་ གྱི་"
