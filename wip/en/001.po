@@ -477,7 +477,7 @@ msgstr ""
 
 msgctxt "8140bd0581e242679140e7daccf8f470"
 msgid "འགོད་པ་␣ས་ སངས་རྒྱས་ ཀྱི་ ཆོས་ ཏེ་"
-msgstr ""
+msgstr "Is the teaching of Buddha."
 
 msgctxt "05174412301c487bae98aea02d1ec694"
 msgid ""
