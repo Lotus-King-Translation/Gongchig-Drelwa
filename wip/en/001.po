@@ -453,7 +453,7 @@ msgstr ""
 
 msgctxt "8efc5d073ff84ce08af373d461eace42"
 msgid "བབ་ ཀྱི་ གནས་ལུགས་ བསྟན་ ཏེ །"
-msgstr ""
+msgstr "The actuality of state is shown,"
 
 msgctxt "bf62eb4a3e5e467d9ba5b363768de34a"
 msgid "གནས་ལུགས་ སམ་ རྟེན་འབྲེལ་ དེ་ དང་ གཅིག་ དང་ དུ་མ་␣ར་ གསུངས་ ཀྱང་"
