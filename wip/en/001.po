@@ -457,7 +457,7 @@ msgstr "The actuality of state is shown,"
 
 msgctxt "bf62eb4a3e5e467d9ba5b363768de34a"
 msgid "གནས་ལུགས་ སམ་ རྟེན་འབྲེལ་ དེ་ དང་ གཅིག་ དང་ དུ་མ་␣ར་ གསུངས་ ཀྱང་"
-msgstr ""
+msgstr "Though actuality or interdependence is said to be one and many."
 
 msgctxt "eefca07633c542498ea58349aefea9d7"
 msgid "རྒྱུ་འབྲས་ ཀྱི་ དབང་ དུ་ ན །"
