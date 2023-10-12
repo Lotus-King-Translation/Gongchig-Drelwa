@@ -1537,7 +1537,7 @@ msgstr ""
 
 msgctxt "a985315e15cb4492b20b8ab08c49b860"
 msgid "བདེན་ བཞི་␣ར་ བཀྲལ་ ཏེ་ ངེས་འབྱུང་ གི་ དབང་ དུ །"
-msgstr ""
+msgstr "By elucidating the four truths and with the power of renunciation,"
 
 msgctxt "cd9ba85a9ced4d5cad946eae5e5b687b"
 msgid "གང་ འབྱུང་ ན་ གང་ཟག་ གམ་ ཀུན་འབྱུང༌ །"
