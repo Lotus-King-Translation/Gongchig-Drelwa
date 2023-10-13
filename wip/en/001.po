@@ -628,7 +628,7 @@ msgstr "The sixty-melodious branch of speech and "
 
 msgctxt "9d6c901ee70f4086ae01887c7b7c70d9"
 msgid "ཆོས་ བྱང་ཕྱོགས་ སོ་ འདུན་ དང་"
-msgstr ""
+msgstr "The thirty-seven factors harmonious with enlightenment and "
 
 msgctxt "d025da28424946fbbdfbbe3200847936"
 msgid "སྐུ་ཆོས་ སྐུ་ དང་ གཟུགས་སྐུ་ མཚན་དཔེ་␣འི་ རྒྱན་པ་ དང་ བཞི་པོ་ དེ་"
