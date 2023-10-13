@@ -624,7 +624,7 @@ msgstr "The word so-called Buddha and "
 
 msgctxt "2687d3b13da7490aa62ca78ef961f784"
 msgid "གསུངས་ དབྱངས་ ཡན་ལག་ དྲུག་ བཅུ་ དང་"
-msgstr ""
+msgstr "The sixty-melodious branch of speech and "
 
 msgctxt "9d6c901ee70f4086ae01887c7b7c70d9"
 msgid "ཆོས་ བྱང་ཕྱོགས་ སོ་ འདུན་ དང་"
