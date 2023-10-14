@@ -776,7 +776,7 @@ msgid ""
 "སོ ། །"
 msgstr ""
 "The interdependence of the body, all the causes and conditions of faults as "
-"well as good qualities are remained there."
+"well as good qualities remained on that."
 
 msgctxt "472f31f2cd334ddaa957dd83776e650e"
 msgid "གང་ཟག་ ནི་ ཆོས་རྗེ་ ལྟ་བ་␣འོ །"
