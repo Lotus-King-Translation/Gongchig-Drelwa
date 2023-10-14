@@ -749,6 +749,8 @@ msgctxt "2b3c9ccea95c4211b9db4cf7b8ec98b4"
 msgid ""
 "གཉིས་པ་ སྟོང་ བཞིན་ རྒྱུ་འབྲས་ སུ་ འབྱུང་བ་ ཕྱག་རྒྱ་ ཆེན་པོ་␣འི་ དོན་ དང༌ །"
 msgstr ""
+"The second is empty and occurs in cause-and-effect, which is the meaning of "
+"the Great Mudra. "
 
 msgctxt "7d008e955b3740a4b04479ed5e226d96"
 msgid "ནང་ གི་ རྟེན་འབྲེལ་ ལ་␣ས །"
