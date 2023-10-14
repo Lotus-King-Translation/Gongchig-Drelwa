@@ -676,7 +676,7 @@ msgstr ""
 
 msgctxt "b6ab74eec63e470fbaecd1a984def697"
 msgid "འབྲས་བུ་ དང་ བཅས་པ་ སེམས་ཅན་ ཁོ་ན་␣འི་ དོན་ ཡིན་པ་␣ས་ སོ་␣༑"
-msgstr ""
+msgstr "Having the result is exclusively for sentient beings."
 
 msgctxt "b9584d003d3843bd9995970cc06f66b6"
 msgid "ལྷན་␣༽༽  ཁ་ཅིག་ ན་རེ །"
