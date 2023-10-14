@@ -787,6 +787,8 @@ msgid ""
 "༈  རྡོ་␣༽༽  འདི་␣ར་ ནི་ ཆོས་ཕུང་ བརྒྱད་ ཁྲི་ ཉོན་མོངས་ ཐམས་ཅད་ ཟད་པར་ "
 "སྤོང་བ་␣འི་ ཐབས་ ཡིན་པ་␣ས་"
 msgstr ""
+"Vajra: In this [system], the eighty-four thousand Dharma teachings are the "
+"method for overcoming all afflictions. "
 
 msgctxt "528f78feea0e416fbc8ee661cf0375d5"
 msgid "དེས་ན་ སངས་རྒྱས་ སྒྲུབ་པ་␣ར་ ཟག་པ་ བག་ཆགས་ དང་ བཅས་པ་ སྤོང་ དགོས་པ་"
