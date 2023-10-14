@@ -798,7 +798,7 @@ msgstr ""
 
 msgctxt "110dcdaeac854e798b40d8d0d97b1f86"
 msgid "དེ་␣འི་ ཕྱིར་ ཐབས་ གཅིག་ ཏུ་ ཤེས་ དགོས་ ཤིང༌ །"
-msgstr ""
+msgstr "Because of that, [one] must know it in one method."
 
 msgctxt "54b8894aaf044ea9b36d9cc7ec66158d"
 msgid "གལ་ཏེ་ གཅིག་ མ་ཚང་ ཡང་"
