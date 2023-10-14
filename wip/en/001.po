@@ -759,6 +759,8 @@ msgstr "From the inner interdependence,"
 msgctxt "6c05c8796b314dd4a1c31c51a797ead7"
 msgid "ཕྱི་ སྣོད་ དུ་ སྣང་བ་ དང་ བཅུད་ རྣམས་ རྒྱུ་ དེ་ལས་ འདི་ འབྱུང་བ་ དང༌ །"
 msgstr ""
+"This appearance of the outer container and the inner content emerge from "
+"that cause."
 
 msgctxt "b42c3db67dc64697bd26df7f5a9bc1fa"
 msgid "གསུམ་པ་ ཕྱི་␣འི་ དངོས་པོ་ བྱ་བ་ འདི་ དང་ འདི་ འགྲུབ་ ཚུལ་ ལོ ། །"
