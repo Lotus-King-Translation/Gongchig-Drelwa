@@ -700,7 +700,7 @@ msgstr "like by Santamati, the Lesser Vehicle [teachings],"
 
 msgctxt "4e9b12ec32854a5d8607d04f477f6817"
 msgid "གཟི་བརྗིད་ ཡོན་ཏན་ ལྟ་བུ་␣ས་ བསྙེན་གནས་ གཅིག་པུ་ དང་ །"
-msgstr ""
+msgstr "like by Guna­tejas, only precepts and "
 
 msgctxt "811850e3aad54286bffc18ff446e86a0"
 msgid "ལ་ལ་␣ར་ གསང་སྔགས་ ཁོ་ན་ སོ་སོ་␣ར་ རྟོགས་པ་␣འི་ ངེས་པ་ ཅན་ ཡིན་ ནོ ། །"
