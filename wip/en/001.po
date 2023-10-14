@@ -826,7 +826,7 @@ msgstr "Whatever the painting instruments are,"
 
 msgctxt "f393295d10e24aee81acb2a19bd25243"
 msgid "སྦྱིན་ དང་ ཚུལ་ཁྲིམས་ བརྗོད་ ལ་སོགས ། །"
-msgstr "It is said generosity, discipline, and so on "
+msgstr "said as generosity, discipline, and so on."
 
 msgctxt "c019233ff46d4da8ac64cc0284c098a8"
 msgid "རྣམ་པ་ ཀུན་ གྱི་ མཆོག་ལྡན་པ །"
