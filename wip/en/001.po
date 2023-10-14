@@ -650,7 +650,7 @@ msgstr "Kashyapa, Krakucchanda and "
 
 msgctxt "48943094de1b449496f84e17ca64c822"
 msgid "གསེར་ཐུབ་ དག་ ཀྱང་ ང་ ཡིན་ ཅེས །"
-msgstr ""
+msgstr "Kanakamuni are all me."
 
 msgctxt "818d7f38b7124ba9b6292df2c76a22a9"
 msgid "མཉམ་པ་ཉིད་ དུ་ མཉམ་ གྱུར་པ་␣ས །"
