@@ -667,7 +667,7 @@ msgstr ""
 
 msgctxt "6dd5e0c6d5004290bf7b2cafc0ceb78d"
 msgid "བར་ དུ་ ལམ་ བསྒྲོད་ ཚུལ །"
-msgstr ""
+msgstr "The middle is the way of traversing the path. "
 
 msgctxt "d275441655f840d5b83adbb8419eaf94"
 msgid "ཐ་མ་ སངས་རྒྱས་ ནས་ ཆོས་འཁོར་ བསྐོར་བ་ དང་"
