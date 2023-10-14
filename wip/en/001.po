@@ -729,6 +729,7 @@ msgid ""
 "དུས་གསུམ་ གྱི་ སངས་རྒྱས་ ཐམས་ཅད་ ཀྱིས་ མངོན་དུ་ མཛད་པ་␣འི་ ཆོས་ ཐམས་ཅད་ "
 "རྟེན་འབྲེལ་ ཏེ །"
 msgstr ""
+"All phenomena actualized by the buddhas of three times are interdependent."
 
 msgctxt "24f10f63b0a6455190d10917aeef1a7e"
 msgid "དེ་␣འང་ ཚིག་དོན་ གཉིས་"
