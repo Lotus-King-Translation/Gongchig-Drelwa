@@ -834,7 +834,7 @@ msgstr "Endowed with excellence in all aspects,"
 
 msgctxt "5c932eccca894da89ea69e4487a89b2e"
 msgid "སྟོང་པ་ཉིད་ ནི་ གཟུགས་ སུ་ བརྗོད །"
-msgstr "Emptiness is expressed of forms,"
+msgstr "Emptiness is expressed in forms."
 
 msgctxt "f277f011bcfa44f18c5b28d574e07449"
 msgid "ཅེས་ དང༌ །"
