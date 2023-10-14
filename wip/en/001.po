@@ -793,6 +793,8 @@ msgstr ""
 msgctxt "528f78feea0e416fbc8ee661cf0375d5"
 msgid "དེས་ན་ སངས་རྒྱས་ སྒྲུབ་པ་␣ར་ ཟག་པ་ བག་ཆགས་ དང་ བཅས་པ་ སྤོང་ དགོས་པ་"
 msgstr ""
+"Thus, to accomplish buddhahood, [one] must abandon it together with the "
+"containments of karmic imprints."
 
 msgctxt "110dcdaeac854e798b40d8d0d97b1f86"
 msgid "དེ་␣འི་ ཕྱིར་ ཐབས་ གཅིག་ ཏུ་ ཤེས་ དགོས་ ཤིང༌ །"
