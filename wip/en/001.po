@@ -638,7 +638,7 @@ msgstr ""
 
 msgctxt "9b6a4a98315f46aab0966f6e902789a2"
 msgid "སངས་རྒྱས་ ཐམས་ཅད་ ལ་ མཚུངས་པ་␣ས་ བསྟན་པ་ གཅིག་ སྟེ་"
-msgstr ""
+msgstr "are similar to all Buddhas, therefore teaching is one."
 
 msgctxt "0df24270d1fe4f48a972143879b9187b"
 msgid "ལང་ཀ་␣ར་ གཤེགས་པ་ ལ་␣ས །"
