@@ -691,7 +691,7 @@ msgstr ""
 msgctxt "ee78f774c6c54828bebdd59c59064b98"
 msgid "འཇིག་རྟེན་ ལ་ལ་␣ར་ ཀུན་ ཏུ་ གཟིགས་ ལྟ་བུ་␣ས་ ཐེག་ཆེན་ འབའ་ཞིག  །"
 msgstr ""
-"In some worlds, like Samantadarsin [who will] only [give] Great Vehicle "
+"In some worlds, like Samantadarsin [who will] only [give] the Great Vehicle "
 "[teachings],"
 
 msgctxt "72c1484aa77f47e4947698e57afd6f18"
