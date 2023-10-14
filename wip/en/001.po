@@ -685,6 +685,8 @@ msgstr "Addendum: Some said,"
 msgctxt "1aa9be0c8b1c4d1d90bede6f840becca"
 msgid "སངས་རྒྱས་ ཀྱི་ ཆོས་ ཐེག་པ་ དང་ གྲུབ་མཐའ་ ཐ་དད་ ངེས་པ་ ཅན་ ཏེ་"
 msgstr ""
+"The dharma, vehicle, and philosophical system of Buddha are definitive "
+"different, because"
 
 msgctxt "ee78f774c6c54828bebdd59c59064b98"
 msgid "འཇིག་རྟེན་ ལ་ལ་␣ར་ ཀུན་ ཏུ་ གཟིགས་ ལྟ་བུ་␣ས་ ཐེག་ཆེན་ འབའ་ཞིག  །"
