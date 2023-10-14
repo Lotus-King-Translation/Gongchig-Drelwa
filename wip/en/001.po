@@ -662,7 +662,8 @@ msgstr "I have explained to the sons of the Victorious One."
 
 msgctxt "62bc2f95a72c46fcb01708f1a350fe9e"
 msgid "ཅེས་པ་␣ས་ སངས་རྒྱས་ རྣམས་ དང་པོ་ ཐུགས་བསྐྱེད་ ཚུལ །"
-msgstr "The way of buddhas' first arousing of mind for enlightenment."
+msgstr ""
+"As the buddhas, firstly, the way of arousing of mind for enlightenment."
 
 msgctxt "6dd5e0c6d5004290bf7b2cafc0ceb78d"
 msgid "བར་ དུ་ ལམ་ བསྒྲོད་ ཚུལ །"
