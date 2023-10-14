@@ -802,7 +802,7 @@ msgstr "Because of that, [one] must know it in one method."
 
 msgctxt "54b8894aaf044ea9b36d9cc7ec66158d"
 msgid "གལ་ཏེ་ གཅིག་ མ་ཚང་ ཡང་"
-msgstr ""
+msgstr "Even if one is incomplete."
 
 msgctxt "2da5c0aff29048a3ab96585ea3475812"
 msgid "དེ་ ཡི་ ངོ་སྐལ་ གྱི་ སྤང་བྱ་ མི་ སྤོང་བ་␣ས་"
