@@ -818,7 +818,7 @@ msgstr ""
 
 msgctxt "d76bbdbed51a413a81966c530aec8f17"
 msgid "ཇི་ལྟར་ རི་མོ་ བྲི་ བྱེད་པ་ སོགས་ ནས །"
-msgstr ""
+msgstr "From, 'Just as a painting is made' and so on."
 
 msgctxt "aa95a04249554c1387fb4578b3e0b950"
 msgid "དེ་ རྣམས་ འབྲི་ བྱེད་ གང་ཡིན་པ །"
