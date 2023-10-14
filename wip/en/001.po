@@ -754,7 +754,7 @@ msgstr ""
 
 msgctxt "7d008e955b3740a4b04479ed5e226d96"
 msgid "ནང་ གི་ རྟེན་འབྲེལ་ ལ་␣ས །"
-msgstr ""
+msgstr "From the inner interdependence,"
 
 msgctxt "6c05c8796b314dd4a1c31c51a797ead7"
 msgid "ཕྱི་ སྣོད་ དུ་ སྣང་བ་ དང་ བཅུད་ རྣམས་ རྒྱུ་ དེ་ལས་ འདི་ འབྱུང་བ་ དང༌ །"
