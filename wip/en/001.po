@@ -502,7 +502,7 @@ msgid ""
 "སྐྱོན་ སྤོང་བ་ དང་ ཡོན་ཏན་ སྒྲུབ་པ་␣འི་ ཚུལ་ ཐམས་ཅད་ མི་ གཟིགས་པ་␣འམ་ "
 "མངོན་དུ་ མ་ མཛད་པ་ གང་ཡང་ མེད་པ་␣ས་"
 msgstr ""
-"That is because of not observing or manifesting any of the ways of "
+"That is because of not observing or actualizing any of the ways of "
 "abandoning faults and accomplishing good qualities."
 
 msgctxt "24fc6b3ef12048109d467c606d14bd69"
