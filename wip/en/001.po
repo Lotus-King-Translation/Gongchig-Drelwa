@@ -738,6 +738,8 @@ msgstr "That too, the words and their meaning, two."
 msgctxt "bf3d2a8ca5f941e4a99c951877208fe4"
 msgid "དོན་ ལ་␣འང་ ཕྱི་ ནང་ གསང་ གསུམ་ ཐུགས་ སུ་ ཆུད་ མཁན་ དང་ བཞི །"
 msgstr ""
+"The meaning also includes the one who understands the inner, outer, and "
+"secret [meanings] and four. "
 
 msgctxt "861a0dcbb630416eb5e95f47253e0270"
 msgid "དང་པོ་ ལ་ རླུང་ བརྟེན་ དེ་ ལ་ ཆུ་ སོགས་ དང་ །"
