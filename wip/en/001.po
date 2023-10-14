@@ -733,7 +733,7 @@ msgstr ""
 
 msgctxt "24f10f63b0a6455190d10917aeef1a7e"
 msgid "དེ་␣འང་ ཚིག་དོན་ གཉིས་"
-msgstr ""
+msgstr "That too, the words and their meaning, two."
 
 msgctxt "bf3d2a8ca5f941e4a99c951877208fe4"
 msgid "དོན་ ལ་␣འང་ ཕྱི་ ནང་ གསང་ གསུམ་ ཐུགས་ སུ་ ཆུད་ མཁན་ དང་ བཞི །"
