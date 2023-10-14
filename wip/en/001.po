@@ -838,7 +838,7 @@ msgstr "Emptiness is expressed in forms."
 
 msgctxt "f277f011bcfa44f18c5b28d574e07449"
 msgid "ཅེས་ དང༌ །"
-msgstr ""
+msgstr "and."
 
 msgctxt "952cc6802c4d4b999cf7eec39e475992"
 msgid "ཇི་སྲིད་ དགེ་བ་␣འི་ རྩ་བ་ དེ་ ནི་ སོགས་ ཀྱིས་"
