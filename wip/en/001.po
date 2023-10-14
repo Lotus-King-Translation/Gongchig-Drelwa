@@ -830,7 +830,7 @@ msgstr "generosity, discipline, and so on are said. "
 
 msgctxt "c019233ff46d4da8ac64cc0284c098a8"
 msgid "རྣམ་པ་ ཀུན་ གྱི་ མཆོག་ལྡན་པ །"
-msgstr ""
+msgstr "Endowed with excellence in all aspects,"
 
 msgctxt "5c932eccca894da89ea69e4487a89b2e"
 msgid "སྟོང་པ་ཉིད་ ནི་ གཟུགས་ སུ་ བརྗོད །"
