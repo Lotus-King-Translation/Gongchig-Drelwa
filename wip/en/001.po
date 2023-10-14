@@ -768,7 +768,7 @@ msgstr "The third is the action of the outer thing and how it was produced."
 
 msgctxt "994d634e540c4f93a8182f8f1eb97036"
 msgid "གསུམ་པ་ གསང་བ་ རང་བཞིན་ གྱི་ བསམ་པ་"
-msgstr ""
+msgstr "The third is the secret nature of the mind. "
 
 msgctxt "307a1684fa484c00aef18074c1e04bd1"
 msgid ""
