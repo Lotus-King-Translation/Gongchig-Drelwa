@@ -658,7 +658,7 @@ msgstr "Since [everyone] has become same equally,"
 
 msgctxt "fd0dd0a1f0fe4e55ba547234048f935c"
 msgid "རྒྱལ་བ་␣འི་ སྲས་ ལ་ ངས་ བཤད་ དོ །"
-msgstr ""
+msgstr "I have explained to the sons of the victorious one."
 
 msgctxt "62bc2f95a72c46fcb01708f1a350fe9e"
 msgid "ཅེས་པ་␣ས་ སངས་རྒྱས་ རྣམས་ དང་པོ་ ཐུགས་བསྐྱེད་ ཚུལ །"
