@@ -654,7 +654,7 @@ msgstr "Kanakamuni are all me."
 
 msgctxt "818d7f38b7124ba9b6292df2c76a22a9"
 msgid "མཉམ་པ་ཉིད་ དུ་ མཉམ་ གྱུར་པ་␣ས །"
-msgstr ""
+msgstr "Since [everyone] has become same equally,"
 
 msgctxt "fd0dd0a1f0fe4e55ba547234048f935c"
 msgid "རྒྱལ་བ་␣འི་ སྲས་ ལ་ ངས་ བཤད་ དོ །"
