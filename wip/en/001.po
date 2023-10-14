@@ -842,7 +842,7 @@ msgstr "and."
 
 msgctxt "952cc6802c4d4b999cf7eec39e475992"
 msgid "ཇི་སྲིད་ དགེ་བ་␣འི་ རྩ་བ་ དེ་ ནི་ སོགས་ ཀྱིས་"
-msgstr ""
+msgstr "'As long as accumulate roots of virtue'"
 
 msgctxt "7e415c323ade4c688b4b8291973cf5b7"
 msgid "བོར་ རྒྱུ་ བཞག་ རྒྱུ་ རྡུལ་ ཙམ་ མེད་"
