@@ -775,6 +775,8 @@ msgid ""
 "ལུས་ ཀྱི་ རྟེན་འབྲེལ་ སྐྱོན་ཡོན་ གྱི་ རྒྱུ་རྐྱེན་ ཐམས་ཅད་ དེ་␣ར་ གནས་པ་␣ས་ "
 "སོ ། །"
 msgstr ""
+"The interdependence of the body, all the causes and conditions of faults as "
+"well as good qualities are abided there."
 
 msgctxt "472f31f2cd334ddaa957dd83776e650e"
 msgid "གང་ཟག་ ནི་ ཆོས་རྗེ་ ལྟ་བ་␣འོ །"
