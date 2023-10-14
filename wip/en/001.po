@@ -646,7 +646,7 @@ msgstr "According to the Descent to Lanka Sutra,"
 
 msgctxt "d18dbad99242482eb5b6dcc8053beec9"
 msgid "འོད་སྲུང་ ལོག་པ་␣ར་ དད་ སེལ་ དང༌ །"
-msgstr ""
+msgstr "Kashyapa, Krakucchanda and "
 
 msgctxt "48943094de1b449496f84e17ca64c822"
 msgid "གསེར་ཐུབ་ དག་ ཀྱང་ ང་ ཡིན་ ཅེས །"
