@@ -642,7 +642,7 @@ msgstr "are similar to all Buddhas, therefore teaching is one."
 
 msgctxt "0df24270d1fe4f48a972143879b9187b"
 msgid "ལང་ཀ་␣ར་ གཤེགས་པ་ ལ་␣ས །"
-msgstr "According to the Descent to Laṅka Sutra,"
+msgstr "According to the Descent to Lanka Sutra,"
 
 msgctxt "d18dbad99242482eb5b6dcc8053beec9"
 msgid "འོད་སྲུང་ ལོག་པ་␣ར་ དད་ སེལ་ དང༌ །"
