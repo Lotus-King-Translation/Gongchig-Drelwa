@@ -743,7 +743,7 @@ msgstr ""
 
 msgctxt "861a0dcbb630416eb5e95f47253e0270"
 msgid "དང་པོ་ ལ་ རླུང་ བརྟེན་ དེ་ ལ་ ཆུ་ སོགས་ དང་ །"
-msgstr ""
+msgstr "The first is wind support, followed by water and others, "
 
 msgctxt "2b3c9ccea95c4211b9db4cf7b8ec98b4"
 msgid ""
