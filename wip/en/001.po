@@ -672,6 +672,7 @@ msgstr "The middle is the way of traversing the path. "
 msgctxt "d275441655f840d5b83adbb8419eaf94"
 msgid "ཐ་མ་ སངས་རྒྱས་ ནས་ ཆོས་འཁོར་ བསྐོར་བ་ དང་"
 msgstr ""
+"The final is the turning of the dharma wheel after attaining buddhahood."
 
 msgctxt "b6ab74eec63e470fbaecd1a984def697"
 msgid "འབྲས་བུ་ དང་ བཅས་པ་ སེམས་ཅན་ ཁོ་ན་␣འི་ དོན་ ཡིན་པ་␣ས་ སོ་␣༑"
