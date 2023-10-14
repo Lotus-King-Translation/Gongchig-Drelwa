@@ -764,7 +764,7 @@ msgstr ""
 
 msgctxt "b42c3db67dc64697bd26df7f5a9bc1fa"
 msgid "གསུམ་པ་ ཕྱི་␣འི་ དངོས་པོ་ བྱ་བ་ འདི་ དང་ འདི་ འགྲུབ་ ཚུལ་ ལོ ། །"
-msgstr ""
+msgstr "The third is the action of the outer thing and how it was produced."
 
 msgctxt "994d634e540c4f93a8182f8f1eb97036"
 msgid "གསུམ་པ་ གསང་བ་ རང་བཞིན་ གྱི་ བསམ་པ་"
