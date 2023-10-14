@@ -717,7 +717,7 @@ msgid ""
 "འདི་␣ར་ ནི་ སངས་རྒྱས་ གྱི་ ཐེག་པ་ དང་ གྲུབ་མཐའ་ ཡི་ ཆོས་ ཐམས་ཅད་ རྟེན་འབྲེལ་"
 " འབའ་ཞིག་ ཡིན་ ཏེ །"
 msgstr ""
-"In this [system], interdependence is the vehicle and all philosophical "
+"In this [system], only interdependence is the vehicle and all philosophical "
 "dharmas of Buddha."
 
 msgctxt "c9b6c4f5aa0e4b0dbb33df53920b9cc5"
