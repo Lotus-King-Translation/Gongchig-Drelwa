@@ -822,7 +822,7 @@ msgstr "From, 'Just as a painting is made' and so on."
 
 msgctxt "aa95a04249554c1387fb4578b3e0b950"
 msgid "དེ་ རྣམས་ འབྲི་ བྱེད་ གང་ཡིན་པ །"
-msgstr ""
+msgstr "Whatever the painting instruments are,"
 
 msgctxt "f393295d10e24aee81acb2a19bd25243"
 msgid "སྦྱིན་ དང་ ཚུལ་ཁྲིམས་ བརྗོད་ ལ་སོགས ། །"
