@@ -806,7 +806,7 @@ msgstr "Even if one is incomplete."
 
 msgctxt "2da5c0aff29048a3ab96585ea3475812"
 msgid "དེ་ ཡི་ ངོ་སྐལ་ གྱི་ སྤང་བྱ་ མི་ སྤོང་བ་␣ས་"
-msgstr ""
+msgstr "Its corresponding object of abandonment will not be abandoned."
 
 msgctxt "f1596e071fe14ca2a432fe383dcadf75"
 msgid "མཐར་ཐུག་ གི་ བྱང་ཆུབ་ མི་ ཐོབ་ སྟེ་"
