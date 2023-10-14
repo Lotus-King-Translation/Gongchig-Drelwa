@@ -810,7 +810,7 @@ msgstr "Its corresponding object of abandonment will not be abandoned."
 
 msgctxt "f1596e071fe14ca2a432fe383dcadf75"
 msgid "མཐར་ཐུག་ གི་ བྱང་ཆུབ་ མི་ ཐོབ་ སྟེ་"
-msgstr ""
+msgstr "Thus, ultimate enlightenment will not be attained. "
 
 msgctxt "28719e3145944b0fac0859f3a3707fef"
 msgid "གཙུག་ ན་ རིན་པོ་ཆེ་␣འི་ མདོ་␣འི་ དོན་ རྒྱུད་ བླ་␣ར་"
