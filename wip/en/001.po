@@ -881,6 +881,7 @@ msgstr ""
 msgctxt "91785dc6ca1549f2a1e16e987e32d2ce"
 msgid "སྙིང་རྗེ་ པད་དཀར་ གསང་བ་ བསམ་ མི་ ཁྱབ་པ་ སོགས་ ལ་␣ས་ དང"
 msgstr ""
+"According to the Compassionate White Lotus, Inconceivable Secret and others,"
 
 msgctxt "2827c39836594a8194f48bb12ed1f875"
 msgid "རྣམ་སྣང་ མངོན་བྱང་ ལ་␣ས་ ཀྱང །"
