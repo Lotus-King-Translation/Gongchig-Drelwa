@@ -875,6 +875,8 @@ msgid ""
 "བརྒྱད་ ཁྲི་ བཞི་ སྟོང་པོ་ ཉོན་མོངས་ བརྒྱད་ ཁྲི་ བཞི་ སྟོང་ གི་ གཉེན་པོ་␣ར་ "
 "བཞག་པ་"
 msgstr ""
+"The eighty-four thousand Dharmas serve as antidotes to the eighty-four "
+"thousand afflictions."
 
 msgctxt "91785dc6ca1549f2a1e16e987e32d2ce"
 msgid "སྙིང་རྗེ་ པད་དཀར་ གསང་བ་ བསམ་ མི་ ཁྱབ་པ་ སོགས་ ལ་␣ས་ དང"
