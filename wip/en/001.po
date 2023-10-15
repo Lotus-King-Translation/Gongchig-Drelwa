@@ -897,7 +897,7 @@ msgstr "The heap of eighty-four thousand [Dharmas] are said."
 
 msgctxt "f95520cbb53341ffbf726d8df0daa463"
 msgid "མཛོད་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Treasury of Abhidharma:"
 
 msgctxt "c770d97723ce409e910662586a43941a"
 msgid "སྤྱོད་པ་ རྣམས་ ཀྱི་ གཉེན་པོ་ ནི ། །"
