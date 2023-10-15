@@ -917,7 +917,7 @@ msgstr "Some said:"
 
 msgctxt "b70e94966fb94aca9f19a5a222e28017"
 msgid "སྡེ་སྣོད་ རྒྱུད་སྡེ་ གང་རུང་ རེ་ ཉམས་ སུ་ བླངས་ ན་"
-msgstr ""
+msgstr "If any of the Pitakas or tantra sections is practiced,"
 
 msgctxt "b092d3a9f1a848c29bca17f0381a8905"
 msgid "མྱང་འདས་ ཐོབ་པ་␣ས་ གང་ མོས་ ཀྱི་ ལམ་ ཡིན་ ཅེས་ ཟེར་ རོ །"
