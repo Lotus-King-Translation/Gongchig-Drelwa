@@ -889,7 +889,7 @@ msgstr "Also from Vairocana Sambodhi:"
 
 msgctxt "e00fc80f3c1f47a59428edf198279585"
 msgid "ཉོན་མོངས་ རྣམས་ ཀྱི་ གཉེན་པོ་␣ར་ ནི ། །"
-msgstr ""
+msgstr "To the antidotes for all afflictions,"
 
 msgctxt "f4406e6518514fde9fc6c2902b294f4f"
 msgid "ཕུང་པོ་ བརྒྱད་ ཁྲི་ བཞི་ སྟོང་ གསུངས །"
