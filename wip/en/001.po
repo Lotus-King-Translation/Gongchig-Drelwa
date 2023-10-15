@@ -846,7 +846,7 @@ msgstr "As long as accumulates roots of virtue from it."
 
 msgctxt "7e415c323ade4c688b4b8291973cf5b7"
 msgid "བོར་ རྒྱུ་ བཞག་ རྒྱུ་ རྡུལ་ ཙམ་ མེད་"
-msgstr ""
+msgstr "There is nothing to discard or keep, not even a particle."
 
 msgctxt "2b00b870f58549a59a187c916217652f"
 msgid "ཐམས་ཅད་ ཉམས་ སུ་ ལེན་ དགོས་ སོ །"
