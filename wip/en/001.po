@@ -863,6 +863,8 @@ msgstr "A dharma heap is [equivalent to] an ox's back pack and "
 msgctxt "ce7d26c635d14034bd4b893f608e0139"
 msgid "བསྟན་བཅོས་ ཚད་ དང་ ཕུང་པོ་ སོགས་ གཏམ་ རེ་ ཚང་བ་ སོགས་ འདོད་ དོ །"
 msgstr ""
+"[They] accept that the size of a treatise, heap, and others is equivalent to"
+" each whole speech."
 
 msgctxt "90f7adbcd145401fac531fc835f83b78"
 msgid "འདི་␣ར་ ནི་"
