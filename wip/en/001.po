@@ -850,7 +850,7 @@ msgstr "There is nothing to discard or keep, not even a particle."
 
 msgctxt "2b00b870f58549a59a187c916217652f"
 msgid "ཐམས་ཅད་ ཉམས་ སུ་ ལེན་ དགོས་ སོ །"
-msgstr ""
+msgstr "All of this must be practiced."
 
 msgctxt "041c64fe69dc4bf682b12fb7b9dbaa08"
 msgid "༈  ལྷན་␣༽༽  ཁ་ཅིག་ ན་རེ ། །"
