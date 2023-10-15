@@ -868,7 +868,7 @@ msgstr ""
 
 msgctxt "90f7adbcd145401fac531fc835f83b78"
 msgid "འདི་␣ར་ ནི་"
-msgstr ""
+msgstr "In this [system],"
 
 msgctxt "85cbe3ce04c34a8a944ebfc960d31ccf"
 msgid ""
