@@ -901,7 +901,7 @@ msgstr "According to the Treasury of Abhidharma:"
 
 msgctxt "c770d97723ce409e910662586a43941a"
 msgid "སྤྱོད་པ་ རྣམས་ ཀྱི་ གཉེན་པོ་ ནི ། །"
-msgstr ""
+msgstr "As the antidotes of all conducts,"
 
 msgctxt "738f755f660f41939d98e5980033cc44"
 msgid "ཆོས་ ཀྱི་ ཕུང་བོ་ མཐུན་པ་␣ར་ གསུངས །"
