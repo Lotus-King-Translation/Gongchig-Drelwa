@@ -854,7 +854,7 @@ msgstr "All of this must be practiced."
 
 msgctxt "041c64fe69dc4bf682b12fb7b9dbaa08"
 msgid "༈  ལྷན་␣༽༽  ཁ་ཅིག་ ན་རེ ། །"
-msgstr ""
+msgstr "Addendum: Some said,"
 
 msgctxt "da2eb3221098461488f693d2d8c34ef9"
 msgid "ཆོས་ཕུང་ ནི་ བ་གླང་ གི་ རྒྱབ་ཁལ་ དང་"
