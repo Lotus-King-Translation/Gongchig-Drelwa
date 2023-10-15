@@ -885,7 +885,7 @@ msgstr ""
 
 msgctxt "2827c39836594a8194f48bb12ed1f875"
 msgid "རྣམ་སྣང་ མངོན་བྱང་ ལ་␣ས་ ཀྱང །"
-msgstr ""
+msgstr "Also from Vairocana Sambodhi:"
 
 msgctxt "e00fc80f3c1f47a59428edf198279585"
 msgid "ཉོན་མོངས་ རྣམས་ ཀྱི་ གཉེན་པོ་␣ར་ ནི ། །"
