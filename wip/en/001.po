@@ -905,7 +905,7 @@ msgstr "As the antidotes to all conducts,"
 
 msgctxt "738f755f660f41939d98e5980033cc44"
 msgid "ཆོས་ ཀྱི་ ཕུང་བོ་ མཐུན་པ་␣ར་ གསུངས །"
-msgstr ""
+msgstr "The heap of Dharmas are taught concordantly."
 
 msgctxt "cb8d753a958949ee9a1e5ab99860db5d"
 msgid "ཞེས་ སོ །"
