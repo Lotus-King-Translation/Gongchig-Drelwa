@@ -858,7 +858,7 @@ msgstr "Addendum: Some said,"
 
 msgctxt "da2eb3221098461488f693d2d8c34ef9"
 msgid "ཆོས་ཕུང་ ནི་ བ་གླང་ གི་ རྒྱབ་ཁལ་ དང་"
-msgstr "A dharma heap is equivalent to an ox's back pack and "
+msgstr "A dharma heap is [equivalent to] an ox's back pack and "
 
 msgctxt "ce7d26c635d14034bd4b893f608e0139"
 msgid "བསྟན་བཅོས་ ཚད་ དང་ ཕུང་པོ་ སོགས་ གཏམ་ རེ་ ཚང་བ་ སོགས་ འདོད་ དོ །"
