@@ -909,7 +909,7 @@ msgstr "The heaps of Dharmas are taught concordantly."
 
 msgctxt "cb8d753a958949ee9a1e5ab99860db5d"
 msgid "ཞེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "9df07e8484aa4e7697cbf4db8d0ed8c1"
 msgid "ཁ་ཅིག་ ན་རེ །"
