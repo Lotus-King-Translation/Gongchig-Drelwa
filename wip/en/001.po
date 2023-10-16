@@ -1054,7 +1054,7 @@ msgstr ""
 
 msgctxt "f01f6aadabef470cab5ff2168c92c692"
 msgid "རིགས་ཅན་ གསུམ་པོ་ ཐ་དད་ ལ་ བསྐོར་བ་ ཡིན་ ཟེར་ རོ །"
-msgstr ""
+msgstr "turned for the three distinct types of disciples. "
 
 msgctxt "9b3b8e7a4c4b43a19c1c58affa241332"
 msgid "འདི་␣ར་ རང་ བཞེད་ ནི་"
