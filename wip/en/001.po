@@ -1058,7 +1058,7 @@ msgstr "turned for the three distinct types of disciples. "
 
 msgctxt "9b3b8e7a4c4b43a19c1c58affa241332"
 msgid "འདི་␣ར་ རང་ བཞེད་ ནི་"
-msgstr ""
+msgstr "In this [system], our acceptance is"
 
 msgctxt "78db526d15cc4c839eaa4018c1959eff"
 msgid "ཆོས་འཁོར་ རྣམ་པ་ གསུམ་པོ་"
