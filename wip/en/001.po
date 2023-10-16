@@ -1005,7 +1005,7 @@ msgstr "The next two are the sutra sections of bodhisatva."
 
 msgctxt "416218f25df743fe886f26e160dfdcee"
 msgid "ཐ་མ་ གཅིག་ ནི་ གཉིས་ཀ་␣འི་ མངོན་པ་␣འོ །"
-msgstr ""
+msgstr "The last one is the abhidharma [piṭaka] of both."
 
 msgctxt "fc4e4664f29b4e3f909a4c2aac68af8a"
 msgid "ལྷན་␣༽༽་␣མཁས་པ་ ལ་ལ་␣ས་"
