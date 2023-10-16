@@ -935,7 +935,7 @@ msgstr "These must be complete in a person."
 
 msgctxt "f3cdae1a20f947ea91350ecf74797503"
 msgid "བསླབ་ གསུམ་ གྱི་ མདོ་␣ར །"
-msgstr ""
+msgstr "According to The Sutra on the Threefold Training,"
 
 msgctxt "800b555135d742929684af7183986e59"
 msgid "དགེ་སློང་ དག་ ཚུལ་ཁྲིམས་ ལ་ གནས་ ན་ ཏིང་འཛིན་ སྐྱེ་བ་␣ར་ འགྱུར་ རོ །"
