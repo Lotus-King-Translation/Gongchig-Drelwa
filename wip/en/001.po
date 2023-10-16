@@ -1085,6 +1085,8 @@ msgid ""
 "བར་ དུ་ བདེན་ བཞི་ དེ་ཉིད་ སོགས་ གཟུགས་ ནས་ རྣམ་མཁྱེན་ བར་ སྤྲོས་བྲལ་ དུ་ "
 "བསྟན་པ་"
 msgstr ""
+"In the middle, [he] said that the four truths, as well as from form to "
+"omniscience, are free of elaboration."
 
 msgctxt "d8a3804491fd4369ab057d56a86a5cf7"
 msgid "མཚན་ཉིད་ མེད་པ་␣ར་ མངོན་པར་ རྟོགས་པ་␣འི་ ཤེས་རབ་ སྐྱེས་ ཏེ་"
