@@ -957,7 +957,7 @@ msgstr "And"
 
 msgctxt "f8989693324148b0b38de4ecb4f08098"
 msgid "དེ་ ལ་ བྱེ་བྲག་ སྨྲ་བ་ གྲག་ ཅེས་ སོགས་ ཀྱི་ གསལ་ ལོ །"
-msgstr ""
+msgstr "To this, Vaibhashika and others have made clear."
 
 msgctxt "1f4c800fc9cf40d5947d8d16ea18f4fe"
 msgid "༈  ལྷན་␣༽༽  གཞན་དག་ ན་རེ །"
