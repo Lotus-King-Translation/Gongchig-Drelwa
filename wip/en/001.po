@@ -974,6 +974,8 @@ msgid ""
 "འདི་␣ར་ ནི །  སྡེ་སྣོད་ རེ་རེ་ ལ་ ཡང་ གསུང་རབ་ བཅུ་གཉིས་པོ་ འདི་རིགས་ སུ་ "
 "ཚང་ སྟེ་ ཕལ་ཆེན་ ལྟ་བུ་␣འོ ། །"
 msgstr ""
+"In this [system], each pikata completes the twelve branches of the Excellent"
+" Speech like Avatamsaka [Sutra]."
 
 msgctxt "1c74da5b8b3c410cb1c2403a2cff470e"
 msgid "མདོ་སྡེ་ དབྱངས་ བསྙད་ ལུང་བསྟན་ ཚིགས་བཅད་ ཆེད་བརྗོད་"
