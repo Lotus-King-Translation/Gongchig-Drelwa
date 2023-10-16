@@ -1096,7 +1096,7 @@ msgstr ""
 
 msgctxt "07ddfc3eec384190b9bfd4b6252ab8fb"
 msgid "ས་␣ས་ རྒྱས་ ཀྱིས་ ང་ ཡང་ དགྲ་བཅོམ་པ་ ཡིན་ ལ་"
-msgstr ""
+msgstr "Buddha said that I, too, am an arhat."
 
 msgctxt "ce69e0417edc4805a146734a9324b8a0"
 msgid "ཁྱེད་ རྣམས་ ཀྱང་ དགྲ་བཅོམ་ ཡིན་ གསུངས་པ་␣ས་ ཤིན་ཏུ་ སྨིན་པ་␣ར་ བྱས །"
