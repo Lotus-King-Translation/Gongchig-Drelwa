@@ -931,7 +931,7 @@ msgstr ""
 
 msgctxt "ae979817e994454ba18192b19b943edb"
 msgid "གང་ཟག་ གཅིག་ ལ་ ཚང་ དགོས་ ཏེ་"
-msgstr ""
+msgstr "These must be complete in a person."
 
 msgctxt "f3cdae1a20f947ea91350ecf74797503"
 msgid "བསླབ་ གསུམ་ གྱི་ མདོ་␣ར །"
