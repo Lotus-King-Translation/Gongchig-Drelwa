@@ -979,7 +979,7 @@ msgstr ""
 
 msgctxt "1c74da5b8b3c410cb1c2403a2cff470e"
 msgid "མདོ་སྡེ་ དབྱངས་ བསྙད་ ལུང་བསྟན་ ཚིགས་བཅད་ ཆེད་བརྗོད་"
-msgstr ""
+msgstr "In the sutras, prophesy is expressed in harmonious verse."
 
 msgctxt "132502a2e1a9492dae8a2d310798d2d4"
 msgid "གླེང་ གཞི་ རྟོགས་བརྗོད་ དེ་ལྟར་ བྱུང་"
