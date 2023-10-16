@@ -1027,6 +1027,8 @@ msgid ""
 "འདི་␣ར་ སྡེ་སྣོད་ སྔ་མ་␣འི་ དེ་བཞིན་ དུ་ སྡེ་སྣོད་ འདུལ་བ་ ལྟ་བུ་ གཅིག་ "
 "ལ་␣འང་ སྡེ་སྣོད་ གསུམ་ ཀ་ འདུས་ ཏེ་ དང༌པོ་"
 msgstr ""
+"In this [system], preceding pitaka, such as the vinaya pitaka, is an "
+"assemblage of all three pitakas. "
 
 msgctxt "b165f6afec684d1cad22be57c31e205b"
 msgid ""
