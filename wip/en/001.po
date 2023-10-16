@@ -1091,6 +1091,8 @@ msgstr ""
 msgctxt "d8a3804491fd4369ab057d56a86a5cf7"
 msgid "མཚན་ཉིད་ མེད་པ་␣ར་ མངོན་པར་ རྟོགས་པ་␣འི་ ཤེས་རབ་ སྐྱེས་ ཏེ་"
 msgstr ""
+"After arising the wisdom of actualized realizations in the lack of defining "
+"characteristics."
 
 msgctxt "07ddfc3eec384190b9bfd4b6252ab8fb"
 msgid "ས་␣ས་ རྒྱས་ ཀྱིས་ ང་ ཡང་ དགྲ་བཅོམ་པ་ ཡིན་ ལ་"
