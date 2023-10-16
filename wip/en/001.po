@@ -926,6 +926,8 @@ msgstr "Nirvana will be attained, therefore this is the entire path."
 msgctxt "2a6aafb9cd264e0f892fd365fc9bba74"
 msgid "འདི་␣ར་ ནི་ སྡེ་སྣོད་ གསུམ་ རྒྱུད་སྡེ་ བཞི་ ལམ་ གྱི་ རིམ་པ་ ཡིན་པ་␣ས་"
 msgstr ""
+"In this [system], the three pitakas and the four tantra sections are the "
+"stages of the path."
 
 msgctxt "ae979817e994454ba18192b19b943edb"
 msgid "གང་ཟག་ གཅིག་ ལ་ ཚང་ དགོས་ ཏེ་"
