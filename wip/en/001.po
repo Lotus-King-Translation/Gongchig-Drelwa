@@ -1077,6 +1077,8 @@ msgid ""
 "ཝ་ རུ་ ན་ ལྟ་བུ་ བདེན་ བཞི་␣འི་ ཆོས་འཁོར་ གྱིས་ ཉོན་མོངས་ ཀྱིས་ མ་ གོས་པ་␣ས་"
 " སྨིན་པ་␣ར་ བྱས །"
 msgstr ""
+"Such as Varuna, who has been ripened by the Dharma Wheel of the Four Truths "
+"without being veiled by afflictions."
 
 msgctxt "8366c62917dd429b86cdaa30679c77ab"
 msgid ""
