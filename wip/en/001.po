@@ -1069,6 +1069,8 @@ msgid ""
 "འཁོར་ གྱི་ གདུལ་བྱ་␣འི་ རྟོགས་པ་ གོང་ ནས་ གོང་ དུ་ འཁྲིད་པ་␣འི་ ཐབས་ ཀྱི་ "
 "ཁྱད་པར་ རམ་ བོག་ དབྱུང་བ་␣འི་ དོན་ དུ་ གསུངས་པ་ སྟེ་"
 msgstr ""
+"are different methods for leading the disciples of the wheel to higher and "
+"higher realizations, or for teaching others to perfect [themselves]."
 
 msgctxt "f1839e71e9df4fd0bb324a2dfbdb2c19"
 msgid ""
