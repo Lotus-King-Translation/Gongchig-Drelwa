@@ -1013,7 +1013,7 @@ msgstr "Addendum: Some scholars said,"
 
 msgctxt "adad997c85434628ba81be0e10907863"
 msgid "སྡེ་སྣོད་ གསུམ་ སོ་སོ་␣ར་ ཐུག་ རེག་ མེད་ དེ་"
-msgstr ""
+msgstr "The three pitakas are not in contact with one another."
 
 msgctxt "4236bc010c3c4d029d2e9f1e1866b711"
 msgid ""
