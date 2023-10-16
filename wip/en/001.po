@@ -939,7 +939,7 @@ msgstr "According to The Sutra on the Threefold Training,"
 
 msgctxt "800b555135d742929684af7183986e59"
 msgid "དགེ་སློང་ དག་ ཚུལ་ཁྲིམས་ ལ་ གནས་ ན་ ཏིང་འཛིན་ སྐྱེ་བ་␣ར་ འགྱུར་ རོ །"
-msgstr ""
+msgstr "Monks, abiding moral discipline will produce concentration."
 
 msgctxt "464e9265909c482898636065c1ff190e"
 msgid "དེ་ ཡུན་རིང་ དུ་ གནས་ ན་ ཤེས་རབ་ ཐོབ་པ་ འགྱུར་ རོ །"
