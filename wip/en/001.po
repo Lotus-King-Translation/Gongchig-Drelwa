@@ -948,6 +948,8 @@ msgstr "By abiding for a long time in concentration, one can attain wisdom."
 msgctxt "80660c111ea04a3997b8bbb043b8eee3"
 msgid "དེ་ གོམས་པ་␣ར་ བྱས་ ན་ དུག་ གསུམ་ ལ་␣ས་ སེམས་ རྣམ་པ་␣ར་ གྲོལ་ ལོ །"
 msgstr ""
+"By habituating it, the mind will be completely liberated from the three "
+"poisons. "
 
 msgctxt "e7eccb9a8a5347cebe96bc9f465b14c9"
 msgid "ཞེས་ དང་ །"
