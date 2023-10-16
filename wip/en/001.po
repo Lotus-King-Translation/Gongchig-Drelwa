@@ -943,7 +943,7 @@ msgstr "Monks, concentration will arise if one dwells on moral discipline."
 
 msgctxt "464e9265909c482898636065c1ff190e"
 msgid "དེ་ ཡུན་རིང་ དུ་ གནས་ ན་ ཤེས་རབ་ ཐོབ་པ་ འགྱུར་ རོ །"
-msgstr ""
+msgstr "By abiding for a long time in concentration, one can attain wisdom."
 
 msgctxt "80660c111ea04a3997b8bbb043b8eee3"
 msgid "དེ་ གོམས་པ་␣ར་ བྱས་ ན་ དུག་ གསུམ་ ལ་␣ས་ སེམས་ རྣམ་པ་␣ར་ གྲོལ་ ལོ །"
