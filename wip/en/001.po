@@ -1040,7 +1040,7 @@ msgstr ""
 
 msgctxt "6d178833a6194419b9e8737bc7f268f3"
 msgid "ཤས་ ཆེ་ཆུང་ ཙམ་ ལ་␣ས་ ཐ་དད་ ཡིན་ ན་"
-msgstr "If they are different only because of greater or lower emphases,"
+msgstr "If they are distinct only because of greater or lower emphases,"
 
 msgctxt "5c09966d49b34d21b8ca075741aef4d9"
 msgid "བསླབ་པ་ གསུམ་ ཡ་བྲལ་ དུ་ འགྱུར་བ་␣འི་ ཕྱིར་ རོ །"
