@@ -1001,7 +1001,7 @@ msgstr "The next four are the vinaya pitaka."
 
 msgctxt "48447a0694b548759551dba98b857903"
 msgid "དེ་འོག་ གཉིས་ བྱང་སེམས་ ཀྱི་ མདོ་སྡེ་"
-msgstr ""
+msgstr "The next two are the sutra sections of bodhisatva."
 
 msgctxt "416218f25df743fe886f26e160dfdcee"
 msgid "ཐ་མ་ གཅིག་ ནི་ གཉིས་ཀ་␣འི་ མངོན་པ་␣འོ །"
