@@ -1035,6 +1035,8 @@ msgid ""
 "ཝཱ་ རཱ་ ཎ་ སྰིར་ གསུངས་པ་ ནས་ ཐ་མ་ ཀུཤའི་ གྲོང་ དུ་ མྱ་ངན་ ལ་␣ས་ འདས་པ་␣འི་ "
 "བར་ དུ་ འདྲེས་ ཅན་ དུ་ གསུངས་ ཏེ་"
 msgstr ""
+"From the teachings in Varanasi until [he] passed into final nirvana in the "
+"city of Kushi, [he] taught in mixed. "
 
 msgctxt "6d178833a6194419b9e8737bc7f268f3"
 msgid "ཤས་ ཆེ་ཆུང་ ཙམ་ ལ་␣ས་ ཐ་དད་ ཡིན་ ན་"
