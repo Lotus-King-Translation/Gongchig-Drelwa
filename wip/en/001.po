@@ -1019,6 +1019,8 @@ msgctxt "4236bc010c3c4d029d2e9f1e1866b711"
 msgid ""
 "འདུལ་བ་␣ར་ གསུང་ ས་ མངོན་པ་ ན་ མེད་པ་ སོགས་ ཀྱིས་ མ་ འདྲེས་པ་ ཡིན་ ཟེར་ རོ །"
 msgstr ""
+"It is said that what is spoken in vinaya is not said in abhidharma and so "
+"on, therefore they are not mixed."
 
 msgctxt "7e0c4d65c71247ef966899842961c435"
 msgid ""
