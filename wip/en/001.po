@@ -1101,6 +1101,7 @@ msgstr "Buddha said that I, too, am an arhat."
 msgctxt "ce69e0417edc4805a146734a9324b8a0"
 msgid "ཁྱེད་ རྣམས་ ཀྱང་ དགྲ་བཅོམ་ ཡིན་ གསུངས་པ་␣ས་ ཤིན་ཏུ་ སྨིན་པ་␣ར་ བྱས །"
 msgstr ""
+"You are all arhats as well. By saying this [they] are completely ripened."
 
 msgctxt "eedb441f145c40bc95b62829679fb5dc"
 msgid ""
