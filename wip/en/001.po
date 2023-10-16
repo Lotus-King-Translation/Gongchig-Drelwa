@@ -961,7 +961,7 @@ msgstr "To this, Vaibhashika and others have made clear."
 
 msgctxt "1f4c800fc9cf40d5947d8d16ea18f4fe"
 msgid "༈  ལྷན་␣༽༽  གཞན་དག་ ན་རེ །"
-msgstr ""
+msgstr "Addendum: Others said,"
 
 msgctxt "9f8b8ec2695b4dfb8d3a380296069376"
 msgid "གསུང་རབ་ ཡན་ལག་ བཅུ་གཉིས་ སོ་སོ་␣ར་ མ་ འདྲེས་པ་ ཐ་དད་ ཡིན་ ཟེར །"
