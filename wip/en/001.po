@@ -1192,7 +1192,7 @@ msgstr "In the first, the origin is the cause of sufferings"
 
 msgctxt "db55a43afd1548a9957d973219f73d68"
 msgid "འཕགས་ལམ་ གྱིས་ སྤང་བ་␣ས་"
-msgstr "which is abandoned by the supreme path. "
+msgstr "which is abandoned by the noble path. "
 
 msgctxt "5e86a6abab0645c4a103f6578615cc68"
 msgid "འབྲས་བུ་ འགོག་␣ས་པ་ མངོན་དུ་ བྱས་པ་ དང་"
