@@ -1175,6 +1175,8 @@ msgid ""
 "རྡོ་␣༽༽  ཁོ་ན་ རེ །  ཆོས་འཁོར་ གསུམ་ བརྗོད་བྱ་ ཐ་དད་པ་ སྔ་ཕྱི་ སོགས་ མ་ "
 "འདྲེས་པ་ ཡིན་ ཟེར་ ཡང༌ །"
 msgstr ""
+"Vajra: Someone said, the subject matters of the three Dharma Wheel are "
+"distinct, and earlier and later [subjects] and so on are not mixed."
 
 msgctxt "db40468328a94daba0d1d3e621d244f1"
 msgid ""
