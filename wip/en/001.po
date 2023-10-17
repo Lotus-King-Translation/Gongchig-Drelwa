@@ -1151,6 +1151,8 @@ msgid ""
 "འདི་␣ར་ ནི་ འཁོར་བ་ རིགས་ དྲུག་ དང་ མྱང་འདས་ ཐམས་ཅད་ ཕུན་སུམ་ ཚོགས་པ་ ལྔ་ "
 "ཡིས་ བསྡུས་པ་␣ར་ བཞེད་ དེ་"
 msgstr ""
+"In this [system], it asserts that the six classes of samsara, and nirvana "
+"contain the five excellences. "
 
 msgctxt "5d15dbc9fff742819092e2a129962fd6"
 msgid ""
