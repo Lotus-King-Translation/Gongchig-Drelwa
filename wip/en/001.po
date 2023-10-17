@@ -1167,6 +1167,8 @@ msgid ""
 "དེ་དག་ དང་ འཁོར་བ་ འགྲོ་བ་ དྲུག་ ཀྱང་ སོ་སོ་␣ར་ སྟོན་པ་ སོགས་ ཕུན་ཚོགས་ ལྔ་ "
 "ཚང་བ་ ཡིན་ ནོ །"
 msgstr ""
+"Along with those, each of the six samsara migrators has a teacher and other "
+"excellences."
 
 msgctxt "1fd5d7d09c4245a08734b7afef39d484"
 msgid ""
