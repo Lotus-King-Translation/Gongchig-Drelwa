@@ -1111,7 +1111,7 @@ msgstr ""
 
 msgctxt "7ad2231cc3db461285b8d8caa21d3a52"
 msgid "ཁྱེད་ རྣམས་ དགྲ་བཅོམ་ མ་ ཡིན་ སོགས་ གྱིས་ འོག་མ་ སུན་ དབྱུང་ ནས་"
-msgstr ""
+msgstr "Those who are not arhats should eliminate the lowers and "
 
 msgctxt "f8953bf06ce743d8ae6a84bce7e87fe4"
 msgid ""
