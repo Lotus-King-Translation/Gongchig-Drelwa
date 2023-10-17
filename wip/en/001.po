@@ -1118,6 +1118,8 @@ msgid ""
 "གཙང་ བདེ་ རྟག་ བདག་ དམ་པ་␣འི་ ཕར་ཕྱིན་ བསྟན་ ཏེ་ བྱང་ཆུབ་ ཏུ་ ལུང་བསྟན་པ་␣ས "
 "།"
 msgstr ""
+"By showing the excellent paramita of purity, bliss, permanence, and self, "
+"[he] then gave prophecies of enlightenment."
 
 msgctxt "4e829a3a924242cfb39cbf93c7526c93"
 msgid "ངེས་དོན་ འཁོར་ལོ་␣ས་ ཤིན་ཏུ་ སྨིན་པ་␣ར་ མཛད་ དོ ། །"
