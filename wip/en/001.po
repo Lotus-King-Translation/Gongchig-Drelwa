@@ -1188,7 +1188,7 @@ msgstr ""
 
 msgctxt "8cfa8bb0691549dea876f252d9c35186"
 msgid "དང་པོ་␣ར་ སྡུག་བསྔལ་ གྱི་ རྒྱུ་ ཀུན་འབྱུང་"
-msgstr ""
+msgstr "In the first, the origin is the cause of sufferings"
 
 msgctxt "db55a43afd1548a9957d973219f73d68"
 msgid "འཕགས་ལམ་ གྱིས་ སྤང་བ་␣ས་"
