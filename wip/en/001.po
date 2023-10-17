@@ -1123,7 +1123,7 @@ msgstr ""
 
 msgctxt "4e829a3a924242cfb39cbf93c7526c93"
 msgid "ངེས་དོན་ འཁོར་ལོ་␣ས་ ཤིན་ཏུ་ སྨིན་པ་␣ར་ མཛད་ དོ ། །"
-msgstr ""
+msgstr "The Wheel of definitive meaning ripened [them] entirely. "
 
 msgctxt "6666d12288474f7989b297c01bfc947a"
 msgid "བྱང་ཆུབ་ ཕུང་པོ་␣ར་ ཞེན་ ནས་ མཆོག་འཛིན་ མ་ བྱེད་ ཅེས །"
