@@ -1135,7 +1135,7 @@ msgstr "It is accomplished by fortunate beginners such as them."
 
 msgctxt "4878b070ab314fb0a6f3a6fd1842f5a7"
 msgid "ལྷན་␣༽༽  མཁས་པ་ ལ་ལ་␣འི་ བཞེད་དོན་"
-msgstr ""
+msgstr "Addendum: Some scholars' acceptance,"
 
 msgctxt "685dd2a247c243c4a1d34e01d991ea19"
 msgid ""
