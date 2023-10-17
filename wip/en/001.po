@@ -1127,7 +1127,7 @@ msgstr "The Wheel of definitive meaning ripened [them] entirely. "
 
 msgctxt "6666d12288474f7989b297c01bfc947a"
 msgid "བྱང་ཆུབ་ ཕུང་པོ་␣ར་ ཞེན་ ནས་ མཆོག་འཛིན་ མ་ བྱེད་ ཅེས །"
-msgstr ""
+msgstr "Do not hold excellence by clinging to the body of enlightenment."
 
 msgctxt "f55bb242d2c94538929930d0ad62773d"
 msgid "དང་པོ་ ལས་ཅན་ དེ་ ལ་སོགས་ ཀྱིས་ སྒྲུབ་བོ །"
