@@ -1206,7 +1206,7 @@ msgctxt "4838a16c5eba4135a0c929ffca5b3d68"
 msgid ""
 "བཟང་ངན་ གྱི་ ཀུན་འབྱུང་ དང་ མཐོ་རིས་ ཡོན་ཏན་ བདུན་ ཐོབ་པ་␣ར་ བྱ་ སྙམ་པ་"
 msgstr ""
-"wish to attain the source of good and bad, and the seven good qualities of "
+"wish to attain the origin of good and bad, and the seven good qualities of "
 "higher levels."
 
 msgctxt "cb91a955bebc4b898ae97c78a5822604"
