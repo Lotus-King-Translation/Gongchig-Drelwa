@@ -1196,7 +1196,7 @@ msgstr "which is abandoned by the noble path. "
 
 msgctxt "5e86a6abab0645c4a103f6578615cc68"
 msgid "འབྲས་བུ་ འགོག་␣ས་པ་ མངོན་དུ་ བྱས་པ་ དང་"
-msgstr ""
+msgstr "manifested the resultant cessation and "
 
 msgctxt "2aaa5897ea07449aa6fc00de16f882a2"
 msgid "གཉིས་པ་␣ར་ ཡང་ འདུ་ཤེས་ གཉིས་ འཛིན་"
