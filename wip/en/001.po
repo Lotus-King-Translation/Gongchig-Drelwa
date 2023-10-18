@@ -1370,7 +1370,7 @@ msgstr "And, from the same:"
 
 msgctxt "7a18c880e6b3415297a2429114a6ae06"
 msgid "འདོད་པ་␣འི་ ཁམས་ དང་ གཟུགས་ མེད་ དུ ། །"
-msgstr ""
+msgstr "In the desire realm and the formless realm,"
 
 msgctxt "c85c6da2d99c4005847c6f5eecadf4c6"
 msgid "སངས་རྒྱས་ རྣམ་པ་␣ར་ འཚང་ མི་ རྒྱ ། །"
