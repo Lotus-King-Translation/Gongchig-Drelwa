@@ -1241,9 +1241,7 @@ msgstr ""
 
 msgctxt "a1734a680ab147139115f1e53065503a"
 msgid "རྣམ་ཐར་ སྒོ་གསུམ་ སོགས་ ནི་ མཚན་ཉིད་ མེད་པ །"
-msgstr ""
-"The three doors of complete emancipation: the absence of defining "
-"characteristics, "
+msgstr "The three doors of complete emancipation: signlessness and so on. "
 
 msgctxt "6318c88fe3134d3a98d409c4fdb1d4ce"
 msgid "གཏུམ་པོ་ རབ་ སྣང་ ལ་ གསུམ་ གསོལ་བ་␣ས་ སྟོབས་ བཅུ་ བསྟན་པ་ ངེས་དོན་ ཏེ་"
