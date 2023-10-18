@@ -1330,7 +1330,7 @@ msgstr "And so on."
 
 msgctxt "bde68e410b0c4155baff0c500be591ab"
 msgid "ངོ་བོ་ ཉིད་ ཅེས་ བསྟན་པ་ ནི །"
-msgstr ""
+msgstr "The essenceness [of all phenomena] is taught. "
 
 msgctxt "18e508169eeb4403b4f6b42c307d51f2"
 msgid "ཐ་མ་␣འི་ ས་བོན་ ཡིན་པ་␣འི་ ཕྱིར་ དང༌ །"
