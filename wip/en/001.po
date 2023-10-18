@@ -1200,7 +1200,7 @@ msgstr "manifested the resultant cessation and "
 
 msgctxt "2aaa5897ea07449aa6fc00de16f882a2"
 msgid "གཉིས་པ་␣ར་ ཡང་ འདུ་ཤེས་ གཉིས་ འཛིན་"
-msgstr ""
+msgstr "Secondly, the grasping of the two perceptions,"
 
 msgctxt "4838a16c5eba4135a0c929ffca5b3d68"
 msgid ""
