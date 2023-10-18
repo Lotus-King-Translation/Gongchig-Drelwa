@@ -1293,7 +1293,7 @@ msgstr "Not showing it contradiction is not an essence of cognitive vows,"
 
 msgctxt "6e9348eb133a424ba9bf746d6d359d4c"
 msgid "དེ་ཉིད་ བར་པ་␣འི་ ས་བོན་ ཡིན་པ་␣འི་ ཕྱིར་ དང་ །"
-msgstr ""
+msgstr "because it is the seed of the middle [one]."
 
 msgctxt "c8ad663c877947a4998cffc9369f9600"
 msgid "བར་པ་␣ར་ དགོངས་འགྲེལ་ ལ་␣ས །"
