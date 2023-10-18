@@ -1227,7 +1227,7 @@ msgstr ""
 
 msgctxt "9f01bdd923b24448ab9c19029c386ddf"
 msgid "མཐར་ཐུག་ གི་ འགོག་␣ས་པ་ མངོན་དུ་ བྱས་པ་␣ས་"
-msgstr "manifested the ultimate cessation."
+msgstr "manifested the ultimate negation."
 
 msgctxt "5028017ef8bf46bbbad12093535028da"
 msgid "ཀུན་འབྱུང་ སྤོང་བ་ མཚུངས་པ་␣འི་ ཕྱིར་ དང༌ །"
