@@ -1313,7 +1313,7 @@ msgstr "It is not appropriate if [they] think it as a self."
 
 msgctxt "f08ee661cbe04ec29cc8f100cd05bba5"
 msgid "བྱིས་པ་ རྣམས་ ལ་ ངས་ ནི་ དེ་ མ་ བསྟན །"
-msgstr ""
+msgstr "I have not taught this to the children."
 
 msgctxt "bb8e7c6d05e34993af7a758512880a5e"
 msgid "ཅེས་ དང་ །"
