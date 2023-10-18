@@ -1297,7 +1297,7 @@ msgstr "because it is the seed of the middle [one]."
 
 msgctxt "c8ad663c877947a4998cffc9369f9600"
 msgid "བར་པ་␣ར་ དགོངས་འགྲེལ་ ལ་␣ས །"
-msgstr ""
+msgstr "In the middle, according to the Samdhi­nirmocana [­sutra]:"
 
 msgctxt "7d7032c4a25045aeb37bdb29d0676533"
 msgid "ལེན་པ་␣འི་ རྣམ་པ་␣ར་ ཤེས་པ་ ཟབ་ ཅིང་ ཕྲ །"
