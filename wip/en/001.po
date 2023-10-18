@@ -1236,6 +1236,8 @@ msgstr "It is similar to the abandonment of the origin."
 msgctxt "d089aab209fd41c49dd72988b2c00b5a"
 msgid "དང་པོ་ ལ་ དགག་སྒྲུབ་ ཀྱི་ མཚན་ཉིད་ བདེན་ བཞི་ ༑"
 msgstr ""
+"First, the defining characteristic of negation and assertion is the four "
+"truths."
 
 msgctxt "a1734a680ab147139115f1e53065503a"
 msgid "རྣམ་ཐར་ སྒོ་གསུམ་ སོགས་ ནི་ མཚན་ཉིད་ མེད་པ །"
