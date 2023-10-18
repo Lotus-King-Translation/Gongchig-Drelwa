@@ -1231,7 +1231,7 @@ msgstr "manifested the ultimate cessation."
 
 msgctxt "5028017ef8bf46bbbad12093535028da"
 msgid "ཀུན་འབྱུང་ སྤོང་བ་ མཚུངས་པ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "It is similar to the abandonment of the origin."
 
 msgctxt "d089aab209fd41c49dd72988b2c00b5a"
 msgid "དང་པོ་ ལ་ དགག་སྒྲུབ་ ཀྱི་ མཚན་ཉིད་ བདེན་ བཞི་ ༑"
