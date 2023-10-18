@@ -1215,7 +1215,7 @@ msgstr "abandoning the origin by relying on the Dharma. "
 
 msgctxt "2b410d3958244914956c09d5896782c5"
 msgid "རྟེན་འབྲེལ་ སྟོང་ཉིད་ མཚན་མ་ མེད་པ་ མངོན་དུ་ བྱས་པ་ དང༌ །"
-msgstr ""
+msgstr "manifested interdependence, emptiness, and absence of signs."
 
 msgctxt "703e21e6176a437c8f651be758d710a1"
 msgid ""
