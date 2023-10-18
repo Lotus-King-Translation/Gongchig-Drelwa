@@ -1354,7 +1354,7 @@ msgstr "The empowerment of dharma is in the place of bestowal,"
 
 msgctxt "efccf86881a241d0ade8dbc22acb3bc4"
 msgid "འོག་མིན་ སྟུག་པོ་ ཉམས་ དགའ་བ་␣ར ། །"
-msgstr ""
+msgstr "In the dense delightful [realm] of Akanishtha "
 
 msgctxt "e0dfb3a2764c4761914815f7c8f6029e"
 msgid "ཡང་དག་ སངས་རྒྱས་ དེ་␣ར་ སངས་རྒྱས ། །"
