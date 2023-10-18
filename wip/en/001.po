@@ -1260,6 +1260,8 @@ msgstr "Vajra: Other expert said that,"
 msgctxt "283bc6abf7744f61954bdc3de5ffd91b"
 msgid "འཁོར་ལོ་ གསུམ་ གྱི་ དོན་ འབྲེལ་ དེ་ལྟར་ ཚང་བ་␣ར་ གནས་ ཀྱང་"
 msgstr ""
+"Though the interconnected meanings of the three Dharma wheels remain "
+"complete in this way,"
 
 msgctxt "cb540996f56341ec860e4d8be696b685"
 msgid "ཚིག་མཚོན་པ་ མི་ གསལ་བ་ ཡོད་ ཟེར་ མོད །"
