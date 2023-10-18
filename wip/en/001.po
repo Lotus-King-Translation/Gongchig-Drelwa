@@ -1289,7 +1289,7 @@ msgstr "First, the teaching itself was shown clearly during the final age."
 
 msgctxt "f62f517b3ff1405fbc4878f02d1bc669"
 msgid "འགལ་བ་␣ར་ མ་ བསྟན་པ་ ནི་ དང་པོ་␣ར་ སྡོམ་པ་␣འི་ ངོ་བོ་ རྣམ་རིག་ མིན་པ་"
-msgstr ""
+msgstr "Not showing it contradiction is not an essence of cognitive vows,"
 
 msgctxt "6e9348eb133a424ba9bf746d6d359d4c"
 msgid "དེ་ཉིད་ བར་པ་␣འི་ ས་བོན་ ཡིན་པ་␣འི་ ཕྱིར་ དང་ །"
