@@ -1362,7 +1362,7 @@ msgstr "True buddhas will awaken there."
 
 msgctxt "abd05dc417a749b781cf46fe933ffe5a"
 msgid "སྤྲུལ་པ་པོ་ ཞིག་ འདི་␣ར་ འཚང་ རྒྱ །"
-msgstr ""
+msgstr "The one who does emanation will awaken there."
 
 msgctxt "8d2f76d41d724c059b4d9b7d27af1610"
 msgid "ཞེས་ དང་ དེ་ཉིད་ ལ་␣ས །"
