@@ -1334,7 +1334,7 @@ msgstr "The essenceness [of all phenomena] is taught. "
 
 msgctxt "18e508169eeb4403b4f6b42c307d51f2"
 msgid "ཐ་མ་␣འི་ ས་བོན་ ཡིན་པ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "Because it is the ultimate seed. "
 
 msgctxt "5d4aa8e05df0414585c052c9a5c424db"
 msgid "དེ་ཡང་ འཁོར་ལོ་ ཐ་མ་␣འི་ སྐབས་ ལ་"
