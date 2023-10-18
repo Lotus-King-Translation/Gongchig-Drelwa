@@ -1285,7 +1285,7 @@ msgstr ""
 msgctxt "3273d336b3844d93a8c7201c9af14bc5"
 msgid ""
 "དང་པོ་␣ར་ བསྟན་པ་ དེ་ཉིད་ མཐར་ཐུག་ གི་ དུས་ སུ་ གསལ་བ་␣ར་ བསྟན་པ་ ཙམ་ ལ་␣ས་"
-msgstr ""
+msgstr "First, the teaching itself was shown clearly during the final age."
 
 msgctxt "f62f517b3ff1405fbc4878f02d1bc669"
 msgid "འགལ་བ་␣ར་ མ་ བསྟན་པ་ ནི་ དང་པོ་␣ར་ སྡོམ་པ་␣འི་ ངོ་བོ་ རྣམ་རིག་ མིན་པ་"
