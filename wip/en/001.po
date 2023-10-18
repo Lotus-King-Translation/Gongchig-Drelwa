@@ -1280,6 +1280,7 @@ msgid ""
 "སྐྱེས་མ་ ཐག་ གི་ བྱིས་པ་ ན་␣ར་ སོན་པ་␣འི་ དུས་ སུ་␣འང་ གཞི་ དང་པོ་␣འི་ ལུས་ "
 "དེ་ ཡིན་པ་ བཞིན །"
 msgstr ""
+"The first base of a newly born infant when it comes to a person is the body."
 
 msgctxt "3273d336b3844d93a8c7201c9af14bc5"
 msgid ""
