@@ -1382,7 +1382,7 @@ msgstr "In the Akanishtha of the form realm,"
 
 msgctxt "629185dd1ddf4b449f8574244dce91d3"
 msgid "འདོད་ཆགས་ བྲལ་ ཁྱོད་ འཚང་ རྒྱ་␣འོ ། །"
-msgstr ""
+msgstr "You will be free from desire and awakened."
 
 msgctxt "a78af2e6df6f42e7b92af62f8c871ae6"
 msgid "ཞེས་ སོགས་ ཀྱིས་ ཕྱི་མ་ ཕྱི་མ་␣འི་ འབྲས་བུ་ ཐེག་པ་ ནས་ བཟུང་"
