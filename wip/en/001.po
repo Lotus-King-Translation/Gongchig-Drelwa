@@ -1386,7 +1386,7 @@ msgstr "You will be free from desire and awakened."
 
 msgctxt "a78af2e6df6f42e7b92af62f8c871ae6"
 msgid "ཞེས་ སོགས་ ཀྱིས་ ཕྱི་མ་ ཕྱི་མ་␣འི་ འབྲས་བུ་ ཐེག་པ་ ནས་ བཟུང་"
-msgstr ""
+msgstr "And others, the successive results, holding from the vehicle"
 
 msgctxt "ea0f9e29a42547c8a14023b279e1f826"
 msgid ""
