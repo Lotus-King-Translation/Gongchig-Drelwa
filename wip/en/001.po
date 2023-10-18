@@ -1338,7 +1338,7 @@ msgstr "Because it is the ultimate seed. "
 
 msgctxt "5d4aa8e05df0414585c052c9a5c424db"
 msgid "དེ་ཡང་ འཁོར་ལོ་ ཐ་མ་␣འི་ སྐབས་ ལ་"
-msgstr ""
+msgstr "Moreover, during the final wheel [of Dharma]"
 
 msgctxt "ddbae67fe98b475c934a3b606a06b7e4"
 msgid "སྔགས་ ཀྱི་ ས་ འོན་ བཞག་པ་ ལང་ཀ་␣ར་ གཤེགས་པ་ ལ་␣ས །"
