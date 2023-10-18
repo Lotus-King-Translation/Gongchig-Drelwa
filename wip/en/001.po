@@ -1346,7 +1346,7 @@ msgstr "placed the seed of the mantra. According to the Lankavatara [sutra]:"
 
 msgctxt "fde0116231be41929c6b7162af5b41ca"
 msgid "བློ་གྲོས་ ཆེན་པོ་ ས་མཐ་␣ར་ ཕྱིན ། །"
-msgstr ""
+msgstr "Those of great intelligence have thoroughly gone all of the grounds."
 
 msgctxt "1cfee4b4659e423d8c2be12723a2b42a"
 msgid "ཆོས་ ཀྱི་ དབང་ ནི་ བསྐུར་ གནས་ སུ ། །"
