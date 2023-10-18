@@ -1378,7 +1378,7 @@ msgstr "Buddhas will not awaken."
 
 msgctxt "7fc2ba763b8747c2a0bbb9f265f581bd"
 msgid "གཟུགས་ ཀྱི་ ཁམས་ ཀྱི་ འོག་མིན་ དུ ། །"
-msgstr ""
+msgstr "In the Akanishtha of the form realm,"
 
 msgctxt "629185dd1ddf4b449f8574244dce91d3"
 msgid "འདོད་ཆགས་ བྲལ་ ཁྱོད་ འཚང་ རྒྱ་␣འོ ། །"
