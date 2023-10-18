@@ -1269,7 +1269,7 @@ msgstr "there are no clear words representing it."
 
 msgctxt "cee56f6eedbb45f3a2641ebe53209589"
 msgid "འདི་␣ར་ ཕྱི་མ་ ཕྱི་མ་␣འི་ ས་བོན་ སྔ་མ་ སྔ་མ་␣ར་ གནས་པ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "In this [system], all successive seeds dwell in their former states."
 
 msgctxt "1f40ffc64822420385cdaac8046e362e"
 msgid "ཚིག་ གིས་ ཀྱང་ གསལ་ ཏེ་"
