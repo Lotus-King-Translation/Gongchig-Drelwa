@@ -1273,7 +1273,7 @@ msgstr "In this [system], all successive seeds dwell in their former states."
 
 msgctxt "1f40ffc64822420385cdaac8046e362e"
 msgid "ཚིག་ གིས་ ཀྱང་ གསལ་ ཏེ་"
-msgstr ""
+msgstr "It is also clear in words as"
 
 msgctxt "a144d64cb90041dba937cd682eb33770"
 msgid ""
