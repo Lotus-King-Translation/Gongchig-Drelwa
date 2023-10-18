@@ -1366,7 +1366,7 @@ msgstr "The one who does emanation will awaken there."
 
 msgctxt "8d2f76d41d724c059b4d9b7d27af1610"
 msgid "ཞེས་ དང་ དེ་ཉིད་ ལ་␣ས །"
-msgstr ""
+msgstr "And, from the same:"
 
 msgctxt "7a18c880e6b3415297a2429114a6ae06"
 msgid "འདོད་པ་␣འི་ ཁམས་ དང་ གཟུགས་ མེད་ དུ ། །"
