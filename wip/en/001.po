@@ -1211,7 +1211,7 @@ msgstr ""
 
 msgctxt "cb91a955bebc4b898ae97c78a5822604"
 msgid "ཆོས་ ལ་ བརྟེན་པ་␣འི་ ཀུན་འབྱུང་ སྤང་བ་␣ས་"
-msgstr ""
+msgstr "abandoning the origin by relying on the Dharma. "
 
 msgctxt "2b410d3958244914956c09d5896782c5"
 msgid "རྟེན་འབྲེལ་ སྟོང་ཉིད་ མཚན་མ་ མེད་པ་ མངོན་དུ་ བྱས་པ་ དང༌ །"
