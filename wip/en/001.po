@@ -1222,6 +1222,8 @@ msgid ""
 "གསུམ་པ་␣ར་ ཡང་དག་པ་␣ར་ གནས་པ་␣འི་ བྱང་སེམས་ ཀྱི་ རྒྱུད་ ཀྱི་ བག་ཆགས་ "
 "ཕྲ་བ་␣འི་ ཀུན་འབྱུང་ སྤངས་པ་␣ས་"
 msgstr ""
+"Thirdly, abandoning the subtle karmic imprint in the continuum of "
+"bodhisatvas who dwell in genuineness."
 
 msgctxt "9f01bdd923b24448ab9c19029c386ddf"
 msgid "མཐར་ཐུག་ གི་ འགོག་␣ས་པ་ མངོན་དུ་ བྱས་པ་␣ས་"
