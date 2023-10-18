@@ -1358,7 +1358,7 @@ msgstr "In the dense delightful [realm] of Akanishtha "
 
 msgctxt "e0dfb3a2764c4761914815f7c8f6029e"
 msgid "ཡང་དག་ སངས་རྒྱས་ དེ་␣ར་ སངས་རྒྱས ། །"
-msgstr "True buddhas will enlighten there."
+msgstr "True buddhas will awaken there."
 
 msgctxt "abd05dc417a749b781cf46fe933ffe5a"
 msgid "སྤྲུལ་པ་པོ་ ཞིག་ འདི་␣ར་ འཚང་ རྒྱ །"
