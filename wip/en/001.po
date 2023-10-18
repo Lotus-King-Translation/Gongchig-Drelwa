@@ -1392,6 +1392,8 @@ msgctxt "ea0f9e29a42547c8a14023b279e1f826"
 msgid ""
 "རྒྱུ་␣འི་ ཐེག་པ་ སྔ་མ་␣འི་ བར་ གྱི་ ས་བོན་ གནས་ཚུལ་ གསལ་བ་␣ར་ སྒྲུབ་ མོ །"
 msgstr ""
+"The reality of the seed until the previous vehicle of the cause is clearly "
+"accomplished."
 
 msgctxt "ffed6237658244ecb5fb51b4313d52f0"
 msgid "རྡོ་␣༽༽  ཁ་ཅིག་ ན་རེ །"
