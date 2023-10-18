@@ -1309,7 +1309,7 @@ msgstr "All of the seeds fall like a continuous flow of a river."
 
 msgctxt "d47ef48775e64716993ee8d6ac4a8f44"
 msgid "བདག་ ཏུ་ རྟོག་པ་␣ར་ འགྱུར་ ན་ མི་ རུང་ ཏེ །"
-msgstr "It is not appropriate if it becomes a self-conceptualization."
+msgstr "It is not appropriate if [they] think it as a self."
 
 msgctxt "f08ee661cbe04ec29cc8f100cd05bba5"
 msgid "བྱིས་པ་ རྣམས་ ལ་ ངས་ ནི་ དེ་ མ་ བསྟན །"
