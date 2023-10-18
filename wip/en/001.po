@@ -1321,7 +1321,8 @@ msgstr "And."
 
 msgctxt "4a69a35ec95f4b4bbf99557553e57a54"
 msgid "སྨྲ་ བསམ་བརྗོད་ མེད་ ཤེས་རབ་ ཕ་རོལ་ ཕྱིན །"
-msgstr "Beyond words, beyond thought, beyond description, Prajnaparamita."
+msgstr ""
+"Beyond expression, beyond thought, beyond description, Prajnaparamita."
 
 msgctxt "6048756499af41cb9345f6613abc9f83"
 msgid "སོགས་ ནས །"
