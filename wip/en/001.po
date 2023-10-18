@@ -1251,7 +1251,7 @@ msgstr ""
 
 msgctxt "b33895b3338c4d99ad40dc70f4a4aca1"
 msgid "དེ་ལྟར་ གཞན་ གཉིས་ ལ་ ཡོད་པ་␣འི་ ཕྱིར་ རོ །"
-msgstr ""
+msgstr "It exists in the other two in the same way."
 
 msgctxt "9ca3868d174a4371be6b42a7ac0e6568"
 msgid "རྡོ་␣༽༽  མཁས་པ་ གཞན་དག་ ན་རེ །"
