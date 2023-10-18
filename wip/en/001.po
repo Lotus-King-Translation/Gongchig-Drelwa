@@ -1404,6 +1404,8 @@ msgid ""
 "འཁོར་ལོ་ གསུམ་ ནི་ གནས་དུས་ རིགས་ཅན་ གསུམ་ གསུམ་ གྱིས་ འབྱེད་པ་␣ར་ འདོད་ "
 "མེད་ ལ །"
 msgstr ""
+"They do not accept that the three wheels are differentiated by the three "
+"[factors]: place, time, and the three categories of disciples."
 
 msgctxt "8a83fa0103e24fcab946ab8146b3a4ab"
 msgid ""
