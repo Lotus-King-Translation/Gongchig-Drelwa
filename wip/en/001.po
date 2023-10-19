@@ -1530,7 +1530,7 @@ msgstr ""
 
 msgctxt "ca646e15f7494e3d93cea521ebbd8381"
 msgid "རྩ་ མཆོག་ ཏུ་ རབ་ བཟང་ ལ་ བདེན་ བཞི་ བསྟན་པ་␣འི་ ཕྱིར་ དང་ །"
-msgstr "To teach Subhadra the four noble truths at Kushinagar "
+msgstr "To give Subhadra the teaching of the four truths at Kushinagar."
 
 msgctxt "4aa430c50534464fa86278da49c27beb"
 msgid "གཉིས་པ་ དུས་ ཀྱིས་ ཀྱང་ མི་ ཕྱེད་ དེ །"
