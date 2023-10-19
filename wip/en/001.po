@@ -1439,7 +1439,7 @@ msgstr "When Subhuti taught the chapter of thusness,"
 
 msgctxt "83f11acb1e6643fa9ff406a98f7a3640"
 msgid "གཙང་རིས་ ལྷས་ མེ་ཏོག་ འཐོར་ ཞིང་"
-msgstr ""
+msgstr "The Suddhavasa gods disperse flowers."
 
 msgctxt "39e939233d92479596a7695292b6d958"
 msgid ""
