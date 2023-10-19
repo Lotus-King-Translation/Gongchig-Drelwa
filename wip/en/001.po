@@ -1497,7 +1497,7 @@ msgstr ""
 
 msgctxt "3da6d8f3ab3d4e278df4f63c78e918ee"
 msgid "གང་ཟག་ གི་ རྒྱུད་ ལ་ རིམ་པ་␣འི་ ཚུལ་ གྱིས་ འབྱུང་ སྟེ་"
-msgstr ""
+msgstr "It will happen gradually in a person's continuum."
 
 msgctxt "583cf2bf7b6042aba8af24d5a632c24a"
 msgid ""
