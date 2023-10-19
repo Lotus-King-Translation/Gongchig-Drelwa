@@ -1435,7 +1435,7 @@ msgstr "Thus, it is the first and "
 
 msgctxt "40785c2ed1de4bb0b5d6c1af7a82b647"
 msgid "རབ་འབྱོར་ གྱིས་ དེ་བཞིན་ཉིད་ ཀྱི་ ལེའུ་ བསྟན་ ཚེ་"
-msgstr ""
+msgstr "When Subhuti taught the chapter of thusness,"
 
 msgctxt "83f11acb1e6643fa9ff406a98f7a3640"
 msgid "གཙང་རིས་ ལྷས་ མེ་ཏོག་ འཐོར་ ཞིང་"
