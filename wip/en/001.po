@@ -1520,7 +1520,7 @@ msgstr "Thus, it is not distinguished by place, time, or other factors."
 
 msgctxt "06f961a1e8914e058061bba175506b29"
 msgid "ཝཱ་ རཱ་ ཎ་ སཱིར་ རྡོ་རྗེ་␣འི་ མཆུ་ སོགས་ དང༌ །"
-msgstr ""
+msgstr "The vajra beaks in Varanasi and "
 
 msgctxt "102bbdff85714f87a583a67b79b04f4f"
 msgid ""
