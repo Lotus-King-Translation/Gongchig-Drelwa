@@ -1427,7 +1427,7 @@ msgid ""
 "མ་ བསྐོར་བ་␣འི་ ཆོས་ ཀྱི་ འཁོར་ལོ་ བསྐོར་ རོ ། །"
 msgstr ""
 "by any shramana, brahmin, gods, demons, Brahma, or anyone else, will now be "
-"turned."
+"turned.\""
 
 msgctxt "f84021930f8348998f8c851b7d6e6db0"
 msgid "ཞེས་པ་␣ས་ དང་པོ་ དང༌ །"
