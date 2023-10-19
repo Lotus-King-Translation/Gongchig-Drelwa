@@ -1418,6 +1418,7 @@ msgstr ""
 msgctxt "82af0a8553c54453a93b8ebbd8a5733f"
 msgid "ཚངས་རིས་ ཀྱི་ ལྷས་ ཨེ་མ་ སྔོན་ཆད་ འཇིག་རྟེན་ དུ་"
 msgstr ""
+"All the gods of the Brahma realms said amazing! never before in this world,"
 
 msgctxt "884e56aff5b84d029c56273e65704606"
 msgid ""
