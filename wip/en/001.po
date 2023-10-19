@@ -1504,6 +1504,8 @@ msgid ""
 "དེ་དོན་ སྒམ་པོ་པ་␣འི་ རྣལ་འབྱོར་ བཞི་␣ར་ འཁོར་ལོ་ བཞི་␣འི་ དོན་ དང་ "
 "གཅིག་པ་␣ས་ གསུམ་ དུ་ ངེས་པ་␣འོ ། །"
 msgstr ""
+"In this meaning, the four yogas of Gampopa are the same as the meanings of "
+"the four wheels, thus it is certain to three."
 
 msgctxt "c82a9e7cb0564e9785df2bf3bd3e6649"
 msgid ""
