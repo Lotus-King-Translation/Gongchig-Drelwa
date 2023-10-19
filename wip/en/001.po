@@ -1534,7 +1534,7 @@ msgstr "To give Subhadra the teaching of the four truths at Kushinagar."
 
 msgctxt "4aa430c50534464fa86278da49c27beb"
 msgid "གཉིས་པ་ དུས་ ཀྱིས་ ཀྱང་ མི་ ཕྱེད་ དེ །"
-msgstr ""
+msgstr "Second, It is not distinguished by time because"
 
 msgctxt "a3a53aaa64e144d197fa6797e8f69757"
 msgid "དུས་ དང་པོ་␣ར་ ཡུམ་ གྱི་ ལྷུམས་ སུ་ ཐེག་ཆེན་ གསུང་པ་ དང༌ །"
