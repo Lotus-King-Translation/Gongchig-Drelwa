@@ -1459,6 +1459,8 @@ msgid ""
 "དོན་དམ་ ཡང་དག་ འཕགས་ ཀྱིས་ བཅོམ་ལྡན་འདས་ ཀྱི་ དང་པོ་␣ར་ ཝཱ་ རཱ་ ཎ་ སཱིར་ "
 "བསྐོར་བ་ དེ་ཡང་ བླ་ ན་ མཆིས་པ །"
 msgstr ""
+"Bodhisattva Para­martha­samud­gata said Bhagavan's first turning at the "
+"Varanasi is surpassed."
 
 msgctxt "9f11d2ebd86b4b23a7438ad52610c30c"
 msgid "སྐབས་མཆིས་པ །"
