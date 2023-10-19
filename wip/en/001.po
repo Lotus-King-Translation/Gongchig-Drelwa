@@ -1598,6 +1598,8 @@ msgid ""
 "བདེན་ བཞི་ མངོན་པ་ ནས་ རྒྱས་པ་␣ར་ བསྟན་པ་␣ས་ མངོན་པ་␣འི་ སྡེ་སྣོད་ ཡིན་ ཟེར་"
 " ལ །"
 msgstr ""
+"[They] said that the four truths are expansively shown in Abhidharma, thus "
+"it is the Abhidharma pitaka."
 
 msgctxt "849ce347c67649538f20bd2d33c40d30"
 msgid "འདི་␣ར་ ནི་ འདུལ་བ་␣འི་ སྡེ་སྣོད་ བདེན་ བཞི་␣འི་ ཆོས་འཁོར་ ཡིན་ ཏེ་"
