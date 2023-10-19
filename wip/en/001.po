@@ -1539,6 +1539,8 @@ msgstr "Second, It is not distinguished by time because"
 msgctxt "a3a53aaa64e144d197fa6797e8f69757"
 msgid "དུས་ དང་པོ་␣ར་ ཡུམ་ གྱི་ ལྷུམས་ སུ་ ཐེག་ཆེན་ གསུང་པ་ དང༌ །"
 msgstr ""
+"At first, [Buddha] gave the teachings of the Great Vehicle in the mother's "
+"womb."
 
 msgctxt "671d6f501e104a86b3e22948c63661f6"
 msgid ""
