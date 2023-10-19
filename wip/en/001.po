@@ -1483,6 +1483,8 @@ msgid ""
 "བླ་ ན་མ་ མཆིས་ སོགས་ ཀྱིས་ མཐའ་མ་␣ར་ བཞག་པ་ མདོ་ ལུང་ འདི་␣འི་ གནད་ ཀྱིས་ "
 "གསུམ་ དུ་ ངེས་ སོ །"
 msgstr ""
+"unsurpassed and so on. As a result of the main points of sutras and oral "
+"transmissions set in the final, it is certain to three. "
 
 msgctxt "8ef24d7af96546529a3a7ad8fb987fc6"
 msgid ""
