@@ -1476,7 +1476,7 @@ msgstr "The second turning on Vulture Peak Mountain is similar as well."
 
 msgctxt "11976e74674d4963b6f8e3c218c18979"
 msgid "ད་ལྟར་ བསྐོར་བ་ འདི་ ནི་ སྐབས་ མ་ མཆིས་པ་ དང་ །"
-msgstr ""
+msgstr "The present turning is not adapted to the circumstances."
 
 msgctxt "bf364e6bc2bf43ea9f8ad03d3664a7ef"
 msgid ""
