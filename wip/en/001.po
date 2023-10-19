@@ -1569,7 +1569,7 @@ msgstr ""
 
 msgctxt "eb3a81abb88b4deaad4c0c7598b3c625"
 msgid "རྡོ་␣༽༽་␣ཚུལ་ དགུ་ འཛིན་པ་ ཁ་ གཅིག་ གིས །"
-msgstr ""
+msgstr "Vajra: Some proponents of the nine approaches stated,"
 
 msgctxt "1b0215ef17894fe5930e18d4fc00ceec"
 msgid "དགག་ བྱེད་ ལ་ལུང་ རྣམ་འབྱེད་ སྒྲུབ་བྱེད་ ལ་ལུང་ གཞི །"
