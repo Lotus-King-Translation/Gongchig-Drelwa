@@ -1583,7 +1583,7 @@ msgstr "The words of minor transmissions."
 
 msgctxt "1083dc998b4546ca85a6b759cbd8e4dc"
 msgid "ཐེ་ཚོམ་ གཅོད་པ་ ལ་ལུང་ ཞུ་བ་ སོགས་"
-msgstr "Asked transmissions to cut doubts."
+msgstr "Asked transmissions to eradicate doubts."
 
 msgctxt "d55b80c3b3784e35a9a18146ff9b694e"
 msgid ""
