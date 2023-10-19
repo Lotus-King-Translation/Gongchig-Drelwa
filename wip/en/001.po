@@ -1590,6 +1590,8 @@ msgid ""
 "དགག་སྒྲུབ་ ཐེ་ཚོམ་ གཅོད་པ་ གསུམ་ བརྗོད་དོན་ ཡིན་ གྱི་ བདེན་ བཞི་ བསྟན་པ་␣འི་"
 " ཕྱིར །"
 msgstr ""
+"The meanings of expression are negation, assertion, and the eradication of "
+"doubt, therefore the four truths are taught."
 
 msgctxt "f6925158987e416ba16335ada9541175"
 msgid ""
