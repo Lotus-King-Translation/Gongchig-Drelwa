@@ -1511,6 +1511,8 @@ msgctxt "c82a9e7cb0564e9785df2bf3bd3e6649"
 msgid ""
 "འཁོར་ལོ་ གསུམ་ དོན་ མཐོ་དམན་ ཡོད་པ་ ཆེད་ དུ་ བརྗོད་ མཁན་ ཡང་ དེ་བཞིན་ ནོ ། །"
 msgstr ""
+"Those who express the need for high and low meanings in the three wheels are"
+" similar."
 
 msgctxt "b68dd586f90c4635a84c298c76f499bc"
 msgid "དེས་ན་ གནས་དུས་ སོགས་ ཀྱིས་ མི་ ཕྱེད་ དེ །"
