@@ -1426,6 +1426,8 @@ msgid ""
 "དགེ་སྦྱོང་ ངམ་ བྲམ་ཟེ་ འམ །  ལྷ་ འམ །  བདུད་ དམ །  ཚངས་པ་␣འམ །  སུ་␣ས་ ཀྱང་ "
 "མ་ བསྐོར་བ་␣འི་ ཆོས་ ཀྱི་ འཁོར་ལོ་ བསྐོར་ རོ ། །"
 msgstr ""
+"by any shramana or brahmin or gods or demons or Brahma or by anyone else, "
+"will now turn the wheel of Dharma."
 
 msgctxt "f84021930f8348998f8c851b7d6e6db0"
 msgid "ཞེས་པ་␣ས་ དང་པོ་ དང༌ །"
