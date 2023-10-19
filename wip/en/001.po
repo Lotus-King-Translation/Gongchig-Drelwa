@@ -1444,7 +1444,7 @@ msgstr "The Suddhavasa gods disperse flowers."
 msgctxt "39e939233d92479596a7695292b6d958"
 msgid ""
 "ཨེ་མ་ འཛམ་བུ་␣འི་ གླིང་ དུ་ ཆོས་ ཀྱི་ འཁོར་ལོ་ གཉིས་པ་ འསྐོར་བ་ མཐོང་ ངོ་ །"
-msgstr ""
+msgstr "It is amazing to see the second wheel of Dharma turning in the world."
 
 msgctxt "1b6fcf182dd24bc9bff239c893172ba2"
 msgid "ཞེས་པ་␣ས་ གཉིས་པ་ དང༌ །"
