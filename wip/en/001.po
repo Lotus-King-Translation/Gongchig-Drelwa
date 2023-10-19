@@ -1516,7 +1516,7 @@ msgstr ""
 
 msgctxt "b68dd586f90c4635a84c298c76f499bc"
 msgid "དེས་ན་ གནས་དུས་ སོགས་ ཀྱིས་ མི་ ཕྱེད་ དེ །"
-msgstr ""
+msgstr "Thus, it is not distinguished by place, time, or other factors."
 
 msgctxt "06f961a1e8914e058061bba175506b29"
 msgid "ཝཱ་ རཱ་ ཎ་ སཱིར་ རྡོ་རྗེ་␣འི་ མཆུ་ སོགས་ དང༌ །"
