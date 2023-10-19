@@ -1553,17 +1553,19 @@ msgstr ""
 
 msgctxt "f2d7fdb83f9d4dd8af7db2d41de5ab2c"
 msgid "ཐ་མ་␣ར་ ལུང་ཞུ་བ་ སོགས་ གསུངས་པ་ དང་ །"
-msgstr ""
+msgstr "Finally, asked for oral transmission, and others."
 
 msgctxt "75db77317a85428bac61602166a7de1a"
 msgid "གསུམ་པ་ འཁོར་ གྱིས་ ཀྱང་ མི་ ཕྱེད་ དེ་"
-msgstr ""
+msgstr "Third, It is not distinguished by retinue as well because"
 
 msgctxt "5455f788fe3d49688e524cad7c8d3b28"
 msgid ""
 "དང་པོ་␣ར་ བྱམས་པ་ སོགས་ དང་ །  བར་ མཐའ་ གཉིས་ ལ་␣འང་ ལྔ་ སྡེ་ བཟང་པོ་ "
 "ཡོད་པ་␣འི་ ཕྱིར་ རོ །"
 msgstr ""
+"Maitreya and others were in the first [wheel of Dharma], while the five "
+"ascetic companions were in both the second and final [wheels of Dharma]."
 
 msgctxt "eb3a81abb88b4deaad4c0c7598b3c625"
 msgid "རྡོ་␣༽༽་␣ཚུལ་ དགུ་ འཛིན་པ་ ཁ་ གཅིག་ གིས །"
