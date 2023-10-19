@@ -1472,7 +1472,7 @@ msgstr "As it is provisional meaning, it became a basis for debate,"
 
 msgctxt "fc50b0bbd9ae477c9d575540a2105de0"
 msgid "གཉིས་པ་ བྱ་རྒོད་ ཕུང་པོ་ རེ་␣ར་ བསྐོར་བ་␣འང་ དེ་བཞིན་ དང་ །"
-msgstr ""
+msgstr "The second turning on Vulture Peak Mountain is similar as well."
 
 msgctxt "11976e74674d4963b6f8e3c218c18979"
 msgid "ད་ལྟར་ བསྐོར་བ་ འདི་ ནི་ སྐབས་ མ་ མཆིས་པ་ དང་ །"
