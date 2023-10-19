@@ -1464,7 +1464,7 @@ msgstr ""
 
 msgctxt "9f11d2ebd86b4b23a7438ad52610c30c"
 msgid "སྐབས་མཆིས་པ །"
-msgstr ""
+msgstr "Suited to the circumstances."
 
 msgctxt "83ed988591fd49c39633dff2ed8f5021"
 msgid "དྲང་དོན་ རྩོད་གཞི་␣ར་ གྱུར་པ་ ལགས་ ལ །"
