@@ -1662,7 +1662,8 @@ msgstr ""
 
 msgctxt "c092aa13862443ca8713e265aee33e1f"
 msgid "བསྟན་བཅོས་ ཁོ་ན་␣ས་ ཀྱང་ ལུང་སྡེ་བཞི་␣འི་ དོན་"
-msgstr "The treatises alone, the meanings of the four sections of Agama, "
+msgstr ""
+"The treatises alone, the meanings of the four sections of transmission, "
 
 msgctxt "a985315e15cb4492b20b8ab08c49b860"
 msgid "བདེན་ བཞི་␣ར་ བཀྲལ་ ཏེ་ ངེས་འབྱུང་ གི་ དབང་ དུ །"
