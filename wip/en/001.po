@@ -1706,7 +1706,7 @@ msgstr "The four truths of the noble ones,"
 
 msgctxt "0e38a25f8a5046f7b1e1b702ad45cbda"
 msgid "ཇི་ལྟ་བ་ བཞིན་ མ་ མཐོང་བ་␣ས །།"
-msgstr ""
+msgstr "Are not seen as they are, therefore"
 
 msgctxt "a7bf2166be5f4bd983d2cee0581386c3"
 msgid "ཡུནརིང་ ལམ་ དུ་ ལཁོར་ བར་ འགྱུར །"
