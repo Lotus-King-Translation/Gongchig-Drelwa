@@ -1637,7 +1637,7 @@ msgstr "[one] attends the branches of the noble path of the root guru"
 
 msgctxt "6285e32feeca49608bd03c29acd4cf45"
 msgid "འབྲས་བུ་ འགོག་པ་ ཐོབ་པ་"
-msgstr ""
+msgstr "The fruits of cessation will be attended. "
 
 msgctxt "7bc4133f1ac349e09b3704deab9bce0f"
 msgid "མྱང་འདས་ རྒྱུ་འབྲས་ སྒྲུབ་ བཅས་"
