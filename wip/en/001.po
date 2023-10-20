@@ -1730,7 +1730,7 @@ msgstr "Because of the marvelous Dharma wheel of complete liberation,"
 
 msgctxt "f14246b632464aef957eac6f65d3a57f"
 msgid "ཉོན་མོངས་ སྒྲིལ་པ་ རྣམ་པ་␣ར་ གཅོད་ མཛད་པ་␣འི ། །"
-msgstr ""
+msgstr "Afflictions and obscurations will be eliminated."
 
 msgctxt "4e075382805e40a9905eee6be3a6ad73"
 msgid "ཡེ་ཤེས་ མཆོད་རྟེན་ བཞི་ ལ་ ཕྱག་ འཚལ་ ལོ །"
