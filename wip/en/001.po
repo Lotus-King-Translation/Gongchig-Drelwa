@@ -1633,7 +1633,7 @@ msgstr "After the origin is abandoned,"
 
 msgctxt "7bb475f33919465e81304ff9afbb7c06"
 msgid "རྩ་བ་ བླ་མ་ ཡན་ལག་ འཕགས་ལམ་ བསྟེན་པ་␣ས་"
-msgstr ""
+msgstr "[one] attends the branches of the noble path of the root guru"
 
 msgctxt "6285e32feeca49608bd03c29acd4cf45"
 msgid "འབྲས་བུ་ འགོག་པ་ ཐོབ་པ་"
