@@ -1726,7 +1726,7 @@ msgstr "Kashika in Varanasi,"
 
 msgctxt "70608384969149008c148c5f82e8cda6"
 msgid "ཆོས་ ཀྱི་ འཁོར་ལོ་ རྣམ་གྲོལ་ རྨད་བྱུང་ བས ། །"
-msgstr ""
+msgstr "Because of the marvelous Dharma wheel of complete liberation,"
 
 msgctxt "f14246b632464aef957eac6f65d3a57f"
 msgid "ཉོན་མོངས་ སྒྲིལ་པ་ རྣམ་པ་␣ར་ གཅོད་ མཛད་པ་␣འི ། །"
