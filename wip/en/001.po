@@ -1671,7 +1671,7 @@ msgstr "the four truths are elucidated and with the power of renunciation,"
 
 msgctxt "cd9ba85a9ced4d5cad946eae5e5b687b"
 msgid "གང་ འབྱུང་ ན་ གང་ཟག་ གམ་ ཀུན་འབྱུང༌ །"
-msgstr "What happens if a person or the origin,"
+msgstr "Who will it happen is a person or the origin,"
 
 msgctxt "44fbe99c52e04368961624ece9b842bd"
 msgid "གར་ འབྱུང་ ན་ མྱང་འདས་ སམ་ འགོག་པ །"
