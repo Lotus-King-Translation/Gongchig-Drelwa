@@ -1641,7 +1641,7 @@ msgstr "The fruits of cessation will be attended. "
 
 msgctxt "7bc4133f1ac349e09b3704deab9bce0f"
 msgid "མྱང་འདས་ རྒྱུ་འབྲས་ སྒྲུབ་ བཅས་"
-msgstr ""
+msgstr "To accomplish the cause and effect of nirvana."
 
 msgctxt "a0175cb945934a4fa2e326a5e535d7fd"
 msgid "བླང་ བྱ་ འཇུག་པ་␣འི་ ཚུལ་ཁྲིམས་ ལུང་བཞི་␣ས་ བསྟན་པ་"
