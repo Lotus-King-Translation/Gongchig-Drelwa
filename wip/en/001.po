@@ -1714,7 +1714,7 @@ msgstr "[Others] circle for a long time in the path."
 
 msgctxt "c8f08a86e86043a2ae886df9b97ec031"
 msgid "ཞེས་ དང༌ །"
-msgstr ""
+msgstr "And,"
 
 msgctxt "09094da162334a1598c308975a244735"
 msgid "སློབ་དཔོན་ ཀླུ་སྒྲུབ་ ཀྱིས །"
