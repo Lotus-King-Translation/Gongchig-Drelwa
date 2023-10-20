@@ -1734,7 +1734,7 @@ msgstr "Afflictions and obscurations will be eliminated."
 
 msgctxt "4e075382805e40a9905eee6be3a6ad73"
 msgid "ཡེ་ཤེས་ མཆོད་རྟེན་ བཞི་ ལ་ ཕྱག་ འཚལ་ ལོ །"
-msgstr ""
+msgstr "I pay homage to the four stupas of wisdom."
 
 msgctxt "695a3ef775fa430588ccd009de62b8f0"
 msgid "ཞེས་ སོ ། །"
