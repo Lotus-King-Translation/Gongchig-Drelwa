@@ -1702,7 +1702,7 @@ msgstr "Monks! Except for you and me,"
 
 msgctxt "61037f92f6b34a58ad2919b153aa3cb3"
 msgid "འཕགས་པ་␣འི་ བདེན་པ་ བཞི་པོ་ དག །"
-msgstr ""
+msgstr "The four truths of the noble ones,"
 
 msgctxt "0e38a25f8a5046f7b1e1b702ad45cbda"
 msgid "ཇི་ལྟ་བ་ བཞིན་ མ་ མཐོང་བ་␣ས །།"
