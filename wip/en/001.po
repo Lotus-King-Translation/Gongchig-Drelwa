@@ -1738,7 +1738,7 @@ msgstr "I pay homage to the four stupas of wisdom."
 
 msgctxt "695a3ef775fa430588ccd009de62b8f0"
 msgid "ཞེས་ སོ ། །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "ae6147eaa39a43fa8d0ca41b73c47a3a"
 msgid "རིག་པ་ ཕ་␣འང་ བདེན་ བཞི་ ལ་␣ས་ གཞན་ འདུལ་བ་ མེད་པ་␣ས་ སོ །"
