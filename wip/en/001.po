@@ -1718,7 +1718,7 @@ msgstr "And,"
 
 msgctxt "09094da162334a1598c308975a244735"
 msgid "སློབ་དཔོན་ ཀླུ་སྒྲུབ་ ཀྱིས །"
-msgstr ""
+msgstr "Master Nagarjuna said:"
 
 msgctxt "6c78982b649545e5ac2e51f526e375e6"
 msgid "ཀཱ་ ཤི་ ཀ་ ཡི་ ཝཱ་ རཱ་ ཎ་ སཱི་ རུ ། །"
