@@ -1645,7 +1645,7 @@ msgstr "To accomplish the cause and effect of nirvana."
 
 msgctxt "a0175cb945934a4fa2e326a5e535d7fd"
 msgid "བླང་ བྱ་ འཇུག་པ་␣འི་ ཚུལ་ཁྲིམས་ ལུང་བཞི་␣ས་ བསྟན་པ་"
-msgstr ""
+msgstr "The four transmissions show the discipline that engages in adopting,"
 
 msgctxt "f216102f9a9f47c2ba074ddb3b82b062"
 msgid "རབ་བྱུང་ སོགས་ བཞི་ བཅུ་བདུན་ ལས་མི་ འགལ་བ་ ལམ་ དང་ །"
