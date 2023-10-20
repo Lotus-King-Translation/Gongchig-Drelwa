@@ -1742,7 +1742,7 @@ msgstr "As said."
 
 msgctxt "ae6147eaa39a43fa8d0ca41b73c47a3a"
 msgid "རིག་པ་ ཕ་␣འང་ བདེན་ བཞི་ ལ་␣ས་ གཞན་ འདུལ་བ་ མེད་པ་␣ས་ སོ །"
-msgstr ""
+msgstr "There is no Vinaya other than the four truths, the father of rigpa."
 
 msgctxt "0c0e08e58870453ebe96f662d48a9829"
 msgid "རྡོ་␣༽༽  གཞན་ བཞེད་པ་"
