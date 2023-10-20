@@ -1613,7 +1613,7 @@ msgstr "the afflictive minds and their connected karmas,"
 
 msgctxt "cf8e7503dd3947e798f851633aeeb366"
 msgid "དེ་ གཉིས་ ལས་འབྲས་ བུ་སྡུག་ བསྔལ་ འབྱུང་བ་"
-msgstr ""
+msgstr "the emergence of suffering results from these two."
 
 msgctxt "bf08ec506fe64f229624e32073fb9b4d"
 msgid ""
