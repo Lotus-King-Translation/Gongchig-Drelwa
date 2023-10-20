@@ -1722,7 +1722,7 @@ msgstr "Master Nagarjuna said:"
 
 msgctxt "6c78982b649545e5ac2e51f526e375e6"
 msgid "ཀཱ་ ཤི་ ཀ་ ཡི་ ཝཱ་ རཱ་ ཎ་ སཱི་ རུ ། །"
-msgstr ""
+msgstr "Kashika in Varanasi,"
 
 msgctxt "70608384969149008c148c5f82e8cda6"
 msgid "ཆོས་ ཀྱི་ འཁོར་ལོ་ རྣམ་གྲོལ་ རྨད་བྱུང་ བས ། །"
