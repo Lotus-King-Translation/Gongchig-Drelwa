@@ -1604,6 +1604,7 @@ msgstr ""
 msgctxt "849ce347c67649538f20bd2d33c40d30"
 msgid "འདི་␣ར་ ནི་ འདུལ་བ་␣འི་ སྡེ་སྣོད་ བདེན་ བཞི་␣འི་ ཆོས་འཁོར་ ཡིན་ ཏེ་"
 msgstr ""
+"In this [system], the Vinaya pitaka is the four truth wheel of Dharma as"
 
 msgctxt "2408343d8072422c807b31cce2d61c8c"
 msgid "ཉོན་མོངས་པ་ སེམས་ དང་ དེ་ དང་ རྗེས་སུ་ འབྲེལ་བ་ ལ་␣ས་ ཏེ་"
