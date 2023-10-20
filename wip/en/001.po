@@ -1686,7 +1686,7 @@ msgstr ""
 
 msgctxt "293e8e4789a44d4fa37c23c2881075ee"
 msgid "གནས་མལ་ གྱི་ གཞི་ ལས་སྒོ་ གདོད་ དུ་"
-msgstr ""
+msgstr "The prime door from the basis of the shelter"
 
 msgctxt "7692bcbe1a8f4d61aae7c8f53ad21d3f"
 msgid "སྲིད་པ་␣འི་ འཁོར་ལོ་ ཆ་ ལྔ་པ་␣ར་ གསུངས་པ་ དང །"
