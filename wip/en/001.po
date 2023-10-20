@@ -1625,7 +1625,7 @@ msgstr ""
 
 msgctxt "d34ac3e101b74e94a8258c460105a6e7"
 msgid "ཉིས་ བརྒྱ་ ལྔ་ བཅུ་ རྩ་ གསུམ་ སྡུག་བསྔལ་ ཤེས་པ །"
-msgstr ""
+msgstr "Two hundred fifty-three knowledge of suffering"
 
 msgctxt "5ca45a2d40bd4decacbc5432713db4e9"
 msgid "ཀུན་འབྱུང་ སྤོང་བ་ དང༌ །"
