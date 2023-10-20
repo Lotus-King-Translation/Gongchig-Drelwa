@@ -1650,6 +1650,7 @@ msgstr "The four transmissions show the discipline that engages in adopting,"
 msgctxt "f216102f9a9f47c2ba074ddb3b82b062"
 msgid "རབ་བྱུང་ སོགས་ བཞི་ བཅུ་བདུན་ ལས་མི་ འགལ་བ་ ལམ་ དང་ །"
 msgstr ""
+"The path that does not contradict the forty-seven paths including Rabjung."
 
 msgctxt "f2d324b4c7d4474f8237004f21dc7dca"
 msgid ""
