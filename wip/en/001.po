@@ -1746,7 +1746,7 @@ msgstr "There is no Vinaya other than the four truths, the father of rigpa."
 
 msgctxt "0c0e08e58870453ebe96f662d48a9829"
 msgid "རྡོ་␣༽༽  གཞན་ བཞེད་པ་"
-msgstr ""
+msgstr "Vajra: Others accept that,"
 
 msgctxt "bf59278b6c3040ceaca1910273f9a645"
 msgid "ཐེག་པ་ སྣ་ཚོགས་ སྟོན་པ་ བར་པ་ མཚན་ཉིད་ མེད་པ་ ངེས་དོན་ དང་"
