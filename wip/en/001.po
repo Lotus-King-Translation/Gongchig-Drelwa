@@ -1657,6 +1657,8 @@ msgid ""
 "དེ་␣ས་ ཀུན་འབྱུང་ སྤང་བ་␣ས་ སྡུག་བསྔལ་ འགག་པ་ འགོག་ འདེན་ ཡིན་པ་␣འི་ ཕྱིར་ "
 "དང་ ༑"
 msgstr ""
+"This will abandon the origin and hence end the suffering; thus it is the "
+"truth of cessation. "
 
 msgctxt "c092aa13862443ca8713e265aee33e1f"
 msgid "བསྟན་བཅོས་ ཁོ་ན་␣ས་ ཀྱང་ ལུང་སྡེ་བཞི་␣འི་ དོན་"
