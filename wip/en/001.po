@@ -1675,7 +1675,7 @@ msgstr "A person or the origin is where it happens."
 
 msgctxt "44fbe99c52e04368961624ece9b842bd"
 msgid "གར་ འབྱུང་ ན་ མྱང་འདས་ སམ་ འགོག་པ །"
-msgstr "Where will it happen is nirvana or cessation,"
+msgstr "Nirvana or cessation is what it occurs."
 
 msgctxt "8dd6f3f37d714f6a8672cf9409d58823"
 msgid ""
