@@ -1772,7 +1772,7 @@ msgstr ""
 
 msgctxt "d20cfe63876c42c5ba2991fbac3dda90"
 msgid "ཕྱི་མ་ གཉིས་ ཀྱང་ ངེས་དོན་ མིན་ ཏེ་"
-msgstr ""
+msgstr "The latter two are likewise not a definitive meaning."
 
 msgctxt "2b5ac770586349abbd28cb479dbfb2c3"
 msgid "རྒྱུད་ བླ་␣ར །"
