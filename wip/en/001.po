@@ -1761,6 +1761,8 @@ msgstr "Some of it is said to Trapusa and Bhallika, which is the first one."
 msgctxt "e3df737a2db549b4b74ce4faf05e8792"
 msgid "བདེན་ བཞི་ བར་པ་ མཚན་ཉིད་ མེད་པ་ ངེས་དོན །"
 msgstr ""
+"The four truths and the middle with the absence of defining characteristics "
+"are definitive meaning. "
 
 msgctxt "40d43d35bdef497aa2b7862fde4c85e3"
 msgid "ཐེག་པ་ སྣ་ཚོགས་ བསྟན་པ་ མ་ངེས་པ་␣འི་ འཁོར་ལོ་ ཡིན་ ཟེར་ ཞིང༌ །"
