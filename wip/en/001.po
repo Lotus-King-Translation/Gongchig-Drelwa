@@ -1780,7 +1780,7 @@ msgstr "According to the Uttaratantra:"
 
 msgctxt "7e7ca1ba121f4978a99359a7f381f006"
 msgid "སྤྲིན་ དང་ རྨི་ལམ་ སྒྱུ་མ་ བཞིན །"
-msgstr ""
+msgstr "Like a cloud, a dream, or an illusion."
 
 msgctxt "e72d2b6bacbb49c8bd6c1629e405472e"
 msgid "དེ་ དང་ དེ་␣ར་ སོགས་ ཀྱི་ དྲང་དོན་ ཡིན་མོད་"
