@@ -1814,7 +1814,7 @@ msgstr "various paths have emerged, and by teaching various vehicles,"
 
 msgctxt "cee509698cea44f2950add127e9fb52f"
 msgid "ཐེག་པ་ གཅིག་ ཏུ་ གཏན་ ལ་ ཕབ་ སྟེ་"
-msgstr ""
+msgstr "one vehicle has been established."
 
 msgctxt "931a49c848cb41e39461234cb684c730"
 msgid "དཀོན་མཆོག་ གསུམ་ རྟག་པ་ རྒྱུན་ མི་ ཆད་པ་ གཏན་ ལ་ ཕབ་པ་␣འི་ ཕྱིར་ དང་"
