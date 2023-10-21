@@ -1793,6 +1793,7 @@ msgstr "In this [system], the philosophical position of lord Drigungpa is"
 msgctxt "ae578490f1d04346b2a991e23cd54dee"
 msgid "ཐེག་པ་ སྣ་ཚོགས་ ངེས་དོན་ འཁོར་ལོ་ སྟེ་"
 msgstr ""
+"The different kinds of vehicles are the wheel of definitive meaning because"
 
 msgctxt "cf29c10f3b2b4e17b9f139cf179170f2"
 msgid "རིམ་པ་␣འི་ དབང་ གིས་ དང་པོ་␣ར་ རྒྱུ་འབྲས་"
