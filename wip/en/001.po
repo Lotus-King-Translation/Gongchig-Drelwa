@@ -1818,7 +1818,7 @@ msgstr "One vehicle has been determined."
 
 msgctxt "931a49c848cb41e39461234cb684c730"
 msgid "དཀོན་མཆོག་ གསུམ་ རྟག་པ་ རྒྱུན་ མི་ ཆད་པ་ གཏན་ ལ་ ཕབ་པ་␣འི་ ཕྱིར་ དང་"
-msgstr "The three jewels are determined as permanent and uninterrupted."
+msgstr "The three jewels are determined as constant and uninterrupted."
 
 msgctxt "7c8a9c3d2fae4f9db5a0a3a32f33321f"
 msgid "ལུང་ ཡང་ དེ་བཞིན་ གཤེགས་པ་␣འི་ སྙིང་པོ་␣འི་ མདོ་␣ར་"
