@@ -1756,7 +1756,7 @@ msgstr ""
 
 msgctxt "2abcb6fecfcc45a4aa4f769534ed0bac"
 msgid "འགའ་ཞིག་ གོན་ དང་ བཟང་པོ་ ལ་ ཤེས་པ་␣ར་ བརྗོད་པ་ དང་པོ །"
-msgstr ""
+msgstr "Some of it is said to Trapusa and Bhallika, which is the first one."
 
 msgctxt "e3df737a2db549b4b74ce4faf05e8792"
 msgid "བདེན་ བཞི་ བར་པ་ མཚན་ཉིད་ མེད་པ་ ངེས་དོན །"
