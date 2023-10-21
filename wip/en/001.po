@@ -1810,7 +1810,7 @@ msgstr "Finally, above it, emptiness engages in various causes and effects,"
 
 msgctxt "7447d525f06d4330a95bdb0ba0920ac4"
 msgid "ལམ་སྣ་ ཚོགས་ སུ་ འབྱུང་བ་ ཐེག་པ་ སྣ་ཚོགས་ བསྟན་ ནས་"
-msgstr ""
+msgstr "the various paths have emerged and by teaching various vehicles,"
 
 msgctxt "cee509698cea44f2950add127e9fb52f"
 msgid "ཐེག་པ་ གཅིག་ ཏུ་ གཏན་ ལ་ ཕབ་ སྟེ་"
