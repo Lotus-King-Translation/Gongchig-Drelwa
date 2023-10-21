@@ -1833,6 +1833,7 @@ msgstr "The three deceitful jewels"
 msgctxt "180a6787469f4192b69e6cdf0b071821"
 msgid "ཕྱི་བ་ གསུམ་ གྱི་ དཔེ་ སྙིང་པོ་ བསྟན་པ་␣ར་ གསུངས་པ་␣ས་"
 msgstr ""
+"It is said that the examples of the three externals are shown essentially. "
 
 msgctxt "c1a4b2fe810a40df9686084f84d2c459"
 msgid ""
