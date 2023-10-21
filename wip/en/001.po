@@ -1468,7 +1468,7 @@ msgstr "Adapted to the circumstances."
 
 msgctxt "83ed988591fd49c39633dff2ed8f5021"
 msgid "དྲང་དོན་ རྩོད་གཞི་␣ར་ གྱུར་པ་ ལགས་ ལ །"
-msgstr "As it is provisional meaning, it became a basis for debate,"
+msgstr "As its provisional meaning became a basis for debate,"
 
 msgctxt "fc50b0bbd9ae477c9d575540a2105de0"
 msgid "གཉིས་པ་ བྱ་རྒོད་ ཕུང་པོ་ རེ་␣ར་ བསྐོར་བ་␣འང་ དེ་བཞིན་ དང་ །"
