@@ -1767,6 +1767,8 @@ msgstr ""
 msgctxt "40d43d35bdef497aa2b7862fde4c85e3"
 msgid "ཐེག་པ་ སྣ་ཚོགས་ བསྟན་པ་ མ་ངེས་པ་␣འི་ འཁོར་ལོ་ ཡིན་ ཟེར་ ཞིང༌ །"
 msgstr ""
+"The teaching of the various vehicles is said to be the indefinite wheel of "
+"Dharma."
 
 msgctxt "d20cfe63876c42c5ba2991fbac3dda90"
 msgid "ཕྱི་མ་ གཉིས་ ཀྱང་ ངེས་དོན་ མིན་ ཏེ་"
