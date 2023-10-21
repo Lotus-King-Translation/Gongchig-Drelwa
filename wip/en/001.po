@@ -1751,6 +1751,8 @@ msgstr "Vajra: Others accept that,"
 msgctxt "bf59278b6c3040ceaca1910273f9a645"
 msgid "ཐེག་པ་ སྣ་ཚོགས་ སྟོན་པ་ བར་པ་ མཚན་ཉིད་ མེད་པ་ ངེས་དོན་ དང་"
 msgstr ""
+"From the teachings of the different kinds of vehicles, the middle one is "
+"definitive meaning and absence of defining characteristics."
 
 msgctxt "2abcb6fecfcc45a4aa4f769534ed0bac"
 msgid "འགའ་ཞིག་ གོན་ དང་ བཟང་པོ་ ལ་ ཤེས་པ་␣ར་ བརྗོད་པ་ དང་པོ །"
