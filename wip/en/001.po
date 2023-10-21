@@ -1776,7 +1776,7 @@ msgstr "The latter two are likewise not a definitive meaning."
 
 msgctxt "2b5ac770586349abbd28cb479dbfb2c3"
 msgid "རྒྱུད་ བླ་␣ར །"
-msgstr ""
+msgstr "According to the Uttaratantra:"
 
 msgctxt "7e7ca1ba121f4978a99359a7f381f006"
 msgid "སྤྲིན་ དང་ རྨི་ལམ་ སྒྱུ་མ་ བཞིན །"
