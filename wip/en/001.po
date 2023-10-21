@@ -1806,7 +1806,7 @@ msgstr ""
 
 msgctxt "a09b83ef478542999c2085465fcbea71"
 msgid "ཐ་མ་␣ར་ དེ་␣འི་ སྟེང་ དུ་ སྟོང་ཉིད་ རྒྱུ་འབྲས་ སྣ་ཚོགས་ ལ་ འཇུག་པ །"
-msgstr "Finally, above it, emptiness engages in various causes and effects."
+msgstr "Finally, above it, emptiness engages in various causes and effects,"
 
 msgctxt "7447d525f06d4330a95bdb0ba0920ac4"
 msgid "ལམ་སྣ་ ཚོགས་ སུ་ འབྱུང་བ་ ཐེག་པ་ སྣ་ཚོགས་ བསྟན་ ནས་"
