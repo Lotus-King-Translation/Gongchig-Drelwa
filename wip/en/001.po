@@ -1849,6 +1849,7 @@ msgstr "Not adapted to the circumstances"
 msgctxt "3b0fd7cad1b24629bbd6792ea12e1bc6"
 msgid "ངེས་པ་␣འི་ དོན་ རྩོད་གཞི་␣ར་ མ་ གྱུར་པ་␣ར་ གསུངས་ ཤིང༌ །"
 msgstr ""
+"Said that the meaning of definitive did not become a basis for debate."
 
 msgctxt "03c7a777ef15435a97ba758545f3e41e"
 msgid ""
