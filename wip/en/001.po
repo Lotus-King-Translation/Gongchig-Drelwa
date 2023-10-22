@@ -1932,7 +1932,7 @@ msgstr ""
 
 msgctxt "506f178b7ab542d6b8229ba1a16562f7"
 msgid "དེ་ ཁོ་ན་ཉིད་ དུ་ བཞེད་པ་ ཡིན་ ཏེ་"
-msgstr ""
+msgstr "It is accepted just that and not anything else because"
 
 msgctxt "31e3c7c292844e11beb9dc82af954bf4"
 msgid ""
