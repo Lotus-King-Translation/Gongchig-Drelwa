@@ -1889,7 +1889,7 @@ msgstr ""
 
 msgctxt "6e302ee23d6e439d8b09182a2cf26317"
 msgid "གལ་ཏེ་ སྟོང་པ་ ཐབས་ ཡིན་ ན །"
-msgstr ""
+msgstr "If empty is the method,"
 
 msgctxt "9647ddd539e5415b9a0b55b235ecfa89"
 msgid "དེ་ ནི་ སངས་རྒྱས་ ཐོབ་ མི་ འགྱུར །"
