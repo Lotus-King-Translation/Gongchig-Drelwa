@@ -1901,7 +1901,7 @@ msgstr "As it is said."
 
 msgctxt "b4802f9ea18e4f46b82a9744707ddfcb"
 msgid "རྡོ་␣༽༽  གཞན་དག་ ན་རེ །"
-msgstr ""
+msgstr "Vajra: others said,"
 
 msgctxt "9f86bb39f346451d8bf1ca859133c786"
 msgid "དྲང་དོན་ ངེས་དོན་"
