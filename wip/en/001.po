@@ -1913,7 +1913,7 @@ msgstr "Implied meaning and not implied meaning."
 
 msgctxt "2c923ea2c912474782bc716e67a9cc12"
 msgid "སྒྲ་ ཇི་བཞིན་ ཇི་བཞིན་ མ་ཡིན་པ་ མཐའ་ དྲུག་ ལ་␣ས༌"
-msgstr ""
+msgstr "From the six extremes whose utterances are not literal,"
 
 msgctxt "6ce9933eb1f9449d9d9a40b7a6b2f623"
 msgid ""
