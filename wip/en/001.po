@@ -1897,7 +1897,7 @@ msgstr "Then buddhahood will not be attained."
 
 msgctxt "a91b5203fc2c46ec8dba52002524a25e"
 msgid "ཞེས་པ་ ཡིན་ ནོ །"
-msgstr ""
+msgstr "As it is said."
 
 msgctxt "b4802f9ea18e4f46b82a9744707ddfcb"
 msgid "རྡོ་␣༽༽  གཞན་དག་ ན་རེ །"
