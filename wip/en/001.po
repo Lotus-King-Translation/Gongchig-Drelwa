@@ -1839,6 +1839,8 @@ msgctxt "c1a4b2fe810a40df9686084f84d2c459"
 msgid ""
 "ཐ་མ་ དེ་ ངེས་དོན་ དགོངས་པ་ ངེས་ འགྲེལ་ ལ་␣ས་ ཀྱང་ ཐ་མ་ བླ་ ན་མ་ མཆིས་པ །"
 msgstr ""
+"The final one is definitive meaning, it is more unsurpassable than the "
+"Unravelling of the Thought"
 
 msgctxt "3cd686011b8c4079b13a07a937a6ede1"
 msgid "སྐབས་ མ་ མཆིས་པ །"
