@@ -1884,6 +1884,8 @@ msgstr ""
 msgctxt "a7ba8bd9983d45a49fbc4f4877d04ffa"
 msgid "ཕྱི་མ་ ངེས་དོན་ ཏེ་ མཁའ་འགྲོ་ དྲྭ་བ་␣འི་ ལེའུ་ ལ་␣ས །"
 msgstr ""
+"The latter is the definitive meaning since, according to the Dakini Net "
+"chapter,"
 
 msgctxt "6e302ee23d6e439d8b09182a2cf26317"
 msgid "གལ་ཏེ་ སྟོང་པ་ ཐབས་ ཡིན་ ན །"
