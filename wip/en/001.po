@@ -1927,6 +1927,8 @@ msgstr ""
 msgctxt "a3e92fd5e10d4b3b80dd8d038cc615fd"
 msgid "འདི་␣ར་ ནི་ མཐའ་ དྲུག་ དགོངས་པ་ ངེས་པ་␣འི་ དོན་ འབའ་ཞིག་ ཏེ་"
 msgstr ""
+"In this [system], the implied meanings of the six extremes are only the "
+"definitive meaning. "
 
 msgctxt "506f178b7ab542d6b8229ba1a16562f7"
 msgid "དེ་ ཁོ་ན་ཉིད་ དུ་ བཞེད་པ་ ཡིན་ ཏེ་"
