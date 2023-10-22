@@ -1870,6 +1870,8 @@ msgctxt "bac16025137541e39971c80107649e38"
 msgid ""
 "འོ་ན་ ངེས་དོན་ སྟོང་ཉིད་ དྲང་དོན་ རྒྱུ་འབྲས་ ཡིན་ གསུངས་པ་ དང་ འགལ་ སྙམ་ ན །"
 msgstr ""
+"Well, if [one] thinks it contradicts the statement, the definitive meaning "
+"is emptiness and the provisional meaning is cause and effect,"
 
 msgctxt "788f9dcf0baf424880a8ff00fcd563be"
 msgid ""
