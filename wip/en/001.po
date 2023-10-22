@@ -1905,7 +1905,7 @@ msgstr "Vajra: others said,"
 
 msgctxt "9f86bb39f346451d8bf1ca859133c786"
 msgid "དྲང་དོན་ ངེས་དོན་"
-msgstr ""
+msgstr "the provisional meaning and the definitive meaning"
 
 msgctxt "b925598ed6314b8fac5b5747084ed22d"
 msgid "དགོངས་ ཅན་ དགོངས་ མིན་"
