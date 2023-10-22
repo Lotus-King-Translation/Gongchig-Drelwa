@@ -1844,7 +1844,7 @@ msgstr ""
 
 msgctxt "3cd686011b8c4079b13a07a937a6ede1"
 msgid "སྐབས་ མ་ མཆིས་པ །"
-msgstr ""
+msgstr "Not adapted to the circumstances"
 
 msgctxt "3b0fd7cad1b24629bbd6792ea12e1bc6"
 msgid "ངེས་པ་␣འི་ དོན་ རྩོད་གཞི་␣ར་ མ་ གྱུར་པ་␣ར་ གསུངས་ ཤིང༌ །"
