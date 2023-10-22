@@ -1855,6 +1855,8 @@ msgctxt "03c7a777ef15435a97ba758545f3e41e"
 msgid ""
 "བར་པ་ གཉིས་ བླ་ ན་ མཆིས་པ་ དང་ རྩོད་གཞི་␣ར་ ཅན་ དུ་ གསུངས་པ་␣འི་ ཕྱིར་ དང༌ །"
 msgstr ""
+"The middle [one] is surpassable and becomes a basis for debate. It is said "
+"because"
 
 msgctxt "af4eeacbaf264dec970e793405c07df2"
 msgid ""
