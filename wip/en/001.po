@@ -1893,7 +1893,7 @@ msgstr "If empty is the method,"
 
 msgctxt "9647ddd539e5415b9a0b55b235ecfa89"
 msgid "དེ་ ནི་ སངས་རྒྱས་ ཐོབ་ མི་ འགྱུར །"
-msgstr ""
+msgstr "Then buddhahood will not be attained."
 
 msgctxt "a91b5203fc2c46ec8dba52002524a25e"
 msgid "ཞེས་པ་ ཡིན་ ནོ །"
