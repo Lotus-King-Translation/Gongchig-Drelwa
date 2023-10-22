@@ -1878,6 +1878,8 @@ msgid ""
 "དེ་ ནི་ ཕྱོགས་ རེ་ཙམ་ ལྡོག་པ་ ནས་ གསུངས་པ་ མ་གཏོགས་ སྟོང་ཉིད་ རྒྱུ་འབྲས་ "
 "དབྱེ་␣ར་ མེད །"
 msgstr ""
+"That is only stated from a few points of view; emptiness and cause and "
+"effect are indivisible."
 
 msgctxt "a7ba8bd9983d45a49fbc4f4877d04ffa"
 msgid "ཕྱི་མ་ ངེས་དོན་ ཏེ་ མཁའ་འགྲོ་ དྲྭ་བ་␣འི་ ལེའུ་ ལ་␣ས །"
