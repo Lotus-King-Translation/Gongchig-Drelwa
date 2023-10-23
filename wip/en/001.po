@@ -1954,6 +1954,8 @@ msgctxt "2a7d32e96f214d13869b4363db1f056f"
 msgid ""
 "མཐའ་ དྲུག་ ཀ་ ལྷུན་གྲུབ་ བདེ་བ་ ཆེན་པོ་␣ར་ འདྲེན་བྱེད་ ཀྱི་ གསུངས་ ཡིན་པ་␣ས་"
 msgstr ""
+"Since the six extremes serve as a guideline for spontaneously achieving the "
+"Great Bliss."
 
 msgctxt "b3cc1fdf8514404ea6c6d0ef0a8fa880"
 msgid "དེ་␣འི་ ངོས་ ནས་ ཐམས་ཅད་ དྲང་དོན་ ཡིན །"
