@@ -2059,6 +2059,8 @@ msgstr ""
 msgctxt "4555ca93015b4673af249e6cacb88803"
 msgid "བསྟན་བཅོས་ ཀྱང་ བྱམས་པ་␣ས་ དང་པོ་␣ར་ མངོན་ རྒྱན་ རྒྱུད་ བླ །"
 msgstr ""
+"Firstly, Maitreya's The Ornament of Manifest Realization and The Highest "
+"Continuum as treatises. "
 
 msgctxt "ac7f12ac9d3d405f991acdf57d6001b5"
 msgid "གཉིས་པ་␣ར་ རྒྱན་ དང་ འབྱེད་ གཉིས་ མཛད་པ་ དང༌ །"
