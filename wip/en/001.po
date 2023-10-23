@@ -2038,6 +2038,8 @@ msgstr ""
 msgctxt "2e433ab15fa9425cbba6feef685083d8"
 msgid "དེ་ཕྱིར་ མཐའ་ དྲུག་ དགོངས་པ་ ངེས་དོན་ འབའ་ཞིག་ བཞེད་ དོ ། །"
 msgstr ""
+"Because of that, It accepts that the intent of the six extremes is only the "
+"definitive meaning."
 
 msgctxt "0cb1430fe5f044cc946ebedfb6c826a6"
 msgid "རྡོ་␣༽༽  གཞན་དག་ ན་རེ །"
