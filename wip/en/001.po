@@ -1993,7 +1993,7 @@ msgstr "Young man, I will instruct and show you,"
 
 msgctxt "118dab34f18743b3877aa18eab4e38e0"
 msgid "དད་པ་␣ར་ གྱིས་ ཤིག་ ང་ ལ་ མི་ བདེན་ མེད །"
-msgstr ""
+msgstr "You must have confidence [in me], I have no untrue."
 
 msgctxt "9fcc2b9b4aaf4e4cb97f04598c48b44d"
 msgid "བདེ་གཤེགས་ རྫུན་ གྱི་ ཚིག་ ནི་ མི་སྨྲ་ སྟེ །"
