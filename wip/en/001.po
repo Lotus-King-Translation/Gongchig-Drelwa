@@ -1964,6 +1964,7 @@ msgstr "It's all provisional meaning from that perspective."
 msgctxt "0131f92aa6fd4df99767a2c3097a08fd"
 msgid "གནས་སྐབས་ མཐར་ཐུག་ གི་ འབྲས་བུ་ འགྲུབ་ ཚུལ་"
 msgstr ""
+"The ways of accomplishing the ultimate result in a certain circumstance."
 
 msgctxt "03bde1ccdbae4f9c88c06b8f27d721cc"
 msgid "འཁོར་བ་␣འི་ སྡུག་བསྔལ་ གྱི་ བསྐྱེད་ ཚུལ་ རྣམས་"
