@@ -2053,6 +2053,8 @@ msgstr ""
 msgctxt "c188ebab82024fe981891bb951e89625"
 msgid "ཕལ་ཆེན་ སོགས་ སེམས་ ཙམ་ མདོ་ བཞི་ ལྟ་བུ་ འཀའ་ ཐ་དད །"
 msgstr ""
+"The Buddha Avatamsaka Sutra Section and others are distinct [Buddha-]words, "
+"similar to the four sutras of the Mind Only."
 
 msgctxt "4555ca93015b4673af249e6cacb88803"
 msgid "བསྟན་བཅོས་ ཀྱང་ བྱམས་པ་␣ས་ དང་པོ་␣ར་ མངོན་ རྒྱན་ རྒྱུད་ བླ །"
