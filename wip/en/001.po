@@ -1997,7 +1997,7 @@ msgstr "Have confidence [in me], I have no untrue."
 
 msgctxt "9fcc2b9b4aaf4e4cb97f04598c48b44d"
 msgid "བདེ་གཤེགས་ རྫུན་ གྱི་ ཚིག་ ནི་ མི་སྨྲ་ སྟེ །"
-msgstr ""
+msgstr "Sugata will never express false words."
 
 msgctxt "c16bf8c5c5c3496a93af11dff3800fd3"
 msgid "ཐུགས་རྗེ་ རྒྱལ་བ་ རྟག་ ཏུ་ བདེན་པ་␣ར་ གསུང༌ །"
