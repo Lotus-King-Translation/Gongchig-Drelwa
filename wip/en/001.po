@@ -1959,7 +1959,7 @@ msgstr ""
 
 msgctxt "b3cc1fdf8514404ea6c6d0ef0a8fa880"
 msgid "དེ་␣འི་ ངོས་ ནས་ ཐམས་ཅད་ དྲང་དོན་ ཡིན །"
-msgstr ""
+msgstr "From that side, it is all provisional meaning. "
 
 msgctxt "0131f92aa6fd4df99767a2c3097a08fd"
 msgid "གནས་སྐབས་ མཐར་ཐུག་ གི་ འབྲས་བུ་ འགྲུབ་ ཚུལ་"
