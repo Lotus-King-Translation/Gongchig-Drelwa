@@ -2032,6 +2032,8 @@ msgid ""
 "བདེན་རྫུན་ ཕྱེ་བ་ ནི་ མནར་མེད་ དུ་ སྐྱེ་ ང་␣འི་ ལ་␣ས་ གསོག་པ་␣ས་ རྣ་བ་ བག་ "
 "ཡོད་ བྱ་ སྟེ་"
 msgstr ""
+"For dividing true and false, [one] will be born in the Unending Torment "
+"[Hell]. I should be heedful of the ear as I accumulate karma."
 
 msgctxt "2e433ab15fa9425cbba6feef685083d8"
 msgid "དེ་ཕྱིར་ མཐའ་ དྲུག་ དགོངས་པ་ ངེས་དོན་ འབའ་ཞིག་ བཞེད་ དོ ། །"
