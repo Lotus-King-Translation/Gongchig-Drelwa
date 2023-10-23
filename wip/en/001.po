@@ -2065,6 +2065,8 @@ msgstr ""
 msgctxt "ac7f12ac9d3d405f991acdf57d6001b5"
 msgid "གཉིས་པ་␣ར་ རྒྱན་ དང་ འབྱེད་ གཉིས་ མཛད་པ་ དང༌ །"
 msgstr ""
+"Secondly, [he] composed the Ornament of the Sutra Section and the two "
+"Distinctions."
 
 msgctxt "e96e5006ce924b6dac7c1dcc30dcbde3"
 msgid "འཕགས་པ་ ཡབ་ སྲས་ ཀྱིས་ དབུ་མ་␣འི་ དགོངས་འགྲེལ་ རིགས་པ་␣འི་ ཚོགས་ དང༌ །"
