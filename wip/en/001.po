@@ -2005,7 +2005,7 @@ msgstr "The compassionate Victor always speaks the truth."
 
 msgctxt "b3e49a8ba58a41679057e0790a5ed2b1"
 msgid "ཞེས་ དང་"
-msgstr ""
+msgstr "And"
 
 msgctxt "1744626ea9ef485793eeb778c6cb497d"
 msgid "གསེར་འོད་ ལ་␣ས་"
