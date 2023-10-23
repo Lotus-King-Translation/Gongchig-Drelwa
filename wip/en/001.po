@@ -1980,6 +1980,8 @@ msgstr ""
 msgctxt "43fe992c03dc467d862f5c8e9ede0d09"
 msgid "དོན་ ལ་ དྲང་ ངེས་ ཐ་དད་ མེད་ དེ ། །"
 msgstr ""
+"In reality, there is no distinction between provisional and definitive "
+"[meanings]."
 
 msgctxt "43ab55f7e248460f80f3d3a72ad89c01"
 msgid "ཟླ་བ་ སྒྲོན་མེ་␣འི་ མདོ་␣ར །"
