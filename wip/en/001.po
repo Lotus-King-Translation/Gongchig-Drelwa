@@ -2019,7 +2019,7 @@ msgstr ""
 
 msgctxt "7e04e9de23b84320bd8c45674fef7d9f"
 msgid "དེས་ན་ ཐུགས་རྗེ་ དང་ རྟེན་འབྲེལ་ ཇི་བཞིན་ གཟིགས་པ་ དང་"
-msgstr ""
+msgstr "Thus, compassion and interdependence, observation as it is and "
 
 msgctxt "3b22c2f8597c4be2bede2f20907c09a8"
 msgid "སེམས་ཅན་ ལ་ ཕན་བདེ་ སྒྲུབ་ ཕྱིར་ ངེས་དོན་ འབའ་ཞིག་ ཡིན་པ་ ལ་"
