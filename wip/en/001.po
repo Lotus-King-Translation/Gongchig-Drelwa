@@ -2009,7 +2009,7 @@ msgstr "And"
 
 msgctxt "1744626ea9ef485793eeb778c6cb497d"
 msgid "གསེར་འོད་ ལ་␣ས་"
-msgstr ""
+msgstr "According to Golden Light:"
 
 msgctxt "b6bad79669994155998746f9aa10e052"
 msgid "བདེན་པ་ སྟོན་པ་ མི་ བསླུ་བ་ ཞེས་ སོགས་ ལུང་ མཐའ་ ཡས་ སོ ། །"
