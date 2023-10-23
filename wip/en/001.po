@@ -1947,6 +1947,8 @@ msgctxt "cc07b3e08a3841b386f2601b79bd62cb"
 msgid ""
 "སྟོན་ ལུགས་ ཇི་ལྟར་ མཛད་ ཀྱང་ ཐབས་མཁས་ མཐའ་ ཡས་ ཀྱི་ རྣམ་ རོལ་ ཡིན་པ་␣ས་"
 msgstr ""
+"The different ways of teaching are skilled methods in a variety of "
+"manifestations."
 
 msgctxt "2a7d32e96f214d13869b4363db1f056f"
 msgid ""
