@@ -2043,7 +2043,7 @@ msgstr ""
 
 msgctxt "0cb1430fe5f044cc946ebedfb6c826a6"
 msgid "རྡོ་␣༽༽  གཞན་དག་ ན་རེ །"
-msgstr ""
+msgstr "Vajra: others said,"
 
 msgctxt "19b69d8509ef40878587a024eda031ca"
 msgid "ཐེག་ཆེན་ དབུ་ སེམས་ གཉིས་ ཕར་ཕྱིན་ དང༌ །"
