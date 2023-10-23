@@ -1974,6 +1974,8 @@ msgctxt "26057fa1558f48d79b582f92e99f5a1f"
 msgid ""
 "བསླུ་མེད་ འབྲས་བུ་འབྱུང་ བར་ ངེས་པ་␣འི་ ཕྱིར་ ངེས་དོན་ འབའ་ཞིག་ ཡིན་པ་␣ས་"
 msgstr ""
+"It is certain that undeceiving results will occur, hence it is only "
+"definitive meaning."
 
 msgctxt "43fe992c03dc467d862f5c8e9ede0d09"
 msgid "དོན་ ལ་ དྲང་ ངེས་ ཐ་དད་ མེད་ དེ ། །"
