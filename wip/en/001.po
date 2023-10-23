@@ -2048,7 +2048,7 @@ msgstr "Vajra: others said,"
 msgctxt "19b69d8509ef40878587a024eda031ca"
 msgid "ཐེག་ཆེན་ དབུ་ སེམས་ གཉིས་ ཕར་ཕྱིན་ དང༌ །"
 msgstr ""
-"The Great Vehicle, both the middle [way] and the mind [only], paramita and "
+"The Great Vehicle, both the Middle [Way] and the Mind [Only], Paramita and "
 
 msgctxt "c188ebab82024fe981891bb951e89625"
 msgid "ཕལ་ཆེན་ སོགས་ སེམས་ ཙམ་ མདོ་ བཞི་ ལྟ་བུ་ འཀའ་ ཐ་དད །"
