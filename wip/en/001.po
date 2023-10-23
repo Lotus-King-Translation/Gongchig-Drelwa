@@ -1989,7 +1989,7 @@ msgstr "According to the Moon Lamp sutra:"
 
 msgctxt "41a026bf353f4d67b26d7e927a558fa1"
 msgid "གཞོན་ནུ་ ཁྱེད་ ལ་ བསྒོ་ ཞིང་ བསྟན་པ་␣ར་ བྱ །"
-msgstr "It is taught to you, the youth, in accordance with the instruction."
+msgstr "Young man, I will instruct and show you,"
 
 msgctxt "118dab34f18743b3877aa18eab4e38e0"
 msgid "དད་པ་␣ར་ གྱིས་ ཤིག་ ང་ ལ་ མི་ བདེན་ མེད །"
