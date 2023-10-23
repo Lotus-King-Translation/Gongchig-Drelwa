@@ -2024,6 +2024,8 @@ msgstr "Thus, compassion and interdependence, observation as it is and "
 msgctxt "3b22c2f8597c4be2bede2f20907c09a8"
 msgid "སེམས་ཅན་ ལ་ ཕན་བདེ་ སྒྲུབ་ ཕྱིར་ ངེས་དོན་ འབའ་ཞིག་ ཡིན་པ་ ལ་"
 msgstr ""
+"To accomplish benefit and ease for sentient beings is only the definitive "
+"meaning."
 
 msgctxt "f3b5be80316740f2a24c689e44b29c8b"
 msgid ""
