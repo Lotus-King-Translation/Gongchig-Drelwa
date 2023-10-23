@@ -1968,7 +1968,7 @@ msgstr ""
 
 msgctxt "03bde1ccdbae4f9c88c06b8f27d721cc"
 msgid "འཁོར་བ་␣འི་ སྡུག་བསྔལ་ གྱི་ བསྐྱེད་ ཚུལ་ རྣམས་"
-msgstr ""
+msgstr "The ways of arousing the sufferings of samsara."
 
 msgctxt "26057fa1558f48d79b582f92e99f5a1f"
 msgid ""
