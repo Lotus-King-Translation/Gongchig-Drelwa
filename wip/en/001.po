@@ -2001,7 +2001,7 @@ msgstr "Sugata will never express false words."
 
 msgctxt "c16bf8c5c5c3496a93af11dff3800fd3"
 msgid "ཐུགས་རྗེ་ རྒྱལ་བ་ རྟག་ ཏུ་ བདེན་པ་␣ར་ གསུང༌ །"
-msgstr ""
+msgstr "The compassionate Victor always speaks the truth."
 
 msgctxt "b3e49a8ba58a41679057e0790a5ed2b1"
 msgid "ཞེས་ དང་"
