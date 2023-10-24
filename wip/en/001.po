@@ -2108,7 +2108,7 @@ msgstr "According to the Descent to Lanka Sutra, the first is:"
 
 msgctxt "b8cd3900392b4ff3ab1ef8e46d0ca62e"
 msgid "སེམས་ ཙམ་ དུ་ ནི་ རྟོགས་པ་ དང་ །"
-msgstr ""
+msgstr "By realizing [things] as mind only and "
 
 msgctxt "a4bff4ec9bfe4fa189c2cd1165e18a38"
 msgid "དངོས་པོ་ ཐམས་ཅད་ རྣམས་ གསལ་བ །"
