@@ -2207,7 +2207,7 @@ msgstr ""
 
 msgctxt "18c5643ab36d4b55979f1c102e6ba660"
 msgid "སྟག་ གཟིགས་ ཀྱི་ རྒྱལ་པོ་ གསུམ་ གྱིས་ བསྣུབས་པ་␣ས་ བོད་ ན་ མི་ བཞུགས །"
-msgstr ""
+msgstr "the King of Tagzik, it no longer resides in Tibet."
 
 msgctxt "44ff0660d21143de9724bbc7ade2f1f1"
 msgid "གཉིས་པ་ སེམས་ ལ་ འཇུག་པ་ རྣམ་ཤེས་ ཚོགས །"
