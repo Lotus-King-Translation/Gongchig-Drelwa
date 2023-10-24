@@ -1160,7 +1160,7 @@ msgid ""
 "གྱིས་ དགུ་སྟེ་"
 msgstr ""
 "There are nine because each of the Three Wheels of complete purification has"
-" the Buddha-words, treatises, and foremost instructions."
+" the Buddha-word, treatises, and foremost instructions."
 
 msgctxt "c54cd63ef21544e381a32a9fdadc0525"
 msgid ""
