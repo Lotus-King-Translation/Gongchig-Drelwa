@@ -105,7 +105,7 @@ msgid ""
 " དང༌ །"
 msgstr ""
 "The interdependent nature of all phenomena becomes manifest in a single "
-"point, free of elaboration in a single taste and "
+"point, free from elaboration, a single taste and "
 
 msgctxt "0ca08b2082474d7f987a9bec6148b53c"
 msgid ""
