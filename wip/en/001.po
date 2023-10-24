@@ -2195,7 +2195,7 @@ msgstr ""
 
 msgctxt "328ec8fbee5a4ad8b57131c1162ebefa"
 msgid "མངོན་པ་ ལ་ གོང་འོག་ གཉིས་ ལ་␣ས་"
-msgstr ""
+msgstr "from both the Higher and Lower Abhidharma,"
 
 msgctxt "d5b4dbc2bb104ea4b21b6d5fea92d0c7"
 msgid ""
