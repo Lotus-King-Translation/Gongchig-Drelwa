@@ -2238,6 +2238,8 @@ msgid ""
 "འདི་␣ར་ ནི་ ཐུན་མོང་ གི་ མདོ་ དང་ ཐུན་མོང་ མ་ཡིན་པ་ སེམས་ ཙམ་ སྟོན་པ་␣འི་ "
 "མདོ་ རྣམས་ མངོན་པ་␣འི་ སྡེ་སྣོད་ དུ་ བཞེད་ དོ ། །"
 msgstr ""
+"In this [system], the common sutras and the uncommon sutras, the sutras of "
+"the Mind Only are accepted under the Abhidharma Pitaka. "
 
 msgctxt "bd1f4c8a5cf24789ad7ecc4a764b997e"
 msgid "བདེན་ བཞི་ འདུལ་བ །"
