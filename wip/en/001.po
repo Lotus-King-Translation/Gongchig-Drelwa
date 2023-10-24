@@ -2173,7 +2173,7 @@ msgstr ""
 
 msgctxt "3c247fc708604c0989d6ed5b19fd5beb"
 msgid "སེམས་ ཀྱང་ སྤྲོས་བྲལ་བ་␣འི་ དབུ་མ་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "the mind too is the middle way, free from elaboration;"
 
 msgctxt "bfdce3e1cb2c4ca297efcfaf72144deb"
 msgid "སེམས་ ཀྱི་ རང་བཞིན་ འོད་གསལ་བ་ ཞེས་ གསུངས་པ་␣ས་ སོ་␣༑"
