@@ -2124,7 +2124,7 @@ msgstr "This path is the middle way."
 
 msgctxt "7056b7f9c6aa4a2896b64801ef2753d0"
 msgid "ཞེས་པ་␣ས་ དང་ །"
-msgstr ""
+msgstr "And,"
 
 msgctxt "b13918e591c547d3bdde54731c55e36d"
 msgid "གཉིས་པ་ ཡོད་མེད་ ཀྱི་ མཐའ་ གཟིགས་པ་"
