@@ -2211,7 +2211,7 @@ msgstr "the King of Tagzik, it no longer resides in Tibet."
 
 msgctxt "44ff0660d21143de9724bbc7ade2f1f1"
 msgid "གཉིས་པ་ སེམས་ ལ་ འཇུག་པ་ རྣམ་ཤེས་ ཚོགས །"
-msgstr ""
+msgstr "Second, the collections of consciousness to engage in mind."
 
 msgctxt "24916b7e6ac148b3ab05b00bb7e4aeaa"
 msgid "རབ་ཏུ་ རྣམ་འབྱེད །"
