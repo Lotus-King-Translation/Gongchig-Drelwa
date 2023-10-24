@@ -2215,7 +2215,7 @@ msgstr "Second, the collections of consciousness to engage in mind."
 
 msgctxt "24916b7e6ac148b3ab05b00bb7e4aeaa"
 msgid "རབ་ཏུ་ རྣམ་འབྱེད །"
-msgstr ""
+msgstr "An extremely fine analysis."
 
 msgctxt "7cb60aae10d34f35b6522a7af202eb3c"
 msgid "ཆོས་ ཀྱི་ ཕུང་པོ་ རུ་ གདཌ་པ །"
