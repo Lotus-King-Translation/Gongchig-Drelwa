@@ -2093,6 +2093,8 @@ msgstr ""
 msgctxt "ca78cb6ce24540959708aeb62f94e073"
 msgid "འདི་␣ར་ ནི །  སེམས་ ཙམ་ བཀའ་ ཡིས་ མཐའ་བྲལ་ དབུ་མ་␣འི་ དོན་ སྟོན་ ཏེ་"
 msgstr ""
+"In this [system], the instruction of the Mind Only taught the meaning of the"
+" Middle Way, which is free of extremes."
 
 msgctxt "db2d2cc3f92b4e0eb5fd9b03f2e73bad"
 msgid "བཀའ་ དང་ བསྟན་བཅོས་ བླ་མ་␣འི་ མན་ངག་ གསུམ་ གྱིས་ ངེས་ ཏེ །"
