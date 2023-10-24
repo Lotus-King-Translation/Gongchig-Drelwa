@@ -2177,7 +2177,7 @@ msgstr "the mind too is the middle way, free from elaboration;"
 
 msgctxt "bfdce3e1cb2c4ca297efcfaf72144deb"
 msgid "སེམས་ ཀྱི་ རང་བཞིན་ འོད་གསལ་བ་ ཞེས་ གསུངས་པ་␣ས་ སོ་␣༑"
-msgstr ""
+msgstr "The nature of the mind is said to be naturally luminous."
 
 msgctxt "76e115c445984e9cb085b4d46b7471cd"
 msgid "ལྷན་␣༽༽  མཁས་པ་ གཞན་ གྱིས་ སངས་རྒྱས་ ཀྱི་ ཆོས་སྡེ་ སྣོད་ དུ་ བྱས་ ན་"
