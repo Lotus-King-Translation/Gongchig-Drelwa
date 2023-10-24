@@ -2120,7 +2120,7 @@ msgstr "It will put an end to all external conceptualizations."
 
 msgctxt "9057ca10fd0f498899e5bfe8e052fa76"
 msgid "ལམ་ དེ་ཉིད་ ནི་ དབུ་མ་␣འོ ། །"
-msgstr ""
+msgstr "This path is the middle way."
 
 msgctxt "7056b7f9c6aa4a2896b64801ef2753d0"
 msgid "ཞེས་པ་␣ས་ དང་ །"
