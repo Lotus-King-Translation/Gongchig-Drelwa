@@ -2149,7 +2149,7 @@ msgstr ""
 
 msgctxt "0491617048e047c7b41e0b2534385866"
 msgid "སེམས་ ཙམ་ གྱི་ བཀ་␣ར་ ལུང་བསྟན་ ཅིང་"
-msgstr "It has been prophesied in the instructions of the Mind Only that"
+msgstr "It has been prophesied as the instructions of the Mind Only"
 
 msgctxt "eaecfd2868ef4fa68a72ec3645b66c8a"
 msgid "ཆོས་འཁོར་ བསྐོར་བ་␣ར་ འགྱུར་ རོ་ ཞེས་ གསུངས་པ་␣ས་"
