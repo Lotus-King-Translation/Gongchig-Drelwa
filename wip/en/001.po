@@ -2087,6 +2087,8 @@ msgid ""
 "མདོར་ན་ བཀའ་ བསྟན་ གང་ གི་ སྒོ་ ནས་ བརྟགས་ ཚེ་ དབུ་ སེམས་ ཐ་དད་ ཡིན་ ཟེར་ རོ"
 " ། །"
 msgstr ""
+"In brief, When the Buddha-word and treatises are analyzed from all doors, "
+"[they] said the Middle Way and Mind Only are distinct."
 
 msgctxt "ca78cb6ce24540959708aeb62f94e073"
 msgid "འདི་␣ར་ ནི །  སེམས་ ཙམ་ བཀའ་ ཡིས་ མཐའ་བྲལ་ དབུ་མ་␣འི་ དོན་ སྟོན་ ཏེ་"
