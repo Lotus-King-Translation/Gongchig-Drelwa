@@ -2161,7 +2161,7 @@ msgstr "The scriptures that were shown in the prophecy"
 
 msgctxt "6197918103ae4567a1e669754bfb86f1"
 msgid "གང་ཟག་ དེ་␣ས་ སྐོར་ རྒྱུ་␣འི་ ཆོས་ སུ་ འདོད་པ་␣ས་ དང་ །"
-msgstr ""
+msgstr "It is accepted that the person will turn these dharmas."
 
 msgctxt "349e3f5a21b44692b76cc33e94be0adc"
 msgid ""
