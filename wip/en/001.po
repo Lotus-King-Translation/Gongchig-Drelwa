@@ -334,7 +334,7 @@ msgstr "All the knowable things, none excluded, exactly as how they are and "
 
 msgctxt "d3db5456f3264751bfb5e320fb714471"
 msgid "ཐམས་ཅད་ ཆགས་ ཐོག་ བྲལ་བ་␣ས་"
-msgstr "Everything is free of the impediment of desire."
+msgstr "Everything is free from the impediment of desire."
 
 msgctxt "8ac130464f71455fa6bb3b6c1b359d21"
 msgid "ལམ་ མེ་␣ར་ གཟིགས་པ་ ཇི་སྙེད་པ་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ཏེ་"
