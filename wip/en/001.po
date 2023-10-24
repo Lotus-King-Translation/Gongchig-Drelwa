@@ -2219,7 +2219,7 @@ msgstr "An extremely fine analysis."
 
 msgctxt "7cb60aae10d34f35b6522a7af202eb3c"
 msgid "ཆོས་ ཀྱི་ ཕུང་པོ་ རུ་ གདཌ་པ །"
-msgstr ""
+msgstr "Designated as the aggregate of phenomena."
 
 msgctxt "6f3d1f418768416a99eaec4c00a2e719"
 msgid "ཡང་དག་པ་␣ར་ འགྲོ་བ་ སྟེ་"
