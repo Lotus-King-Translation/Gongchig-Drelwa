@@ -1009,7 +1009,7 @@ msgstr "The last one is the abhidharma [piṭaka] of both."
 
 msgctxt "fc4e4664f29b4e3f909a4c2aac68af8a"
 msgid "ལྷན་␣༽༽་␣མཁས་པ་ ལ་ལ་␣ས་"
-msgstr "Addendum: Some scholars said,"
+msgstr "Addendum: Some experts said,"
 
 msgctxt "adad997c85434628ba81be0e10907863"
 msgid "སྡེ་སྣོད་ གསུམ་ སོ་སོ་␣ར་ ཐུག་ རེག་ མེད་ དེ་"
