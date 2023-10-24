@@ -2168,6 +2168,8 @@ msgid ""
 "གསུམ་པ་ མན་ངག་ ཡང་ སེམས་ ཙམ་ གྱིས་ ཆོས་ ཐམས་ཅད་ སེམས་ ནང་ དུ་ གཏན་ ལ་ ཕབ་པ་ "
 "ན །"
 msgstr ""
+"The third or the foremost [guru] instruction is when the Mind Only [school] "
+"determines all phenomena in the mind,"
 
 msgctxt "3c247fc708604c0989d6ed5b19fd5beb"
 msgid "སེམས་ ཀྱང་ སྤྲོས་བྲལ་བ་␣འི་ དབུ་མ་ ཡིན་ ཏེ །"
