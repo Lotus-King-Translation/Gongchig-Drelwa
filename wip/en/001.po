@@ -2247,7 +2247,7 @@ msgstr "The four truths, the Vinaya,"
 
 msgctxt "fcba91cf7a9c4ee8bd6a46de6080d302"
 msgid "མཚན་ཉིད་ མེད་པ་ མདོ་སྡེ །"
-msgstr ""
+msgstr "the absence of defining characteristics, the Sutra Pitaka,"
 
 msgctxt "1de726fd588247929b6cbf14433fb1c6"
 msgid ""
