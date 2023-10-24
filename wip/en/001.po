@@ -2157,7 +2157,7 @@ msgstr "It is said that [he] will turn the wheel of Dharma."
 
 msgctxt "6055dcd4ce9648e38faee55ac9dcf95a"
 msgid "ལུང་བསྟན་པ་␣འི་ གསུངས་ རབ་ དེ་"
-msgstr ""
+msgstr "The scriptures that show the prophecy"
 
 msgctxt "6197918103ae4567a1e669754bfb86f1"
 msgid "གང་ཟག་ དེ་␣ས་ སྐོར་ རྒྱུ་␣འི་ ཆོས་ སུ་ འདོད་པ་␣ས་ དང་ །"
