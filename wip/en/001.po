@@ -2243,7 +2243,7 @@ msgstr ""
 
 msgctxt "bd1f4c8a5cf24789ad7ecc4a764b997e"
 msgid "བདེན་ བཞི་ འདུལ་བ །"
-msgstr ""
+msgstr "The four truths, the Vinaya,"
 
 msgctxt "fcba91cf7a9c4ee8bd6a46de6080d302"
 msgid "མཚན་ཉིད་ མེད་པ་ མདོ་སྡེ །"
