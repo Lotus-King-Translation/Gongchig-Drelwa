@@ -2079,6 +2079,8 @@ msgid ""
 "ཐོགས་མེད་ སྐུ་མཆེད་ ཀྱིས་ སེམས་ ཙམ་ གྱི་ དགོངས་འགྲེལ་ མངོན་པ་ གོང་འོག་ "
 "ལྟ་བུ་"
 msgstr ""
+"The Commentary on the Intent of the Mind Only and the Higher and Lower "
+"Abhidharma by Asanga and his brother."
 
 msgctxt "5eaad03dfe4d49bf86016b7929efd220"
 msgid ""
