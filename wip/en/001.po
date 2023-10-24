@@ -2129,6 +2129,8 @@ msgstr "And,"
 msgctxt "b13918e591c547d3bdde54731c55e36d"
 msgid "གཉིས་པ་ ཡོད་མེད་ ཀྱི་ མཐའ་ གཟིགས་པ་"
 msgstr ""
+"The second is the consideration of the extremes of existent and non-"
+"existent. "
 
 msgctxt "97828b41011543c0922eb59264652278"
 msgid "སློབ་དཔོན་ འཕགས་པ་ དེ་ མདོ་ རྒྱུད་ ཉེར་ གཅིག་ ཏུ་ ལུང་བསྟན་ ཀྱང་"
