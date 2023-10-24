@@ -2099,6 +2099,8 @@ msgstr ""
 msgctxt "db2d2cc3f92b4e0eb5fd9b03f2e73bad"
 msgid "བཀའ་ དང་ བསྟན་བཅོས་ བླ་མ་␣འི་ མན་ངག་ གསུམ་ གྱིས་ ངེས་ ཏེ །"
 msgstr ""
+"Ascertained by the three: The Buddha-word, treatises, and the foremost guru "
+"instruction."
 
 msgctxt "e317ec0b472b40d2881a0a3c47ee527b"
 msgid "དང་པོ་ ནི་ ལང་ གཤེགས་ ལ་␣ས །"
