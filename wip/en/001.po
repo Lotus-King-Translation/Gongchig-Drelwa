@@ -2112,7 +2112,7 @@ msgstr "By realizing [things] as mind only and "
 
 msgctxt "a4bff4ec9bfe4fa189c2cd1165e18a38"
 msgid "དངོས་པོ་ ཐམས་ཅད་ རྣམས་ གསལ་བ །"
-msgstr ""
+msgstr "Everything becomes complete clear."
 
 msgctxt "8f5bd9a36b984416b5bef137fba0f9e6"
 msgid "ཕྱི་རོལ་ རྟོག་པ་ རྣམས་ བཟློག་ སྟེ །"
