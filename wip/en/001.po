@@ -2320,6 +2320,8 @@ msgid ""
 "བཙུན་མོ་ རི་དྭགས་ མ་␣འི་ བུ་ ལྔ་ བརྒྱ་ རྫིང་བུ་␣ར་ རང་ གི་ གཟུགས་བརྙན་ ཤར་བ་"
 " མཐོང་བ་␣ས་ རང་ བྱང་ཆུབ་ ཐོབ་པ་ དང༌ །"
 msgstr ""
+"After seeing their reflections in a pond, the consort Ridakma's five hundred"
+" sons attained Pratyekabuddha enlightenment."
 
 msgctxt "76076bafc31149b5910d6013768c1f35"
 msgid ""
