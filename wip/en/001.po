@@ -2373,6 +2373,8 @@ msgstr "The mind arises from virtue without affliction,"
 msgctxt "1145c5ba00824ddba54dbb22df0d1bac"
 msgid "ལ་␣ས་ སྒྲུབ་པ་ རྣམ་སྨིན་ དང་ བཅས་པ་ ཡང་དག  །"
 msgstr ""
+"Accomplished karmas, including those related to fully ripened [karma], will "
+"be purified."
 
 msgctxt "cbf49a451a29498b8a762ad10aa8336c"
 msgid "དེ་ལས་ ལྡོག་པ་ ལོག་པ་␣འི་ ཀུན་རྫོབ་ སྟེ །"
