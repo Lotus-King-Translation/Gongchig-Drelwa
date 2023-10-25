@@ -2410,7 +2410,7 @@ msgstr "As said,"
 
 msgctxt "3feeec4562f44f6d9e72e516e83964b6"
 msgid "རྡོ་␣༽༽  ཁ་ཅིག་ ན་རེ །་"
-msgstr ""
+msgstr "Vajra: Some said,"
 
 msgctxt "956c9dd4a7854acc91b2f760bf5b1996"
 msgid "མཚན་ཉིད་ ཐེག་པ་␣འི་ ལམ་ ས་བཅུ་␣ས་ བགྲོད་ ཀྱང་"
