@@ -2378,7 +2378,7 @@ msgstr ""
 
 msgctxt "cbf49a451a29498b8a762ad10aa8336c"
 msgid "དེ་ལས་ ལྡོག་པ་ ལོག་པ་␣འི་ ཀུན་རྫོབ་ སྟེ །"
-msgstr ""
+msgstr "The inverse of that is the wrong relative."
 
 msgctxt "c5ccfaa64822406781f094a4974d86ae"
 msgid "སློབ་དཔོན་ ཀླུ་␣ས །"
