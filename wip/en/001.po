@@ -2458,7 +2458,7 @@ msgstr ""
 
 msgctxt "d0f7c48bc12246eba6861090a23c6ec9"
 msgid "མཚན་ཉིད་ ལ་ ཡང་"
-msgstr ""
+msgstr "In the defining characteristics as well,"
 
 msgctxt "1862f3046c2141e2b56fa9cac91dc4b2"
 msgid "གསང་ ཆེན་ ཐབས་ ལ་ མཁས་པ་ ལ་␣ས །"
