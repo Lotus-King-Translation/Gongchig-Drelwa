@@ -2305,7 +2305,7 @@ msgstr "the mind of realization and"
 
 msgctxt "f74132f46aed48ecbe33f986a6c5a020"
 msgid "དེ་␣ས་ བསྒྲུབས་པ་␣འི་ ལ་␣ས་"
-msgstr ""
+msgstr "the karmas produced by it"
 
 msgctxt "196294a295064c9c82f8bb8c45fbb4ff"
 msgid "དེ་␣འི་ རྣམ་སྨིན་ འབྱུང་ སྟེ་"
