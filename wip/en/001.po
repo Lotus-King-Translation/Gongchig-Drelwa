@@ -2426,7 +2426,7 @@ msgstr ""
 
 msgctxt "a023255e27ef438c910d124ab6e8ca65"
 msgid "དེ་ལས་ གཞན་ ཞིག་ ཡིན་ ཟེར་ མོད །"
-msgstr ""
+msgstr "It is said to be different."
 
 msgctxt "fff687b448654ea29795ac69fa214c7d"
 msgid "འདི་␣ར་ ནི །"
