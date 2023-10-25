@@ -2386,7 +2386,7 @@ msgstr "According to the master Nagarjuna:"
 
 msgctxt "6cf72be174c9477c9dc1198316b1bba0"
 msgid "ཡང་དག་ ཀུན་རྫོབ་ རྣམ་ གཉིས་ སྐས །"
-msgstr ""
+msgstr "The two types of stairways are authentic and relative."
 
 msgctxt "a83567907c6a4210a92865158b0e8f65"
 msgid "སོགས་ དང་ །"
