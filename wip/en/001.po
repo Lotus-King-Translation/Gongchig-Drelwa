@@ -2421,6 +2421,8 @@ msgstr ""
 msgctxt "0f58379eac9546b2a08cb2417319d29e"
 msgid "སྔགས་ལམ་ གཅིག་ ཆ་␣ར་ བས་ དེ་ འགྲོད་ མི་ དགོས་ ཏེ་"
 msgstr ""
+"Is simultaneous with the path of mantra, thus it does not need to be "
+"traversed."
 
 msgctxt "a023255e27ef438c910d124ab6e8ca65"
 msgid "དེ་ལས་ གཞན་ ཞིག་ ཡིན་ ཟེར་ མོད །"
