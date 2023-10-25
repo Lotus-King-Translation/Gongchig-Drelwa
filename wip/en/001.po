@@ -2398,7 +2398,7 @@ msgstr "Shantideva said:"
 
 msgctxt "3805f4d15ee44dd7a381ab9a01a7dcc4"
 msgid "ཡན་ལག་ འདི་དག་ ཐམས་ཅད་ ནི །"
-msgstr ""
+msgstr "All these branches of [the Dharma],"
 
 msgctxt "d046759e5dd5417eb3c0d76dbe1f8377"
 msgid "ཐུབ་པ་␣ས་ ཤེས་རབ་ དོན་ དུ་ གསུངས །"
