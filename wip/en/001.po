@@ -2445,6 +2445,8 @@ msgstr ""
 msgctxt "696c51bdf6a7405cb8e88d6cf591b7b7"
 msgid "ས་བཅུ་␣འི་ རྒྱུན་མཐའ་ ལ་ ཤེས་སྒྲིབ་ ཆེ་ཆུང་ དང་"
 msgstr ""
+"At the tenth ground's end of the continuum, there are larger and smaller "
+"obscurations to knowledge and "
 
 msgctxt "cd9a527dd0094eda899ca8558fff2495"
 msgid ""
