@@ -2301,7 +2301,7 @@ msgstr "non-seeing of the truth, "
 
 msgctxt "f39081a4d45c4d4c9bcb84480b9953bc"
 msgid "རྟོགས་པ་␣ར་ བྱེད་པ་␣འི་ སེམས་ དང༌ །"
-msgstr ""
+msgstr "the mind of realization and"
 
 msgctxt "f74132f46aed48ecbe33f986a6c5a020"
 msgid "དེ་␣ས་ བསྒྲུབས་པ་␣འི་ ལ་␣ས་"
