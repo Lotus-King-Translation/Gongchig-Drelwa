@@ -2402,7 +2402,7 @@ msgstr ""
 
 msgctxt "d046759e5dd5417eb3c0d76dbe1f8377"
 msgid "ཐུབ་པ་␣ས་ ཤེས་རབ་ དོན་ དུ་ གསུངས །"
-msgstr ""
+msgstr "The Able One expounded for the sake of wisdom."
 
 msgctxt "83ded2bd1449488f9285c95e72073efe"
 msgid "ཞེསསོ །"
