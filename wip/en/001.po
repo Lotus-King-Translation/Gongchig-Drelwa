@@ -2354,7 +2354,7 @@ msgstr "It appears to all,"
 
 msgctxt "ee14abce21254f1790b228bb360d637d"
 msgid "ནམ་མཁའ་ དང་ ཆུ་␣འི་ རྒྱུ་རྐྱེན་ ལ་␣ས་ སྐྱེས་པ་␣ས་"
-msgstr ""
+msgstr "It arises from the cause and condition of the sky and water."
 
 msgctxt "ac523f47bdd44446b3e383941ed99f26"
 msgid "མཚན་ཉིད་ བཞི་ ཚང་བ་␣ས་ ཁྱད་པར་ མི་ བྱེད །"
