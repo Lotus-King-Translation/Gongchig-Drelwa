@@ -2254,6 +2254,8 @@ msgid ""
 "ངེས་དོན་ འཁོར་ལོ་ སྙིང་པོ་␣འི་ མདོ་ སེམས་ ཙམ་ མདོ་ བཞི་ སོགས་ མངོན་པ་ "
 "གོང་འོག་ མ་ ཡིན་ ཏེ །"
 msgstr ""
+"The essence of the definitive meaning wheel sutras, the four sutras of the "
+"Mind Only, and others are not the Higher and Lower Abhidharma."
 
 msgctxt "a9cd880b41814d69bd75d1ad92399a1c"
 msgid "རྒྱུ་མཚན་ མངོན་པ་␣འི་ བསྟན་ དོན་ ལྷག་པ་␣འི་ ཤེས་རབ་ ཡིན་ ན་"
