@@ -2309,7 +2309,7 @@ msgstr "the karmas produced by it"
 
 msgctxt "196294a295064c9c82f8bb8c45fbb4ff"
 msgid "དེ་␣འི་ རྣམ་སྨིན་ འབྱུང་ སྟེ་"
-msgstr ""
+msgstr "Its completely ripened [results] will occur."
 
 msgctxt "a8af6068cb72455f8565a8ca9bc43da3"
 msgid "དྲིན་ལན་ བསབ་ མདོ་␣ར་"
