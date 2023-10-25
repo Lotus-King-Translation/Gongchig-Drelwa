@@ -2297,7 +2297,7 @@ msgstr ""
 
 msgctxt "ddb81452acf14644922c54e26defb46b"
 msgid "བདེན་ མ་ མཐོང་ ཞིང་"
-msgstr ""
+msgstr "non-seeing of the truth, "
 
 msgctxt "f39081a4d45c4d4c9bcb84480b9953bc"
 msgid "རྟོགས་པ་␣ར་ བྱེད་པ་␣འི་ སེམས་ དང༌ །"
