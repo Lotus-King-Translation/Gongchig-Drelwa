@@ -2313,7 +2313,7 @@ msgstr "Its completely ripened [results] will occur."
 
 msgctxt "a8af6068cb72455f8565a8ca9bc43da3"
 msgid "དྲིན་ལན་ བསབ་ མདོ་␣ར་"
-msgstr ""
+msgstr "According to the Repaying Kindness Sutra:"
 
 msgctxt "a088cdedffd044bcb8f0b453af6cfeaf"
 msgid ""
