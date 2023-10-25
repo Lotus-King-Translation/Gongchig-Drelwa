@@ -2434,7 +2434,7 @@ msgstr "In this [system],"
 
 msgctxt "d13a032699b1439d91780b76be57d996"
 msgid "ཇི་སྙེད་པ་␣འི་ ལམ་ རྣམས་ ས་བཅུ་པོ་ ནས་ བགྲོད་པ་ ཡིན་ སྟེ་"
-msgstr ""
+msgstr "All of the paths traverse the ten grounds."
 
 msgctxt "be21c154f89a4cae9146c104c446749d"
 msgid "མདོ་སྔགས་ གང་ཡང་ ས་ དང་པོ་ མཐོང་ལམ་ ནས་ ས་རིམ་ བཞིན་ བགྲོད་ དེ་"
