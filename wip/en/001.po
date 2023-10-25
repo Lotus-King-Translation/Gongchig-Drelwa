@@ -2286,6 +2286,8 @@ msgstr "Though most masters accept it."
 msgctxt "ee1a5ac26aeb4c66a9cbf6d4cec16de3"
 msgid "འདི་␣ར་ དེ་ཉིད་ ཀྱིས་ ཀྱང་ དོན་ བྱེད་ ནུས་པ་␣ར་ འདོད་ དེ །"
 msgstr ""
+"It is accepted in this [system] that it [wrong relative] is capable of "
+"performing a function."
 
 msgctxt "39ab34dedc8d49539311eb42698b2c6c"
 msgid "ཆུ་ཟླ་ དང་ གཟུགས་བརྙན་ ལ་ ཡང་ རང་བཞིན་ གྲུབ་པ་ མེད་པ་␣ར་ བརྟགས་ ན་"
