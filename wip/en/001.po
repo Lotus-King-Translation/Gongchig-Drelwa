@@ -2359,6 +2359,8 @@ msgstr "It arises from the cause and condition of the sky and water."
 msgctxt "ac523f47bdd44446b3e383941ed99f26"
 msgid "མཚན་ཉིད་ བཞི་ ཚང་བ་␣ས་ ཁྱད་པར་ མི་ བྱེད །"
 msgstr ""
+"It is not distinguished because it completes the four defining "
+"characteristics."
 
 msgctxt "6e9d21a814db4d48a1d3798eeb4ada80"
 msgid "འོ་ན་ གང་ཡིན་ ན །"
