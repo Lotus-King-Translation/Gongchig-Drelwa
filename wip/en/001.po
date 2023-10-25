@@ -2276,6 +2276,8 @@ msgstr ""
 msgctxt "a5d7c4f48ff0402bb229dcd25202c7cc"
 msgid "རྡོ་␣༽༽  ལོག་པ་␣འི་ ཀུན་རྫོབ་ ཆུ་ཟླ་ ལྟ་བུ་␣ས་ དོན་ མི་ བྱེད་པ་"
 msgstr ""
+"Vajra: The wrong relative will do no purpose like the moon reflected in the "
+"water."
 
 msgctxt "77bd4b05ff2a40ca9d2dbc3facdf2511"
 msgid "སློབ་དཔོན་ ཕལ་ཆེ་བ་ འཞེད་ ཀྱང་"
