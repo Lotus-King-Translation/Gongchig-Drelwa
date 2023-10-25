@@ -2406,7 +2406,7 @@ msgstr "The Able One expounded for the sake of wisdom."
 
 msgctxt "83ded2bd1449488f9285c95e72073efe"
 msgid "ཞེསསོ །"
-msgstr ""
+msgstr "As said,"
 
 msgctxt "3feeec4562f44f6d9e72e516e83964b6"
 msgid "རྡོ་␣༽༽  ཁ་ཅིག་ ན་རེ །་"
