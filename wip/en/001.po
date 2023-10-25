@@ -2368,7 +2368,7 @@ msgstr "Well then, what is this? "
 
 msgctxt "6559e60ea40b4c70b3822b58d5eb0ad5"
 msgid "ཉོན་མོངས་ མེད་པ་ སེམས་ དགེ་བ་␣ས་ བསླང་ ཞིང་"
-msgstr ""
+msgstr "The mind arises from virtue without affliction,"
 
 msgctxt "1145c5ba00824ddba54dbb22df0d1bac"
 msgid "ལ་␣ས་ སྒྲུབ་པ་ རྣམ་སྨིན་ དང་ བཅས་པ་ ཡང་དག  །"
