@@ -2430,7 +2430,7 @@ msgstr "It is said to be different."
 
 msgctxt "fff687b448654ea29795ac69fa214c7d"
 msgid "འདི་␣ར་ ནི །"
-msgstr ""
+msgstr "In this [system],"
 
 msgctxt "d13a032699b1439d91780b76be57d996"
 msgid "ཇི་སྙེད་པ་␣འི་ ལམ་ རྣམས་ ས་བཅུ་པོ་ ནས་ བགྲོད་པ་ ཡིན་ སྟེ་"
