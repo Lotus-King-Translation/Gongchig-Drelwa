@@ -2350,7 +2350,7 @@ msgstr ""
 
 msgctxt "46b12e83c7604c1fa41718c2ac545f8a"
 msgid "ཀུན་ ལ་ སྣང་བ་ དང་"
-msgstr ""
+msgstr "It appears to all,"
 
 msgctxt "ee14abce21254f1790b228bb360d637d"
 msgid "ནམ་མཁའ་ དང་ ཆུ་␣འི་ རྒྱུ་རྐྱེན་ ལ་␣ས་ སྐྱེས་པ་␣ས་"
