@@ -2466,7 +2466,7 @@ msgstr "Great Secret who is an expert in method,"
 
 msgctxt "1b70797260044e1dade962522d9f3650"
 msgid "བྱང་སེམས་ དགའ་བྱེད་ ས་ དང་པོ་␣འི་ དུས་ སུ་"
-msgstr "The first ground that brings happiness to the bodhisattvas."
+msgstr "At the first ground that provides bodhisattvas happiness"
 
 msgctxt "3484734fe3504add944bf0af85dffe46"
 msgid "ཉོན་མོངས་པ་␣འི་ འདུག་ལུགས་ མཐོང་བ་␣ས་"
