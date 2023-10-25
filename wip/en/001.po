@@ -2439,6 +2439,8 @@ msgstr "All of the paths traverse the ten grounds."
 msgctxt "be21c154f89a4cae9146c104c446749d"
 msgid "མདོ་སྔགས་ གང་ཡང་ ས་ དང་པོ་ མཐོང་ལམ་ ནས་ ས་རིམ་ བཞིན་ བགྲོད་ དེ་"
 msgstr ""
+"In both sutra and mantra, one traverses progressively from the first ground "
+"path of seeing and "
 
 msgctxt "696c51bdf6a7405cb8e88d6cf591b7b7"
 msgid "ས་བཅུ་␣འི་ རྒྱུན་མཐའ་ ལ་ ཤེས་སྒྲིབ་ ཆེ་ཆུང་ དང་"
