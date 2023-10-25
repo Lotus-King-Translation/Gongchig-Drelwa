@@ -2260,6 +2260,8 @@ msgstr ""
 msgctxt "a9cd880b41814d69bd75d1ad92399a1c"
 msgid "རྒྱུ་མཚན་ མངོན་པ་␣འི་ བསྟན་ དོན་ ལྷག་པ་␣འི་ ཤེས་རབ་ ཡིན་ ན་"
 msgstr ""
+"The reason for this is if the meaning of the Abhidharma teaching is the "
+"higher insight,"
 
 msgctxt "efa92a319b9a42a2a36e6f59b51d6d21"
 msgid ""
