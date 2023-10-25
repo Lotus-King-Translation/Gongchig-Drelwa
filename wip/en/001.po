@@ -2390,7 +2390,7 @@ msgstr "The two types of stairways are authentic and relative."
 
 msgctxt "a83567907c6a4210a92865158b0e8f65"
 msgid "སོགས་ དང་ །"
-msgstr ""
+msgstr "And so on."
 
 msgctxt "a9eb98a9f3694c569aaa8ffcb964b167"
 msgid "ཞི་བ་ལྷ་␣ས །"
