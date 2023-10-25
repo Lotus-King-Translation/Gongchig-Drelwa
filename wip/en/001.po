@@ -2453,6 +2453,8 @@ msgid ""
 "སྔོན་ གྱི་ སྦྱང་པ་ ཡོད་མེད་ ཀྱི་ བགྲོད་ མྱུར་ མི་ མྱུར་ ཡང་ གཉིས་ཀ་␣ར་ ཡོད་ "
 "དེ་"
 msgstr ""
+"Depending on the previous practices, there are both instances of quick and "
+"slower traverse."
 
 msgctxt "d0f7c48bc12246eba6861090a23c6ec9"
 msgid "མཚན་ཉིད་ ལ་ ཡང་"
