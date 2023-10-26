@@ -2534,7 +2534,7 @@ msgstr ""
 
 msgctxt "eab44a7a0c2b419b9357c3deb3d18cfe"
 msgid "མཚན་ཉིད་ ཐེག་པ་ ལྟ་ ཞོགས་ སྔགས་ ལ་␣འང་"
-msgstr ""
+msgstr "The view of the defining characteristic vehicle in the mantra as well"
 
 msgctxt "0347095ef0dd4dd5952d293e79190384"
 msgid "ཀྱེེཻ རྡོ་ རྗེ་ ལ་␣ས །"
