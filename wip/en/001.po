@@ -2611,7 +2611,7 @@ msgstr "Being gradually ignorant of the cause and effect of karmic actions."
 
 msgctxt "eb13aecb3dca466191d46619e5ba0f93"
 msgid "ཀུན་བརྟགས་ ལྷན་སྐྱེས་ སམ་"
-msgstr ""
+msgstr "The total conceptualization and co-emergence or "
 
 msgctxt "1be580c05c404f64aa8b3decd99daad0"
 msgid "དེ་ཉིད་ ལ་ རྨོངས་པ་␣འི་ མ་རིག་ གསུམ་ ཟེར །"
