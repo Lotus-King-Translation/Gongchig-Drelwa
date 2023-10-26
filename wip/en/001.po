@@ -2595,7 +2595,7 @@ msgstr "The gathering of accumulations has preceded in mantra as well."
 
 msgctxt "a86a99c7dfb04bb0a34dc240fdc5cf8f"
 msgid "གཞན་ དུ་ ན་ རྒྱུ་ མེད་པ་␣ས་ འབྲས་བུ་ ཁ་␣ས་ ལོངས་ ཤིག་ གོ །"
-msgstr ""
+msgstr "Otherwise, [you] assert a causeless result."
 
 msgctxt "7b75954c7e6945bb8dc9c6e21e42e6d0"
 msgid "རྡོ་␣༽༽  མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ལ་"
