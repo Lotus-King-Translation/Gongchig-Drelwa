@@ -2479,6 +2479,7 @@ msgstr "attained the eighth ground and "
 msgctxt "215bc81f43c84a08a67958ab7f623f90"
 msgid "སྔགས༌་␣ལ་ སློབ་དཔོན་ རྒྱལ་པོ་ ཚེ་ གཅིག་ སངས་རྒྱས་ ཐོབ་པ་ ཡང་"
 msgstr ""
+"In mantra, Master King's attainment of buddhahood in a single lifetime is "
 
 msgctxt "91c2edf32ad94fc4a348a78c21a87334"
 msgid "འོག་མ་ མ་ བགྲོད་པ་ གོང་མ་␣ར་ ཕྱིན་ ཕ་ མིན་ ཏེ་"
