@@ -2525,6 +2525,7 @@ msgstr ""
 msgctxt "46c3fd6cbfab49449eb135850c601560"
 msgid "གཉིས་ ཆ་␣ར་ དུ་ བགྲོད་པ་ བྲམ་ཟེ་ ཆེན་པོ་ ལྟ་བུ་ གཉིས་ ཡོད་ ཟེར་ ལ །"
 msgstr ""
+"one that traverses together like Great Brahmin, [they] said there are two. "
 
 msgctxt "1fc374c1a04a434585232e638c437a42"
 msgid "འདི་␣ར་ ནི་ དེ་ཡང་ རིམ་གྱིས་ འཇུག་པ་ ཁོ་ན་␣ར་ ངེས་ ཏེ །"
