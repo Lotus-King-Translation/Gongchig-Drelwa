@@ -2542,7 +2542,7 @@ msgstr "According to the Kya Vajra:"
 
 msgctxt "dff6d3250ded4c63a2874a7a9b8e98a8"
 msgid "དང་པོ་␣ར་ གསོ་སྦྱོང་ བསྟན་པ་␣ར་ བྱ །"
-msgstr ""
+msgstr "First, show healing and purification."
 
 msgctxt "7ba164515ae0482baf0b1ac3ae8819de"
 msgid "དེ་ རྗེས་ བསླབ་ སོགས །"
