@@ -2574,7 +2574,7 @@ msgstr "by knowing it for a single instant,"
 
 msgctxt "ca1b2b651e2d4f1384dad99301ec63d5"
 msgid "ཤེས་བྱ་␣འི་ འཁོར་ལོ་ ཀུན་ཁྱབ་ ཅན །"
-msgstr ""
+msgstr "the all-encompassing wheel of Knowledge,"
 
 msgctxt "9da7decfee8b40ed9f99d9e1f08832a9"
 msgid ""
