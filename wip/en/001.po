@@ -2668,6 +2668,7 @@ msgstr ""
 msgctxt "c848501ff5f74139aec94b07e820085d"
 msgid "དེ་ སྐྱེ་བ་␣ར་ ལྷན་སྐྱེས་ ཀྱི་ མ་རིག་པ་ སྤོང་ དགོས་ ཏེ་"
 msgstr ""
+"Following its arising, the ignorance of co-emergence must be abandoned."
 
 msgctxt "f0ae410b02c34a319994f050f9b228b7"
 msgid "རྟོགས་ བྱ་␣ར་ སྒྲིབ་པ་ ཤེས་ སྒྲིབ ཡིན་པ་␣ས་ སོ ། །"
