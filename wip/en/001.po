@@ -2489,7 +2489,7 @@ msgstr ""
 
 msgctxt "5d525dc54d964ab7b7441519c692e10b"
 msgid "ཨུཏྤ་ ལ་␣འི་ འདབ་མ་ འརྩེགས་པ་ ལ་ ཁབ་ ཀྱིས་ བསྙུན་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "It's as if a needle pierced a stratum of utpala leaves."
 
 msgctxt "a711650a40af4aaf9b1c9a29f9e2d507"
 msgid "དེ་ནས་ རིང་ དུ་ ཚོགས་ བསགས་པ་ དང་ ཉེ་ རྒྱུ་ བརྩོན་འགྲུས་ དང༌ །"
