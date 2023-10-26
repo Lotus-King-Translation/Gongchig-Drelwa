@@ -2484,6 +2484,8 @@ msgstr ""
 msgctxt "91c2edf32ad94fc4a348a78c21a87334"
 msgid "འོག་མ་ མ་ བགྲོད་པ་ གོང་མ་␣ར་ ཕྱིན་ ཕ་ མིན་ ཏེ་"
 msgstr ""
+"Is not like proceeding to the higher [path] without traversing the lower "
+"[path]."
 
 msgctxt "5d525dc54d964ab7b7441519c692e10b"
 msgid "ཨུཏྤ་ ལ་␣འི་ འདབ་མ་ འརྩེགས་པ་ ལ་ ཁབ་ ཀྱིས་ བསྙུན་པ་ བཞིན་ ནོ ། །"
