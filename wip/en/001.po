@@ -2546,7 +2546,7 @@ msgstr "First, show healing and purification."
 
 msgctxt "7ba164515ae0482baf0b1ac3ae8819de"
 msgid "དེ་ རྗེས་ བསླབ་ སོགས །"
-msgstr ""
+msgstr "then training, and so on."
 
 msgctxt "046bd5934f3c44618d34c9a2bbc4f314"
 msgid "ཅེས་པ་␣འི་ ལུང་ དང་ རིམ་གྱིས་ མ་ བགྲོད་པ་ གཅིག་ ཆ་␣ར་ མི་ སྲིད་པ་ ནི་"
