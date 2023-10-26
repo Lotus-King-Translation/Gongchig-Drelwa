@@ -2557,6 +2557,8 @@ msgstr ""
 msgctxt "c05f2ee6d0df4a7bb6547d927e70bab8"
 msgid "སྔར་ གྱི་ ཨུཏྤ་ ལ་␣འི་ དཔེ་␣ས་ བསྟན་པ་␣ས་ ན་རིམ་ གྱིས་ ངེས་ སོ ། །"
 msgstr ""
+"shown by the earlier example of utpala, therefore the gradual [traversing] "
+"is certain."
 
 msgctxt "8ee7a9f5530542589350cf3197ca5516"
 msgid "ཞེས་ གསུངས་པ་ དེ་ ཅི་ ཞེ་ན །"
