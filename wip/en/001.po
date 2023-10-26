@@ -2662,6 +2662,8 @@ msgid ""
 "རྗེས་ བསྟན་ གནང་ ནས་ སྒོམ་པ་␣ས་ ལ་␣ས་ ཉོན་ གྱི་ སྒྲིབ་པ་ སྤོང་བ་␣འི་ "
 "མངོན་རྟོགས་ སྐྱེ་ དགོས །"
 msgstr ""
+"By meditating on these, the path that is free of the obscuration of the "
+"afflictions must have arisen. "
 
 msgctxt "c848501ff5f74139aec94b07e820085d"
 msgid "དེ་ སྐྱེ་བ་␣ར་ ལྷན་སྐྱེས་ ཀྱི་ མ་རིག་པ་ སྤོང་ དགོས་ ཏེ་"
