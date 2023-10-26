@@ -2643,7 +2643,7 @@ msgstr ""
 
 msgctxt "adef0460e1aa41a79fc999a86d1c7c81"
 msgid "རྗེ་བཙུན་ མི་ལ་␣ས་ དྭགས་པོ་ ལ་"
-msgstr ""
+msgstr "Jetsun Milarepa told Dagpo, "
 
 msgctxt "df0d366779e545339f6098d186829423"
 msgid "ང་ ནི་ ཤེས་སྒྲིབ་ སྔོན་ དུ་ སྤོང་བ་␣ར་ འདོད་པ་ ཡིན་ གསུངས་པ་"
