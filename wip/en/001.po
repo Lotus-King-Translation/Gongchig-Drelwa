@@ -2566,7 +2566,7 @@ msgstr "If [you] wonder why that is so,"
 
 msgctxt "47f6f756301e4844b1e88cfad3d8973a"
 msgid "དེ་ལྟར་ ན་ མཚན་ཉིད་ ལ་ ཡང༌ །"
-msgstr ""
+msgstr "Like that, also in its defining characteristic."
 
 msgctxt "e76396b90e2e40d9adc57c213178657b"
 msgid "མཁྱེན་པ་␣འི་ སྐད་ཅིག་ གཅིག་ གིས ། །"
