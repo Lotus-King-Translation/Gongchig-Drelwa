@@ -2508,6 +2508,8 @@ msgctxt "5f31a5a32e7c44a58e1fa4987f1cc44b"
 msgid ""
 "ཐབས་ ཁྱད་ ཙམ་ ལ་␣ས་ སངས་རྒྱས་ ཀྱི་ རྒྱུ་ དང་ འབྲས་བུ་ སྒྲུབ་པ་␣ར་ གཅིག་ གོ །"
 msgstr ""
+"Having only special methods is the same as accomplishing the causes and "
+"results of buddhahood. "
 
 msgctxt "7806675494d644ef86cc900249776166"
 msgid "རྡོ་␣༽༽  གཞན་ འདོད་ ལ་ལ་␣འི་ ལམ་ མངོན་པར་ རྟོགས་པ་ སྐབས་"
