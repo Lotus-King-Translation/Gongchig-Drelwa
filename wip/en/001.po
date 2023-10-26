@@ -2676,6 +2676,8 @@ msgstr "The obscuration to realization is the obscuration to knowledge."
 msgctxt "4c27c47d398a47d3a4484b34d2b8ebf1"
 msgid "དེ་ཕྱིར་ དབང་རྣོན་ ཁ་ཅིག་ ཤེས་སྒྲིབ་ སྔོན་ ལ་ སྤོང་བ་␣འང་ ཡོད་ དོ །"
 msgstr ""
+"Because of that, there are some sharp faculties who abandon the obscuration "
+"to knowledge before."
 
 msgctxt "f9d771560a98437384ca0b52412e73d8"
 msgid "རྡོ་␣༽༽  གཞན་དག་ ན་རེ །"
