@@ -2627,7 +2627,7 @@ msgstr "The first ground foremost instructions and "
 
 msgctxt "c7d2de5fd4f94c889161a7b7ee923c7d"
 msgid "འདུན་པ་ ཡན་ དང་ །"
-msgstr ""
+msgstr "above the seventh and "
 
 msgctxt "d6104301295e4cd09c60bd4fe743a9cb"
 msgid "ས་བཅུ་␣འི་ རྒྱུན་མཐ་␣ར་ ཤེས་སྒྲིབ་ སྤོང་བ་ ངེས་ ཟེར །"
