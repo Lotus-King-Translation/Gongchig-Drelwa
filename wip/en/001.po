@@ -2586,6 +2586,8 @@ msgstr ""
 msgctxt "d8037dab5a9f43b2a26c4752d07476a3"
 msgid "གྲངས་མེད་ གསུམ་ དུ་ ཚོགས་ བསགས་པ་␣ས་ མི་ མཚུངས་ སྙམ་ ན །"
 msgstr ""
+"If [one] thinks [they] are not similar because it needs to gather the "
+"accumulations for three countless eons."
 
 msgctxt "c46297ab2ed545fdbc907a5dd7607424"
 msgid "སྔགས་ ལ་ ཡང་ ཚོགས་ བསགས་ སྔོན་ དུ་ སོང་བ་␣ས་ ཡིན་ གྱི །"
