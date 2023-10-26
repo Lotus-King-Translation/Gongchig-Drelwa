@@ -2530,6 +2530,7 @@ msgstr ""
 msgctxt "1fc374c1a04a434585232e638c437a42"
 msgid "འདི་␣ར་ ནི་ དེ་ཡང་ རིམ་གྱིས་ འཇུག་པ་ ཁོ་ན་␣ར་ ངེས་ ཏེ །"
 msgstr ""
+"In this [system], it is certain exclusively to the gradual engagement. "
 
 msgctxt "eab44a7a0c2b419b9357c3deb3d18cfe"
 msgid "མཚན་ཉིད་ ཐེག་པ་ ལྟ་ ཞོགས་ སྔགས་ ལ་␣འང་"
