@@ -2570,7 +2570,7 @@ msgstr "Like that, also in its defining characteristic."
 
 msgctxt "e76396b90e2e40d9adc57c213178657b"
 msgid "མཁྱེན་པ་␣འི་ སྐད་ཅིག་ གཅིག་ གིས ། །"
-msgstr ""
+msgstr "by knowing it for a single instant,"
 
 msgctxt "ca1b2b651e2d4f1384dad99301ec63d5"
 msgid "ཤེས་བྱ་␣འི་ འཁོར་ལོ་ ཀུན་ཁྱབ་ ཅན །"
