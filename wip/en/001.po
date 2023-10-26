@@ -2538,7 +2538,7 @@ msgstr "The view of the defining characteristic vehicle in the mantra as well"
 
 msgctxt "0347095ef0dd4dd5952d293e79190384"
 msgid "ཀྱེེཻ རྡོ་ རྗེ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Kya Vajra:"
 
 msgctxt "dff6d3250ded4c63a2874a7a9b8e98a8"
 msgid "དང་པོ་␣ར་ གསོ་སྦྱོང་ བསྟན་པ་␣ར་ བྱ །"
