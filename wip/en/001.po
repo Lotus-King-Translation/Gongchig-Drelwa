@@ -2615,7 +2615,7 @@ msgstr "The total conceptualization and co-emergence or "
 
 msgctxt "1be580c05c404f64aa8b3decd99daad0"
 msgid "དེ་ཉིད་ ལ་ རྨོངས་པ་␣འི་ མ་རིག་ གསུམ་ ཟེར །"
-msgstr ""
+msgstr "These are called the three deluded ignorances."
 
 msgctxt "36c85b49055e4eacb7478d0c6e6b6689"
 msgid "སྤོང་ ཚུལ་ རིམ་བཞིན་"
