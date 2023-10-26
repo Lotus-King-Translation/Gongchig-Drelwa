@@ -2591,7 +2591,7 @@ msgstr ""
 
 msgctxt "c46297ab2ed545fdbc907a5dd7607424"
 msgid "སྔགས་ ལ་ ཡང་ ཚོགས་ བསགས་ སྔོན་ དུ་ སོང་བ་␣ས་ ཡིན་ གྱི །"
-msgstr ""
+msgstr "The gathering of accumulations has preceded in mantra as well."
 
 msgctxt "a86a99c7dfb04bb0a34dc240fdc5cf8f"
 msgid "གཞན་ དུ་ ན་ རྒྱུ་ མེད་པ་␣ས་ འབྲས་བུ་ ཁ་␣ས་ ལོངས་ ཤིག་ གོ །"
