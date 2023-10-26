@@ -2494,6 +2494,8 @@ msgstr "It's like sticking a needle through a layer of utpala leaves."
 msgctxt "a711650a40af4aaf9b1c9a29f9e2d507"
 msgid "དེ་ནས་ རིང་ དུ་ ཚོགས་ བསགས་པ་ དང་ ཉེ་ རྒྱུ་ བརྩོན་འགྲུས་ དང༌ །"
 msgstr ""
+"Then amass the accumulations for a long and immediate cause perseverance and"
+" "
 
 msgctxt "afaf25762a7d4f059c8a2670fdce1fe1"
 msgid ""
