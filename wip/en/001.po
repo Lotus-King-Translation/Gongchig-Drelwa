@@ -2629,7 +2629,7 @@ msgstr ""
 
 msgctxt "b86a3e717b0e48a1aed89e9815eaf4a0"
 msgid "དེ་␣འི་ རྒྱུ་མཚན་ ལ་"
-msgstr ""
+msgstr "The reason for this is "
 
 msgctxt "b139004e7cba415ca85cbd51f3db4676"
 msgid "བླ་མ་␣ས་ སློབ་མ་␣ར་ གདམས་ངག"
