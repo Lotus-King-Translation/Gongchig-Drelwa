@@ -2581,6 +2581,7 @@ msgid ""
 "ཞེས་ སྐད་ཅིག་ གཅིག་ གིས་ རྣམ་པ་ ཐམས་ཅད་ མཁྱེན་པ་ བརྙེས་པ་␣ས་ ན་ མཚུངས་ སོ "
 "། །"
 msgstr ""
+"It is similar to receiving the knowledge of all aspects in a single instant."
 
 msgctxt "d8037dab5a9f43b2a26c4752d07476a3"
 msgid "གྲངས་མེད་ གསུམ་ དུ་ ཚོགས་ བསགས་པ་␣ས་ མི་ མཚུངས་ སྙམ་ ན །"
