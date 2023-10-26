@@ -2607,7 +2607,7 @@ msgstr "three obscurations: karma, affliction, and knowable obscuration."
 
 msgctxt "2bd894f8efaa4c9faac00d2f81a1c185"
 msgid "རིམ་བཞིན་ ལ་␣ས་ རྒྱུ་འབྲས་ ལ་ རྨོངས་པ་"
-msgstr ""
+msgstr "Being gradually ignorant of the cause and effect of karmic actions."
 
 msgctxt "eb13aecb3dca466191d46619e5ba0f93"
 msgid "ཀུན་བརྟགས་ ལྷན་སྐྱེས་ སམ་"
