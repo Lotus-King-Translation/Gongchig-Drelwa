@@ -2671,7 +2671,7 @@ msgstr "For its arising, the ignorance of co-emergence must be abandoned."
 
 msgctxt "f0ae410b02c34a319994f050f9b228b7"
 msgid "རྟོགས་ བྱ་␣ར་ སྒྲིབ་པ་ ཤེས་ སྒྲིབ ཡིན་པ་␣ས་ སོ ། །"
-msgstr ""
+msgstr "The obscuration to realization is the obscuration to knowledge."
 
 msgctxt "4c27c47d398a47d3a4484b34d2b8ebf1"
 msgid "དེ་ཕྱིར་ དབང་རྣོན་ ཁ་ཅིག་ ཤེས་སྒྲིབ་ སྔོན་ ལ་ སྤོང་བ་␣འང་ ཡོད་ དོ །"
