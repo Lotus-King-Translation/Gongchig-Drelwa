@@ -2470,7 +2470,7 @@ msgstr "At the first ground that provides bodhisattvas joy"
 
 msgctxt "3484734fe3504add944bf0af85dffe46"
 msgid "ཉོན་མོངས་པ་␣འི་ འདུག་ལུགས་ མཐོང་བ་␣ས་"
-msgstr ""
+msgstr "Seeing how the afflictive emotions are present,"
 
 msgctxt "741b7f589ecf4c93bea47becaa809da0"
 msgid "ས་ བརྒྱད་པ་ ཐོབ་པ་ དང༌ །"
