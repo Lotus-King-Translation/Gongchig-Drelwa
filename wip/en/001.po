@@ -2619,7 +2619,7 @@ msgstr "These are called the three deluded ignorances."
 
 msgctxt "36c85b49055e4eacb7478d0c6e6b6689"
 msgid "སྤོང་ ཚུལ་ རིམ་བཞིན་"
-msgstr "The successive ways to abandon [them]:"
+msgstr "The successive ways of abandoning [them]:"
 
 msgctxt "a9643dd009294ab6a029458eebc6fa6f"
 msgid "ས་ དང་པོ་ མན་ངག་ དང་ །"
