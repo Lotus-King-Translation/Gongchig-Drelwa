@@ -2623,7 +2623,7 @@ msgstr "The successive ways of abandoning [them]:"
 
 msgctxt "a9643dd009294ab6a029458eebc6fa6f"
 msgid "ས་ དང་པོ་ མན་ངག་ དང་ །"
-msgstr ""
+msgstr "The first ground foremost instructions and "
 
 msgctxt "c7d2de5fd4f94c889161a7b7ee923c7d"
 msgid "འདུན་པ་ ཡན་ དང་ །"
