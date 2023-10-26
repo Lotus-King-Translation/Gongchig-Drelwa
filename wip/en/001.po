@@ -2519,7 +2519,7 @@ msgstr ""
 
 msgctxt "9fc4c850ba5a41e985d4eec46688cb00"
 msgid "གདངས་ ལྟར་ རིམ་གྱིས་ བགྲོད་པ་ སློབ་དཔོན་ འཕགས་པ་ ལྟ་བུ་ དང་ །"
-msgstr ""
+msgstr "Traverse gradually like sound waves like Master Arya"
 
 msgctxt "46c3fd6cbfab49449eb135850c601560"
 msgid "གཉིས་ ཆ་␣ར་ དུ་ བགྲོད་པ་ བྲམ་ཟེ་ ཆེན་པོ་ ལྟ་བུ་ གཉིས་ ཡོད་ ཟེར་ ལ །"
