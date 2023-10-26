@@ -2501,6 +2501,8 @@ msgctxt "afaf25762a7d4f059c8a2670fdce1fe1"
 msgid ""
 "བླ་མ་␣འི་ བྱིན་རླབས་ འཛོམ་ ཚེ་ གོང་མ་ ཐབས་ བྱུང་ དུ་ སྐྱེ་བ་ ཡིན་ ཞིང་ །"
 msgstr ""
+"When the blessings of gurus are assembled, [one] will be born as superior, "
+"arising from the skillful methods."
 
 msgctxt "5f31a5a32e7c44a58e1fa4987f1cc44b"
 msgid ""
