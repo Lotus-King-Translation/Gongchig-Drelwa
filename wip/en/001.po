@@ -2599,7 +2599,7 @@ msgstr "Otherwise, [you] assert a causeless result."
 
 msgctxt "7b75954c7e6945bb8dc9c6e21e42e6d0"
 msgid "རྡོ་␣༽༽  མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ལ་"
-msgstr ""
+msgstr "Vajra: the primordial wisdom of knowing has"
 
 msgctxt "49e9e70a922e4c9193c696353cd49942"
 msgid "སྒྲིབ་བྱེད་ ལ་␣ས་ ཉོན་ ཤེས་བྱ་␣འི་ སྒྲིབ་པ་ གསུམ་ ལ་"
