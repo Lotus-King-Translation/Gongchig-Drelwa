@@ -2474,7 +2474,7 @@ msgstr "Seeing how the afflictive emotions are present,"
 
 msgctxt "741b7f589ecf4c93bea47becaa809da0"
 msgid "ས་ བརྒྱད་པ་ ཐོབ་པ་ དང༌ །"
-msgstr ""
+msgstr "attained the eighth ground and "
 
 msgctxt "215bc81f43c84a08a67958ab7f623f90"
 msgid "སྔགས༌་␣ལ་ སློབ་དཔོན་ རྒྱལ་པོ་ ཚེ་ གཅིག་ སངས་རྒྱས་ ཐོབ་པ་ ཡང་"
