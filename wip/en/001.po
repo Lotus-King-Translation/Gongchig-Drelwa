@@ -2774,6 +2774,7 @@ msgctxt "4b21923c57dd4b1a93dfe45884f18231"
 msgid ""
 "སྟོབས་ བཅུ་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ དེ་ཡང་ དག་ གི་ ཤེས་པ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ །"
 msgstr ""
+"The primordial wisdom that knows the ten strengths is genuine cognition. "
 
 msgctxt "808c727ad2414be9a8252c0af21dbcd8"
 msgid "རྡོ་␣༽༽  ལ་ལ་ དག་ གིས་"
