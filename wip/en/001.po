@@ -2767,6 +2767,8 @@ msgid ""
 "བཟུང་ མཐ་␣ར་ སྐྱོན་བྲལ་ ཡོན་ཏན་ རྫོགས་པ་␣འི་ སངས་རྒྱས་ ཐོབ་པ་ མན་ཆད་ "
 "ཡང་དག་པ་␣འི་ ཤེས་པ་␣ས་ འགྲུབ་ སྟེ །"
 msgstr ""
+"Up to the attainment of buddhahood free of all flaws and possessing all good"
+" qualities are accomplished by genuine cognition. "
 
 msgctxt "4b21923c57dd4b1a93dfe45884f18231"
 msgid ""
