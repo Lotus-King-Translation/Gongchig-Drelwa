@@ -2688,6 +2688,8 @@ msgid ""
 "ཚད་མ་ རིགས་ བྱེད་ དང་ ཐུན་མོང་ དུ་ གྱུར་པ་ ཕྱི་རོལ་ རྩོད་པ་ ཟློག་ ཕྱིར་ "
 "ལ་␣ས་"
 msgstr ""
+"According to the Refutation of Outside Criticisms that is common to Valid "
+"Cognition and Reasoning,"
 
 msgctxt "172f4db615d743f6943ad71c290477c0"
 msgid "སངས་རྒྱས་ ཀྱི་ ཆོས་ སུ་ མི་འགྱུར་བ་ འདོང་པ་␣འང་ ཡོད་ མོད །"
