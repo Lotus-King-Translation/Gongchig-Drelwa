@@ -2698,6 +2698,7 @@ msgstr "There are processions that are not buddhadharma. "
 msgctxt "263eb874cbf1495aaa2fcd9df1684fae"
 msgid "འདི་␣ར་ ནི་ ཚད་མ་␣འི་ དོན་ མི་ བསླུའི་ ཤེས་པ་␣ར་ ཟེར་"
 msgstr ""
+"In this [system], the meaning of valid cognition is non-deceptive cognition."
 
 msgctxt "c04ec5afc3034c33a350850b610de6fb"
 msgid "དེ་ ནི་ སངས་རྒྱས་ ཀྱི་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ཉག་གཅིག་ ཡིན་ ཏེ །"
