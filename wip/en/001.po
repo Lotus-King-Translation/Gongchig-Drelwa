@@ -2702,7 +2702,7 @@ msgstr ""
 
 msgctxt "c04ec5afc3034c33a350850b610de6fb"
 msgid "དེ་ ནི་ སངས་རྒྱས་ ཀྱི་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ཉག་གཅིག་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "That is the only primordial wisdom of knowing of the Buddha. "
 
 msgctxt "f6a1848bc2f34603be3b58d2b4e77e1d"
 msgid "ཕུང་པོ་ གསུམ་པ་ ལ་␣ས །"
