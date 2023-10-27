@@ -2710,7 +2710,7 @@ msgstr "According to the [Sutra of the] Three Heaps,"
 
 msgctxt "1b75229d0ff24b93813273080787caff"
 msgid "ཡེ་ཤེས་ སུ་ གྱུར་པ །"
-msgstr ""
+msgstr "[The one who] became primordial wisdom,"
 
 msgctxt "b22e94b5287e49409f4a356b505fbe85"
 msgid "སྤྱན་ དུ་ གྱུར་པ །"
