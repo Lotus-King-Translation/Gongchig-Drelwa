@@ -2786,7 +2786,7 @@ msgstr "The intellectual logic refutes the bad tenets."
 
 msgctxt "31a28b77517c4f998ebd7e228b10ac1c"
 msgid "ལས་འབྲས་ བུ་ མེད་ དེ་ རྗེ་བོ་␣ས །"
-msgstr ""
+msgstr "There is no karma and result because of Lord,"
 
 msgctxt "512ef7fae431423d9dd3b40b670df40a"
 msgid "མངོན་སུམ་ རྗེས་དཔག་ དགོས་པ་ མེད་ ༑"
