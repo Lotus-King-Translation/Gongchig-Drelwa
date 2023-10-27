@@ -2790,7 +2790,7 @@ msgstr "There is no karma and result because of Lord,"
 
 msgctxt "512ef7fae431423d9dd3b40b670df40a"
 msgid "མངོན་སུམ་ རྗེས་དཔག་ དགོས་པ་ མེད་ ༑"
-msgstr ""
+msgstr "Direct perception and inference have no purpose,"
 
 msgctxt "e3f041777eef4a72b2ce9c97ef0786bb"
 msgid "མུ་སྟེགས་ རྒོལ་བ་ བཟློག་པ་␣འི་ ཕྱིར །"
