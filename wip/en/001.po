@@ -2750,7 +2750,7 @@ msgstr "Benefit and harm, attainment and abandonment, are"
 
 msgctxt "7187c72ac8144fff8b07ea6145b789e4"
 msgid "ངེས་པར་ ཡང་དག་པ་␣འི་ ཤེས་པ་ སྔོན་ དུ་ འགྲོ་བ་ ཅན་ ཡིན་པ་␣ས་"
-msgstr "Those who have previously followed genuine certainty of knowledge."
+msgstr "Those who have previously followed genuine cognition of certainty."
 
 msgctxt "00c8ba0d1df549e4964c4a31db24f1de"
 msgid "དེ་ མི་ ཤེས་པ་ རྣམས་ ཀྱི་ དོན་ དུ་ འདི་ བརྩམ་ མོ་ ཞེས་པ་␣ས །"
