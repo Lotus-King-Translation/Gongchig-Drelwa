@@ -2754,7 +2754,7 @@ msgstr "Those who have previously followed genuine certainty of knowledge."
 
 msgctxt "00c8ba0d1df549e4964c4a31db24f1de"
 msgid "དེ་ མི་ ཤེས་པ་ རྣམས་ ཀྱི་ དོན་ དུ་ འདི་ བརྩམ་ མོ་ ཞེས་པ་␣ས །"
-msgstr ""
+msgstr "This is composed for those who have no knowledge of it. "
 
 msgctxt "46e55e1d9fe1421497c301391cc8a1c3"
 msgid "གནས་སྐབས་ དོན་ དང་ ལྡན་པ་␣འི་ བློ་ ཅུང་ཟད་ སྐྱེ་བ་ ནས་"
