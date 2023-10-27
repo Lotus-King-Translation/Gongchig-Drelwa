@@ -2718,7 +2718,7 @@ msgstr "Became eyes,"
 
 msgctxt "7b71c836e9344e7fa4801453e6a31637"
 msgid "དབང་ དུ་ གྱུར་པ །"
-msgstr ""
+msgstr "Became power,"
 
 msgctxt "74cd5b35389049cb885c5b414601862d"
 msgid "ཚད་མ་␣ར་ གྱུར་པ་ ཞེས་ དང༌ །"
