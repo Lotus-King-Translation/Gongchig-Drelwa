@@ -2782,7 +2782,7 @@ msgstr "Vajra: some said,"
 
 msgctxt "d2dc4075b8014c7bb79df5aac98a9d22"
 msgid "རྟོག་གེ་ ཚད་མ་ ནི་ གྲུབ་མཐའ་ དན་པ་ སུན་ འབྱིན་ བྱེད་"
-msgstr ""
+msgstr "sophistic logic refute tenet "
 
 msgctxt "31a28b77517c4f998ebd7e228b10ac1c"
 msgid "ལས་འབྲས་ བུ་ མེད་ དེ་ རྗེ་བོ་␣ས །"
