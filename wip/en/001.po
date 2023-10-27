@@ -2746,7 +2746,7 @@ msgstr "According to the Definite Ascertainment of Pramana by Dharmakirti:"
 
 msgctxt "988f0f04f1674c8eb6b40e4d94422460"
 msgid "ཕན་པ་ དང་ མི་ ཕན་ཐོབ་པ་ དང་ སྤོང་བ་ ནི་"
-msgstr ""
+msgstr "Benefit and harm, attainment and abandonment, are"
 
 msgctxt "7187c72ac8144fff8b07ea6145b789e4"
 msgid "ངེས་པར་ ཡང་དག་པ་␣འི་ ཤེས་པ་ སྔོན་ དུ་ འགྲོ་བ་ ཅན་ ཡིན་པ་␣ས་"
