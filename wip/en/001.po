@@ -2738,7 +2738,7 @@ msgstr "Homage to the Sugata."
 
 msgctxt "ef455c3e15644b1dbd8c07a5adf8add3"
 msgid "ཞེས་ དང་ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "5ba803af6747421ba9f029279a7bacd0"
 msgid "ཆོས་གྲགས་ རྣམ་ ངེས་ ལ་␣ས །"
