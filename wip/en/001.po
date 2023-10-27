@@ -2693,7 +2693,7 @@ msgstr ""
 
 msgctxt "172f4db615d743f6943ad71c290477c0"
 msgid "སངས་རྒྱས་ ཀྱི་ ཆོས་ སུ་ མི་འགྱུར་བ་ འདོང་པ་␣འང་ ཡོད་ མོད །"
-msgstr ""
+msgstr "There are processions that are not buddhadharma. "
 
 msgctxt "263eb874cbf1495aaa2fcd9df1684fae"
 msgid "འདི་␣ར་ ནི་ ཚད་མ་␣འི་ དོན་ མི་ བསླུའི་ ཤེས་པ་␣ར་ ཟེར་"
