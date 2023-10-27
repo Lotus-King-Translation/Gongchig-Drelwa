@@ -2726,7 +2726,7 @@ msgstr ""
 
 msgctxt "536b4a67382340c0863203a558eaf9a5"
 msgid "ཕྱོགས་གླང་ གིས །"
-msgstr ""
+msgstr "Dignaga said:"
 
 msgctxt "bb83f1811ccb411fafe487cd11d200f4"
 msgid "ཚད་མ་␣ར་ གྱུར་པ་ འགྲོ་ ལ་ ཕན་ བཞེད་པ ། །"
