@@ -2802,7 +2802,7 @@ msgstr "It is done by the learned ones."
 
 msgctxt "2cc8b38f35184259ba63dc097ca7622c"
 msgid "ཞེས་ འགའ་ཞིག་ ཟེར་ རོ ། །"
-msgstr ""
+msgstr "As said by some [people]."
 
 msgctxt "1db44ab12b284e7eafbabb9b1be57f07"
 msgid "འདི་␣ར་ ནི་ ཚད་མ་␣འི་ འབྲས་བུ་ ཟབ་མོ་ སྟོང་པ་ཉིད་ སྟོན་ ཏེ་"
