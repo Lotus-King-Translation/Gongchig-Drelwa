@@ -2706,7 +2706,7 @@ msgstr "That is the only primordial wisdom of knowing of the Buddha. "
 
 msgctxt "f6a1848bc2f34603be3b58d2b4e77e1d"
 msgid "ཕུང་པོ་ གསུམ་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the [Sutra of the] Three Heaps,"
 
 msgctxt "1b75229d0ff24b93813273080787caff"
 msgid "ཡེ་ཤེས་ སུ་ གྱུར་པ །"
