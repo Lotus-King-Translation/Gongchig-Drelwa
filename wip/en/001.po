@@ -2714,7 +2714,7 @@ msgstr "[The one who] became primordial wisdom,"
 
 msgctxt "b22e94b5287e49409f4a356b505fbe85"
 msgid "སྤྱན་ དུ་ གྱུར་པ །"
-msgstr ""
+msgstr "Became eyes,"
 
 msgctxt "7b71c836e9344e7fa4801453e6a31637"
 msgid "དབང་ དུ་ གྱུར་པ །"
