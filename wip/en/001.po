@@ -2742,7 +2742,7 @@ msgstr "And"
 
 msgctxt "5ba803af6747421ba9f029279a7bacd0"
 msgid "ཆོས་གྲགས་ རྣམ་ ངེས་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Definite Ascertainment of Pramana by Dharmakirti:"
 
 msgctxt "988f0f04f1674c8eb6b40e4d94422460"
 msgid "ཕན་པ་ དང་ མི་ ཕན་ཐོབ་པ་ དང་ སྤོང་བ་ ནི་"
