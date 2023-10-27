@@ -2759,6 +2759,8 @@ msgstr "This is composed for those who have no knowledge of it. "
 msgctxt "46e55e1d9fe1421497c301391cc8a1c3"
 msgid "གནས་སྐབས་ དོན་ དང་ ལྡན་པ་␣འི་ བློ་ ཅུང་ཟད་ སྐྱེ་བ་ ནས་"
 msgstr ""
+"In certain circumstances, from the arising of a few meaningful rational "
+"minds "
 
 msgctxt "e53426afc66b4feda91abb8115bf838d"
 msgid ""
