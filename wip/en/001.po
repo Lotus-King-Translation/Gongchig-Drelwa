@@ -2730,7 +2730,7 @@ msgstr ""
 
 msgctxt "bb83f1811ccb411fafe487cd11d200f4"
 msgid "ཚད་མ་␣ར་ གྱུར་པ་ འགྲོ་ ལ་ ཕན་ བཞེད་པ ། །"
-msgstr ""
+msgstr "[One] who becomes a valid [person] and wishes to help migrators,"
 
 msgctxt "e0cf085ad9de43c8b1920c3f946e75bf"
 msgid "སྟོན་པ་ བདེ་བ་␣ར་ གཤེགས་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
