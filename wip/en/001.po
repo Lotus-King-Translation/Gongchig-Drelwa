@@ -2816,7 +2816,7 @@ msgstr "Moreover, valid cognition has an object of evaluation,"
 
 msgctxt "c207a2a7923d440497fdf368b493698e"
 msgid "འཇལ་བྱེད་ བློ །"
-msgstr ""
+msgstr "evaluator rational mind,"
 
 msgctxt "b16bb13c0e0b4664aa425db214c44a33"
 msgid "དེ་ རྟོགས་ བྱེད་ཐབས་ གསུམ་ དུ་ འདུ་ ཞིང་"
