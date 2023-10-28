@@ -2829,7 +2829,7 @@ msgstr "In terms of object and essence, there are three: thing and non-thing,"
 
 msgctxt "da6159f11f374516ac0c861b3d4e0d59"
 msgid "འདུ་ བྱས་ འདུ་ མ་ བྱས །"
-msgstr ""
+msgstr "Compounded and uncompounded,"
 
 msgctxt "e9c3121eab0441b7951a8298227fd10e"
 msgid "ལྐོག་གྱུར་ ཤིན་ཏུ་ ལྐོག་གྱུར་ གསུམ་"
