@@ -2825,7 +2825,7 @@ msgstr "and a method to realize it."
 
 msgctxt "2354adc67b7c40bdb7f78721a3a86852"
 msgid "ཡུལ་ དང་ ངོ་བོ་␣འི་ སྒོ་ ནས་ དངོས་ དང་ དངོས་མེད །"
-msgstr ""
+msgstr "In terms of object and essence, there are three: thing and non-thing,"
 
 msgctxt "da6159f11f374516ac0c861b3d4e0d59"
 msgid "འདུ་ བྱས་ འདུ་ མ་ བྱས །"
