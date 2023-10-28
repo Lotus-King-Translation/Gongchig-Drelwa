@@ -2838,6 +2838,8 @@ msgstr "Hidden and most hidden."
 msgctxt "e2bae93d567a4886b0bf9ea89e2cfacc"
 msgid "འཇལ་བྱེད་ བློ་རིག་ ཤེས་ གསུམ་ དོན་ གཅིག་ ཅིང་"
 msgstr ""
+"The evaluators such as the rational mind, rigpa, and consciousness are "
+"synonymous."
 
 msgctxt "03b6e43127c44787aafd3e63785d2b78"
 msgid "དེ་␣འང་ མངོན་ གསུམ་ རྗེས་དཔག་ གཉིས །"
