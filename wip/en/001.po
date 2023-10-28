@@ -2833,7 +2833,7 @@ msgstr "Compounded and uncompounded,"
 
 msgctxt "e9c3121eab0441b7951a8298227fd10e"
 msgid "ལྐོག་གྱུར་ ཤིན་ཏུ་ ལྐོག་གྱུར་ གསུམ་"
-msgstr ""
+msgstr "Hidden and most hidden."
 
 msgctxt "e2bae93d567a4886b0bf9ea89e2cfacc"
 msgid "འཇལ་བྱེད་ བློ་རིག་ ཤེས་ གསུམ་ དོན་ གཅིག་ ཅིང་"
