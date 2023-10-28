@@ -2844,6 +2844,8 @@ msgstr ""
 msgctxt "03b6e43127c44787aafd3e63785d2b78"
 msgid "དེ་␣འང་ མངོན་ གསུམ་ རྗེས་དཔག་ གཉིས །"
 msgstr ""
+"Moreover, there are two [types of evaluators]: direct perception and "
+"inference."
 
 msgctxt "e0bdcef4e1e14591b7167656b66b6a1e"
 msgid "མངོན་སུམ་ ལ་ དབང་ ཡིད་ རང་རིག་ རྣལ་འབྱོར་ མངོན་སུམ །"
