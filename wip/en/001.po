@@ -2856,6 +2856,8 @@ msgstr ""
 msgctxt "15f59d68bb7a4a12b1ea15e57845a905"
 msgid "རྗེས་དཔག་ ལ །  དངོས་ སྟོབས་ གྲགས་པ་ ཡིད་ ཆོས་ གསུམ་"
 msgstr ""
+"Inference includes inference by the power of fact, inference which is "
+"renowned, and inference by trust."
 
 msgctxt "7992bae4af7843958d66919f621cf3af"
 msgid ""
