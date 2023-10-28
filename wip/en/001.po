@@ -2807,6 +2807,8 @@ msgstr "As said by some [people]."
 msgctxt "1db44ab12b284e7eafbabb9b1be57f07"
 msgid "འདི་␣ར་ ནི་ ཚད་མ་␣འི་ འབྲས་བུ་ ཟབ་མོ་ སྟོང་པ་ཉིད་ སྟོན་ ཏེ་"
 msgstr ""
+"In this [system], the profound emptiness is taught as the result of valid "
+"cognition."
 
 msgctxt "9515bc662646472885b61fd6226f5044"
 msgid "དེ་␣འང་ ཚད་མ་ ལ་ གཞལ་བྱ་ ཡུལ །"
