@@ -2072,7 +2072,7 @@ msgctxt "e96e5006ce924b6dac7c1dcc30dcbde3"
 msgid "འཕགས་པ་ ཡབ་ སྲས་ ཀྱིས་ དབུ་མ་␣འི་ དགོངས་འགྲེལ་ རིགས་པ་␣འི་ ཚོགས་ དང༌ །"
 msgstr ""
 "The Commentary on the Intent of the Middle Way and the Collection of "
-"Reasoning by Arya father and son."
+"Reasoning by Arya Father and Son."
 
 msgctxt "035a36b37464469fbfb5d6cdc6bdb234"
 msgid ""
