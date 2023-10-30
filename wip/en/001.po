@@ -2862,6 +2862,8 @@ msgctxt "7992bae4af7843958d66919f621cf3af"
 msgid ""
 "རྟོགས་ བྱེད་ འགལ་ འགྲེལ་ དགག་སྒྲུབ་ སྤྱི་བྱེ་ བྲག་ གཅིག་ ཐ་དད་ སེལ་འཇུག  །"
 msgstr ""
+"Realizer, contradiction-relation, negation-assertion, generality-particular,"
+" singularity-plurality, eliminative engagement,"
 
 msgctxt "756c037c173245bca15b4c68e08c53f2"
 msgid ""
