@@ -2870,6 +2870,8 @@ msgid ""
 "སྒྲུབ་འཇུག་ གཞན་སེལ །  མཚན་ མཚོན །  རྫས་ ལྡོག  ། རྗེས་དཔག་ གཉིས་ དང་ བཅས་པ་ "
 "ནི་ ཚད་མ་␣འི་ བརྗོད་བྱ་ སྟེ །"
 msgstr ""
+"assertive engagement, other-elimination, definition and definiendum, "
+"substance and isolation, two inferences, are the contents of logic. "
 
 msgctxt "63c6db260d7948d0950a2128cc9bfe17"
 msgid "རང་དོན་ རྗེས་དཔག་ ཚུལ་ གསུམ་ ཚང་བ་␣འི་ རྟགས་ ཏེ །"
