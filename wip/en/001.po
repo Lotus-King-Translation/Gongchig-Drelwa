@@ -2811,8 +2811,7 @@ msgstr ""
 
 msgctxt "9515bc662646472885b61fd6226f5044"
 msgid "དེ་␣འང་ ཚད་མ་ ལ་ གཞལ་བྱ་ ཡུལ །"
-msgstr ""
-"Moreover, valid cognition includes three methods, an object of evaluation,"
+msgstr "Moreover, a valid cognition has an object of evaluation,"
 
 msgctxt "c207a2a7923d440497fdf368b493698e"
 msgid "འཇལ་བྱེད་ བློ །"
