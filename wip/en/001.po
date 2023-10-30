@@ -2819,7 +2819,7 @@ msgstr "an evaluator rational mind,"
 
 msgctxt "b16bb13c0e0b4664aa425db214c44a33"
 msgid "དེ་ རྟོགས་ བྱེད་ཐབས་ གསུམ་ དུ་ འདུ་ ཞིང་"
-msgstr "and a method to realize it."
+msgstr "and a realizer, are the three methods."
 
 msgctxt "2354adc67b7c40bdb7f78721a3a86852"
 msgid "ཡུལ་ དང་ ངོ་བོ་␣འི་ སྒོ་ ནས་ དངོས་ དང་ དངོས་མེད །"
