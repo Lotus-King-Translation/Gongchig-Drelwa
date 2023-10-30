@@ -2876,6 +2876,8 @@ msgstr ""
 msgctxt "63c6db260d7948d0950a2128cc9bfe17"
 msgid "རང་དོན་ རྗེས་དཔག་ ཚུལ་ གསུམ་ ཚང་བ་␣འི་ རྟགས་ ཏེ །"
 msgstr ""
+"The inference for oneself that completes the three modes of a [correct] "
+"reason:"
 
 msgctxt "66ec01fd9ed74ce2be597f7209c3fde5"
 msgid "བདེན་པ་␣ར་ འཛིན་པ་␣འི་ དངོས་པོ་ ཆོས་ཅན །"
