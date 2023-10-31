@@ -2908,7 +2908,7 @@ msgstr "As said in the Full Commentary to [the Compendium of Pramana],"
 
 msgctxt "5177ad9c7a694fb487e5aa42a29f6a5e"
 msgid "གང་ གི་ དངོས་པོ་ རྣམ་དག་ ན །"
-msgstr ""
+msgstr "If the things are analyzed with whichever [reasonings],"
 
 msgctxt "ed981e46ac8e4fa4945625ce9f2c8323"
 msgid "དེ་ཉིད་ དུ་ ནི་ དེ་ དངོས་མེད །"
