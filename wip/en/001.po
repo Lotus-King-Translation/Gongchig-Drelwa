@@ -2920,7 +2920,7 @@ msgstr "Why is it that way? Because they are,"
 
 msgctxt "60198c0695ca41908d280c56bcad8797"
 msgid "གཅིག་ དང་ དུ་མ་␣འི་ རང་བཞིན་ མེད །"
-msgstr ""
+msgstr "Lacking the [true] nature of singularity and plurality."
 
 msgctxt "cdf53b0cd1b04427bcc28b831f3460e2"
 msgid "ཅེས་ དང་ །"
