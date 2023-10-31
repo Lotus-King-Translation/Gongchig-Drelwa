@@ -2992,7 +2992,7 @@ msgstr ""
 
 msgctxt "1b92eac8e2134e1caade83d1234c9a53"
 msgid "དེ་སྲིད་ དུ་ ལྟ་ངན་ དེ་ ཐམས་ཅད་ རང་རྒྱུད་ དུ་ཡོད་པ་ ཡིན་ ཏེ་"
-msgstr ""
+msgstr "until then, all of these bad views exist within one's own continuum."
 
 msgctxt "cdaaacd7cc1b45c8b1c5ab25af8d1697"
 msgid "ང་ ནི་ ཕ་ འདི་␣འི་ བུ་ ཡིན་ ཞེས་ གྲུབ་ གྲུབ་ ཏུ་ འཛིན་པ་"
