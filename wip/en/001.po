@@ -2944,7 +2944,7 @@ msgstr "Radiate to all, homage [to him]."
 
 msgctxt "02858f9c30234c368d07f52be2885984"
 msgid "ཞེས་པ་␣ས །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "2e881feaf7234bacb01894fe12336d39"
 msgid "ཚད་མ་ ལ་ འབྲས་བུ་ ཡོད་པ་ གྲུབ་ སྟེ་ །"
