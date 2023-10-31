@@ -2899,6 +2899,8 @@ msgctxt "1b60066afe044db4805e35ff600631ab"
 msgid ""
 "ཞེས་པ་␣ས་ རང་བཞིན་ མ་གྲུབ་པ་␣འི་ གནས་ཚུལ་ སྟོང་ཉིད་ སྟོན་པ་ ཡིན་ ནོ ། །"
 msgstr ""
+"This shows emptiness, the circumstance of having no existing nature [of "
+"their own]."
 
 msgctxt "02d2e41b26c24b3cb2b64a28fa3942dc"
 msgid "དེ་སྐད་ དུའང་ རྣམ་འགྲེལ་ ལ་␣ས །"
