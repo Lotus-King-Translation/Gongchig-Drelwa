@@ -2940,7 +2940,7 @@ msgstr "The pure light rays of Samantabhadra,"
 
 msgctxt "bca5ac6e1c95433a8a9ca111931d0149"
 msgid "ཀུན་ ནས་ འཕྲོ་ ལ་ ཕྱག་ འཚལ་ ལོ་␣༑ །"
-msgstr ""
+msgstr "Radiate to all, homage [to him]."
 
 msgctxt "02858f9c30234c368d07f52be2885984"
 msgid "ཞེས་པ་␣ས །"
