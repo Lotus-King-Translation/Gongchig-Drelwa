@@ -2881,7 +2881,7 @@ msgstr ""
 
 msgctxt "66ec01fd9ed74ce2be597f7209c3fde5"
 msgid "བདེན་པ་␣ར་ འཛིན་པ་␣འི་ དངོས་པོ་ ཆོས་ཅན །"
-msgstr ""
+msgstr "Take the subject, things apprehending as true."
 
 msgctxt "38fe4eb521ec4a1a9453b64874217375"
 msgid "བདེན་པ་␣འི་ སྐྱེ་བ་ མེད་ དེ །"
