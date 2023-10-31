@@ -3010,6 +3010,8 @@ msgctxt "64563353b41145aaa0d304ba1efae419"
 msgid ""
 "བྱས་པ་␣ས་ བྱ་རོག་ ཞར་ མ་␣འི་ སྐྱེ་བ་ ལྔ་ བརྒྱ་ ལེན་པ་␣ར་ གསུངས་པ་ དང༌ །"
 msgstr ""
+"It is stated that if one does this, [they] will be born blind crows for five"
+" hundred lifetimes."
 
 msgctxt "c5ac6da8b662470bb380038948f3cd02"
 msgid ""
