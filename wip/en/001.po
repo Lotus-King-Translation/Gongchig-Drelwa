@@ -2885,7 +2885,7 @@ msgstr "Take the subject, things apprehending as true."
 
 msgctxt "38fe4eb521ec4a1a9453b64874217375"
 msgid "བདེན་པ་␣འི་ སྐྱེ་བ་ མེད་ དེ །"
-msgstr ""
+msgstr "It is the absence of the true arising."
 
 msgctxt "36033fa4cc7c40d4b75f989a5d1be3b9"
 msgid "གཅིག་ དང་ དུ་མ་ ཕྲལ་བ་␣འི་ ཕྱིར །"
