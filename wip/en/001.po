@@ -2981,6 +2981,8 @@ msgstr "The Mind Only and Middle Way [schools] of the greater vehicle."
 msgctxt "ae15d023dc26472f80e26ed3b083e3a4"
 msgid "ཕྱི་རོལ་པ་␣འི་ གྲུབ་མཐའ་ དེ་དག་ རྒྱ་གར་ ན་ ཡོད་ བོད་ ལ་ མེད་ ཟེར །"
 msgstr ""
+"Some said that those of the tenets of non-Buddhists are in India and not in "
+"Tibet."
 
 msgctxt "99ec5c61aa394819a5548f36e459a81a"
 msgid "འདི་␣ར་ ཇི་སྲིད་ གྲུབ་མཐའ་ ཁ་ བཟང་ངན་ གྱི་ འཛིན་ ཡོད་པ་"
