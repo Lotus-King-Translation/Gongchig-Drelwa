@@ -2889,7 +2889,7 @@ msgstr "It is the absence of the true arising."
 
 msgctxt "36033fa4cc7c40d4b75f989a5d1be3b9"
 msgid "གཅིག་ དང་ དུ་མ་ ཕྲལ་བ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Because it is parted from singularity and plurality. "
 
 msgctxt "3165c5f5d66448ae9aea9c07c5acf85a"
 msgid "དཔེར་ན་ གཟུགས་བརྙན་ བཞིན །"
