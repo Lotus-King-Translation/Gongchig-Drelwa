@@ -2987,6 +2987,8 @@ msgstr ""
 msgctxt "99ec5c61aa394819a5548f36e459a81a"
 msgid "འདི་␣ར་ ཇི་སྲིད་ གྲུབ་མཐའ་ ཁ་ བཟང་ངན་ གྱི་ འཛིན་ ཡོད་པ་"
 msgstr ""
+"In this [system], as long as there is a grasping of the good and bad sides "
+"of tenets,"
 
 msgctxt "1b92eac8e2134e1caade83d1234c9a53"
 msgid "དེ་སྲིད་ དུ་ ལྟ་ངན་ དེ་ ཐམས་ཅད་ རང་རྒྱུད་ དུ་ཡོད་པ་ ཡིན་ ཏེ་"
