@@ -2116,7 +2116,7 @@ msgstr "All things become completely clear."
 
 msgctxt "8f5bd9a36b984416b5bef137fba0f9e6"
 msgid "ཕྱི་རོལ་ རྟོག་པ་ རྣམས་ བཟློག་ སྟེ །"
-msgstr "It will put an end to all external conceptualizations."
+msgstr "It will put an end to all external conceptual cognitions."
 
 msgctxt "9057ca10fd0f498899e5bfe8e052fa76"
 msgid "ལམ་ དེ་ཉིད་ ནི་ དབུ་མ་␣འོ ། །"
