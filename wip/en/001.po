@@ -2893,7 +2893,7 @@ msgstr "Because it is parted from singularity and plurality. "
 
 msgctxt "3165c5f5d66448ae9aea9c07c5acf85a"
 msgid "དཔེར་ན་ གཟུགས་བརྙན་ བཞིན །"
-msgstr ""
+msgstr "For example, an image reflection."
 
 msgctxt "1b60066afe044db4805e35ff600631ab"
 msgid ""
