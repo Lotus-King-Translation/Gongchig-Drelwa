@@ -2912,7 +2912,7 @@ msgstr "If the things are analyzed with whichever [reasonings],"
 
 msgctxt "ed981e46ac8e4fa4945625ce9f2c8323"
 msgid "དེ་ཉིད་ དུ་ ནི་ དེ་ དངོས་མེད །"
-msgstr ""
+msgstr "Its suchness is the absence of the [true] things,"
 
 msgctxt "040acc51d31446e8bd4e0bd09df411a8"
 msgid "གང་ གི་ ཕྱིར་ ན་ དེ་དག་ ལ ། །"
