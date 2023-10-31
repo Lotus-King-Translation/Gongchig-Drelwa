@@ -2954,6 +2954,7 @@ msgctxt "ed684f43dcf44e8fbb4b78e181221dae"
 msgid ""
 "རྣལ་འབྱོར་ མངོན་སུམ་ དེ་ མཐོང་ ལ་␣ས་ གྱི་ བདེན་པ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ །"
 msgstr ""
+"Because the yogic direct perception is the truth of the path of seeing."
 
 msgctxt "7fec14daf3ec430ab32137a3f17ebf56"
 msgid "རྡོ་␣༽༽  སྤྱིར་ སེམས་ཅན་ ཐ་མལ་པ་ དང་ གྲུབ་མཐ་␣ས་ བློ་བསྒྱུར་བ་ གཉིས །"
