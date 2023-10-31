@@ -2936,7 +2936,7 @@ msgstr ""
 
 msgctxt "07d627db42f44b95896822b6a2a82f7f"
 msgid "ཀུན་ ཏུ་ བཟང་པོ་␣འི་ འོད་ཟེར་ དག  །"
-msgstr ""
+msgstr "The pure light rays of Samantabhadra,"
 
 msgctxt "bca5ac6e1c95433a8a9ca111931d0149"
 msgid "ཀུན་ ནས་ འཕྲོ་ ལ་ ཕྱག་ འཚལ་ ལོ་␣༑ །"
