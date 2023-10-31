@@ -2959,6 +2959,8 @@ msgstr ""
 msgctxt "7fec14daf3ec430ab32137a3f17ebf56"
 msgid "རྡོ་␣༽༽  སྤྱིར་ སེམས་ཅན་ ཐ་མལ་པ་ དང་ གྲུབ་མཐ་␣ས་ བློ་བསྒྱུར་བ་ གཉིས །"
 msgstr ""
+"Vajra: In general, there are two [types of people]:  common sentient beings "
+"and those whose minds are modified by tenets."
 
 msgctxt "59b019b5b4aa41029e88a38297681251"
 msgid "ཕྱི་མ་␣ར་ ཕྱི་རོལ་པ་␣འི་ ལྟ་བ་ བསྡུ་ ན་ རྟག་ཆད་ གཉིས །"
