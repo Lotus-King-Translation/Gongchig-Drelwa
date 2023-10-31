@@ -3003,6 +3003,8 @@ msgid ""
 "རྟག་ལྟ་ རྒྱུ་འབྲས་ ཀྱི་ སྐྱོན་ཡོན་ དགེ་སློང་ ནག་པོ་ ལ་ བྱ་རོག་ ཞར་ མ་ བཞིན་ "
 "ནོ ། །"
 msgstr ""
+"The permanent view, the faults and good qualities of the cause and effect, "
+"to Bhikshu Kala is like a blind crow."
 
 msgctxt "64563353b41145aaa0d304ba1efae419"
 msgid ""
