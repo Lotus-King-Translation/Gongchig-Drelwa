@@ -2996,7 +2996,7 @@ msgstr "until then, all of these bad views exist within one's own continuum."
 
 msgctxt "cdaaacd7cc1b45c8b1c5ab25af8d1697"
 msgid "ང་ ནི་ ཕ་ འདི་␣འི་ བུ་ ཡིན་ ཞེས་ གྲུབ་ གྲུབ་ ཏུ་ འཛིན་པ་"
-msgstr ""
+msgstr "I am the son of this father, grasping as already existing."
 
 msgctxt "0363406e6b35449a9f8c0d8640bfff6e"
 msgid ""
