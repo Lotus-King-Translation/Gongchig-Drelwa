@@ -2948,7 +2948,7 @@ msgstr "As said."
 
 msgctxt "2e881feaf7234bacb01894fe12336d39"
 msgid "ཚད་མ་ ལ་ འབྲས་བུ་ ཡོད་པ་ གྲུབ་ སྟེ་ །"
-msgstr ""
+msgstr "It is established that valid cognition has results."
 
 msgctxt "ed684f43dcf44e8fbb4b78e181221dae"
 msgid ""
