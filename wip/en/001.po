@@ -2924,7 +2924,7 @@ msgstr ""
 
 msgctxt "cdf53b0cd1b04427bcc28b831f3460e2"
 msgid "ཅེས་ དང་ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "27f76522c98345d19da0f5d3485d9dec"
 msgid "རྟོག་པ་␣འི་ དྲྭ་བ་ རྣམ་ བསལ་ ཅིང༌ ། །"
