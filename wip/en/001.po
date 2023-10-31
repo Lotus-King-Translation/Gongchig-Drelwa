@@ -2916,7 +2916,7 @@ msgstr "Its suchness is the absence of the [true] things,"
 
 msgctxt "040acc51d31446e8bd4e0bd09df411a8"
 msgid "གང་ གི་ ཕྱིར་ ན་ དེ་དག་ ལ ། །"
-msgstr ""
+msgstr "Why is it that way? Because they are,"
 
 msgctxt "60198c0695ca41908d280c56bcad8797"
 msgid "གཅིག་ དང་ དུ་མ་␣འི་ རང་བཞིན་ མེད །"
