@@ -3023,7 +3023,7 @@ msgstr ""
 
 msgctxt "94765f2847ab423681441465600dee7c"
 msgid "དེ་ཙམ་ ཅི་ ཡིན་ སྙམ་ ནས །"
-msgstr ""
+msgstr "Just by thinking, what is that? "
 
 msgctxt "926bf80c206949cba3d8c0a5e0fae3d0"
 msgid "ཡིད་ མི་ ཆེས་པ་ ཆད་ལྟ་ ཡིན་པ་␣ས་ མུ་སྟེགས་ བྱེད་ རང་ཉིད་ ཡིན །"
