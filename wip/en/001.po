@@ -3109,7 +3109,7 @@ msgstr ""
 
 msgctxt "75e0c37c65c14616b5b4b829601cf271"
 msgid "ནང་པ་ ལ་ མེད་པ་␣ས་ སངས་རྒྱས་ ཀྱིས་ དགེ་སློང་ དག་"
-msgstr ""
+msgstr "These were not in Buddhists, Buddha said, \"monks,"
 
 msgctxt "ebf52889a57e4cb19ed74da21ddf2caa"
 msgid "མུ་སྟེགས་ ཀྱི་ འཕྱ་བ་ ནི་ ཐོག་ ཏུ་ འབབ་པ་ ཡིན་པ་␣ས་"
