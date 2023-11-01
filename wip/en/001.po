@@ -3179,6 +3179,8 @@ msgid ""
 "ལྷན་␣༽༽  ལ་ལ་ དག་ མུ་སྟེགས་ བོན་ གྱི་ ཐུབ་པ་ ཆེན་པོ་ ལྟ་བུ་ ཐོབ་པ་␣ར་ མི་ "
 "ནུས་ ཀྱང་"
 msgstr ""
+"Addendum: Some said that, though tirthikas cannot attain like Great Able One"
+" of Bon, "
 
 msgctxt "7d15ac448b0f47d5b82be2b88224a3e7"
 msgid "ཆོས་ཉིད་ ཀྱི་ བདེན་པ་ མཐོང་བ་ ཡོད་ ཟེར །"
