@@ -3104,6 +3104,8 @@ msgstr ""
 msgctxt "9d0e34b1946d475385ac76be1db6c500"
 msgid "དབྱར་ ག་ ནས་ གསོ་སྦྱོང་ དགག་དབྱེ་ རྣམས་ དང་པོ་␣ས་ སོ ། །"
 msgstr ""
+"The first is the summertime [ceremonies] of healing and purification, "
+"releasing the restrictions, and so forth."
 
 msgctxt "75e0c37c65c14616b5b4b829601cf271"
 msgid "ནང་པ་ ལ་ མེད་པ་␣ས་ སངས་རྒྱས་ ཀྱིས་ དགེ་སློང་ དག་"
