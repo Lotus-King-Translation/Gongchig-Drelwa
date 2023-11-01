@@ -3197,7 +3197,7 @@ msgstr "There is no occasion to see the truth."
 
 msgctxt "529f0155ceac4ef696e507b1ce47e5ea"
 msgid "ལོག་ལམ་ ཡིན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Because it is a wrong path. "
 
 msgctxt "303222fa69f84a2ba3d53b4b97c23f90"
 msgid ""
