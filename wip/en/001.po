@@ -3156,7 +3156,7 @@ msgstr ""
 
 msgctxt "6352ccee8bf7417ba7ecd2e41f3e8fb0"
 msgid "ཏཱ་ལ་␣འི་ རྒྱུད་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Tantra of Tala,"
 
 msgctxt "79abf61dca7349e19f418d2361ff6e5e"
 msgid "དགེ་སློང་ དག་ གམ་ མཁས་ རྣམས་ ཀྱིས ། །"
