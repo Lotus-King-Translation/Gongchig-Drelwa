@@ -3051,6 +3051,8 @@ msgstr ""
 msgctxt "d76bf8970b7a47c5ad47d10d9fac6d4f"
 msgid "མཆོག་ ལ་ སྐྱབས་ སོང་ འགྲོ་ ལ་ ཕན་ བརྩོན་ ཡང༌ །"
 msgstr ""
+"Go for refuge in the Excellences and pursue diligently for the benefit of "
+"migrators."
 
 msgctxt "cc9b8d66c9ae44c88fb32a7be8e169a4"
 msgid "གང་ཟག་ རྡུལ་ དང་ སྐད་ཅིག་ རྫས་ སྨྲ་ དང༌ །"
