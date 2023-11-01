@@ -3081,6 +3081,8 @@ msgstr ""
 msgctxt "42e51cfac29a40c29d5e3892e5604d07"
 msgid "ལོག་པ་␣འི་ ལམ་ ལ་ བསྒྲུབ་བྱ་ མེད་པ་␣འི་ ཕྱིར་ རོ་ ཞེས་ ཟེར་ མོད །"
 msgstr ""
+"Some [people] said that there is nothing to be accomplished in the wrong "
+"path."
 
 msgctxt "401f40c2feba4fd59c024e38f5c553d5"
 msgid ""
