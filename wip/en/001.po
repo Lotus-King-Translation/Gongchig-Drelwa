@@ -3033,7 +3033,7 @@ msgctxt "1d424fc4c32b44bdbd419309ba6f961b"
 msgid ""
 "གཉིས་པ་ ཉན་ཐོས་ ནས་ མ་བུ་ ཆེན་པོ་␣འི་ བར་ གྱི་ གྲུབ་མཐ་␣ར་ དེ་ འཛིན་ གྱི་ "
 "བར་"
-msgstr ""
+msgstr "Second, holding from shravaka to the great mother-son tenet,"
 
 msgctxt "89ac85a35b0d4494b48af7ba4cd1616d"
 msgid "ཡང་དག་ དོན་ ལ་ རྨོངས་པ་ ནང་ གི་ མུ་སྟེགས་ ཡིན་ ཏེ །"
