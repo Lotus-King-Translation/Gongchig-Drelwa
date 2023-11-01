@@ -3172,7 +3172,7 @@ msgstr "[Likewise, examine my words] thoroughly."
 
 msgctxt "393d29b9e4d041988a5f6a56e0b90e7c"
 msgid "ཞེས་ སོ་␣༑།"
-msgstr ""
+msgstr "As said. "
 
 msgctxt "24ec3c866f0f4a77acbfb9747dc66f8f"
 msgid ""
