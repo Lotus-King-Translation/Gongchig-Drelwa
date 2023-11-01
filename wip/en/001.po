@@ -3205,7 +3205,7 @@ msgid ""
 "མི་ མཐོང་ སྟེ །"
 msgstr ""
 "The truth cannot be seen without taking refuge in the three Excellences and "
-"separating from the Arya paths."
+"separating from the noble paths."
 
 msgctxt "1c33b14138ef4b51bed04492bb10be66"
 msgid "ཕྲན་ ཚེག་ ལ་␣ས །"
