@@ -3088,6 +3088,8 @@ msgctxt "401f40c2feba4fd59c024e38f5c553d5"
 msgid ""
 "འདི་␣ར་ ནི་ མུ་སྟེགས་པ་ ལ་␣འང་ གཤིས་ ཀྱི་ དགེ་བ་␣འི་ བསྒྲུབ་བྱ་ མང་ ཏེ་"
 msgstr ""
+"In this [system], The followers of tirthika also possess many natural "
+"virtues to be accomplished."
 
 msgctxt "f11874ad977044d7a8fe55f64938751b"
 msgid "དེ་དག་ ལ་ སྙིང་རྗེ་ ཡོད་ ལ་␣ས་"
