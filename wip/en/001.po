@@ -3164,7 +3164,7 @@ msgstr "Monks and the learned ones,"
 
 msgctxt "b4ac2024dc114bba8750b926a0843e9f"
 msgid "སྲེག་ བཅད་བརྡར་བ་␣འི་ གསེར་ བཞིན་ དུ །"
-msgstr ""
+msgstr "Like gold is [tested] by burning, cutting, and rubbing, "
 
 msgctxt "59e2f8d9b5c94e20b2dc338e04b10de4"
 msgid "ལེགས་པ་␣ར་"
