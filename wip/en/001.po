@@ -3075,6 +3075,8 @@ msgid ""
 "རྡོ་␣༽༽  ལོག་ལམ་ མུ་སྟེགས་པ་␣འི་ ལྟ་སྤྱོད་ སྒྲུབ་པ་ ཐམས་ཅད་ སྤང་བྱ་ འབའ་ཞིག་"
 " ཡིན་ ཏེ་"
 msgstr ""
+"Vajra: The view, conduct, and accomplishment of the tirthika followers are "
+"all wrong paths and to be abandoned."
 
 msgctxt "42e51cfac29a40c29d5e3892e5604d07"
 msgid "ལོག་པ་␣འི་ ལམ་ ལ་ བསྒྲུབ་བྱ་ མེད་པ་␣འི་ ཕྱིར་ རོ་ ཞེས་ ཟེར་ མོད །"
