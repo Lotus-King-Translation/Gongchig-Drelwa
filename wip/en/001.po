@@ -3160,7 +3160,7 @@ msgstr "According to the Tantra of Tala,"
 
 msgctxt "79abf61dca7349e19f418d2361ff6e5e"
 msgid "དགེ་སློང་ དག་ གམ་ མཁས་ རྣམས་ ཀྱིས ། །"
-msgstr ""
+msgstr "Monks and the learned ones,"
 
 msgctxt "b4ac2024dc114bba8750b926a0843e9f"
 msgid "སྲེག་ བཅད་བརྡར་བ་␣འི་ གསེར་ བཞིན་ དུ །"
