@@ -3168,7 +3168,7 @@ msgstr "Like gold is [tested] by burning, cutting, and rubbing, "
 
 msgctxt "59e2f8d9b5c94e20b2dc338e04b10de4"
 msgid "ལེགས་པ་␣ར་"
-msgstr ""
+msgstr "[Likewise, examine my words] thoroughly."
 
 msgctxt "393d29b9e4d041988a5f6a56e0b90e7c"
 msgid "ཞེས་ སོ་␣༑།"
