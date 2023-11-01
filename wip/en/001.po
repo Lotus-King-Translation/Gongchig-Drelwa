@@ -3213,7 +3213,7 @@ msgstr ""
 
 msgctxt "b119db92e68442078692ab92b561b1ea"
 msgid "རབ་ བཟང་ གང་ཡང་ འཕགས་པ་␣འི་ ལམ་ ཡན་ལག་ བརྒྱད་པ་ མི་སྣང་བ་"
-msgstr ""
+msgstr "Subhadra does not see any of the eight-fold noble path"
 
 msgctxt "9b0d4623feca4eda99d02b13012d5f2c"
 msgid "དེ་ ལ་ དགེ་སྦྱོང་ ཡང་ མེད་ དོ ། །"
