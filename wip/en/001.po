@@ -3093,7 +3093,7 @@ msgstr ""
 
 msgctxt "f11874ad977044d7a8fe55f64938751b"
 msgid "དེ་དག་ ལ་ སྙིང་རྗེ་ ཡོད་ ལ་␣ས་"
-msgstr ""
+msgstr "They have compassion and "
 
 msgctxt "f41f9f88a5234b649ea9144eaf1653f8"
 msgid ""
