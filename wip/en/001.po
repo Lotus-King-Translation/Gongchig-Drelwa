@@ -3189,6 +3189,7 @@ msgstr "Claimed that they can see the true nature of phenomena."
 msgctxt "9656c42cbf5b4abf8aea1b5a86beb58c"
 msgid "འདི་␣ར་ ནི་ མུ་སྟེགས་ བོན་ གྱི་ གྲུབ་མཐའ་ འཛིན་པ་ ཆོས་ཅན །"
 msgstr ""
+"In this [system], take the subject tirthikas who hold the tenet of Bon."
 
 msgctxt "887f417d45814382851a64f4bef5fe53"
 msgid "བདེན་པ་ མཐོང་བ་␣འི་ སྐབས་མེད་ དེ་"
