@@ -3064,11 +3064,11 @@ msgstr "Disintegration, empty, and transcendent meaning are cleared as signs."
 
 msgctxt "20067c8af618405fb5375c2a4d1c682b"
 msgid "ཡང་དག་ དོན་ ལ་ གང་ གི་ མུ་སྟེགས་ ཡིན །"
-msgstr ""
+msgstr "Ragarding the true reality, Who is Tirthika?"
 
 msgctxt "0deabe59e6bb4b428117ee16155db0c8"
 msgid "ཅེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "1f07441ce6d047eb995a473d66d6ae43"
 msgid ""
