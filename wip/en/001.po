@@ -3117,7 +3117,7 @@ msgstr "Since the disparagement of tirthikas falls on the top."
 
 msgctxt "cf27b069184a46178c46757f6336121c"
 msgid "ཕྱིན་ཆད་ འདི་ རྣམས་ བྱ་␣འོ ། །"
-msgstr ""
+msgstr "Henceforth, these must be practiced."
 
 msgctxt "50b4bdd29ba54be699883053b4626895"
 msgid "གསུངས་ ཏེ་ བཅས་པ་ མཛད་པ་ དེ་ སྒྲུབ་ དགོས་པ་␣འི་ ཕྱིར་"
