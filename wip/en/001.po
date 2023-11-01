@@ -3151,6 +3151,8 @@ msgid ""
 "གཤིས་ ཀྱི་ ཉེས་པ་ ཞིག་ མཐོ་བ་ བླ་མ་␣འི་ ཐུགས་རྒྱུད་ དུ་ཡོད་ ཀྱང་ དོར་ དགོས་ "
 "ཏེ །"
 msgstr ""
+"Seeing a natural fault, even if it is in the guru's mental continuum, is to "
+"be abandoned."
 
 msgctxt "6352ccee8bf7417ba7ecd2e41f3e8fb0"
 msgid "ཏཱ་ལ་␣འི་ རྒྱུད་ ལ་␣ས །"
