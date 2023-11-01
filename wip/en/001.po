@@ -3128,6 +3128,7 @@ msgid ""
 "གཤིས་ ཀྱི་ དགེ་བ་ ལེགས་པ་ ཞིག་ མུ་སྟེགས་ སམ་ དུད་འགྲོ་␣འི་ རྒྱུད་ ལ་ ཡོད་ "
 "ཀྱང་ ལེན་ དགོས་ ཏེ་ ༑"
 msgstr ""
+"Any good natural virtue that a tirthika or animal may have must be accepted."
 
 msgctxt "1f0eb3313f6a40f3bfe493a30054159c"
 msgid "མཐའ་ ཡས་ ཡོན་ཏན་ དཔག་མེད་ ཀྱང་ ། །"
