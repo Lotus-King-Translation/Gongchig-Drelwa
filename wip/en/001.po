@@ -3132,7 +3132,7 @@ msgstr ""
 
 msgctxt "1f0eb3313f6a40f3bfe493a30054159c"
 msgid "མཐའ་ ཡས་ ཡོན་ཏན་ དཔག་མེད་ ཀྱང་ ། །"
-msgstr ""
+msgstr "Though infinite qualities are unfathomable,"
 
 msgctxt "05a364d60636493882f923b3f0e7651a"
 msgid "གཞན་ གྱི་ ཡོན་ཏན་ ཆུང་ངུ་ ལེན ། །"
