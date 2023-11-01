@@ -3056,7 +3056,7 @@ msgstr ""
 
 msgctxt "cc9b8d66c9ae44c88fb32a7be8e169a4"
 msgid "གང་ཟག་ རྡུལ་ དང་ སྐད་ཅིག་ རྫས་ སྨྲ་ དང༌ །"
-msgstr ""
+msgstr "Proposing persons as particles and moments as substances."
 
 msgctxt "74bd11ead0244026b31a979a391428db"
 msgid "འཇིག་ དང་ སྟོང་ དང་ དོན་དམ་ མཚན་མ་␣ར་ བཀྲ་ ། །"
