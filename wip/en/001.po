@@ -3140,7 +3140,7 @@ msgstr " Even the smallest good quality of others should be accepted."
 
 msgctxt "e4720cdce6a6468bb5bee3b124ce3b24"
 msgid "དེ་ལྟར་ ཡུན་ དུ་ སྤྱད་པ་ ཡིས ། །"
-msgstr ""
+msgstr "Following [your] conduct in this manner for a long time,"
 
 msgctxt "67d352df82034152a81d8c532797afcb"
 msgid "མྱུར་ དུ་ ཐམས་ཅད་ མཁྱེན་པ་␣ར་ འགྲོ ། །"
