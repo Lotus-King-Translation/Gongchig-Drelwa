@@ -3217,7 +3217,7 @@ msgstr ""
 
 msgctxt "9b0d4623feca4eda99d02b13012d5f2c"
 msgid "དེ་ ལ་ དགེ་སྦྱོང་ ཡང་ མེད་ དོ ། །"
-msgstr ""
+msgstr "There is no training in virtue as well."
 
 msgctxt "fbef9da99c6743d4b3979025f49baa2a"
 msgid "ཅེས་ དང༌ །"
