@@ -3099,6 +3099,7 @@ msgctxt "f41f9f88a5234b649ea9144eaf1653f8"
 msgid ""
 "སྲོག་གཅོད་ སོགས་ མི་དགེ་བ་ བཅུ་ ལ་␣ས་ དགུ་ དངོས་ སུ་ སྤོང་བ་␣འི་ ཕྱིར་ དང༌ །"
 msgstr ""
+"From the ten non-virtues such as killing, they abandon nine explicitly."
 
 msgctxt "9d0e34b1946d475385ac76be1db6c500"
 msgid "དབྱར་ ག་ ནས་ གསོ་སྦྱོང་ དགག་དབྱེ་ རྣམས་ དང་པོ་␣ས་ སོ ། །"
