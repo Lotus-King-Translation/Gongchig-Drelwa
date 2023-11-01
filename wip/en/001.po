@@ -3144,7 +3144,7 @@ msgstr "Following such a conduct for a long time,"
 
 msgctxt "67d352df82034152a81d8c532797afcb"
 msgid "མྱུར་ དུ་ ཐམས་ཅད་ མཁྱེན་པ་␣ར་ འགྲོ ། །"
-msgstr ""
+msgstr "[One] will swiftly go to the [level of] omniscience."
 
 msgctxt "0cbd3c2652b140daabcc7745f0c7a7b6"
 msgid ""
