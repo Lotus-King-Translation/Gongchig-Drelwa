@@ -3041,7 +3041,7 @@ msgstr "Insider Tirthikas are those who are unaware of true reality."
 
 msgctxt "c7f8969079ea41dd8ac0ad1101d22017"
 msgid "དགེ་བ་␣འི་ རྩ་བ་ འཛིན་པ་␣འི་ མདོ་␣ར །"
-msgstr ""
+msgstr "According to the Upholding the Roots of Virtue Sutra,"
 
 msgctxt "091ae9e492e24c21bc952cd1187f31e9"
 msgid ""
