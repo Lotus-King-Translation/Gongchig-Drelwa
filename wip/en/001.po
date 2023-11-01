@@ -3121,7 +3121,7 @@ msgstr "Henceforth, these must be practiced."
 
 msgctxt "50b4bdd29ba54be699883053b4626895"
 msgid "གསུངས་ ཏེ་ བཅས་པ་ མཛད་པ་ དེ་ སྒྲུབ་ དགོས་པ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "The speech that was made in association with it must be accomplished."
 
 msgctxt "16da805baed7441a97083fa734e97ecd"
 msgid ""
