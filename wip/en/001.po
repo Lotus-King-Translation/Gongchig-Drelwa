@@ -3225,7 +3225,7 @@ msgstr "And."
 
 msgctxt "37cae8559bfb4f2496d614491dc51103"
 msgid "ཆོས་སྐྱོབ་ ཀྱིས །"
-msgstr ""
+msgstr "Dharma Protector said,"
 
 msgctxt "c2b6cb64e7b64daa9a705a5b5763bde5"
 msgid "ནམ་མཁའ་ ལ་ ནི་ བྱ་རྗེས་ བཞིན ། །"
