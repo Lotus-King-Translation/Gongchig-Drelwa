@@ -3113,7 +3113,7 @@ msgstr "These were not in Buddhists, Buddha said, \"monks,"
 
 msgctxt "ebf52889a57e4cb19ed74da21ddf2caa"
 msgid "མུ་སྟེགས་ ཀྱི་ འཕྱ་བ་ ནི་ ཐོག་ ཏུ་ འབབ་པ་ ཡིན་པ་␣ས་"
-msgstr ""
+msgstr "Since the disparagement of tirthikas falls on the top."
 
 msgctxt "cf27b069184a46178c46757f6336121c"
 msgid "ཕྱིན་ཆད་ འདི་ རྣམས་ བྱ་␣འོ ། །"
