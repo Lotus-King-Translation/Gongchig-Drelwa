@@ -3249,7 +3249,7 @@ msgstr ""
 
 msgctxt "1b0a0e70d9c34bb1b022ba3e2d0ca21c"
 msgid "ཞེས་ སོ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "a83fadf031464542b18a6cfcbb15e415"
 msgid "དེ་བཞིན་ དུ་ བརྡོལ་བོན་ འགྱར་ བོན་ བསྒྱུར་བོན་ རྣམས་ ཀྱང་ རོ །"
