@@ -3339,11 +3339,11 @@ msgstr "None of them distinguish it. This is because"
 
 msgctxt "5bc0e7e1c11840d78954d8d909cdaa73"
 msgid "ཆད་ལྟ་␣ས་ འདུས་བྱས་ མི་རྟག་པ་ དང་ །"
-msgstr ""
+msgstr "The view of nihilism, the impermanence of composite and "
 
 msgctxt "11688c9abcfe4eff8549e21672552df9"
 msgid "འཁོར་བ་ སྡུག་བསྔལ་ དུ་ མཐོང་བ་ དང་ །"
-msgstr ""
+msgstr "Seeing Samsara as suffering and "
 
 msgctxt "c74b32a69f01485f8a6992cda15682ff"
 msgid "སྟོང་པ་ ཆལ་ ཆད་ དུ་ ལྟ་བ་ དང་"
