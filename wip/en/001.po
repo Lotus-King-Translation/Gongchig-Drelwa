@@ -3237,7 +3237,7 @@ msgstr "The wandering mendicants have no training in virtues."
 
 msgctxt "d90e7789343c4e84b9b92ada630c3ea4"
 msgid "ཅེས་ དང་ ཤེས་ སྤྲིང་ ལ་␣ས །"
-msgstr ""
+msgstr "And according to the Friendly Letter,"
 
 msgctxt "c2624a9571ca45139dcddfb2d133d234"
 msgid "གང་ཟག་ ལོག་པ་␣ར་ ལྟ་བ་␣འི་ ལེགས་བྱས་ ཀྱང་ །"
