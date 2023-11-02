@@ -3357,7 +3357,7 @@ msgstr ""
 
 msgctxt "67946c67af7045cba7c04007dc15d5dc"
 msgid "དགེ་ བཅུ་ སྤྱོད་པ་ དང་ །"
-msgstr ""
+msgstr "Conduct of the ten virtues and"
 
 msgctxt "d3f8b7ccb3ea4fc881e0257b76e87ace"
 msgid ""
