@@ -3241,7 +3241,7 @@ msgstr "And, according to A Letter to a Friend,"
 
 msgctxt "c2624a9571ca45139dcddfb2d133d234"
 msgid "གང་ཟག་ ལོག་པ་␣ར་ ལྟ་བ་␣འི་ ལེགས་བྱས་ ཀྱང་ །"
-msgstr "Persons with wrong views even if [they] perform good [actions],"
+msgstr "Persons with wrong views, even [their] good actions"
 
 msgctxt "b3dc83c46ddf46509f8faeda4847174c"
 msgid "ཐམས་ཅད་ རྣམ་པ་␣ར་ སྨིན་པ་ མི་ཟད་ ལྡན །"
