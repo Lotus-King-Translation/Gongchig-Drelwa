@@ -3233,7 +3233,7 @@ msgstr "Like the trace of a bird in the sky,"
 
 msgctxt "13dc9cd9af274f72b71ffe8103e6a883"
 msgid "ཀུན་ ཏུ་ རྒྱུ་ལ་ དགེ་སྦྱོང་ མེད །"
-msgstr ""
+msgstr "The wandering mendicants have no training in virtues."
 
 msgctxt "d90e7789343c4e84b9b92ada630c3ea4"
 msgid "ཅེས་ དང་ ཤེས་ སྤྲིང་ ལ་␣ས །"
