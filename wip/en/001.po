@@ -3323,6 +3323,7 @@ msgstr ""
 msgctxt "23ff2389078540fc9e95713e4d77e16c"
 msgid "འདི་␣ར་ ནི་ ཕྱི་ ནང་ ཁྱད་པར་"
 msgstr ""
+"In this [system], the difference between Buddhists and non-Buddhists is"
 
 msgctxt "35fe0cb0da364ab290410e3bc52f8741"
 msgid "སངས་རྒྱས་ ཆོས་ དགེ་འདུན་ ལ་ སྐྱབས་ སུ་ འགྲོ་བ་␣ས་ འབྱེད་པ་ སྟེ་"
