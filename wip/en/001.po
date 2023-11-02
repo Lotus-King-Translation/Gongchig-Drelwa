@@ -3229,7 +3229,7 @@ msgstr "Dharma Protector said,"
 
 msgctxt "c2b6cb64e7b64daa9a705a5b5763bde5"
 msgid "ནམ་མཁའ་ ལ་ ནི་ བྱ་རྗེས་ བཞིན ། །"
-msgstr ""
+msgstr "Like the trace of a bird in the sky,"
 
 msgctxt "13dc9cd9af274f72b71ffe8103e6a883"
 msgid "ཀུན་ ཏུ་ རྒྱུ་ལ་ དགེ་སྦྱོང་ མེད །"
