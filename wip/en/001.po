@@ -3288,6 +3288,7 @@ msgstr "A partial concordance with emancipation that aspires for nirvana."
 msgctxt "c005645ea92e41278e651e4950890f8e"
 msgid "ངེས་འབྱེད་ ཆ་ བཞི་ འཇིག་རྟེན་པ་␣འི་ བསྒོམ་པ་ ལ་␣ས་ སྐྱེས་པ་"
 msgstr ""
+"The four factors conducive to discernment arise from worldly meditation. "
 
 msgctxt "1ca85d6e55884deea6bf23451f2e3eea"
 msgid "ཆོས་ཉིད་ སྟོང་པ་ གསལ་བ་ དང་པོ་␣ར་ རྟོགས་པ་ དྲོད་ དེ་ འཕེལ་བ་ རྩེ་མོ །"
