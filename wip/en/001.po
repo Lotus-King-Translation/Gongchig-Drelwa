@@ -3327,7 +3327,7 @@ msgstr ""
 
 msgctxt "35fe0cb0da364ab290410e3bc52f8741"
 msgid "སངས་རྒྱས་ ཆོས་ དགེ་འདུན་ ལ་ སྐྱབས་ སུ་ འགྲོ་བ་␣ས་ འབྱེད་པ་ སྟེ་"
-msgstr ""
+msgstr "differentiated by going for refuge in the Buddha, Dharma, and Sangha."
 
 msgctxt "782a4fc8a238466a8ca86e5bec4f14bf"
 msgid "གཞན་ གང་ གིས་ མིན་ ནོ །"
