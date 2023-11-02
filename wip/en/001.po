@@ -3352,6 +3352,8 @@ msgstr "Viewing empty as meaningless and "
 msgctxt "a2fbb08e1d89495ea734f1bdf850e2d2"
 msgid "ལུང་ མ་ བསྟན་ བཅུ་␣འི་ ཡ་གྱལ་ མཐའ་ ཡོད་མཐའ་ མེད་པ་␣ས་ དབུ་མ་ དང༌ །"
 msgstr ""
+"One of the ten unprophesied [things] is the middle way, because of the "
+"existence or non-existence of limits."
 
 msgctxt "67946c67af7045cba7c04007dc15d5dc"
 msgid "དགེ་ བཅུ་ སྤྱོད་པ་ དང་ །"
