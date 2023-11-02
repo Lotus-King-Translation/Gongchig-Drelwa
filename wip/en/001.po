@@ -3347,7 +3347,7 @@ msgstr "Seeing Samsara as suffering and "
 
 msgctxt "c74b32a69f01485f8a6992cda15682ff"
 msgid "སྟོང་པ་ ཆལ་ ཆད་ དུ་ ལྟ་བ་ དང་"
-msgstr ""
+msgstr "Viewing empty as meaningless and "
 
 msgctxt "a2fbb08e1d89495ea734f1bdf850e2d2"
 msgid "ལུང་ མ་ བསྟན་ བཅུ་␣འི་ ཡ་གྱལ་ མཐའ་ ཡོད་མཐའ་ མེད་པ་␣ས་ དབུ་མ་ དང༌ །"
