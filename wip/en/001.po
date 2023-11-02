@@ -3278,6 +3278,8 @@ msgid ""
 "དེ་␣འང་ ཆ་ མཐུན་ ནི་ མཐོ་རིས་ ཀྱི་ བདེ་བ་␣ར་ དམིགས་པ་␣འི་ ལ་␣ས་ བསོད་ནམས་ ཆ་"
 " མཐུན །"
 msgstr ""
+"A partial concordance is concordant with meritorious karmas that aspire for "
+"the bliss of the higher levels."
 
 msgctxt "a0b2c929c23c4390bb16aa49d5cf9877"
 msgid "མྱང་འདས་ ལ་ དམིགས་པ་␣འི་ ཐར་པ་ ཆ་ མཐུན །"
