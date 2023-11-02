@@ -3364,6 +3364,8 @@ msgid ""
 "སྙིང་རྗེ་␣ས་ རྐང་པ་␣ར་ དྲིལ་གཡེར་ འདོགས་པ་ རྣམས་ ཕྱི་རོལ་པ་ ལ་ ཡོད་པ་␣འི་ "
 "ཕྱིར་ དང་"
 msgstr ""
+"Out of compassion, the tying of ankle bells around the feet exists in non-"
+"Buddhists."
 
 msgctxt "5dd93e07e4ed46a9a1b53bed16b505d5"
 msgid "ནང་པ་␣ར་ ཡང་ བྲམ་ཟེ་ རྒྱལ་བ་␣འི་ དྲོད་ ཀྱི་ མེ་ ལྔ་ བརྟེན་པ་ དང་ །"
