@@ -3298,7 +3298,7 @@ msgstr ""
 
 msgctxt "1c1b0cb4617845008fe457fb0390f5d0"
 msgid "དེ་ བརྟན་པ་ བཟོད་པ་ དེ་"
-msgstr "Then patience by stabilizing it."
+msgstr "By stabilizing it, then patience."
 
 msgctxt "e4e531880126423a910dd0ecff6c913d"
 msgid "རབ་ ཀྱི་ མཐར་ཐུག་ ཆོས་མཆོག་ སྟེ་ གསུམ་ ལ་␣ས་"
