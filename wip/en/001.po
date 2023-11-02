@@ -3270,6 +3270,8 @@ msgid ""
 "འདི་␣ར་ ནི་ དེ་དག་ ཐར་པ་␣འི་ ཆ་ དང་ མཐུན་པ་␣འི་ དགེ་བ་ འགའ་ཞིག་ ཡོད་ ཀྱང་ "
 "རུང་ སྟེ་"
 msgstr ""
+"In this [system], it is possible that there are some virtues which partially"
+" concordant with emancipation."
 
 msgctxt "f8b0c7352c4646e884506d2c96dbc7a1"
 msgid ""
