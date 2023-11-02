@@ -3335,7 +3335,7 @@ msgstr "Not by any other means."
 
 msgctxt "84684d67fb57463ba9bec789b46bea1a"
 msgid "། དེ་དག་ གིས་ མི་ ཕྱེད་ དེ་"
-msgstr ""
+msgstr "None of them distinguish it. This is because"
 
 msgctxt "5bc0e7e1c11840d78954d8d909cdaa73"
 msgid "ཆད་ལྟ་␣ས་ འདུས་བྱས་ མི་རྟག་པ་ དང་ །"
