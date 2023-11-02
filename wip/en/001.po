@@ -3307,6 +3307,8 @@ msgstr "The Highest Dharma is the outmost ultimate. Out of these three, "
 msgctxt "fc37dd7a38164ccf872c273579dc5739"
 msgid "ཐར་པ་ ཆ་ མཐུན་ སྙིང་རྗེ་ དང་ དབྱར་གནས་ སོགས་ སྔར་ བཤད་པ་ ལྟར་ རོ །"
 msgstr ""
+"Those with a partial concordance with emancipation, such as compassion and "
+"the summer retreat, are the same as previously explained."
 
 msgctxt "b46bd03422db4a0986511b5f86d13f36"
 msgid ""
