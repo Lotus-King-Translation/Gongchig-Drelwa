@@ -3283,7 +3283,7 @@ msgstr ""
 
 msgctxt "a0b2c929c23c4390bb16aa49d5cf9877"
 msgid "མྱང་འདས་ ལ་ དམིགས་པ་␣འི་ ཐར་པ་ ཆ་ མཐུན །"
-msgstr ""
+msgstr "A partial concordance with emancipation that aspires for nirvana."
 
 msgctxt "c005645ea92e41278e651e4950890f8e"
 msgid "ངེས་འབྱེད་ ཆ་ བཞི་ འཇིག་རྟེན་པ་␣འི་ བསྒོམ་པ་ ལ་␣ས་ སྐྱེས་པ་"
