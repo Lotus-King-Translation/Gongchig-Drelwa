@@ -3262,6 +3262,8 @@ msgstr "Addendum: Again some people said,"
 msgctxt "23ebfdd305bd415da584f7790a88106d"
 msgid "བདེན་ མཐོང་ ལྟ་ཅི་ ཐར་པ་ ཆ་ མཐུན་ ཙམ་ ཡང་ མེད་ ཟེར་ ལ །"
 msgstr ""
+"There is not even a partial concordance with emancipation, let alone seeing "
+"the truth."
 
 msgctxt "9886ec842b664a448a185563271afca9"
 msgid ""
