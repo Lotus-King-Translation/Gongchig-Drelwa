@@ -3257,7 +3257,7 @@ msgstr ""
 
 msgctxt "0abba85512c94c03a93c12e15b7aede4"
 msgid "ལྷན་␣༽༽་␣ཡང་ དགའ་ ཞིག་ གིས་"
-msgstr ""
+msgstr "Addendum: Again some people said,"
 
 msgctxt "23ebfdd305bd415da584f7790a88106d"
 msgid "བདེན་ མཐོང་ ལྟ་ཅི་ ཐར་པ་ ཆ་ མཐུན་ ཙམ་ ཡང་ མེད་ ཟེར་ ལ །"
