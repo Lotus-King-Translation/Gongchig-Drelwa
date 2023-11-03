@@ -3373,7 +3373,7 @@ msgstr "Buddhists, too, rely on the warmth of Brahmin Victor's five fires."
 
 msgctxt "2b5e3549149e4cdeacc02ff8a686a62d"
 msgid "གནས་མ་ བུ་␣འི་ སྡེ་ བས་"
-msgstr ""
+msgstr "According to the Vatsiputriya school,"
 
 msgctxt "e8ebfb24abdf4f69915d6bc59e456155"
 msgid "བདག་ རྫས་ གྲུབ་ ཏུ་ འདོད་པ་ སོགས་ ཡོད་པ་␣འི་ ཕྱིར་ རོ ། །"
