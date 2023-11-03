@@ -3413,7 +3413,7 @@ msgstr "All of these are solely to be abandoned in Buddhism."
 
 msgctxt "908f421ed32f40cbb6668e706be9dd7b"
 msgid "འདི་␣ར་ སྡོམ་ དང་ སྙིང་རྗེ་ ཙམ་ ཕྱི་རོལ་པ་ ལ་␣འང་ ཡོད །"
-msgstr ""
+msgstr "In this [system], The non-Buddhists have vows and compassion as well."
 
 msgctxt "7c65f3d52e954a81ab8e6536fd27f5d5"
 msgid "དེ་ སྲོག་གཅོད་ སྤོང་བ་␣ར་ རྐང་པ་␣ར་ དྲིལ་བུ་ འདོགས་པ་ སྦྱིན་ལེན་ ན་"
