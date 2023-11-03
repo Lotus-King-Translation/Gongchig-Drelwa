@@ -3456,7 +3456,7 @@ msgstr ""
 
 msgctxt "4c0b7583161d4878be64cc5f7c3d9464"
 msgid "གཞན་དོན་ འཁོར་བ་␣ར་ གནས་ ཀྱང་ ནི ། །"
-msgstr ""
+msgstr "For the sake of others, stay in samsara."
 
 msgctxt "3a3dad295dc2452395a6226d7b70ffe0"
 msgid "སྙིང་རྗེ་ ཅན་ དག་ཅི་ སྟེ་ སྐྱོ་␣༑"
