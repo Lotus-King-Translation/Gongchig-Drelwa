@@ -3472,7 +3472,7 @@ msgstr "The negative deeds of the past will be exhausted."
 
 msgctxt "7f805ed801004fc0a59eaf4c194a8042"
 msgid "བསོད་ནམས་ རྒྱ་མཚོ་ བསྡུད་ བྱེད་ ཕྱིར །"
-msgstr ""
+msgstr "The ocean of merit will be gathered."
 
 msgctxt "398f6468ed8c4793bbd812355f4144f5"
 msgid "ཉན་ཐོས་ རྣམས་ ལ་␣ས་ མཆོག་ ཏུ་ བཤད ། །"
