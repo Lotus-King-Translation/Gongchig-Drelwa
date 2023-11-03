@@ -3432,6 +3432,8 @@ msgid ""
 "བརྟུལ་ཞུགས་ ཀྱིས་ མི་དགེ་བ་ སྤོང་ ཞིང་ དགེ་བ་ སྤྱོད་པ་ དང་ སྙིང་རྗེ་ དེ་ལྟར་"
 " ཡོད་པ་␣ས་ སོ །"
 msgstr ""
+"Non-virtues are abandoned by the yogic discipline, while virtues, behavior, "
+"and compassion exist. "
 
 msgctxt "667b2ef0a9544cb88a78af6b8d1457f6"
 msgid "རྡོ་␣༽༽  ཐེག་པ་ ཆེ་ཆུང་ གི་ ཁྱད་པར་"
