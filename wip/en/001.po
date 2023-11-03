@@ -3417,7 +3417,7 @@ msgstr "In this [system], The non-Buddhists have vows and compassion as well."
 
 msgctxt "7c65f3d52e954a81ab8e6536fd27f5d5"
 msgid "དེ་ སྲོག་གཅོད་ སྤོང་བ་␣ར་ རྐང་པ་␣ར་ དྲིལ་བུ་ འདོགས་པ་ སྦྱིན་ལེན་ ན་"
-msgstr ""
+msgstr "As [they] tie bells to the feet to abandon killing, "
 
 msgctxt "c8d2059f1c31492886545e2464a79c92"
 msgid "ཆུ་ མི་ འཐུང་བ་ འདོད་ཆགས་ སྐྱེས་ ཀྱི་ དོག་ ན་ འགྲོགས་ སྟེ་ འདུག་པ །"
