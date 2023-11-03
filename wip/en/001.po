@@ -3464,7 +3464,7 @@ msgstr "The compassionate ones feel sad."
 
 msgctxt "bf3f0044eefc43d18b77e10ae4a335a4"
 msgid "འདི་ ནི་ བྱང་ཆུབ་ སེམས་ སྟོབས་ ཀྱིས ། །"
-msgstr ""
+msgstr "With the power of bodhicitta, "
 
 msgctxt "19523f28310a469e90dc647798815c22"
 msgid "སྔོན་ གྱི་ སྡིག་པ་ ཟད་ བྱེད་ ཅིང་ ། །"
