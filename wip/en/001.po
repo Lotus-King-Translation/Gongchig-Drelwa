@@ -3389,7 +3389,7 @@ msgstr "Jowo said the benefits of seeking refuge "
 
 msgctxt "a6f65110963c45a0a782ed9ef846bf25"
 msgid "ནང་པ་␣ར་ ཚུད་པ་␣ར་ འགྱུར་བ་ ཞེས་པ་␣ས་"
-msgstr ""
+msgstr "One will become a Buddhist."
 
 msgctxt "7f75977b71a545a88bd9ccfec3ac3de2"
 msgid "དེ་ ཡོད་ ན་ རྒྱུ་མཚན་ གནག་རྫི་ ལྟ་བུ་␣འང་ ནང་པ་ ཡིན །"
