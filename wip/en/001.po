@@ -3511,7 +3511,7 @@ msgstr "Vajra: The differences between sutra and mantra."
 
 msgctxt "705edce6df7b438a99e50d668882677f"
 msgid "ལམ་ བདེ་བ་ དུས་ མྱུར་བ་"
-msgstr ""
+msgstr "Blissful path, swift in duration,"
 
 msgctxt "de5c22d5c3024dc0ad916f1743af67b2"
 msgid "འབྲས་བུ་ ལམ་ བྱེད་ དེ་ ལམ་ དང་ འཇུག་པ་"
