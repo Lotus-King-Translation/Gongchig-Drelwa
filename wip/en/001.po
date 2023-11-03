@@ -3460,7 +3460,7 @@ msgstr "For the sake of others, even stay in samsara."
 
 msgctxt "3a3dad295dc2452395a6226d7b70ffe0"
 msgid "སྙིང་རྗེ་ ཅན་ དག་ཅི་ སྟེ་ སྐྱོ་␣༑"
-msgstr ""
+msgstr "The compassionate ones feel sad."
 
 msgctxt "bf3f0044eefc43d18b77e10ae4a335a4"
 msgid "འདི་ ནི་ བྱང་ཆུབ་ སེམས་ སྟོབས་ ཀྱིས ། །"
