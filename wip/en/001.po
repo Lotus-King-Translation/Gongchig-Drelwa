@@ -3401,7 +3401,7 @@ msgstr "And without it, even a Pandita is a non-Buddhist."
 
 msgctxt "5c43cfa486c944d789e3cfcf68d8deb6"
 msgid "ལྷན་␣༽༽  ཕྱི་པ་␣ར་ སྡོམ་ དང་ སྙིང་རྗེ་ མེད་ དེ་"
-msgstr ""
+msgstr "Addendum: The non-Buddhists have no vows and compassion because"
 
 msgctxt "ac54622f7602444cb7efea9a9e824ed4"
 msgid "ལྟ་ བསྒོམ་ སྤྱོད་པ་ འབྲས་བུ་ ལོག་པ་␣འི་ ཕྱིར་"
