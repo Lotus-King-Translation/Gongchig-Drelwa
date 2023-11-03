@@ -3381,7 +3381,7 @@ msgstr "There are those who accept self as being substantially established."
 
 msgctxt "e1540425e95945dcabe2360d9aa753a1"
 msgid "འོ་ན་ ཅི་ ཞེ་ན་␣༑"
-msgstr "Well then, why that is so?"
+msgstr "Well then, if it is asked why?"
 
 msgctxt "f178934b6b194fdb9f89f24f572ebf97"
 msgid "ཇོ་བོ་␣ས་ སྐྱབས་འགྲོ་␣འི་ ཕན་ཡོན་ དུ་"
