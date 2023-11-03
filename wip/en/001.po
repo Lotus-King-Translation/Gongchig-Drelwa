@@ -3397,7 +3397,7 @@ msgstr "Therefore, with it, even a herder is a Buddhist,"
 
 msgctxt "db1d602a837947ddb32ee6c828400369"
 msgid "མེད་ ན་ པཎྜི་ཏ་ ལྟ་བུ་ ཡང་ཕྱི་ རོལ་པ་ ཡིན་པ་ དེ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "And without it, even a Pandita is a non-Buddhist."
 
 msgctxt "5c43cfa486c944d789e3cfcf68d8deb6"
 msgid "ལྷན་␣༽༽  ཕྱི་པ་␣ར་ སྡོམ་ དང་ སྙིང་རྗེ་ མེད་ དེ་"
