@@ -3515,7 +3515,7 @@ msgstr "Blissful path, swift in duration,"
 
 msgctxt "de5c22d5c3024dc0ad916f1743af67b2"
 msgid "འབྲས་བུ་ ལམ་ བྱེད་ དེ་ ལམ་ དང་ འཇུག་པ་"
-msgstr ""
+msgstr "The training path to the result engages the path."
 
 msgctxt "3f785a801e2345f0b7381dbcad866dcc"
 msgid "འབྲས་བུ་ བདེ་བ་␣ས་ འབྱེད་ ཟེར་ ཡང་"
