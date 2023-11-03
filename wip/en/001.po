@@ -3480,7 +3480,7 @@ msgstr "It is more supreme than shravakas."
 
 msgctxt "ad66492b3354478d954abcbd3b4b0433"
 msgid "དེ་བ་␣ས་ སྐྱོ་ངལ་ ཀུན་ སེལ་བ་␣འི"
-msgstr ""
+msgstr "It will dispel all the physical and mental fatigue. "
 
 msgctxt "c5a9e9b375d64de3a7ee22f836344d3f"
 msgid "བྱང་ཆུབ་ སེམས་ ཀྱི་ རྟ་ ཞོན་ ནས ། །"
