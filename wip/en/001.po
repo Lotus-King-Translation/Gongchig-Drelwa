@@ -3488,7 +3488,7 @@ msgstr "By riding the bodhicitta horse,"
 
 msgctxt "c96a50ba6a3949e881efe51ee25322f9"
 msgid "བདེ་ ནས་ བདེ་བ་␣ར་ འགྲོ་བ་ ལ ། །"
-msgstr ""
+msgstr "Go from bliss to even more bliss,"
 
 msgctxt "c9245a6a44c94c6d883075bcc90cd897"
 msgid "སེམས་ཤེས་ སུ་ཞིག་ སྒྱིད་ ལུགས་ འགྱུར་ ༑ །"
