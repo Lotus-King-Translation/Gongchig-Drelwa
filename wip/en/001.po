@@ -3425,7 +3425,7 @@ msgstr ""
 
 msgctxt "403ea3caa887472393b9c529ef5c48db"
 msgid "རྫུན་ བསྲུང་བ་␣ར་ མི་སྨྲ་བ་ སྟེ་"
-msgstr ""
+msgstr "Not speaking to refrain from lying."
 
 msgctxt "fbdf4bc2403f4512949ca216a43f4f5a"
 msgid ""
