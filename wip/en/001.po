@@ -3393,7 +3393,7 @@ msgstr "One will become a Buddhist."
 
 msgctxt "7f75977b71a545a88bd9ccfec3ac3de2"
 msgid "དེ་ ཡོད་ ན་ རྒྱུ་མཚན་ གནག་རྫི་ ལྟ་བུ་␣འང་ ནང་པ་ ཡིན །"
-msgstr ""
+msgstr "Therefore, with it, even a herder is a Buddhist,"
 
 msgctxt "db1d602a837947ddb32ee6c828400369"
 msgid "མེད་ ན་ པཎྜི་ཏ་ ལྟ་བུ་ ཡང་ཕྱི་ རོལ་པ་ ཡིན་པ་ དེ་␣འི་ ཕྱིར་ རོ ། །"
