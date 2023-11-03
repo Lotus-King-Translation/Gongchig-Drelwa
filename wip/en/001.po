@@ -2561,7 +2561,7 @@ msgstr ""
 
 msgctxt "8ee7a9f5530542589350cf3197ca5516"
 msgid "ཞེས་ གསུངས་པ་ དེ་ ཅི་ ཞེ་ན །"
-msgstr "If [you] wonder why that is so,"
+msgstr "If [you] wonder, why that is so?"
 
 msgctxt "47f6f756301e4844b1e88cfad3d8973a"
 msgid "དེ་ལྟར་ ན་ མཚན་ཉིད་ ལ་ ཡང༌ །"
