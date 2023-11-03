@@ -3476,7 +3476,7 @@ msgstr "The ocean of merit will be gathered."
 
 msgctxt "398f6468ed8c4793bbd812355f4144f5"
 msgid "ཉན་ཐོས་ རྣམས་ ལ་␣ས་ མཆོག་ ཏུ་ བཤད ། །"
-msgstr ""
+msgstr "It is more supreme than shravakas."
 
 msgctxt "ad66492b3354478d954abcbd3b4b0433"
 msgid "དེ་བ་␣ས་ སྐྱོ་ངལ་ ཀུན་ སེལ་བ་␣འི"
