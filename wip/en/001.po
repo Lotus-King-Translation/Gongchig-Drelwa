@@ -3409,7 +3409,7 @@ msgstr "of wrong view, meditation, conduct, and result. "
 
 msgctxt "bf086c74a73940fea3cda0a136d5ab62"
 msgid "ནང་པ་␣ས་ སྤང་པ་␣ར་ བྱ་བ་ འབའ་ཞིག་ ཡིན་ ཟེར་ ཡང༌ །"
-msgstr ""
+msgstr "All of these are solely to be abandoned in Buddhism."
 
 msgctxt "908f421ed32f40cbb6668e706be9dd7b"
 msgid "འདི་␣ར་ སྡོམ་ དང་ སྙིང་རྗེ་ ཙམ་ ཕྱི་རོལ་པ་ ལ་␣འང་ ཡོད །"
