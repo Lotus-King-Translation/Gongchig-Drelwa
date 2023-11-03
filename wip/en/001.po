@@ -3405,7 +3405,7 @@ msgstr "Addendum: The non-Buddhists have no vows and compassion because"
 
 msgctxt "ac54622f7602444cb7efea9a9e824ed4"
 msgid "ལྟ་ བསྒོམ་ སྤྱོད་པ་ འབྲས་བུ་ ལོག་པ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "of wrong view, meditation, conduct, and result. "
 
 msgctxt "bf086c74a73940fea3cda0a136d5ab62"
 msgid "ནང་པ་␣ས་ སྤང་པ་␣ར་ བྱ་བ་ འབའ་ཞིག་ ཡིན་ ཟེར་ ཡང༌ །"
