@@ -3496,7 +3496,7 @@ msgstr "Which smart people would become sluggish."
 
 msgctxt "e1872828492149918452def42082e58d"
 msgid "ཞེས་ གསུངས་པ་ འཞིན་ སྙིང་རྗེ་␣ས་ གཞན་དོན་ ཕྱིར་དུ་"
-msgstr ""
+msgstr "As previously stated, compassion for the sake of others"
 
 msgctxt "72acdbb0a6f341df9e3e289441897825"
 msgid ""
