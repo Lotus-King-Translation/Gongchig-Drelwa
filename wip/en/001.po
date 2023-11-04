@@ -3588,6 +3588,8 @@ msgstr "Then [one] will become buddha in a single lifetime.  "
 msgctxt "bad96c7920ed466d87306b0b4e5b6f75"
 msgid "མ་ ཚོགས་ ན་ གསང་སྔགས་ ཀྱིས་ ཀྱང་ སངས་ མི་ རྒྱ་ སྟེ་␣༑"
 msgstr ""
+"If they are not gathered, [one] will not become a buddha even in secret "
+"mantra."
 
 msgctxt "0b3a22967036473280d28f6f7692a827"
 msgid "ཞུས་ ལན་ ཚིག་ བཅད་ མ་ལ་␣ས །"
