@@ -3535,7 +3535,7 @@ msgstr "Those who have not seen the mandala,"
 
 msgctxt "8459f5da6bb04977b9d92291dbac42c1"
 msgid "རྣལ་འབྱོར་པ་ ནི་ དངོས་གྲུབ་ འདོད །"
-msgstr ""
+msgstr "Yogins yearn for an actual accomplishment,"
 
 msgctxt "b7a3911cdd604be0954fe0664aec8279"
 msgid "མཁའ་ ལ་ ཁུ་ཚུར་ གྱིས་ བརྡེག་ དང་ །"
