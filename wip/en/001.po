@@ -3543,7 +3543,7 @@ msgstr "It is like striking a fist at the sky or"
 
 msgctxt "aa64f131c52249ef8cae628f53d72532"
 msgid "སྨིག་རྒྱུ་␣འི་ ཆུ་ ནི་ འཐུང་ དང་ མཚུངས །"
-msgstr ""
+msgstr "Drinking mirage water."
 
 msgctxt "e8deda3d568b4d23a0c5fa4dd095f194"
 msgid "ཞེས་པ་ དབང་ བཞི་ དང་ །"
