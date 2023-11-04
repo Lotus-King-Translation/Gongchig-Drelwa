@@ -3634,7 +3634,7 @@ msgstr "Therefore, the Perfection Vehicle"
 
 msgctxt "f41781581b234425970b137f9065df16"
 msgid "ཚེ་ གཅིག་ སངས་རྒྱས་ བཞེད་པ་ ལགས །"
-msgstr ""
+msgstr "It is accepted that you will become a buddha in one lifetime."
 
 msgctxt "0a6210733d004124aa4a2117ed118d5d"
 msgid "ཅེས་ སོ །"
