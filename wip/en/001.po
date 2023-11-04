@@ -3552,6 +3552,8 @@ msgstr "Thus, the four empowerments and"
 msgctxt "6595d61b248d4cc8ad6f9784531d3573"
 msgid "དེ་ལས་ ཀྱང་ དུམ་ དབང་ གིས་ འབྱེད་པ་ ཡིན་ ཏེ་"
 msgstr ""
+"From these, [sutra and mantra] are differentiated particularly by the vase "
+"empowerment."
 
 msgctxt "25e26dab93d4469ea3dfc7422577070d"
 msgid "གཞན་ རྣམས་ མཚན་ཉིད་ ལ་␣འང་ ཡོད་"
