@@ -3671,6 +3671,7 @@ msgstr ""
 msgctxt "b2c7155fc7804a84920f396c0c62bdd3"
 msgid "མཚོན་ ལུགས་མ་ གཏོགས་ དོན་ ལ་ ཁྱད་མེད་ དོ །"
 msgstr ""
+"Apart from the way it is presented, there is no difference in meaning."
 
 msgctxt "9ab61323620a4f549c7a78559bd00be2"
 msgid ""
