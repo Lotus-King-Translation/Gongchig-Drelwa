@@ -3561,6 +3561,7 @@ msgstr "Others are also in the definition. "
 msgctxt "dc34000065e245409faafa7a0b7488a4"
 msgid "གསེར་མདོག་ དང་ ཆོས་ འཕགས་ ན་རེ་ རྟག་ ཏུ་ དུ་ བཞིན་ ནོ །"
 msgstr ""
+"Hemavarṇa and the bodhisattva Dharmodgata said, \"It is always like this.\""
 
 msgctxt "3a113be1cc384318a05fc31402620795"
 msgid ""
