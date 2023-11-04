@@ -3579,6 +3579,7 @@ msgstr ""
 msgctxt "47fdde3ee92042efaa249677f6c9644a"
 msgid "བསོད་ནམས་ དང་ བརྩོན་ འགྲུས བླ་ མ་ མཚན་ལྡན་ སོགས་ ཚོགས་པ་ ཚང་ ན་"
 msgstr ""
+"If the gathering of merit, perseverance, and a qualified guru is complete, "
 
 msgctxt "87d023589ef9486c8aa5f0a35496a213"
 msgid "ཚེ་ གཅིག་ འཚང་ རྒྱ །"
