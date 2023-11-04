@@ -3650,7 +3650,7 @@ msgstr ""
 
 msgctxt "6dd490c0f15a4f938012438b762d8524"
 msgid "དེ་ ཉམས་ སུ་ ལེན་པ་␣འི་ དགེ་འདུན་ གསུམ་པོ་ ཐ་དད་ ཡིན་ ཟེར་ ཡང༌ །"
-msgstr ""
+msgstr "The three types of Sangha who practice it are said to be distinct."
 
 msgctxt "0c65bc610ab84b55b0d1cd92796d9a77"
 msgid ""
