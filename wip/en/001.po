@@ -3593,7 +3593,7 @@ msgstr ""
 
 msgctxt "0b3a22967036473280d28f6f7692a827"
 msgid "ཞུས་ ལན་ ཚིག་ བཅད་ མ་ལ་␣ས །"
-msgstr ""
+msgstr "According to the Question and Answer in Verses,"
 
 msgctxt "e1718955f7414bd7bd0442edfb087616"
 msgid "འདི་ ཡང་ སྟོན་པ་ ཉིད་ ཀྱི་ བཀའ །"
