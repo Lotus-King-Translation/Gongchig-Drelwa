@@ -3618,7 +3618,7 @@ msgstr "Within a period of twelve years,"
 
 msgctxt "f01098c556bd40d1813c5225603f358e"
 msgid "ནོར་བུ་ བཟང་པོ་␣ས་ ཀུན་བཟང་ ཐོབ ། །"
-msgstr ""
+msgstr "Norbu Sangpo attained Samantabhadra."
 
 msgctxt "6353b6ccbc6c49339554d840c9d12aa7"
 msgid "བྱང་ཆུབ་ སེམས་དཔའ་ རྟག་ ཏུ་ ངུ་ ། །"
