@@ -3658,7 +3658,7 @@ msgid ""
 " ཡིན་ ཏེ་"
 msgstr ""
 "In this [system], the result of the way or nature of the Dharma and practice"
-" is one as buddhahood."
+" is the same as buddhahood."
 
 msgctxt "e9902ad7cc8643d088ca0b4d09e36eb7"
 msgid ""
