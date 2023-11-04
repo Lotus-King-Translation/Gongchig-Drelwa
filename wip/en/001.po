@@ -3547,7 +3547,7 @@ msgstr "Drinking mirage water."
 
 msgctxt "e8deda3d568b4d23a0c5fa4dd095f194"
 msgid "ཞེས་པ་ དབང་ བཞི་ དང་ །"
-msgstr ""
+msgstr "Thus, the four empowerments and"
 
 msgctxt "6595d61b248d4cc8ad6f9784531d3573"
 msgid "དེ་ལས་ ཀྱང་ དུམ་ དབང་ གིས་ འབྱེད་པ་ ཡིན་ ཏེ་"
