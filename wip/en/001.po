@@ -3645,6 +3645,8 @@ msgid ""
 "ལྷན་␣༽༽  གཞན་ ཤེས་ ལ་ སྔགས་ མཚན་ཉིད་ གཉིས་ ཀྱི་ སངས་རྒྱས་ དེ་␣ས་ "
 "གསུངས་པ་␣འི་ ཆོས་"
 msgstr ""
+"Addendum: The knowledge of others is the Dharma taught by the Buddha in both"
+" the mantra and characteristic [vehicles]"
 
 msgctxt "6dd490c0f15a4f938012438b762d8524"
 msgid "དེ་ ཉམས་ སུ་ ལེན་པ་␣འི་ དགེ་འདུན་ གསུམ་པོ་ ཐ་དད་ ཡིན་ ཟེར་ ཡང༌ །"
