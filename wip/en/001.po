@@ -3556,7 +3556,7 @@ msgstr ""
 
 msgctxt "25e26dab93d4469ea3dfc7422577070d"
 msgid "གཞན་ རྣམས་ མཚན་ཉིད་ ལ་␣འང་ ཡོད་"
-msgstr ""
+msgstr "Others are also in the definition. "
 
 msgctxt "dc34000065e245409faafa7a0b7488a4"
 msgid "གསེར་མདོག་ དང་ ཆོས་ འཕགས་ ན་རེ་ རྟག་ ཏུ་ དུ་ བཞིན་ ནོ །"
