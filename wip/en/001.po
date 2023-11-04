@@ -3610,7 +3610,7 @@ msgstr "To those who have the perfection of aspiration."
 
 msgctxt "873fcdda79cf45e597edf2b007676c98"
 msgid "བསླབ་པ་␣ར་ བྱ་ ཞེས་ གསུངས་པ་ དང་ ། །"
-msgstr ""
+msgstr "It is said that one should be trained [in this way]."
 
 msgctxt "201222cc7c7a437fa8688789bf8ba3a6"
 msgid "ལོ་ ནི་ བཅུ་གཉིས་ ནང་རོལ་ དུ །"
