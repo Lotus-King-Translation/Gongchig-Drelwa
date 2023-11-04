@@ -3583,7 +3583,7 @@ msgstr ""
 
 msgctxt "87d023589ef9486c8aa5f0a35496a213"
 msgid "ཚེ་ གཅིག་ འཚང་ རྒྱ །"
-msgstr "Then [one] will become buddha in a single lifetime.  "
+msgstr "[One] will become a buddha in a single lifetime.  "
 
 msgctxt "bad96c7920ed466d87306b0b4e5b6f75"
 msgid "མ་ ཚོགས་ ན་ གསང་སྔགས་ ཀྱིས་ ཀྱང་ སངས་ མི་ རྒྱ་ སྟེ་␣༑"
