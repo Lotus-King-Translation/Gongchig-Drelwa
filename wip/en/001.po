@@ -3665,6 +3665,8 @@ msgid ""
 "སངས་རྒྱས་ ཐོབ་པ་␣ར་ བྱེད་པ་ ལ་ ས་བཅུ་ གཅིག་ དང་ བཅུ་གསུམ་ གཉིས་ སུ་ གསུངས་ "
 "ཀྱང་"
 msgstr ""
+"Though it is said that there are eleven stages and thirteen stages to attain"
+" buddhahood,"
 
 msgctxt "b2c7155fc7804a84920f396c0c62bdd3"
 msgid "མཚོན་ ལུགས་མ་ གཏོགས་ དོན་ ལ་ ཁྱད་མེད་ དོ །"
