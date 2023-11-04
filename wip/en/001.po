@@ -3539,7 +3539,7 @@ msgstr "Yogins yearn for an actual accomplishment,"
 
 msgctxt "b7a3911cdd604be0954fe0664aec8279"
 msgid "མཁའ་ ལ་ ཁུ་ཚུར་ གྱིས་ བརྡེག་ དང་ །"
-msgstr ""
+msgstr "Striking a fist at the sky and"
 
 msgctxt "aa64f131c52249ef8cae628f53d72532"
 msgid "སྨིག་རྒྱུ་␣འི་ ཆུ་ ནི་ འཐུང་ དང་ མཚུངས །"
