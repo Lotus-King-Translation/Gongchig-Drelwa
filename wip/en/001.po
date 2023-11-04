@@ -3638,7 +3638,7 @@ msgstr "It is accepted that you will become a buddha in one lifetime."
 
 msgctxt "0a6210733d004124aa4a2117ed118d5d"
 msgid "ཅེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "c0a5297833e9401982f2592fe6873d36"
 msgid ""
