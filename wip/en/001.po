@@ -3622,7 +3622,7 @@ msgstr "Norbu Sangpo attained Samantabhadra."
 
 msgctxt "6353b6ccbc6c49339554d840c9d12aa7"
 msgid "བྱང་ཆུབ་ སེམས་དཔའ་ རྟག་ ཏུ་ ངུ་ ། །"
-msgstr ""
+msgstr "The bodhisattva Sadaprarudita,"
 
 msgctxt "8ece4bd0c52f49d190c5e753a9c6e701"
 msgid "ཚེ་ འདི་␣ར་ ས་བཅུ་ ཕ་རོལ་ ཕྱིན ། །"
