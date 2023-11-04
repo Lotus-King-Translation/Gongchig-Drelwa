@@ -3626,7 +3626,7 @@ msgstr "The bodhisattva Sadaprarudita,"
 
 msgctxt "8ece4bd0c52f49d190c5e753a9c6e701"
 msgid "ཚེ་ འདི་␣ར་ ས་བཅུ་ ཕ་རོལ་ ཕྱིན ། །"
-msgstr "In this life, [you will] perfect the ten bodhisattva stages."
+msgstr "In this life, [you will] perfect the ten stages."
 
 msgctxt "18079a3b15b0460fba9d83f9a93e14c3"
 msgid "དེ་ཕྱིར་ ཕར་ཕྱིན་ ཐེག་པ་ ཡང༌ ། །"
