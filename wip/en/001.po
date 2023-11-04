@@ -3519,7 +3519,7 @@ msgstr "The training path to the result engages the path."
 
 msgctxt "3f785a801e2345f0b7381dbcad866dcc"
 msgid "འབྲས་བུ་ བདེ་བ་␣ས་ འབྱེད་ ཟེར་ ཡང་"
-msgstr ""
+msgstr "Though happiness is said to differentiate the result."
 
 msgctxt "c04de8db0e404d929ae1dee3b937cceb"
 msgid "འདི་␣ར་ ནི་ དབང་ གིས་ ཡིན་ ཏེ་ འཇམ་དཔལ་ རྩ་རྒྱུད་ ལ་␣ས །"
