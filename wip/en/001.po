@@ -3602,7 +3602,7 @@ msgstr "This as well is the instruction of emptiness."
 msgctxt "343ecdb8e02e472e81a3a3d4b34585a7"
 msgid "སེམས་བསྐྱེད་ གཅིག་ གིས་ སངས་རྒྱས་པ་␣ར ། །"
 msgstr ""
-"Thus, the first is how the buddhas generate the mind [for enlightenment]."
+"To become a buddha by a single generation of the mind [for enlightenment]."
 
 msgctxt "eecd21d0ced24a86a73e7a3fcdb03607"
 msgid "འདོད་པ་␣ས་ ཕ་རོལ་ ཕྱིན་པ་ ལ ། །"
