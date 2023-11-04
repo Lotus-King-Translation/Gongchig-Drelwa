@@ -3614,7 +3614,7 @@ msgstr "It is said that one should be trained [in this way]."
 
 msgctxt "201222cc7c7a437fa8688789bf8ba3a6"
 msgid "ལོ་ ནི་ བཅུ་གཉིས་ ནང་རོལ་ དུ །"
-msgstr ""
+msgstr "Within a period of twelve years,"
 
 msgctxt "f01098c556bd40d1813c5225603f358e"
 msgid "ནོར་བུ་ བཟང་པོ་␣ས་ ཀུན་བཟང་ ཐོབ ། །"
