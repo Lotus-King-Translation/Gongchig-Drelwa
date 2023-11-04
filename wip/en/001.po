@@ -540,7 +540,7 @@ msgstr "There is not a single phenomenon."
 
 msgctxt "e8c0965bf21c435baea5c7965232b503"
 msgid "ཅེས་ དང་ །"
-msgstr "And also,"
+msgstr "And,"
 
 msgctxt "b90ef37ddf724420a86c332f5930eff8"
 msgid "གང་ ལ་སྟོང་པ་ ཉིད་ རུང་བ ། །"
