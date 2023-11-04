@@ -3606,7 +3606,7 @@ msgstr ""
 
 msgctxt "eecd21d0ced24a86a73e7a3fcdb03607"
 msgid "འདོད་པ་␣ས་ ཕ་རོལ་ ཕྱིན་པ་ ལ ། །"
-msgstr ""
+msgstr "To those who have the perfection of aspiration."
 
 msgctxt "873fcdda79cf45e597edf2b007676c98"
 msgid "བསླབ་པ་␣ར་ བྱ་ ཞེས་ གསུངས་པ་ དང་ ། །"
