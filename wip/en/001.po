@@ -3524,6 +3524,8 @@ msgstr "Though happiness is said to differentiate the result."
 msgctxt "c04de8db0e404d929ae1dee3b937cceb"
 msgid "འདི་␣ར་ ནི་ དབང་ གིས་ ཡིན་ ཏེ་ འཇམ་དཔལ་ རྩ་རྒྱུད་ ལ་␣ས །"
 msgstr ""
+"In this [system], It is [differentiated] by empowerment because according to"
+" The Manjushri Root Tantra,"
 
 msgctxt "6e10c0db553e44258656cb9d0ba0cd36"
 msgid "གང༌ཞིག་ དཀྱིལ་འཁོར་ མ་ མཐོང་བ་␣ར །"
