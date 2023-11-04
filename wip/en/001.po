@@ -3454,7 +3454,7 @@ msgctxt "f60291e8d650471793003153888e76dd"
 msgid "འདི་␣ར་ ནི་ ཐེག་པ་ ཆེ་ཆུང་ གི་ ཁྱད་པར་ སེམས་བསྐྱེད་ ཡིན་ ཏེ །"
 msgstr ""
 "In this [system], the difference between the lesser and greater vehicles is "
-"the generation of mind of awakening."
+"the generation of the mind [for enlightenment]."
 
 msgctxt "4c0b7583161d4878be64cc5f7c3d9464"
 msgid "གཞན་དོན་ འཁོར་བ་␣ར་ གནས་ ཀྱང་ ནི ། །"
