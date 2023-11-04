@@ -3573,6 +3573,8 @@ msgstr ""
 msgctxt "548a90def303406b8ab1bc63e135a47b"
 msgid "འདི་␣ར་ ནི་ ཚེ་ གཅིག་ གིས་ འཚང་རྒྱ་བ་␣ར་ ཡོད་ དེ །"
 msgstr ""
+"In this [system], it is accepted that one can become a buddha in one "
+"lifetime."
 
 msgctxt "47fdde3ee92042efaa249677f6c9644a"
 msgid "བསོད་ནམས་ དང་ བརྩོན་ འགྲུས བླ་ མ་ མཚན་ལྡན་ སོགས་ ཚོགས་པ་ ཚང་ ན་"
