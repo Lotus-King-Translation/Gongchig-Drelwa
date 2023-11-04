@@ -3531,7 +3531,7 @@ msgstr ""
 
 msgctxt "6e10c0db553e44258656cb9d0ba0cd36"
 msgid "གང༌ཞིག་ དཀྱིལ་འཁོར་ མ་ མཐོང་བ་␣ར །"
-msgstr ""
+msgstr "Those who have not seen the mandala,"
 
 msgctxt "8459f5da6bb04977b9d92291dbac42c1"
 msgid "རྣལ་འབྱོར་པ་ ནི་ དངོས་གྲུབ་ འདོད །"
