@@ -3630,7 +3630,7 @@ msgstr "In this life, [you will] perfect the ten bodhisattva stages."
 
 msgctxt "18079a3b15b0460fba9d83f9a93e14c3"
 msgid "དེ་ཕྱིར་ ཕར་ཕྱིན་ ཐེག་པ་ ཡང༌ ། །"
-msgstr ""
+msgstr "Therefore, the Perfection Vehicle"
 
 msgctxt "f41781581b234425970b137f9065df16"
 msgid "ཚེ་ གཅིག་ སངས་རྒྱས་ བཞེད་པ་ ལགས །"
