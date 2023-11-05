@@ -3707,6 +3707,8 @@ msgid ""
 "ས་བཅུ་ མཐ་␣ར་ ཕྱིན་ ནས་ བཅུ་གཅིག་ པ་སངས་ རྒྱས་ ཀྱི་ ས་␣ར་ འདོད་པ་␣ས་ ན་ "
 "ས་␣ས་ བགྲོད་པ་ དང༌ །"
 msgstr ""
+"After completing the ten stages, they traverse from the stage of desire to "
+"the eleventh, the stage of buddhahood."
 
 msgctxt "2d9b50dd431448529b30637b2a314f5a"
 msgid "ཉམས་ལེན་ བསླབ་ གསུམ་ དགེ་བ །"
