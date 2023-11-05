@@ -71,6 +71,8 @@ msgid ""
 "བསྐྲལ་ ནས་ བདེ་བ་␣འི་ གནས་ ལ་ དབྱུང་ མཛད་ ཇི་སྙེད་ མཁྱེན་པ་␣འི་ པོ་ཏི་ བསྣམས"
 " ། །"
 msgstr ""
+"[He] was expelled to the place of bliss and brought the volumes of the "
+"entire knowledge of omniscience."
 
 msgctxt "dba99aa6133246239050aaace1ef7d47"
 msgid ""
