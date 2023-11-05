@@ -3694,7 +3694,7 @@ msgstr ""
 
 msgctxt "6a5811aa21d140a2b6ce48f5717f1aa7"
 msgid "རྡོ་རྗེ་ འཛིན་པ་␣འི་ ས་ དང་ བཅུ་གསུམ་ མོ །"
-msgstr ""
+msgstr "The vajra holder's stage is the thirteenth."
 
 msgctxt "f2b86d9587824ed09b7f133bace6c6bc"
 msgid "ཕར་ཕྱིན་པ་␣ས་ སྒྲིབ་ བཅུ་ སྤངས་ ཤིང་ ཕར་ཕྱིན་ བཅུ་ རྫོགས་པ་␣ས་"
