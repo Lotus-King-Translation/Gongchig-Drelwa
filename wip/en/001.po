@@ -3712,7 +3712,7 @@ msgstr ""
 
 msgctxt "2d9b50dd431448529b30637b2a314f5a"
 msgid "ཉམས་ལེན་ བསླབ་ གསུམ་ དགེ་བ །"
-msgstr ""
+msgstr "The practice is the virtue of the three trainings."
 
 msgctxt "089c9eee7cad449ca5d26ef74720a82c"
 msgid "ཉོན་མོངས་ འདུལ་བ་ ཐེག་ཆེན་ ཡིན་པ །"
