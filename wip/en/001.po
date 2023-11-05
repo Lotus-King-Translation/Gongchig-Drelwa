@@ -3685,6 +3685,7 @@ msgstr ""
 msgctxt "2237963cf81f4177bdb39a55d4728acf"
 msgid "འཕོ་བ་ བཅུ་གཉིས་ གཙོ་བོ་␣ར་ བྱས་པ་ ལ་ ས་བཅུ་ གཉིས་ ཏེ་"
 msgstr ""
+"The twelve stages are chiefly the production of the twelve transferences."
 
 msgctxt "46f29f86dd7d4111afae64a7c7e3e2b1"
 msgid "རྩ་ རླུང་ ལ་ བརྟེན་པ་ མ་ དག་པ་␣འི་ རྟེན་འབྲེལ་ སྦྱངས་པ་ དང་ །"
