@@ -3690,6 +3690,7 @@ msgstr ""
 msgctxt "46f29f86dd7d4111afae64a7c7e3e2b1"
 msgid "རྩ་ རླུང་ ལ་ བརྟེན་པ་ མ་ དག་པ་␣འི་ རྟེན་འབྲེལ་ སྦྱངས་པ་ དང་ །"
 msgstr ""
+"The impure interdependence based on the channels and winds is purified and"
 
 msgctxt "6a5811aa21d140a2b6ce48f5717f1aa7"
 msgid "རྡོ་རྗེ་ འཛིན་པ་␣འི་ ས་ དང་ བཅུ་གསུམ་ མོ །"
