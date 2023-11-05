@@ -816,7 +816,7 @@ msgstr "Thus, ultimate enlightenment will not be attained. "
 
 msgctxt "28719e3145944b0fac0859f3a3707fef"
 msgid "གཙུག་ ན་ རིན་པོ་ཆེ་␣འི་ མདོ་␣འི་ དོན་ རྒྱུད་ བླ་␣ར་"
-msgstr ""
+msgstr "The meaning of the Jewel Crest sutra in The Highest Continuum"
 
 msgctxt "d76bbdbed51a413a81966c530aec8f17"
 msgid "ཇི་ལྟར་ རི་མོ་ བྲི་ བྱེད་པ་ སོགས་ ནས །"
