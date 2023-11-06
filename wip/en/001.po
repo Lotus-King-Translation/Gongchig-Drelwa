@@ -3866,6 +3866,7 @@ msgctxt "d15f3632072245eab90de5b2d8ac266a"
 msgid ""
 "སྔགས་ ལ་␣འང་ གསང་བདག་ གིས་ བཅོམ་ལྡན་འདས་ ལ་ དམ་ཚིག་ གང་ ལགས་ ཞུས་པ་␣ས །"
 msgstr ""
+"Guhyapati asked Buddha, \"What are the commitments of the Secret Mantra?\""
 
 msgctxt "a41e7c8b3bfa467da8d469d026e1eb5c"
 msgid "མི་དགེ་བ་ བཅུ་ སྤོང་བ་␣འོ ། །"
