@@ -3921,6 +3921,8 @@ msgid ""
 "ལྷན་␣༽༽  འགའ་ཞིག་ སོར་སྡོམ་ སྤང་ གཉེན་ གྱི་ ཚུལ་ དུ་ཡོད་པ་ སྣ་ རེ་ ཉམས་ ན་ "
 "ངན་སོང་ དུ་ འགྲོ་"
 msgstr ""
+"Addendum: some people said that if any one remedy to abandoning degenerates "
+"in the vows of individual emancipation, [one] will go to bad migrations."
 
 msgctxt "5ee1fa75e614488bb23fbbfbcfee127a"
 msgid "བྱང་སེམས་ ལ་ མི་དགེ་བ་ བདུན་"
