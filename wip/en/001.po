@@ -3832,7 +3832,7 @@ msgstr "It is said that [they] occur individually."
 
 msgctxt "756b10f768d04257a31eb72ab39fce7c"
 msgid "འདི་␣ར་ ནི་ སྡོམ་ གསུམ་ སྤང་བྱ་ མི་དགེ་ བཅུ་ སྤོང་བ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "In this [system], the three vows are for abandoning "
 
 msgctxt "90a249bb831f4afd94c896146a521aea"
 msgid "གནད་ དམ་ སྡོག་ ནི་ གཅིག་ སྟེ་"
