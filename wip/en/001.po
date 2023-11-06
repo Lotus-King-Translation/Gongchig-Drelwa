@@ -3890,7 +3890,7 @@ msgstr "Because [he] has defeated the demons of the afflictions."
 
 msgctxt "433607c145594e318f2fa0e3ac00f7e8"
 msgid "སྲོག་གཅོད་ ལྟ་བུ་ གཅིག་ སྤོང་བ་"
-msgstr ""
+msgstr "To abandon one thing such as killing,"
 
 msgctxt "878340c0d54f456fbb19c8554e5f0e1a"
 msgid "མི་ཆོས་ བཅུ་དྲུག་ གི་ དང་པོ་"
