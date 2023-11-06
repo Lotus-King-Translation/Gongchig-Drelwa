@@ -3886,7 +3886,7 @@ msgstr "[He] must have abandoned the three poisons of the afflictions."
 
 msgctxt "e3ac3178e8564c2186b4e4d8e8f15a7b"
 msgid "ཉོན་མོངས་ བདུད་ ནི་ བཅོམ་པ་␣འི་ ཕྱིར་ དང་ །"
-msgstr "Because [he] has destroyed the demons of the afflictions."
+msgstr "Because [he] has defeated the demons of the afflictions."
 
 msgctxt "433607c145594e318f2fa0e3ac00f7e8"
 msgid "སྲོག་གཅོད་ ལྟ་བུ་ གཅིག་ སྤོང་བ་"
