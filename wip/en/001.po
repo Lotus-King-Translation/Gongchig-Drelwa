@@ -3906,7 +3906,7 @@ msgstr "The cause for the arising of the aspiring mind of enlightenment."
 
 msgctxt "8e8eb7dca7be4808b15578db43576248"
 msgid "སྐྱེ་ ནས་ འཇུག་ སྡོམ་ གྱི་ ངོ་བོ ། །"
-msgstr ""
+msgstr "After its arising, it is the essence of engaging mind."
 
 msgctxt "68f606993e36475dbb5d13525868ff2f"
 msgid "སྔགས་ སུ་ བཀའ་ འདས་ ཀྱི་ ལྟུང་བ་ འབྱུང་བ་␣ས་"
