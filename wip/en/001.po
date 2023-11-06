@@ -3722,7 +3722,7 @@ msgstr "The greater vehicle is for subduing the afflictions."
 
 msgctxt "9cc0fc78ab7249a295c7fcfa5116bafe"
 msgid "བགྲོད་པ་ གཅིག་པ་␣འི་ ལམ་ ཡིན་པ་ རྣམས་"
-msgstr ""
+msgstr "All of the same traversal paths."
 
 msgctxt "d34f138d564244beb29494fae8817be7"
 msgid "སྔགས་ མཚན་ཉིད་ གཉིས་ཀ་ གཅིག་པ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ ། །"
