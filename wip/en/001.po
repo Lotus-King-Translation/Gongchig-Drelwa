@@ -3747,6 +3747,8 @@ msgstr ""
 msgctxt "be5de7ab6b834fb4a3be50da7ecd8a11"
 msgid "རགས་པ་␣འི་ སྤང་བྱ་ མཚན་ཉིད་ ཀྱིས་ སྤོང །"
 msgstr ""
+"The coarse objects to be abandoned are eliminated through the "
+"characteristics."
 
 msgctxt "c1743c612f694ff38426732779806cf3"
 msgid "ཕྲ་བ་ སྔགས་ ཀྱིས་ སྤོང་བ་␣ས་"
