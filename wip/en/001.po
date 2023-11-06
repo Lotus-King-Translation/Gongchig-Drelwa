@@ -3910,7 +3910,7 @@ msgstr "After its arising, it is the essence of engaging mind."
 
 msgctxt "68f606993e36475dbb5d13525868ff2f"
 msgid "སྔགས་ སུ་ བཀའ་ འདས་ ཀྱི་ ལྟུང་བ་ འབྱུང་བ་␣ས་"
-msgstr ""
+msgstr "In the mantra, downfalls occur for transgressing the Buddha-word."
 
 msgctxt "43799e63d2ce41efaee57107f9549200"
 msgid "ཚུལ་ འདི་␣ས་ མི་དགེ་བ་ ཀུན་ ལ་ མཚུངས་པ་␣ར་ གནད་ གཅིག་ ཏུ་ འོང་ ངོ༌ །"
