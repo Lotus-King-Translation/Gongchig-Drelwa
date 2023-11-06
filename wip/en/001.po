@@ -3874,7 +3874,7 @@ msgstr "It is the abandoning of the ten non-virtues."
 
 msgctxt "e9c722539a994d0588608f721ea20a35"
 msgid "ཞེས་ དང་ །"
-msgstr ""
+msgstr "As said and."
 
 msgctxt "7bc2bf0b292a41758b4bbcc745643789"
 msgid "བཅོམ་ལྡན་འདས་ ནི་ བདུད་ བཅོམ་པ་ ཡིན་ ན །"
