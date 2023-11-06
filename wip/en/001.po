@@ -3762,7 +3762,7 @@ msgstr ""
 
 msgctxt "466666e308f74d868ce1b307ab201951"
 msgid "སློབ་དཔོན་ རྒྱལ་བོ་ དང་ ནཱ་ རོ་པ་ ལྟ་བུ་␣ས་ ཀྱང་"
-msgstr ""
+msgstr "Even the masters such as Gyalpo and Naropa,"
 
 msgctxt "e0830da0ac284fef89721887d9241293"
 msgid ""
