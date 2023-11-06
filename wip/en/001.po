@@ -3878,7 +3878,7 @@ msgstr "As said and."
 
 msgctxt "7bc2bf0b292a41758b4bbcc745643789"
 msgid "བཅོམ་ལྡན་འདས་ ནི་ བདུད་ བཅོམ་པ་ ཡིན་ ན །"
-msgstr ""
+msgstr "If Buddha has defeated the demons,"
 
 msgctxt "6e913eb580c7440c991aaa55f79bccde"
 msgid "དུག་ གསུམ་ ཉོན་མོངས་པ་ སྤོང་ དགོས་ ཏེ །"
