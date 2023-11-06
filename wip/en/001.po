@@ -3934,7 +3934,7 @@ msgstr "That are prohibited in the secret mantra, are taken as the path."
 
 msgctxt "8da85e05889a44efbae34fefcf0d9ee8"
 msgid "གོང་ ནས་ གོང་ དུ་ ཡངས་ སུ་ སོང་བ་ ཡིན་ ཟེར །"
-msgstr ""
+msgstr "It becomes wider as [they] advance higher."
 
 msgctxt "69a8ef12ad2d44e99cc3f4eecf63eb2c"
 msgid "འདི་␣ར་ ནི་ སོ་ བྱང་ སྔགས་ ཀྱི་ སྡོམ་ གསུམ་ དེ་ཡང་"
