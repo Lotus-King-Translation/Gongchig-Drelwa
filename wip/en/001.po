@@ -3741,6 +3741,8 @@ msgctxt "a7dca729bd4742dcb54bfb1ab7ba376f"
 msgid ""
 "འདི་␣ར་ ནི་ དེ་ གཉིས་ གང་ ལ་ གང་ མེད་ རྫོགས་ བྱང་ ཐོབ་པ་␣ར་ མི་ སྲིད་ དེ་"
 msgstr ""
+"In this [system], Complete enlightenment is impossible without either of "
+"these two."
 
 msgctxt "be5de7ab6b834fb4a3be50da7ecd8a11"
 msgid "རགས་པ་␣འི་ སྤང་བྱ་ མཚན་ཉིད་ ཀྱིས་ སྤོང །"
