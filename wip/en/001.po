@@ -3780,6 +3780,7 @@ msgstr ""
 msgctxt "c951e43a2dba4806919219e16a16d94a"
 msgid "ནོར་ བཟང་ དང་ རྟག་ ཏུ་ ངུ་ ལྟ་བུ་␣ས་ ཀྱང་ སངས་རྒྱས་ མི་ ཐོབ་ ཏེ །"
 msgstr ""
+"Even those such as Sudhana and Sadaprarudita will not attain buddhahood."
 
 msgctxt "2cff6f41c52f4964aefa1c36ceb9e128"
 msgid "ཇོ་བོ་␣ས །"
