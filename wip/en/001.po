@@ -3788,7 +3788,7 @@ msgstr "Jowo Atisha stated:"
 
 msgctxt "7fd2a57418174229a58c6acbe822e19c"
 msgid "གསང་སྔགས་ ཕ་རོལ་ ཕྱིན་པ་ ལ ། །"
-msgstr "In the transcendental perfection of the secret mantra,"
+msgstr "In the transcendental perfections of the secret mantra,"
 
 msgctxt "4dd4b2b5dbc64c62b3e49443ce587978"
 msgid "བརྟེན་ ནས་ བྱང་ཆུབ་ བསྒྲུབ་པ་␣ར་ གསུངས ། །"
