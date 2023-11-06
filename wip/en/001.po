@@ -3820,7 +3820,7 @@ msgstr "Moreover, mainly, desire in the seven,"
 
 msgctxt "10165aad9d214f8c9881b15ed93d29c8"
 msgid "གསུམ་ ལ་ ཞེ་སྡང །"
-msgstr ""
+msgstr "Anger in the three, "
 
 msgctxt "0161285181f14ef5aa0b8dc05f170b33"
 msgid "ཕྱི་མ་␣འི་ སྐབས་ སུ་ གཏི་མུག་ སྤོང་བ་␣ས་"
