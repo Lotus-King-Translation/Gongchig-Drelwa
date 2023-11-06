@@ -3812,7 +3812,7 @@ msgstr "The three of mind and "
 
 msgctxt "432214b521114058a46e3583ced18e03"
 msgid "ལོག་ལྟ་ སྤོང་ ཞིང༌ །"
-msgstr ""
+msgstr "the wrong views respectively. "
 
 msgctxt "04f35b2be8874b199844a54dafbe181f"
 msgid "དེ་ཡང་ གཙོ་བོ་␣ར་ བདུན་ ལ་ འདོད་ཆགས །"
