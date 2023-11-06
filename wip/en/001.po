@@ -3808,7 +3808,7 @@ msgstr ""
 
 msgctxt "61000cd6e7494580a82467bd6d0cbe1c"
 msgid "ཡིད་ ཀྱི་ གསུམ་ དང་ །"
-msgstr ""
+msgstr "The three of mind and "
 
 msgctxt "432214b521114058a46e3583ced18e03"
 msgid "ལོག་ལྟ་ སྤོང་ ཞིང༌ །"
