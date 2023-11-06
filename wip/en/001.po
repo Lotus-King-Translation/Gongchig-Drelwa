@@ -3775,6 +3775,7 @@ msgstr ""
 msgctxt "8802e23baaed434b919a95aac47a4c62"
 msgid "མཚན་ཉིད་ ལ་ སྔགས་ མེད་ ན་ ཕྲ་བ་ མི་ སྤོང་ ཞིང་"
 msgstr ""
+"If the characteristics lack the mantra, the subtle cannot be abandoned."
 
 msgctxt "c951e43a2dba4806919219e16a16d94a"
 msgid "ནོར་ བཟང་ དང་ རྟག་ ཏུ་ ངུ་ ལྟ་བུ་␣ས་ ཀྱང་ སངས་རྒྱས་ མི་ ཐོབ་ ཏེ །"
