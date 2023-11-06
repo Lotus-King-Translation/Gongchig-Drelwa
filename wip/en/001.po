@@ -3752,7 +3752,7 @@ msgstr ""
 
 msgctxt "c1743c612f694ff38426732779806cf3"
 msgid "ཕྲ་བ་ སྔགས་ ཀྱིས་ སྤོང་བ་␣ས་"
-msgstr "The subtle [objects of abandonment] are abandoned by mantra."
+msgstr "The subtle [objects of abandonment] are abandoned by the mantra."
 
 msgctxt "8f970fd8d8b443a58687725b51d0f683"
 msgid "སྔགས་ ལ་ མཚན་ཉིད་ མེད་ ན་ རག་པ་ མི་ སྤོང་ ཞིང་"
