@@ -3796,7 +3796,7 @@ msgstr "It is said that enlightenment is accomplished by relying on it."
 
 msgctxt "cd4b5eda3b1240c491ef2e03ed47af97"
 msgid "ཅེས་པ་␣ས་ སོ །"
-msgstr ""
+msgstr "As just said."
 
 msgctxt "8a9f55866df4459588395d87526e374f"
 msgid ""
