@@ -3914,7 +3914,7 @@ msgstr "In the mantra, downfalls occur for transgressing the Buddha-word."
 
 msgctxt "43799e63d2ce41efaee57107f9549200"
 msgid "ཚུལ་ འདི་␣ས་ མི་དགེ་བ་ ཀུན་ ལ་ མཚུངས་པ་␣ར་ གནད་ གཅིག་ ཏུ་ འོང་ ངོ༌ །"
-msgstr ""
+msgstr "In this way, it is the same case for all non-virtues."
 
 msgctxt "b5767b95df0a4084a6d8f7f11f84d69a"
 msgid ""
