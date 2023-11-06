@@ -3726,7 +3726,7 @@ msgstr "All of the same traversal paths."
 
 msgctxt "d34f138d564244beb29494fae8817be7"
 msgid "སྔགས་ མཚན་ཉིད་ གཉིས་ཀ་ གཅིག་པ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr "Both the mantra and characteristics are the same."
+msgstr "Both the mantra and the characteristics are the same."
 
 msgctxt "941a70012b1a407d90c4b27f265d791a"
 msgid ""
