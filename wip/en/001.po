@@ -3842,7 +3842,7 @@ msgstr "The key point and the binding are the same because,"
 
 msgctxt "46acdf7473ac4bdfb5d8f51761038b2e"
 msgid "མི་དགེ་ བཅུ་ སྡོམ་པ་ གསུམ་ ཆ་␣ར་ དུ་ སྤང་བྱ་ ཡིན་པ་"
-msgstr ""
+msgstr "The ten non-virtues are to be abandoned in all of the three vows."
 
 msgctxt "1a121fb151994eddb703e672dffedb1f"
 msgid "སོ་ཐར་ གྱི་ སྐབས་ སུ་ ལུང་ རྣམ་འབྱེད་ ལ་␣ས །"
