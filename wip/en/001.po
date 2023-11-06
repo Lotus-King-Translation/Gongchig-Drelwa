@@ -3792,7 +3792,7 @@ msgstr "In the transcendental perfections of the secret mantra,"
 
 msgctxt "4dd4b2b5dbc64c62b3e49443ce587978"
 msgid "བརྟེན་ ནས་ བྱང་ཆུབ་ བསྒྲུབ་པ་␣ར་ གསུངས ། །"
-msgstr ""
+msgstr "It is said that enlightenment is accomplished by relying on it."
 
 msgctxt "cd4b5eda3b1240c491ef2e03ed47af97"
 msgid "ཅེས་པ་␣ས་ སོ །"
