@@ -3784,7 +3784,7 @@ msgstr ""
 
 msgctxt "2cff6f41c52f4964aefa1c36ceb9e128"
 msgid "ཇོ་བོ་␣ས །"
-msgstr ""
+msgstr "Jowo Atisha stated:"
 
 msgctxt "7fd2a57418174229a58c6acbe822e19c"
 msgid "གསང་སྔགས་ ཕ་རོལ་ ཕྱིན་པ་ ལ ། །"
