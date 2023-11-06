@@ -3828,7 +3828,7 @@ msgstr "Ignorance during the final are all abandoned."
 
 msgctxt "1861193d90d441e787edd973a1302fb1"
 msgid "སོ་སོ་␣ར་ གསུམ་ དུ་ བྱུང་བ་ ཡིན་ ཞེས་ ཟེར །"
-msgstr ""
+msgstr "It is said that [they] occur individually."
 
 msgctxt "756b10f768d04257a31eb72ab39fce7c"
 msgid "འདི་␣ར་ ནི་ སྡོམ་ གསུམ་ སྤང་བྱ་ མི་དགེ་ བཅུ་ སྤོང་བ་␣འི་ ཕྱིར་"
