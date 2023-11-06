@@ -3824,7 +3824,7 @@ msgstr "Anger in the three, "
 
 msgctxt "0161285181f14ef5aa0b8dc05f170b33"
 msgid "ཕྱི་མ་␣འི་ སྐབས་ སུ་ གཏི་མུག་ སྤོང་བ་␣ས་"
-msgstr ""
+msgstr "Ignorance during the final are all abandoned."
 
 msgctxt "1861193d90d441e787edd973a1302fb1"
 msgid "སོ་སོ་␣ར་ གསུམ་ དུ་ བྱུང་བ་ ཡིན་ ཞེས་ ཟེར །"
