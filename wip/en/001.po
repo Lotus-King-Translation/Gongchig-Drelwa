@@ -3882,7 +3882,7 @@ msgstr "If Buddha has defeated the demons,"
 
 msgctxt "6e913eb580c7440c991aaa55f79bccde"
 msgid "དུག་ གསུམ་ ཉོན་མོངས་པ་ སྤོང་ དགོས་ ཏེ །"
-msgstr ""
+msgstr "[He] must have abandoned the three poisons of the afflictions."
 
 msgctxt "e3ac3178e8564c2186b4e4d8e8f15a7b"
 msgid "ཉོན་མོངས་ བདུད་ ནི་ བཅོམ་པ་␣འི་ ཕྱིར་ དང་ །"
