@@ -3870,7 +3870,7 @@ msgstr ""
 
 msgctxt "a41e7c8b3bfa467da8d469d026e1eb5c"
 msgid "མི་དགེ་བ་ བཅུ་ སྤོང་བ་␣འོ ། །"
-msgstr ""
+msgstr "It is the abandoning of the ten non-virtues."
 
 msgctxt "e9c722539a994d0588608f721ea20a35"
 msgid "ཞེས་ དང་ །"
