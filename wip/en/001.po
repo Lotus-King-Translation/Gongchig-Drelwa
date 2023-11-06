@@ -3816,7 +3816,7 @@ msgstr "the wrong views respectively. "
 
 msgctxt "04f35b2be8874b199844a54dafbe181f"
 msgid "དེ་ཡང་ གཙོ་བོ་␣ར་ བདུན་ ལ་ འདོད་ཆགས །"
-msgstr ""
+msgstr "Moreover, the abandoning of desire in the seven,"
 
 msgctxt "10165aad9d214f8c9881b15ed93d29c8"
 msgid "གསུམ་ ལ་ ཞེ་སྡང །"
