@@ -3860,7 +3860,7 @@ msgstr "And so on."
 msgctxt "a27535da3d884e2c8db78f7b8e4056b9"
 msgid ""
 "ཅེས་ བྱང་སེམས་ ཀྱིས་ ཀྱང་ ཕུང་པོ་ གསུམ་པ་ སོགས་ ལ་␣ས་ དེ་ལྟར་ གསུངས་ ཤིང༌ །"
-msgstr ""
+msgstr "This is also taught by the bodhisattvas in the Three Heaps [Sutra]."
 
 msgctxt "d15f3632072245eab90de5b2d8ac266a"
 msgid ""
