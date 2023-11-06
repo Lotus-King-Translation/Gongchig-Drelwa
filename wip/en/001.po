@@ -3855,7 +3855,7 @@ msgstr "If the actions of body are good,"
 
 msgctxt "b6bc8ecb4a444cff9c5a6933efddfcad"
 msgid "སོགས །།"
-msgstr ""
+msgstr "And so on."
 
 msgctxt "a27535da3d884e2c8db78f7b8e4056b9"
 msgid ""
