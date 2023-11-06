@@ -3769,7 +3769,7 @@ msgid ""
 "སངས་རྒྱས་ མི་ ཐོབ་ སྟེ་ རགས་པ་ མ་ སྤང་བ་␣འི་ སངས་རྒྱས་ མི་ སྲིད་པ་␣འི་ ཕྱིར "
 "།"
 msgstr ""
-"were unable to attain buddhahood, because it is impossible to become a "
+"Will not be able to attain buddhahood, because it is impossible to become a "
 "buddha without abandoning the coarse [objects of abandonment]."
 
 msgctxt "8802e23baaed434b919a95aac47a4c62"
