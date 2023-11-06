@@ -3902,7 +3902,7 @@ msgstr "One of the four root [vows] of individual liberation."
 
 msgctxt "48f806bcc45a4dcfa941b70b4de56513"
 msgid "བྱང་སེམས་ ཀྱི་ སྨོན་སེམས་ སྐྱེ་བ་␣འི་ རྒྱུ །"
-msgstr ""
+msgstr "The cause for the arising of the aspiring mind of enlightenment."
 
 msgctxt "8e8eb7dca7be4808b15578db43576248"
 msgid "སྐྱེ་ ནས་ འཇུག་ སྡོམ་ གྱི་ ངོ་བོ ། །"
