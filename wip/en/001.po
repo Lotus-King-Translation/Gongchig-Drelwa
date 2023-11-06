@@ -3803,6 +3803,8 @@ msgid ""
 "རྡོ་␣༽༽  གཞན་ འདོད་ ལ་ སྡོམ་ གསུམ་ རིམ་བཞིན་ ལུས་ངག་ གི་ མི་དགེ་བ་ བདུན་ དང་"
 " །"
 msgstr ""
+"Vajra: Others claim that the three vows represent the abandonment of the "
+"seven non-virtues of body and speech, "
 
 msgctxt "61000cd6e7494580a82467bd6d0cbe1c"
 msgid "ཡིད་ ཀྱི་ གསུམ་ དང་ །"
