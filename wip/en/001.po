@@ -3926,7 +3926,7 @@ msgstr ""
 
 msgctxt "5ee1fa75e614488bb23fbbfbcfee127a"
 msgid "བྱང་སེམས་ ལ་ མི་དགེ་བ་ བདུན་"
-msgstr ""
+msgstr "The seven non-virtues of bodhisattvas."
 
 msgctxt "80617b50b8104d4facd0c03a9af65ecf"
 msgid "གནང་ སྔགས་ ཀྱིས་ བཀག་པ་ དེ་ རྣམས་ ལམ་ དུ་ བྱེད་པ་␣ས་"
