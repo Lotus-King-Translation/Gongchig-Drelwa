@@ -3838,7 +3838,7 @@ msgstr ""
 
 msgctxt "90a249bb831f4afd94c896146a521aea"
 msgid "གནད་ དམ་ སྡོག་ ནི་ གཅིག་ སྟེ་"
-msgstr "The key point or the binding is the same because,"
+msgstr "The key point and the binding are the same because,"
 
 msgctxt "46acdf7473ac4bdfb5d8f51761038b2e"
 msgid "མི་དགེ་ བཅུ་ སྡོམ་པ་ གསུམ་ ཆ་␣ར་ དུ་ སྤང་བྱ་ ཡིན་པ་"
