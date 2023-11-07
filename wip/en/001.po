@@ -4041,8 +4041,7 @@ msgstr "There is not the slightest distinction to be made."
 
 msgctxt "a903b0ec810b4c2d9778e869b2c3767a"
 msgid "འོ་ན་ གསུམ་ དུའང་ བཞག་ རྒྱུ་ མེད་ ཅེ་ན །"
-msgstr ""
-"If so, one might say, there are no three [wheels/vows?] to be posited."
+msgstr "If one says, there are no three [wheels/vows?] to be posited."
 
 msgctxt "10886d458e4d47be91a3d762b82ad10d"
 msgid "དཔེར་ན་ རྒྱན་ གྱི་ ངོ་བོ་ གཅིག་ ལ་"
