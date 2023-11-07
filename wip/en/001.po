@@ -3899,7 +3899,7 @@ msgstr "It is the first of the sixteen [pure] human conduct."
 
 msgctxt "7ec590fb2fb84ebf8e3dba0d641acd29"
 msgid "སོ་ཐར་ གྱི་ རྩ་ བཞི་␣འི་ ཡ་གྱལ །"
-msgstr "One of the four root [vows] of individual liberation."
+msgstr "One of the four root [vows] of individual emancipation."
 
 msgctxt "48f806bcc45a4dcfa941b70b4de56513"
 msgid "བྱང་སེམས་ ཀྱི་ སྨོན་སེམས་ སྐྱེ་བ་␣འི་ རྒྱུ །"
