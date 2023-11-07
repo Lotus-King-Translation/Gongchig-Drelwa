@@ -4037,7 +4037,7 @@ msgstr "and the ten virtues are to be accomplished."
 
 msgctxt "12390aa7e4604ffb8a16d4cb0f7d70f9"
 msgid "ཐ་དད་ དུ་ བྱ་བ་ ཅུང་ཟད་ མེད་ དོ་␣༑ །"
-msgstr ""
+msgstr "There is not the slightest distinction to be made."
 
 msgctxt "a903b0ec810b4c2d9778e869b2c3767a"
 msgid "འོ་ན་ གསུམ་ དུའང་ བཞག་ རྒྱུ་ མེད་ ཅེ་ན །"
