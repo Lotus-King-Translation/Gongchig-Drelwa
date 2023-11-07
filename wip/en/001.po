@@ -3975,7 +3975,7 @@ msgstr ""
 
 msgctxt "32e8642e172e4f8fb6eaa9954a0a7af8"
 msgid "སྔར་ བས་ བསྲུང་ དཀའ་བ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "It is harder to protect than before."
 
 msgctxt "b77694febc7b47359d6409755ee97302"
 msgid "སྔགས་ ཀྱིས་ ཤིན་ཏུ་ ཕྲ་བ་␣འི་ བག་ཉལ་ སྤོང་བ་"
