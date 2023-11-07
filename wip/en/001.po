@@ -4009,7 +4009,7 @@ msgstr ""
 
 msgctxt "eddc81ec0fde41438f1a2a70c8825bfd"
 msgid "བསྒྲུབ་བྱ་ དང་ ཐོབ་ བྱ་འབྲས་ བུ་ མི་མཐུན་པ་␣ས་"
-msgstr "Accomplishment, and attainment, [their] results are not concordant."
+msgstr "Accomplishment, and attainment, and the results are not concordant."
 
 msgctxt "1b2edf154bc64e7db161d859cfed9558"
 msgid "ལེན་ ན་སོ་ སོ་␣ར་ ལེན །"
