@@ -3944,7 +3944,7 @@ msgstr ""
 
 msgctxt "aeeacac73ab5469f98d4a6b7b9e792d4"
 msgid "གོང་ ནས་ གོང་ དུ་ དོག་ ཏུ་ འགྲོ་བ་ བསྒྲུབ་ ཏེ་"
-msgstr ""
+msgstr "It becomes narrower as goes higher."
 
 msgctxt "279054a0e99c47959a4a31f80febf39e"
 msgid "སོ་ཐར་ གྱི་ སྤང་བྱ་ རག་པ་ ཆེ་ལོང་ ཙམ་ བཅས་པ་"
