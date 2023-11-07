@@ -4013,7 +4013,7 @@ msgstr "Accomplishment, and attainment, and the results are not concordant."
 
 msgctxt "1b2edf154bc64e7db161d859cfed9558"
 msgid "ལེན་ ན་སོ་ སོ་␣ར་ ལེན །"
-msgstr "If [one] takes it, take it individually. "
+msgstr "If taken, take it individually. "
 
 msgctxt "4db26c974c6847ab952be9935bab71d8"
 msgid "གནས་ ན་ གཅིག་ ཏུ་ གནས །"
