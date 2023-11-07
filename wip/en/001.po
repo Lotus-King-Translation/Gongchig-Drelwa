@@ -4021,7 +4021,7 @@ msgstr "If dwelled, dwell in one."
 
 msgctxt "e4cb49a53d404133b72c52393086faff"
 msgid "བསྲུང་ ན་ འཆོལ་བ་␣ར་ བསྲུང་བ་"
-msgstr ""
+msgstr "If protected, protect it in mixed."
 
 msgctxt "f0b439ec32514dd6b49aedeacf94ced5"
 msgid "ཐ་དད་ ཀྱིས་ ཁྱད་ འབྱེད་ ཟེར །"
