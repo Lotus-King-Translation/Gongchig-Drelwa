@@ -3970,6 +3970,8 @@ msgstr "It is given in detail in the bodhisattva pitaka that"
 msgctxt "0fc6b11865864475a26761472e68a85e"
 msgid "གཞན་དོན་ ཁོ་ན་ ལ་␣ས་ རང་དོན་ སྐད་ཅིག་ ཙམ་ སྐྱེས་ ན་ ཉམས་པ་␣ར་ འགྱུར་བ་"
 msgstr ""
+"Aside from for the sake of others only, if one's own aim arises even for a "
+"moment, one will degenerate."
 
 msgctxt "32e8642e172e4f8fb6eaa9954a0a7af8"
 msgid "སྔར་ བས་ བསྲུང་ དཀའ་བ་␣འི་ ཕྱིར་ དང༌ །"
