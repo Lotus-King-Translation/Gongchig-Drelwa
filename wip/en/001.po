@@ -4025,7 +4025,7 @@ msgstr "If protected, protect it in mixed."
 
 msgctxt "f0b439ec32514dd6b49aedeacf94ced5"
 msgid "ཐ་དད་ ཀྱིས་ ཁྱད་ འབྱེད་ ཟེར །"
-msgstr ""
+msgstr "It is said that [they are] differentiated by distinction."
 
 msgctxt "dc87378ef396475086e63e4a41c1f569"
 msgid "འདི་␣ར་ ནི་ སྤང་བྱ་ མི་དགེ་ བཅུ་"
