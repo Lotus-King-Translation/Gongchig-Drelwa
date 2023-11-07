@@ -4059,6 +4059,7 @@ msgstr "It emerges into three due to the designators."
 msgctxt "eb93a755497640fa9f3a9e48a88fd1ec"
 msgid "སྡོམ་པ་␣འི་ ངོ་བོ་ ཉམས་ སུ་ ལེན་ རྒྱུ་ལ་ ཁྱད་པར་ མེད་ ཀྱང་"
 msgstr ""
+"Even though there is no difference in the essence of practicing the vows."
 
 msgctxt "5d022661ae7741948a58666529251ad8"
 msgid "ཉམས་ སུ་ ལེན་ མཁན་ བདག་པོ་ གསུམ་ ལ་སོ་ སོ་␣ར་ འཕོས་པ་␣ས་"
