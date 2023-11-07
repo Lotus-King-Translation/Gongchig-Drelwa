@@ -4067,7 +4067,7 @@ msgstr "Because the practitioners transmigrate into three individual masters,"
 
 msgctxt "da8ab20bc8f34a6f9dc0b4ba84082eca"
 msgid "བྱེ་བྲག་ གིས་ སྡོམ་པ་ གསུམ་ དུ་ འོང་ སྟེ་"
-msgstr ""
+msgstr "Thus, there are three particulars of the vows."
 
 msgctxt "018fe6248f214c94a187bbb4049b072d"
 msgid ""
