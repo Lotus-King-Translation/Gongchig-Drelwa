@@ -4017,7 +4017,7 @@ msgstr "If [one] takes it, take it individually. "
 
 msgctxt "4db26c974c6847ab952be9935bab71d8"
 msgid "གནས་ ན་ གཅིག་ ཏུ་ གནས །"
-msgstr ""
+msgstr "If dwell, dwell in one."
 
 msgctxt "e4cb49a53d404133b72c52393086faff"
 msgid "བསྲུང་ ན་ འཆོལ་བ་␣ར་ བསྲུང་བ་"
