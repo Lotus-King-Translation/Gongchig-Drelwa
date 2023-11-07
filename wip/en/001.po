@@ -4029,7 +4029,7 @@ msgstr "It is said that [they are] differentiated by distinction."
 
 msgctxt "dc87378ef396475086e63e4a41c1f569"
 msgid "འདི་␣ར་ ནི་ སྤང་བྱ་ མི་དགེ་ བཅུ་"
-msgstr ""
+msgstr "In this [system], the ten non-virtues are to be abandoned "
 
 msgctxt "76300b8e71c14e93a6d4596ad3a58ad2"
 msgid "བསྒྲུབ་བྱ་ དགེ་བ་ བཅུ་ ཡིན་པ་␣ས་"
