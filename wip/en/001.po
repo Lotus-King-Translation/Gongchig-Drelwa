@@ -3961,7 +3961,7 @@ msgstr ""
 
 msgctxt "f51fad6ddf694dc8bbc34e105f0e29ae"
 msgid "བྱང་སེམས་ ཀྱིས་ ཕྲ་བ་ སྤོང་བ་␣ར་"
-msgstr ""
+msgstr "Bodhisattvas abandon the subtle."
 
 msgctxt "b069330caf844a43990100c59ab073b4"
 msgid "བྱང་སེམས་ ཀྱི་ སྡེ་སྣོད་ དུ་ ཞིབ་ ཏུ་ བཅས་ ཏེ་"
