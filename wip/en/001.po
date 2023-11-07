@@ -3949,6 +3949,7 @@ msgstr "It becomes narrower as [one] goes higher."
 msgctxt "279054a0e99c47959a4a31f80febf39e"
 msgid "སོ་ཐར་ གྱི་ སྤང་བྱ་ རག་པ་ ཆེ་ལོང་ ཙམ་ བཅས་པ་"
 msgstr ""
+"With sufficient coarse objects of abandonment of individual emancipation."
 
 msgctxt "bec1a8c4d96b49f58917dff444decb2f"
 msgid ""
