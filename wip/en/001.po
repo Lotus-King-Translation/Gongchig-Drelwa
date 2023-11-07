@@ -4063,7 +4063,7 @@ msgstr ""
 
 msgctxt "5d022661ae7741948a58666529251ad8"
 msgid "ཉམས་ སུ་ ལེན་ མཁན་ བདག་པོ་ གསུམ་ ལ་སོ་ སོ་␣ར་ འཕོས་པ་␣ས་"
-msgstr ""
+msgstr "The practitioners transmigrate into three individual masters."
 
 msgctxt "da8ab20bc8f34a6f9dc0b4ba84082eca"
 msgid "བྱེ་བྲག་ གིས་ སྡོམ་པ་ གསུམ་ དུ་ འོང་ སྟེ་"
