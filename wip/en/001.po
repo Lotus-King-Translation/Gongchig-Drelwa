@@ -4074,6 +4074,8 @@ msgid ""
 "འདི་ ནི་ གསང་བདག་ གིས་ དམ་ཚིག་ ཕྱི་མ་ ཞུས་པ་ ལ་ བརྟེན་ ནས་ གསུངས་པ་␣འི་ དོན་"
 " དེ་ ཡིན་ གསུངས་ སོ །"
 msgstr ""
+"This is due to Guhyapati's request for the latter sacred commitment, and it "
+"is said that this is the meaning of the teachings."
 
 msgctxt "642eca1bc2964b2fb6cf93bb4e2cde1c"
 msgid ""
