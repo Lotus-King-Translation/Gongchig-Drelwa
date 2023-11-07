@@ -4089,6 +4089,8 @@ msgid ""
 "དགེ་ མི་དགེ་ ལུང་ མ་ བསྟན་ གང་ དུ་ མི་ གཏུབས་པ་␣འི་ ནམ་མཁའ་ ལྟ་བུ་ ཞིག་ ཡིན་"
 " ཟེར་ རོ །"
 msgstr ""
+"They said it is like the sky, which is not classified into virtue, non-"
+"virtue, or neutral."
 
 msgctxt "3db767d23da14eb7b7dd4a0cc521990b"
 msgid ""
