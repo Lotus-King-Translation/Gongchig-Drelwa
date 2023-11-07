@@ -3965,7 +3965,7 @@ msgstr "Bodhisattvas abandon the subtle."
 
 msgctxt "b069330caf844a43990100c59ab073b4"
 msgid "བྱང་སེམས་ ཀྱི་ སྡེ་སྣོད་ དུ་ ཞིབ་ ཏུ་ བཅས་ ཏེ་"
-msgstr "It is given detail in the bodhisattva pitaka that"
+msgstr "It is given in detail in the bodhisattva pitaka that"
 
 msgctxt "0fc6b11865864475a26761472e68a85e"
 msgid "གཞན་དོན་ ཁོ་ན་ ལ་␣ས་ རང་དོན་ སྐད་ཅིག་ ཙམ་ སྐྱེས་ ན་ ཉམས་པ་␣ར་ འགྱུར་བ་"
