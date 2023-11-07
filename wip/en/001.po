@@ -4046,7 +4046,7 @@ msgstr ""
 
 msgctxt "10886d458e4d47be91a3d762b82ad10d"
 msgid "དཔེར་ན་ རྒྱན་ གྱི་ ངོ་བོ་ གཅིག་ ལ་"
-msgstr ""
+msgstr "For example, in the single entity of an ornament"
 
 msgctxt "5329a711a3f44e2bb81360b550e272c3"
 msgid "འབངས་ དང་ བློན་པོ་ རྒྱལ་པོ་ གསུམ་ གྱིས་ སོ་སོ་␣ར་ བཏགས་ ན་"
