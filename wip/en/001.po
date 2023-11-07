@@ -4050,7 +4050,7 @@ msgstr "For example, in the single entity of an ornament"
 
 msgctxt "5329a711a3f44e2bb81360b550e272c3"
 msgid "འབངས་ དང་ བློན་པོ་ རྒྱལ་པོ་ གསུམ་ གྱིས་ སོ་སོ་␣ར་ བཏགས་ ན་"
-msgstr ""
+msgstr "If the king, ministers, and people each of them label it,"
 
 msgctxt "0388cdef82414702bbc97d8cdaca7e57"
 msgid "འདོགས་ མཁན་ དེ་␣འི་ དབང་ གིས་ གསུམ་ དུ་ འབྱུང་བ་ ལྟར །"
