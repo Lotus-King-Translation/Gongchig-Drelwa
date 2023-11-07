@@ -4004,6 +4004,8 @@ msgstr ""
 msgctxt "2eb31933e2be4d29b855b86ea6858a57"
 msgid "དེ་ གསུམ་ དུ་ འོང་བ་␣འི་ རྒྱུ་མཚན་ སྤང་བྱ་ དང༌ །"
 msgstr ""
+"The reason for the coming of these three is because the objects of "
+"abandonment,"
 
 msgctxt "eddc81ec0fde41438f1a2a70c8825bfd"
 msgid "བསྒྲུབ་བྱ་ དང་ ཐོབ་ བྱ་འབྲས་ བུ་ མི་མཐུན་པ་␣ས་"
