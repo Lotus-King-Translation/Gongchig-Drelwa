@@ -4033,7 +4033,7 @@ msgstr "In this [system], the ten non-virtues are to be abandoned "
 
 msgctxt "76300b8e71c14e93a6d4596ad3a58ad2"
 msgid "བསྒྲུབ་བྱ་ དགེ་བ་ བཅུ་ ཡིན་པ་␣ས་"
-msgstr ""
+msgstr "and the ten virtues are to be accomplished."
 
 msgctxt "12390aa7e4604ffb8a16d4cb0f7d70f9"
 msgid "ཐ་དད་ དུ་ བྱ་བ་ ཅུང་ཟད་ མེད་ དོ་␣༑ །"
