@@ -4054,7 +4054,7 @@ msgstr "If the king, ministers, and people each of them label it,"
 
 msgctxt "0388cdef82414702bbc97d8cdaca7e57"
 msgid "འདོགས་ མཁན་ དེ་␣འི་ དབང་ གིས་ གསུམ་ དུ་ འབྱུང་བ་ ལྟར །"
-msgstr ""
+msgstr "It emerges into three due to the designators."
 
 msgctxt "eb93a755497640fa9f3a9e48a88fd1ec"
 msgid "སྡོམ་པ་␣འི་ ངོ་བོ་ ཉམས་ སུ་ ལེན་ རྒྱུ་ལ་ ཁྱད་པར་ མེད་ ཀྱང་"
