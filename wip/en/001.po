@@ -3979,7 +3979,7 @@ msgstr "It is harder to protect than before."
 
 msgctxt "b77694febc7b47359d6409755ee97302"
 msgid "སྔགས་ ཀྱིས་ ཤིན་ཏུ་ ཕྲ་བ་␣འི་ བག་ཉལ་ སྤོང་བ་"
-msgstr ""
+msgstr "The mantra abandons the latent tendencies of the very subtle."
 
 msgctxt "b7d110ae3fa14b9c830ffb222bfdcc94"
 msgid "རྒྱུད་སྡེ་ རྣམས་ ལ་␣ས་ འབུམ་ སྡེ་ སོགས་ གསུངས་ ཤིང་"
