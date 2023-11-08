@@ -4097,6 +4097,8 @@ msgid ""
 "འདི་␣ར་ རང་བཞིན་ རྣམ་དག་ ལ་ བྲལ་ སྨིན་ འབྲས་བུ་␣འི་ ཡོན་ཏན་ དང་ ལྡན་པ་␣ར་ "
 "གྲུབ་ སྟེ །"
 msgstr ""
+"In this [system], it is established that the intrinsically pure nature "
+"possesses the resultant qualities of being freed and ripened."
 
 msgctxt "4fdb94eda7664b1ca3690e886aacf55a"
 msgid "ཉེས་པ་ བློ་བུར་བ་ ཡིན་པ་"
