@@ -4106,7 +4106,7 @@ msgstr "A fault is adventitious"
 
 msgctxt "c65ede216468460cbc9f0ed5b9edaac5"
 msgid "སྙིང་པོ་␣འི་ མདོ་␣ར་ དཔེ་ དགུ་␣ས་ བསྟན་པ་ དང་ ༈"
-msgstr ""
+msgstr "which is shown in the Essence Sutra using nine examples. "
 
 msgctxt "4e4d9b86c2bf4491863e40352cc2bfd1"
 msgid "ཕལ་པོ་ ཆེ་␣ར་ སྟོང་གསུམ་ དར་ཡུག་ གི་ དཔེ་ དང་ །"
