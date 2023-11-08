@@ -1344,7 +1344,8 @@ msgstr "Moreover, during the final wheel [of Dharma]"
 
 msgctxt "ddbae67fe98b475c934a3b606a06b7e4"
 msgid "སྔགས་ ཀྱི་ ས་ འོན་ བཞག་པ་ ལང་ཀ་␣ར་ གཤེགས་པ་ ལ་␣ས །"
-msgstr "placed the seed of the mantra. According to the Lankavatara [sutra]:"
+msgstr ""
+"placed the seed of the mantra. According to the Descent to Lanka [sutra]:"
 
 msgctxt "fde0116231be41929c6b7162af5b41ca"
 msgid "བློ་གྲོས་ ཆེན་པོ་ ས་མཐ་␣ར་ ཕྱིན ། །"
@@ -1887,7 +1888,7 @@ msgctxt "a7ba8bd9983d45a49fbc4f4877d04ffa"
 msgid "ཕྱི་མ་ ངེས་དོན་ ཏེ་ མཁའ་འགྲོ་ དྲྭ་བ་␣འི་ ལེའུ་ ལ་␣ས །"
 msgstr ""
 "The latter is the definitive meaning since, according to the Dakini Net "
-"chapter,"
+"chapter:"
 
 msgctxt "6e302ee23d6e439d8b09182a2cf26317"
 msgid "གལ་ཏེ་ སྟོང་པ་ ཐབས་ ཡིན་ ན །"
@@ -4154,7 +4155,7 @@ msgstr "And so on."
 
 msgctxt "432ae7fd8209432482f7f8ff602c63c9"
 msgid "དཔལ་ ཕྲེང་ གི་ མདོ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Glorious Garland Sutra,"
 
 msgctxt "49e1b3935822474a94ee1dd71be60882"
 msgid "དེ་བཞིན་ གཤེགས་པ་␣འི་ སྙིང་པོ་ ནི་ བྲལ་ ཤེས་པ །"
