@@ -4102,7 +4102,7 @@ msgstr ""
 
 msgctxt "4fdb94eda7664b1ca3690e886aacf55a"
 msgid "ཉེས་པ་ བློ་བུར་བ་ ཡིན་པ་"
-msgstr ""
+msgstr "The fault is adventitious."
 
 msgctxt "c65ede216468460cbc9f0ed5b9edaac5"
 msgid "སྙིང་པོ་␣འི་ མདོ་␣ར་ དཔེ་ དགུ་␣ས་ བསྟན་པ་ དང་ ༈"
