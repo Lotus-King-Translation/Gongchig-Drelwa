@@ -4159,7 +4159,7 @@ msgstr "According to the Glorious Garland Sutra:"
 
 msgctxt "49e1b3935822474a94ee1dd71be60882"
 msgid "དེ་བཞིན་ གཤེགས་པ་␣འི་ སྙིང་པོ་ ནི་ བྲལ་ ཤེས་པ །"
-msgstr "The tathagatagarbha is knowledge of separation,"
+msgstr "The tathagatagarbha knows separation,"
 
 msgctxt "bf3ad6042e81471ab2e7f5fc093a2475"
 msgid "དབྱེ་␣ར་ མེད་པ་ ཉོན་མོངས་པ་␣འི་ སྦུབས་ ཀྱིས་ སྟོང་པ །"
