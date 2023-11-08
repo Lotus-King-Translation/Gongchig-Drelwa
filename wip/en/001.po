@@ -2708,7 +2708,7 @@ msgstr "That is the only primordial wisdom of knowing of the Buddha. "
 
 msgctxt "f6a1848bc2f34603be3b58d2b4e77e1d"
 msgid "ཕུང་པོ་ གསུམ་པ་ ལ་␣ས །"
-msgstr "According to the [Sutra of the] Three Heaps,"
+msgstr "According to the [Sutra of the] Three Heaps:"
 
 msgctxt "1b75229d0ff24b93813273080787caff"
 msgid "ཡེ་ཤེས་ སུ་ གྱུར་པ །"
@@ -3044,7 +3044,7 @@ msgstr "Insider Tirthikas are those who are unaware of true reality."
 
 msgctxt "c7f8969079ea41dd8ac0ad1101d22017"
 msgid "དགེ་བ་␣འི་ རྩ་བ་ འཛིན་པ་␣འི་ མདོ་␣ར །"
-msgstr "According to the Upholding the Roots of Virtue Sutra,"
+msgstr "According to the Upholding the Roots of Virtue Sutra:"
 
 msgctxt "091ae9e492e24c21bc952cd1187f31e9"
 msgid ""
