@@ -4102,11 +4102,11 @@ msgstr ""
 
 msgctxt "4fdb94eda7664b1ca3690e886aacf55a"
 msgid "ཉེས་པ་ བློ་བུར་བ་ ཡིན་པ་"
-msgstr "A fault is adventitious"
+msgstr "The faults are adventitious"
 
 msgctxt "c65ede216468460cbc9f0ed5b9edaac5"
 msgid "སྙིང་པོ་␣འི་ མདོ་␣ར་ དཔེ་ དགུ་␣ས་ བསྟན་པ་ དང་ ༈"
-msgstr "which is shown in the Essence Sutra using nine examples. "
+msgstr "And there are shown in the Essence Sutra using nine examples. "
 
 msgctxt "4e4d9b86c2bf4491863e40352cc2bfd1"
 msgid "ཕལ་པོ་ ཆེ་␣ར་ སྟོང་གསུམ་ དར་ཡུག་ གི་ དཔེ་ དང་ །"
@@ -4121,34 +4121,36 @@ msgstr ""
 msgctxt "28760694d6a945e6ac6cc0a9923767eb"
 msgid "ཡོན་ཏན་ ཞི་ དུས་ ན་ ཇི་ལྟར་ ཡོད་པ་ མངོན་དུ་ བྱ་བ་␣ར་ གསུངས་  ཏེ་␣༑"
 msgstr ""
+"It is said that the good qualities present at the time of pacification will "
+"manifest in the same way."
 
 msgctxt "79cb505aad22475d893b3fee3c90098f"
 msgid "རྒྱུད་ བླ་␣ར །"
-msgstr ""
+msgstr "According to the Highest Continuum,"
 
 msgctxt "b41311077bc5452dbd49f827eec214cc"
 msgid "འདི་ ལ་ བསལ་ བྱ་ ཅི་ཡང་ མེད །"
-msgstr ""
+msgstr "There is nothing to eliminate here."
 
 msgctxt "422a93571bd546cc8cb1104daae38891"
 msgid "སོགས་ དང་ །"
-msgstr ""
+msgstr "And so on."
 
 msgctxt "779d28b556de4e9f90bc0ddf9513c8cd"
 msgid "ཉེས་པ་ བློ་བུར་ དང་ ལྡན་ དང་ །"
-msgstr ""
+msgstr "Possesses the faults that are adventitious."
 
 msgctxt "b14a479b42b544a5b1f3b05c9df011e6"
 msgid "སོགས་ དང་ །"
-msgstr ""
+msgstr "And so on."
 
 msgctxt "ad961c549941411a9158fb5f2f0c4aef"
 msgid "སེམས་ ཀྱི་ རང་བཞིན་ འོད་གསལ་ གང་ཡིན་པ །"
-msgstr ""
+msgstr "The intrinsic nature of the mind is luminosity."
 
 msgctxt "ad8df22950f2475aaa639a772874bfd8"
 msgid "སོགས་ དང༌ །"
-msgstr ""
+msgstr "And so on."
 
 msgctxt "432ae7fd8209432482f7f8ff602c63c9"
 msgid "དཔལ་ ཕྲེང་ གི་ མདོ་ ལ་␣ས །"
