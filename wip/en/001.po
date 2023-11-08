@@ -4163,7 +4163,7 @@ msgstr ""
 
 msgctxt "bf3ad6042e81471ab2e7f5fc093a2475"
 msgid "དབྱེ་␣ར་ མེད་པ་ ཉོན་མོངས་པ་␣འི་ སྦུབས་ ཀྱིས་ སྟོང་པ །"
-msgstr ""
+msgstr " Inseparable, empty of the sphere of the afflictions, "
 
 msgctxt "2f3feda26c2f4ae39ff7a09d415de67b"
 msgid "བྲལ་ མི་ ཤེས་པ་ རྣམ་པ་␣ར་ དབྱེ་␣ར་ མེད་པ་"
