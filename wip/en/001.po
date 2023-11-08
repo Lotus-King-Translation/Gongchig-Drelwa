@@ -4111,6 +4111,8 @@ msgstr "which is shown in the Essence Sutra using nine examples. "
 msgctxt "4e4d9b86c2bf4491863e40352cc2bfd1"
 msgid "ཕལ་པོ་ ཆེ་␣ར་ སྟོང་གསུམ་ དར་ཡུག་ གི་ དཔེ་ དང་ །"
 msgstr ""
+"In the Avatamsaka [Sutra], there is an example of three thousand bolts of "
+"silk."
 
 msgctxt "de33ac5a6b6e4c15b06549bd5cd86c10"
 msgid "གཟུང་ དབང་ ཞུས་ མདོ་␣ར་ ནོར་བུ་ སྦྱོང་བ་␣འི་ དཔེ་␣ས་ བསྟན་ ཏེ །"
