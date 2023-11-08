@@ -3159,7 +3159,7 @@ msgstr ""
 
 msgctxt "6352ccee8bf7417ba7ecd2e41f3e8fb0"
 msgid "ཏཱ་ལ་␣འི་ རྒྱུད་ ལ་␣ས །"
-msgstr "According to the Tantra of Tala,"
+msgstr "According to the Tantra of Tala:"
 
 msgctxt "79abf61dca7349e19f418d2361ff6e5e"
 msgid "དགེ་སློང་ དག་ གམ་ མཁས་ རྣམས་ ཀྱིས ། །"
@@ -3240,7 +3240,7 @@ msgstr "The wandering mendicants have no training in virtues."
 
 msgctxt "d90e7789343c4e84b9b92ada630c3ea4"
 msgid "ཅེས་ དང་ ཤེས་ སྤྲིང་ ལ་␣ས །"
-msgstr "And, according to A Letter to a Friend,"
+msgstr "And, according to A Letter to a Friend:"
 
 msgctxt "c2624a9571ca45139dcddfb2d133d234"
 msgid "གང་ཟག་ ལོག་པ་␣ར་ ལྟ་བ་␣འི་ ལེགས་བྱས་ ཀྱང་ །"
@@ -3530,7 +3530,7 @@ msgctxt "c04de8db0e404d929ae1dee3b937cceb"
 msgid "འདི་␣ར་ ནི་ དབང་ གིས་ ཡིན་ ཏེ་ འཇམ་དཔལ་ རྩ་རྒྱུད་ ལ་␣ས །"
 msgstr ""
 "In this [system], It is [differentiated] by empowerment because according to"
-" The Manjushri Root Tantra,"
+" The Manjushri Root Tantra:"
 
 msgctxt "6e10c0db553e44258656cb9d0ba0cd36"
 msgid "གང༌ཞིག་ དཀྱིལ་འཁོར་ མ་ མཐོང་བ་␣ར །"
@@ -3596,7 +3596,7 @@ msgstr ""
 
 msgctxt "0b3a22967036473280d28f6f7692a827"
 msgid "ཞུས་ ལན་ ཚིག་ བཅད་ མ་ལ་␣ས །"
-msgstr "According to the Question and Answer in Verses,"
+msgstr "According to the Question and Answer in Verses:"
 
 msgctxt "e1718955f7414bd7bd0442edfb087616"
 msgid "འདི་ ཡང་ སྟོན་པ་ ཉིད་ ཀྱི་ བཀའ །"
@@ -4127,7 +4127,7 @@ msgstr ""
 
 msgctxt "79cb505aad22475d893b3fee3c90098f"
 msgid "རྒྱུད་ བླ་␣ར །"
-msgstr "According to the Highest Continuum,"
+msgstr "According to the Highest Continuum:"
 
 msgctxt "b41311077bc5452dbd49f827eec214cc"
 msgid "འདི་ ལ་ བསལ་ བྱ་ ཅི་ཡང་ མེད །"
@@ -4155,7 +4155,7 @@ msgstr "And so on."
 
 msgctxt "432ae7fd8209432482f7f8ff602c63c9"
 msgid "དཔལ་ ཕྲེང་ གི་ མདོ་ ལ་␣ས །"
-msgstr "According to the Glorious Garland Sutra,"
+msgstr "According to the Glorious Garland Sutra:"
 
 msgctxt "49e1b3935822474a94ee1dd71be60882"
 msgid "དེ་བཞིན་ གཤེགས་པ་␣འི་ སྙིང་པོ་ ནི་ བྲལ་ ཤེས་པ །"
