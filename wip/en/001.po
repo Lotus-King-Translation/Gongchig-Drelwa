@@ -4211,7 +4211,7 @@ msgstr "Thus, it is said that they are the aspects of the result."
 
 msgctxt "7236f6beff524270bcb0650001f97df9"
 msgid "འགའ་ཞིག་ དེ་ གཉིས་ཀ་ ཡིན་ ཟེར །"
-msgstr "Some said that it is both. "
+msgstr "Some said that they are both. "
 
 msgctxt "a6c61eccc0bf408cb3098b17095062ab"
 msgid "འདི་␣ར་ ནི་ གཞི་ ལམ་ འབྲས་བུ་ གསུམ་ ཀར་ ཁམས་ ཡོན་ཏན་ དང་ ལྡན་པ་"
