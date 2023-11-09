@@ -4196,6 +4196,8 @@ msgstr ""
 msgctxt "164c3d34d96b4dda95ed81dbb4a679e8"
 msgid "རྡོ་␣༽༽་␣བྱང་ཕྱོགས་ སོ་ བདུན་ ལམ་ ཁོ་ན་␣འི་ ཆོས་ ཡིན་ ཟེར་བ་ དང༌ །"
 msgstr ""
+"Vajra: Some said that the thirty-seven factors harmonious with enlightenment"
+" are the aspects of the path only and "
 
 msgctxt "1ea69bfcc41d4beab3204791d033cf5c"
 msgid "འགའ་ཞིག་ སྡོམ་པ་␣ར་ ལུས་ དྲན་པ་ ཉེ་བར་ བཞག་ གི་ ཁྲོ་ མ་␣འོ །"
