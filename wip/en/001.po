@@ -4183,7 +4183,7 @@ msgstr "According to the Retainer of Non-discursive Thought:"
 
 msgctxt "f437b5f72d164b1eb08dde98cac00960"
 msgid "རང་ ཁྱིམ་ བྱི་ གཏོར་ དང་ འདྲ་བ་␣ར་ གསུངས་ སོ ། །"
-msgstr "As said it is as if a rat is scattering one's home. "
+msgstr "As said it is like a rat is scattering one's home. "
 
 msgctxt "f9508905d12a483482c93989842cda19"
 msgid ""
