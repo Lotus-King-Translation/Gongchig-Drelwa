@@ -4190,6 +4190,8 @@ msgid ""
 "དེ་ལྟར་ མིན་ ན་ མཐོང་ལམ་ མཐོང་ ནས་ དེ་ཡན་ བོག་ དབྱུང་ དུ་ མེད་པ་␣ར་ འགྱུར་ "
 "རོ ། །"
 msgstr ""
+"If it is not like this, [one] cannot expel above the Path of Seeing after "
+"seeing it."
 
 msgctxt "164c3d34d96b4dda95ed81dbb4a679e8"
 msgid "རྡོ་␣༽༽་␣བྱང་ཕྱོགས་ སོ་ བདུན་ ལམ་ ཁོ་ན་␣འི་ ཆོས་ ཡིན་ ཟེར་བ་ དང༌ །"
