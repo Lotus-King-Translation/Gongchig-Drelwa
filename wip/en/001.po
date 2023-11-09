@@ -4174,6 +4174,8 @@ msgid ""
 "སངས་རྒྱས་ ཀྱི་ ཆོས་ གངྒཱའི་ ཀླུང་ གི་ བྱེ་མ་ སྙེད་ འདས་པ་␣འི་ ཡོན་ དང་ "
 "ལྡན་པ་␣འོ ། །"
 msgstr ""
+"Buddha's aspects are beyond as many as there are grains of sand in the river"
+" Ganges, and [he is ] endowed with all good qualities."
 
 msgctxt "08b86095f5164fad81f056f4b1dd326e"
 msgid "ཞིང་ རྣམ་པ་␣ར་ མི་ རྟོག་པ་␣འི་ གཟུངས་ ལ་␣ས་"
