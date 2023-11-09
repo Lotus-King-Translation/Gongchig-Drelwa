@@ -4167,7 +4167,7 @@ msgstr "Inseparable, empty of the sphere of the afflictions, "
 
 msgctxt "2f3feda26c2f4ae39ff7a09d415de67b"
 msgid "བྲལ་ མི་ ཤེས་པ་ རྣམ་པ་␣ར་ དབྱེ་␣ར་ མེད་པ་"
-msgstr ""
+msgstr "That which is not freed and indivisible."
 
 msgctxt "80cd1a0d6a194f7d8f85ebef743b76b4"
 msgid ""
