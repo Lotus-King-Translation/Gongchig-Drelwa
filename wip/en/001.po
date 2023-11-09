@@ -4202,6 +4202,8 @@ msgstr ""
 msgctxt "1ea69bfcc41d4beab3204791d033cf5c"
 msgid "འགའ་ཞིག་ སྡོམ་པ་␣ར་ ལུས་ དྲན་པ་ ཉེ་བར་ བཞག་ གི་ ཁྲོ་ མ་␣འོ །"
 msgstr ""
+"The wrathful female deity of the close placement of mindfulness of the body "
+"in the vows."
 
 msgctxt "2f437ea839c34fa7aec5f6bf41613d10"
 msgid "ཞེས་པ་␣ས་ འབྲས་བུ་␣འི་ ཆོས་ ཡིན་ ཟེར་"
