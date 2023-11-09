@@ -4216,6 +4216,8 @@ msgstr "Some said that they are both. "
 msgctxt "a6c61eccc0bf408cb3098b17095062ab"
 msgid "འདི་␣ར་ ནི་ གཞི་ ལམ་ འབྲས་བུ་ གསུམ་ ཀར་ ཁམས་ ཡོན་ཏན་ དང་ ལྡན་པ་"
 msgstr ""
+"In this [system], the ground, path, and result are endowed with good "
+"qualities of the realm."
 
 msgctxt "b188d26593b64a80a3d807e004479840"
 msgid "དེ་ཉིད་ དང་ དབྱེ་␣ར་ མེད་པ་␣ར་ ཡོད་ དེ །"
