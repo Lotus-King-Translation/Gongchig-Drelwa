@@ -4179,7 +4179,7 @@ msgstr ""
 
 msgctxt "08b86095f5164fad81f056f4b1dd326e"
 msgid "ཞིང་ རྣམ་པ་␣ར་ མི་ རྟོག་པ་␣འི་ གཟུངས་ ལ་␣ས་"
-msgstr ""
+msgstr "According to the Retainer of Non-discursive Thought:"
 
 msgctxt "f437b5f72d164b1eb08dde98cac00960"
 msgid "རང་ ཁྱིམ་ བྱི་ གཏོར་ དང་ འདྲ་བ་␣ར་ གསུངས་ སོ ། །"
