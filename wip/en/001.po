@@ -4237,7 +4237,7 @@ msgstr "Phenomena are completely pure."
 
 msgctxt "02534cb07ecf49909420749d7f1e682f"
 msgid "ཞེས་པ་ དང༌ །"
-msgstr ""
+msgstr "As said and."
 
 msgctxt "933531b3e661434bbbaaee5f7b9c88e8"
 msgid "འབྲས་བུ་␣འི་ ཆོས་ ཐམས་ཅད་ གཞི་ ལ་ ཡོད་པ་ མངོན་དུ་ བྱས་པ་␣ར་ གསུངས་ ན་"
