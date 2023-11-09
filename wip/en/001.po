@@ -4229,7 +4229,7 @@ msgstr ""
 
 msgctxt "4e25abcb52a44f50adce78931b2fb96d"
 msgid "བྱང་ཆུབ་ ཕྱོགས་ ནི་ སུམ་ཅུ་ བདུན ། །"
-msgstr ""
+msgstr "The thirty-seven factors that lead to enlightenment."
 
 msgctxt "c0984c85bddd4a41b63413720fd662ca"
 msgid "ཆོས་ ཀྱི་ རྣམ་པ་␣ར་ དག་པ་ ཡིན །"
