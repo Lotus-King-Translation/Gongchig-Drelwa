@@ -4233,7 +4233,7 @@ msgstr "The thirty-seven factors that lead to enlightenment."
 
 msgctxt "c0984c85bddd4a41b63413720fd662ca"
 msgid "ཆོས་ ཀྱི་ རྣམ་པ་␣ར་ དག་པ་ ཡིན །"
-msgstr ""
+msgstr "Phenomena are completely purified."
 
 msgctxt "02534cb07ecf49909420749d7f1e682f"
 msgid "ཞེས་པ་ དང༌ །"
