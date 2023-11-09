@@ -4221,7 +4221,7 @@ msgstr ""
 
 msgctxt "b188d26593b64a80a3d807e004479840"
 msgid "དེ་ཉིད་ དང་ དབྱེ་␣ར་ མེད་པ་␣ར་ ཡོད་ དེ །"
-msgstr ""
+msgstr "They are inseparable from it."
 
 msgctxt "1a95f4bd2aac4ad682328725544cda99"
 msgid "དེ་␣ས་ བརྗོད་ བླ་མ་ ལ་␣ས །"
