@@ -4441,15 +4441,15 @@ msgstr "According to the Highest Continuum:"
 
 msgctxt "3b16f4e12b8a47f0a6639fc1ddfd4e8a"
 msgid "རྫོགས་ སངས་ སྐུ་ ནི་ འཕྲོ་ ཕྱིར་ དང་ །"
-msgstr ""
+msgstr "The body of the Complete Buddha is the radiance and "
 
 msgctxt "ff973bc66c644d18b39c89ff9cd91946"
 msgid "སོགསདང་ །"
-msgstr ""
+msgstr "And so on."
 
 msgctxt "6931879c64614ff99cc5b505be75dc87"
 msgid "ཟླ་ སྒྲོན་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Moon Lamp sutra:"
 
 msgctxt "a9ee0a2762da4558a76af4f466e05ff3"
 msgid "བདེ་གཤེགས་ སྙིང་པོ་␣ས་ འགྲོ་ ཀུན་ ཡོངས་ ལ་ ཁྱབ །"
