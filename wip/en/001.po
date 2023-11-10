@@ -4380,7 +4380,7 @@ msgstr "Obtained victory through the power of loving-kindness."
 
 msgctxt "8273ee147c954d71b45bab7932d95cc8"
 msgid "ཞེས་པ་␣ས་ སངས་རྒྱས་ ཀྱི་ ངོ་བོ་ དེ་ བཞི་པོ་ ཉིད་ དོ །"
-msgstr ""
+msgstr "Thus, these are the four essences of the Buddha."
 
 msgctxt "6bbad09c97e241dd8f2573ae711f87d7"
 msgid "རྡོ་␣༽༽  གཞན་ འདོད་ ནི །"
