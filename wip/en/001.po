@@ -4469,7 +4469,7 @@ msgstr "The suchness of the past and the suchness of what is yet to come,"
 
 msgctxt "88736fe8454d4248a85f7b1ec583f2aa"
 msgid "སོཊ་ དང །"
-msgstr ""
+msgstr "And so on."
 
 msgctxt "af77cd60a65248ffa3b7c5cf4b36b79e"
 msgid "མངོན་ རྒྱན་ ལ་␣ས །"
