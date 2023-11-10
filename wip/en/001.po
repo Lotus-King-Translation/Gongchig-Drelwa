@@ -4332,6 +4332,8 @@ msgid ""
 "རྡོ་␣༽༽  ཞི་གནས་ ཀྱི་ གཞི་མ་ ཚད་ མེད་ རྣམ་ བཞི་␣འམ་ ཚང་ གནས་ བཞི་␣ས་ "
 "ཚངས་པ་␣འི་ རྒྱལ་པོ་ ཐོབ་ ཕྱིར་"
 msgstr ""
+"Vajra: The basis of calm abiding is the four immeasurables, or four abodes, "
+"which bring the attainment of the king of Brahma."
 
 msgctxt "fabf92c1e3194ff69f6b45e63be9ae16"
 msgid "འཇིག་རྟེན་པ་␣འི་ ལམ་ ཡིན་ ཟེར །"
