@@ -4337,7 +4337,7 @@ msgstr ""
 
 msgctxt "fabf92c1e3194ff69f6b45e63be9ae16"
 msgid "འཇིག་རྟེན་པ་␣འི་ ལམ་ ཡིན་ ཟེར །"
-msgstr ""
+msgstr "It is said to be a worldly path."
 
 msgctxt "1e1c10dfe3354637bf9eef73fd5d25c5"
 msgid "འདི་␣ར་ ནི་ དེ་␣འང་ གཞི་␣ར་ ཡོད་པ་"
