@@ -4413,6 +4413,7 @@ msgstr "The vehicle of the gods and the vehicle of Brahma."
 msgctxt "28994520e0d043f7b5f76ebae9b6a4ee"
 msgid "ཅེས་པ་␣ས་ ལམ་ ཐ་དད་པ་␣ས་ འབྲས་བུ་␣འང་ ཐ་དད་ ཟེར །"
 msgstr ""
+"Thus, since the paths are distinct, the results are likewise distinct. "
 
 msgctxt "2d455558a86d438284df5373f143915d"
 msgid "འདི་␣ར་ ནི་ ཡང་དག་པ་␣ར་ ངེས་པ་ ནི་ ཐེག་ གསུམ །"
