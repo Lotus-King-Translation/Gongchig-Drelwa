@@ -4384,7 +4384,7 @@ msgstr "Thus, these are the four essences of the Buddha."
 
 msgctxt "6bbad09c97e241dd8f2573ae711f87d7"
 msgid "རྡོ་␣༽༽  གཞན་ འདོད་ ནི །"
-msgstr ""
+msgstr "Vajra: Others accept that,"
 
 msgctxt "7fe597ce59dd44538b65d388cb215fd1"
 msgid "རིགས་ ནི་ ངེས་ དང་ མ་ ངེས་ དང༌ ། །"
