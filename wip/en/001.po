@@ -4288,7 +4288,8 @@ msgstr ""
 
 msgctxt "ebd3d90137d242f5904ad3ae8f292f84"
 msgid "སངས་རྒྱས་ མ་ ཐོབ་ བར་ དུ་ ཚོགས་ གཉིས་ བསགས་ དགོས་པ་ དང༌ །"
-msgstr "The two accumulations must be gathered till one attains buddhahood."
+msgstr ""
+"The two accumulations must be gathered till one attains buddhahood and"
 
 msgctxt "ff8f88b97720448a9a22ce873ba92cfb"
 msgid "ཚོགས་ལམ་ གྱི་ དྲན་པ་ ཉེར་ བཞག་ དེ་"
