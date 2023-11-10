@@ -4425,7 +4425,7 @@ msgstr "Certain to wrong [view], the greedy [one],"
 
 msgctxt "e1f486f18ff54b9a95e82eb2b9dd28ce"
 msgid "མ་ངེས་པ་ གཅིག་ ཏུ་ མ་ མཆོད་པ་ གསུམ་ ལ་␣ས །"
-msgstr ""
+msgstr "The one who is uncertain, from these three who do not worship."
 
 msgctxt "719c37650b974a95b6f1d406772f1d53"
 msgid ""
