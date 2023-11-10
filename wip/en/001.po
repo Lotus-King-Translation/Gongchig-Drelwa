@@ -4352,6 +4352,7 @@ msgctxt "10b9e66edd894cff96f30e54bf54415e"
 msgid ""
 "སྔགས་ སུ་␣འང་ གཞན་ ལ་ ཕན་པ་␣འི་ སེམས་ ནི་ བྱམས་པ་ ཡིན་ ཞེས་ སོགས་ དང༌ །"
 msgstr ""
+"In the Mantra as well, the mind that benefits others is loving-kindness."
 
 msgctxt "7ce1a2b3a58745b5b005ffc080790a08"
 msgid "འབྲས་བུ་␣འི་ སྐབས་ ན་␣འང་"
