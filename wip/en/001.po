@@ -4453,11 +4453,11 @@ msgstr "According to the Moon Lamp sutra:"
 
 msgctxt "a9ee0a2762da4558a76af4f466e05ff3"
 msgid "བདེ་གཤེགས་ སྙིང་པོ་␣ས་ འགྲོ་ ཀུན་ ཡོངས་ ལ་ ཁྱབ །"
-msgstr ""
+msgstr "The sugatagarbha pervades all beings."
 
 msgctxt "d980be8ef2f145378571878775cd5cd0"
 msgid "སོཌ་ དང་ །"
-msgstr ""
+msgstr "And so on."
 
 msgctxt "cdcd5c2b28e8430fbcebace2b0befb85"
 msgid "བསྡུས་པ་ ལ་␣ས །"
