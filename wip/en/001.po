@@ -4372,7 +4372,7 @@ msgstr "For the sake of what with the ten powers"
 
 msgctxt "12ac27572c774ee5a1c8f999e163b2b1"
 msgid "སེམས་ཅན་ རྣམས་ ལ་ བསྒོམ་པ་ ཡིན ། །"
-msgstr "Cultivated for sentient beings."
+msgstr "Cultivated for all sentient beings."
 
 msgctxt "02255fd99ca147dbaa2a883ea7903c50"
 msgid "བྱམས་པ་␣འི་ སྟོབས་ ཀྱི་ རྒྱལ་ གྱུར་པ །"
