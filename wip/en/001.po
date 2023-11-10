@@ -4253,7 +4253,7 @@ msgid ""
 "མདོ་སྡེ་␣ར་ སངས་རྒྱས་ ལ་ བྱང་ཆུབ་ ཀྱི་ ཡན་ལག་ བདུན་ གྱིས་ ཕྱུག་པ་␣ར་ "
 "གསུངས་པ་␣ས་"
 msgstr ""
-"The sutra sections say that the Buddha is rich in the seven limbs of "
+"The sutra section says that the Buddha is rich in the seven limbs of "
 "enlightenment."
 
 msgctxt "59925ceca55542c6b6357cb77f711003"
