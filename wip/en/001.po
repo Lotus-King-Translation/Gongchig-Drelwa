@@ -4341,7 +4341,7 @@ msgstr "It is said to be a worldly path."
 
 msgctxt "1e1c10dfe3354637bf9eef73fd5d25c5"
 msgid "འདི་␣ར་ ནི་ དེ་␣འང་ གཞི་␣ར་ ཡོད་པ་"
-msgstr ""
+msgstr "In this [system], this also has a basis."
 
 msgctxt "d02d93da99d3467890b93dc8d70b3302"
 msgid "ལམ་ དུ་ བྱེད་པ་ ངེས་དོན་ འཁོར་ལོ་␣ར་ མ་ཟད་"
