@@ -4316,6 +4316,8 @@ msgstr "On the final path, it is unimpaired mindfulness. "
 msgctxt "41b728f437844d60b234c9cb4e4504fa"
 msgid "དྲན་པ་␣ས་ དབང་ བསྐུར་ དྲན་པ་␣ས་ མ་ འདྲེས་པ་ གསུམ་ དུ་ འབྱུང་བ་"
 msgstr ""
+"Bestowed empowerment through mindfulness, the emergence of three "
+"distinctions through mindfulness."
 
 msgctxt "056808eeff2347c2838ddca3106d70a9"
 msgid ""
