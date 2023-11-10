@@ -4404,7 +4404,7 @@ msgstr "Thus, the types of causes are different."
 
 msgctxt "dbb49ffbb779491494b162f68b3b3a46"
 msgid "ལང་ གཤེགས་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Descent to Lanka Sutra:"
 
 msgctxt "93f1809aa45e4bb3ac17280482863a72"
 msgid "ལྷ་ ཡི་ ཐེག་ དང་ ཚངས་པ་␣འི་ ཐེག་ སོགས །"
