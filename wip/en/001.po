@@ -4311,7 +4311,7 @@ msgstr "On the path of cultivation, it is authentic mindfulness."
 
 msgctxt "db1723f0f46c42669ca187ba943307c8"
 msgid "མཐ་␣ར་ ཕྱིན་ ལམ་ དུ་ དྲན་པ་ ཉམས་ མེད །"
-msgstr ""
+msgstr "On the final path, it is unimpaired mindfulness. "
 
 msgctxt "41b728f437844d60b234c9cb4e4504fa"
 msgid "དྲན་པ་␣ས་ དབང་ བསྐུར་ དྲན་པ་␣ས་ མ་ འདྲེས་པ་ གསུམ་ དུ་ འབྱུང་བ་"
