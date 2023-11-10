@@ -4437,7 +4437,7 @@ msgstr ""
 
 msgctxt "280359df36ae42d59c56fc93f049808f"
 msgid "རྒྱུད་ བླ་␣ར །"
-msgstr ""
+msgstr "According to the Highest Continuum:"
 
 msgctxt "3b16f4e12b8a47f0a6639fc1ddfd4e8a"
 msgid "རྫོགས་ སངས་ སྐུ་ ནི་ འཕྲོ་ ཕྱིར་ དང་ །"
