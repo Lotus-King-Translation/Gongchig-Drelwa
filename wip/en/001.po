@@ -4465,7 +4465,7 @@ msgstr "According to the Summarized [sutra]:"
 
 msgctxt "1441c9cf5f82485eaa2ee03075e1705b"
 msgid "འདས་པ་␣འི་ དེ་བཞིན་ཉིད་ གང་ མ་ བྱོན་ དེ་བཞིན་ཉིད །"
-msgstr ""
+msgstr "The suchness of the past and the suchness of what is yet to come,"
 
 msgctxt "88736fe8454d4248a85f7b1ec583f2aa"
 msgid "སོཊ་ དང །"
