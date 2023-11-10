@@ -4297,7 +4297,7 @@ msgstr "The application of mindfulness on the path of accumulation is "
 
 msgctxt "8f152d07b61247359a9de94e2d7b24c9"
 msgid "སྦྱོར་ལམ་ དུ་ དྲན་དབང་ དྲན་ སྟོབས་"
-msgstr ""
+msgstr "The power of mindfulness of the path of connection."
 
 msgctxt "3338afdb454042659da43d9d683714c4"
 msgid "མཐོང་ལམ་ དུ་ དྲན་པ་ ཡང་དག་ བྱང་ཆུབ་ ཀྱི་ ཡན་ལག་"
