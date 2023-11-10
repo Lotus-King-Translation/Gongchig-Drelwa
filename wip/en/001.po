@@ -4432,6 +4432,8 @@ msgid ""
 "ལོག་ སྲེད་ ཅན་ ལྷ་ སྦྱིན་ དང་ ལེགས་ སྐར་ ལྟ་བུ་␣ར་ ཡང་ དཀར་བ་␣འི་ ས་བོན་ "
 "ཡོད་ དེ །"
 msgstr ""
+"Even Devadatta and Sunaksatra who hold the wrong views and cravings have "
+"white seeds because"
 
 msgctxt "280359df36ae42d59c56fc93f049808f"
 msgid "རྒྱུད་ བླ་␣ར །"
