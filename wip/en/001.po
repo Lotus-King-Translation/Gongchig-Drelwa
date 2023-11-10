@@ -4356,7 +4356,7 @@ msgstr ""
 
 msgctxt "7ce1a2b3a58745b5b005ffc080790a08"
 msgid "འབྲས་བུ་␣འི་ སྐབས་ ན་␣འང་"
-msgstr ""
+msgstr "At the time of the result,"
 
 msgctxt "9d2e60ce23af4ff78cf6a435c4d14d16"
 msgid "དེ་དག་ གི་ ངོ་བོ་␣ར་ སངས་རྒྱས་པ་␣ར་ གསུངས་ ཏེ །"
