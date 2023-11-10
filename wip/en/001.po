@@ -4392,7 +4392,7 @@ msgstr "The lineage is certain or uncertain and"
 
 msgctxt "517fe1c1f8a1492a9733fbc87edbb565"
 msgid "རྐྱེན་ རྣམས་ ཀྱིས་ ནི་ མི་ འཕྲོག་ དང །"
-msgstr ""
+msgstr "It will not be stolen by conditions and"
 
 msgctxt "583da95493414b79a6d35a0b0dc1aa55"
 msgid "འཕྲོག་མ་ ཉིད་ དེ་ སོཊ །"
