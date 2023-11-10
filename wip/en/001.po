@@ -4417,7 +4417,7 @@ msgstr ""
 
 msgctxt "2d455558a86d438284df5373f143915d"
 msgid "འདི་␣ར་ ནི་ ཡང་དག་པ་␣ར་ ངེས་པ་ ནི་ ཐེག་ གསུམ །"
-msgstr ""
+msgstr "In this [system],  the three vehicles are genuinely certain. "
 
 msgctxt "2eaad7b931374b2b8a99a364d6786316"
 msgid "ལོག་པ་␣ར་ ངེས་པ་ འདོད་ ཆེན་པ །"
