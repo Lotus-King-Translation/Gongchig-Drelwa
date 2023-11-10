@@ -4376,7 +4376,7 @@ msgstr "Cultivated for all sentient beings."
 
 msgctxt "02255fd99ca147dbaa2a883ea7903c50"
 msgid "བྱམས་པ་␣འི་ སྟོབས་ ཀྱི་ རྒྱལ་ གྱུར་པ །"
-msgstr ""
+msgstr "Obtained victory through the power of loving-kindness."
 
 msgctxt "8273ee147c954d71b45bab7932d95cc8"
 msgid "ཞེས་པ་␣ས་ སངས་རྒྱས་ ཀྱི་ ངོ་བོ་ དེ་ བཞི་པོ་ ཉིད་ དོ །"
