@@ -4368,7 +4368,7 @@ msgstr "According to the Extensive Sport [Sutra]:"
 
 msgctxt "1ef91fe9a3544583b8d80db5720f23de"
 msgid "གང་ གི་ དོན་ སྟོབས་ བཅུ་པོ་ ལ ། །"
-msgstr ""
+msgstr "For the sake of what with the ten powers"
 
 msgctxt "12ac27572c774ee5a1c8f999e163b2b1"
 msgid "སེམས་ཅན་ རྣམས་ ལ་ བསྒོམ་པ་ ཡིན ། །"
