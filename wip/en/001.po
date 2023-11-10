@@ -4242,6 +4242,7 @@ msgstr "As said and."
 msgctxt "933531b3e661434bbbaaee5f7b9c88e8"
 msgid "འབྲས་བུ་␣འི་ ཆོས་ ཐམས་ཅད་ གཞི་ ལ་ ཡོད་པ་ མངོན་དུ་ བྱས་པ་␣ར་ གསུངས་ ན་"
 msgstr ""
+"If it says that all the aspects of the result in the ground are manifested."
 
 msgctxt "a923f897cf524c1f8a56f665aa9f2349"
 msgid "ཀུན་སྤྱོད་ སྡོམ་པ་ ལྷ་ སོ་ བདུན་ དུ་ གསུངས་པ་ དང༌ །"
