@@ -4388,7 +4388,7 @@ msgstr "Vajra: Others accept that,"
 
 msgctxt "7fe597ce59dd44538b65d388cb215fd1"
 msgid "རིགས་ ནི་ ངེས་ དང་ མ་ ངེས་ དང༌ ། །"
-msgstr "The lineage is certain or uncertain and"
+msgstr "The kind is certain or uncertain and"
 
 msgctxt "517fe1c1f8a1492a9733fbc87edbb565"
 msgid "རྐྱེན་ རྣམས་ ཀྱིས་ ནི་ མི་ འཕྲོག་ དང །"
