@@ -4461,7 +4461,7 @@ msgstr "And so on."
 
 msgctxt "cdcd5c2b28e8430fbcebace2b0befb85"
 msgid "བསྡུས་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Summarized [sutra]:"
 
 msgctxt "1441c9cf5f82485eaa2ee03075e1705b"
 msgid "འདས་པ་␣འི་ དེ་བཞིན་ཉིད་ གང་ མ་ བྱོན་ དེ་བཞིན་ཉིད །"
