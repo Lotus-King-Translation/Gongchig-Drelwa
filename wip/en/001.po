@@ -4408,7 +4408,7 @@ msgstr "According to the Descent to Lanka Sutra:"
 
 msgctxt "93f1809aa45e4bb3ac17280482863a72"
 msgid "ལྷ་ ཡི་ ཐེག་ དང་ ཚངས་པ་␣འི་ ཐེག་ སོགས །"
-msgstr ""
+msgstr "The vehicle of the gods and the vehicle of Brahma."
 
 msgctxt "28994520e0d043f7b5f76ebae9b6a4ee"
 msgid "ཅེས་པ་␣ས་ ལམ་ ཐ་དད་པ་␣ས་ འབྲས་བུ་␣འང་ ཐ་དད་ ཟེར །"
