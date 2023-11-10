@@ -4246,7 +4246,7 @@ msgstr ""
 
 msgctxt "a923f897cf524c1f8a56f665aa9f2349"
 msgid "ཀུན་སྤྱོད་ སྡོམ་པ་ ལྷ་ སོ་ བདུན་ དུ་ གསུངས་པ་ དང༌ །"
-msgstr ""
+msgstr "It is said that the vows of conduct are thirty-seven deities and "
 
 msgctxt "5f225c86ea6d41029771fe3698341323"
 msgid ""
