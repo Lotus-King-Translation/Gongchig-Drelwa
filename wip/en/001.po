@@ -4400,7 +4400,7 @@ msgstr "That which is stolen and so on."
 
 msgctxt "d93df24866544d7aa2eb4bc4d6e0a742"
 msgid "ཅེས་པ་␣ས་ རྒྱུ་ རིགས་ ཐ་དད །"
-msgstr ""
+msgstr "Thus, the types of causes are different."
 
 msgctxt "dbb49ffbb779491494b162f68b3b3a46"
 msgid "ལང་ གཤེགས་ ལ་␣ས །"
