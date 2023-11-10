@@ -4307,7 +4307,7 @@ msgstr ""
 
 msgctxt "0a259e3cf3174b3398104e0e7a4030fb"
 msgid "བསྒོམ་ ལམ་ དུ་ ཡང་དག་པ་␣འི་ དྲན་པ་"
-msgstr ""
+msgstr "On the path of cultivation, it is authentic mindfulness."
 
 msgctxt "db1723f0f46c42669ca187ba943307c8"
 msgid "མཐ་␣ར་ ཕྱིན་ ལམ་ དུ་ དྲན་པ་ ཉམས་ མེད །"
