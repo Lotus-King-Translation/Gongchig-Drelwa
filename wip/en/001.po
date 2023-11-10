@@ -4481,7 +4481,7 @@ msgstr "Because the shape of the dharmas has no divisions"
 
 msgctxt "022265522575430ab38c74421c112a97"
 msgid "རིགས་ ནི་ ཐ་དད་ རུང་ མ་ ཡིན །"
-msgstr ""
+msgstr "The distinct kind is not suitable."
 
 msgctxt "d6d7dcaa8167477baae6f55892273adf"
 msgid "ཞེས་པ་␣ས་ རིགས་ གཅིག  །"
