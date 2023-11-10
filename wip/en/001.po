@@ -4265,6 +4265,8 @@ msgstr ""
 msgctxt "99c2c27742754a94a7a18651e7d11172"
 msgid "ལྷན་␣༽༽  བྱང་ཕྱོགས་ སོ་ བདུན་ གནས་སྐབས་ བདུན་ དུ་ གསུངས་པ་"
 msgstr ""
+"Addendum: The thirty-seven factors harmonious with enlightenment are taught "
+"in seven [sections] on this occasion."
 
 msgctxt "1e5923449b7e440e8656967e3be409c9"
 msgid "ལམ་ གྱི་ ཆོས་ མིན་ གྱི་ སངས་རྒྱས་ ཀྱི་ ས་ ནི་ དེ་␣འི་ ཕ་རོལ་ ན་ ཡོད །"
