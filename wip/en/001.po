@@ -4284,7 +4284,7 @@ msgid ""
 "ཏེ །"
 msgstr ""
 "In this [system], one traverses the three paths of accumulation in essence "
-"up to the ultimate ground."
+"up to the ultimate ground because"
 
 msgctxt "ebd3d90137d242f5904ad3ae8f292f84"
 msgid "སངས་རྒྱས་ མ་ ཐོབ་ བར་ དུ་ ཚོགས་ གཉིས་ བསགས་ དགོས་པ་ དང༌ །"
