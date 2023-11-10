@@ -4360,7 +4360,7 @@ msgstr "At the time of the result,"
 
 msgctxt "9d2e60ce23af4ff78cf6a435c4d14d16"
 msgid "དེ་དག་ གི་ ངོ་བོ་␣ར་ སངས་རྒྱས་པ་␣ར་ གསུངས་ ཏེ །"
-msgstr ""
+msgstr "It is said that one enlightens to buddhahood in their essence."
 
 msgctxt "907023365cc14d499ef5b6dcc5deea77"
 msgid "རྒྱ་ ཆེ་␣ར་ རོལ་པ་ ལ་␣ས །"
