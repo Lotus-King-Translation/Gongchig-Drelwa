@@ -4485,7 +4485,7 @@ msgstr "The distinct kind is not suitable."
 
 msgctxt "d6d7dcaa8167477baae6f55892273adf"
 msgid "ཞེས་པ་␣ས་ རིགས་ གཅིག  །"
-msgstr ""
+msgstr "Thus, it is the same kind."
 
 msgctxt "b29f8d742d7d4f9a8ea77ca8f8ad3cab"
 msgid "སངས་རྒྱས་ རྣམས་ སེམས་ སྐྱེད་པ་ ནས་ བཟུང་"
