@@ -4477,7 +4477,7 @@ msgstr "According to The Ornament of Manifest Realization:"
 
 msgctxt "21889c043e1143b6a4e65586310fb080"
 msgid "ཆོས་ ཀྱི་ དབྱིབས་ ལ་ དབྱེ་␣ར་ མེད་ ཕྱིར ། །"
-msgstr ""
+msgstr "Because the shape of the dharmas has no divisions"
 
 msgctxt "022265522575430ab38c74421c112a97"
 msgid "རིགས་ ནི་ ཐ་དད་ རུང་ མ་ ཡིན །"
