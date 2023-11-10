@@ -423,7 +423,7 @@ msgstr ""
 
 msgctxt "c2eed4e74c2c4379bc4520789470eb72"
 msgid "ཆོས་ ཀུན་ རྣམ་པ་␣ར་ དག་པ་␣འི་ ངོ་བོ་ སངས་རྒྱས་པ་␣ས་"
-msgstr "The completely pure essence of all phenomena,"
+msgstr "The Buddha is the completely pure essence of all phenomena,"
 
 msgctxt "e9d2ce430f484f268869d68a28356f19"
 msgid "ཕྱྭ་ དང་ དབང་ཕྱུག་ ལྟར་ བྱེད་པོ་ མིན་པ་ དང༌ །"
