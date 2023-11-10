@@ -4324,6 +4324,8 @@ msgid ""
 "དེ་ རིམ་བཞིན་ སངས་རྒྱས་ ཀྱི་ མ་ འདྲེས་པ་ དང་ སྐབས་ བརྒྱད་ ཀྱི་ རྣམ་མཁྱེན་ "
 "དང་ བྲལ་བ་␣འི་ ཡོན་ཏན་ ཡིན་པ་␣འི་ ཕྱིར་ རོ །"
 msgstr ""
+"Progressively, the distinct [qualities] of a buddha, omniscience of the "
+"eight parts, and good qualities of to be freed."
 
 msgctxt "147b022eac3e4d9ab3c3fade57e88cbb"
 msgid ""
