@@ -4396,7 +4396,7 @@ msgstr "It will not be stolen by conditions and"
 
 msgctxt "583da95493414b79a6d35a0b0dc1aa55"
 msgid "འཕྲོག་མ་ ཉིད་ དེ་ སོཊ །"
-msgstr ""
+msgstr "That which is stolen and so on."
 
 msgctxt "d93df24866544d7aa2eb4bc4d6e0a742"
 msgid "ཅེས་པ་␣ས་ རྒྱུ་ རིགས་ ཐ་དད །"
