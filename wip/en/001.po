@@ -4473,7 +4473,7 @@ msgstr "And so on."
 
 msgctxt "af77cd60a65248ffa3b7c5cf4b36b79e"
 msgid "མངོན་ རྒྱན་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The Ornament of Manifest Realization:"
 
 msgctxt "21889c043e1143b6a4e65586310fb080"
 msgid "ཆོས་ ཀྱི་ དབྱིབས་ ལ་ དབྱེ་␣ར་ མེད་ ཕྱིར ། །"
