@@ -4302,6 +4302,8 @@ msgstr "The power of mindfulness of the path of connection."
 msgctxt "3338afdb454042659da43d9d683714c4"
 msgid "མཐོང་ལམ་ དུ་ དྲན་པ་ ཡང་དག་ བྱང་ཆུབ་ ཀྱི་ ཡན་ལག་"
 msgstr ""
+"On the path of seeing, it becomes the enlightenment limb of authentic "
+"mindfulness."
 
 msgctxt "0a259e3cf3174b3398104e0e7a4030fb"
 msgid "བསྒོམ་ ལམ་ དུ་ ཡང་དག་པ་␣འི་ དྲན་པ་"
