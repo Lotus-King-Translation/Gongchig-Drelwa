@@ -4421,7 +4421,7 @@ msgstr "In this [system],  the three vehicles are genuinely certain. "
 
 msgctxt "2eaad7b931374b2b8a99a364d6786316"
 msgid "ལོག་པ་␣ར་ ངེས་པ་ འདོད་ ཆེན་པ །"
-msgstr ""
+msgstr "Certain to wrong [view], the greedy [one],"
 
 msgctxt "e1f486f18ff54b9a95e82eb2b9dd28ce"
 msgid "མ་ངེས་པ་ གཅིག་ ཏུ་ མ་ མཆོད་པ་ གསུམ་ ལ་␣ས །"
