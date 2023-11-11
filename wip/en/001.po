@@ -4494,6 +4494,8 @@ msgstr "Ever since the buddhas have arousen bodhichitta,"
 msgctxt "c6e443d0c13f4e8f8870c773549861e9"
 msgid "མཛད་པ་ སེམས་ཅན་ ཐམས་ཅད་ སངས་རྒྱས་ ཀྱི་ ས་␣ར་ འགོད་པ་␣འི་ དོན་ དང༌ །"
 msgstr ""
+"The purpose of [their] deeds is to elevate all sentient beings on the level "
+"of buddhas."
 
 msgctxt "b399ee544f1a42e383078f20bd6582f2"
 msgid "དཔེ་མཁྱུད་ མི་ མངའ་བ་ དང༌ །"
