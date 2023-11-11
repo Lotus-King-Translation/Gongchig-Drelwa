@@ -4511,7 +4511,7 @@ msgstr "And nothing to protect, are the three achievements. "
 
 msgctxt "f7bcd7e60b824c95a511f64397b9ac9c"
 msgid "འདུ་ཤེས་ སྣ་ཚོགས་ མི་ མངའ་བ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Because [they] possess no various perceptions."
 
 msgctxt "6cf9f6d5d5344cfcbf065b3c2f8101f9"
 msgid "ལམ་ ཡང་ ཐེག་ཆེན་ དུ་ གཅིག་ སྟེ །"
