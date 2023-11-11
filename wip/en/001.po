@@ -4503,7 +4503,7 @@ msgstr "[They] possess no tight-fisted with the teaching,"
 
 msgctxt "2bc1470b01f04c1e872cbdf6939e6639"
 msgid "ཉེ་རིང་ མེད་པ་ དང །"
-msgstr ""
+msgstr "The absence of near and far,"
 
 msgctxt "cf5e2763005c4ce4a2de21af8837a51c"
 msgid "བསྲུང་བ་ མེད་པ་ གསུམ་ བརྙེས་པ་ དང༌ །"
