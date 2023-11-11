@@ -4507,7 +4507,7 @@ msgstr "The absence of near and far,"
 
 msgctxt "cf5e2763005c4ce4a2de21af8837a51c"
 msgid "བསྲུང་བ་ མེད་པ་ གསུམ་ བརྙེས་པ་ དང༌ །"
-msgstr ""
+msgstr "And nothing to protect, are the three achievements. "
 
 msgctxt "f7bcd7e60b824c95a511f64397b9ac9c"
 msgid "འདུ་ཤེས་ སྣ་ཚོགས་ མི་ མངའ་བ་␣འི་ ཕྱིར །"
