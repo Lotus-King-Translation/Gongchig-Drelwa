@@ -4499,7 +4499,7 @@ msgstr ""
 
 msgctxt "b399ee544f1a42e383078f20bd6582f2"
 msgid "དཔེ་མཁྱུད་ མི་ མངའ་བ་ དང༌ །"
-msgstr ""
+msgstr "[They] possess no tight-fisted with the teaching,"
 
 msgctxt "2bc1470b01f04c1e872cbdf6939e6639"
 msgid "ཉེ་རིང་ མེད་པ་ དང །"
