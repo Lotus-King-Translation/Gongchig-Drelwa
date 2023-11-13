@@ -4515,7 +4515,7 @@ msgstr "Because [they] possess no various perceptions."
 
 msgctxt "6cf9f6d5d5344cfcbf065b3c2f8101f9"
 msgid "ལམ་ ཡང་ ཐེག་ཆེན་ དུ་ གཅིག་ སྟེ །"
-msgstr ""
+msgstr "The path is also one within the Great Vehicle."
 
 msgctxt "a1654aa5261f46688428ddae8d2b8f30"
 msgid ""
