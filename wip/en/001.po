@@ -4598,7 +4598,7 @@ msgstr "According to the White Lotus:"
 
 msgctxt "d7a62c05f4374e198becac6523510e04"
 msgid "དེད་དཔོན་ ཐབས་ ལ་ མཁས་པ་ གྲོང་ཁྱེར་ གྱི་ དཔེ་ བསྟན་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "It is like the example of a city for a skilful sea captain."
 
 msgctxt "3a5c5b2bea42436da17049238bbe1016"
 msgid "འབྲས་བུ་ ཡང་ གཅིག་ སྟེ་ མཚན་ བརྗོད་ ལ་␣ས །"
