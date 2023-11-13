@@ -3719,7 +3719,7 @@ msgstr "The practice is the virtue of the three trainings."
 
 msgctxt "089c9eee7cad449ca5d26ef74720a82c"
 msgid "ཉོན་མོངས་ འདུལ་བ་ ཐེག་ཆེན་ ཡིན་པ །"
-msgstr "The greater vehicle is for subduing the afflictions."
+msgstr "The Great Vehicle is for subduing the afflictions."
 
 msgctxt "9cc0fc78ab7249a295c7fcfa5116bafe"
 msgid "བགྲོད་པ་ གཅིག་པ་␣འི་ ལམ་ ཡིན་པ་ རྣམས་"
