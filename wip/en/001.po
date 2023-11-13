@@ -4590,7 +4590,7 @@ msgstr "Thus,"
 
 msgctxt "f393ce6372b640919540bc5ea32148e9"
 msgid "ཉན་ཐོས་ བྱང་ཆུབ་ གཞོལ་ ཞིང་ འབབ་ སྟེ །"
-msgstr ""
+msgstr "Shravakas and Bodhisattvas pursue diligently."
 
 msgctxt "f9c5928aa0d24581ae5aecf141d8860a"
 msgid "པད་དཀར་ ལ་␣ས །"
