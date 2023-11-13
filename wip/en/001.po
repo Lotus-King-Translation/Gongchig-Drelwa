@@ -1455,7 +1455,7 @@ msgstr "Thus, it is the second."
 
 msgctxt "5a58244af232482dbf98f48024e33b96"
 msgid "དགོངས་འགྲེལ་ ལ་␣ས་"
-msgstr "According to the Samdhi­nirmocana [­sutra]:"
+msgstr "According to the Commentary on the Intent [­sutra]:"
 
 msgctxt "b031f7d878dc48e29da51e8acdd6fb64"
 msgid ""
