@@ -4521,6 +4521,8 @@ msgctxt "a1654aa5261f46688428ddae8d2b8f30"
 msgid ""
 "བྱང་སེམས་ སྤྱོད་ཡུལ་ ཐབས་ ཀྱི་ རྣམ་པ་␣ར་ འཕྲུལ་པ་ བསྟན་པ་␣འི་ མདོ་ ལ་␣ས ། །"
 msgstr ""
+"According to the Sutra on the Manifestation of Skillful Methods, the Sphere "
+"of Bodhisattvas Activity:"
 
 msgctxt "7cb31a3cc00549949a9d10e01e87da14"
 msgid "འདྲེན་པ་ སེམས་ཅན་ རྣམས་ ལ་ མཉམ་པ་␣འི་ ཐུགས ། །"
