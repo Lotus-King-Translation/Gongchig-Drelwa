@@ -4542,7 +4542,7 @@ msgstr "I would become the fault of miserliness to this,"
 
 msgctxt "f1ff68f476ef49e592671ccf6bab4bb5"
 msgid "ང་ ཡི་ མྱ་ངན་ འདས་ གཅིག་ ཐེག་པ་ གཅིག  །"
-msgstr ""
+msgstr "There is one nirvana of mine, one vehicle."
 
 msgctxt "cc2e674566124add81f108ae0ed3661f"
 msgid "ཅེས་པ་ དང་ །"
