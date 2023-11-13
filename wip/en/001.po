@@ -4546,7 +4546,7 @@ msgstr "There is one nirvana of mine, one vehicle."
 
 msgctxt "cc2e674566124add81f108ae0ed3661f"
 msgid "ཅེས་པ་ དང་ །"
-msgstr "As said, and."
+msgstr "And."
 
 msgctxt "b783ab221a074414b9f9ac2d253057c5"
 msgid "པད་དཀར་ ལ་␣ས །"
