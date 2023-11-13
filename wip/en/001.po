@@ -4566,7 +4566,7 @@ msgstr "And,"
 
 msgctxt "05b9fb2e5f1e4505901e295e3b7e3aab"
 msgid "དགོངས་འགྲེལ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Commentary on the Intent:"
 
 msgctxt "dc74f931228a4866a088d6ff4b6c894b"
 msgid "ཐེག་པ་ ཆེ་ དང་ ཐེག་པ་ དམན་པ་ ལ་␣ས །"
