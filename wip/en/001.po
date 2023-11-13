@@ -4586,7 +4586,7 @@ msgstr "Therefore, I do not express a diversity of vehicles."
 
 msgctxt "249295b4baaa493b9c4178448c96d655"
 msgid "ཞེས་པ་␣ས་"
-msgstr ""
+msgstr "Thus,"
 
 msgctxt "f393ce6372b640919540bc5ea32148e9"
 msgid "ཉན་ཐོས་ བྱང་ཆུབ་ གཞོལ་ ཞིང་ འབབ་ སྟེ །"
