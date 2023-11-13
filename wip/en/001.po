@@ -4582,7 +4582,7 @@ msgstr "These were also taught as having the same mode."
 
 msgctxt "5030dfe2d1c34ec8a6c360377f3c3f29"
 msgid "དེ་ཕྱིར་ ཐེག་པ་ སྣ་ཚོགས་ ང་ མི་སྨྲ །"
-msgstr ""
+msgstr "Therefore, I do not express a diversity of vehicles."
 
 msgctxt "249295b4baaa493b9c4178448c96d655"
 msgid "ཞེས་པ་␣ས་"
