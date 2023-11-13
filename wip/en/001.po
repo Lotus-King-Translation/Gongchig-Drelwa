@@ -4562,7 +4562,7 @@ msgstr "There is no such as two or three."
 
 msgctxt "2fac2167cd9a48b7a67926ef773c6a33"
 msgid "ཅེས་ དང་ །"
-msgstr ""
+msgstr "And,"
 
 msgctxt "05b9fb2e5f1e4505901e295e3b7e3aab"
 msgid "དགོངས་འགྲེལ་ ལ་␣ས །"
