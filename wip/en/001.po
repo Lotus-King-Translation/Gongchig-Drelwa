@@ -4554,7 +4554,7 @@ msgstr "According to the White Lotus:"
 
 msgctxt "001c6ea4541549ecbc65d2e72a20c498"
 msgid "ཤཱ་རི་␣འི་ བུ་ སངས་རྒྱས་ ཀྱི་ ཐེག་པ་ ཐམས་ཅད་ མཁྱེན་པ་ གཅིག་ སྟེ །"
-msgstr ""
+msgstr "Sariputra! The vehicle of the Buddhas is only the all-knowing."
 
 msgctxt "7e2dc8b55d854fe48ece91d558bf3a05"
 msgid "གཉིས་ སམ་ གསུམ་ མམ་ ཞེས་ བྱ་བ་ མེད་ དེ །"
