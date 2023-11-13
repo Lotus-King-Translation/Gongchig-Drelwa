@@ -4594,7 +4594,7 @@ msgstr "Shravakas and Bodhisattvas pursue diligently."
 
 msgctxt "f9c5928aa0d24581ae5aecf141d8860a"
 msgid "པད་དཀར་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the White Lotus:"
 
 msgctxt "d7a62c05f4374e198becac6523510e04"
 msgid "དེད་དཔོན་ ཐབས་ ལ་ མཁས་པ་ གྲོང་ཁྱེར་ གྱི་ དཔེ་ བསྟན་པ་ བཞིན་ ནོ ། །"
