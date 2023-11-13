@@ -4530,7 +4530,7 @@ msgstr "Guide! [you have] a balanced mind toward all beings."
 
 msgctxt "a58f5be054bf4d9f988f837437f414ec"
 msgid "ང་ ལ་ ཐ་དད་ འདུ་ཤེས་ ནམ་ཡང་ མེད ། །"
-msgstr ""
+msgstr "I never had the perception of distinct."
 
 msgctxt "3bacaf8869c34f24890c044392d3ec0b"
 msgid "ཐེག་པ་ དམན་པ་ གཞན་ ལ་ ངེས་ བསྟན་ ན ། །"
