@@ -4578,7 +4578,7 @@ msgstr "The teaching of the various intrinsic natures of phenomena"
 
 msgctxt "7cdb09cd00ff459b943f663f13037d4d"
 msgid "དེ་དག་ ཉིད་ ནི་ ཚུལ་ གཅིག་ ཡང་ བསྟན་ ཏེ །"
-msgstr ""
+msgstr "These were also taught as having the same mode."
 
 msgctxt "5030dfe2d1c34ec8a6c360377f3c3f29"
 msgid "དེ་ཕྱིར་ ཐེག་པ་ སྣ་ཚོགས་ ང་ མི་སྨྲ །"
