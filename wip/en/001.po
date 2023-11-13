@@ -4550,7 +4550,7 @@ msgstr "As said, and."
 
 msgctxt "b783ab221a074414b9f9ac2d253057c5"
 msgid "པད་དཀར་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the White Lotus:"
 
 msgctxt "001c6ea4541549ecbc65d2e72a20c498"
 msgid "ཤཱ་རི་␣འི་ བུ་ སངས་རྒྱས་ ཀྱི་ ཐེག་པ་ ཐམས་ཅད་ མཁྱེན་པ་ གཅིག་ སྟེ །"
