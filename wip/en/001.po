@@ -2979,7 +2979,7 @@ msgstr ""
 
 msgctxt "a8f9fe1f5c3541658d462e55bc104169"
 msgid "ཐེག་ཆེན་ སེམས་ ཙམ་ དབུ་མ་ གཉིས་ ལ་␣ས་"
-msgstr "The Mind Only and Middle Way [schools] of the greater vehicle."
+msgstr "The Mind Only and Middle Way [schools] of the Great Vehicle."
 
 msgctxt "ae15d023dc26472f80e26ed3b083e3a4"
 msgid "ཕྱི་རོལ་པ་␣འི་ གྲུབ་མཐའ་ དེ་དག་ རྒྱ་གར་ ན་ ཡོད་ བོད་ ལ་ མེད་ ཟེར །"
