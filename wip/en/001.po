@@ -4574,7 +4574,7 @@ msgstr "In the Great and Lesser Vehicles,"
 
 msgctxt "db8e0cfad9564506b23b4a8789508a03"
 msgid "རང་བཞིན་ སྣ་ཚོགས་ ཆོས་ རྣམས་ གང་ བསྟན་པ ། །"
-msgstr ""
+msgstr "The teaching of the various intrinsic natures of phenomena"
 
 msgctxt "7cdb09cd00ff459b943f663f13037d4d"
 msgid "དེ་དག་ ཉིད་ ནི་ ཚུལ་ གཅིག་ ཡང་ བསྟན་ ཏེ །"
