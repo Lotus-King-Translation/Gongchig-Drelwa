@@ -4526,7 +4526,7 @@ msgstr ""
 
 msgctxt "7cb31a3cc00549949a9d10e01e87da14"
 msgid "འདྲེན་པ་ སེམས་ཅན་ རྣམས་ ལ་ མཉམ་པ་␣འི་ ཐུགས ། །"
-msgstr ""
+msgstr "Guide! [you have] a balanced mind toward all beings."
 
 msgctxt "a58f5be054bf4d9f988f837437f414ec"
 msgid "ང་ ལ་ ཐ་དད་ འདུ་ཤེས་ ནམ་ཡང་ མེད ། །"
