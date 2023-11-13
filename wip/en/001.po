@@ -4538,7 +4538,7 @@ msgstr "If [you] show the Lesser Vehicle to others,"
 
 msgctxt "abf87cdf9a8c48439e7729216107a794"
 msgid "དེ་ ལ་ ང་ ནི་ སེར་སྣ་␣འི་ སྐྱོན་ དུ་ འགྱུར ། །"
-msgstr ""
+msgstr "I would become the fault of miserliness to this,"
 
 msgctxt "f1ff68f476ef49e592671ccf6bab4bb5"
 msgid "ང་ ཡི་ མྱ་ངན་ འདས་ གཅིག་ ཐེག་པ་ གཅིག  །"
