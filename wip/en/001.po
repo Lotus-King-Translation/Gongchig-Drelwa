@@ -4709,7 +4709,7 @@ msgstr ""
 
 msgctxt "c655c3e493404c63825e885dc9b1ca4a"
 msgid "དཔེར་ན་ མེ་སྟག་ ཆུང་ངུ་ འཕེལ་ གྱུར་ ན ། །"
-msgstr "The example of a little spark that expands in larger."
+msgstr "An example of a little spark as if it grows."
 
 msgctxt "2b612079e6eb413e9ff754088aad1533"
 msgid "མེ་ལྕེ་ ཆེ་ཆེ་␣ར་ འབར་ ཞིང་ མཆེད་པ་ ལྟར ། །"
