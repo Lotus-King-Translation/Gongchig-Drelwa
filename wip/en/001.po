@@ -4616,7 +4616,7 @@ msgstr "Therefore, bias in the Dharma."
 
 msgctxt "d594b1e7ba564880b0a17ca456cb9cd7"
 msgid "གང་ཟག་ བཟང་ངན །"
-msgstr ""
+msgstr "Good and bad persons,"
 
 msgctxt "3602ebaf7abd41618015f6688318f15d"
 msgid "སེམས་ཅན་ ལ་ བརྙས་པ །"
