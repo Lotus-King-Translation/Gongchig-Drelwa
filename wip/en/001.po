@@ -4630,6 +4630,8 @@ msgstr ""
 msgctxt "1370bb67878847aeaf5a1be09df55117"
 msgid "ཐེག་པ་ ཐམས་ཅད་ རྒྱུ་ རིགས་ གཅིག་པ་␣ས་ ཐེག་པ་␣འང་ དེ་ལྟར་ གཅིག་ གོ  །"
 msgstr ""
+"Because all vehicles are of the same kind of cause, and there is only one "
+"vehicle."
 
 msgctxt "6966abc9e93947d0b67659461eea6f72"
 msgid "རྡོ་␣༽༽  གཞན་དག་ ཉན་རང་ དང་ མཆོག་ གསུམ་ མི་ བདེན་ ཞེས་"
