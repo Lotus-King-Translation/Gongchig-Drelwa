@@ -4642,6 +4642,8 @@ msgstr ""
 msgctxt "9198354174184507a324707fde0b8c4c"
 msgid "རིགས་ ཆད་ ལོག་པ་␣ར་ ལྟ་བ་␣འི་ སྲེད་པ་ ཅན་ སངས་རྒྱས་ མི་ ཐོབ་པ་ དང་"
 msgstr ""
+"The broken lineage, endowed with the wrong views and cravings, will not "
+"attain buddhahood and "
 
 msgctxt "bf141b903ee547ca9e397d55fc5999ee"
 msgid "ཉན་ཐོས་ གཏན་ གེགས་ སུ་ བཤད་ ན་ ཡང་"
