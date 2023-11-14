@@ -4660,7 +4660,7 @@ msgid ""
 "གཞི་ བདེ་གཤེགས་ སྙིང་པོ་ ཡོན་ཏན་ དང་ ལྡན་པ་ རྒྱུད་ ལ་ ཡོད་པ་␣འི་ ཕྱིར་ དང་"
 msgstr ""
 "This is because of the presence of the ground, the sugatagarbha endowed with"
-" all qualities, in the continuum."
+" all qualities, in [one's] continuum."
 
 msgctxt "8da40c01ba0a428b941bba73901c5bdf"
 msgid "ཐེག་པ་ ཐམས་ཅད་ རིགས་ གཅིག་ ཡིན །"
