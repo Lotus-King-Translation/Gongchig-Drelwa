@@ -4636,6 +4636,8 @@ msgstr ""
 msgctxt "6966abc9e93947d0b67659461eea6f72"
 msgid "རྡོ་␣༽༽  གཞན་དག་ ཉན་རང་ དང་ མཆོག་ གསུམ་ མི་ བདེན་ ཞེས་"
 msgstr ""
+"Vajra: Others said Shravaka, Pratyekabuddha, and the three jewels are not "
+"true. "
 
 msgctxt "9198354174184507a324707fde0b8c4c"
 msgid "རིགས་ ཆད་ ལོག་པ་␣ར་ ལྟ་བ་␣འི་ སྲེད་པ་ ཅན་ སངས་རྒྱས་ མི་ ཐོབ་པ་ དང་"
