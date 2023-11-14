@@ -4697,6 +4697,8 @@ msgstr "The light rays of the Buddha's compassion encourage [them] and"
 msgctxt "f4491d40fbb14d528ccf0e8dfc5e419f"
 msgid "རྣམ་གྲོལ་ གྱི་ ངོ་བོ་ ཟླ་ དད་ མེད་པ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར་ ཏེ་"
 msgstr ""
+"Because it is said that there is no distinction in the essence of complete "
+"liberation."
 
 msgctxt "2b6fa768173e4f1fbb0187416bac06cf"
 msgid ""
