@@ -4624,7 +4624,7 @@ msgstr "Abusing sentient beings."
 
 msgctxt "eceb51bddfd7451e831f17933466523a"
 msgid "བྱང་ཆུབ་ ཏུ་ མི་ བསྔོ་བ་ སྟེ་ བཞི་པོ་ འདི་ མི་ འབྱུང་ དེས་ན །"
-msgstr ""
+msgstr "Lacking dedication to enlightenment. Thus, these four will not occur."
 
 msgctxt "1370bb67878847aeaf5a1be09df55117"
 msgid "ཐེག་པ་ ཐམས་ཅད་ རྒྱུ་ རིགས་ གཅིག་པ་␣ས་ ཐེག་པ་␣འང་ དེ་ལྟར་ གཅིག་ གོ  །"
