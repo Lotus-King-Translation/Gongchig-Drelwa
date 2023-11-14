@@ -4652,7 +4652,7 @@ msgstr "Even if they are told that the shravakas are a perpetual obstruction."
 msgctxt "d4c17f4d73e140e79a7ee19dd09033e7"
 msgid "འདི་␣ར་ ཉན་རང་ ལོག་ལྟ་ ཅན་ རྣམ་མཁྱེན་ འགྱུར་ ཏེ །"
 msgstr ""
-"In this [system], Shravakas, Pratyekabuddhas, and those with wrong views "
+"In this [system], shravakas, pratyekabuddhas, and those with wrong views "
 "will become omniscient."
 
 msgctxt "ad72ffcac4f0480582d49afa2105be45"
