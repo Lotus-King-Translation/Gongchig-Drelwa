@@ -4620,7 +4620,7 @@ msgstr "Good and bad persons,"
 
 msgctxt "3602ebaf7abd41618015f6688318f15d"
 msgid "སེམས་ཅན་ ལ་ བརྙས་པ །"
-msgstr ""
+msgstr "Abusing sentient beings."
 
 msgctxt "eceb51bddfd7451e831f17933466523a"
 msgid "བྱང་ཆུབ་ ཏུ་ མི་ བསྔོ་བ་ སྟེ་ བཞི་པོ་ འདི་ མི་ འབྱུང་ དེས་ན །"
