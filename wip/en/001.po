@@ -4612,7 +4612,7 @@ msgstr "The three vehicles of the definitive and so on. As said."
 
 msgctxt "e3dfd56e887643ec980b34382aa1a7f6"
 msgid "དེ་␣འི་ ཕྱིར་ ཆོས་ ལ་ རིས །"
-msgstr ""
+msgstr "Therefore, bias in the Dharma."
 
 msgctxt "d594b1e7ba564880b0a17ca456cb9cd7"
 msgid "གང་ཟག་ བཟང་ངན །"
