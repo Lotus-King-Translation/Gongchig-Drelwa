@@ -4692,7 +4692,7 @@ msgstr "Because it is only taught as a resting place of nirvana and "
 
 msgctxt "126b45629c2040f89b54d782e46ecd15"
 msgid "སངས་རྒྱས་ ཀྱི་ ཐུགས་རྗེ་ འོད་ཟེར་ གྱིས་ བསྐུལ་བ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr "The radiance of Buddha's compassion encourages [them]."
+msgstr "The light rays of the Buddha's compassion encourage [them]."
 
 msgctxt "f4491d40fbb14d528ccf0e8dfc5e419f"
 msgid "རྣམ་གྲོལ་ གྱི་ ངོ་བོ་ ཟླ་ དད་ མེད་པ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར་ ཏེ་"
