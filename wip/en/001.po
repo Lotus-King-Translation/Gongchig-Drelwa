@@ -4725,7 +4725,7 @@ msgstr "That itself generates the flames of the Buddha's qualities."
 
 msgctxt "101c4b8f8e6b46a1a034eab26667689a"
 msgid "ཞེས་ སོ ། །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "eaec4449e37042ddbd289e33491eee2d"
 msgid "ལོག་ སྲེད་ ཅན་ ཡང་ དུས་ རིང་བ་␣ར་ དགོངས་པ་ ལ་␣ས་"
