@@ -4688,7 +4688,7 @@ msgstr "It is certain that [one] will attain great enlightenment."
 
 msgctxt "072d1ff39cbd46a29d7b13489c86e916"
 msgid "མྱང་འདས་ ཀྱི་ ངལ་ སྟེགས་ ཙམ་ ལས་མ་ གསུངས་པ་␣འི་ ཕྱིར་ དང་ །"
-msgstr ""
+msgstr "Because it is only taught as a resting place of nirvana and "
 
 msgctxt "126b45629c2040f89b54d782e46ecd15"
 msgid "སངས་རྒྱས་ ཀྱི་ ཐུགས་རྗེ་ འོད་ཟེར་ གྱིས་ བསྐུལ་བ་␣འི་ ཕྱིར་ དང༌ །"
