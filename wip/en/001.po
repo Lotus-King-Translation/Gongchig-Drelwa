@@ -4608,7 +4608,7 @@ msgstr ""
 
 msgctxt "a312bd7d3e1748b68b3daba54db49c17"
 msgid "ཐེག་པ་ གསུམ་ གྱི་ ངེས་ སོགས ། ཅེས་ སོ ། །"
-msgstr ""
+msgstr "The three vehicles of the definitive and so on. As said."
 
 msgctxt "e3dfd56e887643ec980b34382aa1a7f6"
 msgid "དེ་␣འི་ ཕྱིར་ ཆོས་ ལ་ རིས །"
