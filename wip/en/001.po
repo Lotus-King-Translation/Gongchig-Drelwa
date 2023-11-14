@@ -4676,7 +4676,7 @@ msgstr "Because the shravakas and pratyekabuddhas possess the cause."
 
 msgctxt "02ac5e2861bb4ea88edbee2caae8bcdc"
 msgid "བྱང་ཆུབ་ ཆེན་པོ་ རཐོབ་པ་␣ར་ འགྱུར་ ཏེ་"
-msgstr ""
+msgstr "The great enlightenment will be attained."
 
 msgctxt "8529310876034c18b8bc860ef70f090e"
 msgid "རྐུ་ ཐབས་ སུ་ སེམས་བསྐྱེད་པ་␣ས་"
