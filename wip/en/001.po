@@ -4717,7 +4717,7 @@ msgstr "Like it blazes into a bigger flame,"
 
 msgctxt "2c5d98513728496ead6152937ab30608"
 msgid "ཉན་ཐོས་ ཡེ་ཤེས་ མེ་ ཡི་ མེ་སྟག་ ཀྱང་ ། །"
-msgstr ""
+msgstr "Though the shravaka primordial wisdom is a spark of fire,"
 
 msgctxt "00dfba0084dd47df81e82f442745bc5c"
 msgid "དེ་ཉིད་ སངས་རྒྱས་ ཡོན་ཏན་ མེ་ལྕེ་ སྐྱེ །"
