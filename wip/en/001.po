@@ -4721,7 +4721,7 @@ msgstr "Though the shravaka primordial wisdom is a spark of fire,"
 
 msgctxt "00dfba0084dd47df81e82f442745bc5c"
 msgid "དེ་ཉིད་ སངས་རྒྱས་ ཡོན་ཏན་ མེ་ལྕེ་ སྐྱེ །"
-msgstr ""
+msgstr "That itself generates the flames of the Buddha's qualities."
 
 msgctxt "101c4b8f8e6b46a1a034eab26667689a"
 msgid "ཞེས་ སོ ། །"
