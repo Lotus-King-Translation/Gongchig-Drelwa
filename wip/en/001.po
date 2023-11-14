@@ -4664,7 +4664,7 @@ msgstr ""
 
 msgctxt "8da40c01ba0a428b941bba73901c5bdf"
 msgid "ཐེག་པ་ ཐམས་ཅད་ རིགས་ གཅིག་ ཡིན །"
-msgstr ""
+msgstr "All vehicles are of one kind."
 
 msgctxt "6b3fb2f369a7485994872e018e5c4653"
 msgid "ལྷན་␣༽༽  དེ་ལྟར་ རྒྱས་པ་␣ར་ བཤད་པ་ ནི་"
