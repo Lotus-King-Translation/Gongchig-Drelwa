@@ -4672,7 +4672,7 @@ msgstr "Addendum: In this way, a detailed explanation is "
 
 msgctxt "455446d492d545e1b4fd3cc7c0f5d9f1"
 msgid "རྒྱུ་ དང་ ལྡན་ ཕྱིར་ ཉན་རང་ སངས་རྒྱས་ སྟེ་"
-msgstr ""
+msgstr "Because the shravakas and pratyekabuddhas possess the cause."
 
 msgctxt "02ac5e2861bb4ea88edbee2caae8bcdc"
 msgid "བྱང་ཆུབ་ ཆེན་པོ་ རཐོབ་པ་␣ར་ འགྱུར་ ཏེ་"
