@@ -4684,7 +4684,7 @@ msgstr "By generating the mind [for enlightenment] in disguise."
 
 msgctxt "eb71d1a847164792b23e10c85f7deb08"
 msgid "བྱང་ཆུབ་ ཆེན་པོ་␣ར་ ཐོབ་པ་␣ར་ ངེས་ སོ །"
-msgstr ""
+msgstr "It is certain that [one] will attain great enlightenment."
 
 msgctxt "072d1ff39cbd46a29d7b13489c86e916"
 msgid "མྱང་འདས་ ཀྱི་ ངལ་ སྟེགས་ ཙམ་ ལས་མ་ གསུངས་པ་␣འི་ ཕྱིར་ དང་ །"
