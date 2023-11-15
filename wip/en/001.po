@@ -4887,6 +4887,8 @@ msgstr ""
 msgctxt "0f2504cb9d8b40c28e5835e3bbc06579"
 msgid "མེད་ ན་ སེམས་ ཙམ་ རྣམ་ བདེན་ ལ་ འགོག་པ་␣འི་ རིགས་པ་ འཇུག་ སྟེ །"
 msgstr ""
+"If not, the reasoning that refutes the True Aspectarian Mind Only [School] "
+"would follow."
 
 msgctxt "e18de5a8c3b74ced9360a8fc402ca324"
 msgid "དབུ་མ་ རྒྱན་ ལ་␣ས །"
