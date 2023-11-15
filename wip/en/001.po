@@ -4795,7 +4795,7 @@ msgstr "As said."
 
 msgctxt "cbd7d221d7e94b4d97b0a1ea5be94cb1"
 msgid "ཕུང་པོ་ གསུམ་པ་ ཞིག་ མེད་ དོ ། །"
-msgstr ""
+msgstr "There is no third aggregate."
 
 msgctxt "15561613026049c49d63930afe396a3c"
 msgid ""
