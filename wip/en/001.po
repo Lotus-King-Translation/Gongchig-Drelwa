@@ -4904,7 +4904,7 @@ msgstr "So forth and the nature of minute particles is white, etc., and"
 
 msgctxt "c1b5948b98b44644ab3219a4c5424c8a"
 msgid "ཇི་སྟེ་ རྣམ་པ་␣འི་ གྲངས་ བཞིན་ དུ །"
-msgstr ""
+msgstr "If it is similar to the number of aspects."
 
 msgctxt "3f6de7fbf8d5428da6c6e3d0fab927e2"
 msgid "སོགས་ དང༌ །"
