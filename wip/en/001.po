@@ -4851,6 +4851,8 @@ msgid ""
 "དེ་ལྟར་ ན་ དགེ་ མི་དགེ་␣འང་ ལྷན་ཅིག་ སྐྱེ་ རིགས་ ན་␣འང་ ཕན་ཚུན་ སྤང་ འགལ་ "
 "ཡིན་པ་␣འི་ ཕྱིར །"
 msgstr ""
+"In that way, logic dictates that virtue and non-virtue can arise "
+"simultaneously, but they are mutually opposing contradictions."
 
 msgctxt "ba40fe31fecb40e182590090a53f1315"
 msgid "དཔེར་ན་ ཚ་གྲང་ གི་ རེག་བྱ་ བཞིན །"
