@@ -4771,7 +4771,7 @@ msgstr "Apart from these two, there is no other such as neutral."
 
 msgctxt "b2259875ddc24987bfd40bc26460df75"
 msgid "སློབ་དཔོན་ འཕགས་པ་␣ས །"
-msgstr ""
+msgstr "Master Arya said:"
 
 msgctxt "5dba172b24d249068015969316f4d9f4"
 msgid "འདོད་ཆགས་ ཞེ་སྡང་ གཏི་མུག་ གསུམ ། །"
