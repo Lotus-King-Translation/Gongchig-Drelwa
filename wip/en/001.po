@@ -4920,7 +4920,7 @@ msgstr "And so on, defeat it."
 
 msgctxt "6b2ad2e710e34b6fbe68edc2660133c4"
 msgid "གང་ཟག་ གཅིག་ ཤེས་རྒྱུད་ དུ་མ་␣ར་ ཐལ་བ་␣ས་ སོ །"
-msgstr ""
+msgstr "It absurdly follows that a person with many mindstreams."
 
 msgctxt "71556f7a727f4fe98413d3e0e419505e"
 msgid "རྡོ་␣༽༽་␣གཞན་ དུ་ སེམས་ གཞི་ ལ་␣ས་ སེམས་བྱུང་ འབྱུང་བ་␣ར་ འདོད་ དེ །"
