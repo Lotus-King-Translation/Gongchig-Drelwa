@@ -4868,7 +4868,7 @@ msgstr "The virtuous mind is also momentary."
 
 msgctxt "d7618e36e25d4def830c5df507177764"
 msgid "མི་དགེ་␣འི་ སེམས་ ཀྱང་ སྐད་ཅིག་མ །"
-msgstr ""
+msgstr "The non-virtuous mind is also momentary."
 
 msgctxt "0fc8d2af6b494e7daf07dfb29306ebc4"
 msgid "ཞེས་ དང༌ །"
