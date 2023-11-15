@@ -4791,7 +4791,7 @@ msgstr "The actions that develop from these are virtuous."
 
 msgctxt "6169f67dcbeb4b37a785ba51d95ddca0"
 msgid "ཞེས་ གསུངས་པ་␣ས་"
-msgstr ""
+msgstr "As said."
 
 msgctxt "cbd7d221d7e94b4d97b0a1ea5be94cb1"
 msgid "ཕུང་པོ་ གསུམ་པ་ ཞིག་ མེད་ དོ ། །"
