@@ -4896,7 +4896,7 @@ msgstr "According to the Ornament of the Middle Way:"
 
 msgctxt "090d81a5d74e47f18c7c1b0bb6925d60"
 msgid "དེ་ལྟ་ ཡིན་ ན་ དཀ་␣ར་ ལ་སོགས །"
-msgstr ""
+msgstr "If that is the case, then the white and so on,"
 
 msgctxt "60b09be0c1a14ce386758e314bbdaa0c"
 msgid "སོགས་ དང་ རྡུལ་ཕྲན་ བདག་ཉིད་ དཀ་␣ར་ སོགས་ དང༌ །"
