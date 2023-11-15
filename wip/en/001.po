@@ -4733,7 +4733,7 @@ msgstr "Even those with cravings, after giving thought for a long time, "
 
 msgctxt "89f9d8758bca4a09897a2921a7eb4b14"
 msgid "འདུས་བྱས་ ཀྱི་ བློ་ དེ་ བྲལ་བ་ ན་ འཇུག་པ་␣ར་ འགྱུར་ ཏེ །"
-msgstr ""
+msgstr "When their compositional minds are free, [they] will engage in it. "
 
 msgctxt "77cd6f3049d0472e84a31a9d08f454f9"
 msgid "ལེགས་ སྐར་ སངས་རྒྱས་ བར་ གསུངས་པ་ བཞིན་ ནོ ། །"
