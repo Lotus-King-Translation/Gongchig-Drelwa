@@ -4937,7 +4937,7 @@ msgstr "Consciousness is that which sees fact in that."
 
 msgctxt "c7ba83d1c46f47069f83d01663ed47fb"
 msgid "དེ་ ཡི་ ཁྱད་པར་ ཅེས་པ་␣ས །"
-msgstr "The special feature of this [is that it arises from mind] and so."
+msgstr "The special features of this [are that it arises from mind] and so."
 
 msgctxt "bd2e29f79d2c4702936df790a93f9921"
 msgid "སྒྲོ་འདོགས་ ཆོད་པ་␣འི་ དོན་ ལ་ སེམས་ དང་"
