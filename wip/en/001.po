@@ -4787,7 +4787,7 @@ msgstr "Without desire, without anger, and without delusion."
 
 msgctxt "af5189078f654e92840849dee84bace5"
 msgid "དེ་␣ས་ བསྐྱེད་ ལ་␣ས་ ནི་ དགེ་བ་␣འོ ། །"
-msgstr ""
+msgstr "The actions that develop from these are virtuous."
 
 msgctxt "6169f67dcbeb4b37a785ba51d95ddca0"
 msgid "ཞེས་ གསུངས་པ་␣ས་"
