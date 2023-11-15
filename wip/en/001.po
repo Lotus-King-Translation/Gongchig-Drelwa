@@ -4775,7 +4775,7 @@ msgstr "Master Arya said:"
 
 msgctxt "5dba172b24d249068015969316f4d9f4"
 msgid "འདོད་ཆགས་ ཞེ་སྡང་ གཏི་མུག་ གསུམ ། །"
-msgstr ""
+msgstr "The three of desire, anger and delusion,"
 
 msgctxt "a80bddd13f80442d9a24d8ad0c89f6b0"
 msgid "དེ་␣ས་ བསྐྱེད་ ལ་␣ས་ ནི་ མི་དགེ་བ །"
