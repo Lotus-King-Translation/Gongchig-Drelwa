@@ -4945,7 +4945,7 @@ msgstr "The purpose of the mind is to eliminate exaggeration and"
 
 msgctxt "741bdfef2644433d89172d689faa932c"
 msgid "དེ་ནས་ རྟོག་དཔྱོད་ བྱེད་པ་␣ས་"
-msgstr ""
+msgstr "then, to do analyses."
 
 msgctxt "2c6ca8f4f00547b6ba038df583e23854"
 msgid "དེ་␣འི་ ཁྱད་པར་ གྱི་ ཆོས་སེམས་ བྱུང་ དུ་ བཤད་ མོད །"
