@@ -4912,7 +4912,7 @@ msgstr "And so on. "
 
 msgctxt "e05c9fae701d4e6186c71779d162e2e6"
 msgid "གལ་ཏེ་ སྣ་ཚོགས་ དེ་ གཅིག་ ན །"
-msgstr ""
+msgstr "If the various types are the same."
 
 msgctxt "f9288428b4c44ce98961842b81367a55"
 msgid "ཞེས་ སོགས་ ཀྱིས་ གནོད་ ཅིང་"
