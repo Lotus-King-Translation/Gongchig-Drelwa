@@ -4900,7 +4900,7 @@ msgstr "If that is the case, then the white and so on,"
 
 msgctxt "60b09be0c1a14ce386758e314bbdaa0c"
 msgid "སོགས་ དང་ རྡུལ་ཕྲན་ བདག་ཉིད་ དཀ་␣ར་ སོགས་ དང༌ །"
-msgstr "So forth and the nature of minute particles is white, etc.,"
+msgstr "So forth and the nature of minute particles is white, etc., and"
 
 msgctxt "c1b5948b98b44644ab3219a4c5424c8a"
 msgid "ཇི་སྟེ་ རྣམ་པ་␣འི་ གྲངས་ བཞིན་ དུ །"
