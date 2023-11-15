@@ -4844,7 +4844,7 @@ msgid ""
 "དེ་"
 msgstr ""
 "Take that as the subject, it is impossible for two or more thoughts to "
-"engage simultaneously."
+"engage at the same time."
 
 msgctxt "4e9f66c63d304153851a822f695e7130"
 msgid ""
