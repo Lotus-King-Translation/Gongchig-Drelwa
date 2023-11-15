@@ -4779,7 +4779,7 @@ msgstr "The three of desire, anger and delusion,"
 
 msgctxt "a80bddd13f80442d9a24d8ad0c89f6b0"
 msgid "དེ་␣ས་ བསྐྱེད་ ལ་␣ས་ ནི་ མི་དགེ་བ །"
-msgstr ""
+msgstr "The actions that develop from these are non-virtues."
 
 msgctxt "aca54baa3c934ca48a0f2c5c104a59ca"
 msgid "མ་ ཆགས་ མི་ སྡང་ གཏི་མུག་ མེད ། །"
