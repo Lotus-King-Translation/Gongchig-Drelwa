@@ -4783,7 +4783,7 @@ msgstr "The actions that develop from these are non-virtues."
 
 msgctxt "aca54baa3c934ca48a0f2c5c104a59ca"
 msgid "མ་ ཆགས་ མི་ སྡང་ གཏི་མུག་ མེད ། །"
-msgstr ""
+msgstr "Without desire, without anger, and without delusion."
 
 msgctxt "af5189078f654e92840849dee84bace5"
 msgid "དེ་␣ས་ བསྐྱེད་ ལ་␣ས་ ནི་ དགེ་བ་␣འོ ། །"
