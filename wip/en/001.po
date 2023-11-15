@@ -4963,6 +4963,8 @@ msgstr "From that as well, it is established that the mind emerges because"
 msgctxt "89a899bd39de421da7eaaa5ea2e37f64"
 msgid "དཔེར་ན་ བདག་ ཐེག་ཆེན་པ་ བྱ་ སྙམ་པ་ སེམས །"
 msgstr ""
+"For example, the mind that thinks I will become a follower of the Great "
+"Vehicle."
 
 msgctxt "395ea73ff2e4481ea4dafa2e5949bb78"
 msgid "དེ་ ལ་ བརྟེན་ ནས་ སེམས་བསྐྱེད་པ་ སེམས་བྱུང༌ །"
