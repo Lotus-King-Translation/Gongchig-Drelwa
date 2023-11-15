@@ -4836,7 +4836,7 @@ msgid ""
 " ཅིག་ ཆ་␣ར་ དུ་ སྐྱེ་ ཟེར་ ཡང་ །"
 msgstr ""
 "It is stated that thoughts arise in a number equal to as many external "
-"objects at the same time."
+"objects at once."
 
 msgctxt "b190f2ec25a741a4b97c92b4d0753118"
 msgid ""
