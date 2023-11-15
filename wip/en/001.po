@@ -4933,7 +4933,7 @@ msgstr "According to the [Differentiating] Middle and Extremes:"
 
 msgctxt "9497d4861faa4c18b72eabd4b57b6a87"
 msgid "དེ་ ལ་དོན་ མཐོང་ རྣམ་པ་␣ར་ ཤེས །"
-msgstr "That which sees fact in that is consciousness"
+msgstr "Consciousness is that which sees fact in that."
 
 msgctxt "c7ba83d1c46f47069f83d01663ed47fb"
 msgid "དེ་ ཡི་ ཁྱད་པར་ ཅེས་པ་␣ས །"
