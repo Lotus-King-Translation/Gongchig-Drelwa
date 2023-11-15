@@ -4916,7 +4916,7 @@ msgstr "If the various types are the same."
 
 msgctxt "f9288428b4c44ce98961842b81367a55"
 msgid "ཞེས་ སོགས་ ཀྱིས་ གནོད་ ཅིང་"
-msgstr ""
+msgstr "And so on, defeat it."
 
 msgctxt "6b2ad2e710e34b6fbe68edc2660133c4"
 msgid "གང་ཟག་ གཅིག་ ཤེས་རྒྱུད་ དུ་མ་␣ར་ ཐལ་བ་␣ས་ སོ །"
