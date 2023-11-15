@@ -4758,6 +4758,8 @@ msgid ""
 "དགེ་ མི་དགེ་ གང་ གིས་ ཀྱང་ དབང་མ་ བྱས་པ་␣འི་ འབྱུང་ ཆེན་ བཞི་ ཁམས་ "
 "བཅོ་བརྒྱད་ ལུང་ མ་ བསྟན་ དུ་ གསུངས་ མོད །"
 msgstr ""
+"The four major elements and the eighteen elements are neutral and are not "
+"controlled by virtue or non-virtue."
 
 msgctxt "55215049bfed41a1b6d1d737a7df7ac1"
 msgid "འདི་␣ར་ ནི་ དགེ་སྡིག་ གཉིས་ ལ་ཐག་ བཅད་ ན་"
