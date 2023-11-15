@@ -4820,6 +4820,7 @@ msgstr ""
 msgctxt "195dc799c28b4532acb699e705710508"
 msgid "ཕོ་མོ་␣ར་ འདུས་ ན་ གཉིས་ ལ་␣ས་ མེད་པ་ བཞིན་"
 msgstr ""
+"There are no more than two when they are grouped into male and female."
 
 msgctxt "8dc1519941b34a3c843031c388970534"
 msgid "ལུང་ མ་ བསྟན་ མི་དགེ་བ་␣འི་ ཕྱོགས་ སུ་ འདུ་␣འོ །"
