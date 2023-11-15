@@ -4729,7 +4729,7 @@ msgstr "As said."
 
 msgctxt "eaec4449e37042ddbd289e33491eee2d"
 msgid "ལོག་ སྲེད་ ཅན་ ཡང་ དུས་ རིང་བ་␣ར་ དགོངས་པ་ ལ་␣ས་"
-msgstr ""
+msgstr "Even those with cravings, after giving thought for a long time, "
 
 msgctxt "89f9d8758bca4a09897a2921a7eb4b14"
 msgid "འདུས་བྱས་ ཀྱི་ བློ་ དེ་ བྲལ་བ་ ན་ འཇུག་པ་␣ར་ འགྱུར་ ཏེ །"
