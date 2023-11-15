@@ -4856,7 +4856,7 @@ msgstr ""
 
 msgctxt "ba40fe31fecb40e182590090a53f1315"
 msgid "དཔེར་ན་ ཚ་གྲང་ གི་ རེག་བྱ་ བཞིན །"
-msgstr "As an example, the tangible objects of cold and hot."
+msgstr "For example, the tangible objects of cold and hot."
 
 msgctxt "c1593202e0e64f62a67f37b1ea5c76a9"
 msgid "དཔལ་ ཕྲེང་ གིས་ ཞུས་པ་ ལ་␣ས །"
