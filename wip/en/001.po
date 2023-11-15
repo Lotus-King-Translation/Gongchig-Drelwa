@@ -4738,7 +4738,7 @@ msgstr "When their compositional minds are free, [they] will engage in it. "
 
 msgctxt "77cd6f3049d0472e84a31a9d08f454f9"
 msgid "ལེགས་ སྐར་ སངས་རྒྱས་ བར་ གསུངས་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "Like Sunaksatra, who is said to become a buddha."
 
 msgctxt "b51978a4d96245e3945c44f75e7130ef"
 msgid ""
