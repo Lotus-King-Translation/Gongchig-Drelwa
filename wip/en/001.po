@@ -4815,6 +4815,7 @@ msgstr ""
 msgctxt "f5d68a178d194f46bf9e263a507a509c"
 msgid "དཔེར་ན་ ཁྱོ་ཤུག་ གཉིས་ བུ་མོ་ དང་ གསུམ་ ཡོད་ ཀྱང་"
 msgstr ""
+"For example, though there are three, a married couple and a daughter. "
 
 msgctxt "195dc799c28b4532acb699e705710508"
 msgid "ཕོ་མོ་␣ར་ འདུས་ ན་ གཉིས་ ལ་␣ས་ མེད་པ་ བཞིན་"
