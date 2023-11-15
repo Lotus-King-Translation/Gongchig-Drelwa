@@ -4892,7 +4892,7 @@ msgstr ""
 
 msgctxt "e18de5a8c3b74ced9360a8fc402ca324"
 msgid "དབུ་མ་ རྒྱན་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Ornament of the Middle Way:"
 
 msgctxt "090d81a5d74e47f18c7c1b0bb6925d60"
 msgid "དེ་ལྟ་ ཡིན་ ན་ དཀ་␣ར་ ལ་སོགས །"
