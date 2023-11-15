@@ -4908,7 +4908,7 @@ msgstr "If it is similar to the number of aspects."
 
 msgctxt "3f6de7fbf8d5428da6c6e3d0fab927e2"
 msgid "སོགས་ དང༌ །"
-msgstr ""
+msgstr "And so on. "
 
 msgctxt "e05c9fae701d4e6186c71779d162e2e6"
 msgid "གལ་ཏེ་ སྣ་ཚོགས་ དེ་ གཅིག་ ན །"
