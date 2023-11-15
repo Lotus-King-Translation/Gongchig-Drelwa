@@ -4767,7 +4767,7 @@ msgstr "In this [system], when it is decided as either virtue or non-virtue,"
 
 msgctxt "c9c6bbd65a1f4fee945b453c58e8bdbd"
 msgid "དེ་ གཉིས་ ལ་␣ས་ ལུང་ མ་ བསྟན་ བྱ་བ་ གཞན་ ཞིག་ མེད་ དེ་"
-msgstr ""
+msgstr "Apart from these two, there is no other such as neutral."
 
 msgctxt "b2259875ddc24987bfd40bc26460df75"
 msgid "སློབ་དཔོན་ འཕགས་པ་␣ས །"
