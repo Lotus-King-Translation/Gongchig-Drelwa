@@ -4929,7 +4929,7 @@ msgstr ""
 
 msgctxt "af9ed7bd1b2444a986cb8af254226c31"
 msgid "དབུས་ མཐ་␣ར །"
-msgstr ""
+msgstr "According to the [Differentiating] Middle and Extremes:"
 
 msgctxt "9497d4861faa4c18b72eabd4b57b6a87"
 msgid "དེ་ ལ་དོན་ མཐོང་ རྣམ་པ་␣ར་ ཤེས །"
