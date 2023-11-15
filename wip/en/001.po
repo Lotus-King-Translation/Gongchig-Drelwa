@@ -4941,7 +4941,7 @@ msgstr "The special feature of this [is that it arises from mind] and so."
 
 msgctxt "bd2e29f79d2c4702936df790a93f9921"
 msgid "སྒྲོ་འདོགས་ ཆོད་པ་␣འི་ དོན་ ལ་ སེམས་ དང་"
-msgstr ""
+msgstr "The purpose of the mind is to eliminate exaggeration and"
 
 msgctxt "741bdfef2644433d89172d689faa932c"
 msgid "དེ་ནས་ རྟོག་དཔྱོད་ བྱེད་པ་␣ས་"
