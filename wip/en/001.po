@@ -4872,7 +4872,7 @@ msgstr "The non-virtuous mind is also momentary."
 
 msgctxt "0fc8d2af6b494e7daf07dfb29306ebc4"
 msgid "ཞེས་ དང༌ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "94c974b7809341cd8aaabf19562da20e"
 msgid "གཞན་ ཡང་ཕྱི་ དོན་ འདོད་ ན་"
