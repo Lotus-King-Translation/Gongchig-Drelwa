@@ -4876,7 +4876,7 @@ msgstr "And."
 
 msgctxt "94c974b7809341cd8aaabf19562da20e"
 msgid "གཞན་ ཡང་ཕྱི་ དོན་ འདོད་ ན་"
-msgstr ""
+msgstr "Besides this, if external objects are accepted,"
 
 msgctxt "e9fec87a907045a4ac9470694422e925"
 msgid "མདོ་སྡེ་པ་ གཟུངས་ འཛིན་ གྲངས་ མཉམ་ དང༌ །"
