@@ -4802,6 +4802,7 @@ msgid ""
 "སངས་རྒྱས་ ཀྱིས་ གསུངས་པ་␣འི་ ལུང་ མ་ བསྟན་ ནི་ ལྷན་སྐྱེས་ ཀྱི་ མ་རིག་པ་ ལ་ "
 "གསུངས་ ཏེ །"
 msgstr ""
+"The neutral taught by the Buddha is referred to as co-emergent ignorance."
 
 msgctxt "f5309e67e49c406b933e359517d64d82"
 msgid ""
