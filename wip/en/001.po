@@ -4864,7 +4864,7 @@ msgstr "According to the Glorious Garland [Sutra]:"
 
 msgctxt "c081d416f24f4385b6f77c7b8af57340"
 msgid "དགེ་བ་␣འི་ སེམས་ ཀྱང་ སྐད་ཅིག་མ ། །"
-msgstr ""
+msgstr "The virtuous mind is also momentary."
 
 msgctxt "d7618e36e25d4def830c5df507177764"
 msgid "མི་དགེ་␣འི་ སེམས་ ཀྱང་ སྐད་ཅིག་མ །"
