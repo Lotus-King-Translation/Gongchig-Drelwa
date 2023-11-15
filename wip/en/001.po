@@ -4843,7 +4843,7 @@ msgid ""
 "དེ་ ཆོས་ཅན་ རྟོག་པ་ གཉིས་ སམ་ མང་པོ་ དུས་ གཅིག་ ཅ་␣ར་ དུ་ འཇུག་པ་ མི་ སྲིད་ "
 "དེ་"
 msgstr ""
-"Take this as the subject, it is impossible for two or more thoughts to "
+"Take that as the subject, it is impossible for two or more thoughts to "
 "engage simultaneously."
 
 msgctxt "4e9f66c63d304153851a822f695e7130"
