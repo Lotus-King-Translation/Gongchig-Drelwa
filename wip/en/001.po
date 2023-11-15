@@ -4925,6 +4925,7 @@ msgstr "It absurdly follows that a person with many mindstreams."
 msgctxt "71556f7a727f4fe98413d3e0e419505e"
 msgid "རྡོ་␣༽༽་␣གཞན་ དུ་ སེམས་ གཞི་ ལ་␣ས་ སེམས་བྱུང་ འབྱུང་བ་␣ར་ འདོད་ དེ །"
 msgstr ""
+"Vajra: others accept that mental events emerge from the basis of mind."
 
 msgctxt "af9ed7bd1b2444a986cb8af254226c31"
 msgid "དབུས་ མཐ་␣ར །"
