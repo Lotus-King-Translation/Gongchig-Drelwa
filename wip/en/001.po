@@ -4954,6 +4954,7 @@ msgstr "Its distinctive features are said to be mental events."
 msgctxt "780907ccc9e443ec93e2c9680e1d92ae"
 msgid "འདི་␣ར་ སེམས་ལས་ སེམས་བྱུང་ འབྱུང་བ་ གཞིར་བཞག་"
 msgstr ""
+"In this [system], the basis is that the mental events arise from the mind. "
 
 msgctxt "eeadc4f758bd4a3395fb2bea2b839494"
 msgid "དེ་ལས་ ཀྱང་ སེམས་ ནི་ འབྱུང་བ་ འགྲུབ་ སྟེ །"
