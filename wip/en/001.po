@@ -4860,7 +4860,7 @@ msgstr "For example, the tangible objects of cold and hot."
 
 msgctxt "c1593202e0e64f62a67f37b1ea5c76a9"
 msgid "དཔལ་ ཕྲེང་ གིས་ ཞུས་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Glorious Garland [Sutra]:"
 
 msgctxt "c081d416f24f4385b6f77c7b8af57340"
 msgid "དགེ་བ་␣འི་ སེམས་ ཀྱང་ སྐད་ཅིག་མ ། །"
