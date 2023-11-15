@@ -4828,7 +4828,7 @@ msgstr "Thus, the neutral is included in the category of non-virtues."
 
 msgctxt "3910a54aeebe4f01ad3a9593e0926dd1"
 msgid "རྡོ་␣༽༽  མངའ་བདག་ སྟག་ ཚ་ ན་རེ །"
-msgstr ""
+msgstr "Vajra: The lord Taktsa said,"
 
 msgctxt "a995d5286ff24d7b9382ea078fb97c8b"
 msgid ""
