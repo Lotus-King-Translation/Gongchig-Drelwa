@@ -5079,6 +5079,8 @@ msgstr "There is an end to samsara because there is no new birth and "
 msgctxt "5cd8662b799e4ecfb7f0d4878a9e27dd"
 msgid "འགའ་ཞིག་ མཐའ་མེད་ དེ་ ཟོ་ཆུན་ ལྟར་ དུ་ གསུངས་པ་␣འི་ ཕྱིར་ ཟེར །"
 msgstr ""
+"Some [people] said there is no end because it is said to be like a "
+"waterwheel. "
 
 msgctxt "14c0ed6724964f1d828253f5501548f9"
 msgid "འདི་␣ར་ ནི་ འཁོར་བ་␣འི་ གཞི་ གཤིས་ གྲུབ་པ་ མེད་ ཅིང་"
