@@ -5098,6 +5098,7 @@ msgstr ""
 msgctxt "da4992d92fb0420d9e19c2a143fd6af1"
 msgid "འཁོར་བ་ ཐོག་མཐའ་ དབུས་ མེད་པ་␣ར་ བཞེད་ དེ །"
 msgstr ""
+"It is accepted that cyclic existence is without a beginning, middle, or end."
 
 msgctxt "525c1b4d8c6b4ffca2617eb868f070f0"
 msgid "གང་ཞིག་ རྐྱེན་ ལ་␣ས་ སྐྱེས་པ་ དེ་ མ་ སྐྱེས །"
