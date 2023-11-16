@@ -5161,6 +5161,7 @@ msgstr ""
 msgctxt "40cef5ffdc7b44e796d22ac5e61e2db7"
 msgid "དེ་ གཉིས་ བདག་མེད་ བཞིན་ དུ་ འབྲས་བུ་འབྱུང་ ཞིང་"
 msgstr ""
+"Although both of these are lack of self, [they] still produce results."
 
 msgctxt "f738306a844849dba221f6712f272cf7"
 msgid "རྟག་ཆད་ དང་ བྲལ་བ་␣ས་ རྟེན་འབྲེལ་ མདུང་ ཁྱིམ་ ལྟ་བུ་ སྟེ་"
