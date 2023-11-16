@@ -5001,7 +5001,7 @@ msgstr "Therefore, it is established that this also exists."
 
 msgctxt "1692d6201b2a405f80476cc9f4fb385e"
 msgid "རྡོ གཞན་ དག་ ན་རེ །"
-msgstr ""
+msgstr "Vajra: Others said,"
 
 msgctxt "2747d8378e8947c69d84d20ca4a8034d"
 msgid "འཁོར་བ་␣ར་ འཁོར་བ་ ནི་ སེམས་ ཡིན་ ཏེ །"
