@@ -5052,7 +5052,7 @@ msgstr "Well then, the four formless [realms] and so on,"
 
 msgctxt "673ed3b4398d4ca1aa6feeac30893af6"
 msgid "དངོས་ ལུས་མེད་པ་␣ར་ ཇི་ལྟར་ འཁོར་ སྙམ་ ན །"
-msgstr ""
+msgstr "If [one] wonders how they cycle in samsara without an actual body?"
 
 msgctxt "6663bfbb62da4d2aaa0c1b1063610277"
 msgid ""
