@@ -5010,6 +5010,7 @@ msgstr "It is the mind that circles in cyclic existence."
 msgctxt "c26304c8209e4a8db50b23767fdf0880"
 msgid "སྡུག་བསྔལ་ དང་ རྣམ་སྨིན་ དེ་␣ར་ བརྟེན་པ་␣འི་ ཕྱིར་ དང་ །"
 msgstr ""
+"Therefore, the suffering and the complete ripening are dependent on this."
 
 msgctxt "9a4a3b719078446b84029a04ef918960"
 msgid "ལུས་ བེམ་པོ་ ཡིན་པ་␣འི་ ཕྱིར་ ཞེས་ ཟེར་ རོ །"
