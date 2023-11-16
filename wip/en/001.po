@@ -5146,6 +5146,8 @@ msgid ""
 "ཕྱི་ རྒྱུ་ས་ བོན་ རྐྱེན་ འབྱུང་ ལྔ་ དུས་ ཀྱི་ འགྱུར་བ་ དྲུག་ ཚོགས་པ་␣ས་ "
 "འབྲས་བུ་འབྱུང་བ་ དང༌ །"
 msgstr ""
+"The result occurs by the accumulation of the outer cause, the seeds, the "
+"conditions, the five elements, and the six changing times."
 
 msgctxt "7c6dbf5aaebf48b1a50c3c888f4d9b1a"
 msgid ""
