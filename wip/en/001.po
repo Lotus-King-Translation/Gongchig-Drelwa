@@ -5048,7 +5048,7 @@ msgstr ""
 
 msgctxt "7b2568e4c31e48e993b5141fbd80cdf4"
 msgid "འོ་ན་ གཟུགས་ མེད་ བཞི་ སོགས །"
-msgstr ""
+msgstr "Well then, the four formless [realms] and so on,"
 
 msgctxt "673ed3b4398d4ca1aa6feeac30893af6"
 msgid "དངོས་ ལུས་མེད་པ་␣ར་ ཇི་ལྟར་ འཁོར་ སྙམ་ ན །"
