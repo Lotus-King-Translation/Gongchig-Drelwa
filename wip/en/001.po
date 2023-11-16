@@ -5084,7 +5084,7 @@ msgstr ""
 
 msgctxt "14c0ed6724964f1d828253f5501548f9"
 msgid "འདི་␣ར་ ནི་ འཁོར་བ་␣འི་ གཞི་ གཤིས་ གྲུབ་པ་ མེད་ ཅིང་"
-msgstr ""
+msgstr "In this [system], the basis of samsara does not exist innately."
 
 msgctxt "441ae81d236048b0a1dd427553dbcb18"
 msgid "སྣང་བ་␣འི་ ཆོས་ རྣམས་ རྟེན་འབྲེལ་ ཡིན་པ་␣ས་"
