@@ -5102,7 +5102,7 @@ msgstr ""
 
 msgctxt "525c1b4d8c6b4ffca2617eb868f070f0"
 msgid "གང་ཞིག་ རྐྱེན་ ལ་␣ས་ སྐྱེས་པ་ དེ་ མ་ སྐྱེས །"
-msgstr ""
+msgstr "Whatever is born of conditions is unborn."
 
 msgctxt "fd9a35cb92bf45bbb704b55d58b3ead0"
 msgid "སོགས་ ཅེས་ སོ །"
