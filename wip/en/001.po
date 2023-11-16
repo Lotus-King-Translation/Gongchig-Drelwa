@@ -5088,7 +5088,7 @@ msgstr "In this [system], the basis of samsara does not exist innately."
 
 msgctxt "441ae81d236048b0a1dd427553dbcb18"
 msgid "སྣང་བ་␣འི་ ཆོས་ རྣམས་ རྟེན་འབྲེལ་ ཡིན་པ་␣ས་"
-msgstr ""
+msgstr "Because all appearing phenomena are interdependent."
 
 msgctxt "02f74b585f7442018ac14c8c2053c391"
 msgid "སྐྱེ་འགག་␣ས་ གནས་ གསུམ་ སོགས་ སྤྲོས་པ་ ཐམས་ཅད་ བྲལ་བ་␣འི་ ཕྱིར་"
