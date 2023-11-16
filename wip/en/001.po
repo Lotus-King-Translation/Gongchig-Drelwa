@@ -4993,7 +4993,7 @@ msgstr ""
 
 msgctxt "b1f5109ad6a7474198dc94a7a8b18794"
 msgid "སྐད་ཅིག་ གི་ ཕྲེང་བ་ ཡིན་པ་␣ར་ གསུངས་པ་"
-msgstr ""
+msgstr "This is called the garland of moments."
 
 msgctxt "8244895ef60449d3a1e29623fc613c31"
 msgid "དེ་␣འི་ ཕྱིར་ འདི་␣འང་ ཡོད་པ་␣ར་ སྒྲུབ་བོ །"
