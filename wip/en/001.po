@@ -5005,7 +5005,7 @@ msgstr "Vajra: Others said,"
 
 msgctxt "2747d8378e8947c69d84d20ca4a8034d"
 msgid "འཁོར་བ་␣ར་ འཁོར་བ་ ནི་ སེམས་ ཡིན་ ཏེ །"
-msgstr "It is the mind that transmigrates in cyclic existence."
+msgstr "It is the mind that circles in cyclic existence."
 
 msgctxt "c26304c8209e4a8db50b23767fdf0880"
 msgid "སྡུག་བསྔལ་ དང་ རྣམ་སྨིན་ དེ་␣ར་ བརྟེན་པ་␣འི་ ཕྱིར་ དང་ །"
