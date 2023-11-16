@@ -5058,6 +5058,8 @@ msgctxt "6663bfbb62da4d2aaa0c1b1063610277"
 msgid ""
 "གཟུགས་ མེད་ ན་ རྣམ་རིག་ མིན་པ་␣འི་ གཟུགས་ དང་ རྨི་ལམ་ ན་ བག་ ཆག་ གི་ དང་ །"
 msgstr ""
+"In the formless realms, there are imperceptible forms and latency in dreams "
+"and "
 
 msgctxt "047d69560ed14b1fb64341e914bfe1f1"
 msgid ""
