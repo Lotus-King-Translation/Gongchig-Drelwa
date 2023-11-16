@@ -5139,7 +5139,7 @@ msgstr "I became a buddha in unsurpassed enlightenment."
 
 msgctxt "b3f49b685f94474d8d00bb19c3aa9f23"
 msgid "ཞེས་པ་ འདི་ ལ་"
-msgstr ""
+msgstr "And to this. "
 
 msgctxt "4f7c738848424662a7843ccb7aeba431"
 msgid ""
