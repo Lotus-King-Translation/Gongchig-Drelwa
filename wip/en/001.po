@@ -5093,6 +5093,7 @@ msgstr "Because all appearing phenomena are interdependent."
 msgctxt "02f74b585f7442018ac14c8c2053c391"
 msgid "སྐྱེ་འགག་␣ས་ གནས་ གསུམ་ སོགས་ སྤྲོས་པ་ ཐམས་ཅད་ བྲལ་བ་␣འི་ ཕྱིར་"
 msgstr ""
+"Because arising, ceasing, abiding and others are free of elaborations."
 
 msgctxt "da4992d92fb0420d9e19c2a143fd6af1"
 msgid "འཁོར་བ་ ཐོག་མཐའ་ དབུས་ མེད་པ་␣ར་ བཞེད་ དེ །"
