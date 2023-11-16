@@ -4969,6 +4969,8 @@ msgstr ""
 msgctxt "395ea73ff2e4481ea4dafa2e5949bb78"
 msgid "དེ་ ལ་ བརྟེན་ ནས་ སེམས་བསྐྱེད་པ་ སེམས་བྱུང༌ །"
 msgstr ""
+"The generation of the mind [for enlightenment] by relying on that is a "
+"mental event."
 
 msgctxt "c66c5aadda6847a0bd680d193bd39eb3"
 msgid "དེ་␣ས་ ཐེག་ཆེན་ གྲུབ་པ་ གོང་ གི་ སེམས་ དེ་ གྲུབ་པ་␣ས་"
