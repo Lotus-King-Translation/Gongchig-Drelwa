@@ -5123,11 +5123,11 @@ msgstr ""
 
 msgctxt "caa826bab4454a7394d40b192d20b212"
 msgid "གྲོང་ཁྱེར་ ལྟ་བུ་␣འི་ མདོ་␣ར །"
-msgstr ""
+msgstr "According to the City-like sutra:"
 
 msgctxt "039523aaa8cf43a685874bf0cf8c472a"
 msgid "དགེ་སློང་ དག་ ང་ བྱང་ཆུབ་ ཀྱི་ སྙིང་པོ་ ལ་ འདུག་པ་␣འི་ ཚེ་"
-msgstr ""
+msgstr "Monks, when I was staying at the essence of enlightenment, "
 
 msgctxt "d413dbceebbb450ba2d3dfa399ac8be1"
 msgid "རྟེན་ ཅིང་ འབྲེལ་བ་␣ར་ འབྱུང་བ་ འདི་ སྔོན་ དུ་ བྱས་པ་␣ས་"
