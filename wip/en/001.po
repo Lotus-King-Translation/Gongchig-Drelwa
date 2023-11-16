@@ -5074,7 +5074,7 @@ msgstr "Addendum: someone said,"
 
 msgctxt "111fd165b55f4618a6c09cbf8f783d78"
 msgid "འཁོར་བ་ མཐའ་ ཡོད་ དེ་ གས་␣ར་ སྐྱེ་ མེད་པ་␣ས་ དང་ །"
-msgstr ""
+msgstr "There is an end to samsara because there is no new birth and "
 
 msgctxt "5cd8662b799e4ecfb7f0d4878a9e27dd"
 msgid "འགའ་ཞིག་ མཐའ་མེད་ དེ་ ཟོ་ཆུན་ ལྟར་ དུ་ གསུངས་པ་␣འི་ ཕྱིར་ ཟེར །"
