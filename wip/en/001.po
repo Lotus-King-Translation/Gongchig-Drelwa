@@ -5167,7 +5167,7 @@ msgctxt "f738306a844849dba221f6712f272cf7"
 msgid "རྟག་ཆད་ དང་ བྲལ་བ་␣ས་ རྟེན་འབྲེལ་ མདུང་ ཁྱིམ་ ལྟ་བུ་ སྟེ་"
 msgstr ""
 "Because of being free from permanence and nihilation, [they] are "
-"interdependent like a tent pole."
+"interdependent like a bundle of reeds."
 
 msgctxt "74fb7bb70b1f466da8463febce308c9d"
 msgid "དེ་དག་ ལས་མ་ རིག་པ་ ནི་ བཅུ་གཉིས་ ཀྱི་ ཡ་ རྒྱལ་ གཅིག་ ཡིན་ ཟེར །"
