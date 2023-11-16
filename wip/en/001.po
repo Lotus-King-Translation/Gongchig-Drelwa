@@ -5065,6 +5065,8 @@ msgctxt "047d69560ed14b1fb64341e914bfe1f1"
 msgid ""
 "སྲིད་པ་ བར་དོ་␣ར་ ཡིད་ ལུས་ ཡོད་པ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར་ ལུས་ འཁོར་བ་␣འོ །"
 msgstr ""
+"The body is samsara because it is said that there is a mental body in the "
+"intermediate state of existence. "
 
 msgctxt "d0de567a85a1442882c44647793b14ea"
 msgid "ལྷན་␣༽༽  ཁོ་ན་ རེ །"
