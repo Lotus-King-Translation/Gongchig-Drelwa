@@ -4976,6 +4976,8 @@ msgstr ""
 msgctxt "c66c5aadda6847a0bd680d193bd39eb3"
 msgid "དེ་␣ས་ ཐེག་ཆེན་ གྲུབ་པ་ གོང་ གི་ སེམས་ དེ་ གྲུབ་པ་␣ས་"
 msgstr ""
+"This will accomplish the Great Vehicle because the previous mind is "
+"accomplished."
 
 msgctxt "89279d28cdb64cc0990afd82e47fac39"
 msgid "སེམས་ ཏེ་ མདོར་ན་ ཡུལ་ ལ་ གཏོད་པ་␣འི་ སྐད་ཅིག་ དང་པོ །"
