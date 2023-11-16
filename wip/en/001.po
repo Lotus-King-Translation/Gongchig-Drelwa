@@ -4981,7 +4981,7 @@ msgstr ""
 
 msgctxt "89279d28cdb64cc0990afd82e47fac39"
 msgid "སེམས་ ཏེ་ མདོར་ན་ ཡུལ་ ལ་ གཏོད་པ་␣འི་ སྐད་ཅིག་ དང་པོ །"
-msgstr ""
+msgstr "In brief, the mind is the first moment that focuses on an object."
 
 msgctxt "2d548e269ded476d91d61db7382e378a"
 msgid ""
