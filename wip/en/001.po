@@ -5014,7 +5014,7 @@ msgstr ""
 
 msgctxt "9a4a3b719078446b84029a04ef918960"
 msgid "ལུས་ བེམ་པོ་ ཡིན་པ་␣འི་ ཕྱིར་ ཞེས་ ཟེར་ རོ །"
-msgstr ""
+msgstr "Because it is said that the body is matter."
 
 msgctxt "f6727c86cd444b21a5bcf5afed76e184"
 msgid "འདི་␣ར་ ནི་ འཁོར་བ་␣འི་ རྒྱ་མཚོ་␣ར་ ལུས་ ཉིད་ འཁོར་བ་␣ར་ བཞེད་ དེ །"
