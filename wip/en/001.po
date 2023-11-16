@@ -5070,7 +5070,7 @@ msgstr ""
 
 msgctxt "d0de567a85a1442882c44647793b14ea"
 msgid "ལྷན་␣༽༽  ཁོ་ན་ རེ །"
-msgstr ""
+msgstr "Addendum: someone said,"
 
 msgctxt "111fd165b55f4618a6c09cbf8f783d78"
 msgid "འཁོར་བ་ མཐའ་ ཡོད་ དེ་ གས་␣ར་ སྐྱེ་ མེད་པ་␣ས་ དང་ །"
