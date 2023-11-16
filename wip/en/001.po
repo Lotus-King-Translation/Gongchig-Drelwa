@@ -5043,6 +5043,8 @@ msgid ""
 "དཔེར་ན་ རྒྱ་མཚོ་ ཆེན་པོ་ སྲོག་ཆགས་ རྣམས་ ཀྱི་ རྟེན་གནས་ སུ་ གྱུར་པ་ བཞིན་ ནོ"
 " ། །"
 msgstr ""
+"In the same manner, the vast ocean becomes a place of support for all living"
+" beings."
 
 msgctxt "7b2568e4c31e48e993b5141fbd80cdf4"
 msgid "འོ་ན་ གཟུགས་ མེད་ བཞི་ སོགས །"
