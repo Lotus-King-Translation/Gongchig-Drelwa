@@ -5027,6 +5027,8 @@ msgid ""
 "དེ་ འཁོར་བ་␣འི་ གཞི་ རྟེན་ ཐོག་མེད་ བག་ཆགས་ ཀྱི་ ས་བོན་ རྣམས་ ཀྱིས་ གང་བ་␣ར་"
 " གནས་ ཤིང༌ །"
 msgstr ""
+"That is the basis of samsara which is filled with seeds of beginningless "
+"latency."
 
 msgctxt "2abbc1993e0f4fedb6533aeb4b8fa190"
 msgid "དེ་དག་ རྐྱེན་ དང་ ཕྲད་པ་␣ས་ རྟོག་པ་ སྣ་ཚོགས་ སྐྱེ་ ཞིང་"
