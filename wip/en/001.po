@@ -4988,6 +4988,8 @@ msgid ""
 "སེམས་ དང་ དེ་␣འི་ ཁྱད་པར་ ལ་ དཔྱོད་པ་ གཉིས་པ་ སེམས་བྱུང་ དེ་ ཟིན་པ་ སླར་ "
 "སེམས་ སྐྱེ་ སྟེ །"
 msgstr ""
+"The mind arises again by grasping the second mental event that analyzes the "
+"mind and its features."
 
 msgctxt "b1f5109ad6a7474198dc94a7a8b18794"
 msgid "སྐད་ཅིག་ གི་ ཕྲེང་བ་ ཡིན་པ་␣ར་ གསུངས་པ་"
