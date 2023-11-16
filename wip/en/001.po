@@ -5019,6 +5019,8 @@ msgstr "Because it is said that the body is matter."
 msgctxt "f6727c86cd444b21a5bcf5afed76e184"
 msgid "འདི་␣ར་ ནི་ འཁོར་བ་␣འི་ རྒྱ་མཚོ་␣ར་ ལུས་ ཉིད་ འཁོར་བ་␣ར་ བཞེད་ དེ །"
 msgstr ""
+"In this [system], It is accepted that the body itself cycles in the ocean of"
+" cyclic existence."
 
 msgctxt "eafe0aaca1f7451b9104b60b817d2f9e"
 msgid ""
