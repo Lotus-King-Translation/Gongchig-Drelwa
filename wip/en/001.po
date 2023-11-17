@@ -5191,6 +5191,8 @@ msgctxt "577ca07e5b074c5f958196c76c28233a"
 msgid ""
 "མ་རིག་ འགག་ ན་ རྒ་ཤི་␣འི་ བར་ དུ་ འགག་པ་␣ས་ ཀྱང་ མ་རིག་པ་␣འི་ གཡོས་ ཏེ །"
 msgstr ""
+"When ignorance ceases, up to ageing and death will be ceased, because this "
+"is the movement of ignorance."
 
 msgctxt "f3979e4863854dc6a9b3a11fd9d0bf92"
 msgid "སྡུད་པ་ ལ་␣ས །"
