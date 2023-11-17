@@ -5180,6 +5180,8 @@ msgid ""
 "འདི་␣ར་ ནི་ རྟེན་འབྲེལ་ བཅུ་གཉིས་ མ་རིག་ ཁོ་ན་␣འི་ གཡོས་ སམ་ འཕྲུལ་ ཏེ་ "
 "མ་རིག་ ཡོད་ ན་"
 msgstr ""
+"In this [system], the twelve links of dependent relationship are moved or "
+"tricked by ignorance alone. "
 
 msgctxt "eabb5aa3b91f4b2fbd43456470174d00"
 msgid "རྒ་ཤི་␣འི་ བར་ ཡོད་ དུ་ཡོད་པ་␣ས་ དང༌ །"
