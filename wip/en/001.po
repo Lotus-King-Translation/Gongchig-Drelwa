@@ -5185,7 +5185,7 @@ msgstr ""
 
 msgctxt "eabb5aa3b91f4b2fbd43456470174d00"
 msgid "རྒ་ཤི་␣འི་ བར་ ཡོད་ དུ་ཡོད་པ་␣ས་ དང༌ །"
-msgstr "It exists up to ageing and death when it is present."
+msgstr "It exists up to ageing and death when it is present and"
 
 msgctxt "577ca07e5b074c5f958196c76c28233a"
 msgid ""
