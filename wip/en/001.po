@@ -5205,6 +5205,8 @@ msgstr "Any sentient being, no matter how inferior, middling, or superior."
 msgctxt "52234748f2704262b0ad1865d5902e01"
 msgid "མ་རིག་པ་ སྒོམ་ བྱུང་ ཟག་མེད་ ཀྱི་ ཤེས་རབ་ ཀྱིས་ སུན་ ཕྱུང་ ན་"
 msgstr ""
+"If [one] defeats ignorance with the undefiled wisdom gained through "
+"meditation,"
 
 msgctxt "e0e05cae7a1847b093d26dea39a42278"
 msgid "ཟག་མེད་ ཀྱི་ ཡོན་ཏན་ ཐམས་ཅད་ ཐོབ་ སྟེ །"
