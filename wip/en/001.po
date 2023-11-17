@@ -5172,6 +5172,8 @@ msgstr ""
 msgctxt "74fb7bb70b1f466da8463febce308c9d"
 msgid "དེ་དག་ ལས་མ་ རིག་པ་ ནི་ བཅུ་གཉིས་ ཀྱི་ ཡ་ རྒྱལ་ གཅིག་ ཡིན་ ཟེར །"
 msgstr ""
+"From these, it is said that ignorance is one of the twelve [links of "
+"dependent relationship]."
 
 msgctxt "01dd374298404f64ba55bbdc753f804e"
 msgid ""
