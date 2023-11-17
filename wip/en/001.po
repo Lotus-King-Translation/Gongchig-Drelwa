@@ -5210,7 +5210,7 @@ msgstr ""
 
 msgctxt "e0e05cae7a1847b093d26dea39a42278"
 msgid "ཟག་མེད་ ཀྱི་ ཡོན་ཏན་ ཐམས་ཅད་ ཐོབ་ སྟེ །"
-msgstr ""
+msgstr "All the undefiled qualities will be attained."
 
 msgctxt "f5b9887f67ef46e787a75398740c917a"
 msgid "ཡེ་ཤེས་ ཚུལ་ སྒོ་ ཐབས་ དང་ རྩ་བ་ ཇི་སྙེད་པ །"
