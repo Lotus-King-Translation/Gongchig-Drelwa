@@ -5251,7 +5251,7 @@ msgstr "The remaining are suffering."
 
 msgctxt "3c26bd334616490b849d6ad30f53fe3b"
 msgid "ཞེས་པ་␣ས་"
-msgstr ""
+msgstr "Thus,"
 
 msgctxt "9a507c9fb6e54b09a063fe09003ff625"
 msgid "རིམ་བཞིན་ ལྷག་ སྔ་མ་ ད་ལྟ་ ཕྱི་མ་ གསུམ་ ལ་␣ས་ རྫོགས་ ཟེར །"
