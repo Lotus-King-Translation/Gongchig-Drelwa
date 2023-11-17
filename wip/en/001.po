@@ -5227,7 +5227,7 @@ msgstr ""
 
 msgctxt "754db6cff71f453f8d2047e715b2cf77"
 msgid "བཅུ་གཅིག་པོ་ ལ་ རང་དབང་ མེད་པ་␣ས་ སོ །"
-msgstr ""
+msgstr "The eleven have no independence."
 
 msgctxt "55757d1963ff4576af5e9ea2908dd8ba"
 msgid "རྡོ་␣༽༽  གཞན་ ཤེས་ ལ །"
