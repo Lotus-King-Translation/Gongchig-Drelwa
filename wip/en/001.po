@@ -5214,7 +5214,7 @@ msgstr "All the undefiled qualities will be attained."
 
 msgctxt "f5b9887f67ef46e787a75398740c917a"
 msgid "ཡེ་ཤེས་ ཚུལ་ སྒོ་ ཐབས་ དང་ རྩ་བ་ ཇི་སྙེད་པ །"
-msgstr " All the doors of method and root as a mode of wisdom,"
+msgstr " All the doors of method and root as a mode of wisdom."
 
 msgctxt "ee8a94103395483f8c53c601b62eaf80"
 msgid "ཞེས་ སོགས་པ་␣ས་"
