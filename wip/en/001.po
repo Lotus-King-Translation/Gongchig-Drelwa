@@ -18211,7 +18211,7 @@ msgstr ""
 
 msgctxt "012a96f68d064c44b9d5220cd689c4c1"
 msgid "སྡུད་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Condensed [Prajnaparamita In Verse]:"
 
 msgctxt "17633856018d4efe844ae570929edc38"
 msgid "མ་ ཞིག་ ན་བ་␣ར་ གྱུར་པ་ བུ་ ནི་ མང་ ཡོད་པ ། །"
