@@ -5218,7 +5218,7 @@ msgstr " All the doors of method and root as a mode of wisdom,"
 
 msgctxt "ee8a94103395483f8c53c601b62eaf80"
 msgid "ཞེས་ སོགས་པ་␣ས་"
-msgstr ""
+msgstr "And so on. "
 
 msgctxt "359d3c29449a4450be143d329b820994"
 msgid "དམིགས་ མཚན་ དུ་ འཛིན་པ་␣ས་ མ་རིག་པ་ སྟོབས་ སུ་ གྱུར་ ཅིང་ །"
