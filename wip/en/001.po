@@ -5231,7 +5231,7 @@ msgstr "The eleven have no independence."
 
 msgctxt "55757d1963ff4576af5e9ea2908dd8ba"
 msgid "རྡོ་␣༽༽  གཞན་ ཤེས་ ལ །"
-msgstr ""
+msgstr "Vajra: In the knowledge of others,"
 
 msgctxt "650b321c3f6b49aa87b185b2bc70ef3d"
 msgid "རྟེན་འབྲེལ་ བཅུ་གཉིས་ ནི་ གསུམ་ དུ་ འདུ་ སྟེ །"
