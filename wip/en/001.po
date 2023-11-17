@@ -5247,7 +5247,7 @@ msgstr ""
 
 msgctxt "1e6d9c6f86c84ef99c49ebc9f2866de0"
 msgid "ལྷག་མ་ རྣམས་ ནི་ སྡུག་བསྔལ་ ལོ །"
-msgstr ""
+msgstr "The remaining are suffering."
 
 msgctxt "3c26bd334616490b849d6ad30f53fe3b"
 msgid "ཞེས་པ་␣ས་"
