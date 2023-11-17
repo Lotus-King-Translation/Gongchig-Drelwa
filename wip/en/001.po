@@ -5242,6 +5242,8 @@ msgstr ""
 msgctxt "9ea37e79acab4931abe5c2cfeb1e4380"
 msgid "དང་པོ་ བརྒྱད་པ་ དགུ་ ཉོན་མོངས་ གཉིས་པ་ བཅུ་པ་ ལ་␣ས་ ཡིན་ ཏེ །"
 msgstr ""
+"The first, eighth, and ninth are afflictions, while the second and tenth are"
+" karma."
 
 msgctxt "1e6d9c6f86c84ef99c49ebc9f2866de0"
 msgid "ལྷག་མ་ རྣམས་ ནི་ སྡུག་བསྔལ་ ལོ །"
