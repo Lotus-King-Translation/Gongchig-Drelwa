@@ -9895,7 +9895,7 @@ msgstr ""
 
 msgctxt "6572ac7c3f454e279f8f201f6fc3a3eb"
 msgid "སྡུད་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Condensed [Prajnaparamita In Verse]:"
 
 msgctxt "77c9fd5045094312acc7afbe46c233a1"
 msgid "སྦྱིན་པ་ སྦྱིན་པ་␣འི་ སྔོན་ དུ་ འགྲོ་བ་ ཤེས་རབ་ སྟེ །"
