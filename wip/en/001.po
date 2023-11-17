@@ -5223,6 +5223,7 @@ msgstr "And so on. "
 msgctxt "359d3c29449a4450be143d329b820994"
 msgid "དམིགས་ མཚན་ དུ་ འཛིན་པ་␣ས་ མ་རིག་པ་ སྟོབས་ སུ་ གྱུར་ ཅིང་ །"
 msgstr ""
+"Ignorance becomes powerful because of grasping at the marks of observation, "
 
 msgctxt "754db6cff71f453f8d2047e715b2cf77"
 msgid "བཅུ་གཅིག་པོ་ ལ་ རང་དབང་ མེད་པ་␣ས་ སོ །"
