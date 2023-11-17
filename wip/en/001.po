@@ -5236,6 +5236,8 @@ msgstr "Vajra: In the knowledge of others,"
 msgctxt "650b321c3f6b49aa87b185b2bc70ef3d"
 msgid "རྟེན་འབྲེལ་ བཅུ་གཉིས་ ནི་ གསུམ་ དུ་ འདུ་ སྟེ །"
 msgstr ""
+"The twelve links of dependent relationship can be grouped into three "
+"[categories]."
 
 msgctxt "9ea37e79acab4931abe5c2cfeb1e4380"
 msgid "དང་པོ་ བརྒྱད་པ་ དགུ་ ཉོན་མོངས་ གཉིས་པ་ བཅུ་པ་ ལ་␣ས་ ཡིན་ ཏེ །"
