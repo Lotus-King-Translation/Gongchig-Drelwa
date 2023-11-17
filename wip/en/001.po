@@ -17557,7 +17557,7 @@ msgstr ""
 
 msgctxt "a597c1f041384fbdb197f247ead75954"
 msgid "མདོ་ སྡུད་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Sutra of Condensed [Prajnaparamita In Verse]:"
 
 msgctxt "f753cf7830974bafb74c457bb25c266c"
 msgid "ཡེཤེས་ མེད་ ན་ ཡོན་ཏན་ འཕེལ་ མེད་ བྱང་ཆུབ་ མེད ། །"
