@@ -5313,7 +5313,7 @@ msgstr ""
 
 msgctxt "977462b6f4c74166be2874d225217348"
 msgid "རྟ་མགྲིན་ གཤམ་པ་ བཀོད་པ །"
-msgstr ""
+msgstr "Hayagriva is arranged below."
 
 msgctxt "0fc77fe80191493f93aa8ec6351a0067"
 msgid "འདུལ་བ་ གདགས་པ །"
