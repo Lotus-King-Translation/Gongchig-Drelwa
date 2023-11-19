@@ -5321,7 +5321,7 @@ msgstr "Designation of Vinaya"
 
 msgctxt "fe4f4a8efd644d098375572c284e3780"
 msgid "དྲན་ ཉེར་ སོགས་ ལ་␣ས་ དུ་མ་ འབྱུང་བ་"
-msgstr ""
+msgstr "Many emerge from mindfulness and so on."
 
 msgctxt "6864f724ad2d42cdb67681ecbd46e097"
 msgid "སྙན་ངག་ ལྟར་ བཤད་པ་ དང་ གནས་ལུགས་ ལྟར་ བཤད་པ་ གཉིས་ སུ་ ཡོད་ ཟེར །"
