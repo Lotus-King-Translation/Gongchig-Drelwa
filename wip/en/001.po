@@ -5308,6 +5308,8 @@ msgid ""
 "རྡོ་␣༽༽  འཇིག་རྟེན་ གྱི་ ཚད་ དང་ བྱུང་ཚུལ་ ཆགས་ གནས་ འཇིག་ སྟོང་ མི་ གཅིག་པ་"
 " དུས་འཁོར །"
 msgstr ""
+"Vajra: The Kalachakra depicts the varying sizes of the world [systems] and "
+"how they occur, such as formation, abiding, and destruction."
 
 msgctxt "977462b6f4c74166be2874d225217348"
 msgid "རྟ་མགྲིན་ གཤམ་པ་ བཀོད་པ །"
