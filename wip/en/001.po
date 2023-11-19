@@ -5289,7 +5289,7 @@ msgstr "The conduct is a piece of action."
 
 msgctxt "fcad44134a4a4c58bf0c65593b656eac"
 msgid "རྗེས་ ཐིམ་པ །"
-msgstr ""
+msgstr "Subsiding into imprint,"
 
 msgctxt "0d85b55dbc5d4772b79fb6acf5727acd"
 msgid "སྡུག་ འསྔལ་ གྱི་ དུམ་བུ་ སྟེ་"
