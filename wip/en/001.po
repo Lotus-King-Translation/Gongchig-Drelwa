@@ -5326,6 +5326,8 @@ msgstr "Many emerge from mindfulness and so on."
 msgctxt "6864f724ad2d42cdb67681ecbd46e097"
 msgid "སྙན་ངག་ ལྟར་ བཤད་པ་ དང་ གནས་ལུགས་ ལྟར་ བཤད་པ་ གཉིས་ སུ་ ཡོད་ ཟེར །"
 msgstr ""
+"It is said that there are two ways of expositions: expostulate like poetry "
+"and expostulate like reality."
 
 msgctxt "129a51d388014eaf8d8c719c0cac97d7"
 msgid "འདི་␣ར་ ནི་ སེམས་ ནི་ ཐ་དད་ དབང་ གིས་ སྣང་བ་ ཡང་ཐ་ དད་ དེ །"
