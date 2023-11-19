@@ -5293,7 +5293,7 @@ msgstr "Subsiding into imprint,"
 
 msgctxt "0d85b55dbc5d4772b79fb6acf5727acd"
 msgid "སྡུག་ འསྔལ་ གྱི་ དུམ་བུ་ སྟེ་"
-msgstr ""
+msgstr "Is the section of suffering."
 
 msgctxt "413b5233f54843b6a6ca8100d15230ae"
 msgid ""
