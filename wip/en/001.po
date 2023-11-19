@@ -5267,7 +5267,7 @@ msgstr ""
 
 msgctxt "9b955332d693457ab9b6b72c2747ac6c"
 msgid "འདི་␣ར་ བཅུ་གཉིས་པོ་ དེ་ཡང་"
-msgstr "In this [system], the twelve [links] are"
+msgstr "In this [system], these twelve [links]"
 
 msgctxt "30b69dbb5391472bb2799008e09b9c71"
 msgid "སྐད་ཅིག་ གཅིག་ ལ་ ཚང་བ་␣ར་ འབྱུང་བ་␣འང་ ཡོད་ དེ་"
