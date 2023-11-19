@@ -5317,7 +5317,7 @@ msgstr "Hayagriva is arranged below."
 
 msgctxt "0fc77fe80191493f93aa8ec6351a0067"
 msgid "འདུལ་བ་ གདགས་པ །"
-msgstr ""
+msgstr "Designation of Vinaya"
 
 msgctxt "fe4f4a8efd644d098375572c284e3780"
 msgid "དྲན་ ཉེར་ སོགས་ ལ་␣ས་ དུ་མ་ འབྱུང་བ་"
