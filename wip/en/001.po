@@ -5271,7 +5271,7 @@ msgstr "In this [system], the twelve [links] are"
 
 msgctxt "30b69dbb5391472bb2799008e09b9c71"
 msgid "སྐད་ཅིག་ གཅིག་ ལ་ ཚང་བ་␣ར་ འབྱུང་བ་␣འང་ ཡོད་ དེ་"
-msgstr ""
+msgstr "There are also occasions when [all twelve] complete a single moment."
 
 msgctxt "ea1419e744d9402d80b18388477ecf1e"
 msgid ""
