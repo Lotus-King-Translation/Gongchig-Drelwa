@@ -5285,7 +5285,7 @@ msgstr ""
 
 msgctxt "ded7d8aa20784f9594e245d22258027d"
 msgid "སྤྱོད་པ་ ལ་␣ས་ ཀྱི་ དུམ་བུ །"
-msgstr ""
+msgstr "The conduct is a piece of action."
 
 msgctxt "fcad44134a4a4c58bf0c65593b656eac"
 msgid "རྗེས་ ཐིམ་པ །"
