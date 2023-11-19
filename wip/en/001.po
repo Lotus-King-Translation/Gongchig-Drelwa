@@ -5331,7 +5331,7 @@ msgstr ""
 
 msgctxt "129a51d388014eaf8d8c719c0cac97d7"
 msgid "འདི་␣ར་ ནི་ སེམས་ ནི་ ཐ་དད་ དབང་ གིས་ སྣང་བ་ ཡང་ཐ་ དད་ དེ །"
-msgstr ""
+msgstr "In this [system], appearances are distinct because of distinct minds."
 
 msgctxt "e032e649ec8b4c239b3ec417837259ab"
 msgid "དོན་དམ་པ་␣ར་ སྣོད་བཅུད་ གང་ཡང་ མ་ གྲུབ་ མོད །"
