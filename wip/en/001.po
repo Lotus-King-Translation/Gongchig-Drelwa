@@ -5383,7 +5383,7 @@ msgstr "In a single common view"
 
 msgctxt "b2c37f451876483994ac56dcd86d9604"
 msgid "ཤཱ་རི་␣འི་ བུས་ རང་རོང་ ཅན་ དུ་ མཐོང་ ཞིང་"
-msgstr ""
+msgstr "Shariputra saw it was uneven."
 
 msgctxt "ed9908d1b411458bbf9c0cc6cc520232"
 msgid ""
