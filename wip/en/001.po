@@ -5397,7 +5397,7 @@ msgstr "According to the Engaging in the Bodhisattva's Conduct:"
 
 msgctxt "33906de383284df4b6a53f44880d8255"
 msgid "ལྕགས་ བསྲེག་ ས་གཞི་ སུ་ ཡིས་ བྱས །"
-msgstr ""
+msgstr "Who created the molten iron base? "
 
 msgctxt "f52d4bc9e4e14f8aacf19f9c588c7027"
 msgid "སོགས་ གསུངས་པ་␣ས་ ཆུ་ ལ་ འགྲོ་བ་ དྲུག་ གིས་ མཐོང་བ་ བཞིན་ ནོ །"
