@@ -5375,7 +5375,7 @@ msgstr "And"
 
 msgctxt "a997830c9fdc48e0bb53380a557c0d11"
 msgid "དྲིམ་ མེད་པ་␣ར་ གྲགས་པ་␣འི་ མདོ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Vimalakirti sutra:"
 
 msgctxt "a22edcb1d2ba4351ab6e3401bd08426b"
 msgid "ལྟ་བ་ ཐུན་མོང་བ་ གཅིག་ ལ་"
