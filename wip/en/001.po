@@ -5367,7 +5367,7 @@ msgstr "The appearance of form and so on."
 
 msgctxt "9f4d7f81b3ea499ab33fb40d02dd14c6"
 msgid "རང་སེམས་ ཁོ་ན་␣ར་ སྣང་བ་␣འོ ། །"
-msgstr ""
+msgstr "It only appears to the mind."
 
 msgctxt "41b32a38954546219e753f3d6866f470"
 msgid "ཞེས་ དང་ །"
