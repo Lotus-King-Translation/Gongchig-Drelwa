@@ -5389,7 +5389,7 @@ msgctxt "ed9908d1b411458bbf9c0cc6cc520232"
 msgid ""
 "ཚངས་པ་ རལ་བ་ ཅན་ གྱིས་ རྣམ་པ་␣ར་ དག་པ་␣འི་ ཞིང་ དུ་ མཐོང་བ་␣ར་ གསུངས་པ་ དང༌ "
 "།"
-msgstr ""
+msgstr "It is said that Brahma Ralpachen saw it as a pure sphere."
 
 msgctxt "2c634548e83144c3af5225f2847b79a8"
 msgid "སྤྱོད་འཇུག་ ལ་␣ས །"
