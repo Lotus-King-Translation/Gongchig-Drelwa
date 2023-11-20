@@ -5379,7 +5379,7 @@ msgstr "According to the Vimalakirti sutra:"
 
 msgctxt "a22edcb1d2ba4351ab6e3401bd08426b"
 msgid "ལྟ་བ་ ཐུན་མོང་བ་ གཅིག་ ལ་"
-msgstr ""
+msgstr "In a single common view"
 
 msgctxt "b2c37f451876483994ac56dcd86d9604"
 msgid "ཤཱ་རི་␣འི་ བུས་ རང་རོང་ ཅན་ དུ་ མཐོང་ ཞིང་"
