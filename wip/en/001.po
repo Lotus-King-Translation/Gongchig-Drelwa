@@ -5434,6 +5434,8 @@ msgstr "Because of essentially being momentary. "
 msgctxt "93ead7fdefc043aba596b05a1b08b82e"
 msgid "ད་ལྟ་ བླ་མ་ དང་ རྒྱལ་པོ་ ལྟ་བུ་ མཉེས་པ་␣འི་ ལ་␣ས་ བསྒྲུབ་ ན་"
 msgstr ""
+"At present, if [one] performs actions that please others, such as a guru or "
+"a king,"
 
 msgctxt "88578415796442bd8e818efc28162d07"
 msgid "གདམ་ ག་ དང་ བྱ་དགའ་ ཐོབ་ ཅིང་"
