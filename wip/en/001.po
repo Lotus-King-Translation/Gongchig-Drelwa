@@ -5401,7 +5401,7 @@ msgstr "Who created the molten iron base? "
 
 msgctxt "f52d4bc9e4e14f8aacf19f9c588c7027"
 msgid "སོགས་ གསུངས་པ་␣ས་ ཆུ་ ལ་ འགྲོ་བ་ དྲུག་ གིས་ མཐོང་བ་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "And so forth. This is similar to the water seen by the six migrators."
 
 msgctxt "28040b3e89934e00aa2ad4b776618fc4"
 msgid ""
