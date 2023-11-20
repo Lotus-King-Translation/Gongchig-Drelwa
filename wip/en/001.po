@@ -5429,7 +5429,7 @@ msgstr "All phenomena depend on conditions and,"
 
 msgctxt "fa63bc9d47c640bebbd48a4e5862e7cc"
 msgid "སྐད་ཅིག་མ་ ཡིན་པ་␣འི་ གནད་ ཀྱིས་"
-msgstr ""
+msgstr "Because of essentially being momentary. "
 
 msgctxt "93ead7fdefc043aba596b05a1b08b82e"
 msgid "ད་ལྟ་ བླ་མ་ དང་ རྒྱལ་པོ་ ལྟ་བུ་ མཉེས་པ་␣འི་ ལ་␣ས་ བསྒྲུབ་ ན་"
