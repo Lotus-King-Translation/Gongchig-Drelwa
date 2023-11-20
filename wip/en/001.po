@@ -5414,7 +5414,7 @@ msgstr ""
 
 msgctxt "cb4a8e725426446cb77c776eb4ee112e"
 msgid "འདི་␣ར་ ནི་ དེ་␣ར་ མ་ངེས་པ་"
-msgstr "In this [system], there is no certainty in that."
+msgstr "In this [system], there is no definite in that."
 
 msgctxt "e56fb1a50d254f3795af2af93c749890"
 msgid ""
