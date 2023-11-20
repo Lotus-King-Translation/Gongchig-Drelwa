@@ -5359,7 +5359,7 @@ msgstr "The particulars of objects and faculties."
 
 msgctxt "b5cb9a444a7a4ba2b906344c7bae57c9"
 msgid "རྣམ་པ་ ཐ་དད་ མ་ མཆིས་ ཏེ །"
-msgstr ""
+msgstr "There are no distinct aspects."
 
 msgctxt "2ee52a0b7d08414f97a8076a02403859"
 msgid "གཟུགས་ སོགས་ སྣང་བ་␣ར་ གྱུར་པ་ ནི ། །"
