@@ -5346,7 +5346,7 @@ msgid ""
 "ཆོས་ ཐ་དད་པ་␣ས་ སྒྲུབ་པ་␣འི་ སྣང་བ་ བསོད་ནམས་ བསགས་ ཚུལ་ གྱི་ བྱེ་བྲག་ གིས་ "
 "ཏེ །"
 msgstr ""
-"The appearance of diversely established phenomena is due to the distinct "
+"The appearance of diversely established phenomena is due to the particular "
 "ways of merit accumulation. "
 
 msgctxt "61d17e0e16734e7685effe8b84d86dbc"
