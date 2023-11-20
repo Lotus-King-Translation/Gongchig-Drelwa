@@ -5339,7 +5339,7 @@ msgstr "In the ultimate sense, neither the container nor its content exist."
 
 msgctxt "ab184f0d78bf491a8b44b87c19d7d070"
 msgid "ཚུ་རོལ་ མཐོང་བ་␣འི་ ངོ་␣ར་ བག་ཆགས་ ཀྱི་ ཁམས་ དང་"
-msgstr "The realm of latency on the face of seeing it on this side, "
+msgstr "The realm of latency on the face of seeing it on this side and "
 
 msgctxt "959dff8fb9464897a725054db614b29a"
 msgid ""
