@@ -5421,7 +5421,7 @@ msgid ""
 "ད་ལྟ་ ཉིད་ དུ་ ལ་␣ས་ གང་ བསྒྲུབས་ འབྲས་བུ་␣ར་ ལོངས་སྤྱོད་པ་␣འང་ ཡོདདེ །"
 msgstr ""
 "There is also enjoying of results concurrent with whatever actions one "
-"takes."
+"produces."
 
 msgctxt "c98075ef57184805bb22e17043210de6"
 msgid "ཆོས་ ཀུན་ རྐྱེན་ ལ་ བརྟེན་པ་ དང༌ །"
