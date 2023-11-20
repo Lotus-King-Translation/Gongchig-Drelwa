@@ -5351,7 +5351,7 @@ msgstr ""
 
 msgctxt "61d17e0e16734e7685effe8b84d86dbc"
 msgid "རྡོ་རྗེ་ གུར་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Vajra Dome:"
 
 msgctxt "c1ebf97c26c643b09e761ac5443b40b8"
 msgid "ཡུལ་ དང་ དབང་པོ་␣འི་ བྱེ་བྲག་ རྣམས །"
