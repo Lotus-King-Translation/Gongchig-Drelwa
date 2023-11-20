@@ -5335,7 +5335,7 @@ msgstr "In this [system], appearances are distinct because of distinct minds."
 
 msgctxt "e032e649ec8b4c239b3ec417837259ab"
 msgid "དོན་དམ་པ་␣ར་ སྣོད་བཅུད་ གང་ཡང་ མ་ གྲུབ་ མོད །"
-msgstr ""
+msgstr "In the ultimate sense, neither the container nor its content exist."
 
 msgctxt "ab184f0d78bf491a8b44b87c19d7d070"
 msgid "ཚུ་རོལ་ མཐོང་བ་␣འི་ ངོ་␣ར་ བག་ཆགས་ ཀྱི་ ཁམས་ དང་"
