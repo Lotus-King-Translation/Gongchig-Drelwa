@@ -5513,6 +5513,8 @@ msgstr "It is said that this will increase to five hundred years."
 msgctxt "888ac8bd689b4b2b81be159588fd47a5"
 msgid "ཆུ་ལུད་ དྲོད་གཤེར་ ཚོགས་པ་␣འི་ ས་བོན་ གྱི་ མྱུ་གུ་ བཞིན་ ནོ །"
 msgstr ""
+"It is like the sprout of a seed from an accumulation of water, manure, heat,"
+" and moisture."
 
 msgctxt "9323dd147887486f89edcc98a0af4a0a"
 msgid "རྡོ་␣༽༽  ཁོ་ན་ རེ"
