@@ -5526,7 +5526,9 @@ msgstr "In the present time, [karma] to be experienced in the next birth and "
 
 msgctxt "eb1555778fe64c139e5f1a29754d44c7"
 msgid "ལན་ གྲངས་ གཞན་ ལ་ མྱོང་ འགྱུར་ མ་གཏོགས་ མཐོང་ཆོས་ བྱུང་ ཟེར་ རོ །"
-msgstr "[karma] to be experienced in other lifetimes, besides "
+msgstr ""
+"It is said that apart from the [karma] to be experienced in other lifetimes,"
+" [karma] to be experienced in this lifetime occurs."
 
 msgctxt "a93502c1c6594e8493e65d1524437091"
 msgid "སྐབས་ འདི་ ན་"
