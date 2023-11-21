@@ -5458,10 +5458,12 @@ msgid ""
 "ཐམས་ཅད་ སྔོན་ལས་ ཡིན་ ན་ རྒྱུ་␣ར་ སྨྲ་བ་␣འི་ ཞེ་འདོད་ ཡིན་པ་␣ས་ དོར་བ་␣ར་ "
 "བྱོས་ ཤིག"
 msgstr ""
+"If everything is due to previous karma, because this is the stance of the "
+"cause-proponent, [one] should discard it. "
 
 msgctxt "d5294b761e2345e3b4cf1ac4d94be349"
 msgid "རྡོ་␣༽༽  གཞན་དག་ ན་རེ །"
-msgstr ""
+msgstr "Vajra: Others said."
 
 msgctxt "b413f8e2b3c54544b1db620d61ab06b5"
 msgid "བསྐལ་པ་ ཡར་ འཕེལ་ མར་ འགྲིབ་ རང་བཞིན་ བབས་ ཀྱིས་ འབྱུང་ སྟེ་"
