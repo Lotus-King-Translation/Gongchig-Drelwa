@@ -5518,7 +5518,7 @@ msgstr ""
 
 msgctxt "9323dd147887486f89edcc98a0af4a0a"
 msgid "རྡོ་␣༽༽  ཁོ་ན་ རེ"
-msgstr ""
+msgstr "Vajra: Someone said,"
 
 msgctxt "cc4026babe214cf792da673b7f6da3cf"
 msgid "ད་ལྟར་ གྱི་ དུས་ སུ་ སྐྱེས་ ནས་ མྱོང་ གྱུར་ དང་"
