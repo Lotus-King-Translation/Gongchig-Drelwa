@@ -5541,7 +5541,7 @@ msgstr ""
 
 msgctxt "42f36688c0924e7ead8b633f7f267625"
 msgid "མ་སྐྱེས་དགྲ་␣ས་ མཐོང་ཆོས་ གང་ ལགས་ ཞུས །"
-msgstr ""
+msgstr "Ajatashatru asked, \"What is that to be experienced in this lifetime?\""
 
 msgctxt "cae82e10d2394718b3e4572bb7117b5d"
 msgid "ཁྱོད་ ཀྱི་ འབངས་ ཐ་ཆད་ ཞིག་ ང་ ལ་␣ས་ རབ་ཏུ་ བྱུང་ སྟེ་"
