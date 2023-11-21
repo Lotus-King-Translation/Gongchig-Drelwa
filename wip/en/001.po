@@ -5471,15 +5471,17 @@ msgstr "The waxing and waning of aeons occur naturally."
 
 msgctxt "64bbfe8d05b44665a7f77a6093d532b7"
 msgid "འཕེལ་བ་ ན་ ཐབས་ གང་ གིས་ ཀྱང་ མི་ འགྲིབ །"
-msgstr ""
+msgstr "It is by no means waning when it waxes."
 
 msgctxt "e3b374d670e84f95885988521bfbd8a5"
 msgid "འགྲིབ་པ་ ན་ ཐབས་ གང་ གིས་ ཀྱང་ མི་ འཕེལ་ ཟེརཡང་ །"
-msgstr ""
+msgstr "It is by no means waxing when it wanes. Though it is said so."
 
 msgctxt "ebafd29718834c87bb533240029e93d7"
 msgid "འདི་␣ར་ དུས་ ཀྱི་ འཕེལ་འགྲིབ་ ད་ལྟར་ ཡང་ བྱ་␣ར་ ཡོད་པ་ ཡིན་ ཏེ་"
 msgstr ""
+"In this [system], the waxing and waning of time can also be done at present "
+"because"
 
 msgctxt "0f8d15e619f441889a0135b9557eda6c"
 msgid ""
