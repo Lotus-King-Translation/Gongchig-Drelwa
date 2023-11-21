@@ -5500,11 +5500,11 @@ msgstr ""
 msgctxt "1245d0bc78084ac79d323b50a54db725"
 msgid ""
 "སུ་␣ས་ སེམས་ཅན་ གྱི་ སྲོག་ བཅད་ ན་ ངས་ དེ་␣འི་ སྲོག་གཅོད་ ཅེས་ བསྒྲགས་ ཏེ་"
-msgstr ""
+msgstr "\"Whoever kills a sentient being, I will kill them.\" was proclaimed. "
 
 msgctxt "b9550637bd0a42b7b357d84d15551156"
 msgid "རིམ་གྱིས་ ཆོས་ འཅུ་ དྲུག་ ལ་ བཀོད་པ་␣ས་"
-msgstr ""
+msgstr "He gradually placed them in the sixteen Dharmas."
 
 msgctxt "ec947eadf5234082a2f4c31c58308a50"
 msgid "ལྔ་ བརྒྱ་␣འི་ བར་ དུ་ འཕེལ་བ་␣ར་ གསུངས་པ་"
