@@ -5488,6 +5488,8 @@ msgid ""
 "དེ་␣འི་ རྒྱུ་ དགེ་ མི་དགེ་ ཞེས་ བྱ་བ་ ལོ་ བརྒྱད་ ཁྲི་␣འི་ ས་ ནས་ བརྒྱད་ "
 "བཅུ་␣འི་ བར་ དུ་ འགྲིབ །"
 msgstr ""
+"The causes of these are known as virtue and non-virtue, which wane from a "
+"ground of eighty thousand to eighty years."
 
 msgctxt "2bada7d9963a4b16a0dd2f6f2aff6b80"
 msgid "དེ་ ཚེ་ རང་ རེ་␣འི་ སྟོན་པ་ གདོལ་བ་ སྟོབས་ཆེན་ དུ་ སྐྱེ་བ་ བཞེས་ ན་"
