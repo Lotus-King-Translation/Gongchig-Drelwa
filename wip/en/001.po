@@ -5532,7 +5532,7 @@ msgstr ""
 
 msgctxt "a93502c1c6594e8493e65d1524437091"
 msgid "སྐབས་ འདི་ ན་"
-msgstr ""
+msgstr "In this [system],"
 
 msgctxt "b7e515b66a814645a202eee514bc6d54"
 msgid "ཚེ་ འདི་␣ར་ རང་ ལ་ མཐོང་ཆོས་ གཙོ་བོ་␣ར་ འབྱུང་ སྟེ །"
