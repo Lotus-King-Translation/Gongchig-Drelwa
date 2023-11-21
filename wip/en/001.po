@@ -5439,17 +5439,19 @@ msgstr ""
 
 msgctxt "88578415796442bd8e818efc28162d07"
 msgid "གདམ་ ག་ དང་ བྱ་དགའ་ ཐོབ་ ཅིང་"
-msgstr ""
+msgstr "[One] will receive a choice and a reward."
 
 msgctxt "f741067cbe6e488abfc63e057b57708a"
 msgid "མ་ མཉེས་ ན་ དེ་ལས་ ལྡོག་པ་ དེ་"
-msgstr ""
+msgstr "When [one] acts in an unpleasant way, the reverse occurs."
 
 msgctxt "99fcfe891ada4435a9f3e74c45b4aa72"
 msgid ""
 "སྔོན་ལས་ ཁོ་ན་␣ར་ མི་ ལྟོས་པ་␣ར་ མཉེས་ མ་ མཉེས་ ཀྱི་ ཁྱད་པར་ ཡིན་པ་␣ར་ "
 "གྲུབ་བོ །"
 msgstr ""
+"This establishes that it is not only dependent on previous karma but it is a"
+" difference between pleasant or unpleasant action."
 
 msgctxt "0f650184e3414f72a0a750d40e8363b5"
 msgid ""
