@@ -5532,11 +5532,12 @@ msgstr ""
 
 msgctxt "a93502c1c6594e8493e65d1524437091"
 msgid "སྐབས་ འདི་ ན་"
-msgstr "In this [system],"
+msgstr "At this point,"
 
 msgctxt "b7e515b66a814645a202eee514bc6d54"
 msgid "ཚེ་ འདི་␣ར་ རང་ ལ་ མཐོང་ཆོས་ གཙོ་བོ་␣ར་ འབྱུང་ སྟེ །"
 msgstr ""
+"[Karma] to be experienced in this lifetime occurs chiefly in this life."
 
 msgctxt "42f36688c0924e7ead8b633f7f267625"
 msgid "མ་སྐྱེས་དགྲ་␣ས་ མཐོང་ཆོས་ གང་ ལགས་ ཞུས །"
