@@ -5467,7 +5467,7 @@ msgstr "Vajra: Others said."
 
 msgctxt "b413f8e2b3c54544b1db620d61ab06b5"
 msgid "བསྐལ་པ་ ཡར་ འཕེལ་ མར་ འགྲིབ་ རང་བཞིན་ བབས་ ཀྱིས་ འབྱུང་ སྟེ་"
-msgstr ""
+msgstr "The waxing and waning of aeons occur naturally."
 
 msgctxt "64bbfe8d05b44665a7f77a6093d532b7"
 msgid "འཕེལ་བ་ ན་ ཐབས་ གང་ གིས་ ཀྱང་ མི་ འགྲིབ །"
