@@ -5494,6 +5494,8 @@ msgstr ""
 msgctxt "2bada7d9963a4b16a0dd2f6f2aff6b80"
 msgid "དེ་ ཚེ་ རང་ རེ་␣འི་ སྟོན་པ་ གདོལ་བ་ སྟོབས་ཆེན་ དུ་ སྐྱེ་བ་ བཞེས་ ན་"
 msgstr ""
+"If [one] accepts that at that time, our teacher will take birth as Great "
+"Strength Candala."
 
 msgctxt "1245d0bc78084ac79d323b50a54db725"
 msgid ""
