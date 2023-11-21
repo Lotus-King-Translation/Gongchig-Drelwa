@@ -5467,7 +5467,7 @@ msgstr "Vajra: Others said."
 
 msgctxt "b413f8e2b3c54544b1db620d61ab06b5"
 msgid "བསྐལ་པ་ ཡར་ འཕེལ་ མར་ འགྲིབ་ རང་བཞིན་ བབས་ ཀྱིས་ འབྱུང་ སྟེ་"
-msgstr "The waxing and waning of aeons occur naturally."
+msgstr "The aeons wax and wane in their natural state."
 
 msgctxt "64bbfe8d05b44665a7f77a6093d532b7"
 msgid "འཕེལ་བ་ ན་ ཐབས་ གང་ གིས་ ཀྱང་ མི་ འགྲིབ །"
@@ -5508,7 +5508,7 @@ msgstr "He gradually placed them in the sixteen Dharmas."
 
 msgctxt "ec947eadf5234082a2f4c31c58308a50"
 msgid "ལྔ་ བརྒྱ་␣འི་ བར་ དུ་ འཕེལ་བ་␣ར་ གསུངས་པ་"
-msgstr ""
+msgstr "It is said that this will increase to five hundred years."
 
 msgctxt "888ac8bd689b4b2b81be159588fd47a5"
 msgid "ཆུ་ལུད་ དྲོད་གཤེར་ ཚོགས་པ་␣འི་ ས་བོན་ གྱི་ མྱུ་གུ་ བཞིན་ ནོ །"
