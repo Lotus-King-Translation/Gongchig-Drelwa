@@ -5579,7 +5579,7 @@ msgstr ""
 
 msgctxt "37b8713fb4af4f84ad09b6b95fa1f2dc"
 msgid "རྡོ་␣༽༽  དགེ་ བཅུ་␣འི་ ཁ་␣ར་"
-msgstr ""
+msgstr "Vajra: In addition to the ten virtues,"
 
 msgctxt "9935be4292844be297143bf6baf070d5"
 msgid "ཕ་མ་ དགེ་སྦྱོང་ བྲམ་ཟེ་␣ར་ ཤེས་པ་ བཞི་"
