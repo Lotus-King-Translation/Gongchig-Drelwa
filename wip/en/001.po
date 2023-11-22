@@ -5641,7 +5641,7 @@ msgstr "Master Arya said:"
 
 msgctxt "705261db2183415896e3ff52d10f024c"
 msgid "མི་ ཡི་ ཆོས་ལུགས་ ལེགས་སྤྱད་ ནས །"
-msgstr ""
+msgstr "Practicing the conduct of humans in an excellent manner. "
 
 msgctxt "e4f37523f4234e00b4a7fa9190afddf9"
 msgid "ལྷ་ཡུལ་ སོགས་ གསུངས་པ་␣ས་"
