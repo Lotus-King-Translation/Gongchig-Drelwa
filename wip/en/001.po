@@ -5595,7 +5595,7 @@ msgstr ""
 
 msgctxt "e1bbcfc17a6c4eb998a209246542f364"
 msgid "ལྷ་ཆོས་ དེ་ལས་ གཞན་ ཏེ །"
-msgstr ""
+msgstr "Divine conduct differs from these because"
 
 msgctxt "ab615bc9c94d42068714483f801f7bc9"
 msgid "མི་ཆོས་ མཁས་པ་ ལྷ་ཆོས་ ཡིན ། །"
