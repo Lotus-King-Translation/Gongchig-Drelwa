@@ -5599,7 +5599,7 @@ msgstr "Divine conduct differs from these because"
 
 msgctxt "ab615bc9c94d42068714483f801f7bc9"
 msgid "མི་ཆོས་ མཁས་པ་ ལྷ་ཆོས་ ཡིན ། །"
-msgstr ""
+msgstr "Being skilled in human conduct is divine conduct."
 
 msgctxt "b51c6a338dea421e9223c23022010183"
 msgid "མཐུན་འཇུག་ མཁས་པ་ ཟོལ་ཟོག་ ཡིན་"
