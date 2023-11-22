@@ -5549,7 +5549,7 @@ msgstr "Some of your worst people who took ordination from me."
 
 msgctxt "2d7ecb22f52b46c5b574967ffae04deb"
 msgid "ཁྱོད་ ཀྱི་ ས་␣ར་ ཕྱིན་ ན་ ཐ་ཆད་ བྱ་␣འམ་ གསུངས་པ་␣ས །"
-msgstr ""
+msgstr "\"If they go to you, will they be the worst?\" as said. "
 
 msgctxt "c1393e2ea8a14e46ae0d12e893a47b1f"
 msgid "དེ་ འདྲ་ ལྟ་ཅི་ བདག་ གིས་ ཕྱག་ དང་ བསྙེན་བཀུར་བ་ ཡིན་ ཞུས་པ་␣ས །"
