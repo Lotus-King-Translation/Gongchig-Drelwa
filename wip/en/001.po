@@ -5619,7 +5619,7 @@ msgstr "The thought of wishing to transcend samsara for the sake of others"
 
 msgctxt "4376e30e17a54eeaa726d1b184b89154"
 msgid "སྒྲུབ་ དགག་ དེ་ལས་ གཞན་ མེད་པ་␣འི་ ཕྱིར་ དང་ །"
-msgstr ""
+msgstr "Other than attainment and negation, there is nothing."
 
 msgctxt "deb0c26a1c1e4ceb8f557ad9b726b8a0"
 msgid ""
