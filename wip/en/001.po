@@ -5632,6 +5632,8 @@ msgstr ""
 msgctxt "20fbd613692b49f3a3780ff8530596f1"
 msgid "མི་ ལྡན་ ན་ ཉེ་␣ས་ ཚོགས་ སྡུག་བསྔལ་ འབྱུང་བ་␣ར་ གཅིག་པ་␣འི་ ཕྱིར །"
 msgstr ""
+"If one does not possess it, it is the same as the emerging of the "
+"accumulation of faults and suffering. "
 
 msgctxt "58721578e24a4b099d92ce77989dc1ce"
 msgid "སློབ་དཔོན་ འཕགས་པ་␣ས །"
