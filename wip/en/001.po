@@ -5603,7 +5603,7 @@ msgstr "Being skilled in human conduct is divine conduct."
 
 msgctxt "b51c6a338dea421e9223c23022010183"
 msgid "མཐུན་འཇུག་ མཁས་པ་ ཟོལ་ཟོག་ ཡིན་"
-msgstr ""
+msgstr "The wise who conform are fake."
 
 msgctxt "7bd2c1139afc4c81938186f8943ea763"
 msgid "ཅེས་ གསུངས་ སོ་ ཟེར །"
