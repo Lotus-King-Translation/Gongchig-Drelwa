@@ -5607,7 +5607,7 @@ msgstr "The wise who conform are fake."
 
 msgctxt "7bd2c1139afc4c81938186f8943ea763"
 msgid "ཅེས་ གསུངས་ སོ་ ཟེར །"
-msgstr ""
+msgstr "And that is stated."
 
 msgctxt "f445d487a1084422aec08ae5a93d7082"
 msgid "འདི་␣ར་ ནི་ ལྷ་ཆོས་ སྡོམ་པ་ གསུམ་ ཀ་␣འི་ སྐབས་ སུ་"
