@@ -5554,6 +5554,8 @@ msgstr "\"If they go to you, will they be the worst?\" as said. "
 msgctxt "c1393e2ea8a14e46ae0d12e893a47b1f"
 msgid "དེ་ འདྲ་ ལྟ་ཅི་ བདག་ གིས་ ཕྱག་ དང་ བསྙེན་བཀུར་བ་ ཡིན་ ཞུས་པ་␣ས །"
 msgstr ""
+"\"How could it be? I have paid homage and respectfully honored.\" [He] "
+"replied."
 
 msgctxt "a53ecf1f0738400f80136776a6f20039"
 msgid "དེ་ མཐོང་ཆོས་ ཡིན་ གསུངས་"
