@@ -5591,7 +5591,7 @@ msgctxt "82f49f3bb3604c61be768056d1167c48"
 msgid "རྒན་ ལ་ རིམ་གྲོ་ སྦྱིན་ གཏོང་ སྟེ་ བཅུ་དྲུག་ མི་ཆོས་ ཡིན །"
 msgstr ""
 "Respecting elders and practicing generosity, these sixteen are human "
-"principles."
+"conduct."
 
 msgctxt "e1bbcfc17a6c4eb998a209246542f364"
 msgid "ལྷ་ཆོས་ དེ་ལས་ གཞན་ ཏེ །"
