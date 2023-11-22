@@ -5626,6 +5626,8 @@ msgid ""
 "འདི་ དང་ ལྡན་ ན་ མི་ཆོས་ ཀྱི་ ཡོན་ཏན་ ཕྲ་མོ་ ནས་ མཆོག་ གི་ དངོས་གྲུབ་ བར་ "
 "འབྱུང་བ་␣ར་ གཅིག་པ་␣འི་ ཕྱིར་ དང༌ །"
 msgstr ""
+"If one possesses it, it is the same from emerging of the subtle qualities of"
+" human conduct to the supreme accomplishment. "
 
 msgctxt "20fbd613692b49f3a3780ff8530596f1"
 msgid "མི་ ལྡན་ ན་ ཉེ་␣ས་ ཚོགས་ སྡུག་བསྔལ་ འབྱུང་བ་␣ར་ གཅིག་པ་␣འི་ ཕྱིར །"
