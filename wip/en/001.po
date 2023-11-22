@@ -5645,7 +5645,7 @@ msgstr "Practicing the conduct of humans in an excellent manner. "
 
 msgctxt "e4f37523f4234e00b4a7fa9190afddf9"
 msgid "ལྷ་ཡུལ་ སོགས་ གསུངས་པ་␣ས་"
-msgstr ""
+msgstr "The realm of divines and so forth, it is said."
 
 msgctxt "872147211f374612b420dc58920a3108"
 msgid ""
