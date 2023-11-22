@@ -5615,7 +5615,7 @@ msgstr "In this [system], In all the three vows of divine conduct, "
 
 msgctxt "0d69e59279724e1299c0cbbb434725c1"
 msgid "གཞན་དོན་ དུ་ འཁོར་བ་ འདའ་ འདོད་ ཀྱི་ བསམ་པ་␣ས་"
-msgstr "By the thought of wishing to transcend samsara for the sake of others"
+msgstr "The thought of wishing to transcend samsara for the sake of others"
 
 msgctxt "4376e30e17a54eeaa726d1b184b89154"
 msgid "སྒྲུབ་ དགག་ དེ་ལས་ གཞན་ མེད་པ་␣འི་ ཕྱིར་ དང་ །"
