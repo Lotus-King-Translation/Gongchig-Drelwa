@@ -5574,6 +5574,8 @@ msgid ""
 "སྔགས་ ལ་ ཞུགས་པ་ དག་ མཐོང་བ་␣འི་ ཆོས་ ལ་ སྤྱོད་པ་␣ར་ མངོན་སུམ་ གྱིས་ གྲུབ་བོ"
 " །"
 msgstr ""
+"Entered the mantra, their engagement with the experiences in this lifetime "
+"is established by direct perception."
 
 msgctxt "37b8713fb4af4f84ad09b6b95fa1f2dc"
 msgid "རྡོ་␣༽༽  དགེ་ བཅུ་␣འི་ ཁ་␣ར་"
