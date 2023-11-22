@@ -5545,7 +5545,7 @@ msgstr "Ajatashatru asked, \"What is that to be experienced in this lifetime?\""
 
 msgctxt "cae82e10d2394718b3e4572bb7117b5d"
 msgid "ཁྱོད་ ཀྱི་ འབངས་ ཐ་ཆད་ ཞིག་ ང་ ལ་␣ས་ རབ་ཏུ་ བྱུང་ སྟེ་"
-msgstr ""
+msgstr "Some of your worst people who took ordination from me."
 
 msgctxt "2d7ecb22f52b46c5b574967ffae04deb"
 msgid "ཁྱོད་ ཀྱི་ ས་␣ར་ ཕྱིན་ ན་ ཐ་ཆད་ བྱ་␣འམ་ གསུངས་པ་␣ས །"
