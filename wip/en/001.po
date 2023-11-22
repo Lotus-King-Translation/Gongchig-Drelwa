@@ -5567,7 +5567,7 @@ msgstr "Thus, even these days, most of those who have taken ordination and"
 
 msgctxt "22309df1d3914d2f8f0e0742106bb308"
 msgid "བྱང་ཆུབ་ ཀྱི་ སེམས་བསྐྱེད་པ་ དང་"
-msgstr ""
+msgstr "Generated the mind for enlightenment and "
 
 msgctxt "83c75b7968634b16bcfb82396cada98e"
 msgid ""
