@@ -5637,7 +5637,7 @@ msgstr ""
 
 msgctxt "58721578e24a4b099d92ce77989dc1ce"
 msgid "སློབ་དཔོན་ འཕགས་པ་␣ས །"
-msgstr ""
+msgstr "Master Arya said:"
 
 msgctxt "705261db2183415896e3ff52d10f024c"
 msgid "མི་ ཡི་ ཆོས་ལུགས་ ལེགས་སྤྱད་ ནས །"
