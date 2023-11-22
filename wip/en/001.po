@@ -5611,7 +5611,7 @@ msgstr "And that is stated."
 
 msgctxt "f445d487a1084422aec08ae5a93d7082"
 msgid "འདི་␣ར་ ནི་ ལྷ་ཆོས་ སྡོམ་པ་ གསུམ་ ཀ་␣འི་ སྐབས་ སུ་"
-msgstr ""
+msgstr "In this [system], In all the three vows of divine conduct, "
 
 msgctxt "0d69e59279724e1299c0cbbb434725c1"
 msgid "གཞན་དོན་ དུ་ འཁོར་བ་ འདའ་ འདོད་ ཀྱི་ བསམ་པ་␣ས་"
