@@ -5651,6 +5651,8 @@ msgctxt "872147211f374612b420dc58920a3108"
 msgid ""
 "མི་ཆོས་ བཅུ་དྲུག་ ལྷ་ཆོས་ དང་ གནད་ དམ་དོན་ གཅིག་ སྟེ་ མཚུངས་པ་␣ར་ གྲུབ་བོ །"
 msgstr ""
+"It therefore establishes that, in essence or meaning, the sixteen human "
+"conducts are the same as the divine conducts."
 
 msgctxt "0100f644d445489cb8e2021033a9a758"
 msgid "རྡོ་␣༽༽  བསྟན་པ་␣འི་ གནས་ཚད་ གསུང་རབ་ རྣམས་ ནས་ དུ་མ་ ཞིག་ གསུངས་ ཀྱང་"
