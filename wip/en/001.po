@@ -5657,6 +5657,8 @@ msgstr ""
 msgctxt "0100f644d445489cb8e2021033a9a758"
 msgid "རྡོ་␣༽༽  བསྟན་པ་␣འི་ གནས་ཚད་ གསུང་རབ་ རྣམས་ ནས་ དུ་མ་ ཞིག་ གསུངས་ ཀྱང་"
 msgstr ""
+"Vajra: Although the doctrine's duration is mentioned numerous times in the "
+"canons. "
 
 msgctxt "063830d1df5d4f028646163589256828"
 msgid "འབུམ་ ཊིཀཱ་པ་␣ས་ བསྟན་པ་ ལྔ་ བརྒྱ་ ཕྲག་ བཅུ་ ལ་␣ས་"
