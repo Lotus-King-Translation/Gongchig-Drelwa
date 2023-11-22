@@ -5563,7 +5563,7 @@ msgstr "\"This is that which experiences in this lifetime,\" said [the Buddha]."
 
 msgctxt "d9e250ebf0854ad58d3cf0e22ecdbc99"
 msgid "དེ་ལྟར་ དེང་སང་ ལ་␣འང་ ཕལ་ཆེར་ རབ་ཏུ་ བྱུང་བ་ དང༌ །"
-msgstr ""
+msgstr "Thus, even these days, most of the ordained ones and"
 
 msgctxt "22309df1d3914d2f8f0e0742106bb308"
 msgid "བྱང་ཆུབ་ ཀྱི་ སེམས་བསྐྱེད་པ་ དང་"
