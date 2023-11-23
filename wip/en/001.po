@@ -5849,7 +5849,7 @@ msgstr "After that, meditate on the twelve completion stages."
 
 msgctxt "46ab46b1cb9a4346bfae1384b369fd01"
 msgid "ཅེས་ བཀའ་ གདམས་པ་ འགའ་ཞིག་ གིས་ ཟེར་ རོ ། །"
-msgstr ""
+msgstr "This is what some Kadampas say."
 
 msgctxt "199898febca349cba3178f367930f007"
 msgid ""
