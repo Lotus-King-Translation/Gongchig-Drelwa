@@ -5823,7 +5823,7 @@ msgstr "And so on, is said. "
 
 msgctxt "2309f63bec6a4d1bad842450064e453d"
 msgid "ཤེས་རབ་ བསླབས་པ་ ཐོག་མ་␣ར་ འགྲོ་བ་␣འང་ ཡོད་ དོ །"
-msgstr ""
+msgstr "Furthermore, the training of wisdom also goes at first."
 
 msgctxt "98984ddb0aff45898515166ce12f6f7d"
 msgid ""
