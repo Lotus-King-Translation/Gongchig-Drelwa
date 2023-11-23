@@ -5731,6 +5731,7 @@ msgctxt "a541bb4378314442bf0bbd325868ce0f"
 msgid ""
 "རྒྱལ་པོ་ རྡོ་ རྟ་ཅན་ གྱི་ རིང་ ལ་ དགྲ་བཅོམ་ གཉིས་ འབྱུང་བ་␣ར་ གསུངས་ ཤིང༌ །"
 msgstr ""
+"It is said that there will be two arhats during the reign of King Dotachen."
 
 msgctxt "c20fcd36c76d413598f402158346bbc3"
 msgid ""
