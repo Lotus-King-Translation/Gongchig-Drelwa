@@ -5803,7 +5803,7 @@ msgstr "Later, he became a monk."
 
 msgctxt "ad36e34ce621453d90f00d00e5c60fce"
 msgid "དབྱེ་ ན་ གཞི་ ལ་␣ས །"
-msgstr ""
+msgstr "When this is differentiated, from the ground:"
 
 msgctxt "9df096dfb8cb4bad933549f72a5bcc94"
 msgid "རྒྱན་ གྱི་ རྒྱན་ བཞིན་ དུ་ ནི་ སོགས་ དང །"
