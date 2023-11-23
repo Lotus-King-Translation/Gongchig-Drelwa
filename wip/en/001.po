@@ -5777,7 +5777,7 @@ msgstr "The special insight with excellent calm abiding, and so on."
 
 msgctxt "71b52d7dc3544dda812c7124fdf8af05"
 msgid "ཅེས་པ་␣ས་ གོ་རིམ་ ངེས་ཅན་ ཡིན་ ཟེར །"
-msgstr ""
+msgstr "Thus, it is said that this is a definite order."
 
 msgctxt "d40dfb1a53b84023ace2f05d2f9a4563"
 msgid "འདི་␣ར་ ནི་ དེ་ ཁོ་ན་␣ར་ ངེས་ ཏེ་"
