@@ -5867,7 +5867,7 @@ msgstr ""
 
 msgctxt "75c74de74ce24e179de5bbf29d209873"
 msgid "འཇིག་རྟེན་ རང་ གར་ འཁྱམས་ འགྲོ་བ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "[One] will wander the world casually and"
 
 msgctxt "0b87bc3c28344a2794a8a99ef5e39f5d"
 msgid ""
