@@ -5711,7 +5711,7 @@ msgstr ""
 
 msgctxt "3a324e8865164ccea0f93c0355552800"
 msgid "ཟླ་བ་ སྙིང་པོ་␣འི་ མདོ་␣ར །"
-msgstr ""
+msgstr "According to the Moon of the Essence sutra:"
 
 msgctxt "04760727944b4f2497bbd38b5be860d6"
 msgid ""
