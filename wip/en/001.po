@@ -5819,7 +5819,7 @@ msgstr "Generosity, wisdom goes before generosity."
 
 msgctxt "7f5e8ee0fe2f4bcb852a3e4a15ff3aaf"
 msgid "སོགས་ གསུངས་པ་␣ས །"
-msgstr ""
+msgstr "And so on, is said. "
 
 msgctxt "2309f63bec6a4d1bad842450064e453d"
 msgid "ཤེས་རབ་ བསླབས་པ་ ཐོག་མ་␣ར་ འགྲོ་བ་␣འང་ ཡོད་ དོ །"
