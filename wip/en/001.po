@@ -5807,7 +5807,7 @@ msgstr "When this is differentiated, from the ground:"
 
 msgctxt "9df096dfb8cb4bad933549f72a5bcc94"
 msgid "རྒྱན་ གྱི་ རྒྱན་ བཞིན་ དུ་ ནི་ སོགས་ དང །"
-msgstr ""
+msgstr "Similar to the ornament's ornament and so on."
 
 msgctxt "61e13dc317474dcaadda4455a4dce6e0"
 msgid "སྡུད་པ་ ལ་␣ས །"
