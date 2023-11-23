@@ -5873,6 +5873,8 @@ msgctxt "0b87bc3c28344a2794a8a99ef5e39f5d"
 msgid ""
 "དེ་ རྗེས་ ལ་␣ས་ རྒྱུ་འབྲས་ འཁོར་བ་␣འི་ ཉེས་དམིགས་ ཐུན་ གཅིག་ མ སྒོམ་ ན་"
 msgstr ""
+"After that, if [one] does not meditate on the causes and results of karmic "
+"actions, and the disadvantages of samsara,"
 
 msgctxt "f1826f9406284b16b9e4e1744e8f6cfa"
 msgid "ཉེས་པ་ ལ་␣ས་ བཙན་པ་␣ར་ མི་འགྱུར་བ་␣འི་ ཕྱིར་ དང །"
