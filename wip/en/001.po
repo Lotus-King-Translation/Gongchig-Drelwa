@@ -5676,7 +5676,7 @@ msgstr "Once-returners respectively attain the fruit of stream entry."
 
 msgctxt "8faddf44045c4b4b8afeeb238bf9a89c"
 msgid "བར་པ་ གསུམ །"
-msgstr ""
+msgstr "The three intermediates are"
 
 msgctxt "44028b85effa4a46b91c18430f6403cd"
 msgid ""
