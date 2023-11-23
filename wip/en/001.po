@@ -5794,6 +5794,8 @@ msgid ""
 "ཁྱིམ་བདག་ གཙོ་བོ་␣འི་ བུ་ གྲགས་པ་ ཁྱིམ་པ་␣འི་ ཆ་བྱད་ དུ་ འདུག་ བཞིན་པ་␣ར་ "
 "དགྲ་བཅོམ་པ་ ཐོབ་ ནས་"
 msgstr ""
+"The renowned son of the main head of the house, while residing in a "
+"householder's attire, attained arhathood and "
 
 msgctxt "9256beeb20c34de9b7cd0f43dfbc1c6e"
 msgid "ཕྱིས་ རབ་ཏུ་ བྱུང་བ་ ལྟ་བུ་ སྟེ །"
