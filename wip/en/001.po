@@ -5773,7 +5773,7 @@ msgstr ""
 
 msgctxt "714cc20009fc4de7b1bdd54d39b42b17"
 msgid "ཞི་གནས་ རབ་ཏུ་ ལྡན་པ་␣འི་ ལྷག་མཐོང་ གིས་ སོགས །"
-msgstr ""
+msgstr "The special insight with excellent calm abiding, and so on."
 
 msgctxt "71b52d7dc3544dda812c7124fdf8af05"
 msgid "ཅེས་པ་␣ས་ གོ་རིམ་ ངེས་ཅན་ ཡིན་ ཟེར །"
