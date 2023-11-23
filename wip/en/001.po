@@ -5707,6 +5707,7 @@ msgstr ""
 msgctxt "1f6f59421fd24d6b819923b8f6ae2a35"
 msgid "འབྲས་བུ་ ཐོབ་པ་ རྒྱུན་ མི་ ཆད་པ་ འབྱུང་ སྟེ །"
 msgstr ""
+"The attainment of the fruit will occur continuously without interruption."
 
 msgctxt "3a324e8865164ccea0f93c0355552800"
 msgid "ཟླ་བ་ སྙིང་པོ་␣འི་ མདོ་␣ར །"
