@@ -5672,7 +5672,7 @@ msgstr "The first three are the periods when arhats, non-returners, and  "
 
 msgctxt "f956172ec34745f4b592231e541cef79"
 msgid "ལན་ཅིག་ ཕྱིར་ འོང་ རྒྱུན་ཞུགས་ འབྲས་བུ་ ཐོབ་པ་␣ར་ དེ་␣འི་ དུས །"
-msgstr "Once-returners respectively attain the fruit of stream entry."
+msgstr "Once-returners respectively attain the fruits of stream entry."
 
 msgctxt "8faddf44045c4b4b8afeeb238bf9a89c"
 msgid "བར་པ་ གསུམ །"
