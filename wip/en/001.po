@@ -5768,6 +5768,8 @@ msgid ""
 "རྡོ་␣༽༽  བསླབ་ གསུམ་ ལ་␣ས་ ཚུལ་ཁྲིམས་ བསླབ་པ་ སྔོན་ དུ་ འགྲོ་བ་␣ར་ འདོད་ དེ "
 "།"
 msgstr ""
+"Vajra: It is accepted that the training of discipline comes first out of the"
+" three trainings."
 
 msgctxt "714cc20009fc4de7b1bdd54d39b42b17"
 msgid "ཞི་གནས་ རབ་ཏུ་ ལྡན་པ་␣འི་ ལྷག་མཐོང་ གིས་ སོགས །"
