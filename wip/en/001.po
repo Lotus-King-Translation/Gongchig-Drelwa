@@ -5701,6 +5701,8 @@ msgctxt "5958ceef4ac24aca994d55e470cb5fa0"
 msgid ""
 "འདི་␣ར་ ནི་ དཀོན་མཆོག་ གསུམ་ རྟག་པ་␣འི་ གནད་ ཀྱིས་ ཉམས་ སུ་ ལེན་པ་ ཡོད་ ན་"
 msgstr ""
+"In this [system], if there is [one who] practices the three jewels in the "
+"essence of eternity."
 
 msgctxt "1f6f59421fd24d6b819923b8f6ae2a35"
 msgid "འབྲས་བུ་ ཐོབ་པ་ རྒྱུན་ མི་ ཆད་པ་ འབྱུང་ སྟེ །"
