@@ -5862,6 +5862,8 @@ msgstr ""
 msgctxt "b2127b5d01824b088db9fbb6ec0b694e"
 msgid "སྔ་ཐུན་ དང་པོ་␣ར་ མི་རྟག་པ་ ཐུན་ གཅིག་ མ་ བསྒོམ་ ན་"
 msgstr ""
+"During the first session, if one does not meditate on impermanence for one "
+"session,"
 
 msgctxt "75c74de74ce24e179de5bbf29d209873"
 msgid "འཇིག་རྟེན་ རང་ གར་ འཁྱམས་ འགྲོ་བ་␣འི་ ཕྱིར་ དང༌ །"
