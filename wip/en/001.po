@@ -5743,7 +5743,7 @@ msgstr ""
 
 msgctxt "136f72fcf8884347b4905eac93ae8e48"
 msgid "གསེར་འོད་ ལ་␣ས་ ཀྱང །"
-msgstr ""
+msgstr "Also the Golden Light says:"
 
 msgctxt "ffc328e23e1944aeb6eb01e5178b1e62"
 msgid "སངས་རྒྱས་ མྱ་ངན་ ཡོངས་ མི་འདའ །"
