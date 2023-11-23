@@ -5682,6 +5682,8 @@ msgctxt "44028b85effa4a46b91c18430f6403cd"
 msgid ""
 "ཤེས་རབ་ དང་ །  ཏིང༌ངེ༌འཛིན་ དང་ །  ཚུལ་ཁྲིམས་ ལྡན་པ་␣ས་ སྒྲུབ་པ་␣འི་ དུས །"
 msgstr ""
+"The periods to accomplish the levels by those endowed with wisdom, "
+"concentration, and discipline."
 
 msgctxt "910fa68d821f44d1b36d807b11994ed8"
 msgid ""
