@@ -5689,7 +5689,7 @@ msgctxt "910fa68d821f44d1b36d807b11994ed8"
 msgid ""
 "ཕྱི་མ་ གསུམ་ མངོན་པ་ དང་ །  མདོ་སྡེ་ དང་ །  འདུལ་བ་␣འི་ དུས་ ཏེ་ ལུང་ གི་ "
 "དུས །"
-msgstr ""
+msgstr "The latter three are the period of the Abhidharma, Sutra, and Vinaya."
 
 msgctxt "e00e68f7df384c258c86d6e0e5b0616e"
 msgid "དེང་སང་ མདོ་སྡེ་␣འི་ དུས་ ལ་ ཡོད་པ་␣ས་ འབྲས་བུ་ མི་ སྐྱེ་ ཟེར་ རོ ། །"
