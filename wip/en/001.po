@@ -5724,6 +5724,8 @@ msgstr ""
 msgctxt "46c46c42d7134c85a9fbb508c97b8a1e"
 msgid "ཁྲོ་ མ་ དུས་ མཇུག་ ལ་␣ས་ ཚེ་ལོ་ བཅུ་པ་␣འི་ དུས་"
 msgstr ""
+"From the final period of the wrathful female deities, during the period of "
+"the ten-year life span,"
 
 msgctxt "a541bb4378314442bf0bbd325868ce0f"
 msgid ""
