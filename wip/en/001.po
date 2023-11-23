@@ -5663,6 +5663,8 @@ msgstr ""
 msgctxt "063830d1df5d4f028646163589256828"
 msgid "འབུམ་ ཊིཀཱ་པ་␣ས་ བསྟན་པ་ ལྔ་ བརྒྱ་ ཕྲག་ བཅུ་ ལ་␣ས་"
 msgstr ""
+"According to the commentary on the One Hundred Thousand Verses: the doctrine"
+" will last ten periods of five hundred years each."
 
 msgctxt "16c567b8eecc4dc696903bde59cb72d4"
 msgid "དང་པོ་ གསུམ་ རིམ་བཞིན་ དགྲ་བཅོམ་ དང་ ཕྱིར་ མི་ འོང་ དང་ །"
