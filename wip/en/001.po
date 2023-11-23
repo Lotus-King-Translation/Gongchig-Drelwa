@@ -5888,7 +5888,7 @@ msgstr ""
 
 msgctxt "16b528633d9a490a8ade5b44372fb443"
 msgid "དོན་ དུ་ མི་འགྱུར་བ་␣འི་ ཕྱིར་ དང་"
-msgstr ""
+msgstr "[One] will not become purposeful and"
 
 msgctxt "65a451059d0d486f853a01c7d82a468d"
 msgid "དེ་ རྗེས་ མཚན་ཉིད་ ལྟར་ ན་ བདག་མེད་ གཉིས་ སྔགས་ ལྟར་ ན་"
