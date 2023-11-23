@@ -5738,6 +5738,8 @@ msgid ""
 "མ་ སྒྲུབ་ ན་ སངས་རྒྱས་ བཞུགས་ ཀྱང་ མི་ ཐོབ་པ་ ལྷ་ སྦྱིན་ དང་ ལེགས་ སྐར་ "
 "བཞིན་ ནོ ། །"
 msgstr ""
+"If [one] does not practice, even if the Buddha is alive, one will not attain"
+" [liberation] like Devadatta and Sunakshatra."
 
 msgctxt "136f72fcf8884347b4905eac93ae8e48"
 msgid "གསེར་འོད་ ལ་␣ས་ ཀྱང །"
