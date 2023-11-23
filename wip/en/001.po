@@ -5747,7 +5747,7 @@ msgstr "Also, the Golden Light says:"
 
 msgctxt "ffc328e23e1944aeb6eb01e5178b1e62"
 msgid "སངས་རྒྱས་ མྱ་ངན་ ཡོངས་ མི་འདའ །"
-msgstr ""
+msgstr "The Buddha will not pass into final nirvana."
 
 msgctxt "92b2ea98cf58436e90cd02cdbd35380d"
 msgid "གྲོལ་བ་ རྒྱུན་ མི་ ཆད་པ་␣ར་ འཁོར་བ་ མ་ སྟོང་ གི་ བར་ དུ་ འབྱུང་ ངོ་ །༽"
