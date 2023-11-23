@@ -5752,6 +5752,8 @@ msgstr "The Buddha will not pass into final nirvana."
 msgctxt "92b2ea98cf58436e90cd02cdbd35380d"
 msgid "གྲོལ་བ་ རྒྱུན་ མི་ ཆད་པ་␣ར་ འཁོར་བ་ མ་ སྟོང་ གི་ བར་ དུ་ འབྱུང་ ངོ་ །༽"
 msgstr ""
+"This is the uninterrupted liberation that continues until samsara is "
+"emptied."
 
 msgctxt "86a24822f6514feea9a6d243d715b862"
 msgid ""
