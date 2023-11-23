@@ -5718,6 +5718,8 @@ msgid ""
 "བསྟན་པ་ ནུབ་ ཁ་␣ར་ རྒྱལ་པོ་ དཔུང་ མར་ ཅན་ གྱི་ རིང་ ལ་ དགྲ་བཅོམ་པ་ དེས་པ་ "
 "དང་"
 msgstr ""
+"At the time of the decline of the doctrine, during the reign of King "
+"Pungmarchen, the arhat Surata and "
 
 msgctxt "46c46c42d7134c85a9fbb508c97b8a1e"
 msgid "ཁྲོ་ མ་ དུས་ མཇུག་ ལ་␣ས་ ཚེ་ལོ་ བཅུ་པ་␣འི་ དུས་"
