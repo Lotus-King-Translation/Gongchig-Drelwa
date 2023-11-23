@@ -5760,6 +5760,8 @@ msgid ""
 "དུས་བཞི་␣ར་ བཞག་པ་ ཤས་ ཆེ་ཆུང་ ངམ་ གཙོ་ཕལ་ ཙམ་ ལས་འབྲས་ ཐོབ་ རྒྱུན་ ཆད་ མེད་"
 " དོ །"
 msgstr ""
+"The attainment of the result is placed uninterruptedly in the four times, "
+"except for the greater and lesser or stronger and weaker dominance."
 
 msgctxt "f637b05e46cb483c9ae51958b65ae449"
 msgid ""
