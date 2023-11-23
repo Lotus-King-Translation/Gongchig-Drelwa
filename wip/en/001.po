@@ -5694,6 +5694,8 @@ msgstr "The latter three are the period of the Abhidharma, Sutra, and Vinaya."
 msgctxt "e00e68f7df384c258c86d6e0e5b0616e"
 msgid "དེང་སང་ མདོ་སྡེ་␣འི་ དུས་ ལ་ ཡོད་པ་␣ས་ འབྲས་བུ་ མི་ སྐྱེ་ ཟེར་ རོ ། །"
 msgstr ""
+"It is said that no fruit would arise because the present time is the "
+"Abhidharma period."
 
 msgctxt "5958ceef4ac24aca994d55e470cb5fa0"
 msgid ""
