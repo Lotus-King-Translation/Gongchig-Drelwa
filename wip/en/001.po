@@ -5883,6 +5883,8 @@ msgstr "[One] will not be able to protect [oneself] from the faults."
 msgctxt "254049470e7949b08790c454c80479bb"
 msgid "དེ་ རྗེས་ བྱམས་ སྙིང་རྗེ་ བྱང་ཆུབ་ ཀྱི་ སེམས་མ་ བསྒོམ་ ན་"
 msgstr ""
+"After that, if [one] does not meditate on loving-kindness, compassion, and "
+"bodhicitta,"
 
 msgctxt "16b528633d9a490a8ade5b44372fb443"
 msgid "དོན་ དུ་ མི་འགྱུར་བ་␣འི་ ཕྱིར་ དང་"
