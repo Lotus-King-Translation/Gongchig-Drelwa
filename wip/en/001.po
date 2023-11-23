@@ -5799,7 +5799,7 @@ msgstr ""
 
 msgctxt "9256beeb20c34de9b7cd0f43dfbc1c6e"
 msgid "ཕྱིས་ རབ་ཏུ་ བྱུང་བ་ ལྟ་བུ་ སྟེ །"
-msgstr ""
+msgstr "Later, he became a monk."
 
 msgctxt "ad36e34ce621453d90f00d00e5c60fce"
 msgid "དབྱེ་ ན་ གཞི་ ལ་␣ས །"
