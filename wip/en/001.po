@@ -5893,6 +5893,8 @@ msgstr "[One] will not become purposeful and"
 msgctxt "65a451059d0d486f853a01c7d82a468d"
 msgid "དེ་ རྗེས་ མཚན་ཉིད་ ལྟར་ ན་ བདག་མེད་ གཉིས་ སྔགས་ ལྟར་ ན་"
 msgstr ""
+"After that, the two selflessnesses according to the characteristics, "
+"according to the mantra"
 
 msgctxt "747d52a029cd4afe82fa6fcdfa4d5b42"
 msgid "བསྐྱེད་རྫོགས་ གཉིས་ དངོས་གཞི་ མེད་ ཐབས་མེད་པ་ དང་"
