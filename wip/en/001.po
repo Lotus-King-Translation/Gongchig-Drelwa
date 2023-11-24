@@ -6180,7 +6180,7 @@ msgstr "As said."
 
 msgctxt "8642ced1a5fd4367af4e4d82568da944"
 msgid "རྡོ་␣༽༽  ཐེག་དམན་ དུ་ འདོད་ མོད །"
-msgstr "Vajra: It is accepted as the lesser vehicle."
+msgstr "Vajra: Even though it is accepted as the lesser vehicle."
 
 msgctxt "aebb7b710b0d45e1bd31c541b2b7be22"
 msgid "ལྷག་པར་ དུའང་ ཐེག་པ་ ཆེན་པོ་␣ར་ གསལ་བ་␣ར་ བཞུགས་ ཏེ་"
