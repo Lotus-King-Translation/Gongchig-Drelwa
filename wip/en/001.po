@@ -5960,7 +5960,7 @@ msgstr "During the teaching of the White Lotus "
 
 msgctxt "42305e792bd84a9d901f02a2375df341"
 msgid "སངས་རྒྱས་ དཔག་ ཏུ་ མེད་པ་␣ར་ འབྱོན་པ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "It is said that countless buddhas have arrived."
 
 msgctxt "e80ac4c0d8164bc39ae02c6b30fdd843"
 msgid "དགོངས་ འདུས་ ཀྱི་ ལུང་དོན་ མཛད་པ་"
