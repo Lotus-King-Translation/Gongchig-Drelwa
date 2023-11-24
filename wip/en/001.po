@@ -7932,7 +7932,7 @@ msgstr ""
 
 msgctxt "251644c2607a4164a72efb243a6b58e6"
 msgid "བཤེས་ སྤྲིང་ ལ་␣ས །"
-msgstr ""
+msgstr " According to A Letter to a Friend:"
 
 msgctxt "3fd771c991814750abbbfbf01bb74d31"
 msgid "གང་ཞིག་ སྔོན་ཆད་␣×"
