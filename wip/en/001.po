@@ -6059,6 +6059,8 @@ msgstr ""
 msgctxt "592b6e01394648698e055b1314666930"
 msgid "ཅེས་པ་ ཐོག་མ་␣ར་ མཐོ་རིས་ ཀྱི་ ཡོན་ཏན་ བར་ དུ་ ཉན་རང་ གི་ བྱང་ཆུབ །"
 msgstr ""
+"First the qualities of the higher realms and then the enlightenment of "
+"shravakas and pratyekabuddhas in the middle."
 
 msgctxt "fb22de71b2324924af847b85bdefc6c6"
 msgid "མཐར་ཐུག་ བྱང་ཆུབ་ ཆེན་པོ་␣འི་ བར་ ཚུལ་ཁྲིམས་ ལ་␣ས་ བྱུང་བ་ ནི་␣༑"
