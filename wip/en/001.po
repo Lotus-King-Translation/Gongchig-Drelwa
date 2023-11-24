@@ -6096,7 +6096,7 @@ msgstr "The defeats of shravakas and pratyekabuddhas."
 
 msgctxt "cd426b7a830349448b5b1c6786d85ce2"
 msgid "བྱང་སེམས་ ཀྱི་ རྩ་བ་ ལྟ་བུ །"
-msgstr ""
+msgstr "Like the root of bodhicitta."
 
 msgctxt "1c0f06458cdb41209da6fd6791eeb6a8"
 msgid "སྔགས་ སུ་ བཅུད་ རྣམས་ ལྷ་␣ར་ གསུངས་ ན་"
