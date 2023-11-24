@@ -6039,6 +6039,8 @@ msgid ""
 "མཐར་ཐུག་ སངས་རྒྱས་ ཀྱི་ ཡོན་ཏན་ སྟོབས་ སོགས་ ཚུལ་ཁྲིམས་ ཀྱི་ འབྲས་བུ་ གསུངས་"
 " ཏེ །"
 msgstr ""
+"It is said that the ultimate qualities of Buddha such as powers and so on "
+"are the results of discipline."
 
 msgctxt "8e03c291700e40e0becc582d523ccc96"
 msgid "སྡུད་པ་ ལ་␣ས །"
