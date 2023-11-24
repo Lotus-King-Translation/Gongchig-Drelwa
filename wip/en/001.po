@@ -5952,7 +5952,7 @@ msgstr ""
 
 msgctxt "930bb645385d486d8e22fe25924c91e6"
 msgid "རང་ རེ་␣འི་ སྟོན་པ་␣ས་ འདུས་པ་ རིན་པོ་ཆེ་ དང་"
-msgstr "Our teacher taught the precious Assemblage and "
+msgstr "Our teacher taught the precious Gathered and "
 
 msgctxt "735985ae01274391a07859c12c5363d7"
 msgid "པདྨ་ དཀར་པོ་ གསུངས་པ་␣འི་ དུས་"
