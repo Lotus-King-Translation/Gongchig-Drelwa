@@ -5913,6 +5913,8 @@ msgid ""
 "དེ་ལྟར་ ཐུན་ གཅིག་ གི་ སྟེང་ དུ་ ཉམས་ སུ་ ལེན་ ན་ ཇོ་བོ་ རྗེའི་ དགོངས་པ་ "
 "ཡིན་ ནོ །"
 msgstr ""
+"If [someone] practices in that way in a single session, that is the intent "
+"of Jowo Je [Palden Atisha]."
 
 msgctxt "13e59852a5e04443ac2c06a8882e4cd9"
 msgid "རྡོ་␣༽༽  ཞིང་ གཅིག་ ལ་ སངས་རྒྱས་ གཅིག་ ལས་མི་ འབྱུང་བ་"
