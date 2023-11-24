@@ -5995,7 +5995,7 @@ msgstr ""
 
 msgctxt "9968324f8faf46eba0046ba58899af67"
 msgid "གཞན་དག་ ན་རེ་"
-msgstr ""
+msgstr "Others said:"
 
 msgctxt "7093b379269f4ef28d4a0210e4a7331d"
 msgid "འདུལ་བ་␣འི་ སྡེ་སྣོད་ སོ་སོ་␣ར་ ཐར་པ་ ཞེས་པ་"
