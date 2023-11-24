@@ -5999,7 +5999,7 @@ msgstr "Others said:"
 
 msgctxt "7093b379269f4ef28d4a0210e4a7331d"
 msgid "འདུལ་བ་␣འི་ སྡེ་སྣོད་ སོ་སོ་␣ར་ ཐར་པ་ ཞེས་པ་"
-msgstr ""
+msgstr "The Vinaya pitaka is individual emancipation,"
 
 msgctxt "5f21aaeb894e4681b4b42e850aaf6655"
 msgid ""
