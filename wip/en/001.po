@@ -6184,7 +6184,7 @@ msgstr "Vajra: Even though it is accepted as the lesser vehicle."
 
 msgctxt "aebb7b710b0d45e1bd31c541b2b7be22"
 msgid "ལྷག་པར་ དུའང་ ཐེག་པ་ ཆེན་པོ་␣ར་ གསལ་བ་␣ར་ བཞུགས་ ཏེ་"
-msgstr ""
+msgstr "Especially, [they] clearly dwell in the greater vehicle."
 
 msgctxt "838f3c540a904ee58270836f79b65bb8"
 msgid "སངས་རྒྱས་ ཐོབ་བྱེད་ ཀྱི་ རྒྱུ་ དང་པོ་ སེམས་བསྐྱེད་པ་"
