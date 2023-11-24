@@ -6176,7 +6176,7 @@ msgstr "It is said that the vinaya is the cause and root."
 
 msgctxt "87a40f0713094132ad1d82bc4cfd78ca"
 msgid "ཞེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "8642ced1a5fd4367af4e4d82568da944"
 msgid "རྡོ་␣༽༽  ཐེག་དམན་ དུ་ འདོད་ མོད །"
