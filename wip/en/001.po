@@ -6005,6 +6005,8 @@ msgctxt "5f21aaeb894e4681b4b42e850aaf6655"
 msgid ""
 "རང་ཉིད་ ཁོ་ན་ ཐར་པ་␣འི་ དོན་ ཡིན་པ་␣ས་ ཐེག་དམན་ ས་␣ར་ འདོད་པ་ མང་ མོད །"
 msgstr ""
+"Many people accept it as the stages of the lesser vehicle because it is "
+"concerned only with the emancipation of oneself."
 
 msgctxt "97251b4bdf474f678ed1030bf319899c"
 msgid "འདི་␣ར་ ནི་ དམ་ཆོས་ འདུལ་བ་ ཐེག་པ་ ཐུན་མོང་ ཡིན་ ཏེ་"
