@@ -6124,7 +6124,7 @@ msgstr "The pratimoksha is "
 
 msgctxt "17c7735e054647d1a11d796278629860"
 msgid "དགག་སྒྲུབ་ ཀྱི་ བསླབ་པ་ སོ་སོ་␣ར་ མ་ འདྲེས་ ཕར་"
-msgstr ""
+msgstr "The training of negation and assertion individually without mixing,"
 
 msgctxt "e62de4c32aff49e2bd0a786972182ed8"
 msgid ""
