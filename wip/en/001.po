@@ -6068,7 +6068,7 @@ msgstr "Finally, the great enlightenment is the result of discipline."
 
 msgctxt "40562c135c3d441b849dc5c4d67174f4"
 msgid "བཤེས་ སྤྲིང་ ལ་␣ས །"
-msgstr ""
+msgstr " According to A Letter to a Friend:"
 
 msgctxt "aa5f89a6418e42dd9f278b8c4e169009"
 msgid "ཁྲིམས་ ནི་ རྒྱུ་ དང་ མི་ རྒྱུ་␣འི་ ས་ བཞིན་ དུ །"
