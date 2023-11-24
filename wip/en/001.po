@@ -5964,7 +5964,7 @@ msgstr "It is said that countless buddhas have arrived."
 
 msgctxt "e80ac4c0d8164bc39ae02c6b30fdd843"
 msgid "དགོངས་ འདུས་ ཀྱི་ ལུང་དོན་ མཛད་པ་"
-msgstr ""
+msgstr "The scriptural meaning of the Gathered Intents."
 
 msgctxt "e80f577448204003871e4db596e9e14c"
 msgid "ཞིང་ དེ་␣ར་ མཐ་␣ར་ ཕྱིན་པ་ ལ་ དགོངས་ ཤིང་"
