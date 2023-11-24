@@ -6108,7 +6108,7 @@ msgstr "There is no greater downfall than this."
 
 msgctxt "a087b983b1844f3393ccc0b8392d376a"
 msgid "དེ་ལྟར་ ཐུན་མོང་ དུ་ གྲུབ་བོ །"
-msgstr ""
+msgstr "In that way, it is established in common."
 
 msgctxt "acec9d45aa98457d99d51ef48df1c884"
 msgid "སོ་ཐར་ གྱི་ སྒྲ་དོན་ པྲ་ ཏི་ མོཀྵ་ ཞེས་པ་"
