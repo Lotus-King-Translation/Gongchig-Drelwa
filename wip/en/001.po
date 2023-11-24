@@ -6019,6 +6019,8 @@ msgid ""
 "གནས་སྐབས་ འཁོར་བ་␣འི་ བདེ་སྐྱིད་ ཀྱང་ སོ་ཐར་ སྡོམ་པ་␣ར་ བརྟེན་ ནས་ བྱུང་ "
 "སྟེ་"
 msgstr ""
+"Even the temporary happiness of samsara occurs depending on the vows of "
+"individual emancipation."
 
 msgctxt "a6ba66655f634dcda0d00e995706924c"
 msgid "ཚུལ་ཁྲིམས་ ཀྱིས་ ནི་ བདེ་འགྲོ་␣ར་ འགྲོ་ ཞེས་ དང་ །"
