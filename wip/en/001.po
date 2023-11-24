@@ -6024,7 +6024,7 @@ msgstr ""
 
 msgctxt "a6ba66655f634dcda0d00e995706924c"
 msgid "ཚུལ་ཁྲིམས་ ཀྱིས་ ནི་ བདེ་འགྲོ་␣ར་ འགྲོ་ ཞེས་ དང་ །"
-msgstr ""
+msgstr "Through discipline, one will go to the happy migrations."
 
 msgctxt "d4b3ed17ff514e7b9175a5058c98a55e"
 msgid "ཞི་བ་ ཉན་རང་ མི་ལུས་ ལ་ བརྟེན་ དགོས་ ཤིང་"
