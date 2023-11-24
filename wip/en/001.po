@@ -6104,7 +6104,7 @@ msgstr "In the mantra, when all contents are said as deities,"
 
 msgctxt "5b18ebdac95a4bf488edd56e657aa3b7"
 msgid "ལྟུང་བ་ དེ་བ་␣ས་ ཆེ་བ་ མེད་པ་␣ས་"
-msgstr ""
+msgstr "There is no greater downfall than this."
 
 msgctxt "a087b983b1844f3393ccc0b8392d376a"
 msgid "དེ་ལྟར་ ཐུན་མོང་ དུ་ གྲུབ་བོ །"
