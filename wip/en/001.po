@@ -6120,7 +6120,7 @@ msgstr "From the fifth volume of the commentary by Vimalamitra:"
 
 msgctxt "596f39930c72475badf3e797e30896d7"
 msgid "སོ་སོ་␣ར་ ཐར་པ་ ཞེས་ བྱ་བ་ ནི་"
-msgstr ""
+msgstr "The pratimoksha is "
 
 msgctxt "17c7735e054647d1a11d796278629860"
 msgid "དགག་སྒྲུབ་ ཀྱི་ བསླབ་པ་ སོ་སོ་␣ར་ མ་ འདྲེས་ ཕར་"
