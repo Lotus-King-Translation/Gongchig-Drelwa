@@ -6076,7 +6076,7 @@ msgstr "Discipline is like the earth for everything moving or unmoving."
 
 msgctxt "22db95a77c9c4bc3b8fc0604ac4869f0"
 msgid "ཡོན་ཏན་ ཀུན་ གྱི་ གཞི་ རྟེན་ ལགས་པ་␣ར་ གསུངས །"
-msgstr ""
+msgstr "It is said that it is the foundation for all qualities."
 
 msgctxt "0b82cd4fd21841c89f83b2b9194afca2"
 msgid "ཞེས་པ་ དང༌ །"
