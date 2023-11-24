@@ -6167,6 +6167,8 @@ msgstr "It is the basis for both holding and growing."
 msgctxt "6d5bca2391194408ac3a749b89401e4c"
 msgid "དེ་བཞིན་ ཡོན་ཏན་ ཚོགས་ རྣམས་ ཀུན་ གྱི་ ཡང་ ། །"
 msgstr ""
+"In the same way, it is the [foundation] for the accumulation of all "
+"qualities."
 
 msgctxt "1ce5937460f9497a8bda5bff1bbb1926"
 msgid "རྒྱུ་ དང་ རྩ་བ་ འདུལ་བ་ ཡིན་པ་␣ར་ གསུངས །"
