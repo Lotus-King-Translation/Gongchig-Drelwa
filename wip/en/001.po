@@ -6053,6 +6053,8 @@ msgstr "Those who want peace will become superior ones through discipline."
 msgctxt "800d984cfe8b4ffeb60713ac4039cb7e"
 msgid "སྟོབས་ བཅུ་␣འི་ སྤྱོད་ཡུལ་ གནས་ ཀྱང་ ཚུལ་ཁྲིམས་ ཉམས་པ་ མེད །"
 msgstr ""
+"Although [they] dwell in the sphere of the ten powers, [their] discipline "
+"never degenerates."
 
 msgctxt "592b6e01394648698e055b1314666930"
 msgid "ཅེས་པ་ ཐོག་མ་␣ར་ མཐོ་རིས་ ཀྱི་ ཡོན་ཏན་ བར་ དུ་ ཉན་རང་ གི་ བྱང་ཆུབ །"
