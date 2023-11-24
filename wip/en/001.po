@@ -5923,6 +5923,8 @@ msgstr "Vajra: In a single realm, only one Buddha emerges."
 msgctxt "31ee9e5b91d34d8c848adbe818935d11"
 msgid "དགོངས་ འདུས་ དང་ བོན་ འབུམ་ ན་ འདོད་ འདོད་པ་␣ས་"
 msgstr ""
+"As it is accepted in the Gathered Intents and Bon's One Hundred Thousand "
+"[verses]."
 
 msgctxt "d5c07aa414bb42c79e49ad29b717b0f3"
 msgid "དེ་ལྟར་ ཡིན་པ་ འགའ་ཞིག་ གིས་ ཟེར་ ཡང་"
