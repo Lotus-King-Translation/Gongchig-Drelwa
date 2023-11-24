@@ -6112,7 +6112,7 @@ msgstr "In that way, it is established in common."
 
 msgctxt "acec9d45aa98457d99d51ef48df1c884"
 msgid "སོ་ཐར་ གྱི་ སྒྲ་དོན་ པྲ་ ཏི་ མོཀྵ་ ཞེས་པ་"
-msgstr ""
+msgstr "The etymology of the term pratimoksha,"
 
 msgctxt "f6ace8d64bdb4fb0be55d9fecca3530f"
 msgid "དྲི་མེད་ བཤེས་ ཉེན་ གྱི་ འགྲེལ་བ་ བམ་པོ་ ལྔ་ བཅུ་པ་ ལ་␣ས །"
