@@ -6028,7 +6028,7 @@ msgstr "Through discipline, one will go to the happy migrations."
 
 msgctxt "d4b3ed17ff514e7b9175a5058c98a55e"
 msgid "ཞི་བ་ ཉན་རང་ མི་ལུས་ ལ་ བརྟེན་ དགོས་ ཤིང་"
-msgstr ""
+msgstr "The peaceful shravakas and pratyekabuddhas must rely on a human body."
 
 msgctxt "4f435ae20e204c64b5af069897116b8b"
 msgid "ལུས་ དེ་␣འང་ ཚུལ་ཁྲིམས་ ལ་ རག་ ལས་པ་␣འི་ ཕྱིར་ དང༌ །"
