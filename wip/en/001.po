@@ -6080,7 +6080,7 @@ msgstr "It is said that it is the foundation for all qualities."
 
 msgctxt "0b82cd4fd21841c89f83b2b9194afca2"
 msgid "ཞེས་པ་ དང༌ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "d383cf1f060a4a2bbe03d5c49c90a40b"
 msgid "ཐུན་མོང་ དུ་ སྲོག་གཅོད་པ་ ལྟ་བུ་ གཅིག་ ལ་ མཚོན་ ན །"
