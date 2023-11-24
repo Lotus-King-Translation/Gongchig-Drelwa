@@ -6084,7 +6084,7 @@ msgstr "And"
 
 msgctxt "d383cf1f060a4a2bbe03d5c49c90a40b"
 msgid "ཐུན་མོང་ དུ་ སྲོག་གཅོད་པ་ ལྟ་བུ་ གཅིག་ ལ་ མཚོན་ ན །"
-msgstr ""
+msgstr "When [we] illustrate the common act of murder."
 
 msgctxt "ceae62a306a14ff68b91570ff09beba0"
 msgid "འཇིག་རྟེན་པ་␣འི་ མི་དགེ་བ །"
