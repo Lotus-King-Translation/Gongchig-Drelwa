@@ -5947,6 +5947,8 @@ msgid ""
 "རྡུལ་ གཅིག་ གི་ ཁྱོན་ ལ་ རྡུལ་ སྙེད་ ཀྱི་ སངས་རྒྱས་ ཀྱི་ མཛད་པ་ སྟོན་པ་␣ར་ "
 "གསུངས་པ་␣འི་ ཕྱིར་ དང །"
 msgstr ""
+"It is said that buddhas can show as many deeds as there are particles in a "
+"single particle."
 
 msgctxt "930bb645385d486d8e22fe25924c91e6"
 msgid "རང་ རེ་␣འི་ སྟོན་པ་␣ས་ འདུས་པ་ རིན་པོ་ཆེ་ དང་"
