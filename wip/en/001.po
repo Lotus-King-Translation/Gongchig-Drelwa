@@ -5973,6 +5973,8 @@ msgstr "The intent is to reach the ultimate level of that realm."
 msgctxt "f4dc9a75a84e4b0593d127cc705779f6"
 msgid "བོན་ ལུང་ ནི་ ལུང་ དུ་ མི་ འགྲུབ་བོ ། །"
 msgstr ""
+"The Bon scriptural authorization is not established as a scriptural "
+"authorization."
 
 msgctxt "a11aae085fad40048a84b681e7f3c991"
 msgid "རྒྱུད་ གཉིས་ མེད་ རྣམས་ ལ་␣ས་ ལྷ་ སྦྱིན་ དང་ བདུད་ དང་ །"
