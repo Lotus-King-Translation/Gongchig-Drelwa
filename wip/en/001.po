@@ -6100,7 +6100,7 @@ msgstr "Like the root of bodhicitta."
 
 msgctxt "1c0f06458cdb41209da6fd6791eeb6a8"
 msgid "སྔགས་ སུ་ བཅུད་ རྣམས་ ལྷ་␣ར་ གསུངས་ ན་"
-msgstr "In the mantra, all contents are said to be deities."
+msgstr "In the mantra, when all contents are said as deities,"
 
 msgctxt "5b18ebdac95a4bf488edd56e657aa3b7"
 msgid "ལྟུང་བ་ དེ་བ་␣ས་ ཆེ་བ་ མེད་པ་␣ས་"
