@@ -6032,7 +6032,7 @@ msgstr "The peaceful shravakas and pratyekabuddhas must rely on a human body."
 
 msgctxt "4f435ae20e204c64b5af069897116b8b"
 msgid "ལུས་ དེ་␣འང་ ཚུལ་ཁྲིམས་ ལ་ རག་ ལས་པ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "That body also depends on discipline."
 
 msgctxt "6d440eb14e1847febaac0c858b0598ae"
 msgid ""
