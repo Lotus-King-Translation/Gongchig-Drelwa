@@ -6131,6 +6131,8 @@ msgid ""
 "ཉམས་ སུ་ བླངས་པ་␣ས་ ཐར་པ་ ཐམས་ཅད་ མཁྱེན་པ་ ཉིད་ མངོན་དུ་ བྱེད་པ་␣འི་ ཕྱིར་ "
 "སོ་སོ་␣ར་ ཐར་པ་␣འོ །"
 msgstr ""
+"Through this practice, it brings the realization of liberation and "
+"omniscience, thus it is individual emancipation."
 
 msgctxt "1df2d765aa254fc0bfab6ccd9cfed1a5"
 msgid "ཞེས་ སོ །"
