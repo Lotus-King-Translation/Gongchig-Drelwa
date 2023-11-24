@@ -6092,7 +6092,7 @@ msgstr "Worldly non-virtues,"
 
 msgctxt "dd11a8df9b004a17b1c62fb7fb7e005e"
 msgid "ཉན་རང་ གི་ ཕས་ ཕམ །"
-msgstr ""
+msgstr "The defeats of shravakas and pratyekabuddhas."
 
 msgctxt "cd426b7a830349448b5b1c6786d85ce2"
 msgid "བྱང་སེམས་ ཀྱི་ རྩ་བ་ ལྟ་བུ །"
