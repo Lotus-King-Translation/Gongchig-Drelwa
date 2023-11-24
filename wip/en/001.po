@@ -5982,7 +5982,7 @@ msgstr "In the non-dual tantra, it is said that Devadatta, demons, and "
 
 msgctxt "f60ec9d23f404cbc96e4d83d2d2d2657"
 msgid "འཁོར་ རྣམས་ སངས་རྒྱས་ ཡིན་པ་␣ར་ གསུངས་ སོ །"
-msgstr ""
+msgstr "their retinues are said to be buddhas."
 
 msgctxt "df709fbc74864c6abb1b18390c4059a2"
 msgid ""
