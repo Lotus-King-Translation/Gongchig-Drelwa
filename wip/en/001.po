@@ -6064,7 +6064,7 @@ msgstr ""
 
 msgctxt "fb22de71b2324924af847b85bdefc6c6"
 msgid "མཐར་ཐུག་ བྱང་ཆུབ་ ཆེན་པོ་␣འི་ བར་ ཚུལ་ཁྲིམས་ ལ་␣ས་ བྱུང་བ་ ནི་␣༑"
-msgstr ""
+msgstr "Finally, the great enlightenment is the result of discipline."
 
 msgctxt "40562c135c3d441b849dc5c4d67174f4"
 msgid "བཤེས་ སྤྲིང་ ལ་␣ས །"
