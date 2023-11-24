@@ -5932,7 +5932,7 @@ msgstr "Moreover, some say that this is true."
 
 msgctxt "a299510a517e4c6b9ef4834dff00168b"
 msgid "སངས་རྒྱས་ ནི་ གྲངས་མེད་ བྱོན་པ་ ཡོད་ དེ་"
-msgstr ""
+msgstr "Countless buddhas arrive because"
 
 msgctxt "f977e5abec4e4b88b7dc799ad608e86a"
 msgid ""
