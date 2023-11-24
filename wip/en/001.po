@@ -6072,7 +6072,7 @@ msgstr " According to A Letter to a Friend:"
 
 msgctxt "aa5f89a6418e42dd9f278b8c4e169009"
 msgid "ཁྲིམས་ ནི་ རྒྱུ་ དང་ མི་ རྒྱུ་␣འི་ ས་ བཞིན་ དུ །"
-msgstr ""
+msgstr "Discipline is like the earth for everything moving or unmoving."
 
 msgctxt "22db95a77c9c4bc3b8fc0604ac4869f0"
 msgid "ཡོན་ཏན་ ཀུན་ གྱི་ གཞི་ རྟེན་ ལགས་པ་␣ར་ གསུངས །"
