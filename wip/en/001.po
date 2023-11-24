@@ -6151,7 +6151,7 @@ msgstr ""
 
 msgctxt "407cab4f4ab2420f881bcc55f3df536a"
 msgid "དེ་ དང་ དེ་ལས་ སྨྲས་པ་␣ས་ སོ །"
-msgstr ""
+msgstr "Since such and such has been said."
 
 msgctxt "1ed6065ca62c4813808f4357223160ca"
 msgid "དེ་ཕྱིར་ ལུང་ རྣམ་འབྱེད་ ལ་␣ས །"
