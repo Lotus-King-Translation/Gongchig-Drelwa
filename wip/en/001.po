@@ -5968,7 +5968,7 @@ msgstr "The scriptural meaning of the Gathered Intents."
 
 msgctxt "e80f577448204003871e4db596e9e14c"
 msgid "ཞིང་ དེ་␣ར་ མཐ་␣ར་ ཕྱིན་པ་ ལ་ དགོངས་ ཤིང་"
-msgstr ""
+msgstr "The intent is to reach the ultimate level of that realm."
 
 msgctxt "f4dc9a75a84e4b0593d127cc705779f6"
 msgid "བོན་ ལུང་ ནི་ ལུང་ དུ་ མི་ འགྲུབ་བོ ། །"
