@@ -5928,7 +5928,7 @@ msgstr ""
 
 msgctxt "d5c07aa414bb42c79e49ad29b717b0f3"
 msgid "དེ་ལྟར་ ཡིན་པ་ འགའ་ཞིག་ གིས་ ཟེར་ ཡང་"
-msgstr "Although some say that this is true."
+msgstr "Moreover, some say that this is true."
 
 msgctxt "a299510a517e4c6b9ef4834dff00168b"
 msgid "སངས་རྒྱས་ ནི་ གྲངས་མེད་ བྱོན་པ་ ཡོད་ དེ་"
