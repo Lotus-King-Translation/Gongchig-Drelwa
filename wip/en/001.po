@@ -5956,7 +5956,7 @@ msgstr "Our teacher taught the precious Assemblage and "
 
 msgctxt "735985ae01274391a07859c12c5363d7"
 msgid "པདྨ་ དཀར་པོ་ གསུངས་པ་␣འི་ དུས་"
-msgstr ""
+msgstr "During the teaching of the White Lotus "
 
 msgctxt "42305e792bd84a9d901f02a2375df341"
 msgid "སངས་རྒྱས་ དཔག་ ཏུ་ མེད་པ་␣ར་ འབྱོན་པ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར་ རོ ། །"
