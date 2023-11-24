@@ -6116,7 +6116,7 @@ msgstr "The etymology of the term pratimoksha,"
 
 msgctxt "f6ace8d64bdb4fb0be55d9fecca3530f"
 msgid "དྲི་མེད་ བཤེས་ ཉེན་ གྱི་ འགྲེལ་བ་ བམ་པོ་ ལྔ་ བཅུ་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "From the fifth volume of the commentary by Vimalamitra:"
 
 msgctxt "596f39930c72475badf3e797e30896d7"
 msgid "སོ་སོ་␣ར་ ཐར་པ་ ཞེས་ བྱ་བ་ ནི་"
