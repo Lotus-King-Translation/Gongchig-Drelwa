@@ -1623,7 +1623,7 @@ msgid ""
 "འཁོར་བ་ རྒྱུ་འབྲས་ དགག་ བཅས་ སྤང་བྱ་ ལྡོག་པ་␣འི་ ཚུལ་ཁྲིམས་ ལུང་ རྣམ་འབྱེད་ "
 "ཀྱིས་ བསྟན་པ་ ན་"
 msgstr ""
-"The fine analytical transmission shows the discipline that disengages from "
+"The fine analytical scripture shows the discipline that disengages from "
 "abandoning, which is related to the cessation of samsara's cause and effect."
 
 msgctxt "d34ac3e101b74e94a8258c460105a6e7"
