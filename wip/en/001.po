@@ -590,7 +590,7 @@ msgstr "Other than this system,"
 
 msgctxt "90f7010ac1094304a46c59e1759d0f1f"
 msgid "བདེ་གཤེགས་ བྱེད་པོ་␣ར་ ཐལ་བ་ དང་ །"
-msgstr "The Sugata as a doer follows an absurd consequence and "
+msgstr "It absurdly follows that Sugata as a doer and "
 
 msgctxt "1de3c8cb812b449281de97dcc65ed36a"
 msgid "གནས་ དང་ གནས་མིན་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ མེད་པ་ ཐལ་བ་ སོགས་"
