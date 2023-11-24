@@ -6136,7 +6136,7 @@ msgstr ""
 
 msgctxt "1df2d765aa254fc0bfab6ccd9cfed1a5"
 msgid "ཞེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "be8ef59ed0574d16bdc75d12af4caa1d"
 msgid "སོ་ཐར་ སྨྲོས་ ཙམ་ གྱིས་ ཐེག་དམན་ ཡིན་ ན་"
