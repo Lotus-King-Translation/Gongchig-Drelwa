@@ -1787,7 +1787,7 @@ msgstr "Like a cloud, a dream, or an illusion."
 
 msgctxt "e72d2b6bacbb49c8bd6c1629e405472e"
 msgid "དེ་ དང་ དེ་␣ར་ སོགས་ ཀྱི་ དྲང་དོན་ ཡིན་མོད་"
-msgstr "All of these are of provisional meaning. Nevertheless,"
+msgstr "Even though, all of these are of provisional meaning."
 
 msgctxt "20c2c3e65587483f8cb83a185f673480"
 msgid "འདི་␣ར་ མགོན་པོ་ འབྲི་གུང་པ་␣འི་ བཞེད་པ་ ནི་"
