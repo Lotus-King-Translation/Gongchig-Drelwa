@@ -5939,6 +5939,8 @@ msgid ""
 "སངས་རྒྱས་ རྣམས་ ཀྱི་ སྐུ་གསུང་ཐུགས་ ཀྱི་ ཟད་པ་ རྒྱན་ གྱི་ འཁོར་ལོ་␣འི་ "
 "རྣམ་འཕྲུལ་ མཐའ་ ཡས་ ཤིང་ ཐུག་པ་ མེད་པ་␣འི་ ཕྱིར་ དང༌ །"
 msgstr ""
+"The exhaustion of the body, speech, and mind of buddhas is the manifestation"
+" of the wheel of ornament, that is infinite and endless."
 
 msgctxt "5a03ad80ddf94f448d6a676b27dd5e1e"
 msgid ""
