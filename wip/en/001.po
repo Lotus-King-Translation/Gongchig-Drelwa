@@ -6162,7 +6162,7 @@ msgstr "In the same way that a tree's root is principal,"
 
 msgctxt "8308b85ab9d242d0a727b0bc6c33c542"
 msgid "རྣམ་པ་␣ར་ འཕེལ་ དང་ ཀུན་འཛིན་ གཉིས་ ཀྱི་ གཞི ། །"
-msgstr ""
+msgstr "It is the basis for both holding and growing."
 
 msgctxt "6d5bca2391194408ac3a749b89401e4c"
 msgid "དེ་བཞིན་ ཡོན་ཏན་ ཚོགས་ རྣམས་ ཀུན་ གྱི་ ཡང་ ། །"
