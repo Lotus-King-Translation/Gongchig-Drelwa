@@ -5978,7 +5978,7 @@ msgstr ""
 
 msgctxt "a11aae085fad40048a84b681e7f3c991"
 msgid "རྒྱུད་ གཉིས་ མེད་ རྣམས་ ལ་␣ས་ ལྷ་ སྦྱིན་ དང་ བདུད་ དང་ །"
-msgstr ""
+msgstr "In the non-dual tantra, it is said that Devadatta, demons, and "
 
 msgctxt "f60ec9d23f404cbc96e4d83d2d2d2657"
 msgid "འཁོར་ རྣམས་ སངས་རྒྱས་ ཡིན་པ་␣ར་ གསུངས་ སོ །"
