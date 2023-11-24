@@ -6088,7 +6088,7 @@ msgstr "In case of a joint enterprise killing,"
 
 msgctxt "ceae62a306a14ff68b91570ff09beba0"
 msgid "འཇིག་རྟེན་པ་␣འི་ མི་དགེ་བ །"
-msgstr ""
+msgstr "Worldly non-virtues,"
 
 msgctxt "dd11a8df9b004a17b1c62fb7fb7e005e"
 msgid "ཉན་རང་ གི་ ཕས་ ཕམ །"
