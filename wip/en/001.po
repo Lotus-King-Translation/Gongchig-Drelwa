@@ -6219,7 +6219,7 @@ msgstr "This is the explanation of the generation of the mind and"
 
 msgctxt "c92f99b8951a4f1eb0d1c1c4addab783"
 msgid "བར་ དུ་ ལམ་ ཕྱིན་ དྲུག་ རྫོགས་པ་␣འི་ རིམ་པ་"
-msgstr ""
+msgstr "The completing stage of the six perfections is in the middle. "
 
 msgctxt "e6aa177c502944d4af98387cac179f5b"
 msgid "སྐྱེས་ རབ་ ལྔ་ བརྒྱ་ ན་ མགོ་ དང་ རྐང་ལག་ གཏོང་བ་ སོགས་"
