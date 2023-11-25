@@ -6203,7 +6203,7 @@ msgstr ""
 
 msgctxt "6fcc94f818124af598eb1b2b285ec62c"
 msgid "གཏོང་བ་ ལ་␣ས་ བྱུང་ བསོད་ནམས་ རྣམས་ ལ་␣ས་ བྱུང་ གང་ ལ །།"
-msgstr ""
+msgstr "Those who have merits through the action of giving"
 
 msgctxt "f191e37982f84bd4b8558d6e36c59848"
 msgid "དེ་␣ས་ ནི་ འཇིག་རྟེན་ སངས་རྒྱས་ ཉིད་ ཐོབ་ ཅིང༌ ། །"
