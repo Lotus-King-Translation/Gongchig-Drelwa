@@ -6224,6 +6224,8 @@ msgstr "The completing stage of the six perfections is in the middle. "
 msgctxt "e6aa177c502944d4af98387cac179f5b"
 msgid "སྐྱེས་ རབ་ ལྔ་ བརྒྱ་ ན་ མགོ་ དང་ རྐང་ལག་ གཏོང་བ་ སོགས་"
 msgstr ""
+"The giving of head, hands, feet, and so on in the five hundred lifetimes [of"
+" the Buddha]."
 
 msgctxt "de9f9e5f89bb40c6a8c20fc595db8966"
 msgid "བྱ་ དཀའ་བ་␣འི་ སྤྱོད་པ་ སྤྱད་ ཚུལ་ དེ་␣ར་ འཞུགས་པ་␣འི་ ཕྱིར་ དང་ །"
