@@ -6230,6 +6230,8 @@ msgstr ""
 msgctxt "de9f9e5f89bb40c6a8c20fc595db8966"
 msgid "བྱ་ དཀའ་བ་␣འི་ སྤྱོད་པ་ སྤྱད་ ཚུལ་ དེ་␣ར་ འཞུགས་པ་␣འི་ ཕྱིར་ དང་ །"
 msgstr ""
+"It contains how [he] engages in the deeds which are difficult to perform and"
+" "
 
 msgctxt "1c615ef8706d442cbf63cb97c1410e03"
 msgid "མཐ་␣ར་ བསྔོ་བ་ སྨོན་ལམ་ དང་ གྲུབ་པ་␣འི་ འབྲས་བུ་␣འང །"
