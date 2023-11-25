@@ -6207,7 +6207,7 @@ msgstr "Those who have merits through the action of giving"
 
 msgctxt "f191e37982f84bd4b8558d6e36c59848"
 msgid "དེ་␣ས་ ནི་ འཇིག་རྟེན་ སངས་རྒྱས་ ཉིད་ ཐོབ་ ཅིང༌ ། །"
-msgstr ""
+msgstr "This will attain Buddhahood in the world."
 
 msgctxt "751828ae2ce847d5a83cd0f594c70650"
 msgid "འདོད་པ་␣འི་ རིམས་ནད་ ཀུན་ ལ་␣ས་ ཐར་བ་␣ར་ བྱ །"
