@@ -6194,7 +6194,7 @@ msgstr ""
 
 msgctxt "f28cd32695d64086986edef21daaeb7f"
 msgid "ལུང་ སྨན་ གཞི་ ལ་␣ས་"
-msgstr ""
+msgstr "According to the scriptural authorization of the Basis of Medicine:"
 
 msgctxt "3da16acd13ab414abe51580434957b02"
 msgid "འོད་ལྡན་ དུ་ སྐྱེ་བ་ བཞེས་པ་ ན་ སངས་རྒྱས་ ཀྱི་ སྒྲ་ ཐོས་ ནས །"
