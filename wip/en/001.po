@@ -6215,7 +6215,7 @@ msgstr "One will be set free from the spreading diseases of desire."
 
 msgctxt "509ace3a06994944b95d947ea4acacb1"
 msgid "ཞེས་ སེམས་བསྐྱེད་པ་ དེ་␣ར་ བཤད་པ་␣འི་ ཕྱིར་ དང་ །"
-msgstr ""
+msgstr "This is the explanation of the generation of the mind and"
 
 msgctxt "c92f99b8951a4f1eb0d1c1c4addab783"
 msgid "བར་ དུ་ ལམ་ ཕྱིན་ དྲུག་ རྫོགས་པ་␣འི་ རིམ་པ་"
