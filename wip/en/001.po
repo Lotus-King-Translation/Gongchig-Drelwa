@@ -6211,7 +6211,7 @@ msgstr "This will attain Buddhahood in the world."
 
 msgctxt "751828ae2ce847d5a83cd0f594c70650"
 msgid "འདོད་པ་␣འི་ རིམས་ནད་ ཀུན་ ལ་␣ས་ ཐར་བ་␣ར་ བྱ །"
-msgstr ""
+msgstr "One will be set free from the spreading diseases of desire."
 
 msgctxt "509ace3a06994944b95d947ea4acacb1"
 msgid "ཞེས་ སེམས་བསྐྱེད་པ་ དེ་␣ར་ བཤད་པ་␣འི་ ཕྱིར་ དང་ །"
