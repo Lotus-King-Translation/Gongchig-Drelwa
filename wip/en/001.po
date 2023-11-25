@@ -6189,6 +6189,8 @@ msgstr "Especially, [they] clearly dwell in the greater vehicle."
 msgctxt "838f3c540a904ee58270836f79b65bb8"
 msgid "སངས་རྒྱས་ ཐོབ་བྱེད་ ཀྱི་ རྒྱུ་ དང་པོ་ སེམས་བསྐྱེད་པ་"
 msgstr ""
+"The first cause for attaining buddhahood is generation of the mind [for "
+"enlightenment]."
 
 msgctxt "f28cd32695d64086986edef21daaeb7f"
 msgid "ལུང་ སྨན་ གཞི་ ལ་␣ས་"
