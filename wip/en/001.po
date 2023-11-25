@@ -6235,7 +6235,7 @@ msgstr ""
 
 msgctxt "1c615ef8706d442cbf63cb97c1410e03"
 msgid "མཐ་␣ར་ བསྔོ་བ་ སྨོན་ལམ་ དང་ གྲུབ་པ་␣འི་ འབྲས་བུ་␣འང །"
-msgstr ""
+msgstr "In the end, dedication, aspiration, and the fruits of accomplishment."
 
 msgctxt "d55c35347c92458b894f560759a2bf9e"
 msgid "སྦྱིན་པ་ རྒྱ་ ཆེན་ སོགས །"
