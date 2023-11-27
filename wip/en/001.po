@@ -6293,7 +6293,7 @@ msgstr "As said."
 
 msgctxt "f855fd90b1274155aa5e945e03dd9a3a"
 msgid "ཐབས་ཤེས་ དེ་ གཉིས་ ཀྱིས་ སྡོམ་པ་ གསུམ་ ཀར་ ཁྱབ་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "These two, method and wisdom, pervade all three vows."
 
 msgctxt "69b9d0530bab4d3089a459c3a330284c"
 msgid "རྡོ་␣༽༽  འདུལ་འཛིན་ ལ་ལ་␣འི་ འདུལ་བ་␣འི་ དོན་"
