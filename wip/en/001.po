@@ -6309,7 +6309,7 @@ msgstr ""
 
 msgctxt "0dae65e467b64d6ab230e05bb4a4eb2a"
 msgid "བོད་ ཀྱི་ འདུལ་འཛིན་ དག་ གིས་ ཟེར་ རོ །"
-msgstr ""
+msgstr "This is said by the vinaya holders of Tibet."
 
 msgctxt "90a4739e236d4d209416a9a950655303"
 msgid ""
