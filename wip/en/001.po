@@ -6247,7 +6247,7 @@ msgstr "And these are shown in the twelve deeds and  "
 
 msgctxt "456db421f14d4daeacba4aad113f8eba"
 msgid "བསྟན་པ་␣འི་ ཕྱིར་ དང་ བསྟན་བཅོས་ ལ་␣ས་ ཀྱང་ བཀྲལ་བ་␣འི་ ཕྱིར་ རོ །"
-msgstr ""
+msgstr "And elucidated in the treatises as well."
 
 msgctxt "e8eab0f4ceb8464eab227c62bfa9891e"
 msgid "ལྷན་␣༽༽  གཞན་དག་ ན་རེ །"
