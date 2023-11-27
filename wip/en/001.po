@@ -6297,7 +6297,7 @@ msgstr "These two, method and wisdom, pervade all three vows."
 
 msgctxt "69b9d0530bab4d3089a459c3a330284c"
 msgid "རྡོ་␣༽༽  འདུལ་འཛིན་ ལ་ལ་␣འི་ འདུལ་བ་␣འི་ དོན་"
-msgstr ""
+msgstr "Vajra: The meaning of the vinaya by some vinaya holders."
 
 msgctxt "3595005db00b497f9280a2f9660e7c22"
 msgid ""
