@@ -6284,6 +6284,8 @@ msgid ""
 "སངས་རྒྱས་ ཀྱིས་ གསུངས་པ་␣འི་ ཆོས་ རྣམས་ བསོད་ནམས་ ཡེ་ཤེས་ ཀྱི་ ཚོགས་ གཉིས་ "
 "སུ་ འདུ་བ་␣ར་ བྱ་␣འོ ། །"
 msgstr ""
+"All the dharmas taught by the Buddha are gathered in the two accumulations "
+"of merit and wisdom."
 
 msgctxt "8037b198bca54267ad4ccdce57efa5a1"
 msgid "ཞེས་ གསུངས་པ་␣ས་"
