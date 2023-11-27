@@ -6267,7 +6267,7 @@ msgid ""
 " གསུངས་ ཏེ །"
 msgstr ""
 "In this [system], [Buddha] taught that each of the three vows, such as the "
-"pratimoksha vows, contains all dharmas."
+"pratimoksha vows, gathers all dharmas."
 
 msgctxt "f5f2e4636ecf48e1bd072213bdabe5df"
 msgid "དེ་␣འི་ རྒྱུ་མཚན་ སྤང་བྱ་␣འི་ གྲངས་ སུ་ གསུངས་པ་ མཐུན་ ཡང་"
