@@ -6243,7 +6243,7 @@ msgstr "Vast generosity and so on."
 
 msgctxt "be47a0d65b9442a0a14200064e218532"
 msgid "ཅེས་ དང་ མཛད་པ་ བཅུ་གཉིས་ དེ་ལས་"
-msgstr ""
+msgstr "And the twelve deeds. These are "
 
 msgctxt "456db421f14d4daeacba4aad113f8eba"
 msgid "བསྟན་པ་␣འི་ ཕྱིར་ དང་ བསྟན་བཅོས་ ལ་␣ས་ ཀྱང་ བཀྲལ་བ་␣འི་ ཕྱིར་ རོ །"
