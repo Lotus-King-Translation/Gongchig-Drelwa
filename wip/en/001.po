@@ -6304,6 +6304,8 @@ msgid ""
 "དགག་སྒྲུབ་ ཏུ་ བཅས་པ་␣འི་ ཚུལ་ཁྲིམས་ ནི་ ཉན་ཐོས་ ཀྱི་ ཉམས་ སུ་ བླང་ བྱ་ "
 "ཡིན་པ་"
 msgstr ""
+"The disciplines associated with negation and assertion are the practice of "
+"the shravakas."
 
 msgctxt "0dae65e467b64d6ab230e05bb4a4eb2a"
 msgid "བོད་ ཀྱི་ འདུལ་འཛིན་ དག་ གིས་ ཟེར་ རོ །"
