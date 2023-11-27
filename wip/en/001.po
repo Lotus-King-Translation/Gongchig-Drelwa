@@ -6258,6 +6258,8 @@ msgid ""
 "སྤང་བྱ་ རེ་རེ་␣འི་ གཉེན་པོ་␣ར་ ཆོས་ཕུང་ དེ་ཉིད་ དུ་ གསུངས་པ་␣ས་ ཆོས་ཕུང་ "
 "ཐ་དད་ ཡིན་ ཟེར །"
 msgstr ""
+"The dharma heaps are distinct because the dharma heaps are taught as the "
+"antidotes to each of the objects of abandonment."
 
 msgctxt "344a2df75ec145cf93541faf21614be3"
 msgid ""
