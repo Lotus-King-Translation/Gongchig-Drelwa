@@ -6251,7 +6251,7 @@ msgstr "And elucidated in the treatises as well."
 
 msgctxt "e8eab0f4ceb8464eab227c62bfa9891e"
 msgid "ལྷན་␣༽༽  གཞན་དག་ ན་རེ །"
-msgstr ""
+msgstr "Addendum: Others said,"
 
 msgctxt "fa469341576749978d2d7c375d7fb394"
 msgid ""
