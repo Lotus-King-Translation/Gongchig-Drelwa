@@ -6272,6 +6272,8 @@ msgstr ""
 msgctxt "f5f2e4636ecf48e1bd072213bdabe5df"
 msgid "དེ་␣འི་ རྒྱུ་མཚན་ སྤང་བྱ་␣འི་ གྲངས་ སུ་ གསུངས་པ་ མཐུན་ ཡང་"
 msgstr ""
+"The reason for this accords with the statement of the number of objects to "
+"be abandoned."
 
 msgctxt "7e21be4e501147e394b1039563b58459"
 msgid "འདུ་ ཚུལ་ གསང་ བསམ་ ལ་␣ས །"
