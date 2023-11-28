@@ -6360,7 +6360,7 @@ msgstr ""
 
 msgctxt "bcbeab9032cb4bcdbd8b8ff2c7e2cd09"
 msgid "ལོ་པཎ་ རྣམས་ ཀྱིས་ འདུལ་བ་␣འི་ ཐད་ དུ །"
-msgstr ""
+msgstr "In regard to the vinaya, the translators and scholars,"
 
 msgctxt "63a649410e5b4682988d8b78acf07885"
 msgid "ཐམས་ཅད་ མཁྱེན་པ་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
