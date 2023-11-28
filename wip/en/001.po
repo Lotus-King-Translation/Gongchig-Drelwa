@@ -6364,7 +6364,7 @@ msgstr "In regard to the vinaya, the translators and scholars,"
 
 msgctxt "63a649410e5b4682988d8b78acf07885"
 msgid "ཐམས་ཅད་ མཁྱེན་པ་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
-msgstr ""
+msgstr "Homage to the Omniscient One."
 
 msgctxt "0e8da5300f0a4369af5f12d5f394acfc"
 msgid "ཞེས་པ་ དང༌ །"
