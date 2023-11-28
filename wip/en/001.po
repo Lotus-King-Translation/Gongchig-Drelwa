@@ -6343,6 +6343,8 @@ msgctxt "c4b6187f2a21442dba131afbd6bd9999"
 msgid ""
 "དེ་ལས་ ཀྱང་ ལ་␣ས་ དང་ལ་␣ས་ ཀྱི་ རྣམ་སྨིན་ མཁྱེན་པ་␣འི་ སྟོབས་ ལ་ འཇུག  །"
 msgstr ""
+"Further, it engages in the power to know karma and the complete ripening of "
+"karma."
 
 msgctxt "22cfdadc8fe741e0ba234dbb4ca5676f"
 msgid "ཡེ་ཤེས་ དེ་␣འི་ གཟིགས་པ་␣ས་ བསླབ་པ་ བཅས་ ཏེ་ ཉམས་ སུ་ བླངས་པ་␣ས་"
