@@ -6320,7 +6320,7 @@ msgstr ""
 
 msgctxt "3c6ff4ba78d642b8a1647b6791192366"
 msgid "དེ་␣འང་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ སྟོབས་ བཅུ་ ལ་␣ས་"
-msgstr ""
+msgstr "Also from the ten strengths of omniscient wisdom,"
 
 msgctxt "570bd9899446407fa5842f4dc885ff3c"
 msgid ""
