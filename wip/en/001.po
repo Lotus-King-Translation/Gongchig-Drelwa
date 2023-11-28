@@ -6368,7 +6368,7 @@ msgstr "Homage to the Omniscient One."
 
 msgctxt "0e8da5300f0a4369af5f12d5f394acfc"
 msgid "ཞེས་པ་ དང༌ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "9d14739bd50d41b4aeb517c81a234247"
 msgid ""
