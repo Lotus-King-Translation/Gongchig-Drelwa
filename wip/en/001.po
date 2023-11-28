@@ -6349,6 +6349,7 @@ msgstr ""
 msgctxt "22cfdadc8fe741e0ba234dbb4ca5676f"
 msgid "ཡེ་ཤེས་ དེ་␣འི་ གཟིགས་པ་␣ས་ བསླབ་པ་ བཅས་ ཏེ་ ཉམས་ སུ་ བླངས་པ་␣ས་"
 msgstr ""
+"Because of observing that wisdom, the associated trainings are practiced. "
 
 msgctxt "ef7b47c854b14d30bbb61a4b39feb09f"
 msgid ""
