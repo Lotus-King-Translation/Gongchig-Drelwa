@@ -6356,6 +6356,7 @@ msgid ""
 "སྟོབས་ བཅུ་ མངོན་དུ་ བྱེད་པ་␣འི་ ཚུལ་ འདི་␣ས་ སངས་རྒྱས་ ཁོ་ན་␣འི་ སྤྱོད་ཡུལ་"
 " ཏེ །"
 msgstr ""
+"This way of manifesting the ten strengths is the scope of buddhas alone."
 
 msgctxt "bcbeab9032cb4bcdbd8b8ff2c7e2cd09"
 msgid "ལོ་པཎ་ རྣམས་ ཀྱིས་ འདུལ་བ་␣འི་ ཐད་ དུ །"
