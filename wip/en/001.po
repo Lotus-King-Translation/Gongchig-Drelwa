@@ -6461,7 +6461,7 @@ msgstr "According to the Basis of Ordination:"
 
 msgctxt "03d767c96c5c4230b960951e9ea6bcc0"
 msgid "ཁྱིམ་བདག་ ཞིག་ གི་ བུས་ མ་ བསད་པ་␣ར་ འགྱོད་ ནས་ རབ་ཏུ་ བྱུང །"
-msgstr ""
+msgstr "A householder's son regretted murdering his mother and became a monk."
 
 msgctxt "4ad6e99e66a84541b340c7e0feac96b1"
 msgid ""
