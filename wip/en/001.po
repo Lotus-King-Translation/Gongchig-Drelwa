@@ -6494,7 +6494,7 @@ msgstr "Because [he] had the appearance of fire like a steam house."
 
 msgctxt "51b5c28d18ad4cff9237c1f775d9382d"
 msgid "ལྷ་␣ར་ སྐྱེས་ ནས་ སངས་རྒྱས་ ལ་␣ས་ ཆོས་ ཐོས་པ་␣ས་"
-msgstr ""
+msgstr "[He] was born as a god and listened to the teachings from the Buddha."
 
 msgctxt "3e9c5c4962f64c978358b04a74a178fe"
 msgid "འབྲས་བུ་ ཐོབ་པ་ རབ་ཏུ་ བྱུང་བ་␣འི་ ཕན་ཡོན་ ཡིན་ ཏེ །"
