@@ -6391,7 +6391,7 @@ msgstr "The self-arisen one with respect,"
 
 msgctxt "97219bfcf5bd4a66a5d02d40013f8e83"
 msgid "ནན་ཏན་ དགེ་སློང་ ཚོགས་ མདུན་ བསྟོད །"
-msgstr ""
+msgstr "Praise assiduously in front of the assembled monks."
 
 msgctxt "47f6b27c7aad44acb26fd54d6054715f"
 msgid "ཅེས་ སོ ། །"
