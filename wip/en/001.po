@@ -6433,6 +6433,8 @@ msgstr "The third is that a sick person obtains good qualities."
 msgctxt "9020a8b4f4cf4a52901798c4a3e5e93a"
 msgid "གཞན་དོན་ དུ་ མི་ མཛེས་པ་ མཛེས་པ་␣འི་  ༤  དང༌ །"
 msgstr ""
+"The fourth is being beautiful for the sake of others but that is not "
+"beautiful. "
 
 msgctxt "dcf0cb8e6aed4265acb5b4517b27ae0a"
 msgid ""
