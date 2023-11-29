@@ -6472,7 +6472,7 @@ msgstr ""
 
 msgctxt "e39e2f51bb02453da77829045984d4c8"
 msgid "བཀྲོད་ ཅིག་ གསུངས་པ་␣ས་ བཀྲད །"
-msgstr ""
+msgstr "After being asked to walk, walked away."
 
 msgctxt "cac783e72e57450880ad07b0bfcd0ba7"
 msgid "རྒྱ་མཚོ་␣འི་ འགྲམ་ དུ་ ཕྱིན །"
