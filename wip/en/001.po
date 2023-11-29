@@ -6399,7 +6399,7 @@ msgstr "As said. "
 
 msgctxt "13f8e685d18f4573ac397383a491f868"
 msgid "ཚུལ་ཁྲིམས་ ཐམས་ཅད་ མཁྱེན་པ་ འདི་ ཡིན་པ་ དེ་ལྟར་ ན །"
-msgstr ""
+msgstr "All the moral disciplines are this knowledge. If it is like that,"
 
 msgctxt "81fba3d96cce4bcc8357614defad558c"
 msgid "དེ་ བསྲུང་བ་␣འི་ བཙུན་པ་␣ར་ ཡེ་ཤེས་ ཡོད་པ་␣ར་ འགྱུར་ རོ་ ཞེ་ན །"
