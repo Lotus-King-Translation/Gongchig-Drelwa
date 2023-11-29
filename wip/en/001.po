@@ -6498,7 +6498,7 @@ msgstr "[He] was born as a god and listened to the teachings from the Buddha."
 
 msgctxt "3e9c5c4962f64c978358b04a74a178fe"
 msgid "འབྲས་བུ་ ཐོབ་པ་ རབ་ཏུ་ བྱུང་བ་␣འི་ ཕན་ཡོན་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "The attainment of the result is the benefit of becoming a monk."
 
 msgctxt "df12ef5ca1d14b80a8e1928039390244"
 msgid "རྣམ་སྨིན་ སྐལ་ ཆེན་ དུ་ གསུངས་ ན་"
