@@ -6490,7 +6490,7 @@ msgstr "He died, and soon after his birth in hell,"
 
 msgctxt "c329c5bf7b9a4f1f92f7318a0b31dbee"
 msgid "མེ་ ལ་ བསྲོ་ཁང་ གི་ སྣང་བ་ བྱུང་བ་␣ར་ བརྟེན་"
-msgstr ""
+msgstr "Because he had the appearance of fire like a steam house."
 
 msgctxt "51b5c28d18ad4cff9237c1f775d9382d"
 msgid "ལྷ་␣ར་ སྐྱེས་ ནས་ སངས་རྒྱས་ ལ་␣ས་ ཆོས་ ཐོས་པ་␣ས་"
