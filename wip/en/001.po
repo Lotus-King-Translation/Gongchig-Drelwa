@@ -6395,7 +6395,7 @@ msgstr "Praise assiduously in front of the assembled monks."
 
 msgctxt "47f6b27c7aad44acb26fd54d6054715f"
 msgid "ཅེས་ སོ ། །"
-msgstr ""
+msgstr "As said. "
 
 msgctxt "13f8e685d18f4573ac397383a491f868"
 msgid "ཚུལ་ཁྲིམས་ ཐམས་ཅད་ མཁྱེན་པ་ འདི་ ཡིན་པ་ དེ་ལྟར་ ན །"
