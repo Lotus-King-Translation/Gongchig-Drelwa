@@ -6404,6 +6404,7 @@ msgstr "All the moral disciplines are this knowledge. If it is like that,"
 msgctxt "81fba3d96cce4bcc8357614defad558c"
 msgid "དེ་ བསྲུང་བ་␣འི་ བཙུན་པ་␣ར་ ཡེ་ཤེས་ ཡོད་པ་␣ར་ འགྱུར་ རོ་ ཞེ་ན །"
 msgstr ""
+"If one says that the reverend who protects it possesses primordial wisdom."
 
 msgctxt "63b159c119e04d6da88437ada575bf65"
 msgid "མངོན་གྱུར་ དུ་ མེད་ ཀྱང་ རང་བཞིན་ དུ་ཡོད་ དེ །"
