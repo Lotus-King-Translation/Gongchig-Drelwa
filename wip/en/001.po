@@ -6440,7 +6440,7 @@ msgctxt "dcf0cb8e6aed4265acb5b4517b27ae0a"
 msgid ""
 "བར་ཆད་ དེ་ བཞི་ ལ་␣ས་ སྐྱེ་བ་␣འི་ བར་ཆད་ གང་རུང་ གཅིག་ བྱུང་ ན་ སྡོམ་པ་ མི་ "
 "སྐྱེ་ ཟེར །"
-msgstr ""
+msgstr "If any of these four obstacles happens, the vows will not arise."
 
 msgctxt "55dbde217566435a9fdc76ccff82ad1a"
 msgid "འདི་␣ར་ ནི་ བར་ཆད་ ལྡན་ ལ་ སྡོམ་པ་ སྐྱེ་བ་␣ར་ ངེས་ ཏེ །"
