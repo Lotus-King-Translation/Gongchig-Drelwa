@@ -6387,7 +6387,7 @@ msgstr "This is your teacher."
 
 msgctxt "f093ff271cbb4df5b20e4c12744279e5"
 msgid "རང་བྱུང་ ཉིད་ ཀྱིས་ གུས་ བཅས་པ་␣ར ། །"
-msgstr ""
+msgstr "The self-arisen one with respect,"
 
 msgctxt "97219bfcf5bd4a66a5d02d40013f8e83"
 msgid "ནན་ཏན་ དགེ་སློང་ ཚོགས་ མདུན་ བསྟོད །"
