@@ -6428,7 +6428,7 @@ msgstr "The second is staying in those that are not permitted by parents."
 
 msgctxt "8543f3fb9c924fa5ad08373c86adde2c"
 msgid "ནད་པ་ ཡོན་ཏན་ ཐོབ་པ་␣འི་  ༣  དང༌ །"
-msgstr ""
+msgstr "The third is that a sick person obtains good qualities."
 
 msgctxt "9020a8b4f4cf4a52901798c4a3e5e93a"
 msgid "གཞན་དོན་ དུ་ མི་ མཛེས་པ་ མཛེས་པ་␣འི་  ༤  དང༌ །"
