@@ -6374,6 +6374,8 @@ msgctxt "9d14739bd50d41b4aeb517c81a234247"
 msgid ""
 "དེ་ལྟར་ ཉམས་ སུ་ བླངས་ ན་ སྟོན་པ་ ཉིད་ ཀྱི་ བྱ་བ་ བྱེད་པ་␣ར་ གསུངས་ ཏེ །"
 msgstr ""
+"It is stated that if [you] practice in this manner, [you] will perform the "
+"Buddha's actions."
 
 msgctxt "167aeef522684294a7a61e4cca824028"
 msgid "ང་ ནི་ མྱ་ངན་ འདས་ གྱུར་ ན ། །"
