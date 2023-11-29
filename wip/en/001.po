@@ -6413,7 +6413,7 @@ msgstr "Although it is not manifested, it exists by intrinsic nature."
 msgctxt "3fd3efc388094473aa02cfce14c1427f"
 msgid "དཔེར་ན་ མཚམས་མེད་ བྱེད་པ་␣འི་ མི་ལ་ དམྱལ་བ་པ་ བྱས་པ་ དང་ འདྲ་␣འོ །"
 msgstr ""
-"For example, it would be like a person who has committed a crime of "
+"For example, it would be like a person who has committed the crimes of "
 "immediate retribution and becomes a hell-being."
 
 msgctxt "ea73166bf6bb4e2fb1f3929c1ec3b8f3"
