@@ -6452,6 +6452,8 @@ msgctxt "654f191c265a480aa78bb262bda9b348"
 msgid ""
 "དེ་དག་ དགེ་ སྦྱོད་ གི་ འབྲས་བུ་ སྐྱེ་བ་␣འི་ བར་ཆད་ ལ་␣ས་ སྡོམ་པ་ མིན་ ཏེ །"
 msgstr ""
+"They are not to prevent the obstacles to the arising of the result of "
+"virtuous activity."
 
 msgctxt "5a6313d44208413a97a1590904ca8a41"
 msgid "རབ་ཏུ་ བྱུང་བ་␣འི་ གཞི་ ལ་␣ས །"
