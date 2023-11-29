@@ -6445,6 +6445,8 @@ msgstr "If any of these four obstacles happens, the vows will not arise."
 msgctxt "55dbde217566435a9fdc76ccff82ad1a"
 msgid "འདི་␣ར་ ནི་ བར་ཆད་ ལྡན་ ལ་ སྡོམ་པ་ སྐྱེ་བ་␣ར་ ངེས་ ཏེ །"
 msgstr ""
+"In this [system], even having these obstacles, it is certain that the vows "
+"will arise."
 
 msgctxt "654f191c265a480aa78bb262bda9b348"
 msgid ""
