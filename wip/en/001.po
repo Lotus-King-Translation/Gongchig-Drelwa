@@ -6511,6 +6511,8 @@ msgstr "Soon after his birth, [he] was transmigrated to the god [realm]. "
 msgctxt "5ca85453144e426a872760e9a53e4d0f"
 msgid "འོ་ན་ མ་སྐྱེས་དགྲ་ སོགས་ མཚམས་མེད་ བྱས་པ་"
 msgstr ""
+"Well then, Ajatashatru and so on, who committed the crimes of immediate "
+"retribution,"
 
 msgctxt "4d811bb8698e405894088c6ad0d8cfb0"
 msgid "བདེན་པ་ མཐོང་བ་␣ར་ གསུངས་པ་␣ས་ འགལ་ ལོ་ སྙམ་ ན །"
