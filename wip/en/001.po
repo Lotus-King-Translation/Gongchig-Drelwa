@@ -6457,7 +6457,7 @@ msgstr ""
 
 msgctxt "5a6313d44208413a97a1590904ca8a41"
 msgid "རབ་ཏུ་ བྱུང་བ་␣འི་ གཞི་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Basis of Ordination:"
 
 msgctxt "03d767c96c5c4230b960951e9ea6bcc0"
 msgid "ཁྱིམ་བདག་ ཞིག་ གི་ བུས་ མ་ བསད་པ་␣ར་ འགྱོད་ ནས་ རབ་ཏུ་ བྱུང །"
