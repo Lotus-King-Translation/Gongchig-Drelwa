@@ -6467,6 +6467,8 @@ msgctxt "4ad6e99e66a84541b340c7e0feac96b1"
 msgid ""
 "སྡེ་སྣོད་ གསུམ་ ཤེས་ མཚམས་མེད་ བྱེད་པ་ མི་ སྐྱེ་བ་␣འི་ ཆོས་ཅན་ ཡིན་པ་␣ས་"
 msgstr ""
+"Those who know the three pitakas and have committed the crimes with "
+"immediate retribution are the subject matter of not being arisen. "
 
 msgctxt "e39e2f51bb02453da77829045984d4c8"
 msgid "བཀྲོད་ ཅིག་ གསུངས་པ་␣ས་ བཀྲད །"
