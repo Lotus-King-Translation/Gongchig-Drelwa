@@ -6502,7 +6502,7 @@ msgstr "The attainment of the result is the benefit of becoming a monk."
 
 msgctxt "df12ef5ca1d14b80a8e1928039390244"
 msgid "རྣམ་སྨིན་ སྐལ་ ཆེན་ དུ་ གསུངས་ ན་"
-msgstr ""
+msgstr "When the complete ripening [of karma] is said to be a great aeon. "
 
 msgctxt "abe1054268a847d284f2e8083c83c39d"
 msgid "འདི་ སྐྱེས་མ་ ཐག་ ལྷ་␣ར་ འཕོས་པ་␣འི་ ཕྱིར་ རོ །"
