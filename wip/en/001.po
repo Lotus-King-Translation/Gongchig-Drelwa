@@ -6379,7 +6379,7 @@ msgstr ""
 
 msgctxt "167aeef522684294a7a61e4cca824028"
 msgid "ང་ ནི་ མྱ་ངན་ འདས་ གྱུར་ ན ། །"
-msgstr ""
+msgstr "After I passed into nirvana."
 
 msgctxt "4edbc9b76fa74008b467c349d178d50b"
 msgid "འདི་ ནི་ ཁྱོད་ ཀྱི་ སྟོན་པ་ ཞེས ། །"
