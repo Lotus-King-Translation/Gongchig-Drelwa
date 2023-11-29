@@ -6506,7 +6506,7 @@ msgstr "When the complete ripening [of karma] is said to be a great aeon. "
 
 msgctxt "abe1054268a847d284f2e8083c83c39d"
 msgid "འདི་ སྐྱེས་མ་ ཐག་ ལྷ་␣ར་ འཕོས་པ་␣འི་ ཕྱིར་ རོ །"
-msgstr ""
+msgstr "Soon after his birth, [he] was transmigrated to the god [realm]. "
 
 msgctxt "5ca85453144e426a872760e9a53e4d0f"
 msgid "འོ་ན་ མ་སྐྱེས་དགྲ་ སོགས་ མཚམས་མེད་ བྱས་པ་"
