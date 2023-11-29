@@ -6424,7 +6424,7 @@ msgstr ""
 
 msgctxt "90ca7eb7e0f74ba0beef22a141fd7e17"
 msgid "ཕ་མ་␣ས་ མ་ གནང་བ་ སོགས་ གནས་པ་␣འི་ དང་  ༢"
-msgstr ""
+msgstr "The second is staying in those that are not permitted by parents."
 
 msgctxt "8543f3fb9c924fa5ad08373c86adde2c"
 msgid "ནད་པ་ ཡོན་ཏན་ ཐོབ་པ་␣འི་  ༣  དང༌ །"
