@@ -6486,7 +6486,7 @@ msgstr ""
 
 msgctxt "14b3fabcbd454a26a4eb7eb158086748"
 msgid "ཚེ་ འཕོས་ ནས་ དམྱལ་བ་␣ར་ སྐྱེས་མ་ ཐག་"
-msgstr ""
+msgstr "He died, and soon after his birth in hell,"
 
 msgctxt "c329c5bf7b9a4f1f92f7318a0b31dbee"
 msgid "མེ་ ལ་ བསྲོ་ཁང་ གི་ སྣང་བ་ བྱུང་བ་␣ར་ བརྟེན་"
