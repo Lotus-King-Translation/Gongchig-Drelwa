@@ -6590,7 +6590,7 @@ msgstr ""
 
 msgctxt "3a06af83c9e14942962b243bb2f24679"
 msgid "གཟུགས་ཕུང་ བཅུ་གཅིག་ ལ་␣ས་ རིག་བྱེད་ མིན་པ་ སྡོམ་པ །"
-msgstr ""
+msgstr "From the eleven form aggregates, the imperceptible is the vow."
 
 msgctxt "46493248d91149c2be3066643695ca41"
 msgid "སྡོམ་ མ་␣འི་ བར་མ་␣འི་ གཟུགས་ གསུམ་ ལ་␣ས་ སྡོམ་པ་␣འི་ གཟུགས་ ཏེ །"
