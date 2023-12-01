@@ -6517,6 +6517,7 @@ msgstr ""
 msgctxt "4d811bb8698e405894088c6ad0d8cfb0"
 msgid "བདེན་པ་ མཐོང་བ་␣ར་ གསུངས་པ་␣ས་ འགལ་ ལོ་ སྙམ་ ན །"
 msgstr ""
+"If one wonders that it contradicts the statement of seeing of the truth."
 
 msgctxt "8aa39f10fb944c29b1868f8b7976094d"
 msgid "དེ་དག་ སྔོན་ གྱི་ རྒྱུ་␣འི་ སྟོབས་ ཀྱིས་ རྐྱེན་ མཚམས་མེད་པ་␣ས་"
