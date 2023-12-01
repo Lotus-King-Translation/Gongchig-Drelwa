@@ -6549,6 +6549,8 @@ msgid ""
 "དེ་ ལྷ་␣ར་ སྐྱེས་ ཤིང་ སངས་རྒྱས་ དང་ མཇལ༌་␣ཏེ༌་␣འབྲས་བུ་ ཐོབ་པ་␣ར་ "
 "གསུངས་པ་␣འི་ ཕྱིར་ རོ །"
 msgstr ""
+"It is said that [he] was reborn as a god, met the Buddha, and attained the "
+"fruit."
 
 msgctxt "93e20d73b08f4cee88ffc3bffbd9180d"
 msgid ""
