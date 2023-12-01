@@ -6585,6 +6585,8 @@ msgid ""
 "འདི་␣ར་ ནི་ ངོ་བོ་ རྣམ་པ་␣ར་ རིག་བྱེད་ མིན་པ་␣འི་ གཟུགས་ དེ་དག་ ལ་␣ས་ བྱེད་ "
 "སྨྲ་␣འི་ དེ་ བཞེད་ དེ་ །"
 msgstr ""
+"In this [system], Vaibhashika accepts this as the essence from the non-"
+"perceptible forms because"
 
 msgctxt "3a06af83c9e14942962b243bb2f24679"
 msgid "གཟུགས་ཕུང་ བཅུ་གཅིག་ ལ་␣ས་ རིག་བྱེད་ མིན་པ་ སྡོམ་པ །"
