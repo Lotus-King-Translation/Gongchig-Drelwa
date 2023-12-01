@@ -6561,7 +6561,7 @@ msgstr ""
 
 msgctxt "39c88eb4cd54475284fc6d38f03f335d"
 msgid "སྡོམ་པ་ མ་ སྐྱེས་པ་ ནི་ མིན་ ནོ་"
-msgstr "However, this does not mean that the vows have not been born. "
+msgstr "However, this does not mean that the vows have not arisen. "
 
 msgctxt "ab9c859131c6478c942e1823bb1000c2"
 msgid "དེས་ན་ བར་ཆད་ ལྡན་ ན་␣འང་ སྡོམ་པ་ སྐྱེ་བ་␣ར་ སྒྲུབ་བོ །"
