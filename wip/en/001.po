@@ -6577,6 +6577,8 @@ msgid ""
 "སྡོམ་པ་␣འི་ ངོ་བོ་ གཞན་ གནོད་ གཞི་ བཅས་ ལོག་པ་ སོགས་ ལེགས་པ་␣ར་ འདོད་པ་ མང་ "
 "མོད །"
 msgstr ""
+"Many accept that the essence of the vows to others is wrongly associated "
+"with a harmful basis as excellence."
 
 msgctxt "c1e95a8ea0e44ee4a53ae2c5dcb87a98"
 msgid ""
