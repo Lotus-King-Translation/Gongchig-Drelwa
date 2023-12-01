@@ -6566,6 +6566,7 @@ msgstr "However, this does not mean that the vows have not arisen. "
 msgctxt "ab9c859131c6478c942e1823bb1000c2"
 msgid "དེས་ན་ བར་ཆད་ ལྡན་ ན་␣འང་ སྡོམ་པ་ སྐྱེ་བ་␣ར་ སྒྲུབ་བོ །"
 msgstr ""
+"Thus, it is established that the vows can arise even if there are obstacles."
 
 msgctxt "721b100884dd424d91179bfa404d7b32"
 msgid "རྡོ་␣༽༽  གཞན་ གྱིས་ བཞེད་པ་ ནི །"
