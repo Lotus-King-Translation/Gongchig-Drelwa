@@ -6542,7 +6542,7 @@ msgstr "Although the inhabitants of Kurava are not taken by conditions."
 
 msgctxt "60318c97ec374d7d84331611b21584ff"
 msgid "རང་བཞིན་ གཤིས་ ཀྱིས་ ནི་ ཡོད་"
-msgstr ""
+msgstr "But there is by intrinsic nature."
 
 msgctxt "d50ee6a4d7c346edb40fca456e8c9d81"
 msgid ""
