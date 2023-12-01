@@ -6570,7 +6570,7 @@ msgstr ""
 
 msgctxt "721b100884dd424d91179bfa404d7b32"
 msgid "རྡོ་␣༽༽  གཞན་ གྱིས་ བཞེད་པ་ ནི །"
-msgstr ""
+msgstr "Vajra: Others accept that,"
 
 msgctxt "0c4d0e1b098a49b5b6ebcd2b62a55b6c"
 msgid ""
