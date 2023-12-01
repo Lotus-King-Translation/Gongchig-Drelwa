@@ -6538,7 +6538,7 @@ msgstr ""
 
 msgctxt "b5df2b0505174753be09262c9ef6a972"
 msgid "སྒྲ་ མི་ སྙན་པ་␣འང་ རྐྱེན་ གྱིས་ བླངས་པ་ མེད་ ཀྱང་"
-msgstr ""
+msgstr "Although the inhabitants of Kurava are not taken by conditions."
 
 msgctxt "60318c97ec374d7d84331611b21584ff"
 msgid "རང་བཞིན་ གཤིས་ ཀྱིས་ ནི་ ཡོད་"
