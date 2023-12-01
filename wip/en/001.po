@@ -6556,6 +6556,8 @@ msgctxt "93e20d73b08f4cee88ffc3bffbd9180d"
 msgid ""
 "སྤྲུལ་པ་␣འང་ ཀླུ་ གཞོན་ནུ་ ལྟ་བུ་ ཚེ་ འདི་␣ར་ འབྲས་བུ་ མི་ ཐོབ་པ་ ལ་␣ས་"
 msgstr ""
+"Even in terms of emanations, such as the youthful naga, one does not attain "
+"the result in this life."
 
 msgctxt "39c88eb4cd54475284fc6d38f03f335d"
 msgid "སྡོམ་པ་ མ་ སྐྱེས་པ་ ནི་ མིན་ ནོ་"
