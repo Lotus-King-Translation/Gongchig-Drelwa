@@ -6522,6 +6522,7 @@ msgstr ""
 msgctxt "8aa39f10fb944c29b1868f8b7976094d"
 msgid "དེ་དག་ སྔོན་ གྱི་ རྒྱུ་␣འི་ སྟོབས་ ཀྱིས་ རྐྱེན་ མཚམས་མེད་པ་␣ས་"
 msgstr ""
+"By the power of previous causes, there are boundless conditions for these."
 
 msgctxt "7ed3fb2d27484f37b9f636fe58ce64b0"
 msgid "བར་ དུ་ གཅོད་ མ་ནུ་␣ས་པ་ སྟེ་"
