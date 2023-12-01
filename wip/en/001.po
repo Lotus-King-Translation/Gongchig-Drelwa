@@ -6526,7 +6526,7 @@ msgstr ""
 
 msgctxt "7ed3fb2d27484f37b9f636fe58ce64b0"
 msgid "བར་ དུ་ གཅོད་ མ་ནུ་␣ས་པ་ སྟེ་"
-msgstr ""
+msgstr "Nothing is capable of interrupting."
 
 msgctxt "f4865f3726e5419bbddc0f5f85561d3b"
 msgid ""
