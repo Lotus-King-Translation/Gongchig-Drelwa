@@ -6533,6 +6533,8 @@ msgid ""
 "མ་སྐྱེས་དགྲ་␣ས་ སངས་རྒྱས་ བྱེ་བ་ ཕྲག་ བདུན་ཅུ་ རྩ་ གཉིས་ ལ་ མཆོད་པ་␣ར་ "
 "གསུངས་པ་␣འི་ རྒྱུ་ ལྟ་བུ་␣འོ ། །"
 msgstr ""
+"It is said that Ajatashatru's offerings to seven hundred and twenty million "
+"Buddhas are examples of such causes."
 
 msgctxt "b5df2b0505174753be09262c9ef6a972"
 msgid "སྒྲ་ མི་ སྙན་པ་␣འང་ རྐྱེན་ གྱིས་ བླངས་པ་ མེད་ ཀྱང་"
