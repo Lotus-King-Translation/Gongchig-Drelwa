@@ -6609,6 +6609,8 @@ msgid ""
 "སྐད་ཅིག་ གཉིས་པ་ རིག་ མིན་ གྱི་ གཟུགས་ཅན་ དུ་ ཁམས་ བཅོ་བརྒྱད་ ལ་␣ས་ ཆོས་ཁམས "
 "།"
 msgstr ""
+"In the second moment of the imperceptible form, the element of dharmas from "
+"the eighteen elements,"
 
 msgctxt "e8fd6dceda7a4006a76537ef238be839"
 msgid ""
