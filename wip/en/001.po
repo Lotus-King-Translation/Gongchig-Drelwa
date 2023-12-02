@@ -19406,7 +19406,7 @@ msgstr ""
 
 msgctxt "4b52ce316c044ffb9fd431d4ecc941e1"
 msgid "ཞེས་པ་␣ས །"
-msgstr ""
+msgstr "Thus,"
 
 msgctxt "03db7934788343438d5736196bf6df30"
 msgid "དུས་གསུམ་ གྱི་ དེ་བཞིན་ གཤེགས་པ་ ཐམས་ཅད་ མ་ཚང་བ་ མེད་པ་"
