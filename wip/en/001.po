@@ -12800,7 +12800,7 @@ msgstr ""
 
 msgctxt "ce75ce2595cc4456a279eacbb557bf04"
 msgid "ཞེས་ སོ ། །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "30eec2fb0716448b80898db53dde3145"
 msgid "གཞན་ ཡང་ བརྟག་ གཉིས་ ལ་␣ས །"
