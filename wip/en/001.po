@@ -18119,7 +18119,7 @@ msgstr ""
 
 msgctxt "ea7a883097874eb5ae2b6ddf12218342"
 msgid "ཞེས་ སོ་␣༑ །"
-msgstr ""
+msgstr "As said"
 
 msgctxt "49a8c6aff1054c7aa58dc7bd8bcb12b3"
 msgid "སངས་རྒྱས་ ཐུགས་ ཀྱི་ འཇུག་པ་ ཆད་པ་␣ར་ འདོད་པ་ དེ་ ཆོས་ཅན །"
