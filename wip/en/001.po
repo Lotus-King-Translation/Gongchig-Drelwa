@@ -13458,7 +13458,7 @@ msgstr ""
 
 msgctxt "2c38c3ed1d0f4eefa7602badc0262b66"
 msgid "ཞེས་ དང༌ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "2fb9d0e2ba0f43c3a0b88b2e458cad6a"
 msgid "འཇམ་དཔལ་ རྩ་རྒྱུད་ ལ་␣ས ༑"
@@ -13510,7 +13510,7 @@ msgstr ""
 
 msgctxt "52372c644eef4bc2aa7d815004296385"
 msgid "ཞེས་ དང༌ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "9641c32f64924a6880cf5c122114f927"
 msgid "སྔགས་ ལ་ ཚུལ་ཁྲིམས་ མེད་ ཐབས་མེད་པ་ བཤད་ མ་ ཐག་པ་ ཉིད་ ཀྱི་ ཕྱིར་ དང་"
