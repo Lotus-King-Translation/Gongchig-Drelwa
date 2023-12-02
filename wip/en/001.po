@@ -13959,7 +13959,7 @@ msgstr ""
 
 msgctxt "c2d4844424784234afe26cc404e5e947"
 msgid "ཞེས་ དང༌ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "c941b404d3464c8b86b6ef09a619b791"
 msgid "མགོན་པོ་ འབྲི་གུང་པ་ ཆེན་པོ་␣ས །"
