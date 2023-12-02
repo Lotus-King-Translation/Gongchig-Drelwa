@@ -6616,6 +6616,7 @@ msgctxt "e8fd6dceda7a4006a76537ef238be839"
 msgid ""
 "སྐྱེ་མཆེད་ བཅུ་གཉིས་ ལ་␣ས་ ཆོས་ ཀྱི་ སྐྱེ་མཆེད་ རྣམ་པ་ བསྟན་ དུ་ མེད་ ཅིང་"
 msgstr ""
+"From the twelve sense fields, the sense field of phenomena is not shown."
 
 msgctxt "76a5405024e94e42867b482b0ef9571d"
 msgid ""
