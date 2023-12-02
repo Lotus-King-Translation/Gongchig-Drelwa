@@ -17790,7 +17790,7 @@ msgstr ""
 
 msgctxt "04d335643d894b3ba511aa48f1b82baf"
 msgid "ཞེས་ སྨྲ་ ཡང་ །"
-msgstr ""
+msgstr "Although it is said."
 
 msgctxt "22393ae7587e422699ec4744e0344159"
 msgid ""
