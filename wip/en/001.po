@@ -7932,7 +7932,7 @@ msgstr ""
 
 msgctxt "8a5218ab2b1c4ac9932fa03e52d9feda"
 msgid "ཞེས་ གསུངས་པ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "Thus, it is said."
 
 msgctxt "c43bdd205f524ab687ef977fc3b4b40b"
 msgid ""
