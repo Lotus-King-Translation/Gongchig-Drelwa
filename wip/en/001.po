@@ -17770,7 +17770,7 @@ msgstr ""
 
 msgctxt "6688e4a92e8645f18c929fc869eaa626"
 msgid "ཞེས་ དང །"
-msgstr ""
+msgstr "And."
 
 msgctxt "729b41a6ff504564968d8646c0ff2c0d"
 msgid "མདོ་སྡེ་ རྣམས་ ནས །"
