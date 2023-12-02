@@ -10030,7 +10030,7 @@ msgstr ""
 
 msgctxt "ac2a735324ba420c9ecace0fb5323ab6"
 msgid "ཞེས་ དང་ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "118d9f56b8454357b8ec7cb03cf85200"
 msgid "ཇི་སྲིད་ དགེ་བ་␣འི་ རྩ་བ་ དེ་ ནི་ མ་ རྫོགས་པ ། །"
