@@ -8089,7 +8089,7 @@ msgstr ""
 
 msgctxt "bc3f6c0d21bf454b9f42c4dd80ab38fb"
 msgid "ཞེས་ སོགས་ སོ །"
-msgstr ""
+msgstr "And so on."
 
 msgctxt "ae57d25922b0431ca79893ce921c577a"
 msgid "རྒྱུ་འབྲས་ ཀྱི་ ངོས་ ནས་ ཀྱང་ མི་ གཅིག་ སྟེ་"
