@@ -8183,7 +8183,7 @@ msgstr ""
 
 msgctxt "dbe40d2af3b54a118eb5fdf7a51bcf0a"
 msgid "ཞེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "338b6584b53441aea0312a36ba27fdca"
 msgid "གལ་ཏེ་ སོ་ཐར་ གྱི་ རྟེན་ མི་ དགོས་ ན་"
