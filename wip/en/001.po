@@ -11350,7 +11350,7 @@ msgstr ""
 
 msgctxt "ead6af63fe0e455ab0bbb617a1afee22"
 msgid "ཞེས་ སོགས་ སོ །"
-msgstr ""
+msgstr "And so on."
 
 msgctxt "d9108dd38fc74e90abe8073f8f703ea7"
 msgid ""
