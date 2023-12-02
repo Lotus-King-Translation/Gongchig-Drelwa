@@ -16222,7 +16222,7 @@ msgstr ""
 
 msgctxt "9e3cbcaaed96497690cf0b60843a183e"
 msgid "ཞེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "0946849c6eff46a68ffba2a39db3a8bd"
 msgid "འབྲས་བུ་ དུས་ སུ་ ཆོས་སྐུ་ ཡོན་ཏན་ མཛད་པ་ དང་ བཅས་པ་"
