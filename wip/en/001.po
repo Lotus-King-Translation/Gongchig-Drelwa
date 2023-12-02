@@ -6643,7 +6643,7 @@ msgstr "They are called the elements of the sense field of phenomena. "
 
 msgctxt "92e853b13e8448d4b41bbb13e4b981fc"
 msgid "ཞེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "74f22edde7f946d2ab82d56bf1e6f8c6"
 msgid "དེ་ ཁོ་ན་ཉིད་ བཞེད་པ་␣འི་ གནད་ ཀྱང་"
