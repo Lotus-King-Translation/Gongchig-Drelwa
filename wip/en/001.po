@@ -15553,7 +15553,7 @@ msgstr ""
 
 msgctxt "fea0b5e030734b97babe19d31616b7ec"
 msgid "ཞེས་ དང༌ །  ཏེ་ལོ་པ་␣ས །"
-msgstr ""
+msgstr "Thus, Tilopa said:"
 
 msgctxt "afb1b3f993904f3c93e530ed69bcbc44"
 msgid "བློ་ ཡི་ ཆོས་ ཀྱིས་ བློ་འདས་ དོན་ མི་ རྟོགས །"
