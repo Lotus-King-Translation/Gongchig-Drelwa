@@ -6896,7 +6896,7 @@ msgstr ""
 
 msgctxt "f310bc21fce34719a328facca0539eca"
 msgid "ཞེས་པ་ ལྔ་ དང །"
-msgstr ""
+msgstr "As the five and "
 
 msgctxt "442656969f9c4997a4a7a61c00b2b183"
 msgid "འདུལ་ ལུང༌་␣ལ ས །"
