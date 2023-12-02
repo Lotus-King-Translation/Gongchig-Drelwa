@@ -15529,7 +15529,7 @@ msgstr ""
 
 msgctxt "665189895fa04d98b306769c003dbde4"
 msgid "ཞེས་ དང༌ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "8c2ee9b1b93b4895abcbe3e1e0ce8794"
 msgid "ཆོས་རྒྱལ་ སྲོང་ བཙན་ གྱིས ། །"
