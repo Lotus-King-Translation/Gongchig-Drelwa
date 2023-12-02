@@ -8896,7 +8896,7 @@ msgstr ""
 
 msgctxt "069d28c51b0f4a9d8178310d217e49ea"
 msgid "ཞེས་ སོགས་ གསུངས་ སོ ། །"
-msgstr ""
+msgstr "And so on, said. "
 
 msgctxt "336572e2c86a44a299814615bbf12472"
 msgid "འོ་ན་ ཅི་ ཞེ་ན །"
