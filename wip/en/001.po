@@ -17459,7 +17459,7 @@ msgstr ""
 
 msgctxt "2d79622322ec47408bfb9c7555bd40db"
 msgid "ཞེས་ དང་ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "262575042f654d6b82084770c9a8f090"
 msgid "བཤད་རྒྱུད་ རྡོར་ ཕྲེང་ ལ་␣ས །"
@@ -17511,7 +17511,7 @@ msgstr ""
 
 msgctxt "3b1bfc3c1ac442f89abbff5d7cd6eccb"
 msgid "ཞེས་ དང་ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "20fbe50fb3ba4b8c973dab2e0fdff0ff"
 msgid "ཤེར་ སྙིང་ལས །"
