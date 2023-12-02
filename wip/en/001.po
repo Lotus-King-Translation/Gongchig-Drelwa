@@ -6631,7 +6631,7 @@ msgstr "According to the Treasury of Abhidharma:"
 
 msgctxt "4379f6fb7f554991bc42d336a9cda0d9"
 msgid "དེ་ གསུམ་ རྣམ་རིག་ བྱེད་ མིན་ དང༌ །"
-msgstr ""
+msgstr "These three are imperceptible and "
 
 msgctxt "7d6f7f7da2514c6fa42d21ca7818cfe2"
 msgid "འདུས་མ་བྱས་ དང་ བྱས་ རྣམས་ དང༌ །"
