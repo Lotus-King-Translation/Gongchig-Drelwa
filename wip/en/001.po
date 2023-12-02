@@ -10553,7 +10553,7 @@ msgstr ""
 
 msgctxt "a8498726897a416997a6dda62298cdc6"
 msgid "ཞེས་ དང༌ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "30b474c2482c4742915ecbddc63ed185"
 msgid "རྡོ་རྗེ་ རྒྱལ་མཚན་ བསྔོ་བ་␣ར །"
