@@ -14280,7 +14280,7 @@ msgstr ""
 
 msgctxt "718fd9182c754ab9b944c20843340f2a"
 msgid "ཞེས་ དང་ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "e815cad8408d4292879cec923e510f29"
 msgid "གསང་སྔགས་ སུ་ ངུ་འབོད་ ལ་"
