@@ -13131,7 +13131,7 @@ msgstr ""
 
 msgctxt "f9f9367b2454445fb39d3deca736e009"
 msgid "ཞེས་ དང༌ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "729aa9d5f3ed448a8023c2aac31ba85f"
 msgid "ཇོ་བོ་␣ས །"
