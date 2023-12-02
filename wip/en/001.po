@@ -6622,6 +6622,8 @@ msgctxt "76a5405024e94e42867b482b0ef9571d"
 msgid ""
 "ཐོག་པ་ མེད་པ་ སྤང་བྱ་ སྤོང་བ་ ལ་ ཆུ་␣འི་ ཆུ་ལོན་ ནམ་ ཤཱ་ རག་ ལྟར་ གནས་ ཏེ་"
 msgstr ""
+"It will remain like a water dam or a dried apricot in discarding the object "
+"of abandonment without obstacles."
 
 msgctxt "8970c63dc316408aa361f6e288a81851"
 msgid "མཛོད་ ལ་␣ས །"
