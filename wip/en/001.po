@@ -7279,7 +7279,7 @@ msgstr ""
 
 msgctxt "61553ad3b4114d40b0015a0d077cbd21"
 msgid "ཞེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "54c81c6ed9f1401d806b6879986162b7"
 msgid "རྡོ་␣༽༽་␣བཅས་པ་ དང་ རང་བཞིན་ ཐ་དད་པ་␣ས་ སྡིག་ལྟུང་ ཡང་ཐ་ དད་ ཟེར་ རོ །"
