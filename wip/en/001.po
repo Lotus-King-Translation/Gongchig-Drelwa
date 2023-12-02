@@ -6639,7 +6639,7 @@ msgstr "The non-composite and the produced"
 
 msgctxt "87b1063b6cdd4d8187911c96f86793ab"
 msgid "ཆོས་ ཀྱི་ སྐྱེ་མཆེད་ ཁམས་ ཞེས་ བྱ །"
-msgstr ""
+msgstr "They are called the elements of the sense field of phenomena. "
 
 msgctxt "92e853b13e8448d4b41bbb13e4b981fc"
 msgid "ཞེས་ སོ །"
