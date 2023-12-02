@@ -7774,7 +7774,7 @@ msgstr ""
 
 msgctxt "d3d4e6442f784e66bfa0b73210f6196b"
 msgid "ཞེས་ སོགས་ སོ །"
-msgstr ""
+msgstr "And so on."
 
 msgctxt "1309aa872d0b43dbba2c54f8ea3e76fe"
 msgid ""
