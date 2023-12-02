@@ -16286,7 +16286,7 @@ msgstr ""
 
 msgctxt "898786c2c6c04cbe99ad9367a2b20127"
 msgid "ཞེས་པ་ དང་ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "aa635b54b7c640088c85c901eb08178b"
 msgid "མཉམ་ གཞག་ ནམ་མཁའ་ ལྟ་བུ་ ཡིན་པ་␣ས་ སོ་␣༑ །"
