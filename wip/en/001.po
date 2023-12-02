@@ -11666,7 +11666,7 @@ msgstr ""
 
 msgctxt "0145e3227f24432bb67bb79018073f54"
 msgid "ཞེས་ དང་ ཀུན་སྤྱོད་ ལ་␣ས ། །"
-msgstr ""
+msgstr "And according to the Conduct:"
 
 msgctxt "37e5da644cb842cf94a7eed2ea89c062"
 msgid "འགྲོ་བ་ འདི་དག་ སངས་རྒྱས་ ལྔ་␣འི་ བདག་ཉིད །"
