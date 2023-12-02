@@ -16703,7 +16703,7 @@ msgstr ""
 
 msgctxt "167e2a7670544f0eb5ad80b3b2cb9e55"
 msgid "ཞེས་ སོ ། །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "053862b2b5fb47bd9ea061ceae0ede52"
 msgid "རྗེ་བཙུན་ གྱིས་ སྒམ་པོ་པ་ ལ་ འགྲོ་ ཆོས་ སུ་ གསུངས་པ །"
