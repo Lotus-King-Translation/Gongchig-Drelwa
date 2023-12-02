@@ -17919,7 +17919,7 @@ msgstr ""
 
 msgctxt "f75d75f193ca4533a34369df3459b295"
 msgid "ཞེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "4770187a65354c83ab24456fe6fc9d83"
 msgid "དེས་ན་ ཆད་པ་ ལྔ་ དང་ བྲལ་བ་ སྟེ །"
