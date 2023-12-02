@@ -15413,7 +15413,7 @@ msgstr ""
 
 msgctxt "cef6786b83f543938ba9f9c0a086e394"
 msgid "ཞེས་ སོ །། །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "2518f2012e364fbab1f9e8e40ba8a73c"
 msgid "དེ་␣འི་ ཕྱིར་ དོན་དམ་པ་␣ར་ བལྟ་ བྱ་ ལྟ་ བྱེད་ བྲལ་བ་␣ས་"
