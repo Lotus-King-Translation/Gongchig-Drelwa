@@ -9010,7 +9010,7 @@ msgstr ""
 
 msgctxt "4076c3b5ca0343d09f22bda888fc0d4d"
 msgid "ཞེས་པ་ དང་ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "48c019a250b6482d8a9392abbc56c0af"
 msgid "བུ་མོ་ ཡེ་ཤེས་ ལྡན་ གྱིས་ ཞུས་པ་␣ར །"
@@ -9030,7 +9030,7 @@ msgstr ""
 
 msgctxt "54533a9655104265ba2da3b178629f5e"
 msgid "ཞེས་ དང༌ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "e78f14c4bda340118e8ae076f7414e47"
 msgid "སྤྱོད་འཇུག་ ལ་␣ས །"
