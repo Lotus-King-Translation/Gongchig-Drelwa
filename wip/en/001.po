@@ -6635,7 +6635,7 @@ msgstr "These three are imperceptible and "
 
 msgctxt "7d6f7f7da2514c6fa42d21ca7818cfe2"
 msgid "འདུས་མ་བྱས་ དང་ བྱས་ རྣམས་ དང༌ །"
-msgstr ""
+msgstr "The non-composite and the produced"
 
 msgctxt "87b1063b6cdd4d8187911c96f86793ab"
 msgid "ཆོས་ ཀྱི་ སྐྱེ་མཆེད་ ཁམས་ ཞེས་ བྱ །"
