@@ -6713,7 +6713,7 @@ msgstr ""
 
 msgctxt "203abb1f1db44c6e8a9c06505f06c3e9"
 msgid "ཞེས་ དང་ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "99d6b6459b0f4aa69b26eeeb6ba8d576"
 msgid "ཁྱོད་ ཀྱི་ ཐུགས་ འདུལ་ མཛོད་ ཅིག་ བཅོམ་ལྡན་ གྱིས །"
