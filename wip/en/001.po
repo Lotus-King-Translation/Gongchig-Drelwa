@@ -14680,7 +14680,7 @@ msgstr ""
 
 msgctxt "1297ee6b70f1444b8fb6b90fdc15a4ec"
 msgid "ཞེས་པ་␣ས་"
-msgstr ""
+msgstr "Thus,"
 
 msgctxt "7ad2ddff86504ce5b5bf3d462e03f643"
 msgid "སྣང་བ་␣འི་ ཡུལ་ ལུས་སེམས་ གསུམ་"
