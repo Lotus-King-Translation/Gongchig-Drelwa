@@ -10545,7 +10545,7 @@ msgstr ""
 
 msgctxt "a8e6d53a3bf44bf987a9aef8de7e8d4a"
 msgid "ཞེས་ དང །"
-msgstr ""
+msgstr "And."
 
 msgctxt "1da04783dc3f453ca25dcd7a9f5d2c44"
 msgid "བདེ་གཤེགས་ སྙིང་པོ་ དགེ་བ་␣འང་ དེ །"
