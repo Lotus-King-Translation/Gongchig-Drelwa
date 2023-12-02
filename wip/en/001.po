@@ -19046,7 +19046,7 @@ msgstr ""
 
 msgctxt "28b3767f5ff94446857eed8e393548d9"
 msgid "ཞེས་པ་ དེ་"
-msgstr ""
+msgstr "This is so-called "
 
 msgctxt "668a2c9c88334673a2fd974b6012f554"
 msgid "རྒྱུ་ བསྒྲུབ་པ་ ཡིན་ ཅིང་ སྤྱིར་ ཆོས་ ཐམས་ཅད་ སྤྲུལ་པ་ ཡིན་པ །"
