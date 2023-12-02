@@ -7032,7 +7032,7 @@ msgstr ""
 
 msgctxt "ed88d073dc4a4d0c84f5915099959985"
 msgid "འདི་␣ར་ ནི་ མཛོད་ ལ་␣ས །"
-msgstr ""
+msgstr "In this [system], According to the Treasury of Abhidharma:"
 
 msgctxt "b8a6e95c4f444b6eb32b1b97329504eb"
 msgid "ཁ་ཆེ་ དག་ ནི་ བྱུང་བ་ ན །"
