@@ -15274,7 +15274,7 @@ msgstr ""
 
 msgctxt "8a707cc14c96445a828aca0b1b545531"
 msgid "ཞེས་ དང༌ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "f4636d53eec0438e81a5cca0605c7f05"
 msgid "ཆོས་ བཅུ་པ་␣འི་ མདོ་ ལ་␣ས །"
