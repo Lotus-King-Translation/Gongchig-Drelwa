@@ -15489,7 +15489,7 @@ msgstr ""
 
 msgctxt "8c0480b5db454e05bb0be6d30e082407"
 msgid "ཞེས་ དང་ །  ཕལ་ཆེན་ ལ་␣ས །"
-msgstr ""
+msgstr "And. According to the Avatamsaka [Sutra]:"
 
 msgctxt "9810c3d997074c84ba68c793fcc5ae91"
 msgid "ཇི་ལྟར་ བར་ སྣངཤིན་ ཏུ་␣x"
