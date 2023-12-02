@@ -7840,7 +7840,7 @@ msgstr ""
 
 msgctxt "877eada7bb2d4c108c32fb582310479f"
 msgid "ཞེས་ གསུངས་པ་␣ས་"
-msgstr ""
+msgstr "As said."
 
 msgctxt "fa52c2491ae74d1ba8a065ae29571b7f"
 msgid "འདི་ ཡོད་ ན་ བདག་མེད་ ཀྱི་ དོན་ མི་ རྟོགས་པ་␣ས་"
