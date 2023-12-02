@@ -18920,7 +18920,7 @@ msgstr ""
 
 msgctxt "70b236099e3e49589e085c8c88e913d8"
 msgid "ཞེས་ དང་ ཕལ་ཆེན་ ལ་␣ས །"
-msgstr ""
+msgstr "And according to the Avatamsaka [Sutra]:"
 
 msgctxt "4ec59816cb3143d5ae5eb2665d2e9ac3"
 msgid "སྟོང་གསུམ་ འདི་ཉིད་ དུ་"
