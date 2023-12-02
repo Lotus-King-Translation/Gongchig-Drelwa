@@ -6627,7 +6627,7 @@ msgstr ""
 
 msgctxt "8970c63dc316408aa361f6e288a81851"
 msgid "མཛོད་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Treasury of Abhidharma:"
 
 msgctxt "4379f6fb7f554991bc42d336a9cda0d9"
 msgid "དེ་ གསུམ་ རྣམ་རིག་ བྱེད་ མིན་ དང༌ །"
