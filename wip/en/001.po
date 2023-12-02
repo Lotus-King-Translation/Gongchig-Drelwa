@@ -6601,6 +6601,8 @@ msgid ""
 "དེ་␣འང་ དངོས་གཞི་ རང་ དང་ མཁན་སློབ་ སོགས་ རྣམ་པ་␣ར་ རིག་བྱེད་ དང་ རིག་ མིན་ "
 "གཉིས་ཀ་␣འི་ གཟུགས་ དང་"
 msgstr ""
+"The main part is oneself, the abbot and master, and so on, both perceptible "
+"and imperceptible forms and "
 
 msgctxt "1ab7e31e9c7348789149fb3055cd532c"
 msgid ""
