@@ -7762,7 +7762,7 @@ msgstr ""
 
 msgctxt "99bd5a189f744dbc920ceeef518a1253"
 msgid "ཞེས་ དང༌ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "bf94e90457db4a8a86a35e32c27378f0"
 msgid "ང་ ནི་ མྱ་ངན་ འདས་ གྱུར་ ན །"
