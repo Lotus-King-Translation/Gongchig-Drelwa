@@ -6706,7 +6706,7 @@ msgstr "Therefore, according to the questions by Surata:"
 
 msgctxt "ec0c22dff36c44489815117c6513a300"
 msgid "ས་བོན་ ཚ་བ་ རྣམས་ ལ་ ནི །"
-msgstr ""
+msgstr "To the spicy seeds."
 
 msgctxt "7332a175e0cc4224b7bd9d9cab65f8db"
 msgid "འབྲས་བུ་ ཚ་བ་ སྐྱེ་བ་␣ར་ འགྱུར ། །"
