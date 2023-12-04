@@ -6677,7 +6677,7 @@ msgstr "In this [system], the roots of all phenomena is the mind,"
 
 msgctxt "7068db59250b4c9eb8e1cf61975ce5bd"
 msgid "དེ་␣ས་ བསྒྲུབས་པ་␣འི་ ལ་␣ས་"
-msgstr ""
+msgstr "Karma produced by it, "
 
 msgctxt "c159c8a9542042cdae9a7f412eb15580"
 msgid "དེ་␣འི་ རྣམ་སྨིན་ དང་ གསུམ་ ལ་␣ས་"
