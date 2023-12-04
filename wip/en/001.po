@@ -6693,6 +6693,8 @@ msgid ""
 "སེམས་ དགེ་ ན་ ལ་␣ས་ དང་པོ་ དང་ རྣམ་སྨིན་ ཡང་ དགེ་ སྟེ་ སྨན་ གྱི་ ས་བོན་ "
 "བཞིན་ དང༌ །"
 msgstr ""
+"If the mind is virtuous, the beginning of karma and its complete ripening "
+"are also virtuous, like the seeds of medicine."
 
 msgctxt "f1ec6ed3da4743388f92988c5352e5f9"
 msgid "དེ་ལས་ ལྡོག་ ན་ དུག་ གི་ ས་བོན་ བཞིན་ ནོ ། །"
