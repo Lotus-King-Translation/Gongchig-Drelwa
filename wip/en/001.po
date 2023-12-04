@@ -6710,7 +6710,7 @@ msgstr "From spicy seeds."
 
 msgctxt "7332a175e0cc4224b7bd9d9cab65f8db"
 msgid "འབྲས་བུ་ ཚ་བ་ སྐྱེ་བ་␣ར་ འགྱུར ། །"
-msgstr ""
+msgstr "Spicy results will be produced."
 
 msgctxt "a87342da5f3f4768afee3e4b0ca0eaf0"
 msgid "ས་བོན་ མངར་བ་ རྣམས་ ལ་ ནི ། །"
