@@ -6702,7 +6702,7 @@ msgstr "On the contrary, it is like the seeds of poison."
 
 msgctxt "7b7131b193404c63ba3e294505e0c9e9"
 msgid "དེ་␣འི་ ཕྱིར་ དེས་པ་␣ས་ ཞུས་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "Therefore, according to the questions by Surata:"
 
 msgctxt "ec0c22dff36c44489815117c6513a300"
 msgid "ས་བོན་ ཚ་བ་ རྣམས་ ལ་ ནི །"
