@@ -6739,6 +6739,8 @@ msgstr "From the distinctions of karma,"
 msgctxt "df121f57e74d465ebeab8d4c6097cde3"
 msgid "བྱས་ ལ་མ་ བསགས་པ་ སོགས་ བཞི་ གསུངས་"
 msgstr ""
+"[Karma] is said to be of four [types]: [karma] that is performed but not "
+"accumulated, and so on."
 
 msgctxt "5ed23948974f426cb098051aecde795d"
 msgid "སེམས་ ལ་ རྨ་ བྱུང་ ན་ ཉེས་པ་ མེད་པ་␣ར་ གསུངས་པ་␣ས་"
