@@ -6750,6 +6750,8 @@ msgctxt "2798d6b0681045619a8d8fab9819af0a"
 msgid ""
 "དེ་␣འི་ ཕྱིར་ ལྟུང་བ་ མཐའ་དག་ ལ་ ནི་ ཀུན་སློང་ བསམ་པ་ འདུ་ཤེས་ གཙོ་ སྟེ་"
 msgstr ""
+"Therefore, motivation, aspiration, and perception are the most important "
+"[factors] in all downfalls."
 
 msgctxt "4aba282096054386b60e9c78a17e1ef0"
 msgid "དགེ་སློང་ དགོན་པ་བ་ ཚོགས་ཅན་ མི་ སྐབས་པ་ བཟང་མོ་ བཞིན་ ནོ །"
