@@ -6755,7 +6755,7 @@ msgstr ""
 
 msgctxt "4aba282096054386b60e9c78a17e1ef0"
 msgid "དགེ་སློང་ དགོན་པ་བ་ ཚོགས་ཅན་ མི་ སྐབས་པ་ བཟང་མོ་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "Like the bhikshu Aranyaka and Bhadra."
 
 msgctxt "fcd0c42c30f94e068e692f9187e1929f"
 msgid ""
