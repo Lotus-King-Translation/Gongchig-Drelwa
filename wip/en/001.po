@@ -6805,7 +6805,7 @@ msgstr "Because I am free of desire."
 
 msgctxt "c347677e60524de2b3402ea4431979b0"
 msgid "སེམས་ རྣམ་པ་␣ར་ གྲོལ་བ་ དང་"
-msgstr ""
+msgstr "To completely liberate the mind and "
 
 msgctxt "f4ce567316794a3f830a0e59f211085a"
 msgid "ཤེས་རབ་ རྣམ་པ་␣ར་ གྲོལ་བ་␣འི་ ཆོས་ བསྟན་པ་ ཅེས་ སོགས་ དང་ །"
