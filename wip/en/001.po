@@ -6718,7 +6718,7 @@ msgstr "From sweet seeds,"
 
 msgctxt "78123f1b88cd4c108411f6d7d6747fbf"
 msgid "འབྲས་བུ་ མངར་བ་ སྐྱེ་བ་␣ར་ འགྱུར །"
-msgstr ""
+msgstr "Sweet results will be produced."
 
 msgctxt "203abb1f1db44c6e8a9c06505f06c3e9"
 msgid "ཞེས་ དང་ །"
