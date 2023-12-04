@@ -6780,7 +6780,7 @@ msgstr "Since the three [abandonments] of mind are those of bodhisattvas."
 
 msgctxt "727293977c2449eb92f9212c1387063f"
 msgid "སྤོང་ འདུན་ ཁོ་ན་ ལས་མི་ དགོས་ ཟེར་ རོ ། །"
-msgstr ""
+msgstr "Thus, it is said that only the seven abandonments are needed."
 
 msgctxt "9750ddd8ce2c42b5b1db2043a7891120"
 msgid "འདི་␣ར་ ནི་ ཡིད་ ཀྱི་ གསུམ་ ནི་ དུག་ གསུམ་ ཡིན་ ཞིང་"
