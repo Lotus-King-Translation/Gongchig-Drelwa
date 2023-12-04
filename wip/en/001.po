@@ -6818,7 +6818,7 @@ msgstr "Do not engage in any negative action,"
 
 msgctxt "8a1e5abd9a364143a8306db2fd7cf8ca"
 msgid "དགེ་བ་␣x"
-msgstr ""
+msgstr "[Engage in the perfection of] virtue"
 
 msgctxt "b50ac42e3b8e427da745202fd8db42b7"
 msgid "རང་ གི་␣x"
