@@ -6673,7 +6673,7 @@ msgstr ""
 
 msgctxt "6f8919a6300f4a70b4207f247b50a8a0"
 msgid "འདི་␣ར་ ནི་ ཆོས་ ཐམས་ཅད་ རྩ་བ་ སེམས་"
-msgstr ""
+msgstr "In this [system], the root of all phenomena is mind,"
 
 msgctxt "7068db59250b4c9eb8e1cf61975ce5bd"
 msgid "དེ་␣ས་ བསྒྲུབས་པ་␣འི་ ལ་␣ས་"
