@@ -6761,6 +6761,8 @@ msgctxt "fcd0c42c30f94e068e692f9187e1929f"
 msgid ""
 "རྡོ་␣༽༽  སོ་ཐར་ གྱི་ སྡོམ་པ་ ནི་ གཙོ་བོ་␣ར་ ལུས་ངག་ གི་ སྤོང་བ་ བདུན་ དང་"
 msgstr ""
+"Vajra: The vows of pratimoksha are said to the seven abandonments of body "
+"and speech and,"
 
 msgctxt "e94c763b5f5c4262b2d148807f2c16c8"
 msgid "འཁོར་ ཡིད་ ཀྱི་ གསུམ་པོ་ དེ་ ཞོར་ ལ་ སྤོང་བ་␣ས་"
