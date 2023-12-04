@@ -6726,7 +6726,7 @@ msgstr "And."
 
 msgctxt "99d6b6459b0f4aa69b26eeeb6ba8d576"
 msgid "ཁྱོད་ ཀྱི་ ཐུགས་ འདུལ་ མཛོད་ ཅིག་ བཅོམ་ལྡན་ གྱིས །"
-msgstr ""
+msgstr "Please tame your mind, Bhagavan said."
 
 msgctxt "13ec2eb33c1c499e86e90aa1ec38c865"
 msgid "སེམས་ ནི་ ཆོས་ ཀྱི་ སོཌ་ དང༌ །"
