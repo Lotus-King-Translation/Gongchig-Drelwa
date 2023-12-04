@@ -6647,7 +6647,7 @@ msgstr "As said."
 
 msgctxt "74f22edde7f946d2ab82d56bf1e6f8c6"
 msgid "དེ་ ཁོ་ན་ཉིད་ བཞེད་པ་␣འི་ གནད་ ཀྱང་"
-msgstr ""
+msgstr "The essential point about accepting suchness is that"
 
 msgctxt "0c40e45027464a73a715188188e8d463"
 msgid "ཆོས་ ཐམས་ཅད་ བསམ་པ་ སྐད་ཅིག་མ་␣འི་ རང་གཟུགས་ ཡིན་པ་"
