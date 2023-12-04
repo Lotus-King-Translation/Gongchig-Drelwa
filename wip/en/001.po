@@ -6776,7 +6776,7 @@ msgstr ""
 
 msgctxt "285656195fd84a1ba1c90260095fac5d"
 msgid "ཡིད་ ཀྱི་ གསུམ་ ནི་ བྱང་སེམས་ ཀྱི་ ཡིན་པ་␣ས་"
-msgstr ""
+msgstr "Since the three [abandonments] of mind are those of bodhisattvas."
 
 msgctxt "727293977c2449eb92f9212c1387063f"
 msgid "སྤོང་ འདུན་ ཁོ་ན་ ལས་མི་ དགོས་ ཟེར་ རོ ། །"
