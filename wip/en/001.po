@@ -6734,7 +6734,7 @@ msgstr "Mind is the dharma, and so on."
 
 msgctxt "f3a5afd354f54638943701088c2ba731"
 msgid "ལ་␣ས་ རྣམ་འབྱེད་ ལ་␣ས །"
-msgstr ""
+msgstr "From the distinctions of karma,"
 
 msgctxt "df121f57e74d465ebeab8d4c6097cde3"
 msgid "བྱས་ ལ་མ་ བསགས་པ་ སོགས་ བཞི་ གསུངས་"
