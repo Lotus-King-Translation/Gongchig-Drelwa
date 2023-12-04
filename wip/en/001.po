@@ -6826,7 +6826,7 @@ msgstr "Completely tame one's own mind."
 
 msgctxt "28a1337990ad4f688872dc26f98c7aed"
 msgid "འདི་ ནི་  x"
-msgstr ""
+msgstr "This is the teaching of the Buddha."
 
 msgctxt "00194f261c184edca863cc19f51e0734"
 msgid "ཅེས་ དང༌ །"
