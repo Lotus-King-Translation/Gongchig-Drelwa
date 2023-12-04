@@ -6656,6 +6656,8 @@ msgstr "All phenomena are the natural forms of momentary thoughts, "
 msgctxt "d64ce2c9509b479688f91f443e4be137"
 msgid "དགེ་ མི་དགེ་␣འི་ བསམ་པ་ གང་དེ་␣འི་ རང་གཟུགས་ སུ་ འགྲུབ་པ་␣ས་ ན་␣འོ ། །"
 msgstr ""
+"Any virtuous or non-virtuous thoughts are established as the natural forms "
+"of those thoughts."
 
 msgctxt "864e54f04fb54973b449c96b794d6969"
 msgid "རྡོ་␣༽༽  གཞི་ བསམ་སྦྱོར་བ་ མཐར་ཐུག་ བཞི་ དང་ ལྡན་ ན་ རྫོགས་པ་ ཡིན་ ཏེ་"
