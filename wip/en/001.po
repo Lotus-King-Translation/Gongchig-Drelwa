@@ -6668,6 +6668,8 @@ msgstr ""
 msgctxt "8aa7bccf187742bcaafb2d508f873c5d"
 msgid "དེ་␣འང་ འདུ་ཤེས་ གཙོ་བོ་ དང་ དངོས་པོ་ གཙོ་བོ་ གཉིས་ སུ་ བཤད་ མོད །"
 msgstr ""
+"That is also explained in two ways: perceptions as chief and things as "
+"chief."
 
 msgctxt "6f8919a6300f4a70b4207f247b50a8a0"
 msgid "འདི་␣ར་ ནི་ ཆོས་ ཐམས་ཅད་ རྩ་བ་ སེམས་"
