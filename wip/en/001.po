@@ -6698,7 +6698,7 @@ msgstr ""
 
 msgctxt "f1ec6ed3da4743388f92988c5352e5f9"
 msgid "དེ་ལས་ ལྡོག་ ན་ དུག་ གི་ ས་བོན་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "On the contrary, it is like the seeds of poison."
 
 msgctxt "7b7131b193404c63ba3e294505e0c9e9"
 msgid "དེ་␣འི་ ཕྱིར་ དེས་པ་␣ས་ ཞུས་པ་ ལ་␣ས །"
