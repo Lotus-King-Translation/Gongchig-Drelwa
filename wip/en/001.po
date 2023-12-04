@@ -6772,6 +6772,7 @@ msgstr ""
 msgctxt "279306f61eba41cbaf8a2f284ec9e0f3"
 msgid "སྤོང་ བདུན་ འཁོར་བཅས་ ཡིན་ ཟེར་བ་ དང་ །"
 msgstr ""
+"Thus, they are said to be the seven abandonments with their accompaniments."
 
 msgctxt "285656195fd84a1ba1c90260095fac5d"
 msgid "ཡིད་ ཀྱི་ གསུམ་ ནི་ བྱང་སེམས་ ཀྱི་ ཡིན་པ་␣ས་"
