@@ -6952,6 +6952,8 @@ msgstr ""
 msgctxt "1c4631014f5f442289efb41e57bb5238"
 msgid "ལུང་ རྣམ་འབྱེད་ ལ་␣ས་ ཕུལ་བ་ མ་ ཉམས་པ །"
 msgstr ""
+"According to the Fine Analytical Scripture: the offering that is not "
+"degenerated."
 
 msgctxt "cc4c085af35c4e9d9ad32b8a39f0c1ec"
 msgid "ཉམས་ ལ་མ་ ཕུལ་བ །"
