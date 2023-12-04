@@ -6814,7 +6814,7 @@ msgstr ""
 
 msgctxt "7c57081d770d43268da53de1dd97a574"
 msgid "སྡིག་པ་ ཅི་ཡང་ མི་ བྱ་ ཞིང །"
-msgstr ""
+msgstr "Do not engage in any negative action,"
 
 msgctxt "8a1e5abd9a364143a8306db2fd7cf8ca"
 msgid "དགེ་བ་␣x"
