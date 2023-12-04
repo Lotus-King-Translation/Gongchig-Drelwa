@@ -6686,6 +6686,7 @@ msgstr "And its complete ripening [result]. Of these three,"
 msgctxt "fa7b6636f9bd49cf8f5b7685bb2d1a6d"
 msgid "སེམས་ འགག་␣ས་ ན་ ལ་␣ས་ དང་ རྣམ་སྨིན་ འགགས་པ་␣ར་ གསུངས་པ་␣ས་"
 msgstr ""
+"It is said that when the mind ceases, karma and its complete ripening cease."
 
 msgctxt "0f774f9acd5b4b2590cec9aceacc818f"
 msgid ""
