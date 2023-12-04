@@ -6822,7 +6822,7 @@ msgstr "[Engage in the perfection of] virtue"
 
 msgctxt "b50ac42e3b8e427da745202fd8db42b7"
 msgid "རང་ གི་␣x"
-msgstr "Completely tame one's own mind."
+msgstr "[Completely tame] one's own [mind]."
 
 msgctxt "28a1337990ad4f688872dc26f98c7aed"
 msgid "འདི་ ནི་  x"
