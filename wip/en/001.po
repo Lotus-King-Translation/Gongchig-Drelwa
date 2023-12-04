@@ -6792,6 +6792,8 @@ msgctxt "d52391da87724aaca19f60e49f202f06"
 msgid ""
 "དེ་␣ས་ བསྐྱེད་པ་␣འི་ ལ་␣ས་ སྡིག་པ་ ཡིན་པ་ དེ་ སོ་ཐར་ གྱིས་ སྤོང་ དགོས་ ཏེ །"
 msgstr ""
+"Because actions that arise from them are negative, thus they must be "
+"abandoned by pratimoksha. "
 
 msgctxt "d57c0938472f4d77ab04b3a05722054e"
 msgid "ལུང་ རྣམ་འབྱེད་ ལ་␣ས །"
