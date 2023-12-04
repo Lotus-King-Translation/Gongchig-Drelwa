@@ -6744,7 +6744,7 @@ msgstr ""
 
 msgctxt "5ed23948974f426cb098051aecde795d"
 msgid "སེམས་ ལ་ རྨ་ བྱུང་ ན་ ཉེས་པ་ མེད་པ་␣ར་ གསུངས་པ་␣ས་"
-msgstr ""
+msgstr "If a wound happens in the mind, it is said that there is no fault."
 
 msgctxt "2798d6b0681045619a8d8fab9819af0a"
 msgid ""
