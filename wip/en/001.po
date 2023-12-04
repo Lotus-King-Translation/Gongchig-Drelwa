@@ -6662,6 +6662,8 @@ msgstr ""
 msgctxt "864e54f04fb54973b449c96b794d6969"
 msgid "རྡོ་␣༽༽  གཞི་ བསམ་སྦྱོར་བ་ མཐར་ཐུག་ བཞི་ དང་ ལྡན་ ན་ རྫོགས་པ་ ཡིན་ ཏེ་"
 msgstr ""
+"Vajra: One will be complete if [they] have four [qualities]: basis, "
+"aspiration, engagement, and ultimate."
 
 msgctxt "8aa7bccf187742bcaafb2d508f873c5d"
 msgid "དེ་␣འང་ འདུ་ཤེས་ གཙོ་བོ་ དང་ དངོས་པོ་ གཙོ་བོ་ གཉིས་ སུ་ བཤད་ མོད །"
