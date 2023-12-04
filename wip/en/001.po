@@ -6830,7 +6830,7 @@ msgstr "This is the teaching of the Buddha."
 
 msgctxt "00194f261c184edca863cc19f51e0734"
 msgid "ཅེས་ དང༌ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "fa35713a81484204ad456e6443d89394"
 msgid "ལུས་ ཀྱི་ སྡོམ་པ་ ལེགས་པ་ ན །"
