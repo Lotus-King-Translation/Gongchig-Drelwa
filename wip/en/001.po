@@ -6681,7 +6681,7 @@ msgstr "Karma produced by it, "
 
 msgctxt "c159c8a9542042cdae9a7f412eb15580"
 msgid "དེ་␣འི་ རྣམ་སྨིན་ དང་ གསུམ་ ལ་␣ས་"
-msgstr ""
+msgstr "And its complete ripening [result]. From these three"
 
 msgctxt "fa7b6636f9bd49cf8f5b7685bb2d1a6d"
 msgid "སེམས་ འགག་␣ས་ ན་ ལ་␣ས་ དང་ རྣམ་སྨིན་ འགགས་པ་␣ར་ གསུངས་པ་␣ས་"
