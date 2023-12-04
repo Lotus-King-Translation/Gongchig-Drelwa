@@ -6801,7 +6801,7 @@ msgstr "According to the Fine Analytical Scripture:"
 
 msgctxt "3ba4acd20f8f49c28b5494522a095dd6"
 msgid "ངས་ འདོད་ཆགས་་་ འདོད་ཆགས་ དང་ བྲལ་བ་␣འི་ ཕྱིར་ །"
-msgstr ""
+msgstr "Because I am free from desire."
 
 msgctxt "c347677e60524de2b3402ea4431979b0"
 msgid "སེམས་ རྣམ་པ་␣ར་ གྲོལ་བ་ དང་"
