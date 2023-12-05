@@ -6931,7 +6931,7 @@ msgstr "According to the Vinaya scriptural transmission:"
 
 msgctxt "3808de45b6174fc9b759525e5aec08c0"
 msgid "མཚན་ ལན་ གསུམ་ འགྱུར་བ །"
-msgstr ""
+msgstr "The signs change three times."
 
 msgctxt "5e4088aeb0074df8afe940920fdbf9f9"
 msgid "ཉི་ཤུ་ མ་ ལོན །"
