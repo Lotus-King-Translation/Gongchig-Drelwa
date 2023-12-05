@@ -6906,7 +6906,7 @@ msgstr "According to the Treasury of Abhidharma:"
 
 msgctxt "24226d447e0a4ebe86fdd0e206cf3c6e"
 msgid "བསླབ་པ་ ཕུལ་ དང་ ཤི་འཕོས་ དང༌ ། །"
-msgstr ""
+msgstr "Offering back the training and death and transferring, "
 
 msgctxt "0b7a8849ac7a40afb654bfcd1b0649b9"
 msgid "རྩ་བ་ ཆད་ དང་ མཚན་ འདས་ དང༌ །"
