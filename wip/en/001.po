@@ -6860,7 +6860,7 @@ msgstr ""
 
 msgctxt "0b5483a1ef5146e68f74a507af79a405"
 msgid "ཁྱེད་ རང་ གིས་ བཞེད་པ་␣ས །"
-msgstr ""
+msgstr "Because you accepted it."
 
 msgctxt "6c67f785f466469aba86851b950e3e7e"
 msgid "ངེས་འབྱུང་ གིས་ ཐོབ་པ་ དེ་ ཡིད་ མིན་པ་␣ར་ ཐལ །"
