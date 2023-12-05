@@ -6834,7 +6834,7 @@ msgstr "And."
 
 msgctxt "fa35713a81484204ad456e6443d89394"
 msgid "ལུས་ ཀྱི་ སྡོམ་པ་ ལེགས་པ་ ན །"
-msgstr "When the vows of body are excellent,"
+msgstr "When the vows of the body are excellent,"
 
 msgctxt "dd3c8402cbc94b46b757fbb8c96c5aff"
 msgid "ངག་ གི  x"
