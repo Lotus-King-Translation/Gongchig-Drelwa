@@ -6966,7 +6966,7 @@ msgstr ""
 
 msgctxt "cc4c085af35c4e9d9ad32b8a39f0c1ec"
 msgid "ཉམས་ ལ་མ་ ཕུལ་བ །"
-msgstr ""
+msgstr "That which is degenerated and not offered."
 
 msgctxt "b8062bc8b9b14887ad47e220382aa94d"
 msgid "ཕུལ་ ཡང་ ཕུལ་ ལ་ ཉམས་ ཡང་ ཉམས་པ་ སྟེ་"
