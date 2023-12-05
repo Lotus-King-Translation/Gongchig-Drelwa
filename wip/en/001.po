@@ -6910,7 +6910,7 @@ msgstr "Offering back the training and death and transferring, "
 
 msgctxt "0b7a8849ac7a40afb654bfcd1b0649b9"
 msgid "རྩ་བ་ ཆད་ དང་ མཚན་ འདས་ དང༌ །"
-msgstr "The root is cut off and beyond characteristics, and"
+msgstr "The root is cut off and beyond signs, and"
 
 msgctxt "3819f0785a5145d499825f017574cb7d"
 msgid "མཚན་ གཉིས་ གཅིག་ ཆ་␣ར་ བྱུང་བ་ ན །"
