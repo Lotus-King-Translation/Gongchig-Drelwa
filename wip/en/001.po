@@ -6948,6 +6948,7 @@ msgstr "The holy dharma declines. "
 msgctxt "f93a62f06a4f4faa996a8f1d1073acc9"
 msgid "རྩ་ལྟུང་ བྱུང་བ་ སྟེ་ དགུ་པོ་␣ས་ གཏོང་བ་␣ར་ གསུངས་ མོད །"
 msgstr ""
+"The occurrence of the root downfalls is said to be passed by these nine."
 
 msgctxt "b616178f5d3245e784c950526f17995d"
 msgid ""
