@@ -6881,6 +6881,8 @@ msgstr "Even good physical behavior is not beneficial. "
 msgctxt "8e74dcc7488a494aabaccaa96071cfe4"
 msgid "ཐབ་ ཀྱི་ མེ་ བསད་ ན་ སྐར་ཁུང་ གི་ དུ་བ་ ཆད་པ་ བཞིན་"
 msgstr ""
+"It is like when the hearth fire is extinguished, the window smoke "
+"discontinues."
 
 msgctxt "76799229a81d42c9be9c212746b87ed2"
 msgid "ཡིད་ བཀག་ ན་ ལུས་ངག་་་་ ཁེག་ ཅིང །"
