@@ -6872,7 +6872,7 @@ msgstr "[You] cannot accept that."
 
 msgctxt "94998f1921274e409db203cad8795f6f"
 msgid "མངོན་སུམ་ གྱིས་ བསལ་ ལོ ། །"
-msgstr "Because tt is eliminated by direct perception."
+msgstr "Because it is eliminated by direct perception."
 
 msgctxt "6e2d97fb053c449395bfbb7f4da0eacf"
 msgid "དེས་ན་ ལུས་ ཀྱི་ སྤྱོད་ཚུལ་ བཟང་ ཡང་ མི་ ཕན་ ཏེ་"
