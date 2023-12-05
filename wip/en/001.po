@@ -6935,7 +6935,7 @@ msgstr "The signs change three times."
 
 msgctxt "5e4088aeb0074df8afe940920fdbf9f9"
 msgid "ཉི་ཤུ་ མ་ ལོན །"
-msgstr ""
+msgstr "Has not reached twenty."
 
 msgctxt "71a2a4bd98f84edeb6d5d459d80ac5e2"
 msgid "བསྙེན་རྫོགས་ ཤེས་པ །"
