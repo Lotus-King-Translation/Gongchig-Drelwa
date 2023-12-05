@@ -6889,7 +6889,7 @@ msgstr "When the mind is stopped, the body and speech will be ceased."
 
 msgctxt "e1ecdd4a47f041398895aa9efce0d126"
 msgid "མ་ བཀག་ ན་ མི་ ཁེག་པ་"
-msgstr ""
+msgstr "If [the mind is] not stopped, [they] will not cease."
 
 msgctxt "8d806604f69d4cd38c686a618a3bcb24"
 msgid "ཉེས་པ་␣ས་ བསྐྱེད་པ་␣ས་ འཁོར་ལོ་ བསྒྱུར་བ་␣འི་ རྒྱལ་པོ་ བཞིན་ ནོ །"
