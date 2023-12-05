@@ -6970,7 +6970,7 @@ msgstr "That which is degenerated and not offered."
 
 msgctxt "b8062bc8b9b14887ad47e220382aa94d"
 msgid "ཕུལ་ ཡང་ ཕུལ་ ལ་ ཉམས་ ཡང་ ཉམས་པ་ སྟེ་"
-msgstr ""
+msgstr "That which is also offered as well as degenerated."
 
 msgctxt "a52f3fc803534010b6cf2450af184e3e"
 msgid "མུ་ གཞི་␣ར་ གསུངས་པ་ གསུམ་པ་␣ས་ གཏོང༌ །"
