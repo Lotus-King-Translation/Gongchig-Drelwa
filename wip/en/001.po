@@ -8058,7 +8058,7 @@ msgstr ""
 
 msgctxt "e8ed4d74ef024c91bec2f3b622ddfd50"
 msgid "འདུལ་བ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Vinaya:"
 
 msgctxt "0748db0c4c3243a8aa72b3ec6f588f1d"
 msgid "ལེགས་ སྐར་ གྱིས་ ལ་བ་ ནག་པོ་ གྱོན་ ནས་ ང་ ནི་ བ་ཀུ་ལ་␣འོ །"
