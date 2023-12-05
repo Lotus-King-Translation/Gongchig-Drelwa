@@ -9663,7 +9663,7 @@ msgstr ""
 
 msgctxt "84dba8e5a2a74e17afd489fda6efa390"
 msgid "ཕལ་ཆེན་ ལ་␣ས་ ཀྱང་ །"
-msgstr ""
+msgstr "According to the Avatamsaka [Sutra]:"
 
 msgctxt "f0a1032b2daf46a49a0f971761f9b257"
 msgid "ཀྱེ་ རྒྱལ་བ་␣འི་ སྲས་ ཁམས་ གསུམ་པོ་ ནི་ སེམས་ ཙམ་ མོ ། །"
