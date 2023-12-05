@@ -6978,7 +6978,7 @@ msgstr "It is said that there are four possibilities, passing by the third. "
 
 msgctxt "3b488f2fe470466bab934962c68ef28c"
 msgid "དབང་ རབ་ ཤི་འཕོས་པ་␣ས་ མི་ གཏོང་ སྟེ །"
-msgstr ""
+msgstr "Those of the highest faculties do not pass because [they] die."
 
 msgctxt "c7c0d4c434974ba1a42a89bae79c57d1"
 msgid "སེམས་ སྐྱེ་བ་␣འི་ ཉོན་མོངས་པ་ བསྡམས་ ནས་"
