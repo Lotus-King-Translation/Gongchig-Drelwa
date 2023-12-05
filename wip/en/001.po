@@ -6974,7 +6974,7 @@ msgstr "That which is also offered as well as degenerated."
 
 msgctxt "a52f3fc803534010b6cf2450af184e3e"
 msgid "མུ་ གཞི་␣ར་ གསུངས་པ་ གསུམ་པ་␣ས་ གཏོང༌ །"
-msgstr ""
+msgstr "It is said that there are four possibilities, passing by the third. "
 
 msgctxt "3b488f2fe470466bab934962c68ef28c"
 msgid "དབང་ རབ་ ཤི་འཕོས་པ་␣ས་ མི་ གཏོང་ སྟེ །"
