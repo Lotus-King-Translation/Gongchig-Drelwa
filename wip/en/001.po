@@ -6990,7 +6990,7 @@ msgstr "Because it does not follow objects, it becomes disciplined."
 
 msgctxt "6cebfb42293443bdb3d489f9438b5c88"
 msgid "ཕལ་ཆེན་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Avatamsaka [Sutra]:"
 
 msgctxt "bd96eca066714f609c7465c27c68df96"
 msgid "དགེ་ དང་ མི་དགེ་ རྣམ་སྨིན་ གོམས་ བྱས་ ན །"
