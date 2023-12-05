@@ -6786,7 +6786,7 @@ msgstr "Thus, it is said that only the seven abandonments are needed."
 msgctxt "9750ddd8ce2c42b5b1db2043a7891120"
 msgid "འདི་␣ར་ ནི་ ཡིད་ ཀྱི་ གསུམ་ ནི་ དུག་ གསུམ་ ཡིན་ ཞིང་"
 msgstr ""
-"In this system, the three [abandonments] of mind are the three poisons."
+"In this system, the three [abandonments] of the mind are the three poisons."
 
 msgctxt "d52391da87724aaca19f60e49f202f06"
 msgid ""
