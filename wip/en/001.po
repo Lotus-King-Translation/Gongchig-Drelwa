@@ -6864,7 +6864,7 @@ msgstr "Because you accepted it."
 
 msgctxt "6c67f785f466469aba86851b950e3e7e"
 msgid "ངེས་འབྱུང་ གིས་ ཐོབ་པ་ དེ་ ཡིད་ མིན་པ་␣ར་ ཐལ །"
-msgstr ""
+msgstr "It follows that attainment of definite emergence is not mind."
 
 msgctxt "163e2878f48a4d62ad9b8d600a915f4c"
 msgid "འདོད་ མི་ ནུས་ ཏེ །"
