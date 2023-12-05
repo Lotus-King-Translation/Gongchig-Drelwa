@@ -6855,6 +6855,8 @@ msgstr "As said."
 msgctxt "0da4a00e75a54047b55843e0eaca6dbc"
 msgid "ཡིད་ ཀྱི་ གསུམ་པོ་ སྡིག་པ་ མིན་པ་␣ར་ ཐལ །"
 msgstr ""
+"It follows that the three [abandonments] of the mind are not a negative "
+"action."
 
 msgctxt "0b5483a1ef5146e68f74a507af79a405"
 msgid "ཁྱེད་ རང་ གིས་ བཞེད་པ་␣ས །"
