@@ -13687,6 +13687,7 @@ msgstr ""
 msgctxt "dc97d86d139045abac3d0312b5ccc4c2"
 msgid "དེ་␣ར་ མ་ཟད་ མཚན་ཉིད་ དུའང་ ཕལ་ཆེན་ ལ་␣ས །"
 msgstr ""
+"Not only that, also in the definition, according to the Avatamsaka [Sutra]:"
 
 msgctxt "d7fea16e758748ba8409214192c7030c"
 msgid "སྟོང་གསུམ་ དར་ཡུག་ དང་ སྙིང་པོ་␣འི་ མདོ་␣ར་ དཔེ་ དགུ་␣ས་ བསྟན་པ་ སོགས་"
