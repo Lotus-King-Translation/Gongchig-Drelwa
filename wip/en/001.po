@@ -6842,7 +6842,7 @@ msgstr "[The vows of] speech [are also excellent]."
 
 msgctxt "339b275906be4a1cbb6fb2bd929bbdaa"
 msgid "ཡིད་ ཀྱི་␣x"
-msgstr ""
+msgstr "When the vows of mind are excellent."
 
 msgctxt "9ca53ec651a045bca1edff24b52b7077"
 msgid "ཐམས་ཅད་ དུ  x"
