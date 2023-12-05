@@ -6982,7 +6982,7 @@ msgstr "Those of the highest faculties do not pass because [they] die."
 
 msgctxt "c7c0d4c434974ba1a42a89bae79c57d1"
 msgid "སེམས་ སྐྱེ་བ་␣འི་ ཉོན་མོངས་པ་ བསྡམས་ ནས་"
-msgstr ""
+msgstr "The mind restrains the afflictive emotions of birth."
 
 msgctxt "4227db6d8c8b4aa08130cf6bdaad3a87"
 msgid "ཡུལ་ གྱི་ རྗེས་སུ་ མི་ འབྲང་བ་␣ས་ ཚུལ་ཁྲིམས་ རབ་ཏུ་ གྱུར་པ་␣འི་ ཕྱིར །"
