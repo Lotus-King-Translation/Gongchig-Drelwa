@@ -6939,7 +6939,7 @@ msgstr "Has not reached twenty."
 
 msgctxt "71a2a4bd98f84edeb6d5d459d80ac5e2"
 msgid "བསྙེན་རྫོགས་ ཤེས་པ །"
-msgstr ""
+msgstr "Aware of full ordination."
 
 msgctxt "1ae5134956754a32b3dceb8ffe4be9bb"
 msgid "དམ་ཆོས་ ནུབ་པ །"
