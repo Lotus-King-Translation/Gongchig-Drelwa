@@ -6898,6 +6898,7 @@ msgstr "Aroused by faults, just like a universal monarch."
 msgctxt "20900d4248cb429aa1590bf512cf3990"
 msgid "དེ་ཕྱིར་ ཡིད་ ཀྱི་ རྣམ་ གསུམ་ གཙོ་བོ་␣ར་ སྤོང་བ་ དགོས་ སོ །"
 msgstr ""
+"Therefore, the three types of the mind are the most important to abandon."
 
 msgctxt "449a3fe4680e4c609f2c71515039b8ff"
 msgid "རྡོ་␣༽༽  མཛོད་ ལ་␣ས །"
