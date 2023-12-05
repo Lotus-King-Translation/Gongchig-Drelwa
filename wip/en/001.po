@@ -6868,7 +6868,7 @@ msgstr "It follows that attainment of definite emergence is not mind."
 
 msgctxt "163e2878f48a4d62ad9b8d600a915f4c"
 msgid "འདོད་ མི་ ནུས་ ཏེ །"
-msgstr ""
+msgstr "Because you cannot accept that."
 
 msgctxt "94998f1921274e409db203cad8795f6f"
 msgid "མངོན་སུམ་ གྱིས་ བསལ་ ལོ ། །"
