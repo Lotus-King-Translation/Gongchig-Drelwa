@@ -6955,6 +6955,8 @@ msgid ""
 "འདི་␣ར་ ནི་ གཏོང་བ་␣འི་ རྒྱུ་ དགུ་པོ་ དེ་ ཡི་ ནང་ ནས་ མི་ གཏོང་བ་ ཡང་ འག་␣ས་"
 " ཞིག་ ཡོད་ དེ་"
 msgstr ""
+"In this [system], there are several non-passings among the nine causes of "
+"passing."
 
 msgctxt "1c4631014f5f442289efb41e57bb5238"
 msgid "ལུང་ རྣམ་འབྱེད་ ལ་␣ས་ ཕུལ་བ་ མ་ ཉམས་པ །"
