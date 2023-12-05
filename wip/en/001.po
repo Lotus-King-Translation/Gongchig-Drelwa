@@ -6914,7 +6914,7 @@ msgstr "The root is cut off and beyond signs, and"
 
 msgctxt "3819f0785a5145d499825f017574cb7d"
 msgid "མཚན་ གཉིས་ གཅིག་ ཆ་␣ར་ བྱུང་བ་ ན །"
-msgstr ""
+msgstr "When the two signs occurred at the same time."
 
 msgctxt "b38446e107b7464ab2ed7ca19a537010"
 msgid "སོ་སོ་␣ར་ ཐར་པ་␣འི་ སྡོམ་པ་ གཏོད །"
