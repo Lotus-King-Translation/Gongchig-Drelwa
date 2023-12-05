@@ -6893,7 +6893,7 @@ msgstr "If [the mind is] not stopped, [they] will not cease."
 
 msgctxt "8d806604f69d4cd38c686a618a3bcb24"
 msgid "ཉེས་པ་␣ས་ བསྐྱེད་པ་␣ས་ འཁོར་ལོ་ བསྒྱུར་བ་␣འི་ རྒྱལ་པོ་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "Aroused by faults, just like a universal monarch."
 
 msgctxt "20900d4248cb429aa1590bf512cf3990"
 msgid "དེ་ཕྱིར་ ཡིད་ ཀྱི་ རྣམ་ གསུམ་ གཙོ་བོ་␣ར་ སྤོང་བ་ དགོས་ སོ །"
