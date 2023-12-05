@@ -6876,7 +6876,7 @@ msgstr "Because it is eliminated by direct perception."
 
 msgctxt "6e2d97fb053c449395bfbb7f4da0eacf"
 msgid "དེས་ན་ ལུས་ ཀྱི་ སྤྱོད་ཚུལ་ བཟང་ ཡང་ མི་ ཕན་ ཏེ་"
-msgstr ""
+msgstr "Even good physical behavior is not beneficial. "
 
 msgctxt "8e74dcc7488a494aabaccaa96071cfe4"
 msgid "ཐབ་ ཀྱི་ མེ་ བསད་ ན་ སྐར་ཁུང་ གི་ དུ་བ་ ཆད་པ་ བཞིན་"
