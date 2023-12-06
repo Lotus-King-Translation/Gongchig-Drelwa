@@ -7023,7 +7023,7 @@ msgstr "After a monk who lived in a monastery passed away, "
 
 msgctxt "22d4f91ab7184f329fbeb032d7f03833"
 msgid "ལྷ་␣ར་ སྐྱེས་ འདོད་ཡོན་ སྟབས་ ཀྱང་"
-msgstr ""
+msgstr "Though [he] was reborn as a god in the manner of sense pleasures."
 
 msgctxt "3a2bcff7d0bf46d08f6f5378fc8f5722"
 msgid "འདུ་ཤེས་ དང་ མ་ བྲལ་བ་␣ས་ དང་ དུ་མ་ བླང་བ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར །"
