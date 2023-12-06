@@ -7015,7 +7015,7 @@ msgstr "And"
 
 msgctxt "4834b3b213e744b8a24da76be819648c"
 msgid "ཁྲི་ རྐང་ གི་ གླིང་ གཞི་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Continent of Supported Throne: "
 
 msgctxt "cbc13ce0ad9243caa2fd7028076db17f"
 msgid "དགེ་སློང་ དགོན་པ་བ་ ཞིག་ ཚེ་ འཕོས་ ནས་"
