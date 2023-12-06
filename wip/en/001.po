@@ -6995,6 +6995,7 @@ msgstr "According to the Avatamsaka [Sutra]:"
 msgctxt "bd96eca066714f609c7465c27c68df96"
 msgid "དགེ་ དང་ མི་དགེ་ རྣམ་སྨིན་ གོམས་ བྱས་ ན །"
 msgstr ""
+"When habituated to the virtues, non-virtues, and the complete ripening,"
 
 msgctxt "0aff6e9decdb47df910e300f5d6369d8"
 msgid "མི་ རྣམས་ ལ་ ནི་ འདྲེས་པ་ ཉིད་ དུ་ འགྱུར །"
