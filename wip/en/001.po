@@ -7036,6 +7036,8 @@ msgid ""
 "དབང་ འབྲིང་ ཐ་མ་ གཉིས་ ཀྱང་ ཕྱི་མ་␣འི་ འབྲས་བུ་ ལ་ ལྟོས་ ན་མ་ གཏོང་བ་ ཡིན་ "
 "ནོ ། །"
 msgstr ""
+"Both the least and medium faculties, if they do not rely on the latter "
+"result, then [they] are also not passed."
 
 msgctxt "9be438df9b8c470e9925d777440bb522"
 msgid "གལ་ཏེ་ ཤི་འཕོས་པ་␣ས་ གཏོང་ ན་"
