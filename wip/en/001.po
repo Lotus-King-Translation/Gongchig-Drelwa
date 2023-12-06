@@ -7057,6 +7057,8 @@ msgstr ""
 msgctxt "cb5770e41767433498d12674bf07469c"
 msgid "ཆོས་ ནུབ་པ་␣ས་ གཏོང་ མི་ གཏོང་ མ་ངེས་པ་ གསུམ་ ཀ་ ཡོད །"
 msgstr ""
+"Because the Dharma declines, there are three possibilities: passing, non-"
+"passing, and uncertain."
 
 msgctxt "241b77768dae4e9c899cfed32b3524c4"
 msgid ""
