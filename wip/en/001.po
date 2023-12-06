@@ -7003,7 +7003,7 @@ msgstr "Then humans will become altered."
 
 msgctxt "2dd7e3637e3142e39eac3b723889b541"
 msgid "དེ་ལྟ་ བུ་ དག་ ཆེད་ དུ་མ་ བསྒྲུབ་ ཀྱང་ །"
-msgstr ""
+msgstr "Though not accomplished in such a purity."
 
 msgctxt "43a4de229ed448b5baddfc24b2211f4f"
 msgid "སྲིད་པ་ གཞན་ ལ་ རྨི་ལམ་ བཞིན་ དུ་ སྤྱོད །"
