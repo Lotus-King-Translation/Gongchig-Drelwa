@@ -6999,7 +6999,7 @@ msgstr ""
 
 msgctxt "0aff6e9decdb47df910e300f5d6369d8"
 msgid "མི་ རྣམས་ ལ་ ནི་ འདྲེས་པ་ ཉིད་ དུ་ འགྱུར །"
-msgstr ""
+msgstr "Then humans will become altered."
 
 msgctxt "2dd7e3637e3142e39eac3b723889b541"
 msgid "དེ་ལྟ་ བུ་ དག་ ཆེད་ དུ་མ་ བསྒྲུབ་ ཀྱང་ །"
