@@ -7028,6 +7028,8 @@ msgstr "Though [he] was reborn as a god in the manner of sense pleasures."
 msgctxt "3a2bcff7d0bf46d08f6f5378fc8f5722"
 msgid "འདུ་ཤེས་ དང་ མ་ བྲལ་བ་␣ས་ དང་ དུ་མ་ བླང་བ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར །"
 msgstr ""
+"But because he was not free from perception, it is said that [he] took "
+"several times."
 
 msgctxt "01f051f9d9854c26b3c633147f56e5aa"
 msgid ""
