@@ -7041,7 +7041,7 @@ msgstr ""
 
 msgctxt "9be438df9b8c470e9925d777440bb522"
 msgid "གལ་ཏེ་ ཤི་འཕོས་པ་␣ས་ གཏོང་ ན་"
-msgstr ""
+msgstr "If they would pass because of death,"
 
 msgctxt "6a083d5377034b1ea6d94c3b984d29ce"
 msgid "བསྲུང་བ་␣ས་ ཅི་ བྱ་ སྟེ་ དགོས་ དུས་ མི་ ཕན་པ་␣ས་ སོ ། །"
