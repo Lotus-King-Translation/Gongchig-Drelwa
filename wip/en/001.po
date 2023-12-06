@@ -7046,6 +7046,7 @@ msgstr "If they would pass because of death,"
 msgctxt "6a083d5377034b1ea6d94c3b984d29ce"
 msgid "བསྲུང་བ་␣ས་ ཅི་ བྱ་ སྟེ་ དགོས་ དུས་ མི་ ཕན་པ་␣ས་ སོ ། །"
 msgstr ""
+"What is the point of protecting it? It is useless at the time of need."
 
 msgctxt "98d29393cf824b75a75d389e4e1a64d2"
 msgid "བསྙེན་གནས་ ས་བོན་ བག་ཆགས་ ཀྱི་ ཆ་ ནས་ མི་ གཏོད །"
