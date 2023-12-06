@@ -7051,6 +7051,8 @@ msgstr ""
 msgctxt "98d29393cf824b75a75d389e4e1a64d2"
 msgid "བསྙེན་གནས་ ས་བོན་ བག་ཆགས་ ཀྱི་ ཆ་ ནས་ མི་ གཏོད །"
 msgstr ""
+"The one-day vows are not bestowed from the aspect of [sowing] the seeds of "
+"latency."
 
 msgctxt "cb5770e41767433498d12674bf07469c"
 msgid "ཆོས་ ནུབ་པ་␣ས་ གཏོང་ མི་ གཏོང་ མ་ངེས་པ་ གསུམ་ ཀ་ ཡོད །"
