@@ -7007,7 +7007,7 @@ msgstr "Though not accomplished in such a purity."
 
 msgctxt "43a4de229ed448b5baddfc24b2211f4f"
 msgid "སྲིད་པ་ གཞན་ ལ་ རྨི་ལམ་ བཞིན་ དུ་ སྤྱོད །"
-msgstr ""
+msgstr "Engage in another existence like a dream."
 
 msgctxt "df1e90093b104d42b7172c9fcc98647e"
 msgid "ཅེས་ དང་ །"
