@@ -7019,7 +7019,7 @@ msgstr "According to the Continent of Supported Throne: "
 
 msgctxt "cbc13ce0ad9243caa2fd7028076db17f"
 msgid "དགེ་སློང་ དགོན་པ་བ་ ཞིག་ ཚེ་ འཕོས་ ནས་"
-msgstr ""
+msgstr "After a monk who lived in a monastery passed away, "
 
 msgctxt "22d4f91ab7184f329fbeb032d7f03833"
 msgid "ལྷ་␣ར་ སྐྱེས་ འདོད་ཡོན་ སྟབས་ ཀྱང་"
