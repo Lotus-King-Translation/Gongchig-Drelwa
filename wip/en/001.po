@@ -7011,7 +7011,7 @@ msgstr "Engage in another existence like a dream."
 
 msgctxt "df1e90093b104d42b7172c9fcc98647e"
 msgid "ཅེས་ དང་ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "4834b3b213e744b8a24da76be819648c"
 msgid "ཁྲི་ རྐང་ གི་ གླིང་ གཞི་ ལ་␣ས །"
