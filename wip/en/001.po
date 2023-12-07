@@ -7073,6 +7073,8 @@ msgid ""
 "རྡོ་␣༽༽  གཞན་དག་ གིས་ རྩ་ལྟུང་ གཅིག་ བྱུང་ ན་ སྡོམ་པ་ ཐམས་ཅད་ ཞིག་པ་␣ར་ "
 "འདོད་པ་ ཡོད་ མོད །"
 msgstr ""
+"Vajra: Others accept that if a root downfall occurs, all vows will be "
+"broken."
 
 msgctxt "ed88d073dc4a4d0c84f5915099959985"
 msgid "འདི་␣ར་ ནི་ མཛོད་ ལ་␣ས །"
