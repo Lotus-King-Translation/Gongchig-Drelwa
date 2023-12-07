@@ -7102,7 +7102,7 @@ msgstr "If one causes the decline of all others,"
 
 msgctxt "017cfe1e338548788446a730a9fdb3df"
 msgid "གཅིག་ བསྲུང་བ་␣ས་ ཐམས་ཅད་ སྲུང་བ་␣ར་ ཐལ་ ལོ ། །"
-msgstr ""
+msgstr "Then it absurdly follows that protecting one protects all."
 
 msgctxt "ae504ddd549843c3b24c43895a020ddd"
 msgid ""
