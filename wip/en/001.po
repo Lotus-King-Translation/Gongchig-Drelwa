@@ -7065,6 +7065,8 @@ msgid ""
 "མི་ གཏོང་བ་ ནི་ འོད་སྲུང་ གི་ བསྟན་པ་ ལ་ བརྩོན་འགྲུས་ བྱས་པ་␣ས་ ཀུན་ཤེས་ "
 "ཀཽཎྜི་ ནྱར་ གྱུར་པ་ བཞིན་ ནོ །"
 msgstr ""
+"Non-passing is the same as Kashyapa's perseverance in the teachings, as is "
+"becoming Ajnata­kaundinya."
 
 msgctxt "11494914bc3a4ece9e1d01220b15a81e"
 msgid ""
