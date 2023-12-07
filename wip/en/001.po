@@ -7090,7 +7090,7 @@ msgstr "Who accept it like a debt of wealth."
 
 msgctxt "2c711c4347424867b2a00b8c87b193b1"
 msgid "ཅེས་པ་ བྱེ་ སྨྲ་␣འི་ འདོད་པ་␣ར་ ལྟུང་བ་ གཅིག་ བྱུང་ ཡང་"
-msgstr ""
+msgstr "Vaibhasika accepts that a downfall will occur."
 
 msgctxt "58e28326175046f5ba9f8a6383f39424"
 msgid "གཞན་ གསུམ་ མི་ གཏོང་བ་ འདི་ རྗེས་ ཀྱང་ བཞེད་ དོ །"
