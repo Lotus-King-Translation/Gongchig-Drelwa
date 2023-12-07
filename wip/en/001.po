@@ -7086,7 +7086,7 @@ msgstr "There were some Kashmiris,"
 
 msgctxt "bb334fad6d2d48f6b20554f7ec9ce1c0"
 msgid "བུ་ལོན་ ནོར་ ཅན་ བཞིན་ དུ་ འདོད །"
-msgstr ""
+msgstr "Who accept it like a debt of wealth."
 
 msgctxt "2c711c4347424867b2a00b8c87b193b1"
 msgid "ཅེས་པ་ བྱེ་ སྨྲ་␣འི་ འདོད་པ་␣ར་ ལྟུང་བ་ གཅིག་ བྱུང་ ཡང་"
