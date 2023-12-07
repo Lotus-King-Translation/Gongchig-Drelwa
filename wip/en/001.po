@@ -7094,7 +7094,7 @@ msgstr "Vaibhasika accepts that even a downfall occurs"
 
 msgctxt "58e28326175046f5ba9f8a6383f39424"
 msgid "གཞན་ གསུམ་ མི་ གཏོང་བ་ འདི་ རྗེས་ ཀྱང་ བཞེད་ དོ །"
-msgstr ""
+msgstr "The other three will not be passed, the latter is also accepted."
 
 msgctxt "de46ba88dd6b4784bb40a6e20dc3f71f"
 msgid "གལ་ཏེ་ གཅིག་ གིས་ ཐམས་ཅད་ ཉམས་ ན་"
