@@ -7229,7 +7229,7 @@ msgstr "[He] is not a creator like Ishvara or ཕྱྭ and "
 
 msgctxt "2053ec605d4a4594b28e8249e454d54a"
 msgid "བརྩེ་བ་ ཆེན་པོ་␣ས་ སེམས་ཅན་ ཐམས་ཅད་ ཐུགས་ སྙོམས་པ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "An equanimous mind toward all sentient beings with great compassion."
 
 msgctxt "75c8d2d08df4422987774bbd5ae300ed"
 msgid "བརྩོན་པ་ མི་ འདོར་བ་␣ས་ གནོད་པ་ སྤོང་ ཞིང་"
