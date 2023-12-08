@@ -1831,7 +1831,7 @@ msgstr ""
 
 msgctxt "338bbcac51bd4de484b9d0db6c49a275"
 msgid "ནོར་བུ་ བསྐྲུ་བ་ གསུམ་"
-msgstr "The three deceitful jewels"
+msgstr "The threefold refinement of the gem."
 
 msgctxt "180a6787469f4192b69e6cdf0b071821"
 msgid "ཕྱི་བ་ གསུམ་ གྱི་ དཔེ་ སྙིང་པོ་ བསྟན་པ་␣ར་ གསུངས་པ་␣ས་"
