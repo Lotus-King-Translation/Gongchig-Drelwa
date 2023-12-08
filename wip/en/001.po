@@ -7188,6 +7188,7 @@ msgstr "The four channels are natural in terms of their essence and"
 msgctxt "d854fb7b398149598d51cdb5110d85fc"
 msgid "ས་ རྐོ་ མེ་ རེག་ སོགས་ འདུ་ཤེས་ ཀྱི་ ཆ་ ནས་ བཅས་པ་ སྟེ་"
 msgstr ""
+"Also digging into soil, fire, contact, and so on in terms of perception."
 
 msgctxt "e31d9c9959b747e8a5e9a4c96022752f"
 msgid "རང་བཞིན་ ཨ་མྲ་␣འི་ ཚལ་ ལ་ བཅས་པ་ སྒྱིས་ འཚལ་ ལྟ་བུ་␣ས་ བསྲུངས་ ཏེ་"
