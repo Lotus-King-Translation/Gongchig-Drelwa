@@ -7123,7 +7123,7 @@ msgstr "The degradation is similar to all of one's wealth."
 
 msgctxt "0756305569454cd19788d8ee92416f5a"
 msgid "རྡོ་␣༽༽  གཞན་དག་ ན་རེ །"
-msgstr ""
+msgstr "Vajra: Others said."
 
 msgctxt "8027525030ec411d9a1c2c5fa3957573"
 msgid "ལྟུང་བ་ གཅིག་ བྱུང་ ན་ ངན་འགྲོ་␣ར་ ལྟུང་བ་ ཡིན་པ་␣ས་"
