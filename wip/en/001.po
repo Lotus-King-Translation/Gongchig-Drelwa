@@ -16997,7 +16997,7 @@ msgstr ""
 
 msgctxt "381c60deba4248fb8dd8cffabe83652a"
 msgid "ལྷན་␣༽༽  གཞན་ བཞེད་ ནི །"
-msgstr ""
+msgstr "Addendum: Others accept that,"
 
 msgctxt "9131822b68c4481d904a507b55adc2e0"
 msgid "མཚན་བཅས་ ཀྱི་ རྫོགས་རིམ་ རླུང་ སྦྱོར་བ་ བཞི་ ལྡན་ ནི་␣༑"
