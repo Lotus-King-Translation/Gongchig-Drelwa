@@ -7136,6 +7136,8 @@ msgstr "Thus, [they] said that protecting one or two is pointless."
 msgctxt "b0c8a02510f64c638c6aec55d41c7b0a"
 msgid "འདི་␣ར་ ནི་ སྣ་ གཅིག་ བསྲུང་བ་␣ས་ འབྲས་བུ་␣ས་ ཀྱང་ མྱ་ འདས་ ཐོབ་ སྟེ །"
 msgstr ""
+"In this [system], the result of protecting one type [of vows] is the "
+"attainment of nirvana because "
 
 msgctxt "c23db004ac8a49ee93e154e74cee38d6"
 msgid "མཆོག་ གསུམ་ ལ་ ཡིད་ རབ་ཏུ་ དྭངས་ བས་"
