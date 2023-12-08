@@ -56,7 +56,7 @@ msgid ""
 "། །"
 msgstr ""
 "[One] will be victorious if [one] crowns the non-deceptive place of refuge- "
-"the three Jewels until enlightenment. "
+"the three jewels until enlightenment. "
 
 msgctxt "fcfd50ffdc63425d86c403f62a4700d8"
 msgid ""
