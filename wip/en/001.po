@@ -7141,7 +7141,7 @@ msgstr ""
 
 msgctxt "c23db004ac8a49ee93e154e74cee38d6"
 msgid "མཆོག་ གསུམ་ ལ་ ཡིད་ རབ་ཏུ་ དྭངས་ བས་"
-msgstr ""
+msgstr "Because the mind becomes very pure in the three jewels."
 
 msgctxt "2a7642a1227844b597e8f8243c322eaf"
 msgid "སྣ་ གཅིག་པོ་ དེ་ རྐྱེན་ གང་ གིས་ ཀྱང་ མིི་ འཇིག་པ་"
