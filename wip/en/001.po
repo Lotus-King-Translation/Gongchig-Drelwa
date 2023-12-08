@@ -7131,7 +7131,7 @@ msgstr "When one downfall occurs, [one] will fall to bad migrations."
 
 msgctxt "84b7561aa49f4b84b7b7822bd52b4cf9"
 msgid "སྣ་ རེ་གཉིས་ སྲུང་མ་ སྲུང་ མེད་ ཟེར་ རོ ། །"
-msgstr ""
+msgstr "Thus, [they] said that protecting one or two is pointless."
 
 msgctxt "b0c8a02510f64c638c6aec55d41c7b0a"
 msgid "འདི་␣ར་ ནི་ སྣ་ གཅིག་ བསྲུང་བ་␣ས་ འབྲས་བུ་␣ས་ ཀྱང་ མྱ་ འདས་ ཐོབ་ སྟེ །"
