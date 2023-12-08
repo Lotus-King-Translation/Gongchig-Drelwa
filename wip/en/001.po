@@ -7110,7 +7110,7 @@ msgid ""
 "ཁོ་ན་␣འི་ ངོས་ ན་␣འོ ། །"
 msgstr ""
 "Well, then the scriptural transmission's statement that if one occurs, it is"
-" not suitable for training in virtue, is on the side of just itself."
+" not suitable for virtue training, is on the side of just itself."
 
 msgctxt "dc7e10e6f11e4936b2e4ac29c96ef05b"
 msgid "དེ་␣འི་ ཕྱིར་ ཕམ་པ་ བཞི་ ཉམས་པ་ ནི་ བུ་ལོན་ དགོས་པ་ ལྟར་ དང་"
