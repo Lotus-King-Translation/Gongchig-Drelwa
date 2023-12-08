@@ -7221,7 +7221,7 @@ msgstr ""
 
 msgctxt "7a405bb0b79343f99c2253c5e508cdc4"
 msgid "ཆོས་ ཐམས་ཅད་ ཀྱི་ ངོ་བོ་␣ར་ སངས་རྒྱས་པ་␣ས་"
-msgstr ""
+msgstr "[Buddha] has enlightened in the essence of all phenomena."
 
 msgctxt "445bfc7f15b8471fa05ac00b1b1b2781"
 msgid "ཕྱྭ་ དང་ དབང་ཕྱུག་ ལྟར་ བྱེད་པོ་ མིན་པ་␣འི་ ཕྱིར་ དང་"
