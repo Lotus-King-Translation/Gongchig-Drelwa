@@ -7196,7 +7196,7 @@ msgstr "It is protected like the garden of a natural mango grove."
 
 msgctxt "a4350a19bccc43c29fd2b535ab3a0cd5"
 msgid "རང་བཞིན་ གཏན་ ནས་ བཀག་པ་ ཡིན་ ལ །"
-msgstr ""
+msgstr "The nature is firmly negated."
 
 msgctxt "beb39b2a54b64875a5987fed0f6f6ffc"
 msgid "བཅས་པ་ གནང་བ་␣འི་ སྐབས་ ཡོད་པ་␣ས་ ཐ་དད་ ཡིན་ ཟེར་ ཡང་ །"
