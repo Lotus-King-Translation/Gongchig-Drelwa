@@ -7145,7 +7145,7 @@ msgstr "Because the mind becomes very pure in the three jewels."
 
 msgctxt "2a7642a1227844b597e8f8243c322eaf"
 msgid "སྣ་ གཅིག་པོ་ དེ་ རྐྱེན་ གང་ གིས་ ཀྱང་ མིི་ འཇིག་པ་"
-msgstr ""
+msgstr "This one type [of vows] will not be destroyed by any condition."
 
 msgctxt "e61d346105144c4e867a9ec7f3b9e446"
 msgid ""
