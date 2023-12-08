@@ -8284,7 +8284,7 @@ msgstr ""
 
 msgctxt "f5b7f51c036f44549a40b44b881ffbc6"
 msgid "རྡོ་␣༽༽  གཞན་ བཞེད་ ལ །"
-msgstr ""
+msgstr "Vajra: Others accept that,"
 
 msgctxt "9d50b89a6e4c4d83ac0b5838e9c32d43"
 msgid "བྱང་ཆུབ་ ཀྱི་ སེམས་ ཀྱི་ མཚན་ཉིད་ ནི་ མངོན་ རྒྱན་ ལ་␣ས །"
