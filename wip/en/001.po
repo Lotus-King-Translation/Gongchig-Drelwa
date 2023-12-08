@@ -7171,7 +7171,7 @@ msgstr ""
 
 msgctxt "bb4cfab955404b06be936dd76d2600e8"
 msgid "གཅིག་ ཀྱང་ མ་ལུས་པ་ མྱ་ངན་ ལ་␣ས་ འདའ་བ་␣ར་ འགྱུར་ རོ ། །"
-msgstr ""
+msgstr "Transcend to nirvana without leaving anyone behind."
 
 msgctxt "2f9591c66bec4379a12cfce3ffd93f0c"
 msgid "ཞེས་ སོ །"
