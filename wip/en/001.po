@@ -7115,7 +7115,7 @@ msgstr ""
 msgctxt "dc7e10e6f11e4936b2e4ac29c96ef05b"
 msgid "དེ་␣འི་ ཕྱིར་ ཕམ་པ་ བཞི་ ཉམས་པ་ ནི་ བུ་ལོན་ དགོས་པ་ ལྟར་ དང་"
 msgstr ""
-"Thus, the degeneration of the four downfalls is like a need for debt and"
+"Thus, the degeneration of the four defeats is like a need for debt and"
 
 msgctxt "0501807b8fd445f6881e1256aabaa892"
 msgid "ཉམས་པ་ ནི་ རང་ ལ་ ནོར་ ཡོད་པ་ ཅན་ བཞིན་ ནོ །"
