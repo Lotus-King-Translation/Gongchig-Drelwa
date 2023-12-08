@@ -7202,6 +7202,8 @@ msgstr "That is firmly prohibited by nature."
 msgctxt "beb39b2a54b64875a5987fed0f6f6ffc"
 msgid "བཅས་པ་ གནང་བ་␣འི་ སྐབས་ ཡོད་པ་␣ས་ ཐ་དད་ ཡིན་ ཟེར་ ཡང་ །"
 msgstr ""
+"It is said that they are distinct because there are occasions when the "
+"associated [wrong-doing] is permitted."
 
 msgctxt "62706c349dd84d0f90a408f3d181bc64"
 msgid "འདི་␣ར་ ནི་ བཅས་པ་ དང་ རང་བཞིན་ གྱི་ ཁ་ན་མ་ཐོ་བ་ གནད་ གཅིག་ སྟེ་"
