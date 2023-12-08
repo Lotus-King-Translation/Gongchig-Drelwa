@@ -7166,8 +7166,7 @@ msgstr "Become excellent in my teaching, by holding the son's hand."
 
 msgctxt "98feb9d33c2741fdbc1a3b2cf2e2b128"
 msgid "ཁྱིམ་ དུ་ རྒྱུ་བ་ རྣམས་ ཀྱང་ བསྐལ་པ་ བཟང་པོ་ འདི་ ལ་"
-msgstr ""
-"Also, all those who move to the household will, in this excellent aeon, "
+msgstr "Also, all those who move to the household, in this excellent aeon, "
 
 msgctxt "bb4cfab955404b06be936dd76d2600e8"
 msgid "གཅིག་ ཀྱང་ མ་ལུས་པ་ མྱ་ངན་ ལ་␣ས་ འདའ་བ་␣ར་ འགྱུར་ རོ ། །"
