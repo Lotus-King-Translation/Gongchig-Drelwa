@@ -7119,7 +7119,7 @@ msgstr ""
 
 msgctxt "0501807b8fd445f6881e1256aabaa892"
 msgid "ཉམས་པ་ ནི་ རང་ ལ་ ནོར་ ཡོད་པ་ ཅན་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "The degradation is similar to all of one's wealth."
 
 msgctxt "0756305569454cd19788d8ee92416f5a"
 msgid "རྡོ་␣༽༽  གཞན་དག་ ན་རེ །"
