@@ -7208,6 +7208,8 @@ msgstr ""
 msgctxt "62706c349dd84d0f90a408f3d181bc64"
 msgid "འདི་␣ར་ ནི་ བཅས་པ་ དང་ རང་བཞིན་ གྱི་ ཁ་ན་མ་ཐོ་བ་ གནད་ གཅིག་ སྟེ་"
 msgstr ""
+"In this [system], the associated and natural wrong-doings essentially the "
+"same."
 
 msgctxt "e90ad3374e704bde93ae373dfcb62bf7"
 msgid ""
