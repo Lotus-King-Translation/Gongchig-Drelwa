@@ -7162,7 +7162,7 @@ msgstr "According to the Compassionate White Lotus:"
 
 msgctxt "0e03f78102f34c4d8d8eda82f0651f50"
 msgid "ང་ ཡི་ བསྟན་ ལ་ རབ་ཏུ་ བྱུང་བ་ བུ་␣འི་ ལག་པ་ ནས་ བཟུང་ སྟེ་"
-msgstr ""
+msgstr "Become excellent in my teaching, by holding the son's hand."
 
 msgctxt "98feb9d33c2741fdbc1a3b2cf2e2b128"
 msgid "ཁྱིམ་ དུ་ རྒྱུ་བ་ རྣམས་ ཀྱང་ བསྐལ་པ་ བཟང་པོ་ འདི་ ལ་"
