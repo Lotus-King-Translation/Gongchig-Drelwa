@@ -7127,7 +7127,7 @@ msgstr "Vajra: Others said."
 
 msgctxt "8027525030ec411d9a1c2c5fa3957573"
 msgid "ལྟུང་བ་ གཅིག་ བྱུང་ ན་ ངན་འགྲོ་␣ར་ ལྟུང་བ་ ཡིན་པ་␣ས་"
-msgstr "When one downfall occurs, [one] will fall to bad migrations."
+msgstr "When one downfall occurs, [one] will fall to the bad migrations."
 
 msgctxt "84b7561aa49f4b84b7b7822bd52b4cf9"
 msgid "སྣ་ རེ་གཉིས་ སྲུང་མ་ སྲུང་ མེད་ ཟེར་ རོ ། །"
