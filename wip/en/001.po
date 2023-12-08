@@ -7192,7 +7192,7 @@ msgstr ""
 
 msgctxt "e31d9c9959b747e8a5e9a4c96022752f"
 msgid "རང་བཞིན་ ཨ་མྲ་␣འི་ ཚལ་ ལ་ བཅས་པ་ སྒྱིས་ འཚལ་ ལྟ་བུ་␣ས་ བསྲུངས་ ཏེ་"
-msgstr "It is said to be similar to a natural mango grove garden."
+msgstr "It is protected like the garden of a natural mango grove."
 
 msgctxt "a4350a19bccc43c29fd2b535ab3a0cd5"
 msgid "རང་བཞིན་ གཏན་ ནས་ བཀག་པ་ ཡིན་ ལ །"
