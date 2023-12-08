@@ -7158,7 +7158,7 @@ msgstr ""
 
 msgctxt "241453efd2cf4c16a7735eb3cdfcc7a3"
 msgid "སྙིང་རྗེ་ པད་དཀར་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Compassionate White Lotus:"
 
 msgctxt "0e03f78102f34c4d8d8eda82f0651f50"
 msgid "ང་ ཡི་ བསྟན་ ལ་ རབ་ཏུ་ བྱུང་བ་ བུ་␣འི་ ལག་པ་ ནས་ བཟུང་ སྟེ་"
