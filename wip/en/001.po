@@ -7183,7 +7183,7 @@ msgstr "Vajra: In the knowledge of others,"
 
 msgctxt "3a42d6f662da4ff38036cc64af008ab0"
 msgid "རྩ་ བཞི་ ངོ་བོ་␣འི་ ཆ་ ནས་ རང་བཞིན་ དང་ །"
-msgstr "The four channels are natural in terms of their essence and"
+msgstr "The four roots are natural in terms of their essence and"
 
 msgctxt "d854fb7b398149598d51cdb5110d85fc"
 msgid "ས་ རྐོ་ མེ་ རེག་ སོགས་ འདུ་ཤེས་ ཀྱི་ ཆ་ ནས་ བཅས་པ་ སྟེ་"
