@@ -7098,7 +7098,7 @@ msgstr "The other three will not be passed, the latter is also accepted."
 
 msgctxt "de46ba88dd6b4784bb40a6e20dc3f71f"
 msgid "གལ་ཏེ་ གཅིག་ གིས་ ཐམས་ཅད་ ཉམས་ ན་"
-msgstr "If one causes the decline of all others,"
+msgstr "If one causes the degeneration of all others,"
 
 msgctxt "017cfe1e338548788446a730a9fdb3df"
 msgid "གཅིག་ བསྲུང་བ་␣ས་ ཐམས་ཅད་ སྲུང་བ་␣ར་ ཐལ་ ལོ ། །"
