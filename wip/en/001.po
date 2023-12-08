@@ -7179,7 +7179,7 @@ msgstr "As said."
 
 msgctxt "9aef3ed0991a42b997ad5cb5acc42414"
 msgid "རྡོ་␣༽༽  གཞན་ ཤེས་ ལ །"
-msgstr ""
+msgstr "Vajra: In the knowledge of others,"
 
 msgctxt "3a42d6f662da4ff38036cc64af008ab0"
 msgid "རྩ་ བཞི་ ངོ་བོ་␣འི་ ཆ་ ནས་ རང་བཞིན་ དང་ །"
