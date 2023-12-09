@@ -7233,7 +7233,7 @@ msgstr "An equanimous mind toward all sentient beings with great compassion."
 
 msgctxt "75c8d2d08df4422987774bbd5ae300ed"
 msgid "བརྩོན་པ་ མི་ འདོར་བ་␣ས་ གནོད་པ་ སྤོང་ ཞིང་"
-msgstr ""
+msgstr "By not giving up diligence, hurm is abandoned. "
 
 msgctxt "8903c652791248bca524b4107f0c4b55"
 msgid "ཕན་བདེ་ ལ་ སྦྱོར་བ་␣ར་ མཛད་པ་␣འི་ ཕྱིར་"
