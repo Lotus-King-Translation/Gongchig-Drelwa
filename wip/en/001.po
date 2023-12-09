@@ -7257,6 +7257,8 @@ msgstr ""
 msgctxt "066be7034ae4414cbb6f65a38d266692"
 msgid "འོ་ན་ དུད་འགྲོ་␣ར་ མ་ བཅས་ ཤིང་ ཉེས་པ་ ཡང་ མ་ གསུངས་པ་␣ས་ ཅི་སྙམ་ ན །"
 msgstr ""
+"Well, if one wonders why animals are not associated with and there is no "
+"mention of fault."
 
 msgctxt "c754be0e4c584a8ab78db67102771215"
 msgid "བཅས་པ་␣འི་ ཉེས་པ་ དུད་འགྲོ་␣ར་ སྐྱེ་ ཞིང་"
