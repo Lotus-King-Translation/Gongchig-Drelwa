@@ -7280,7 +7280,7 @@ msgstr "For example, when a father advises some of his sons on wrong actions."
 
 msgctxt "28b7dfb0fbd04cabb8a74054480a45a1"
 msgid "མི་ ཉན་པ་ ཞིག་ བྱར་མེད་པ་␣ས་ སྐྱུར་བ་ དང་ མཚུངས་ སོ །"
-msgstr ""
+msgstr "Nothing to do with those who do not listen, it is like forsaken."
 
 msgctxt "1aeca968e16f4d6094cd1b4a6592c91d"
 msgid "ལྷན་␣༽༽  འདུལ་བ་ སྡེ་པ་ བཞི་ ལ །"
