@@ -7327,7 +7327,7 @@ msgstr ""
 
 msgctxt "0799e9e2db654d5a99bed6d5796191b5"
 msgid "གྲུབ་མཐའ་ བག་ རེ་ མི་མཐུན་པ་ མ་གཏོགས་"
-msgstr ""
+msgstr "Apart from a few discordant tenet systems,"
 
 msgctxt "ab5eff135f384215a913b8ba2cfaec31"
 msgid "དགག་སྒྲུབ་ ཀྱི་ བསླབ་པ་␣ར་ གཞོལ་ ཞིང་ འབབ་པ་␣འི་ ཕྱིར །"
