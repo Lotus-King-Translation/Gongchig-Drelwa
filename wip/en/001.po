@@ -7237,7 +7237,7 @@ msgstr "By not giving up diligence, hurm is abandoned. "
 
 msgctxt "8903c652791248bca524b4107f0c4b55"
 msgid "ཕན་བདེ་ ལ་ སྦྱོར་བ་␣ར་ མཛད་པ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "Performed so to connect to benefit and well-being."
 
 msgctxt "f034c93f31154dcba5774a89caf11412"
 msgid "རང་བཞིན་ དང་ བཅས་བ་ གང་ མ་ བསྲུངས་ ཀྱང་"
