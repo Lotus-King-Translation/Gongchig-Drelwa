@@ -7262,7 +7262,7 @@ msgstr ""
 
 msgctxt "c754be0e4c584a8ab78db67102771215"
 msgid "བཅས་པ་␣འི་ ཉེས་པ་ དུད་འགྲོ་␣ར་ སྐྱེ་ ཞིང་"
-msgstr ""
+msgstr "The fault of the associated [wrong-doing] arises in animals. "
 
 msgctxt "2f8b99ce3f6f40b297fedec202c0b7c8"
 msgid "མྱ་ འདས་ ལ་ རྒྱབ་ ཀྱི་ ཕྱོགས་པ་ དེ་ ཡིན་ ཅིང །"
