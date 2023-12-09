@@ -7331,7 +7331,7 @@ msgstr "Apart from a few discordant tenet systems,"
 
 msgctxt "ab5eff135f384215a913b8ba2cfaec31"
 msgid "དགག་སྒྲུབ་ ཀྱི་ བསླབ་པ་␣ར་ གཞོལ་ ཞིང་ འབབ་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "It engages and falls in the training of negation and assertion."
 
 msgctxt "304c880fec8e4310b3d5860b5509d6dc"
 msgid "ལུང་ ལ་␣ས །"
