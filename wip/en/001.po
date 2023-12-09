@@ -7271,6 +7271,8 @@ msgstr "It faces the backside of nirvana."
 msgctxt "05e2dc9e45d54f64bb31836e49b78957"
 msgid "སྤྱིར་ བཅས་ ཀྱང་ དམིགས་བསལ་ དུ་མ་ གསུངས༌པ་ ནི་"
 msgstr ""
+"Though [animals] are generally associated with, not mentioning it "
+"specifically is due to"
 
 msgctxt "4065ac3b8f5b4544b8cf04f88b52056d"
 msgid "དཔེར་ན་ ཕས་ བུ་ འགའ་ཞིག་ ལ་ བྱ་བ་ མིན་པ་ བསླབ་ ཀྱང་"
