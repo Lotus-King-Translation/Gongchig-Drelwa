@@ -7295,6 +7295,8 @@ msgid ""
 "འདི་␣ར་ ནི་ སྡེ་པ་ ཀུན་ གྱི་ འདུལ་བ་␣འི་ རྩ་བ་ ནི་ ལུང་སྡེ་བཞི་ ཁོ་ན་␣ར་ "
 "ངེས་ ཏེ །"
 msgstr ""
+"In this [system], the root of vinaya of all the schools is certain to be "
+"only the four sections of Agama."
 
 msgctxt "10f4f141c2974cb29b106a4cfc3fe1ee"
 msgid ""
