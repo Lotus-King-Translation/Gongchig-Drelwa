@@ -7316,7 +7316,7 @@ msgstr ""
 
 msgctxt "c56ae694a222465ba5ae511739e515f1"
 msgid "འདོད་ མི་ ནུས་ ཏེ །"
-msgstr ""
+msgstr "[You] cannot accept that."
 
 msgctxt "9d6acc654e094c4d8d4def73d1e20bf7"
 msgid ""
