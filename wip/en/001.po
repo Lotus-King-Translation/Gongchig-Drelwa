@@ -7301,7 +7301,7 @@ msgstr ""
 msgctxt "10f4f141c2974cb29b106a4cfc3fe1ee"
 msgid ""
 "སངས་རྒྱས་ ཀྱི་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ཀྱི་ ལུང་སྡེ་བཞི་ བསྒྲུབ་པ་␣འི་ ཕྱིར །"
-msgstr "The primal wisdom of Buddha produces the four sections of Agama."
+msgstr "The primal wisdom of Buddha accomplishes the four sections of Agama."
 
 msgctxt "4096cbed48dc4bf5b4d838a5e485f6b3"
 msgid "མ་ གྲུབ་ ན་ ཉན་ཐོས་ དང་ སངས་རྒྱས་ སྤངས་རྟོགས་ མཉམ་པ་␣ར་ ཐལ །"
