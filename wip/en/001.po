@@ -7373,6 +7373,7 @@ msgstr "In this [system],"
 msgctxt "008fab55f4404e88a816dd30957a8014"
 msgid "སྡིག་ལྟུང་ ཐ་དད་ མེད་ ཅིང་ གཅིག་པ་ ཡིན་ ཏེ །"
 msgstr ""
+"The degrading acts and downfalls are not distinct but rather the same."
 
 msgctxt "d6ed710e1fcf4a35b079285c5af8fb82"
 msgid ""
