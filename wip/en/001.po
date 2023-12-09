@@ -7245,7 +7245,7 @@ msgstr "Neither the natural nor the associated [wrong-doing] is protected."
 
 msgctxt "02f37a1c73ae46b084a5760adaabe140"
 msgid "གཤིས་ ལ་ ཇི་ལྟར་ ཡོད་པ་␣འི་ ཉེས་དམིགས་ འབྱུང་ སྟེ་"
-msgstr ""
+msgstr "The disadvantages of how [it/thing] exists in nature have occurred."
 
 msgctxt "fcbd60b9b3854c4dadf2590fadbb2bd6"
 msgid ""
