@@ -7339,7 +7339,7 @@ msgstr "According to the scriptural transmission:"
 
 msgctxt "12dd502700684255827198bc54ce0cb0"
 msgid "ཇི་ལྟར་ འདི་ ན་ ཤིང་རྩ་ གཙོ་བོ་ སྟེ ། །"
-msgstr ""
+msgstr "Just like the roots of a tree being the most important,"
 
 msgctxt "bcf2454ef2ff4c99b5d69203f4f73d48"
 msgid "རྣམ་པ་␣ར་ འཕེལ་ དང་ ཀུན་འཛིན་ གཉིས་ ཀྱི་ གཞི ། །"
