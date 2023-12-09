@@ -7353,7 +7353,7 @@ msgstr "Similarly, in the accumulation of all good qualities,"
 
 msgctxt "db71022ab94a499e9d4dadeeab8b71bb"
 msgid "རྒྱུ་ དང་ རྩ་བ་ འདུལ་བ་ ཡིན་ ཞེས་ གསུངས །"
-msgstr ""
+msgstr "The vinaya is said to be the cause and root of this."
 
 msgctxt "61553ad3b4114d40b0015a0d077cbd21"
 msgid "ཞེས་ སོ །"
