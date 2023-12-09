@@ -7288,7 +7288,7 @@ msgstr "Addendum: In the four schools of vinaya."
 
 msgctxt "5e73e353ad5c40a6b852c5d3925a98f2"
 msgid "མི་ འདྲ་བ་ རེ་རེ་ འདོད་པ་ ཡོད་ མོད །"
-msgstr ""
+msgstr "Each has different positions."
 
 msgctxt "330ae3e7c5ad4ae9920594407eb8ad00"
 msgid ""
