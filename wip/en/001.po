@@ -6800,7 +6800,7 @@ msgstr ""
 
 msgctxt "d57c0938472f4d77ab04b3a05722054e"
 msgid "ལུང་ རྣམ་འབྱེད་ ལ་␣ས །"
-msgstr "According to the Fine Analytical Scripture:"
+msgstr "According to the scriptural transmission of full analysis:"
 
 msgctxt "3ba4acd20f8f49c28b5494522a095dd6"
 msgid "ངས་ འདོད་ཆགས་་་ འདོད་ཆགས་ དང་ བྲལ་བ་␣འི་ ཕྱིར་ །"
