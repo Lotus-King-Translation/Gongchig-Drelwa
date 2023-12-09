@@ -7251,6 +7251,8 @@ msgctxt "fcbd60b9b3854c4dadf2590fadbb2bd6"
 msgid ""
 "རང་བཞིན་ གྱིས་ བཅས་པ་ ལ་ ཁྱབ་ བཅས་པ་␣ས་ རང་བཞིན་ ལ་ ཁྱབ་པ་␣འི་ ཕྱིར་ རོ ། །"
 msgstr ""
+"The natural [wrong-doing] pervades the associated [wrong-doing], and the "
+"associated [wrong-doing] pervades the natural [wrong-doing]. "
 
 msgctxt "066be7034ae4414cbb6f65a38d266692"
 msgid "འོ་ན་ དུད་འགྲོ་␣ར་ མ་ བཅས་ ཤིང་ ཉེས་པ་ ཡང་ མ་ གསུངས་པ་␣ས་ ཅི་སྙམ་ ན །"
