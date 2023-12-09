@@ -7266,7 +7266,7 @@ msgstr "The fault of the associated [wrong-doing] arises in animals. "
 
 msgctxt "2f8b99ce3f6f40b297fedec202c0b7c8"
 msgid "མྱ་ འདས་ ལ་ རྒྱབ་ ཀྱི་ ཕྱོགས་པ་ དེ་ ཡིན་ ཅིང །"
-msgstr ""
+msgstr "It faces the backside of nirvana."
 
 msgctxt "05e2dc9e45d54f64bb31836e49b78957"
 msgid "སྤྱིར་ བཅས་ ཀྱང་ དམིགས་བསལ་ དུ་མ་ གསུངས༌པ་ ནི་"
