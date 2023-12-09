@@ -7322,6 +7322,8 @@ msgctxt "9d6acc654e094c4d8d4def73d1e20bf7"
 msgid ""
 "ས་བཅུ་པ་␣འི་ བྱང་སེམས་ ཀྱིས་ ཀྱང་ འཆའ་ མི་ ནུས་ ན་ གཞན་ གྱིས་ ལྟ་ཅི་ སྨྲོས །"
 msgstr ""
+"If even the bodhisattvas of the tenth level cannot set it in place, there is"
+" no need to talk about others."
 
 msgctxt "0799e9e2db654d5a99bed6d5796191b5"
 msgid "གྲུབ་མཐའ་ བག་ རེ་ མི་མཐུན་པ་ མ་གཏོགས་"
