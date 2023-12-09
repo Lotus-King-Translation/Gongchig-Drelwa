@@ -7344,6 +7344,8 @@ msgstr "Just like the roots of a tree being the most important,"
 msgctxt "bcf2454ef2ff4c99b5d69203f4f73d48"
 msgid "རྣམ་པ་␣ར་ འཕེལ་ དང་ ཀུན་འཛིན་ གཉིས་ ཀྱི་ གཞི ། །"
 msgstr ""
+"It is the foundation for both complete expansion and that which holds "
+"everything."
 
 msgctxt "ff9eee1ad18c4091b696a5cfcc948225"
 msgid "དེ་བཞིན་ ཡོན་ཏན་ ཚོགས་ རྣམས་ ཀུན་ གྱི་ ཡང་ ། །"
