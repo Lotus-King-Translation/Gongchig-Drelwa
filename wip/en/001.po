@@ -7306,6 +7306,8 @@ msgstr "The primal wisdom of Buddha accomplishes the four sections of Agama."
 msgctxt "4096cbed48dc4bf5b4d838a5e485f6b3"
 msgid "མ་ གྲུབ་ ན་ ཉན་ཐོས་ དང་ སངས་རྒྱས་ སྤངས་རྟོགས་ མཉམ་པ་␣ར་ ཐལ །"
 msgstr ""
+"If they are not accomplished, it follows that shravakas and Buddhas are "
+"equal in abandonment and realization."
 
 msgctxt "efcea724b4e94d5e8565a94efbc9f2ff"
 msgid "ལུང་སྡེ་བཞི་ རེ་རེ་ བཅའ་ ཞུས་པ་␣འི་ ཕྱིར །"
