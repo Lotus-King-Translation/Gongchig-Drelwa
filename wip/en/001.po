@@ -7284,7 +7284,7 @@ msgstr "Nothing to do with those who do not listen, it is like forsaken."
 
 msgctxt "1aeca968e16f4d6094cd1b4a6592c91d"
 msgid "ལྷན་␣༽༽  འདུལ་བ་ སྡེ་པ་ བཞི་ ལ །"
-msgstr ""
+msgstr "Addendum: In the four schools of vinaya."
 
 msgctxt "5e73e353ad5c40a6b852c5d3925a98f2"
 msgid "མི་ འདྲ་བ་ རེ་རེ་ འདོད་པ་ ཡོད་ མོད །"
