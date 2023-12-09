@@ -7349,7 +7349,7 @@ msgstr ""
 
 msgctxt "ff9eee1ad18c4091b696a5cfcc948225"
 msgid "དེ་བཞིན་ ཡོན་ཏན་ ཚོགས་ རྣམས་ ཀུན་ གྱི་ ཡང་ ། །"
-msgstr ""
+msgstr "Similarly, in the accumulation of all good qualities,"
 
 msgctxt "db71022ab94a499e9d4dadeeab8b71bb"
 msgid "རྒྱུ་ དང་ རྩ་བ་ འདུལ་བ་ ཡིན་ ཞེས་ གསུངས །"
