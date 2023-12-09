@@ -7276,7 +7276,7 @@ msgstr ""
 
 msgctxt "4065ac3b8f5b4544b8cf04f88b52056d"
 msgid "དཔེར་ན་ ཕས་ བུ་ འགའ་ཞིག་ ལ་ བྱ་བ་ མིན་པ་ བསླབ་ ཀྱང་"
-msgstr ""
+msgstr "For example, when a father advises some of his sons on wrong actions."
 
 msgctxt "28b7dfb0fbd04cabb8a74054480a45a1"
 msgid "མི་ ཉན་པ་ ཞིག་ བྱར་མེད་པ་␣ས་ སྐྱུར་བ་ དང་ མཚུངས་ སོ །"
