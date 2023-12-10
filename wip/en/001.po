@@ -7417,6 +7417,8 @@ msgstr "Thus, this is like the name of grain meal and food."
 msgctxt "f73d5e18db3748f2961b1bb91006f4a8"
 msgid "ཁོ་ན་ ཕྲ་ རག་ ལ་␣འང་ ཁྱད་མེད་ དམ་ སྙམ་ ན །"
 msgstr ""
+"If one wonders whether there is no difference between exclusive, gross, and "
+"subtle."
 
 msgctxt "1d59b98c13a84ff2bd4dcdc6196ac917"
 msgid "དེ་ ནི་ བཅས་ མ་ བཅས་ གཉིས་ཀ་␣འང་ ཉེས་པ་ ཆེ་ཆུང་ མཉམ་པ་ ཡིན་ ནོ ། །"
