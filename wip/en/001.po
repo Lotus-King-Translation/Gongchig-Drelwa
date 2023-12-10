@@ -7423,6 +7423,8 @@ msgstr ""
 msgctxt "1d59b98c13a84ff2bd4dcdc6196ac917"
 msgid "དེ་ ནི་ བཅས་ མ་ བཅས་ གཉིས་ཀ་␣འང་ ཉེས་པ་ ཆེ་ཆུང་ མཉམ་པ་ ཡིན་ ནོ ། །"
 msgstr ""
+"That is, the intensity of the fault is the same for associated and non-"
+"connected [downfalls]. "
 
 msgctxt "1e5e8b1353a74f06b551c30521bf3cac"
 msgid "འོ་ན་ མི་ སྐྱེ་ མཚམས་མེད་ བྱས་པ་ སྐྱེ་བ་␣འི་ བར་ཆད་ དུ་ གསུངས་ ཤིང །"
