@@ -7396,7 +7396,7 @@ msgstr "The downfalls are called a downfall."
 
 msgctxt "c3badec887fb46908ff1a49d0da77dab"
 msgid "སེམས་ཅན་ དམྱལ་བ་ དང་ དུད་འགྲོ་␣འི་ སྐྱེ་གནས་ དང་"
-msgstr ""
+msgstr "The birthplaces of sentient beings, hell beings, animals and"
 
 msgctxt "d7e2b1e5ea86492989efcd6b152a69f7"
 msgid ""
