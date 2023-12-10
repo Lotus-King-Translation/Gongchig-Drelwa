@@ -7461,6 +7461,7 @@ msgstr ""
 msgctxt "500e1d58bf664040a5d94fc61506afb8"
 msgid "སྤང་བླང་ དགེ་སྡིག་ གཉིས་ སུ་ ངེས་པ་ གང་ཞིག  །"
 msgstr ""
+"The abandonment and adoption are definite to two: virtue and non-virtue."
 
 msgctxt "4b989f47ac3d48189641f18bc1a61b5a"
 msgid "བདེ་སྡུག་ གཉིས་ འབྱུང་བ་␣འི་ ལ་␣ས་ ཡིན་པ་␣ས་"
