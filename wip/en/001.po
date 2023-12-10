@@ -7455,6 +7455,8 @@ msgstr ""
 msgctxt "5a7ecf3a8893427a9587032bfd9f5a6c"
 msgid "འདི་␣ར་ ནི་ བཀག་པ་ ཡེ་ བཀག་ གནང་བ་ ཡེ་ གནང་ ཡིན་པ་ ནི་"
 msgstr ""
+"In this [system], the prohibition is primordial prohibition and the "
+"permission is primordial permission."
 
 msgctxt "500e1d58bf664040a5d94fc61506afb8"
 msgid "སྤང་བླང་ དགེ་སྡིག་ གཉིས་ སུ་ ངེས་པ་ གང་ཞིག  །"
