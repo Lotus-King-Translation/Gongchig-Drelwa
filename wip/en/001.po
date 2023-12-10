@@ -7381,6 +7381,8 @@ msgctxt "d6ed710e1fcf4a35b079285c5af8fb82"
 msgid ""
 "བཅས་ རང་ གཅིག་པ་ དང་ འགྲོ་བ་ སྤྱི་ ལ་ བཅས་པ་␣ར་ བཞེད་པ་␣འི་ ཕྱིར་ དང༌ །"
 msgstr ""
+"It is accepted that the associated and the natural are the same and "
+"associated with migrators in general. "
 
 msgctxt "8351f6ab9ce6446888244cec98603e6a"
 msgid "སྡིག་ལྟུང་ གཉིས་ཀ་␣ས་ ངན་འགྲོ་␣ར་ འགྲོ་བ་␣ར་ མཚུངས་པ་␣འི་ ཕྱིར །"
