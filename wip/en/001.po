@@ -7465,7 +7465,7 @@ msgstr ""
 
 msgctxt "4b989f47ac3d48189641f18bc1a61b5a"
 msgid "བདེ་སྡུག་ གཉིས་ འབྱུང་བ་␣འི་ ལ་␣ས་ ཡིན་པ་␣ས་"
-msgstr ""
+msgstr "This is the karma that produces both happiness and suffering."
 
 msgctxt "0ec67e12937c4cafa63cba32de455d31"
 msgid "གནས་ དང་ གནས་མིན་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ཀྱིས་ གཟིགས་པ་␣འི་ ཕྱིར་ དང༌ །"
