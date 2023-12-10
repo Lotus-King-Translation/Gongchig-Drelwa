@@ -7412,7 +7412,7 @@ msgstr ""
 
 msgctxt "d4f7689a46594327b24fd51899fb0aa0"
 msgid "ཞེས་པ་␣ས་ ཟན་ དང་ བཤོས་ ཀྱི་ མིང་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "Thus, this is like the name of grain meal and food."
 
 msgctxt "f73d5e18db3748f2961b1bb91006f4a8"
 msgid "ཁོ་ན་ ཕྲ་ རག་ ལ་␣འང་ ཁྱད་མེད་ དམ་ སྙམ་ ན །"
