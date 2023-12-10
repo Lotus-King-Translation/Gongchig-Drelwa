@@ -7387,6 +7387,8 @@ msgstr ""
 msgctxt "8351f6ab9ce6446888244cec98603e6a"
 msgid "སྡིག་ལྟུང་ གཉིས་ཀ་␣ས་ ངན་འགྲོ་␣ར་ འགྲོ་བ་␣ར་ མཚུངས་པ་␣འི་ ཕྱིར །"
 msgstr ""
+"In terms of producing bad migrations, both the degrading acts and downfalls "
+"are similar."
 
 msgctxt "f18d47ece77c4194879dcc5a6ca8ae48"
 msgid "ལུང་ རྣམ་ འབྱེདལས །"
