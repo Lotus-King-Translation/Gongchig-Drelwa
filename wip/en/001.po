@@ -7471,6 +7471,8 @@ msgstr "This is the karma that produces both well-being and suffering."
 msgctxt "0ec67e12937c4cafa63cba32de455d31"
 msgid "གནས་ དང་ གནས་མིན་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ཀྱིས་ གཟིགས་པ་␣འི་ ཕྱིར་ དང༌ །"
 msgstr ""
+"The omniscient wisdom observes whether they are appropriate or "
+"inappropriate."
 
 msgctxt "abc069c1cbcc4d9daa131144be5627ae"
 msgid "ཐུགས་ བརྩེ་ ཡང་འཇུག་ ལྡོག་ གི་ ཚུལ་ཁྲིམས་ འདི་ ལ་མ་ བརྟེན་ ན་"
