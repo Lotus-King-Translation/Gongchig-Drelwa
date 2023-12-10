@@ -7444,7 +7444,7 @@ msgstr ""
 
 msgctxt "2c7afe13be5a43d899e5ea5fdaa6833b"
 msgid "སྡེ་␣༽༽  བཅས་པ་ རྐྱེན་ ལ་ ལྟོས་པ་␣ས་"
-msgstr ""
+msgstr "Section: The associated [wrong-doing ] depends on conditions."
 
 msgctxt "273774441c8a432391e09cd86037d7e4"
 msgid "དང་པོ་ བཀག་པ་ ཕྱིས་ རྐྱེན་ ལ་ ལྟོས་ ཏེ་ གནང་ ན་ ཉེས་པ་ མེད་ ཟེར །"
