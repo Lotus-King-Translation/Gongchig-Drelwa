@@ -7434,7 +7434,7 @@ msgstr ""
 
 msgctxt "4cc681b3d4e5426f8681e94a49094cba"
 msgid "རབ་བྱུང་ ཕྱིར་བཅོས་ ཡོད་པ་␣ར་ སྙམ་ ན །"
-msgstr ""
+msgstr "If one thinks that it can be altered by becoming a monk."
 
 msgctxt "e16a8eb9599743b5826cda8e983db5a3"
 msgid "དེ་␣འང་ ཡོད་ དེ་ མི་ སྐྱེས་ དགྲ་ བཟོད་པ་ ཐོབ་པ་ ལྟ་བུ་ ཡིན་ ནོ །"
