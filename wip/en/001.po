@@ -7449,6 +7449,8 @@ msgstr "Section: The associated [wrong-doing ] depends on conditions."
 msgctxt "273774441c8a432391e09cd86037d7e4"
 msgid "དང་པོ་ བཀག་པ་ ཕྱིས་ རྐྱེན་ ལ་ ལྟོས་ ཏེ་ གནང་ ན་ ཉེས་པ་ མེད་ ཟེར །"
 msgstr ""
+"The prohibition of the first is dependent on the later conditions, if it is "
+"permitted, there is no fault."
 
 msgctxt "5a7ecf3a8893427a9587032bfd9f5a6c"
 msgid "འདི་␣ར་ ནི་ བཀག་པ་ ཡེ་ བཀག་ གནང་བ་ ཡེ་ གནང་ ཡིན་པ་ ནི་"
