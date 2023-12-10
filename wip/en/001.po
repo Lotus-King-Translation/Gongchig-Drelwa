@@ -7429,6 +7429,8 @@ msgstr ""
 msgctxt "1e5e8b1353a74f06b551c30521bf3cac"
 msgid "འོ་ན་ མི་ སྐྱེ་ མཚམས་མེད་ བྱས་པ་ སྐྱེ་བ་␣འི་ བར་ཆད་ དུ་ གསུངས་ ཤིང །"
 msgstr ""
+"Well then, it is said that the action of the non-arising of the [five] "
+"immediates is an obstacle to the births."
 
 msgctxt "4cc681b3d4e5426f8681e94a49094cba"
 msgid "རབ་བྱུང་ ཕྱིར་བཅོས་ ཡོད་པ་␣ར་ སྙམ་ ན །"
