@@ -7403,6 +7403,7 @@ msgid ""
 "གཤིན་རྗེ་␣འི་ འཇིག་རྟེན་ དུ་ ལྟུང་བ་␣ར་ བྱེད་པ་␣འི་ དོན་ གྱིས་ ལྟུང་བ་␣འོ "
 "། །"
 msgstr ""
+"They are downfalls because they cause one to fall into the world of Yamah."
 
 msgctxt "d4f7689a46594327b24fd51899fb0aa0"
 msgid "ཞེས་པ་␣ས་ ཟན་ དང་ བཤོས་ ཀྱི་ མིང་ བཞིན་ ནོ །"
