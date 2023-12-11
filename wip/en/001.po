@@ -7484,6 +7484,8 @@ msgstr ""
 msgctxt "7ff9ea24c15d46b58014be1b6c48f90d"
 msgid "སྐྱོན་ སྤོང་ ཡོན་ཏན་ བསྒྲུབ་པ་␣འི་ ཐབས་ གཞན་ མེད་པ་␣འི་ ཕྱིར་ རོ །"
 msgstr ""
+"There is no other method of abandoning faults and accomplishing good "
+"qualities."
 
 msgctxt "c489a655b6084fc5942d968b068f9a12"
 msgid "རང་བཞིན་ གཅིག་ ལ་ དགེ་ མི་དགེ་ གཉིས་"
