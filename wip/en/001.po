@@ -7506,7 +7506,7 @@ msgstr ""
 
 msgctxt "a9016896fd8041dfbc6a6e089f9a04d7"
 msgid "དེ་ལས་ ལྡོག་པ་ ཡེ་ གནང་ ཡིན་པ་␣ས་ སོ ། །"
-msgstr ""
+msgstr "The opposite of that is the primordial permission."
 
 msgctxt "a0f91d57f11e4ec5bc4e9866a6444e78"
 msgid "ནད་པ་␣ར་ སྨན །"
