@@ -7543,7 +7543,7 @@ msgstr "In this [system], experiences even occur in dreams."
 
 msgctxt "f8adb2760393467dbdb3b1eab99d77b9"
 msgid "ཕྲ་ རག་ གི་ ཁྱད་པར་ ལས་ཉེས་པ་ ནི་ འབྱུང་བ་"
-msgstr ""
+msgstr "Aside from the difference in subtlety, there is a fault."
 
 msgctxt "e8958a8d60a04af19113d737d4544bb4"
 msgid "ཕྲ་ རག་ ཐམས་ཅད་ བསྟན་པ་␣འི་ ཕྱིར་ དང་ །"
