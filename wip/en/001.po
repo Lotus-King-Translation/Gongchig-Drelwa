@@ -8055,7 +8055,7 @@ msgstr ""
 
 msgctxt "0650e124ebe642b493b283298ada4642"
 msgid "འཁོར་བ་␣འི་ གཉེན་པོ་ དགག་སྒྲུབ་ ཀྱི་ ཚུལ་ཁྲིམས་ ཡིན །"
-msgstr ""
+msgstr "The discipline of negation and assertion is the antidote to samsara."
 
 msgctxt "618d569e788f4842a4e9f90ddf4495e6"
 msgid "དེ་ སྤྱད་ དཀའ་བ་␣འི་ གནད་ ཀྱིས་"
