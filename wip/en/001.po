@@ -13490,6 +13490,7 @@ msgstr ""
 msgctxt "6258c4bc4ce747d19bb20e5d70043e78"
 msgid "འདི་␣ར་ ནི་ གསང་སྔགས་ ལ་ ནི་ ཚུལ་ཁྲིམས་ མེད་ ཀ་མེད་ ཡིན་ ཏེ་"
 msgstr ""
+"In this [system], moral discipline is indispensable in the secret mantra."
 
 msgctxt "fa59e1b8b56f4222b0370aacdbfc2462"
 msgid "ཚེ་ གཅིག་ རྡོ་རྗེ་ འཆང་ གི་ གོ་འཕང་ ཐོབ་པ་␣ར་ བྱེད་པ་ ལ་"
