@@ -7510,7 +7510,7 @@ msgstr "The opposite of that is the primordial permission."
 
 msgctxt "a0f91d57f11e4ec5bc4e9866a6444e78"
 msgid "ནད་པ་␣ར་ སྨན །"
-msgstr ""
+msgstr "A medicine for a sick person."
 
 msgctxt "85ca73cb9fb84006849f836a097a9e81"
 msgid "ཤཱ་རི་␣འི་ བུས་ དཔལ་ལྡན་ མོ་ལ་ ཆོས་ བསྟན་པ་ དང༌ །"
