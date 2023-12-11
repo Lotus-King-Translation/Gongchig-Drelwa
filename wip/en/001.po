@@ -7502,6 +7502,7 @@ msgstr "Non-virtues arise from an afflicted mind."
 msgctxt "f4a7c5d7648d42b6b23ce21f601ebe0e"
 msgid "འབྲས་བུ་ གནོད་པ་␣འི་ སྒོར་ གྱུར་པ་ ནི་ ཡེ་ བཀག་ དང་"
 msgstr ""
+"The result becoming the door to harm is the primordial prohibition and"
 
 msgctxt "a9016896fd8041dfbc6a6e089f9a04d7"
 msgid "དེ་ལས་ ལྡོག་པ་ ཡེ་ གནང་ ཡིན་པ་␣ས་ སོ ། །"
