@@ -7514,7 +7514,7 @@ msgstr "A medicine for a sick person."
 
 msgctxt "85ca73cb9fb84006849f836a097a9e81"
 msgid "ཤཱ་རི་␣འི་ བུས་ དཔལ་ལྡན་ མོ་ལ་ ཆོས་ བསྟན་པ་ དང༌ །"
-msgstr ""
+msgstr "Shariputra taught the dharma to Palden Mo and."
 
 msgctxt "d9109aebfad9401ba295c867fd664a68"
 msgid "བུ་ མེད་ ཆུས་ ཁུར་བ་␣ར་ རོ་ ལེན་པ་ སོགས་ ནི་"
