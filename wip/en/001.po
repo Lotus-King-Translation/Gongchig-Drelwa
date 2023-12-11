@@ -7493,7 +7493,7 @@ msgstr "There are both virtues and non-virtues in a single nature."
 
 msgctxt "a91d8675bbda454d8d7000b9b704292e"
 msgid "གནང་བཀག་ གིས་ མི་འགྱུར་བ་␣ས་"
-msgstr ""
+msgstr "It is not changed by permission and prohibition."
 
 msgctxt "c49e12845a0f4c70bfa928d5018c1865"
 msgid "སེམས་ ཉོན་མོངས་ ཅན་ ལས་མི་ དགེ་བ །"
