@@ -7529,7 +7529,7 @@ msgstr ""
 
 msgctxt "eb11dfd8e4db4a3c8ec8933ec945046b"
 msgid "ལྷན་␣༽༽  བཅས་ འགལ་ གྱི་ ལྟུང་བ་ མ་གཏོགས་"
-msgstr ""
+msgstr "Addendum: Except for the faults of the associated contradiction,"
 
 msgctxt "da29b5be4a0e473ab977c1f13044e9a7"
 msgid "རྨི་ལམ་ དུ་ ཁུ་བ་ ཉམས་པ་ ལ་ཉེ་␣ས་པ་ མེད་ ཟེར་ ལ ། །"
