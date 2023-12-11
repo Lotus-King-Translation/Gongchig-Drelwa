@@ -7478,7 +7478,7 @@ msgstr ""
 msgctxt "abc069c1cbcc4d9daa131144be5627ae"
 msgid "ཐུགས་ བརྩེ་ ཡང་འཇུག་ ལྡོག་ གི་ ཚུལ་ཁྲིམས་ འདི་ ལ་མ་ བརྟེན་ ན་"
 msgstr ""
-"If the compassionate mind does not rely on this moral discipline of "
+"If the compassionate mind is not dependent on the moral discipline of "
 "engagement and disengagement."
 
 msgctxt "7ff9ea24c15d46b58014be1b6c48f90d"
