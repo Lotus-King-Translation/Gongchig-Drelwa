@@ -12063,6 +12063,8 @@ msgstr ""
 msgctxt "93cbd1afb1f84ce9a94b0cb9cd945fc1"
 msgid "དེས་ན་ མི་ལུས་ ཐོབ་པ་ སྔོན་ ཚུལ་ཁྲིམས་ བསྲུང་བ་␣ས་ ཡིན་ ཀྱང་"
 msgstr ""
+"Thus, even though the human body is attained by protecting moral discipline."
+" "
 
 msgctxt "3b7f6cc2da0e47a19b8243967196e285"
 msgid "རྟེན་ དེ་␣ར་ དགེ་བ་␣འི་ འཕྲོ་ མཐུད་ ནས་ མ་ སྒྲུབ་ ན་"
