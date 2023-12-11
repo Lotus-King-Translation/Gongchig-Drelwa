@@ -7497,7 +7497,7 @@ msgstr "It is not changed by permission and prohibition."
 
 msgctxt "c49e12845a0f4c70bfa928d5018c1865"
 msgid "སེམས་ ཉོན་མོངས་ ཅན་ ལས་མི་ དགེ་བ །"
-msgstr ""
+msgstr "Non-virtues arise from an afflicted mind."
 
 msgctxt "f4a7c5d7648d42b6b23ce21f601ebe0e"
 msgid "འབྲས་བུ་ གནོད་པ་␣འི་ སྒོར་ གྱུར་པ་ ནི་ ཡེ་ བཀག་ དང་"
