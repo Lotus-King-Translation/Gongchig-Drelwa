@@ -7563,7 +7563,7 @@ msgstr "Thus, it is similar to the actual defeat."
 
 msgctxt "b4f9905e42c9420098b2eef3754bcf96"
 msgid "འོ་ན་ ཉེས་མེད་ དུ་ གསུངས་པ་ ཅི་ ཞེ་ན །"
-msgstr ""
+msgstr "Well then, if [one] asks, \"Why is it said that there is no fault?\""
 
 msgctxt "0960e1270db6456fb2636569156aebdf"
 msgid "ཐབས་མཁས་པ་␣ས་ གནས་སྐབས་ སྒྲུབ་ མ་ནུ་␣ས་པ་ ལ་ གསུངས་ ཀྱི །"
