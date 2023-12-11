@@ -7559,7 +7559,7 @@ msgstr "Because the condition of this experience is that of a dream woman."
 
 msgctxt "e04cefa3231f4e13b5f909613cd8bdc5"
 msgid "དངོས་ ཀྱི་ ཕམ་ ལྷག་ དང་ མཚུངས་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "Thus, it is similar to the actual defeat."
 
 msgctxt "b4f9905e42c9420098b2eef3754bcf96"
 msgid "འོ་ན་ ཉེས་མེད་ དུ་ གསུངས་པ་ ཅི་ ཞེ་ན །"
