@@ -7524,6 +7524,8 @@ msgstr ""
 msgctxt "33ce0237fda04dadbbf674e46a0f6e61"
 msgid "སྔར་ བཀག་པ་ དང་ ཕྱིས་ གནང་བ་ མི་དགེ་བ་ དང་ དགེ་བ་ ཐ་དད་ དོ །"
 msgstr ""
+"The non-virtues and virtues prohibited earlier and permitted later are "
+"distinct."
 
 msgctxt "eb11dfd8e4db4a3c8ec8933ec945046b"
 msgid "ལྷན་␣༽༽  བཅས་ འགལ་ གྱི་ ལྟུང་བ་ མ་གཏོགས་"
