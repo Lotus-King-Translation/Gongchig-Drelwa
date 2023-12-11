@@ -6988,7 +6988,8 @@ msgstr "The mind restrains the afflictive emotions of birth."
 
 msgctxt "4227db6d8c8b4aa08130cf6bdaad3a87"
 msgid "ཡུལ་ གྱི་ རྗེས་སུ་ མི་ འབྲང་བ་␣ས་ ཚུལ་ཁྲིམས་ རབ་ཏུ་ གྱུར་པ་␣འི་ ཕྱིར །"
-msgstr "Because it does not follow objects, it becomes disciplined."
+msgstr ""
+"Because it does not follow objects, it becomes an excellent discipline."
 
 msgctxt "6cebfb42293443bdb3d489f9438b5c88"
 msgid "ཕལ་ཆེན་ ལ་␣ས །"
