@@ -7555,7 +7555,7 @@ msgstr ""
 
 msgctxt "ed793eae81da4c3ab0e5c0b5ad38945b"
 msgid "རྐྱེན་ རྨི་ལམ་ གྱི་ བུད་མེད་ ལ་ བརྟེན་ ནས་ ཉམས་པ་␣ས་"
-msgstr ""
+msgstr "Because the condition of this experience is that of a dream woman."
 
 msgctxt "e04cefa3231f4e13b5f909613cd8bdc5"
 msgid "དངོས་ ཀྱི་ ཕམ་ ལྷག་ དང་ མཚུངས་པ་␣འི་ ཕྱིར་ རོ ། །"
