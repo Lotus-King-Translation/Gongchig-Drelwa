@@ -13224,6 +13224,8 @@ msgstr ""
 msgctxt "e2f21a4e08024d5084954095ed6530d4"
 msgid "སྡོམ་ གསུམ་ དང་ ཕྱག་ ཆེན་ ཚུལ་ཁྲིམས་ གནད་ གཅིག་པ་␣འི་ ཕྱིར་ དང་"
 msgstr ""
+"The three vows and the moral discipline of mahamudra are essentially the "
+"same."
 
 msgctxt "c5205ede6f0043228205ec317141045b"
 msgid "བརྗོད་བྱ་␣འི་ དོན་ ཡང་ གཅིག་ སྟེ་"
