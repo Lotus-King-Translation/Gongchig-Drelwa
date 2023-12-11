@@ -8320,7 +8320,7 @@ msgstr ""
 
 msgctxt "9f5d165947e54f04bd43e32f846343cf"
 msgid "ཚུལ་ཁྲིམས་ ཀྱི་ ནི་ བསླབ་པ་ དང་ །"
-msgstr ""
+msgstr "The training in the moral discipline and "
 
 msgctxt "7ac44331e1534fd69f8c587a87bd3faf"
 msgid "ཞེས་ སོགས་ ཀྱིས་ བསལ་ ལོ །"
