@@ -7519,6 +7519,7 @@ msgstr "Shariputra taught the dharma to Palden Mo and."
 msgctxt "d9109aebfad9401ba295c867fd664a68"
 msgid "བུ་ མེད་ ཆུས་ ཁུར་བ་␣ར་ རོ་ ལེན་པ་ སོགས་ ནི་"
 msgstr ""
+"A woman who is being carried away by a river and taking corpses and so on is"
 
 msgctxt "33ce0237fda04dadbbf674e46a0f6e61"
 msgid "སྔར་ བཀག་པ་ དང་ ཕྱིས་ གནང་བ་ མི་དགེ་བ་ དང་ དགེ་བ་ ཐ་དད་ དོ །"
