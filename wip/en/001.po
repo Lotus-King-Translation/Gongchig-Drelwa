@@ -7489,7 +7489,7 @@ msgstr ""
 
 msgctxt "c489a655b6084fc5942d968b068f9a12"
 msgid "རང་བཞིན་ གཅིག་ ལ་ དགེ་ མི་དགེ་ གཉིས་"
-msgstr ""
+msgstr "There are both virtues and non-virtues in a single nature."
 
 msgctxt "a91d8675bbda454d8d7000b9b704292e"
 msgid "གནང་བཀག་ གིས་ མི་འགྱུར་བ་␣ས་"
