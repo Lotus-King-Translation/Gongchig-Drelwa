@@ -7703,7 +7703,7 @@ msgstr ""
 
 msgctxt "914ce8ed39f94c7d922456f88e5d89e2"
 msgid "ཉེ་རིང་ ཅན་ དུ་ཐལ་ ལོ ། །"
-msgstr ""
+msgstr "It absurdly follows that [he] would be partial."
 
 msgctxt "db44aad5c09f41a6819a1c2dc7bcea20"
 msgid "དེ་␣འི་ ཕྱིར་ ཆོས་ ཀྱི་ རྒྱལ་པོ་␣ས་ འགྲོ་བ་ སྤྱི་ ལ་ བཅས་པ་ ཡིན་ ནོ །"
