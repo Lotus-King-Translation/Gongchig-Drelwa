@@ -7619,6 +7619,8 @@ msgstr "Finally, [he] became a buddha."
 msgctxt "c1a19a14bde0459f81e17e84828f62fd"
 msgid "ཆོས་ ཀྱི་ འཁོར་ལོ་ དང་ བཅས་པ་ རྗེས་ འབྲང་ ཁོ་ན་␣འི་ དོན་ མིན་པ་"
 msgstr ""
+"The wheel of dharma and others associated with it are not only for "
+"followers."
 
 msgctxt "c0fed62225da4dd39e24045141c7b36a"
 msgid "མཐའ་ཡས་པ་␣འི་ སེམས་ཅན་ རྣམས་ ཀྱི་ དོན་ དུ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ ། །"
