@@ -7664,7 +7664,7 @@ msgstr "And."
 
 msgctxt "a42f2065300d4e869d6e6f7317d9d413"
 msgid "སྡིག་པ་ ཅི་ཡང་ མི་ བྱ་ ཞིང་ །"
-msgstr ""
+msgstr "Do not engage in any negative action,"
 
 msgctxt "1b8e980eb69d46b5b5073e9b409323ec"
 msgid "སོགས་ སོ་␣༑ །"
