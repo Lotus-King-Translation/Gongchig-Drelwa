@@ -7601,6 +7601,8 @@ msgstr "It is accepted that the other migrators are not associated with it."
 msgctxt "a23d939b67364a558fdcf647f8fda72a"
 msgid "འདི་␣ར་ ནི་ བཅས་ རང་ གཅིག་པ་␣འི་ གནད་ ཀྱིས་ འགྲོ་བ་ སྤྱི་ ལ་ བཅས་ ཏེ །"
 msgstr ""
+"In this [system], because of the essence of being the associated and natural"
+" [wrong-doing] as the same, they are associated with migrators in general."
 
 msgctxt "7691d82e3bbf4ef6946a0bab0e5ecef0"
 msgid "དང་པོ་ ཐུགས་བསྐྱེད་པ །"
