@@ -7648,7 +7648,7 @@ msgstr "And to the sentient beings who are like blind,"
 
 msgctxt "9f64c02d4f3c4891bc68730271df2778"
 msgid "མཚུངས་ མ་ མེད་པ་␣འི་ འོད་ བྱ་␣འོ ། །"
-msgstr ""
+msgstr "[I] will disseminate an unparalleled light to shine."
 
 msgctxt "ddad29aba5aa4cd8b51d57312d9afc5b"
 msgid "ཞེས་ དང༌ །"
