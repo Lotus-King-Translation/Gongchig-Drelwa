@@ -7568,6 +7568,7 @@ msgstr "Well then, if [one] asks, \"Why is it said that there is no fault?\""
 msgctxt "0960e1270db6456fb2636569156aebdf"
 msgid "ཐབས་མཁས་པ་␣ས་ གནས་སྐབས་ སྒྲུབ་ མ་ནུ་␣ས་པ་ ལ་ གསུངས་ ཀྱི །"
 msgstr ""
+"It is stated in skillful means that it is temporarily unable to accomplish."
 
 msgctxt "dc106e3146c647569432a7306a317515"
 msgid "གཏན་ ནས་ ཉེས་མེད་ དུ་ གསུངས་པ་ ནི་ མིན་ ནོ ། །"
