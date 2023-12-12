@@ -7656,7 +7656,7 @@ msgstr "And."
 
 msgctxt "2bd2a2fdd9814c71a782eaef0f29d351"
 msgid "བརྩམས་པ་␣ར་ བྱ་ ཞིང་ དབྱུང་བ་␣ར་ བྱ །"
-msgstr ""
+msgstr "[I] will compose and draw forth."
 
 msgctxt "f404c7e4ac334a2a88ae769e56835fe3"
 msgid "ཞེས་ དང༌ །"
