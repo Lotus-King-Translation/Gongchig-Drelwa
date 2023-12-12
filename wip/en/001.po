@@ -7596,7 +7596,7 @@ msgstr ""
 
 msgctxt "cedf49d865f842d98a6c8ba2fc92b8df"
 msgid "གཞན་ ལ་མ་ བཅས་པ་␣ར་ འདོད་ མོད །"
-msgstr ""
+msgstr "It is accepted that the other migrators are not associated with it."
 
 msgctxt "a23d939b67364a558fdcf647f8fda72a"
 msgid "འདི་␣ར་ ནི་ བཅས་ རང་ གཅིག་པ་␣འི་ གནད་ ཀྱིས་ འགྲོ་བ་ སྤྱི་ ལ་ བཅས་ ཏེ །"
