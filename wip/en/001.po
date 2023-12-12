@@ -7624,7 +7624,7 @@ msgstr ""
 
 msgctxt "c0fed62225da4dd39e24045141c7b36a"
 msgid "མཐའ་ཡས་པ་␣འི་ སེམས་ཅན་ རྣམས་ ཀྱི་ དོན་ དུ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "Because these are also for the sake of infinite sentient beings."
 
 msgctxt "0dd8b9838d384644bf5bde3a280a1b71"
 msgid "དེ་སྐད་ དུའང༌ །  རྒྱ་ རོལ་ ལ་␣ས །"
