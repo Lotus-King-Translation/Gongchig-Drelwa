@@ -7572,7 +7572,7 @@ msgstr ""
 
 msgctxt "dc106e3146c647569432a7306a317515"
 msgid "གཏན་ ནས་ ཉེས་མེད་ དུ་ གསུངས་པ་ ནི་ མིན་ ནོ ། །"
-msgstr ""
+msgstr "But it does not say that there is no fault at all."
 
 msgctxt "fd7f9be532e945ed92eded1600f1023e"
 msgid "གལ་ཏེ་ ཉེས་མེད་ ཡིན་ ན་"
