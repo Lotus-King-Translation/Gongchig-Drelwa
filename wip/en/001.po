@@ -7673,6 +7673,8 @@ msgstr "And so on."
 msgctxt "74a683b7a6bb4fcabccb02f39554fa0f"
 msgid "འོ་ན་ དགེ་སློང་ ལ་ དམིགས་ ཀྱིས་ བསལ་བ་ ཅི་ ཞེ་ན །"
 msgstr ""
+"Well then, if one asks: \"Why is there a special consideration for fully "
+"ordained monks?\""
 
 msgctxt "25f6dbe919734d1a8b53444e18623c62"
 msgid "གཙོ་བོ་␣ར་ བསྟན་པ་ ཡིན་ ཏེ །"
