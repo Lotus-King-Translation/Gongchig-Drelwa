@@ -7636,7 +7636,7 @@ msgstr ""
 
 msgctxt "b70d68e344524083bc40ad99dd73852d"
 msgid "ང་ ནི་ ཝ་ རཱ་ ཎ་ སཱིར །"
-msgstr ""
+msgstr "I am going to Varanasi"
 
 msgctxt "5513355bb20a49d6a2fa41f5316ca3b1"
 msgid "འགྲོ་ གྲོང་ཁྱེར་ གསལ་ལྡན་ སོང་ ནས་ ནི །"
