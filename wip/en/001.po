@@ -7686,7 +7686,7 @@ msgstr "The universal monarch to his people "
 
 msgctxt "cb96c6a5e9ef48ea9d22a8e568e35d9e"
 msgid "དགེ་ བཅུར་ བཀོད་པ་␣འི་ སྔོན་ དུ་"
-msgstr ""
+msgstr "Before placing them to the ten virtues,"
 
 msgctxt "7c7c5acbc6294fe69d9b604697b2405f"
 msgid "རྒྱལ་སྲིད་ སྣ་བོ་ དག་ ལ་ བསྒོ་བ་ བཞིན་ ནོ ། །"
