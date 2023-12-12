@@ -7583,6 +7583,8 @@ msgid ""
 "ཉིན་ གཉིད་ དང་ སྲོད་ དང་ ཐོ་ རང་ ཉལ་བ་ བཀག་པ་␣འང་ ཉེས་མེད་ དུ་ཐལ་ ཏེ་ "
 "མཚུངས་པ་␣འི་ ཕྱིར་ རོ །"
 msgstr ""
+"It absurdly follows that there would be no fault in prohibiting sleep during"
+" the day, dusk, and dawn because it would be the same."
 
 msgctxt "39c6e76553494d9384ee2b56c4c4276d"
 msgid ""
