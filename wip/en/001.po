@@ -7707,7 +7707,7 @@ msgstr "It absurdly follows that [he] would be partial."
 
 msgctxt "db44aad5c09f41a6819a1c2dc7bcea20"
 msgid "དེ་␣འི་ ཕྱིར་ ཆོས་ ཀྱི་ རྒྱལ་པོ་␣ས་ འགྲོ་བ་ སྤྱི་ ལ་ བཅས་པ་ ཡིན་ ནོ །"
-msgstr ""
+msgstr "Therefore, the dharma king is associated with all beings in general."
 
 msgctxt "b466c6b6553a48fc9b03bebf6589961b"
 msgid "རྡོ་␣༽༽་␣བཅས་ རང་ ཐ་དད་ ལ་␣ས་"
