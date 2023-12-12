@@ -7628,7 +7628,7 @@ msgstr "Because these are also for the sake of infinite sentient beings."
 
 msgctxt "0dd8b9838d384644bf5bde3a280a1b71"
 msgid "དེ་སྐད་ དུའང༌ །  རྒྱ་ རོལ་ ལ་␣ས །"
-msgstr ""
+msgstr "It is also expressed in the Lalitavistara sutra as follows:"
 
 msgctxt "9b9b8997a61f4546b2e9e11cc89e1ddb"
 msgid "ཀུན་ ཏུ་ རྒྱུ་ ཉེར་ འཚོ་ ལ །"
