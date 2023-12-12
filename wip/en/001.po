@@ -7694,7 +7694,7 @@ msgstr "Like giving orders to the leaders of the kingdom. "
 
 msgctxt "3845296e4bd14fcbb8e377c571185048"
 msgid "དེ་ལྟར་ ཡིན་ ན་"
-msgstr ""
+msgstr "If it is like that."
 
 msgctxt "b3eda79260fb44359ed0c7fda117ac3e"
 msgid "དེ་བཞིན་ གཤེགས་པ་ དབང་ཕྱུག་ ལྟར་ བྱེད་པོ་ ཐལ་བ་ དང༌ །"
