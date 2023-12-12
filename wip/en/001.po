@@ -7699,6 +7699,7 @@ msgstr "If it is like that."
 msgctxt "b3eda79260fb44359ed0c7fda117ac3e"
 msgid "དེ་བཞིན་ གཤེགས་པ་ དབང་ཕྱུག་ ལྟར་ བྱེད་པོ་ ཐལ་བ་ དང༌ །"
 msgstr ""
+"It absurdly follows that the Tathagata would be a creator like Ishvara. "
 
 msgctxt "914ce8ed39f94c7d922456f88e5d89e2"
 msgid "ཉེ་རིང་ ཅན་ དུ་ཐལ་ ལོ ། །"
