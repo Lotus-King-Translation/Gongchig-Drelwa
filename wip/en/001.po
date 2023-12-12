@@ -7690,7 +7690,7 @@ msgstr "Before placing them to the ten virtues,"
 
 msgctxt "7c7c5acbc6294fe69d9b604697b2405f"
 msgid "རྒྱལ་སྲིད་ སྣ་བོ་ དག་ ལ་ བསྒོ་བ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "Like giving orders to the leaders of the kingdom. "
 
 msgctxt "3845296e4bd14fcbb8e377c571185048"
 msgid "དེ་ལྟར་ ཡིན་ ན་"
