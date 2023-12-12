@@ -7576,7 +7576,7 @@ msgstr "But it does not say that there is no fault at all."
 
 msgctxt "fd7f9be532e945ed92eded1600f1023e"
 msgid "གལ་ཏེ་ ཉེས་མེད་ ཡིན་ ན་"
-msgstr ""
+msgstr "If it is without fault. "
 
 msgctxt "d869ff83b1814353942b2392e75e344f"
 msgid ""
