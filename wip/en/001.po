@@ -7614,7 +7614,7 @@ msgstr "In the middle, he gathered the accumulations."
 
 msgctxt "4a2c1bddf8f04cb0a6f1d10aad9e0cad"
 msgid "མཐ་␣ར་ སངས་རྒྱས་ ཏེ་"
-msgstr ""
+msgstr "Finally, [he] became a buddha."
 
 msgctxt "c1a19a14bde0459f81e17e84828f62fd"
 msgid "ཆོས་ ཀྱི་ འཁོར་ལོ་ དང་ བཅས་པ་ རྗེས་ འབྲང་ ཁོ་ན་␣འི་ དོན་ མིན་པ་"
