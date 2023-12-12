@@ -7644,7 +7644,7 @@ msgstr "To visit the city of Kasi,"
 
 msgctxt "c9a6785bc60b4a87a163016e2c6db7bd"
 msgid "ལོང་བ་ ལྟ་བུ་␣འི་ སེམས་ཅན་ ལ །"
-msgstr ""
+msgstr "And to the sentient beings who are like blind,"
 
 msgctxt "9f64c02d4f3c4891bc68730271df2778"
 msgid "མཚུངས་ མ་ མེད་པ་␣འི་ འོད་ བྱ་␣འོ ། །"
