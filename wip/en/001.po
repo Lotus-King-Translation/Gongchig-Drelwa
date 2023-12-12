@@ -7682,7 +7682,7 @@ msgstr "It is taught as the chief. "
 
 msgctxt "e8694aaf376f4d84b84c350f8746147f"
 msgid "འཁོར་ བསྒྱུར་ གྱིས་ འབངས་ ཐམས་ཅད་"
-msgstr ""
+msgstr "The universal monarch to his people "
 
 msgctxt "cb96c6a5e9ef48ea9d22a8e568e35d9e"
 msgid "དགེ་ བཅུར་ བཀོད་པ་␣འི་ སྔོན་ དུ་"
