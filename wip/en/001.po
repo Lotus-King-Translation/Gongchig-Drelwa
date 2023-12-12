@@ -7591,6 +7591,8 @@ msgid ""
 "རྡོ་␣༽༽  བཅས་པ་ ནི་ རྗེས་ འབྲང་ གི་ སྲས་ དགེ་སློང་ དགེ་བསྙེན་ ཁོ་ན་ ལ་␣ས་ "
 "འགྲོ་བ་"
 msgstr ""
+"Vajra: The associated [wrong-doing] is only in the followers; sons, fully "
+"ordained monks, or lay vow holders."
 
 msgctxt "cedf49d865f842d98a6c8ba2fc92b8df"
 msgid "གཞན་ ལ་མ་ བཅས་པ་␣ར་ འདོད་ མོད །"
