@@ -7668,7 +7668,7 @@ msgstr "Do not engage in any negative action,"
 
 msgctxt "1b8e980eb69d46b5b5073e9b409323ec"
 msgid "སོགས་ སོ་␣༑ །"
-msgstr ""
+msgstr "And so on."
 
 msgctxt "74a683b7a6bb4fcabccb02f39554fa0f"
 msgid "འོ་ན་ དགེ་སློང་ ལ་ དམིགས་ ཀྱིས་ བསལ་བ་ ཅི་ ཞེ་ན །"
