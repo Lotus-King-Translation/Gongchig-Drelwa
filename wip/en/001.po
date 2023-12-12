@@ -7678,7 +7678,7 @@ msgstr ""
 
 msgctxt "25f6dbe919734d1a8b53444e18623c62"
 msgid "གཙོ་བོ་␣ར་ བསྟན་པ་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "It is taught as the chief. "
 
 msgctxt "e8694aaf376f4d84b84c350f8746147f"
 msgid "འཁོར་ བསྒྱུར་ གྱིས་ འབངས་ ཐམས་ཅད་"
