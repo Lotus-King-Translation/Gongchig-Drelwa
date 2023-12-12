@@ -7610,7 +7610,7 @@ msgstr "First, [Buddha] developed the mind."
 
 msgctxt "5781665824ad4411995b991bcde42cce"
 msgid "བར་ དུ་ ཚོགས་ བསགས་པ །"
-msgstr ""
+msgstr "In the middle, he gathered the accumulations."
 
 msgctxt "4a2c1bddf8f04cb0a6f1d10aad9e0cad"
 msgid "མཐ་␣ར་ སངས་རྒྱས་ ཏེ་"
