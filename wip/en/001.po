@@ -7737,7 +7737,7 @@ msgstr "In this [system], any migrator who goes beyond it."
 
 msgctxt "3fee927366374e618019278073e54557"
 msgid "ཉེས་པ་ དང་ བཅས་པ་␣ར་ འགྱུར་ ལ་"
-msgstr ""
+msgstr "[They] will become associated with the faults."
 
 msgctxt "0da2cac9f85f4263be03b332b43351f9"
 msgid "དེ་ རྣམས་ ཀྱིས་ བསྲུང་བ་␣འི་ ཕན་ཡོན་ ཡང་ ནི་ ཀུན་ ལ་ འབྱུང་ སྟེ་"
