@@ -7746,6 +7746,8 @@ msgstr "The benefits of their protection also occur to everyone."
 msgctxt "4a87b9e3f6df45fd8e8f4cf6ca7c8646"
 msgid "བཅས་ རང་ དང་ སྡིག་ལྟུང་ ཐ་དད་ མེད་པ་ དང་"
 msgstr ""
+"The associated as well as the natural [wrong-doing] and the degrading acts "
+"as well as downfalls are not distinct."
 
 msgctxt "7bcf319b65d94d8a9ea37261b47f6d22"
 msgid ""
