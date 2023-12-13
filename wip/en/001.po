@@ -7803,7 +7803,7 @@ msgstr ""
 
 msgctxt "52d4105e51b54258a1f86b436e3d46e5"
 msgid "སུམ་ཅུ་རྩ་གསུམ་ དུ་ སྐྱེས་པ་␣ར་ གསུངས་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "[They] will be reborn in the [heaven] of the thirty-three as said."
 
 msgctxt "4fa7b6e763714652a19507cd2bf02058"
 msgid "དམིགས་བསལ་ མེད་པ་ ནི་ སྤྱི་ ལ་ བཅས་ ཀྱང་"
