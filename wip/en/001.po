@@ -7725,7 +7725,7 @@ msgstr ""
 
 msgctxt "53e4638957074344bb72f62d00e6138f"
 msgid "འདས་པ་␣འི་ ཉེས་དམིགས་ ཀྱང་ རབ་བྱུང་ ལ་ ཡིན་ གྱི་"
-msgstr "The faults of the past are also to monks,"
+msgstr "The faults of going beyond apply to monks,"
 
 msgctxt "d3d499bde447460f994f03b80a2f235a"
 msgid "འགྲོ་བ་ གཞན་ ལ་ མི་ འབྱུང་ ངོ་ ཞེས་ སྨྲ་བ་␣ར་ བྱེད་ དོ །"
