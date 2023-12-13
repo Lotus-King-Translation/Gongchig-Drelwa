@@ -7772,7 +7772,7 @@ msgstr ""
 
 msgctxt "6c7cf8cbb3af4b719c2dfa93e97e7653"
 msgid "ཕྱིས་ ཉེས་པ་ དུ་མ་ བསྐྱེད་པ་ དང་ །"
-msgstr ""
+msgstr "Later, many faults will be produced."
 
 msgctxt "d4f19b1e42f24470970a7aa55eeec38e"
 msgid "ཕྱི་རོལ་པ་␣འི་ དྲང་སྲོང་ ལྔ་ བརྒྱ་␣ས་"
