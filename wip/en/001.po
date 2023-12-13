@@ -7764,7 +7764,7 @@ msgstr ""
 
 msgctxt "8eba08cc38f84bca8f7d861712b97571"
 msgid "དབྱེ་ ན་ གཞི་ ལ་␣ས །"
-msgstr ""
+msgstr "The classification from the ground"
 
 msgctxt "84367314076d4a3fa4c393c1004ca061"
 msgid "བསྐལ་པ་ དང་པོ་␣འི་ མི་␣ས་ ས་ལུ་ སོགས་ འཇོག་ བྱས་པ་␣ས་"
