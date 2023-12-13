@@ -7733,7 +7733,7 @@ msgstr "But they will not occur to other migrators as [they] said."
 
 msgctxt "70f7a09066b24bba93da94ca6fcaf5af"
 msgid "འདི་␣ར་ ནི་ འགྲོ་བ་ གང་ གིས་ འདས་ ཀྱང་"
-msgstr ""
+msgstr "In this [system], any migrator who goes beyond it"
 
 msgctxt "3fee927366374e618019278073e54557"
 msgid "ཉེས་པ་ དང་ བཅས་པ་␣ར་ འགྱུར་ ལ་"
