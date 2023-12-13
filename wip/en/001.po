@@ -7729,7 +7729,7 @@ msgstr "The faults of the past are also to monks,"
 
 msgctxt "d3d499bde447460f994f03b80a2f235a"
 msgid "འགྲོ་བ་ གཞན་ ལ་ མི་ འབྱུང་ ངོ་ ཞེས་ སྨྲ་བ་␣ར་ བྱེད་ དོ །"
-msgstr ""
+msgstr "But they will not occur to other migrators as [they] said."
 
 msgctxt "70f7a09066b24bba93da94ca6fcaf5af"
 msgid "འདི་␣ར་ ནི་ འགྲོ་བ་ གང་ གིས་ འདས་ ཀྱང་"
