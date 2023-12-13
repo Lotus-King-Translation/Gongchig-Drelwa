@@ -7754,6 +7754,8 @@ msgid ""
 "འགྲོ་བ་ སྤྱི་ ལ་ བཅས་པ་ དང་ རྒྱུ་འབྲས་ ཀྱི་ རྟེན་འབྲེལ་ མི་ བསླུ་བ་␣འི་ "
 "ཕྱིར་"
 msgstr ""
+"[They] are associated with migrators in general and the dependent relation "
+"of cause and effect is undeceiving."
 
 msgctxt "488d5f2fddf8479b82e02d1c08518379"
 msgid "སྐྱོན་ཡོན་ འབྱུང་བ་ འཇིག་རྟེན་ གཞག་པ་ དང༌ །"
