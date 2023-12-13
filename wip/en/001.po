@@ -7820,7 +7820,7 @@ msgstr ""
 
 msgctxt "76a56ecb19c6453eb81074fd8e8cc2ef"
 msgid "རྡོ་␣༽༽་␣བཅས་ རང་ གཅིག་པ་␣ས་ དང༌ །"
-msgstr ""
+msgstr "Vajra: The associated and natural [wrong-doings] are the same and "
 
 msgctxt "64a365fb328d490a83f34e27f1d784af"
 msgid "ཆོ་ག་ མེད་ ཀྱང་ སྲུང་བ་␣ས་ ཆོག་ སྙམ་པ་␣འམ །"
