@@ -7807,7 +7807,7 @@ msgstr "[They] will be reborn in the [heaven] of the thirty-three as said."
 
 msgctxt "4fa7b6e763714652a19507cd2bf02058"
 msgid "དམིགས་བསལ་ མེད་པ་ ནི་ སྤྱི་ ལ་ བཅས་ ཀྱང་"
-msgstr ""
+msgstr "Though there are no exceptions in general."
 
 msgctxt "36e75515129840b18f8acde6df8c5195"
 msgid "གཙོ་བོ་␣འི་ མིང་ ནས་ སྨྲོས་པ་ ལྟ་བུ་␣འོ ། །"
