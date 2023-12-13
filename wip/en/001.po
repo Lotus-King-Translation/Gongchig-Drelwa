@@ -7785,6 +7785,8 @@ msgstr "By holding animal skin and other articles"
 msgctxt "343c75a619734803a16debe18f9c7da6"
 msgid "མངོན་ཤེས་ ཐོབ་པ་ ལ་ སྒྲིབ་པ་␣ར་ གསུངས་པ་ བཞིན་ ནོ ། །"
 msgstr ""
+"This is similar to the statement that it will obscure the attainment of the "
+"higher perception."
 
 msgctxt "d9420756135b45eda48779003de770fa"
 msgid "ཕན་ཡོན་ ཡང་ ཀཱ་ ཤི་␣འི་ ནགས་ ཀྱི་ སེམས་ཅན་ ཆེན་པོ་ བཞི་␣ས་"
