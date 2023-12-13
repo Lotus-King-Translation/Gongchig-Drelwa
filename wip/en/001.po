@@ -7799,6 +7799,7 @@ msgstr "Protecting the firm discipline."
 msgctxt "3b78498d7ea44f62855abc09ef256857"
 msgid "གཞན་ ཡང་ བཀོད་པ་␣འི་ ཕན་ཡོན་ གྱིས་ ཚེ་ འཕོས་ ཚད་"
 msgstr ""
+"Besides, the benefits of being arranged include all of life's transferences."
 
 msgctxt "52d4105e51b54258a1f86b436e3d46e5"
 msgid "སུམ་ཅུ་རྩ་གསུམ་ དུ་ སྐྱེས་པ་␣ར་ གསུངས་ བཞིན་ ནོ ། །"
