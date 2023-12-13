@@ -7760,6 +7760,7 @@ msgstr ""
 msgctxt "488d5f2fddf8479b82e02d1c08518379"
 msgid "སྐྱོན་ཡོན་ འབྱུང་བ་ འཇིག་རྟེན་ གཞག་པ་ དང༌ །"
 msgstr ""
+"The occurrence of faults and good qualities are worldly established and"
 
 msgctxt "8eba08cc38f84bca8f7d861712b97571"
 msgid "དབྱེ་ ན་ གཞི་ ལ་␣ས །"
