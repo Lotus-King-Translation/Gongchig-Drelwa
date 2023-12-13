@@ -7716,7 +7716,7 @@ msgstr ""
 
 msgctxt "3d241e2c2f3d4ebb9d2756de552a93a9"
 msgid "རབ་བྱུང་ གིས་ བསྲུང་ ན་ ཕན་ཡོན་ འབྱུང་ ལ་"
-msgstr "Benefits accrue when monks protect them."
+msgstr "Benefits occur when monks protect them."
 
 msgctxt "4674ce5220594be8bbe6b5b8d3d26306"
 msgid "གཞན་ གྱིས་ བསྲུངས་ ཀྱང་ ཕན་ཡོན་ མི་ འབྱུང་ ངོ་ ཞེས་པ་ དང༌ །"
