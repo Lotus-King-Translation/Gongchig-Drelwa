@@ -7790,7 +7790,7 @@ msgstr ""
 
 msgctxt "d9420756135b45eda48779003de770fa"
 msgid "ཕན་ཡོན་ ཡང་ ཀཱ་ ཤི་␣འི་ ནགས་ ཀྱི་ སེམས་ཅན་ ཆེན་པོ་ བཞི་␣ས་"
-msgstr ""
+msgstr "The benefits are as the four great animals of the Kasi forest"
 
 msgctxt "ce60def30bef44488acb5b1f27160a92"
 msgid "གཏན་ཁྲིམས་ བསྲུངས་ ཤིང་"
