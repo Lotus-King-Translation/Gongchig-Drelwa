@@ -7776,7 +7776,7 @@ msgstr "Later, many faults will be produced."
 
 msgctxt "d4f19b1e42f24470970a7aa55eeec38e"
 msgid "ཕྱི་རོལ་པ་␣འི་ དྲང་སྲོང་ ལྔ་ བརྒྱ་␣ས་"
-msgstr ""
+msgstr "The five hundred non-buddhist rishis"
 
 msgctxt "064e9d4d0ac5407da16caec9b7e7d3dc"
 msgid "གཡང་གཞི་ སོགས་ ཡོ་བྱད་ ལྷག་པོ་ བཅངས་པ་␣ས་"
