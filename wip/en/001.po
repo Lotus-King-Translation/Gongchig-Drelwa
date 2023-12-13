@@ -7741,7 +7741,7 @@ msgstr "[They] will become associated with the faults."
 
 msgctxt "0da2cac9f85f4263be03b332b43351f9"
 msgid "དེ་ རྣམས་ ཀྱིས་ བསྲུང་བ་␣འི་ ཕན་ཡོན་ ཡང་ ནི་ ཀུན་ ལ་ འབྱུང་ སྟེ་"
-msgstr ""
+msgstr "The benefits of their protection also occur to everyone."
 
 msgctxt "4a87b9e3f6df45fd8e8f4cf6ca7c8646"
 msgid "བཅས་ རང་ དང་ སྡིག་ལྟུང་ ཐ་དད་ མེད་པ་ དང་"
