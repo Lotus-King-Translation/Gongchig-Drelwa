@@ -7874,7 +7874,7 @@ msgstr ""
 
 msgctxt "54234401f6884a0e8b7390ba6f689da6"
 msgid "ཁྲེལ་ཡོད་ ངོ་ཚ་ ཤེས་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "[One] will have a sense of shame and modesty."
 
 msgctxt "e93bfd1c8215456d9aa73497f413fa43"
 msgid "གསོལ་ གཞི་␣འི་ ལ་␣ས་ ཀྱི་ གང་ཟག་ ལ་ བརྟེན་ ནས་ ལེན་པ་ ཟབ་བོ ། །"
