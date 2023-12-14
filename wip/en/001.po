@@ -6152,7 +6152,7 @@ msgstr "Since such and such has been said."
 
 msgctxt "1ed6065ca62c4813808f4357223160ca"
 msgid "དེ་ཕྱིར་ ལུང་ རྣམ་འབྱེད་ ལ་␣ས །"
-msgstr "Therefore, the scriptural transmission of full analysis says:"
+msgstr "Therefore, the full analytical scripture says:"
 
 msgctxt "d4364e599bf34ff3a894601ba2f05627"
 msgid "ཇི་ལྟར་ འདི་ ན་ ཤིང་རྩ་ གཙོ་བོ་ སྟེ ། །"
