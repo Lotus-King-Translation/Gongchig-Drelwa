@@ -7832,7 +7832,7 @@ msgstr "By promising your vows in front of a statue [of the Buddha] "
 
 msgctxt "44904c37be3b48a99476807a732738f8"
 msgid "ཐོབ་པ་␣ར་ འདོད་པ་␣འང་ བྱུང་ སྐད །"
-msgstr ""
+msgstr "It is said that the wish to attain it also occurs."
 
 msgctxt "e52c0e97b78248949a25677c9c0babe1"
 msgid "འདི་␣ར་ བསྟན་པ་␣ར་ འཇུག་པ་ ལ་ ཆོ་ག་ ལྷག་པར་ གལ་ཆེ་ སྟེ །"
