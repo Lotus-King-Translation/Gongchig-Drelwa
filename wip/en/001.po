@@ -7863,6 +7863,8 @@ msgstr "By seeing the stages of the practical instruction that are permitted."
 msgctxt "c7adbbe633ad41b8b8a4522c3c894567"
 msgid "བྱ་བ་ དང་ བྱ་བ་ མ་ཡིན་པ་ ལ་ མཁས་པ་␣ར་ འགྱུར་བ་␣འི་ ཕྱིར་ དང༌ །"
 msgstr ""
+"This is because [one] will become an expert in distinguishing between what "
+"to do and what not to do."
 
 msgctxt "19feb8bd4c3746438065e1a6f16cb868"
 msgid "མཁན་སློབ་ དགེ་འདུན་ རྣམས་ ཀྱི་ མདུན་ དུ་ བླངས་པ་␣ས་"
