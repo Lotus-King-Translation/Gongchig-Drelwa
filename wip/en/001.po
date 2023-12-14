@@ -2333,7 +2333,7 @@ msgstr ""
 
 msgctxt "245610526ac74879a343f5939407de58"
 msgid "འདུལ་བ་ ལུང་ ལ་␣ས་"
-msgstr "According to the Vinaya scriptural transmission:"
+msgstr "According to the Vinaya scripture:"
 
 msgctxt "d1d3d772b7024764967de793c8d6a963"
 msgid ""
