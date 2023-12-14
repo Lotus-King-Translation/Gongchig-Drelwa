@@ -7853,6 +7853,8 @@ msgid ""
 "བསྙེན་བཀུར་ དང་ ཕྱག་རྟེན་ ཕུལ་བ་␣ས་ བསོད་ནམས་ ཀྱི་ ཚོགས་ རྫོགས་པ་␣འི་ ཕྱིར་ "
 "དང༌ །"
 msgstr ""
+"By offering symbolic gifts and reverence, the accumulation of merit is "
+"completed."
 
 msgctxt "7443f170e45843a1968d37077aee78bc"
 msgid "ལས་ཆོག་ ཕྱག་བཞེས་ ཀྱི་ རིམ་པ་ མཐོང་བ་␣ས་"
