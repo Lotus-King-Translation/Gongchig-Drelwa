@@ -7336,7 +7336,7 @@ msgstr "It engages and falls in the training of negation and assertion."
 
 msgctxt "304c880fec8e4310b3d5860b5509d6dc"
 msgid "ལུང་ ལ་␣ས །"
-msgstr "According to the scriptural transmission:"
+msgstr "According to the scripture:"
 
 msgctxt "12dd502700684255827198bc54ce0cb0"
 msgid "ཇི་ལྟར་ འདི་ ན་ ཤིང་རྩ་ གཙོ་བོ་ སྟེ ། །"
