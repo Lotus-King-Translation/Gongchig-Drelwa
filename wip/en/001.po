@@ -7879,6 +7879,8 @@ msgstr "[One] will have a sense of shame and modesty."
 msgctxt "e93bfd1c8215456d9aa73497f413fa43"
 msgid "གསོལ་ གཞི་␣འི་ ལ་␣ས་ ཀྱི་ གང་ཟག་ ལ་ བརྟེན་ ནས་ ལེན་པ་ ཟབ་བོ ། །"
 msgstr ""
+"It is profound to take [the vows] in dependence upon  persons with the karma"
+" of supplication."
 
 msgctxt "3aaa167f8bd247b8beaf9ca250df1002"
 msgid "དེ་སྐད་ དུའང་ ལུང་ ལ་␣ས །"
