@@ -7869,6 +7869,8 @@ msgstr ""
 msgctxt "19feb8bd4c3746438065e1a6f16cb868"
 msgid "མཁན་སློབ་ དགེ་འདུན་ རྣམས་ ཀྱི་ མདུན་ དུ་ བླངས་པ་␣ས་"
 msgstr ""
+"By taking [the vows] in front of the abbot, master, and the assembly of "
+"monks."
 
 msgctxt "54234401f6884a0e8b7390ba6f689da6"
 msgid "ཁྲེལ་ཡོད་ ངོ་ཚ་ ཤེས་པ་␣འི་ ཕྱིར །"
