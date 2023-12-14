@@ -7824,7 +7824,7 @@ msgstr "Vajra: The associated and natural [wrong-doings] are the same and "
 
 msgctxt "64a365fb328d490a83f34e27f1d784af"
 msgid "ཆོ་ག་ མེད་ ཀྱང་ སྲུང་བ་␣ས་ ཆོག་ སྙམ་པ་␣འམ །"
-msgstr ""
+msgstr "Also thinking that protecting [the vows] without ritual is permitted."
 
 msgctxt "22783064a58341409576d3776e5e2eeb"
 msgid "རྟེན་ གྱི་ མདུན་ དུ་ རང་ གི་ དམ་བཅ་␣ས་པ་␣ས་"
