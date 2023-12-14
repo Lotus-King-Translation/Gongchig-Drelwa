@@ -7858,7 +7858,7 @@ msgstr ""
 
 msgctxt "7443f170e45843a1968d37077aee78bc"
 msgid "ལས་ཆོག་ ཕྱག་བཞེས་ ཀྱི་ རིམ་པ་ མཐོང་བ་␣ས་"
-msgstr ""
+msgstr "By seeing the stages of the practical instruction that are permitted."
 
 msgctxt "c7adbbe633ad41b8b8a4522c3c894567"
 msgid "བྱ་བ་ དང་ བྱ་བ་ མ་ཡིན་པ་ ལ་ མཁས་པ་␣ར་ འགྱུར་བ་␣འི་ ཕྱིར་ དང༌ །"
