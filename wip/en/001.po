@@ -7391,7 +7391,7 @@ msgstr ""
 
 msgctxt "f18d47ece77c4194879dcc5a6ca8ae48"
 msgid "ལུང་ རྣམ་ འབྱེདལས །"
-msgstr "According to the scriptural transmission of full analysis:"
+msgstr "According to the full analytical scripture:"
 
 msgctxt "c602a7b5ce924a9daabaa7325ab508c2"
 msgid "ལྟུང་བ་ ལྟུང་བ་ ཞེས་ བྱ་བ་"
