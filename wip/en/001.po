@@ -7842,7 +7842,7 @@ msgstr ""
 
 msgctxt "dd8259f433de4a5581f53b8dd468487b"
 msgid "ཆོ་ག་ བསྟན་པ་␣འི་ དངོས་གཞི་ ཡིན་པ་␣ས་"
-msgstr "Ritual is the main body of the teachings, "
+msgstr "Ritual is the main part of the teachings, "
 
 msgctxt "e552887b9fb64818917354f4573bdad3"
 msgid "དེ་ ཡོད་ ན་ བསྟན་པ་ གནས་པ་␣འི་ ཕྱིར་ དང༌ །"
