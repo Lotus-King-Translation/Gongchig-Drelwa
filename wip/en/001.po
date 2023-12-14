@@ -7881,7 +7881,7 @@ msgstr ""
 
 msgctxt "3aaa167f8bd247b8beaf9ca250df1002"
 msgid "དེ་སྐད་ དུའང་ ལུང་ ལ་␣ས །"
-msgstr ""
+msgstr "In the scripture, it says:"
 
 msgctxt "d1a9178286fe46a7a0f5720f8574fe58"
 msgid "བཅོམ་ལྡན་ ཡོངས་སུ་ མྱ་ངན་ ལ་␣ས་ འདས་ ནས་"
