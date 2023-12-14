@@ -7828,7 +7828,7 @@ msgstr "Also thinking that protecting [the vows] without ritual is permitted."
 
 msgctxt "22783064a58341409576d3776e5e2eeb"
 msgid "རྟེན་ གྱི་ མདུན་ དུ་ རང་ གི་ དམ་བཅ་␣ས་པ་␣ས་"
-msgstr ""
+msgstr "By promising your vows in front of a statue [of the Buddha] "
 
 msgctxt "44904c37be3b48a99476807a732738f8"
 msgid "ཐོབ་པ་␣ར་ འདོད་པ་␣འང་ བྱུང་ སྐད །"
