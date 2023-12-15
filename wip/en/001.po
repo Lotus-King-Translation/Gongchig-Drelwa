@@ -8004,7 +8004,7 @@ msgstr ""
 
 msgctxt "bfe5e77fa9124c94a31c27ec6c2dfae5"
 msgid "འབྲས་བུ་ ངན་སོང་ ལས་མི་ འདའ་བ་␣འི་ ཕྱིར་ རོ །"
-msgstr ""
+msgstr "Therefore, one will not go beyond the result of the bad migrations."
 
 msgctxt "e5cb26a13c704ee9bbbb53571563577f"
 msgid ""
