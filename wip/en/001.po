@@ -7906,7 +7906,7 @@ msgstr "After my final nirvana"
 
 msgctxt "7c1038e815b24e5da4160ed8ea72ac2f"
 msgid "ཆོ་ག་ ཕུན་སུམ་ ཚོགས་པ་ བརྟེན་པ་␣ར་ བྱ་␣འོ ། །"
-msgstr ""
+msgstr "[You] should rely on the perfect ritual ceremony."
 
 msgctxt "99bd5a189f744dbc920ceeef518a1253"
 msgid "ཞེས་ དང༌ །"
