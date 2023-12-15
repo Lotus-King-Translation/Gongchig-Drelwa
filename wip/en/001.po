@@ -7974,7 +7974,7 @@ msgstr "All of this [occurs from] ignorance and so on."
 
 msgctxt "3ec6d4e57cf94909ba6c6d65bd3e8f81"
 msgid "ཉེ་བར་ འཁོར་ གྱིས་ ཞུས་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "From Upali's questions to [Buddha]:"
 
 msgctxt "59956e2430694731a66ca7841341122f"
 msgid "འདོད་ཆགས་ ནི་ ཉེས་པ་ ཆུང་ ལ་ འབྲལ་ དཀའ །"
