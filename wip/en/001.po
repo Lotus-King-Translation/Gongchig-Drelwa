@@ -8049,7 +8049,7 @@ msgstr ""
 
 msgctxt "c57e589ab3354c1493fd98a99baaa9e7"
 msgid "དགེ་བ་␣འི་ བསམ་པ་ སྐྱེས་ ཏེ་"
-msgstr ""
+msgstr "Because [they] will be born with virtuous thoughts."
 
 msgctxt "6c1bb204dd0d4069a9e9236822a77563"
 msgid "ཚེ་ འཕོས་པ་ མང་ དུ་ འབྱུང་བ་␣འི་ ཕྱིར་ རོ ། །"
