@@ -8028,7 +8028,7 @@ msgstr "It follows that it is the lowest of all."
 
 msgctxt "9a7250a5aa2b4346abee4b4a11a1eaa6"
 msgid "དེ་␣འི་ དོན་ ནི་"
-msgstr ""
+msgstr "The meaning of this is that"
 
 msgctxt "4a3f544a240a49f9a60789a9a386e9a6"
 msgid "དམྱལ་བ་ དང་ ཡི་དྭགས་ སུ་ གནས་སྐབས་ སྡུག་བསྔལ་ ཆེ་ ཡང་"
