@@ -7886,7 +7886,7 @@ msgstr "In the scripture, it says:"
 
 msgctxt "d1a9178286fe46a7a0f5720f8574fe58"
 msgid "བཅོམ་ལྡན་ ཡོངས་སུ་ མྱ་ངན་ ལ་␣ས་ འདས་ ནས་"
-msgstr "After the Blessed One's final nirvana."
+msgstr "After the Blessed One has passed into the final nirvana."
 
 msgctxt "99acc654b2f346c18b5d054f41f11d33"
 msgid "སྟོན་པ་ གང་ ལ་ བགྱི་ ཞུས་པ་␣ས །"
