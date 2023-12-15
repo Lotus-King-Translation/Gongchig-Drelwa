@@ -7934,7 +7934,7 @@ msgstr ""
 
 msgctxt "5d9f04cf3d7c4626b44a752c4a55ec5e"
 msgid "འདི་␣ར་ ནི་ མི་ ཤེས་པ་ གཏི་མུག་ དེ་ ཉེས་པ་ གཞན་ ལ་␣ས་ ལྕི་ སྟེ །"
-msgstr ""
+msgstr "In this system, unknowing ignorance is heavier than all other faults."
 
 msgctxt "101cedab8d7e45229c7ca5faab660afc"
 msgid "རྣམ་འགྲེལ་ ལ་␣ས །"
