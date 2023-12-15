@@ -7929,6 +7929,8 @@ msgid ""
 "རྡོ་␣༽༽  དུག་ གསུམ་ ལ་␣ས་ འདོད་ཆགས་ དང་ ལྷག་པར་ ཞེ་སྡང་ ཉེས་པ་ ཆེ་བ་␣ར་ "
 "གསུངས་ མོད །"
 msgstr ""
+"Vajra: It is said that among the three poisons, attachment and anger are the"
+" greater faults."
 
 msgctxt "5d9f04cf3d7c4626b44a752c4a55ec5e"
 msgid "འདི་␣ར་ ནི་ མི་ ཤེས་པ་ གཏི་མུག་ དེ་ ཉེས་པ་ གཞན་ ལ་␣ས་ ལྕི་ སྟེ །"
