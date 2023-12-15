@@ -7958,7 +7958,7 @@ msgstr "All faults would occur."
 
 msgctxt "1cee52a6f66946e49a88ced35b9b0253"
 msgid "ཅེས་ དང་ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "987c7e5b7f384f88b2136804efeb2f8d"
 msgid "སྡུད་པ་ ལ་␣ས །"
