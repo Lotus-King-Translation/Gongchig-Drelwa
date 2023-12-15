@@ -8057,7 +8057,7 @@ msgstr "There are many [beings] who have died. "
 
 msgctxt "2d5643cc0784457e90498f7aec6fb558"
 msgid "དུད་འགྲོ་ ནི་ རྨོངས་ ཤིང་ བླུན་པ་ གཏི་མུག་པ་␣ས་"
-msgstr ""
+msgstr "Because the animals are ignorant, foolish, and deluded. "
 
 msgctxt "dc20cb3482054fd59d5f115c1aa5984b"
 msgid "དེ་ འདྲ་ གང་ཡང་ མི་ འབྱུང་ ཞིང་"
