@@ -7999,6 +7999,8 @@ msgstr "If this exists, the meaning of selflessness will not be realized."
 msgctxt "15b3614365d34d909900e7af5c96120d"
 msgid "དེ་ མ་ རྟོགས་ ན་ རྒྱུ་འབྲས་ ཀྱི་ རྟེན་འབྲེལ་ སྤང་བླང་ མི་ ཤེས་ ཤིང་"
 msgstr ""
+"Without this realization, one will not know what to abandon and adopt in the"
+" interdependence of cause and effect."
 
 msgctxt "bfe5e77fa9124c94a31c27ec6c2dfae5"
 msgid "འབྲས་བུ་ ངན་སོང་ ལས་མི་ འདའ་བ་␣འི་ ཕྱིར་ རོ །"
