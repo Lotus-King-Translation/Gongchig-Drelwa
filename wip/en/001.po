@@ -8024,7 +8024,7 @@ msgstr "Because it has a great delusion."
 
 msgctxt "a67b6f0f7669410a931e8cd3b1758f9f"
 msgid "ཁྱོད་ ཀུན་ ལ་␣ས་ དམན་པ་ ཡིན་པ་␣ར་ ཐལ་ ལོ །"
-msgstr ""
+msgstr "It follows that it is the lowest of all."
 
 msgctxt "9a7250a5aa2b4346abee4b4a11a1eaa6"
 msgid "དེ་␣འི་ དོན་ ནི་"
