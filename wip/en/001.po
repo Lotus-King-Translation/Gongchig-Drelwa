@@ -8016,7 +8016,7 @@ msgstr ""
 
 msgctxt "aa42771d16b84f1ab9ec2f249801edb8"
 msgid "འདི་␣ར་ ནི་ དུད་འགྲོ་ ཆོས་ཅན་"
-msgstr ""
+msgstr "In this [sysem], take the subject animal."
 
 msgctxt "ac7dafc242084da69b5664a84a75487d"
 msgid "ཁྱོད་ གཏི་མུག་ ཆེ་བ་␣འི་ ཕྱིར་"
