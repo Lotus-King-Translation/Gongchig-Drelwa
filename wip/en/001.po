@@ -7914,7 +7914,7 @@ msgstr "And"
 
 msgctxt "bf94e90457db4a8a86a35e32c27378f0"
 msgid "ང་ ནི་ མྱ་ངན་ འདས་ གྱུར་ ན །"
-msgstr ""
+msgstr "After I have passed into nirvana."
 
 msgctxt "cd8ba587261b4411a6e08281410fcc44"
 msgid "འདི་ ནི་ ཁྱེད་ ཀྱི་ སྟོན་པ་␣འོ །"
