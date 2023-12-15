@@ -7894,7 +7894,7 @@ msgstr "\"Who will be the teacher?\" [he] was asked."
 
 msgctxt "b896c00e14484e6481388b82bceb7241"
 msgid "སྟོན་པ་ སོ་སོ་␣ར་ ཐར་པ་ ལ་ གྱིས་ ཤིག  །"
-msgstr ""
+msgstr "Make individual emancipation [your] teacher."
 
 msgctxt "c542a65d781d453cb45911b6c30c4f4c"
 msgid "ཅེས་པ་ དང་ །"
