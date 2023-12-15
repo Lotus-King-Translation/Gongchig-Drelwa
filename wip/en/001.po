@@ -8044,6 +8044,8 @@ msgstr ""
 msgctxt "e2fde8b9b4c14a33906c163ec21e911f"
 msgid "གང་ ལ་ སྐྱེས །  རྒྱུ་ གང་ གིས་ སྐྱེས །  ཇི་ལྟར་ སྐྱེས་པ་ ཤེས་པ་␣ས་"
 msgstr ""
+"Knowing where [they] will be born, what causes will cause [their] birth, and"
+" how [they] will be born."
 
 msgctxt "c57e589ab3354c1493fd98a99baaa9e7"
 msgid "དགེ་བ་␣འི་ བསམ་པ་ སྐྱེས་ ཏེ་"
