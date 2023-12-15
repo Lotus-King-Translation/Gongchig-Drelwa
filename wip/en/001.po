@@ -8061,7 +8061,7 @@ msgstr "Because the animals are ignorant, foolish, and deluded. "
 
 msgctxt "dc20cb3482054fd59d5f115c1aa5984b"
 msgid "དེ་ འདྲ་ གང་ཡང་ མི་ འབྱུང་ ཞིང་"
-msgstr ""
+msgstr "None of this would occur."
 
 msgctxt "f49e593eae5b47b8af9404f38af5b5e4"
 msgid ""
