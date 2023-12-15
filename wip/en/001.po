@@ -7942,7 +7942,7 @@ msgstr "According to the Full Commentary to [the Compendium of Pramana]:"
 
 msgctxt "817b292f799e4449b15578f80b8dd6f1"
 msgid "བདག་ ཡོད་ ན་ ནི་ གཞན་ དུ་ ཤེས །"
-msgstr ""
+msgstr "When there is self, there is also the concept of other."
 
 msgctxt "1d7c4901849440aebeb0a1850025c176"
 msgid "བདག་གཞན་ ཆ་ ལ་␣ས་ འཇིག་ དང་ སྡང༌ །"
