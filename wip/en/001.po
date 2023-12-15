@@ -7890,7 +7890,7 @@ msgstr "After the Blessed One has passed into the final nirvana."
 
 msgctxt "99acc654b2f346c18b5d054f41f11d33"
 msgid "སྟོན་པ་ གང་ ལ་ བགྱི་ ཞུས་པ་␣ས །"
-msgstr ""
+msgstr "\"Who will be the teacher?\" [he] was asked."
 
 msgctxt "b896c00e14484e6481388b82bceb7241"
 msgid "སྟོན་པ་ སོ་སོ་␣ར་ ཐར་པ་ ལ་ གྱིས་ ཤིག  །"
