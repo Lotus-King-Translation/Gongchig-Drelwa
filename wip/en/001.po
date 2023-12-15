@@ -7946,7 +7946,7 @@ msgstr "When there is self, there is also a sense of other."
 
 msgctxt "1d7c4901849440aebeb0a1850025c176"
 msgid "བདག་གཞན་ ཆ་ ལ་␣ས་ འཇིག་ དང་ སྡང༌ །"
-msgstr ""
+msgstr "From the aspects of self and other, come grasping and aversion."
 
 msgctxt "99e6cee6b95047c485db696c30661f9b"
 msgid "དེ་ གཉིས་ དག་ དང་ ཡོད་ འབྲེལ་ ལ་␣ས ། །"
