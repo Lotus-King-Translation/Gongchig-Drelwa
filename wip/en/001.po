@@ -7966,7 +7966,7 @@ msgstr "According to the Condensed [Prajnaparamita In Verse]:"
 
 msgctxt "e8b582e8d4814b1aaaedc7ec1ef20c5a"
 msgid "སེམས་ཅན་ ཐ་མ་ འབྲིང་ དང་ མཆོག་གྱུར་ ཇི་སྙེད་པ ། །"
-msgstr ""
+msgstr "All sentient beings, whether inferior, intermediate, or superior."
 
 msgctxt "ac609cdc60b64370828f886441543f51"
 msgid "དེ་ ཀུན་ མ་རིག་ སོགས་ དང༌ །"
