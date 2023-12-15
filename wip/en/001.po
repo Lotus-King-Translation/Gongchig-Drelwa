@@ -7970,7 +7970,7 @@ msgstr "All sentient beings, whether inferior, intermediate, or superior."
 
 msgctxt "ac609cdc60b64370828f886441543f51"
 msgid "དེ་ ཀུན་ མ་རིག་ སོགས་ དང༌ །"
-msgstr ""
+msgstr "All of this [occurs from] ignorance and so on."
 
 msgctxt "3ec6d4e57cf94909ba6c6d65bd3e8f81"
 msgid "ཉེ་བར་ འཁོར་ གྱིས་ ཞུས་པ་ ལ་␣ས །"
