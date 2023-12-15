@@ -7938,7 +7938,7 @@ msgstr "In this system, unknowing ignorance is heavier than all other faults."
 
 msgctxt "101cedab8d7e45229c7ca5faab660afc"
 msgid "རྣམ་འགྲེལ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Full Commentary to [the Compendium of Pramana]:"
 
 msgctxt "817b292f799e4449b15578f80b8dd6f1"
 msgid "བདག་ ཡོད་ ན་ ནི་ གཞན་ དུ་ ཤེས །"
