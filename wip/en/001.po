@@ -566,7 +566,7 @@ msgstr "In the sutra requested by Jonpa:"
 
 msgctxt "4dbb6ea876604037b920ce729fd9fa48"
 msgid "རྒྱུ་ལ་ བརྟེན་ པའིམཁས་པ་ བཅོམ་ལྡན་འདས ། །"
-msgstr "Buddha is the expert who relies on the cause."
+msgstr "The Blessed One is the expert who relies on the cause."
 
 msgctxt "cf2c9d40257d4d64b493dcebd1791298"
 msgid "མཐའ་ གཉིས་ ལྟ་བ་ རྟག་ ཏུ་ མི་ མངའ་ ཞིང༌ ། །"
