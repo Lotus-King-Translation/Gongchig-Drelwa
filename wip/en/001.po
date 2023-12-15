@@ -8038,6 +8038,8 @@ msgstr ""
 msgctxt "cf5ade120cd149e9afb9bd7a1609b4d4"
 msgid "ཡུན་ཐུང་ བས་ མཐོ་རིས་ སུ་ སྐྱེ་བ་ མང་ དུ་ གསུངས་ ཏེ །"
 msgstr ""
+"It is said that because of the short duration, many [beings] are born in the"
+" higher realms."
 
 msgctxt "e2fde8b9b4c14a33906c163ec21e911f"
 msgid "གང་ ལ་ སྐྱེས །  རྒྱུ་ གང་ གིས་ སྐྱེས །  ཇི་ལྟར་ སྐྱེས་པ་ ཤེས་པ་␣ས་"
