@@ -8053,7 +8053,7 @@ msgstr "Because [they] will be born with virtuous thoughts."
 
 msgctxt "6c1bb204dd0d4069a9e9236822a77563"
 msgid "ཚེ་ འཕོས་པ་ མང་ དུ་ འབྱུང་བ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "There are many [beings] who have died. "
 
 msgctxt "2d5643cc0784457e90498f7aec6fb558"
 msgid "དུད་འགྲོ་ ནི་ རྨོངས་ ཤིང་ བླུན་པ་ གཏི་མུག་པ་␣ས་"
