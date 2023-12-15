@@ -7950,7 +7950,7 @@ msgstr "From the aspects of self and other, come grasping and aversion."
 
 msgctxt "99e6cee6b95047c485db696c30661f9b"
 msgid "དེ་ གཉིས་ དག་ དང་ ཡོད་ འབྲེལ་ ལ་␣ས ། །"
-msgstr ""
+msgstr "Being completely entangled in these,"
 
 msgctxt "35110bfabcb34f789bfe7c9a74464ead"
 msgid "ཉེས་པ་ ཐམས་ཅད་ འབྱུང་བ་ ཡིན །"
