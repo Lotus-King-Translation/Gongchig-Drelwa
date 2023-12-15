@@ -7978,7 +7978,7 @@ msgstr "From Upali's questions to [Buddha]:"
 
 msgctxt "59956e2430694731a66ca7841341122f"
 msgid "འདོད་ཆགས་ ནི་ ཉེས་པ་ ཆུང་ ལ་ འབྲལ་ དཀའ །"
-msgstr ""
+msgstr "Attachment is a lesser fault and it is difficult to separate."
 
 msgctxt "3f65959df6da4f0cac04dfd16d4db015"
 msgid "ཞེ་སྡང་ ནི་ ཉེས་པ་ ཆེ་ ལ་ འབྲལ་ དཀའ །"
