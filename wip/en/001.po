@@ -7954,7 +7954,7 @@ msgstr "Being completely entangled in these,"
 
 msgctxt "35110bfabcb34f789bfe7c9a74464ead"
 msgid "ཉེས་པ་ ཐམས་ཅད་ འབྱུང་བ་ ཡིན །"
-msgstr ""
+msgstr "All faults would occur."
 
 msgctxt "1cee52a6f66946e49a88ced35b9b0253"
 msgid "ཅེས་ དང་ །"
