@@ -7986,7 +7986,7 @@ msgstr "Anger is a greater fault and it is difficult to separate."
 
 msgctxt "344a605d3c3c45edadc4aac40a00286a"
 msgid "གཏི་མུག་ ནི་ ཉེས་པ་ ཡང་ ཆེ་ ལ་ འབྲལ་ ཡང་ དཀའ །"
-msgstr ""
+msgstr "Delusion is a greater fault as well as difficult to separate."
 
 msgctxt "877eada7bb2d4c108c32fb582310479f"
 msgid "ཞེས་ གསུངས་པ་␣ས་"
