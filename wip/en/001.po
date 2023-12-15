@@ -8011,6 +8011,8 @@ msgid ""
 "རྡོ་␣༽༽  ངན་འགྲོ་␣འི་ གནས་ དམྱལ་བ་ དམན་པ་ དུད་འགྲོ་ མཐོ་བ་␣ར་ འདོད་ མོད་ ཀྱི"
 " །"
 msgstr ""
+"Vajra: The hell [realm] is accepted as lower and the animal [realm] as "
+"higher in the realms of bad migrations. "
 
 msgctxt "aa42771d16b84f1ab9ec2f249801edb8"
 msgid "འདི་␣ར་ ནི་ དུད་འགྲོ་ ཆོས་ཅན་"
