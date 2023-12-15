@@ -7902,7 +7902,7 @@ msgstr "And."
 
 msgctxt "be9fe6d7c3864cb6ab7996ade81615d9"
 msgid "ང་ ཡོངས་སུ་ མྱ་ངན་ ལ་␣ས་ འདས་ ནས་"
-msgstr ""
+msgstr "After my final nirvana"
 
 msgctxt "7c1038e815b24e5da4160ed8ea72ac2f"
 msgid "ཆོ་ག་ ཕུན་སུམ་ ཚོགས་པ་ བརྟེན་པ་␣ར་ བྱ་␣འོ ། །"
