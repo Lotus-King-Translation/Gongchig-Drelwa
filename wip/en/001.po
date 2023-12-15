@@ -7918,7 +7918,7 @@ msgstr "After I have passed into nirvana."
 
 msgctxt "cd8ba587261b4411a6e08281410fcc44"
 msgid "འདི་ ནི་ ཁྱེད་ ཀྱི་ སྟོན་པ་␣འོ །"
-msgstr ""
+msgstr "This will be your teacher."
 
 msgctxt "d3d4e6442f784e66bfa0b73210f6196b"
 msgid "ཞེས་ སོགས་ སོ །"
