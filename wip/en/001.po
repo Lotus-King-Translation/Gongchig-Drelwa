@@ -8185,7 +8185,7 @@ msgstr " According to A Letter to a Friend:"
 
 msgctxt "3fd771c991814750abbbfbf01bb74d31"
 msgid "གང་ཞིག་ སྔོན་ཆད་␣×"
-msgstr ""
+msgstr "Those who were heedless in the past."
 
 msgctxt "824d9454a67a42159381f9efaf368ad4"
 msgid "ཕྱིས་ ནས་  ཟླ་བ་ སྤྲིན་␣×"
