@@ -8109,6 +8109,8 @@ msgstr ""
 msgctxt "fd76b136e7a243da9123b43aab92e2e9"
 msgid "འདི་␣ར་ ནི་ ཉམས་པ་ ལས༌མ་ ཐོབ་པ་ ཉེས་པ་ ཆེ་བ་␣ར་ བཞེད་ དེ་"
 msgstr ""
+"In this [system], Besides degeneration, there is a greater fault for the one"
+" that has never been taken."
 
 msgctxt "0650e124ebe642b493b283298ada4642"
 msgid "འཁོར་བ་␣འི་ གཉེན་པོ་ དགག་སྒྲུབ་ ཀྱི་ ཚུལ་ཁྲིམས་ ཡིན །"
