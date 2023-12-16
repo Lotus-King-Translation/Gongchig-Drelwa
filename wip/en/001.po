@@ -8119,7 +8119,7 @@ msgstr "The discipline of negation and assertion is the antidote to samsara."
 
 msgctxt "618d569e788f4842a4e9f90ddf4495e6"
 msgid "དེ་ སྤྱད་ དཀའ་བ་␣འི་ གནད་ ཀྱིས་"
-msgstr ""
+msgstr "Because of the difficulty of engaging in this,"
 
 msgctxt "98018b21a6f543288464f6b716902dc7"
 msgid "ལན་ གཅིག་ ཉམས་ ཤིང༌་␣སྡུག་བསྔལ་ ཉམས་ སུ་ མྱོང་ ཡང་"
