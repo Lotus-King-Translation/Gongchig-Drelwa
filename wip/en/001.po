@@ -8220,6 +8220,8 @@ msgid ""
 "ཞེས་ སངས་རྒྱས་ ལ་ བསྡིག་པ་␣ས་ བརྒྱ་བྱིན་ གྱིས་ འདི་འདྲ་␣འང་ འདུལ་བ་␣ར་ "
 "ངེས་པར་ འབྱུང་ ངམ་ ཞུས་པ་␣ས །"
 msgstr ""
+"And threatened the Buddha. Indra asked, \"Will you be able to subdue even "
+"this one certainly?\""
 
 msgctxt "89808dafef424d65a3beeec4fe39001d"
 msgid "ནམ་ཞིག་ ན་ དུས་ ཡོད་ གསུངས་པ་ སོགས་ ཀྱི་ ལེགས་པ་␣ར་ གྲུབ་བོ ། །"
