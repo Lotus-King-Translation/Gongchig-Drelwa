@@ -8073,7 +8073,7 @@ msgstr ""
 
 msgctxt "c2f21bf2c0334f408d50a6e2628d9482"
 msgid "ཐར་ དུས་ ཀྱང་ ཤིན་ཏུ་ རིང་བ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "Because the period of emancipation is very long."
 
 msgctxt "5cc46a22fd224501a21b210ab8e4c0ff"
 msgid "དེ་སྐད་ དུའང༌ །"
