@@ -9159,7 +9159,7 @@ msgstr ""
 
 msgctxt "4ac22f1af88b47b4ad0ff46c287d9200"
 msgid "དེ་སྐད་ དུའང་ སངས་རྒྱས་ མི་ སྤོང་བ་␣འི་ མདོ་ ལ་␣ས །"
-msgstr ""
+msgstr "As it is also said in the sutra of Not Forsaking the Buddha:"
 
 msgctxt "9afb3d40c4634802ae379a3cd0bf6114"
 msgid "སེམས་ཅན་ ཐམས་ཅད་ ཀྱི་ མིག་ ཕྱུང་བ་ བས་ ཀྱང་"
