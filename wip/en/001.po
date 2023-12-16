@@ -8195,7 +8195,7 @@ msgstr ""
 
 msgctxt "fdefc83b2d9943978417c43a73dc6fb3"
 msgid "དགའ་བོ་ སོ་␣ར་ འཕྲེང་ ྾  ཅེས་ དང༌ །"
-msgstr ""
+msgstr "Like Nanda, Angulimala, Darsaka and Sankara. And"
 
 msgctxt "a461a49ca5cc474caa1d81a1c6e54edd"
 msgid "ཡང༌་␣དབྱིག་གཉེན་ གྱིས་ མི་ ཤེས་ སྡིག་པ་ བྱས་པ་ ཤིན་ཏུ་ ལྕི །"
