@@ -8077,7 +8077,7 @@ msgstr "Because the period of emancipation is very long."
 
 msgctxt "5cc46a22fd224501a21b210ab8e4c0ff"
 msgid "དེ་སྐད་ དུའང༌ །"
-msgstr ""
+msgstr "As it is also said:"
 
 msgctxt "641de1b10eda48babb94660beb41111b"
 msgid "དྲན་པ་ ཉེར་ བཞག་ ལ་␣ས །"
