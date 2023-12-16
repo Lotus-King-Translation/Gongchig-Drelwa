@@ -8081,7 +8081,7 @@ msgstr "As it is also said:"
 
 msgctxt "641de1b10eda48babb94660beb41111b"
 msgid "དྲན་པ་ ཉེར་ བཞག་ ལ་␣ས །"
-msgstr ""
+msgstr "In the application of mindfulness:"
 
 msgctxt "b006b016aa6346d6ac0efcac7f8c38a9"
 msgid "སེམས་ཅན་ དམྱལ་བ་␣ར་ སྐྱེས་པ་ ནི་ སླ་ ཡི་ ༑"
