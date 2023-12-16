@@ -8068,6 +8068,8 @@ msgid ""
 "སྡུག་བསྔལ་ ལ་ སྔ་མ་ མ་ དག་པ་␣ར་ ཕྱི་མ་␣འི་ རྒྱུ་ ཉིན་ རེ་ བཞིན་ སྲོག་ ཆག་ "
 "མང་པོ་ ཟ་␣ར་ འགྲོ་བ་␣ས་"
 msgstr ""
+"Being unable to purify earlier causes of suffering is the cause of future "
+"suffering, which takes many lives every day."
 
 msgctxt "c2f21bf2c0334f408d50a6e2628d9482"
 msgid "ཐར་ དུས་ ཀྱང་ ཤིན་ཏུ་ རིང་བ་␣འི་ ཕྱིར་ རོ ། །"
