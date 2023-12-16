@@ -8137,7 +8137,7 @@ msgstr "Therefore, connected to the three jewels. "
 
 msgctxt "ad51752c2f2143d98d7fb2a78e3aa8cb"
 msgid "སྤོང་ སེམས་ དགེ་བ་␣འི་ འབྲས་བུ་ ནི་ འབྱུང་ སྟེ །"
-msgstr ""
+msgstr "The virtuous results occur from the mind of abandonment."
 
 msgctxt "155df452d06944f985d49dec39d83502"
 msgid "འཇམ་དཔལ་ གནས་པ་␣འི་ མདོ་ ལ་␣ས །"
