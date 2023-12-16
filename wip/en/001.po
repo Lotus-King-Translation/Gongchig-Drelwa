@@ -10507,7 +10507,7 @@ msgstr ""
 
 msgctxt "7f691e2fd93c4e0fa48e96c0f1935aea"
 msgid "དེ་སྐད་ དུའང་ །  ས་ར་ ཧ་␣ས །"
-msgstr ""
+msgstr "As it is also said by Saraha:"
 
 msgctxt "712b98f0e0fb4fe9bc6e559ffcb7b8c2"
 msgid "སེམས་ ཉིད་ གཅིག་པུ་ ཀུན་ གྱི་ ས་བོན་ ཏེ ། །"
