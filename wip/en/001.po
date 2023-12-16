@@ -8156,7 +8156,7 @@ msgstr ""
 
 msgctxt "4d0bc39307b84a4f9f941d2e9d9460b6"
 msgid "ཤཱ་རི་␣འི་ བུས་ དགེ་སློང་ དེ་དག་ ཆུད་ བཟན་ ཏོ་ ཞེས་ སྨྲས་པ་␣ས །"
-msgstr ""
+msgstr "Shariputra said, \"Those bhikshus have been wasted.\""
 
 msgctxt "6bb5f970acc147e7bb96b1c62d26df30"
 msgid "སངས་རྒྱས་ ཀྱིས་ ཁྱོད་ དེ་སྐད་ མ་ ཟེར །"
