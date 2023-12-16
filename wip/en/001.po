@@ -8316,7 +8316,7 @@ msgstr ""
 
 msgctxt "cd6ae2cd339944d4bba4cff0bc60fb11"
 msgid "དེ་སྐད་་  དུའང་ ཇོ་བོ་ རྗེས །"
-msgstr ""
+msgstr "As it is also said by Jowo Je:"
 
 msgctxt "4e183804eb764552bb4df08eca254e93"
 msgid "སོ་སོ་␣ར་ ཐར་པ་ རིས་ བདུན་ གྱི ། །"
