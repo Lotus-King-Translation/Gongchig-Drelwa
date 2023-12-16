@@ -8133,7 +8133,7 @@ msgstr ""
 
 msgctxt "da160d69b5fc451bb352dc2f72c71420"
 msgid "མཆོག་ གསུམ་ དང་ འབྲེལ་བ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "Therefore, connected to the three jewels. "
 
 msgctxt "ad51752c2f2143d98d7fb2a78e3aa8cb"
 msgid "སྤོང་ སེམས་ དགེ་བ་␣འི་ འབྲས་བུ་ ནི་ འབྱུང་ སྟེ །"
