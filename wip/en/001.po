@@ -8085,7 +8085,7 @@ msgstr "In the application of mindfulness:"
 
 msgctxt "b006b016aa6346d6ac0efcac7f8c38a9"
 msgid "སེམས་ཅན་ དམྱལ་བ་␣ར་ སྐྱེས་པ་ ནི་ སླ་ ཡི་ ༑"
-msgstr ""
+msgstr "It is easy for sentient beings to be born in the hell realm. "
 
 msgctxt "ed161c0655ac4c78bf67a7ba833311e0"
 msgid "དུད་འགྲོ་␣འི་ སྐྱེ་གནས་ སུ་ སྐྱེས་པ་ ནི་ དེ་ལྟར་ མ་ ཡིན་ ནོ ། །"
