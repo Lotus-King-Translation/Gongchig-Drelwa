@@ -8146,7 +8146,7 @@ msgstr "The Dwelling Place of Manjushri sutra says:"
 msgctxt "45032376d1e942309e0ec22467bcad88"
 msgid ""
 "འཇམ་དཔལ་ གྱིས་ ཤཱ་རི་␣འི་ བུ་ ཁྱོད་ བསམ་གཏན་ གང་ བྱེད་ སོགས་ དྲིས་པ་␣ས་"
-msgstr ""
+msgstr "Manjushri asked Shariputra, what meditative absorption do you do?"
 
 msgctxt "d2b2703de9474a4bbf9265cac857baad"
 msgid ""
