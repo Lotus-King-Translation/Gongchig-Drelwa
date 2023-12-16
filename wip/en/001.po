@@ -8190,6 +8190,8 @@ msgstr "Those who were heedless in the past."
 msgctxt "824d9454a67a42159381f9efaf368ad4"
 msgid "ཕྱིས་ ནས་  ཟླ་བ་ སྤྲིན་␣×"
 msgstr ""
+"Later, they will become heedful. It is beautiful like the moon free from "
+"clouds."
 
 msgctxt "fdefc83b2d9943978417c43a73dc6fb3"
 msgid "དགའ་བོ་ སོ་␣ར་ འཕྲེང་ ྾  ཅེས་ དང༌ །"
