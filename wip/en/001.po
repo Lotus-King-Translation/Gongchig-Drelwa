@@ -8152,7 +8152,7 @@ msgctxt "d2b2703de9474a4bbf9265cac857baad"
 msgid ""
 "དགེ་སློང་ རྒྱ་ ཆེན་ ཆེ་␣ར་ འཁྲུགས་ ནས་ ལུས་ དེ་ཉིད་ དུ་ དམྱལ་བ་␣ར་ ལྟུང་ །"
 msgstr ""
-"The bhikshus were greatly feruous and fell into hell in that very body."
+"The bhikshus were greatly ferrous and fell into hell in that very body."
 
 msgctxt "4d0bc39307b84a4f9f941d2e9d9460b6"
 msgid "ཤཱ་རི་␣འི་ བུས་ དགེ་སློང་ དེ་དག་ ཆུད་ བཟན་ ཏོ་ ཞེས་ སྨྲས་པ་␣ས །"
