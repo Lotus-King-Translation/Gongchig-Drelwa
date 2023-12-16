@@ -8129,6 +8129,7 @@ msgstr "Even if degenerated once and experienced suffering"
 msgctxt "399caa9e713e4311864d528308ba13a9"
 msgid "ཐོག་མ་␣ར་ བསྲུང་ སེམས་ ངེས་འབྱུང་ གིས་ མཚམས་ སྦྱར་ ཏེ་"
 msgstr ""
+"First, connect through the attitude of protecting and definite emergence."
 
 msgctxt "da160d69b5fc451bb352dc2f72c71420"
 msgid "མཆོག་ གསུམ་ དང་ འབྲེལ་བ་␣འི་ ཕྱིར་"
