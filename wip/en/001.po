@@ -8166,6 +8166,8 @@ msgctxt "6ee8cb342a7141b1bf06b9920174fc09"
 msgid ""
 "དེ་དག་ དམྱལ་བ་␣ར་ ཐང་ ཅིག་ རེག་ ནས་ དགའ་ལྡན་ དུ་ སྐྱེ་བ་␣ར་ འགྱུར་ རོ ། །"
 msgstr ""
+"They will touch the hell for a moment and will be reborn in the Tushita "
+"heaven."
 
 msgctxt "24f810ccd4134afdabee24ac275164f5"
 msgid "ཞེས་ དང་ །"
