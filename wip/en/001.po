@@ -8213,7 +8213,7 @@ msgstr "According to the Vinaya:"
 
 msgctxt "0748db0c4c3243a8aa72b3ec6f588f1d"
 msgid "ལེགས་ སྐར་ གྱིས་ ལ་བ་ ནག་པོ་ གྱོན་ ནས་ ང་ ནི་ བ་ཀུ་ལ་␣འོ །"
-msgstr ""
+msgstr "Sunaksatra dressed in black woolen clothes and said, I am Bakula."
 
 msgctxt "86fb1864459e4d50b13b416a20aee113"
 msgid ""
