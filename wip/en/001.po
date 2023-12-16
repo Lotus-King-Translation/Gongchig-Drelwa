@@ -8123,7 +8123,7 @@ msgstr "Because of the difficulty of engaging in this,"
 
 msgctxt "98018b21a6f543288464f6b716902dc7"
 msgid "ལན་ གཅིག་ ཉམས་ ཤིང༌་␣སྡུག་བསྔལ་ ཉམས་ སུ་ མྱོང་ ཡང་"
-msgstr ""
+msgstr "Even if degenerated once and experienced suffering"
 
 msgctxt "399caa9e713e4311864d528308ba13a9"
 msgid "ཐོག་མ་␣ར་ བསྲུང་ སེམས་ ངེས་འབྱུང་ གིས་ མཚམས་ སྦྱར་ ཏེ་"
