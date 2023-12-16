@@ -8226,6 +8226,8 @@ msgstr ""
 msgctxt "89808dafef424d65a3beeec4fe39001d"
 msgid "ནམ་ཞིག་ ན་ དུས་ ཡོད་ གསུངས་པ་ སོགས་ ཀྱི་ ལེགས་པ་␣ར་ གྲུབ་བོ ། །"
 msgstr ""
+"It is perfectly established by the statement 'there will be a time' and so "
+"forth."
 
 msgctxt "1ab59593b9ad49308ac22f8301651114"
 msgid ""
