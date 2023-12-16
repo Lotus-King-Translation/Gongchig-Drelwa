@@ -8176,6 +8176,8 @@ msgstr "And."
 msgctxt "b90200bc8571452490ea63fccd7e3474"
 msgid "རེ་ཞིག་ མི་དགེ་བ་ ལ་ ཞུགས་ ཀྱང་ འགྱོད་པ་ ལྡོག་པ་␣ར་ འགྱུར་ ཏེ །"
 msgstr ""
+"Even if one temporarily engages in non-virtue, their regret will be "
+"reverted."
 
 msgctxt "251644c2607a4164a72efb243a6b58e6"
 msgid "བཤེས་ སྤྲིང་ ལ་␣ས །"
