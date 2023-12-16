@@ -8200,6 +8200,8 @@ msgstr "Like Nanda, Angulimala, Darsaka and Sankara. And"
 msgctxt "a461a49ca5cc474caa1d81a1c6e54edd"
 msgid "ཡང༌་␣དབྱིག་གཉེན་ གྱིས་ མི་ ཤེས་ སྡིག་པ་ བྱས་པ་ ཤིན་ཏུ་ ལྕི །"
 msgstr ""
+"Furthermore, Vasubandhu stated that negative actions committed unknowingly "
+"are immensely heavy."
 
 msgctxt "02391aa63b5146d092a26544c149d6b0"
 msgid "སོགས་ དང༌ །"
