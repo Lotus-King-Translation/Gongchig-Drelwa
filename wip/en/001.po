@@ -8248,7 +8248,7 @@ msgstr "The greater vehicle is distinguished by compassion"
 
 msgctxt "49b80d72b42544eabd871500687e2171"
 msgid "སྙིང་རྗེ་ བྱང་ཆུབ་ ཀྱི་ སེམས་ ཡིན་ ཟེར་བ་ མང་ ངོ༌ ། །"
-msgstr ""
+msgstr "Which is bodhicitta."
 
 msgctxt "0d9da5299dce4b0989b5575b90e0fefb"
 msgid "འདི་␣ར་ ནི་ བྱང་ཆུབ་ ཀྱི་ སེམས་ དང་ སྙིང་རྗེ་ གཉིས་ ཐ་དད་ ཡིན་ ཏེ་"
