@@ -8240,7 +8240,7 @@ msgstr ""
 
 msgctxt "6eddbc6188034cb79947ef72fa610937"
 msgid "རྡོ་␣༽༽  གཞན་ བཤེས་གཉེན་ ལ་ལ་␣ས་"
-msgstr ""
+msgstr "Vajra: Other spiritual friends say:"
 
 msgctxt "532a9c1ace4746fcb836ac7960c35883"
 msgid "ཐེག་པ་ ཆེན་པོ་ ནི་ སྙིང་རྗེ་␣ས་ ཁྱད་པར་ དུ་ བྱས་པ་␣འི་"
