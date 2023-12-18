@@ -8267,6 +8267,8 @@ msgid ""
 "བྱང་སེམས་ ནི་ དེ་ལྟ་␣འི་ རྐྱེན་ དང་ རྒྱུ་ གཅིག་ གི་ མིན་པ་ དཔག་མེད་ གྱིས་ ཏེ"
 " །"
 msgstr ""
+"Bodhicitta is not caused by any single present cause and condition but by "
+"unfathomable [causes and conditions]."
 
 msgctxt "e40ee9f3346e4678a3904379ad80fdf8"
 msgid "དཀོན་མཆོག་  སྤྲིན་ ལ་␣ས །"
