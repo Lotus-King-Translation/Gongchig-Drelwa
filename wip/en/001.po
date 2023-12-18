@@ -8278,7 +8278,7 @@ msgstr "According to the Cloud of Jewels Sutra"
 
 msgctxt "17f8b85e2f744f6d8083a3dc03151e2e"
 msgid "རྒྱལ་ དང་ རྒྱལ་བ་␣འི་ ཆོས་ ལ་ དད་ གྱུར་ ཅིང་ །"
-msgstr ""
+msgstr "Have faith in the conqueror and his teachings."
 
 msgctxt "bc3f6c0d21bf454b9f42c4dd80ab38fb"
 msgid "ཞེས་ སོགས་ སོ །"
