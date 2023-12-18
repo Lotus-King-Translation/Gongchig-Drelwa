@@ -3372,7 +3372,8 @@ msgstr ""
 
 msgctxt "5dd93e07e4ed46a9a1b53bed16b505d5"
 msgid "ནང་པ་␣ར་ ཡང་ བྲམ་ཟེ་ རྒྱལ་བ་␣འི་ དྲོད་ ཀྱི་ མེ་ ལྔ་ བརྟེན་པ་ དང་ །"
-msgstr "Buddhists, too, rely on the warmth of Brahmin Victor's five fires."
+msgstr ""
+"Buddhists, too, rely on the warmth of the Brahmin conqueror's five fires."
 
 msgctxt "2b5e3549149e4cdeacc02ff8a686a62d"
 msgid "གནས་མ་ བུ་␣འི་ སྡེ་ བས་"
