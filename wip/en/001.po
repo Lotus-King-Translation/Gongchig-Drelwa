@@ -614,7 +614,7 @@ msgstr "different vehicles are also shown, therefore it is distinct."
 msgctxt "d47436febd2a4fe29bb115978d5c8508"
 msgid "འདི་␣ར་ ནི་ ཕྱོགས་ བཅུ་ དུས་གསུམ་ གྱི་ རྒྱལ་བ་ མ་ལུས་པ་ ཀུན་ གྱི་"
 msgstr ""
-"In this [system], all of the victors from the ten directions and three "
+"In this [system], all of the conquerors from the ten directions and three "
 "times,"
 
 msgctxt "1bdf7c6a768e4a20ae27927a7a831451"
