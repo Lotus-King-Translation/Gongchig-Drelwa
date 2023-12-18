@@ -8272,7 +8272,7 @@ msgstr ""
 
 msgctxt "e40ee9f3346e4678a3904379ad80fdf8"
 msgid "དཀོན་མཆོག་  སྤྲིན་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Cloud of Jewels Sutra"
 
 msgctxt "17f8b85e2f744f6d8083a3dc03151e2e"
 msgid "རྒྱལ་ དང་ རྒྱལ་བ་␣འི་ ཆོས་ ལ་ དད་ གྱུར་ ཅིང་ །"
