@@ -8295,6 +8295,8 @@ msgstr "It is not a result produced by compassion and so forth."
 msgctxt "4a520e16054d42f0abb30130127d2119"
 msgid "བྱེད་ལས་ ཀྱང་ མི་ གཅིག་ སྟེ་ སངས་རྒྱས་ ཐོབ་པ་␣ར་ བྱེད་པ་␣འི་ ཕྱིར །"
 msgstr ""
+"They are also not the same in terms of function, [it] acts as the attainment"
+" of buddhahood."
 
 msgctxt "4920bff090c14169a6475756aaa701b3"
 msgid ""
