@@ -8413,7 +8413,7 @@ msgstr "According to the sutra and tantra:"
 
 msgctxt "add32a82b37b40fb994fbe5159c9faa7"
 msgid "སོ་ཐར་ བྱང་ཆུང་ སེམས་ ཞེས་ དང་ །"
-msgstr "The pratimoksha [vows], bodhicitta and "
+msgstr "The vows of pratimoksha and bodhisattva,"
 
 msgctxt "9f5d165947e54f04bd43e32f846343cf"
 msgid "ཚུལ་ཁྲིམས་ ཀྱི་ ནི་ བསླབ་པ་ དང་ །"
