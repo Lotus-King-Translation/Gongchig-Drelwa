@@ -8286,7 +8286,7 @@ msgstr "And so on."
 
 msgctxt "ae57d25922b0431ca79893ce921c577a"
 msgid "རྒྱུ་འབྲས་ ཀྱི་ ངོས་ ནས་ ཀྱང་ མི་ གཅིག་ སྟེ་"
-msgstr ""
+msgstr "In terms of cause and effect, they are also not the same."
 
 msgctxt "faa0856eee1b42908a478e0b25bcc6c7"
 msgid "སྙིང་རྗེ་ སོགས་ ཀྱིས་ བསྐྱེད་པ་␣འི་ འབྲས་བུ་ མིན་པ་␣འི་ ཕྱིར །"
