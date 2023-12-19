@@ -8366,7 +8366,7 @@ msgstr "The seven sections of the pratimoksha."
 
 msgctxt "2730f9e336464c29bed21f0a3ead528b"
 msgid "རྟག་ ཏུ་ སོགས་ དང༌ །"
-msgstr ""
+msgstr "[Those who] always [possess the other vows] and so forth. "
 
 msgctxt "3c1f87e511df49579ac6d2e45a633ded"
 msgid "ཇི་ལྟར་ འདི་ ན་ ཤིང་རྩ་ གཙོ་བོ་ སྟེ །"
