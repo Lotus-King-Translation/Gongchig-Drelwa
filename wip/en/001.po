@@ -8434,6 +8434,8 @@ msgid ""
 "དེ་␣འང་ ཡོད་ དེ་ ཀཱ་ ཤ་␣འི་ ནགས་ ཀྱི་ སེམས་ཅན་ ཆེན་པོ་ བཞི་ ལ་སོགས་པ་ བཞིན་ "
 "ནོ །༑"
 msgstr ""
+"That also exists, for example, the four great animals of the Kasha forest "
+"and so on."
 
 msgctxt "f5b7f51c036f44549a40b44b881ffbc6"
 msgid "རྡོ་␣༽༽  གཞན་ བཞེད་ ལ །"
