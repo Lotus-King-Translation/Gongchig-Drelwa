@@ -8370,7 +8370,7 @@ msgstr "[Those who] always [possess the other vows] and so forth. "
 
 msgctxt "3c1f87e511df49579ac6d2e45a633ded"
 msgid "ཇི་ལྟར་ འདི་ ན་ ཤིང་རྩ་ གཙོ་བོ་ སྟེ །"
-msgstr ""
+msgstr "Just as the main [part] of a tree is its roots,"
 
 msgctxt "682cf4d8aec745fdaffe7ed8be4e4368"
 msgid "རྣམ་པ་␣ར་ འཕེལ་ ྾"
