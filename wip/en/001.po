@@ -8354,7 +8354,7 @@ msgstr "Because this is the support for the final [attainment]."
 
 msgctxt "79098e2ab157421686f391caf61b6b19"
 msgid "མཁར་ གྱི་ རྨང་རྡོ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "It is like the foundation of a castle."
 
 msgctxt "cd6ae2cd339944d4bba4cff0bc60fb11"
 msgid "དེ་སྐད་་  དུའང་ ཇོ་བོ་ རྗེས །"
