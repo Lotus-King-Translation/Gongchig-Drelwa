@@ -8457,7 +8457,7 @@ msgstr "Aspire for the perfect and complete enlightenment."
 
 msgctxt "d30411028eaf4878a13fdb55553aa730"
 msgid "ཅེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "dbad94612bad4d5fa4b169a538c829b5"
 msgid "དམིགས་པ་ ནི་ ཤེས་རབ་ ཀྱིས་ རྫོགས་ བྱང་"
