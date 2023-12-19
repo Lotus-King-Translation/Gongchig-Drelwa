@@ -8390,7 +8390,7 @@ msgstr "As said."
 
 msgctxt "338b6584b53441aea0312a36ba27fdca"
 msgid "གལ་ཏེ་ སོ་ཐར་ གྱི་ རྟེན་ མི་ དགོས་ ན་"
-msgstr "If the support of pratimoksha is not needed."
+msgstr "If the support of pratimoksha is not required."
 
 msgctxt "9f0dda73eaa142a8a4068b60238be5c6"
 msgid "སྔགས་ ལ་␣འང་ དེ་ མི་ དགོས་པ་␣ར་ ཐལ །"
