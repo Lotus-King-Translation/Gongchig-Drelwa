@@ -8394,7 +8394,7 @@ msgstr "If the support of pratimoksha is not needed."
 
 msgctxt "9f0dda73eaa142a8a4068b60238be5c6"
 msgid "སྔགས་ ལ་␣འང་ དེ་ མི་ དགོས་པ་␣ར་ ཐལ །"
-msgstr ""
+msgstr "It follows that it is not required in the mantra as well."
 
 msgctxt "e9bf75c2a180494fbc67b7ca809b8fb3"
 msgid "ཐེག་ཆེན་ རྒྱུ་འབྲས་ གཉིས་ ལ་␣ས་ རྒྱུ་ལ་ མི་ དགོས་ ན་"
