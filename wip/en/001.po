@@ -8409,7 +8409,7 @@ msgstr "Then, its requirement in the result is impossible."
 
 msgctxt "75841aafa31543bc813d134c1abd913c"
 msgid "མདོ་ རྒྱུད་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the sutra and tantra:"
 
 msgctxt "add32a82b37b40fb994fbe5159c9faa7"
 msgid "སོ་ཐར་ བྱང་ཆུང་ སེམས་ ཞེས་ དང་ །"
