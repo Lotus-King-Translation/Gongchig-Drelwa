@@ -8426,6 +8426,8 @@ msgstr "This and others eliminate it."
 msgctxt "958b6a576e934f088fc1c55e4cc3d9c6"
 msgid "བྱང་སེམས་ བཞིན་ སོ་ཐར་ ཅི་རིགས་ སུ་ སྐྱེ་␣འམ་ སྙམ་ ན །"
 msgstr ""
+"If one wonders that the pratimoksha [vows] can arise in any being like the "
+"bodhisattva [vows]."
 
 msgctxt "eb374ba5dc5f4ceea9c4b15d7c972ea7"
 msgid ""
