@@ -8342,7 +8342,7 @@ msgstr "The bodhisattva vows to arise in those who have not arisen."
 
 msgctxt "3d1b05a6f66d48cfb75277f4731a9df9"
 msgid "སྐྱེས་པ་ གནས་པ །"
-msgstr ""
+msgstr "To abide in [those who] have arisen."
 
 msgctxt "ba6ae138200044fabf0ad152250f16c5"
 msgid "གནས་པ་ གོང་ ནས་ གོང་ དུ་ བོག་ འདོན་པ་ སྟེ་"
