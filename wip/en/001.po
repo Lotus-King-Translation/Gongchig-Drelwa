@@ -8382,7 +8382,7 @@ msgstr "Likewise the holy Dharma x x"
 
 msgctxt "d06e39c999c248e6abd5d2331fb3b370"
 msgid "གཞི་ དང་ རྩ་བ་␣✖"
-msgstr ""
+msgstr "Basis and root X X"
 
 msgctxt "dbe40d2af3b54a118eb5fdf7a51bcf0a"
 msgid "ཞེས་ སོ །"
