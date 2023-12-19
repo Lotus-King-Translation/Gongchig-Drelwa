@@ -8374,7 +8374,7 @@ msgstr "Just as the main [part] of a tree is its roots,"
 
 msgctxt "682cf4d8aec745fdaffe7ed8be4e4368"
 msgid "རྣམ་པ་␣ར་ འཕེལ་ ྾"
-msgstr ""
+msgstr "Thoroughly expanded x x"
 
 msgctxt "9ff2bf42d5b943778e86bf79c63040ca"
 msgid "དེ་བཞིན་ དམ་ཆོས་␣×"
