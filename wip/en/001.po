@@ -8311,6 +8311,8 @@ msgid ""
 "དེས་ན་ སྙིང་རྗེ་ དང་ སྙིང་རྗེ་ ཆེན་པོ་␣འི་ ཁྱད་པར་ མ་ ཕྱེས་པ་ གྱི་ ན་␣ར་ "
 "སྨྲས་པ་␣ར་ ཟད་ དོ །"
 msgstr ""
+"Thus, it is said without distinguishing between compassion and great "
+"compassion."
 
 msgctxt "86512d8cbfdb41468bf04b3bb3d96437"
 msgid "རྡོ་␣༽༽  བྱང་སྡོམ་ ལ་ རྟེན་ སོ་ཐར་ མི་ དགོས་ ཏེ་"
