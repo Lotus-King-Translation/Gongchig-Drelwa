@@ -8350,7 +8350,7 @@ msgstr "It is imparted and increased further and further by abiding."
 
 msgctxt "a53f7d41228d453a9cf45784856d6823"
 msgid "མཐར་ཐུག་པ་␣ར་ བྱེད་པ་␣འི་ རྟེན་ ཡིན་པ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "Because this is the support for the final [attainment]."
 
 msgctxt "79098e2ab157421686f391caf61b6b19"
 msgid "མཁར་ གྱི་ རྨང་རྡོ་ བཞིན་ ནོ ། །"
