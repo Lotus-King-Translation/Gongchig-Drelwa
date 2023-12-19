@@ -8290,7 +8290,7 @@ msgstr "In terms of cause and effect, they are also not the same."
 
 msgctxt "faa0856eee1b42908a478e0b25bcc6c7"
 msgid "སྙིང་རྗེ་ སོགས་ ཀྱིས་ བསྐྱེད་པ་␣འི་ འབྲས་བུ་ མིན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "It is not a result produced by compassion and so forth."
 
 msgctxt "4a520e16054d42f0abb30130127d2119"
 msgid "བྱེད་ལས་ ཀྱང་ མི་ གཅིག་ སྟེ་ སངས་རྒྱས་ ཐོབ་པ་␣ར་ བྱེད་པ་␣འི་ ཕྱིར །"
