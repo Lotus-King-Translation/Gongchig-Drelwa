@@ -8405,7 +8405,7 @@ msgstr ""
 
 msgctxt "b66f5ab4ad734f328ea67c2d40147e2f"
 msgid "འབྲས་བུ་␣ར་ དགོས་པ་␣ར་ མི་ སྲིད་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Then, its requirement in the result is impossible."
 
 msgctxt "75841aafa31543bc813d134c1abd913c"
 msgid "མདོ་ རྒྱུད་ ལ་␣ས །"
