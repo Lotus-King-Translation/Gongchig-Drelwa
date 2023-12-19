@@ -6160,7 +6160,7 @@ msgstr "Therefore, the full analytical scripture says:"
 
 msgctxt "d4364e599bf34ff3a894601ba2f05627"
 msgid "ཇི་ལྟར་ འདི་ ན་ ཤིང་རྩ་ གཙོ་བོ་ སྟེ ། །"
-msgstr "In the same way that a tree's root is principal,"
+msgstr "Just as the main [part] of a tree is its roots,"
 
 msgctxt "8308b85ab9d242d0a727b0bc6c33c542"
 msgid "རྣམ་པ་␣ར་ འཕེལ་ དང་ ཀུན་འཛིན་ གཉིས་ ཀྱི་ གཞི ། །"
