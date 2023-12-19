@@ -8453,7 +8453,7 @@ msgstr "The generation of bodhicitta is for the sake of others."
 
 msgctxt "15d3afd28ab84a5581e4d2266d7fda3d"
 msgid "ཡང་དག་ རྫོགས་པ་␣འི་ བྱང་ཆུབ་ འདོད །"
-msgstr ""
+msgstr "Aspire for the perfect and complete enlightenment."
 
 msgctxt "d30411028eaf4878a13fdb55553aa730"
 msgid "ཅེས་ སོ །"
