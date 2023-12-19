@@ -8316,7 +8316,8 @@ msgstr ""
 
 msgctxt "86512d8cbfdb41468bf04b3bb3d96437"
 msgid "རྡོ་␣༽༽  བྱང་སྡོམ་ ལ་ རྟེན་ སོ་ཐར་ མི་ དགོས་ ཏེ་"
-msgstr "Vajra: The bodhisattva vows do not need the support of pratimoksha."
+msgstr ""
+"Vajra: The bodhisattva vows do not require the support of pratimoksha."
 
 msgctxt "ee4ba6cab1b84b8293bf44f9a0fbf263"
 msgid "སོ་ཐར་ ནི་ གླིང་ གསུམ་ གྱི་ སྐྱེས་པ་ བུད་མེད་ ལ་␣ས་ གཞན་ ལ་ མི་ སྐྱེ་"
