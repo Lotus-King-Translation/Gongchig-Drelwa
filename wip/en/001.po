@@ -8326,7 +8326,7 @@ msgstr ""
 
 msgctxt "7da60d2d158948ef98e0249a9929875e"
 msgid "བྱང་སེམས་ ཀུན་ ལ་ སྐྱེ་བ་␣ར་ གསུངས་པ་␣འོ་ ཟེར །"
-msgstr ""
+msgstr "It is said that bodhicitta arises in all."
 
 msgctxt "cd1f79fb41674583860630218dcbb04e"
 msgid ""
