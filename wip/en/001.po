@@ -8338,7 +8338,7 @@ msgstr ""
 
 msgctxt "3b2242b02bb047399a22461290ba93e1"
 msgid "བྱང་སྡོམ་ མ་ སྐྱེས་པ་ སྐྱེ་བ །"
-msgstr ""
+msgstr "The bodhisattva vows to arise in those who have not arisen."
 
 msgctxt "3d1b05a6f66d48cfb75277f4731a9df9"
 msgid "སྐྱེས་པ་ གནས་པ །"
