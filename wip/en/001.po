@@ -8449,7 +8449,7 @@ msgstr ""
 
 msgctxt "fb5256b7f86f4a6db7aab17a5702ed73"
 msgid "སེམས་བསྐྱེད་པ་ ནི་ གཞན་དོན་ ཕྱིར །"
-msgstr ""
+msgstr "The generation of bodhicitta is for the sake of others."
 
 msgctxt "15d3afd28ab84a5581e4d2266d7fda3d"
 msgid "ཡང་དག་ རྫོགས་པ་␣འི་ བྱང་ཆུབ་ འདོད །"
