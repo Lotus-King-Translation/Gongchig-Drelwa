@@ -8346,7 +8346,7 @@ msgstr "To abide in [those who] have arisen."
 
 msgctxt "ba6ae138200044fabf0ad152250f16c5"
 msgid "གནས་པ་ གོང་ ནས་ གོང་ དུ་ བོག་ འདོན་པ་ སྟེ་"
-msgstr ""
+msgstr "It is imparted and increased further and further by abiding."
 
 msgctxt "a53f7d41228d453a9cf45784856d6823"
 msgid "མཐར་ཐུག་པ་␣ར་ བྱེད་པ་␣འི་ རྟེན་ ཡིན་པ་␣འི་ ཕྱིར་"
