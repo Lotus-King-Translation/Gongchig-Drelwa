@@ -8333,6 +8333,8 @@ msgid ""
 "འདི་␣ར་ ནི་ བྱང་ཆུབ་ སེམས་དཔ་␣འི་ སྡོམ་པ་ ལ་སོ་ ཐར་ གྱི་ རྟེན་ ཅན་ ཐོབ་པ་␣ར་"
 " བཞེད་ དེ །"
 msgstr ""
+"In this [system], the bodhisattva vows can be attained by those with the "
+"support of pratimoksha [vows]."
 
 msgctxt "3b2242b02bb047399a22461290ba93e1"
 msgid "བྱང་སྡོམ་ མ་ སྐྱེས་པ་ སྐྱེ་བ །"
