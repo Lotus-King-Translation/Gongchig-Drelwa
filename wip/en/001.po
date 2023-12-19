@@ -2935,7 +2935,7 @@ msgstr "Eliminating the webs of conceptual cognitions,"
 
 msgctxt "2e62e6052f2e450aa95db73654e6ccd4"
 msgid "ཟབ་ ཅིང་ རྒྱ་ ཆེ་␣འི་ སྐུ་ མངའ་བ ། །"
-msgstr "Possessing the profound and vast body"
+msgstr "Possessing a profound and vast body"
 
 msgctxt "07d627db42f44b95896822b6a2a82f7f"
 msgid "ཀུན་ ཏུ་ བཟང་པོ་␣འི་ འོད་ཟེར་ དག  །"
