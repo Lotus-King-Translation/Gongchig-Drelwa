@@ -47,7 +47,7 @@ msgid ""
 "དེ་␣ས་ གསུངས་ འགོག་ ལམ་ དམ་པ་␣འི་ ཆོས་ དང་ རིག་ གྲོལ་ དབང་ཕྱུག་ དགེ་འདུན་ ལ "
 "། །"
 msgstr ""
-"Said by that the holy dharma of the cessation and path and to the sangha of "
+"Said by that the holy Dharma of the cessation and path and to the sangha of "
 "intelligence and liberation."
 
 msgctxt "14f82f31e10840d893e661b74bff847d"
