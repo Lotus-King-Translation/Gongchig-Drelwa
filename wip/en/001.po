@@ -8478,7 +8478,7 @@ msgstr "The inexhaustibility of different companions."
 
 msgctxt "3ee5cea2e7bb44fdbdecdd637f698b37"
 msgid "ས་མཚམས་ ཀྱི་ ཆོས་སྤྱོད་ སོགས་ བཞི །"
-msgstr ""
+msgstr "The Dharma activities of the boundaries and so on. They are the four"
 
 msgctxt "b9c22542576b49018cfbd01734c0903b"
 msgid "ཡུལ་ གྱི་ ཀུན་རྫོབ་ དོན་དམ །"
