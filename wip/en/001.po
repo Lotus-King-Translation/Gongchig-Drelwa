@@ -8466,6 +8466,7 @@ msgstr "The object of observation is complete enlightenment by wisdom, "
 msgctxt "cf476fca387d4ddba44b903e6d1afb6f"
 msgid "སྙིང་རྗེ་␣ས་ སེམས་ཅན་ ཏེ་ འཁོར་འདས་ སོ ། །"
 msgstr ""
+"[The observation] to sentient beings by compassion as samsara and nirvana."
 
 msgctxt "3450fa4c81d043a0b4af9eb8f3bc7d43"
 msgid "གྲོགས་ སྨོན་ འདུན །"
