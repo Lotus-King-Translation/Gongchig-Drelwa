@@ -8550,7 +8550,7 @@ msgstr "Hitting others in rage and"
 
 msgctxt "5ba6898222a540a095942470c6e84d6b"
 msgid "ཐེག་པ་ ཆེན་པོ་ སྤོང་ བྱེད་ ཅིང་ ། །"
-msgstr ""
+msgstr "Abandoning the greater vehicle."
 
 msgctxt "d8e111ea4bd44a9faf5ffde150978a92"
 msgid "དམ་ཆོས་ འདྲ་␣ར་ སྣང་ སྟོན་པ་␣འོ ། །"
