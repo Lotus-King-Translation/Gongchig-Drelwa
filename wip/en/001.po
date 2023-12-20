@@ -8514,7 +8514,7 @@ msgstr "In this [system], the compendium of all the bodhisattva pitakas is "
 
 msgctxt "806a5af0f19346cd91aed8da5e5ddb7f"
 msgid "བྱང་སེམས་ སྤྱོད་འཇུག  །"
-msgstr ""
+msgstr "The Engaging in the Bodhisattva's Conduct."
 
 msgctxt "7104c6d65f9d4281b0b57a4448bd5f07"
 msgid "བསླབ་ བཏུས་ སོགས་ ཀྱི་ དོན་བསྡུས །"
