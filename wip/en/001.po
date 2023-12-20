@@ -8589,6 +8589,8 @@ msgstr ""
 msgctxt "833650b39fc54110ae4eb38216604095"
 msgid "གསུམ་པོ་ མཐའ་དག་ མ་ གྲུབ་ ན་ འཇུག་ སྡོམ་ དུ་ མི་ འགྱུར་ ཟེར །"
 msgstr ""
+"It is stated that if all three are not accomplished, it will not become the "
+"vows of the engaging mind."
 
 msgctxt "d8f1915b79a6432a8f05d8c7a803c83c"
 msgid "འདི་␣ར་ ནི་ དེ་ གསུམ་ མཐའ་དག་ རྫོགས་ ནས་"
