@@ -8602,7 +8602,7 @@ msgstr "Even those at the tenth level are unable to do so."
 
 msgctxt "77d0a62b3edf472c8485d03ecb481618"
 msgid "སངས་རྒྱས་ ཉག་གཅིག་ གི་ སྤྱོད་ཡུལ་ ཡིན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Because it is the scope of Buddha alone."
 
 msgctxt "04fd361056c14ddd8814b45aad8043e7"
 msgid "ནོར་ བཟང་ གིས་ བླ་མ་ རྣམས་ ས་བཅུ་པ་ ཡིན་ཡང་"
