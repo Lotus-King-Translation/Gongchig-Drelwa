@@ -8634,7 +8634,7 @@ msgctxt "217ec76b80d74afeb1ae0629bc2d571b"
 msgid ""
 "སྣ་ རེ་ཟུང་ ནུས་ ཚོད་ ལྕོག་ ཚོད་མ་ ཉམས་པ་␣ར་ ཉམས་ སུ་ ལེན་པ་ ཅི་རིགས་ ཀྱིས་ "
 "ཀྱང་"
-msgstr ""
+msgstr "Some practitioners practice as much as they can without degeneration."
 
 msgctxt "2f257fbc670c4db4bad954f7146ad6f3"
 msgid "སྨོན་སེམས་ ཀྱི་ དབང་ བྱས་ ནས་ བསྒྲུབ་པ་␣ས་"
