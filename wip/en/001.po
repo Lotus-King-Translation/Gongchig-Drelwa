@@ -8572,7 +8572,7 @@ msgstr "After being free of the view of the transitory collection."
 
 msgctxt "6a219c7db004468abcedbd1ea8acdd03"
 msgid "བདག་ དང་ བདག་ གིར་ འདི་ལྟར་ བཞེད་པ་␣ས་"
-msgstr ""
+msgstr "Thus, \"I\" and \"mine\" are accepted in this way."
 
 msgctxt "2e7b94341d714407a6d12fd89ee5aaf3"
 msgid "སོ་སོ་ སྐྱེ་བོ་ ལ་ ཡང་འཇུག་ སྡོམ་ སྐྱེ་བ་ ཡོད་ དོ །"
