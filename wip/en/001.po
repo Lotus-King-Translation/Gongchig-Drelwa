@@ -8482,7 +8482,7 @@ msgstr "The Dharma activities of the boundaries and so on. They are the four"
 
 msgctxt "b9c22542576b49018cfbd01734c0903b"
 msgid "ཡུལ་ གྱི་ ཀུན་རྫོབ་ དོན་དམ །"
-msgstr ""
+msgstr "The objects of relative and absolute."
 
 msgctxt "f6c85581edf14789a32b9f01d2116c53"
 msgid "ངོ་བོ་␣འི་ སྨོན་ འཇུག་ ཕྲ་རགས་ བརྡ་ དང་"
