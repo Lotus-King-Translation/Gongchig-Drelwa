@@ -8610,7 +8610,7 @@ msgstr "Although the gurus of Sudhana were tenth-level bodhisattvas."
 
 msgctxt "9d535baa50034537929dc95c3b106d06"
 msgid "ཉམས་ སུ་ ལེན་ ཚུལ་"
-msgstr ""
+msgstr "The way of practice"
 
 msgctxt "26abd8b4513d4a1e9fe56ac3a8e05180"
 msgid "ཟུང་ རེ་ ཚེ་ བརྟགས་ གཞན་ ཤེས་པ་␣ར་ ནུས་"
