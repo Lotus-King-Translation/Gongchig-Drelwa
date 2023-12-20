@@ -8474,7 +8474,7 @@ msgstr "The companionship of aspiration"
 
 msgctxt "c15715c5a4084718b441563739d1eabc"
 msgid "དབྱེ་ གྲོགས་ ཀྱི་ མི་ཟད །"
-msgstr ""
+msgstr "The inexhaustibility of different companions."
 
 msgctxt "3ee5cea2e7bb44fdbdecdd637f698b37"
 msgid "ས་མཚམས་ ཀྱི་ ཆོས་སྤྱོད་ སོགས་ བཞི །"
