@@ -8542,7 +8542,7 @@ msgstr "Out of miserliness, not giving the wealth of Dharma and"
 
 msgctxt "cf683a9e72e6466f91b5d6d4711c7b2b"
 msgid "གཞན་ གྱིས་ བཤད་ ཀྱང་ མི་ ཉན་པ་␣ར ། །"
-msgstr ""
+msgstr "Not listening when others explain,"
 
 msgctxt "4fcab8ccf25942ecb661a58aba39ac1e"
 msgid "ཁྲོ་␣ས་ ནས་ གཞན་ ལ་ འཚོག་པ་ དང་ ། །"
