@@ -8505,7 +8505,7 @@ msgstr ""
 msgctxt "b27b61ff91a34593ba099e7c6905873d"
 msgid "འཇུག་ སྡོམ་ ས་ ཐོབ་ ནས་ སྐྱེ་␣ར་ འདོད་ མོད །"
 msgstr ""
-"It is accepted that the vows of the engaging mind arise after the attainment"
+"It is accepted that the vow of the engaging mind arises after the attainment"
 " of the ground."
 
 msgctxt "4ee7bee9c32c4a0eb5801c848a5f9b16"
