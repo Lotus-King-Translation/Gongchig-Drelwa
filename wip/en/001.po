@@ -8583,6 +8583,8 @@ msgctxt "fa591d3b71014cc9a3271e050133ba7f"
 msgid ""
 "རྡོ་␣༽༽  འཇུག་ སྡོམ་ ནི་ སྡོམ་པ་ དགེ་བ་ ཆོས་ སྡུད་ སེམས་ཅན་ དོན་ བྱེད་ དེ་"
 msgstr ""
+"Vajra: The vows of the engaging mind are the vows of virtue, gathering "
+"dharma, and benefiting sentient beings."
 
 msgctxt "833650b39fc54110ae4eb38216604095"
 msgid "གསུམ་པོ་ མཐའ་དག་ མ་ གྲུབ་ ན་ འཇུག་ སྡོམ་ དུ་ མི་ འགྱུར་ ཟེར །"
