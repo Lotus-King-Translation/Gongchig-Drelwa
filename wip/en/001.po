@@ -8510,7 +8510,7 @@ msgstr ""
 
 msgctxt "4ee7bee9c32c4a0eb5801c848a5f9b16"
 msgid "འདི་␣ར་ ནི་ བྱང་སེམས་ ཀྱི་ སྡེ་སྣོད་ ཐམས་ཅད་ བསྡུས་པ་"
-msgstr ""
+msgstr "In this [system], the compendium of all the bodhisattva pitakas is "
 
 msgctxt "806a5af0f19346cd91aed8da5e5ddb7f"
 msgid "བྱང་སེམས་ སྤྱོད་འཇུག  །"
