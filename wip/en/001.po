@@ -8638,7 +8638,7 @@ msgstr "Some practitioners practice as much as they can without degeneration."
 
 msgctxt "2f257fbc670c4db4bad954f7146ad6f3"
 msgid "སྨོན་སེམས་ ཀྱི་ དབང་ བྱས་ ནས་ བསྒྲུབ་པ་␣ས་"
-msgstr ""
+msgstr "And accomplished by the power of the aspiring mind "
 
 msgctxt "7c36f4901d4b4b7892b746314531272f"
 msgid "འཇུག་པ་␣འི་ སྡོམ་པ་␣ར་ འཇུག་པ་ ཡོད་པ་␣ར་ འགྱུར་ རོ །"
