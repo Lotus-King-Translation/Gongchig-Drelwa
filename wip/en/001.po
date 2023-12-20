@@ -8470,7 +8470,7 @@ msgstr ""
 
 msgctxt "3450fa4c81d043a0b4af9eb8f3bc7d43"
 msgid "གྲོགས་ སྨོན་ འདུན །"
-msgstr ""
+msgstr "Aspirational friend."
 
 msgctxt "c15715c5a4084718b441563739d1eabc"
 msgid "དབྱེ་ གྲོགས་ ཀྱི་ མི་ཟད །"
