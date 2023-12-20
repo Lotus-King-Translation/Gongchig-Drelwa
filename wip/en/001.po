@@ -8499,6 +8499,8 @@ msgstr ""
 msgctxt "2b819d9d9e924cff836b8aed3a04437c"
 msgid "སྨོན་ འཇུག་ ས་ དང་པོ་␣ར་ དོན་དམ་ སྟེ་ གསུམ་ ལ་␣ས །"
 msgstr ""
+"From these three, the aspiring and engaging minds for enlightenment, and the"
+" absolute [truth] at the first level."
 
 msgctxt "b27b61ff91a34593ba099e7c6905873d"
 msgid "འཇུག་ སྡོམ་ ས་ ཐོབ་ ནས་ སྐྱེ་␣ར་ འདོད་ མོད །"
