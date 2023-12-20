@@ -8594,7 +8594,7 @@ msgstr ""
 
 msgctxt "d8f1915b79a6432a8f05d8c7a803c83c"
 msgid "འདི་␣ར་ ནི་ དེ་ གསུམ་ མཐའ་དག་ རྫོགས་ ནས་"
-msgstr ""
+msgstr "In this [system], after the completion of all three of these,"
 
 msgctxt "ee4034cf03be4447959cee18b887daef"
 msgid "ས་བཅུ་པ་␣ས་ ཀྱང་ མི་ ནུས་ ཏེ །"
