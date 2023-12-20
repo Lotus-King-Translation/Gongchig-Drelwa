@@ -8530,7 +8530,7 @@ msgstr "By becoming attached to gain and respect."
 
 msgctxt "13aaf8f134f147d18d47125a6c18bbff"
 msgid "བདག་ བསྟོད་ གཞན་ ལ་ སྨོད་པ་ དང༌ ། །"
-msgstr ""
+msgstr "Praising oneself and disparaging others."
 
 msgctxt "a695f074bef84014af9539817318249b"
 msgid "སྡུག་བསྔལ་ མེད་པ་␣ར་ གྱུར་པ་ ལ ། །"
