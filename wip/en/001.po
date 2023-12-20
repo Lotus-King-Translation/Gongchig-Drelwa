@@ -8518,7 +8518,7 @@ msgstr "The Engaging in the Bodhisattva's Conduct."
 
 msgctxt "7104c6d65f9d4281b0b57a4448bd5f07"
 msgid "བསླབ་ བཏུས་ སོགས་ ཀྱི་ དོན་བསྡུས །"
-msgstr ""
+msgstr "It is a summary of the Compendium Of Trainings and so forth. "
 
 msgctxt "824938063331406496ae52601022571c"
 msgid "ཙནྡྲ་ གོ་མི་␣འི་ སྡོམ་པ་ ཉི་ཤུ་པ་␣ར །"
