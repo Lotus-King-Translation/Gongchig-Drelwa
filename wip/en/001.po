@@ -8606,7 +8606,7 @@ msgstr "Because it is the scope of Buddha alone."
 
 msgctxt "04fd361056c14ddd8814b45aad8043e7"
 msgid "ནོར་ བཟང་ གིས་ བླ་མ་ རྣམས་ ས་བཅུ་པ་ ཡིན་ཡང་"
-msgstr ""
+msgstr "Although the gurus of Sudhana were at the tenth-level bodhisattvas."
 
 msgctxt "9d535baa50034537929dc95c3b106d06"
 msgid "ཉམས་ སུ་ ལེན་ ཚུལ་"
