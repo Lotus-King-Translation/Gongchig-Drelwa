@@ -8522,7 +8522,7 @@ msgstr "It is a summary of the Compendium Of Trainings and so forth. "
 
 msgctxt "824938063331406496ae52601022571c"
 msgid "ཙནྡྲ་ གོ་མི་␣འི་ སྡོམ་པ་ ཉི་ཤུ་པ་␣ར །"
-msgstr ""
+msgstr "According to the Candragomin's Twenty Verses on the Bodhisattva Vow:"
 
 msgctxt "d1e499061a2c47a89888244eb1a7e148"
 msgid "རྙེད་ དང་ བཀུར་སྟི་␣ར་ ཆགས་པ་ ཡིས ། །"
