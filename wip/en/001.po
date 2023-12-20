@@ -8546,7 +8546,7 @@ msgstr "Not listening when others explain,"
 
 msgctxt "4fcab8ccf25942ecb661a58aba39ac1e"
 msgid "ཁྲོ་␣ས་ ནས་ གཞན་ ལ་ འཚོག་པ་ དང་ ། །"
-msgstr ""
+msgstr "Hitting others in rage and"
 
 msgctxt "5ba6898222a540a095942470c6e84d6b"
 msgid "ཐེག་པ་ ཆེན་པོ་ སྤོང་ བྱེད་ ཅིང་ ། །"
