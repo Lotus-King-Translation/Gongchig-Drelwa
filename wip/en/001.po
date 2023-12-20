@@ -8598,7 +8598,7 @@ msgstr "In this [system], after the completion of all three of these,"
 
 msgctxt "ee4034cf03be4447959cee18b887daef"
 msgid "ས་བཅུ་པ་␣ས་ ཀྱང་ མི་ ནུས་ ཏེ །"
-msgstr ""
+msgstr "Even those at the tenth level are unable to do so."
 
 msgctxt "77d0a62b3edf472c8485d03ecb481618"
 msgid "སངས་རྒྱས་ ཉག་གཅིག་ གི་ སྤྱོད་ཡུལ་ ཡིན་པ་␣འི་ ཕྱིར །"
