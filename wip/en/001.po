@@ -8642,7 +8642,7 @@ msgstr "And accomplished by the power of the aspiring mind "
 
 msgctxt "7c36f4901d4b4b7892b746314531272f"
 msgid "འཇུག་པ་␣འི་ སྡོམ་པ་␣ར་ འཇུག་པ་ ཡོད་པ་␣ར་ འགྱུར་ རོ །"
-msgstr ""
+msgstr "There will be engagement in the vow of the engaging mind."
 
 msgctxt "90c69b47c17b4b5681480dc279fdc801"
 msgid "ལྷན་␣༽༽  ས་ དང་པོ་ ཐོབ་ ནས་ ངན་འགྲོ་␣འི་ འཇིག་པ་ མེད་པ་␣ར་ འདོད་ མོད །"
