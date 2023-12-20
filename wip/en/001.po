@@ -8526,7 +8526,7 @@ msgstr "According to the Candragomin's Twenty Verses on the Bodhisattva Vow:"
 
 msgctxt "d1e499061a2c47a89888244eb1a7e148"
 msgid "རྙེད་ དང་ བཀུར་སྟི་␣ར་ ཆགས་པ་ ཡིས ། །"
-msgstr ""
+msgstr "By becoming attached to gain and respect."
 
 msgctxt "13aaf8f134f147d18d47125a6c18bbff"
 msgid "བདག་ བསྟོད་ གཞན་ ལ་ སྨོད་པ་ དང༌ ། །"
