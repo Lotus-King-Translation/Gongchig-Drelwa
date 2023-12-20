@@ -8558,7 +8558,7 @@ msgstr "A similar holy Dharma is taught."
 
 msgctxt "91b10a9039a34731ba98bcce1176411a"
 msgid "ཞེས་ རྩ་ལྟུང་ བཞི་པོ་ འདི་␣ས་ དང་པོ་པ་ ལ་ འོང་ མི་ སྲིད་ དེ །"
-msgstr "These four root downfalls are impossible to come in the first one."
+msgstr "These four root downfalls are impossible to occur in the first one."
 
 msgctxt "304a9101369b4b81889d947d001a9ed9"
 msgid "མཐོང་སྤང་ བརྒྱ་རྩ་ བཅུ་གཉིས་ སྤང་པ་␣ས་"
