@@ -8461,7 +8461,7 @@ msgstr "As said."
 
 msgctxt "dbad94612bad4d5fa4b169a538c829b5"
 msgid "དམིགས་པ་ ནི་ ཤེས་རབ་ ཀྱིས་ རྫོགས་ བྱང་"
-msgstr ""
+msgstr "The observation is complete enlightenment by wisdom, "
 
 msgctxt "cf476fca387d4ddba44b903e6d1afb6f"
 msgid "སྙིང་རྗེ་␣ས་ སེམས་ཅན་ ཏེ་ འཁོར་འདས་ སོ ། །"
