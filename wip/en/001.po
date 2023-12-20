@@ -8622,7 +8622,7 @@ msgstr ""
 
 msgctxt "39d6d48daee547e587d317f018cd7556"
 msgid "དེས་ན་ སངས་རྒྱས་ ཐོབ་ འདོད་ ཀྱི་ སེམས་ སྨོན་པ་"
-msgstr ""
+msgstr "Thus, the aspiring mind that wishes to attain buddhahood."
 
 msgctxt "5c7657119f114523ba9b17431c054b2a"
 msgid "དེ་␣འི་ ཆེད་ དུ་ སྒོ་གསུམ་ དགེ་བ་␣ར་ བཀོལ་བ་ འཇུག་ སྡོམ་ ཡིན་པ་␣ས་"
