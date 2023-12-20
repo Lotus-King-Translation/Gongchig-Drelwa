@@ -8577,6 +8577,7 @@ msgstr "Thus, \"I\" and \"mine\" are accepted in this way."
 msgctxt "2e7b94341d714407a6d12fd89ee5aaf3"
 msgid "སོ་སོ་ སྐྱེ་བོ་ ལ་ ཡང་འཇུག་ སྡོམ་ སྐྱེ་བ་ ཡོད་ དོ །"
 msgstr ""
+"The vows of the engaging mind can also arise in an individualized being."
 
 msgctxt "fa591d3b71014cc9a3271e050133ba7f"
 msgid ""
