@@ -8697,7 +8697,7 @@ msgstr "According to the Ornament of the Sutra Section:"
 
 msgctxt "56926cecda3e4ca1be5f1ba940540893"
 msgid "དེ་ ཡི་ ཆོས་ ཀུན་ ཅེས་ མ་ ལྟ་བུ་ དང༌ །"
-msgstr ""
+msgstr "All of these phenomena are like an illusion and"
 
 msgctxt "220319d5cff44f7e857fbb6183dec1f8"
 msgid "སྐྱེ་བ་ སྐྱེད་ མོ་␣྾"
