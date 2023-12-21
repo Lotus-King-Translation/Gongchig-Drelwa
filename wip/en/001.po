@@ -18787,7 +18787,7 @@ msgstr "And."
 
 msgctxt "ff736a999e604b7b8aec38f300df0e16"
 msgid "མདོ་ རྒྱན་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Ornament of the Sutra Section:"
 
 msgctxt "6a8dc75835b14bf1bae5d89951d2ef7b"
 msgid "འཛིན་པ་ མི་ མངའ་ ཉེ་␣ས་ མི་ མངའ ། །"
