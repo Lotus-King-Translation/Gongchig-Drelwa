@@ -8652,7 +8652,7 @@ msgstr ""
 
 msgctxt "7ea925b2ce454192a3858da133c59cd7"
 msgid "འདི་␣ར་ ནི་ དང་པོ་ ཙམ་ དུ་མ་ ཟད་"
-msgstr ""
+msgstr "In this [system], not only on the first level,"
 
 msgctxt "c187bcfdbfa94bee8499befeaf239e96"
 msgid ""
