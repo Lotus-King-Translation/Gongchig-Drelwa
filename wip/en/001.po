@@ -8685,7 +8685,7 @@ msgstr "King Shridatta and those who had gone to the animal [realm]"
 
 msgctxt "5c15a5108dd448829c6720e918f549f5"
 msgid "གླང་ དོམ་ སྤྲེའུ་␣འི་ བྱང་སེམས་ ལ་སོགས་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "Such as the bodhisattva of the ox, the bear, the monkey, and so on."
 
 msgctxt "822a1171e88b43e592684b239a1eaca0"
 msgid "གཞན་ འགྲོ་བ་ དང་ མི་ མཚུངས་ ཏེ་␣༑"
