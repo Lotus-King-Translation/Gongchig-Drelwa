@@ -8713,7 +8713,7 @@ msgstr ""
 
 msgctxt "34c5be329b5e4dd1aba9836dca80a550"
 msgid "ཅེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "e6d6c2739acc4ffda124969810636570"
 msgid "དེས་ན་ འདི་ ལ་ ཐུགས་བསྐྱེད་པ་ དང་"
