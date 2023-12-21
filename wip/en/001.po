@@ -8664,7 +8664,7 @@ msgstr ""
 
 msgctxt "6244eeda8618421c8dea8d0a22ffcbfe"
 msgid "རྒྱུ་ ཤེས་བྱ་␣འི་ སྒྲིབ་པ་ བག་ཉལ་ དང༌ །"
-msgstr ""
+msgstr "The obscuration to knowables is the cause in a state of latency and "
 
 msgctxt "ae77dc1ca0fd42449563042b676fd442"
 msgid "རྐྱེན་ གཉིས་ ཚོགས་ ན་ འགྲོ་ སྟེ་"
