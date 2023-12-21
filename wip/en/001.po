@@ -8681,7 +8681,7 @@ msgstr "Youthful Water Born and"
 
 msgctxt "4a6150a2f55d4495b88743576876d1b9"
 msgid "རྒྱལ་པོ་ དཔལ་ བྱིན་ དང་ དུད་འགྲོ་␣ར་ སོང་བ་"
-msgstr ""
+msgstr "King Shridatta and those who had gone to the animal [realm]"
 
 msgctxt "5c15a5108dd448829c6720e918f549f5"
 msgid "གླང་ དོམ་ སྤྲེའུ་␣འི་ བྱང་སེམས་ ལ་སོགས་པ་ བཞིན་ ནོ ། །"
