@@ -8709,7 +8709,7 @@ msgstr "In times of prosperity and times of degeneration,"
 
 msgctxt "33c554a11a6c46ad9601623a8720aaa8"
 msgid "ཉོན་མོངས་␣྾"
-msgstr ""
+msgstr "[There is no fear of] affliction [and suffering]."
 
 msgctxt "34c5be329b5e4dd1aba9836dca80a550"
 msgid "ཅེས་ སོ །"
