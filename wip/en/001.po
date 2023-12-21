@@ -8669,6 +8669,7 @@ msgstr "The obscuration to knowables is the cause in a state of latency and "
 msgctxt "ae77dc1ca0fd42449563042b676fd442"
 msgid "རྐྱེན་ གཉིས་ ཚོགས་ ན་ འགྲོ་ སྟེ་"
 msgstr ""
+"When two conditions come together, [one] will go to [the lower realms]."
 
 msgctxt "c3e144ec700841d1ad7b9b20cc92bdfe"
 msgid "རྟེན་འབྲེལ་ གྱི་ གཤིས་ མི་འགྱུར་བ་␣འི་ ཕྱིར །"
