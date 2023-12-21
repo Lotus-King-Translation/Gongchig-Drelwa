@@ -8721,7 +8721,7 @@ msgstr "Thus, generated the mind in this and"
 
 msgctxt "639df5352b1a4768a2ccdff2da1d1738"
 msgid "ཕྲིན་ལས་ རྒྱུན་ མི་ ཆད་པ་ དང༌ །"
-msgstr ""
+msgstr "Uninterrupted enlightened activities and "
 
 msgctxt "3bb6736aee53431db655c4c3b8d36f10"
 msgid "རྟེན་འབྲེལ་ དང་ ཐུགས་ ཀྱི་ གསང་བ་␣ར་ གཞིག་ ན་ ངེས་པར་ འགྱུར་ རོ །"
