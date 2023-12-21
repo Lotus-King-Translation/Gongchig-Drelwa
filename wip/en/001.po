@@ -8673,7 +8673,7 @@ msgstr ""
 
 msgctxt "c3e144ec700841d1ad7b9b20cc92bdfe"
 msgid "རྟེན་འབྲེལ་ གྱི་ གཤིས་ མི་འགྱུར་བ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Because the nature of dependent-related arising is unchanging."
 
 msgctxt "872806b8a0f54b8aab11f42a002d9e24"
 msgid "གཞོན་ནུ་ ཆུ་སྐྱེས་ དང་ །"
