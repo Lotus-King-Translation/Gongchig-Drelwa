@@ -8726,6 +8726,8 @@ msgstr "Uninterrupted enlightened activities and "
 msgctxt "3bb6736aee53431db655c4c3b8d36f10"
 msgid "རྟེན་འབྲེལ་ དང་ ཐུགས་ ཀྱི་ གསང་བ་␣ར་ གཞིག་ ན་ ངེས་པར་ འགྱུར་ རོ །"
 msgstr ""
+"It is certain that when one entirely comprehends the dependent-related "
+"arising and the secret of the mind."
 
 msgctxt "2836b20778654cab9a3e36ed183ba258"
 msgid ""
