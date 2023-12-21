@@ -4809,7 +4809,7 @@ msgid ""
 "སྤང་བྱ་ ཤེས་སྒྲིབ་ གཏི་མུག་ ལ་␣ས་ གྱུར་པ་ ཉི་ཁྲི་ ཆིག་སྟོང་ གི་ ཁོངས་ སུ་ "
 "འདུ་བ་␣ས་"
 msgstr ""
-"The obscuration to knowledge is one of the twenty-one thousand delusions "
+"The obscuration to knowables is one of the twenty-one thousand delusions "
 "that must be abandoned."
 
 msgctxt "f5d68a178d194f46bf9e263a507a509c"
