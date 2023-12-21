@@ -15144,6 +15144,8 @@ msgstr ""
 msgctxt "137e1c14304f4aee9de470abbcab874e"
 msgid "ཕར་ཕྱིན་ མངོན་རྟོགས་ རྒྱན་ ལ་␣ས །"
 msgstr ""
+"According to the transcendent perfection of the Ornament of Manifest "
+"Realization:"
 
 msgctxt "3719fc09db384f97a76f177ab41fc464"
 msgid "ཇི་ལྟར་ སྐྱེས་པ་␣འི་ ཟོ་ཆུན་ རྒྱུད །"
