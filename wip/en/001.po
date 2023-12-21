@@ -8705,7 +8705,7 @@ msgstr "[Realizing that] taking birth is [similar to visiting] a garden,"
 
 msgctxt "685cc05664f5496db7b66899e53f192e"
 msgid "འབྱོར་བ་␣འི་ དུས་ དང་␣×"
-msgstr ""
+msgstr "In times of prosperity and times of degeneration,"
 
 msgctxt "33c554a11a6c46ad9601623a8720aaa8"
 msgid "ཉོན་མོངས་␣྾"
