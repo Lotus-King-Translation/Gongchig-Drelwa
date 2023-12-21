@@ -2605,7 +2605,7 @@ msgstr "Vajra: the primordial wisdom of knowing has"
 
 msgctxt "49e9e70a922e4c9193c696353cd49942"
 msgid "སྒྲིབ་བྱེད་ ལ་␣ས་ ཉོན་ ཤེས་བྱ་␣འི་ སྒྲིབ་པ་ གསུམ་ ལ་"
-msgstr "three obscurations: karma, affliction, and knowable obscuration."
+msgstr "three obscurations: karma, affliction, and obscuration to knowables."
 
 msgctxt "2bd894f8efaa4c9faac00d2f81a1c185"
 msgid "རིམ་བཞིན་ ལ་␣ས་ རྒྱུ་འབྲས་ ལ་ རྨོངས་པ་"
