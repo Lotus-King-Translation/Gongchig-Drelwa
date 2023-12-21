@@ -8717,7 +8717,7 @@ msgstr "As said."
 
 msgctxt "e6d6c2739acc4ffda124969810636570"
 msgid "དེས་ན་ འདི་ ལ་ ཐུགས་བསྐྱེད་པ་ དང་"
-msgstr ""
+msgstr "Thus, generated the mind in this and"
 
 msgctxt "639df5352b1a4768a2ccdff2da1d1738"
 msgid "ཕྲིན་ལས་ རྒྱུན་ མི་ ཆད་པ་ དང༌ །"
