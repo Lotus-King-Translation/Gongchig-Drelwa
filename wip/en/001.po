@@ -2649,7 +2649,7 @@ msgstr "Jetsun Milarepa told Dagpo, "
 
 msgctxt "df0d366779e545339f6098d186829423"
 msgid "ང་ ནི་ ཤེས་སྒྲིབ་ སྔོན་ དུ་ སྤོང་བ་␣ར་ འདོད་པ་ ཡིན་ གསུངས་པ་"
-msgstr "\"I accept the abandoning of the obscuration to knowledge before.\" "
+msgstr "\"I accept the abandoning of the obscuration to knowables before.\" "
 
 msgctxt "b86a3e717b0e48a1aed89e9815eaf4a0"
 msgid "དེ་␣འི་ རྒྱུ་མཚན་ ལ་"
