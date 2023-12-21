@@ -8693,7 +8693,7 @@ msgstr "This is not similar to other migrators."
 
 msgctxt "dc995b9def684cbba5ce212a2d92419a"
 msgid "མདོ་ རྒྱན་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Ornament of the Sutra Section:"
 
 msgctxt "56926cecda3e4ca1be5f1ba940540893"
 msgid "དེ་ ཡི་ ཆོས་ ཀུན་ ཅེས་ མ་ ལྟ་བུ་ དང༌ །"
