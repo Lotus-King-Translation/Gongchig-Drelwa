@@ -8701,7 +8701,7 @@ msgstr "All of these phenomena are like an illusion and"
 
 msgctxt "220319d5cff44f7e857fbb6183dec1f8"
 msgid "སྐྱེ་བ་ སྐྱེད་ མོ་␣྾"
-msgstr "Realizing that taking birth is similar to visiting a garden,"
+msgstr "[Realizing that] taking birth is [similar to visiting] a garden,"
 
 msgctxt "685cc05664f5496db7b66899e53f192e"
 msgid "འབྱོར་བ་␣འི་ དུས་ དང་␣×"
