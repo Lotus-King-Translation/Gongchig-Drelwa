@@ -2640,7 +2640,7 @@ msgstr ""
 msgctxt "b07fdd0312a1485aa265ab22245dc974"
 msgid "འདི་␣ར་ ནི་ ཤེས་བྱ་␣འི་ སྒྲིབ་པ་ ཐོག་མ་␣ར་ སྤོང་བ་␣འང་ ཡོད་ དེ་"
 msgstr ""
-"In this [system], the obscuration to knowledge can also be abandoned at the "
+"In this [system], the obscuration to knowables can also be abandoned at the "
 "beginning."
 
 msgctxt "adef0460e1aa41a79fc999a86d1c7c81"
