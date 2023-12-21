@@ -18705,7 +18705,7 @@ msgstr ""
 
 msgctxt "df1d6e7d966b456ba3b846ff985a4549"
 msgid "མངོན་ རྒྱན་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Ornament of Manifest Realization:"
 
 msgctxt "0b937d40dd204d0bba70c1c055bf5dbd"
 msgid "སྒྲིབ་པ་ སྤངས་པ་␣འི་ སེམས་བསྐྱེད་ སོགས་ བཤད་ ཅིང་ །"
