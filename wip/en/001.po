@@ -8647,6 +8647,8 @@ msgstr "There will be engagement in the vow of the engaging mind."
 msgctxt "90c69b47c17b4b5681480dc279fdc801"
 msgid "ལྷན་␣༽༽  ས་ དང་པོ་ ཐོབ་ ནས་ ངན་འགྲོ་␣འི་ འཇིག་པ་ མེད་པ་␣ར་ འདོད་ མོད །"
 msgstr ""
+"Addendum: Though it is accepted that after attaining the first level, there "
+"is no destruction of the lower realms."
 
 msgctxt "7ea925b2ce454192a3858da133c59cd7"
 msgid "འདི་␣ར་ ནི་ དང་པོ་ ཙམ་ དུ་མ་ ཟད་"
