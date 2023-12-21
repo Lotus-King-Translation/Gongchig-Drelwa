@@ -7607,7 +7607,7 @@ msgstr ""
 
 msgctxt "7691d82e3bbf4ef6946a0bab0e5ecef0"
 msgid "དང་པོ་ ཐུགས་བསྐྱེད་པ །"
-msgstr "First, [Buddha] developed the mind."
+msgstr "First, [Buddha] generated the mind."
 
 msgctxt "5781665824ad4411995b991bcde42cce"
 msgid "བར་ དུ་ ཚོགས་ བསགས་པ །"
