@@ -8820,6 +8820,8 @@ msgstr ""
 msgctxt "c83f82fa420343a293d71cae8c323744"
 msgid "དཔེར་ན་ འཁོར་འདས་ གཉིས་ སུ་ བསྡུས་ ན་"
 msgstr ""
+"For example, if [everything] is condensed within the two: samsara and "
+"nirvana."
 
 msgctxt "ef23949695fc4803b84b932c677f0316"
 msgid "ཕུང་ གསུམ་ མི་ སྲིད་པ་ བཞིན་ ནོ ། །"
