@@ -8785,7 +8785,7 @@ msgstr "The accomplishment and so forth are afflicted."
 
 msgctxt "6203b17fb9f34626a320297c85ca0ab0"
 msgid "ལེ་ལོ་ སྙོམ་ལས་ སོགས་ ཀྱིས་ མ་གྲུབ་པ་"
-msgstr ""
+msgstr "It is not accomplished out of laziness and so on."
 
 msgctxt "34a2f67273ca4c7fbd555d5c70353e83"
 msgid "ཉོན་མོངས་ ཅན་ མིན་པ་ ན་"
