@@ -8861,7 +8861,7 @@ msgstr "Take the subject laziness and so forth."
 
 msgctxt "cd79accada0d420a93915db7be9e9b26"
 msgid "ཉོན་མོངས་ ཅན་ ཡིན་ ཏེ་"
-msgstr ""
+msgstr "They are an affliction."
 
 msgctxt "d982ea85d4ae496a8f6c19fb9f113a6b"
 msgid "རྩ་ཉོན་ དང་ ཉེ་ཉོན་ ཡིན་པ་␣འི་ ཕྱིར །"
