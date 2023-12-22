@@ -8776,6 +8776,8 @@ msgstr ""
 msgctxt "1762813e98024bb0a872bdce8e52ae13"
 msgid "སྤང་བྱ་␣ར་ དུག་ གསུམ་ གྱིས་ དཀོན་མཆོག་ མཆོད་ ན་"
 msgstr ""
+"When an offering is made to the [three] jewels with the three poisons to be "
+"abandoned."
 
 msgctxt "65d13621c90e42dd99aca0ea45a8b9da"
 msgid "གྲུབ་པ་ སོགས་ ཉོན་མོངས་ ཅན །"
