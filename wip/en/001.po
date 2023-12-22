@@ -8829,7 +8829,7 @@ msgstr "Then a third aggregate is impossible."
 
 msgctxt "3e5d620ec75a45fc8e340cd2a01792b9"
 msgid "ཡང་ དེ་ ཆོས་ཅན །"
-msgstr ""
+msgstr "Also, take this as the subject."
 
 msgctxt "7b0ebf95c2c94bd9a9849930afbccdea"
 msgid "མི་དགེ་ ཉོན་མོངས་པ་ ཡིན་པ་␣ར་ ཐལ །"
