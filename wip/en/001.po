@@ -8743,7 +8743,7 @@ msgstr "If one engages in the causes."
 
 msgctxt "cfdd3cd4f1494062b707207d209b7ffb"
 msgid "ས་བཅུ་པ་ ཡང་ ལྟུང་པ་␣ར་ འགྱུར་ ཏེ་"
-msgstr ""
+msgstr "Even those at the tenth level will be fallen down."
 
 msgctxt "4b67ddc007ac4d43a7868e206bddfe2b"
 msgid "སངས་རྒྱས་ རྒྱུ་རྐྱེན་ གྱི་ རྗེས་སུ་ འབྲང་བ་␣འི་ ཕྱིར །"
