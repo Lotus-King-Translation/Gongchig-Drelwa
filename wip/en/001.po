@@ -8765,7 +8765,7 @@ msgstr ""
 
 msgctxt "ffc790a99d46460eafb06152af086e81"
 msgid "འདི་␣ར་ འགའ་ཞིག་"
-msgstr ""
+msgstr "In this case, some said:"
 
 msgctxt "916ad94b506d487d98fa5565c62729b9"
 msgid "བྱང་སེམས་ སྡོམ་པ་ སྤང་བླང་ གཉིས་ ལ་␣ས་"
