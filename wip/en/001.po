@@ -8869,7 +8869,7 @@ msgstr "Because they are the root afflictions and secondary afflictions."
 
 msgctxt "81fe043567e749ac9fc6ff241cf6af1e"
 msgid "མཁའ་འགྲོ་ སྡོམ་པ་␣འི་ རྒྱུད་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Tantra of the Dakinis' Vows:"
 
 msgctxt "f65cb81f74fc4c9abb66bea8fc897688"
 msgid "མི་ ཤེས་པ་ དང་ བག་མེད་པ །"
