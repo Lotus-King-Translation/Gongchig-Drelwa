@@ -8907,6 +8907,7 @@ msgctxt "4e99233c6ff048cfafbe5b48aa25598e"
 msgid ""
 "དེད་དཔོན་ སྙིང་རྗེ་ ཆེན་པོ་ དང་ བྲམ་ཟེ་ ཁྱེའུ་ སྐར་མ་ ལྟར་ རོ་ ཟེར་ རོ ། །"
 msgstr ""
+"Like captain Mahakarunika and the young brahmin Jyotipala as it is said."
 
 msgctxt "bdd1b0862a6945d5847caa3a61eb52de"
 msgid "འདི་␣ར་ ཉེས་པ་␣ར་ མི་ འགྱུར་ གནང་བ་ མེད་ དེ་"
