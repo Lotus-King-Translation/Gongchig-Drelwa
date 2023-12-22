@@ -8901,7 +8901,7 @@ msgstr ""
 
 msgctxt "2bee14d243244cb3b6ce1597bbeb35ee"
 msgid "སྲོག་གཅོད་ སོགས་ ཉེས་པ་␣ར་ མ་ གྱུར་པ་"
-msgstr ""
+msgstr "So they do not commit faults such as killing. "
 
 msgctxt "4e99233c6ff048cfafbe5b48aa25598e"
 msgid ""
