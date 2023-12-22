@@ -8739,7 +8739,7 @@ msgstr ""
 
 msgctxt "fa4b6741e6d14a108f1f582faddef4c8"
 msgid "གལ་ཏེ་ རྒྱུ་ སྤྱད་པ་␣ར་ གྱུར་ ན་"
-msgstr ""
+msgstr "If one engages in the causes."
 
 msgctxt "cfdd3cd4f1494062b707207d209b7ffb"
 msgid "ས་བཅུ་པ་ ཡང་ ལྟུང་པ་␣ར་ འགྱུར་ ཏེ་"
