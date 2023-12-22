@@ -8789,7 +8789,7 @@ msgstr "It is not accomplished out of laziness and so on."
 
 msgctxt "34a2f67273ca4c7fbd555d5c70353e83"
 msgid "ཉོན་མོངས་ ཅན་ མིན་པ་ ན་"
-msgstr ""
+msgstr "If it is not afflicted, "
 
 msgctxt "26d47914b80245f0bdcd2fdc44965b4c"
 msgid "ཚ་ སོགས་ རྐྱེན་ གྱིས་ མ་ནུ་␣ས་ ན་"
