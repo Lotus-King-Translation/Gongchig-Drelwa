@@ -8877,7 +8877,7 @@ msgstr "Not knowing and heedlessness,"
 
 msgctxt "032ae87b8a444aea8d922c1cb3136889"
 msgid "མི་ ནུས་པ་ དང་ ཉོན་མོངས་པ །"
-msgstr ""
+msgstr "Incapability and affliction"
 
 msgctxt "a964c3f783214e54a286078c77a6f904"
 msgid "བརྗེད་ངས་ དྲན་པ་ མི་ གསལ་བ །"
