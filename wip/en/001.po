@@ -8809,7 +8809,7 @@ msgstr "If it is deemed to be a downfall or not."
 
 msgctxt "af0674f5a2d14bfda477903e07925e9b"
 msgid "ཉོན་མོངས་ ཅན་ མིན་པ་␣འི་ ལྟུང་བ་ མི་ སྲིད་པ་␣ར་ ཐལ །"
-msgstr ""
+msgstr "It follows that it is impossible to have an unafflicted downfall."
 
 msgctxt "e8768c6aaca24febb3e8452f5b61f36b"
 msgid "དགེ་ མི་དགེ་ གཉིས་ སུ་ མ་ འདུས་པ་␣འི་ ཆོས་ མེད་པ་␣འི་ ཕྱིར །"
