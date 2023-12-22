@@ -8761,6 +8761,7 @@ msgstr "The extremes of permanence and nihilation would occur."
 msgctxt "073d1c9b9b17485f8e0d0c3a26dcf87b"
 msgid "དེ་␣འི་ ཕྱིར་ རྒྱུ་ སྤྱད་ ན་ འབྲས་བུ་ མི་ ཁེགས་ སོ ། །"
 msgstr ""
+"Therefore, when one engages in the cause, the effect will not be ceased."
 
 msgctxt "ffc790a99d46460eafb06152af086e81"
 msgid "འདི་␣ར་ འགའ་ཞིག་"
