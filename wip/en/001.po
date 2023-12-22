@@ -8751,7 +8751,7 @@ msgstr "Buddha follows after causes and conditions."
 
 msgctxt "3de6608c48dc49558e627898c5d72a83"
 msgid "མ་ གྲུབ་ ན་ རྒྱུ་རྐྱེན་ མི་འདོད་པ་"
-msgstr ""
+msgstr "If it is not established, then causes and conditions are accepted."
 
 msgctxt "3bda35d596de4b9ab5035bbe6c5d3e70"
 msgid "རྟག་ཆད་ མཐ་␣ར་ བྱུང་བ་␣ར་ འགྱུར་ རོ །"
