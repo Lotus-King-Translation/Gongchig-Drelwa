@@ -8865,7 +8865,7 @@ msgstr "They are an affliction."
 
 msgctxt "d982ea85d4ae496a8f6c19fb9f113a6b"
 msgid "རྩ་ཉོན་ དང་ ཉེ་ཉོན་ ཡིན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Because they are the root afflictions and secondary afflictions."
 
 msgctxt "81fe043567e749ac9fc6ff241cf6af1e"
 msgid "མཁའ་འགྲོ་ སྡོམ་པ་␣འི་ རྒྱུད་ ལ་␣ས །"
