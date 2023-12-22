@@ -8814,6 +8814,8 @@ msgstr "It follows that it is impossible to have an unafflicted downfall."
 msgctxt "e8768c6aaca24febb3e8452f5b61f36b"
 msgid "དགེ་ མི་དགེ་ གཉིས་ སུ་ མ་ འདུས་པ་␣འི་ ཆོས་ མེད་པ་␣འི་ ཕྱིར །"
 msgstr ""
+"Because there is no phenomenon that is not included in either virtue or non-"
+"virtue."
 
 msgctxt "c83f82fa420343a293d71cae8c323744"
 msgid "དཔེར་ན་ འཁོར་འདས་ གཉིས་ སུ་ བསྡུས་ ན་"
