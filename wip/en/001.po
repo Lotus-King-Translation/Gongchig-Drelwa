@@ -8873,7 +8873,7 @@ msgstr "According to the Tantra of the Dakinis' Vows:"
 
 msgctxt "f65cb81f74fc4c9abb66bea8fc897688"
 msgid "མི་ ཤེས་པ་ དང་ བག་མེད་པ །"
-msgstr ""
+msgstr "Not knowing and heedlessness,"
 
 msgctxt "032ae87b8a444aea8d922c1cb3136889"
 msgid "མི་ ནུས་པ་ དང་ ཉོན་མོངས་པ །"
