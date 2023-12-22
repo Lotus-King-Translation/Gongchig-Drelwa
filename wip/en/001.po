@@ -8770,6 +8770,8 @@ msgstr "In this case, some said:"
 msgctxt "916ad94b506d487d98fa5565c62729b9"
 msgid "བྱང་སེམས་ སྡོམ་པ་ སྤང་བླང་ གཉིས་ ལ་␣ས་"
 msgstr ""
+"From the twofold bodhisattva vows: that which is to be adopted and that "
+"which is to be abandoned."
 
 msgctxt "1762813e98024bb0a872bdce8e52ae13"
 msgid "སྤང་བྱ་␣ར་ དུག་ གསུམ་ གྱིས་ དཀོན་མཆོག་ མཆོད་ ན་"
