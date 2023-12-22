@@ -8857,7 +8857,7 @@ msgstr "For example, like the Buddha."
 
 msgctxt "859ed70ca02a4729add219a708fec18e"
 msgid "ལེ་ལོ་ སོགས་ ཆོས་ཅན །"
-msgstr ""
+msgstr "Take the subject laziness and so forth."
 
 msgctxt "cd79accada0d420a93915db7be9e9b26"
 msgid "ཉོན་མོངས་ ཅན་ ཡིན་ ཏེ་"
