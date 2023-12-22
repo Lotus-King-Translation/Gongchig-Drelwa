@@ -8885,7 +8885,7 @@ msgstr "Forgetfulness and unclear recollection"
 
 msgctxt "55f9908877444427adb90f80fe894b93"
 msgid "འདི་ དྲུག་ དམ་ཚིག་ ཉམས་པ་␣འི་ རྒྱུ །"
-msgstr ""
+msgstr "These six are the causes of deteriorating sacred commitments."
 
 msgctxt "4f0138ae78c64adc8071ef3b94f66bb6"
 msgid ""
