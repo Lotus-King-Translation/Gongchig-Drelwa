@@ -8797,7 +8797,7 @@ msgstr "If it is unable to do with the conditions such as heat and so on."
 
 msgctxt "7a5b2d7d9d0a46d5b86c56732ca4b6ff"
 msgid "ལྟུང་ མེད་ ཡིན་ ཟེར །"
-msgstr ""
+msgstr "Then it is without downfall."
 
 msgctxt "1560adedda394c2a8a1257744c2800a1"
 msgid "དེ་ ཆོས་ཅན །"
