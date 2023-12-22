@@ -8896,6 +8896,8 @@ msgstr ""
 msgctxt "99fa808a3ccf4fd7ad376b7da85054f1"
 msgid "རྡོ་␣༽༽  བྱང་སེམས་ རྣམས་ གཞན་དོན་ དུ་ དགེ་བ་␣ར་ གྱུར་པ་␣ས་"
 msgstr ""
+"Vajra: Bodhisattvas are transformed into virtuous actions for the sake of "
+"others, "
 
 msgctxt "2bee14d243244cb3b6ce1597bbeb35ee"
 msgid "སྲོག་གཅོད་ སོགས་ ཉེས་པ་␣ར་ མ་ གྱུར་པ་"
