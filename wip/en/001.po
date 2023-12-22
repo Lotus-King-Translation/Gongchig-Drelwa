@@ -8781,7 +8781,7 @@ msgstr ""
 
 msgctxt "65d13621c90e42dd99aca0ea45a8b9da"
 msgid "གྲུབ་པ་ སོགས་ ཉོན་མོངས་ ཅན །"
-msgstr ""
+msgstr "The accomplishment and so forth are afflicted."
 
 msgctxt "6203b17fb9f34626a320297c85ca0ab0"
 msgid "ལེ་ལོ་ སྙོམ་ལས་ སོགས་ ཀྱིས་ མ་གྲུབ་པ་"
