@@ -8837,7 +8837,7 @@ msgstr "It follows that non-virtue is an affliction."
 
 msgctxt "1824191c7ec84ae9bb3d281b73d15106"
 msgid "ལྟུང་བ་ ཞེས་པ་ འོག་ ནས་ འོག་ ཏུ་ ལྟུང་པ་ ཡིན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Because the so-called downfall is a downward fall."
 
 msgctxt "19cfb4956dc8445db6abf3d481830eb2"
 msgid "ཉོན་མོངས་ ཅན་ མིན་པ་ དེ་ ཆོས་ཅན །"
