@@ -8734,6 +8734,8 @@ msgid ""
 "ལྷན་␣༽༽  ས་ དང་པོ་␣འི་ བདེན་པ་ མཐོང་ ནས་ ལྟུང་ མི་ སྲིད་པ་ རྒྱུ་མ་ "
 "སྤྱད་པ་␣ར་ ཡིན་ ལ །"
 msgstr ""
+"Addendum: Once the truth of the first level has been seen, it is impossible "
+"for one to fall down, because one has not yet engaged in the causes."
 
 msgctxt "fa4b6741e6d14a108f1f582faddef4c8"
 msgid "གལ་ཏེ་ རྒྱུ་ སྤྱད་པ་␣ར་ གྱུར་ ན་"
