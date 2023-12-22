@@ -8841,7 +8841,7 @@ msgstr "Because the so-called downfall is a downward fall."
 
 msgctxt "19cfb4956dc8445db6abf3d481830eb2"
 msgid "ཉོན་མོངས་ ཅན་ མིན་པ་ དེ་ ཆོས་ཅན །"
-msgstr ""
+msgstr "Take the subject that which is not an affliction."
 
 msgctxt "0696583af9f940779fa283b491e5de3e"
 msgid "ལྟུང་བ་ མིན་པ་␣ར་ ཐལ །"
