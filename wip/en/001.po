@@ -8805,7 +8805,7 @@ msgstr "Take this as the subject."
 
 msgctxt "43b8f916525b4a118060c21f4faddc98"
 msgid "ལྟུང་ ལྟུང་ མེད་ གཉིས་ སུ་ ཐག་ བཅད་ ན་"
-msgstr ""
+msgstr "If it is deemed to be a downfall or not."
 
 msgctxt "af0674f5a2d14bfda477903e07925e9b"
 msgid "ཉོན་མོངས་ ཅན་ མིན་པ་␣འི་ ལྟུང་བ་ མི་ སྲིད་པ་␣ར་ ཐལ །"
