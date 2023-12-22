@@ -8825,7 +8825,7 @@ msgstr ""
 
 msgctxt "ef23949695fc4803b84b932c677f0316"
 msgid "ཕུང་ གསུམ་ མི་ སྲིད་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "Then a third aggregate is impossible."
 
 msgctxt "3e5d620ec75a45fc8e340cd2a01792b9"
 msgid "ཡང་ དེ་ ཆོས་ཅན །"
