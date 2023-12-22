@@ -8833,7 +8833,7 @@ msgstr "Also, take this as the subject."
 
 msgctxt "7b0ebf95c2c94bd9a9849930afbccdea"
 msgid "མི་དགེ་ ཉོན་མོངས་པ་ ཡིན་པ་␣ར་ ཐལ །"
-msgstr ""
+msgstr "It follows that non-virtue is an affliction."
 
 msgctxt "1824191c7ec84ae9bb3d281b73d15106"
 msgid "ལྟུང་བ་ ཞེས་པ་ འོག་ ནས་ འོག་ ཏུ་ ལྟུང་པ་ ཡིན་པ་␣འི་ ཕྱིར །"
