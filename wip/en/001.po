@@ -8801,7 +8801,7 @@ msgstr "Then it is without downfall."
 
 msgctxt "1560adedda394c2a8a1257744c2800a1"
 msgid "དེ་ ཆོས་ཅན །"
-msgstr ""
+msgstr "Take this as the subject."
 
 msgctxt "43b8f916525b4a118060c21f4faddc98"
 msgid "ལྟུང་ ལྟུང་ མེད་ གཉིས་ སུ་ ཐག་ བཅད་ ན་"
