@@ -8853,7 +8853,7 @@ msgstr "Because it is free from the afflictions that are its cause."
 
 msgctxt "99052677da6441469301cd3904b02be4"
 msgid "དཔེར་ན་ སངས་རྒྱས་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "For example, like the Buddha."
 
 msgctxt "859ed70ca02a4729add219a708fec18e"
 msgid "ལེ་ལོ་ སོགས་ ཆོས་ཅན །"
