@@ -8845,7 +8845,7 @@ msgstr "Take the subject that which is not an affliction."
 
 msgctxt "0696583af9f940779fa283b491e5de3e"
 msgid "ལྟུང་བ་ མིན་པ་␣ར་ ཐལ །"
-msgstr ""
+msgstr "It follows that it is not a downfall."
 
 msgctxt "43c3d1d680be440591cb57207ebe3d43"
 msgid "རྒྱུ་ ཉོན་མོངས་ དང་ བྲལ་བ་␣འི་ ཕྱིར །"
