@@ -8747,7 +8747,7 @@ msgstr "Even those at the tenth level will fall."
 
 msgctxt "4b67ddc007ac4d43a7868e206bddfe2b"
 msgid "སངས་རྒྱས་ རྒྱུ་རྐྱེན་ གྱི་ རྗེས་སུ་ འབྲང་བ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Buddha follows after causes and conditions."
 
 msgctxt "3de6608c48dc49558e627898c5d72a83"
 msgid "མ་ གྲུབ་ ན་ རྒྱུ་རྐྱེན་ མི་འདོད་པ་"
