@@ -8891,6 +8891,7 @@ msgctxt "4f0138ae78c64adc8071ef3b94f66bb6"
 msgid ""
 "ཞེས་པ་␣ས་ ཉོན་མོངས་ ཅན་ མིན་པ་␣འི་ ལྟུང་བ་␣ར་ མི་ སྲིད་ ཅིང་ མ་ གྲུབ་བོ །"
 msgstr ""
+"Thus, the unafflicted downfall is both impossible and not established."
 
 msgctxt "99fa808a3ccf4fd7ad376b7da85054f1"
 msgid "རྡོ་␣༽༽  བྱང་སེམས་ རྣམས་ གཞན་དོན་ དུ་ དགེ་བ་␣ར་ གྱུར་པ་␣ས་"
