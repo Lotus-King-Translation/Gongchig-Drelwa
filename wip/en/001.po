@@ -8793,7 +8793,7 @@ msgstr "If it is not afflicted,"
 
 msgctxt "26d47914b80245f0bdcd2fdc44965b4c"
 msgid "ཚ་ སོགས་ རྐྱེན་ གྱིས་ མ་ནུ་␣ས་ ན་"
-msgstr ""
+msgstr "If it is unable to do with the conditions such as heat and so on."
 
 msgctxt "7a5b2d7d9d0a46d5b86c56732ca4b6ff"
 msgid "ལྟུང་ མེད་ ཡིན་ ཟེར །"
