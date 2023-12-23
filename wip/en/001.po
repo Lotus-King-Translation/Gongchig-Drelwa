@@ -8948,7 +8948,7 @@ msgstr "The Great Secret of Skillful Means says:"
 
 msgctxt "7d64418c3c8f453eb7d5b5545b01a8e5"
 msgid "རབ་མཆོག་ རྒྱལ་པོ་␣ས །"
-msgstr "The most supreme king "
+msgstr "The most supreme king said"
 
 msgctxt "fd6fa0a459004e739e9c2cc7cd1c22de"
 msgid "སེམས་ཅན་ གཅིག་ ལ་ དགེ་རྩ་ བསྐྱེད་ པའི ཕྱིར །"
