@@ -8963,6 +8963,8 @@ msgid ""
 "བྱུང་བ་ དེ་␣ས་ བསྐལ་པ་ འབུམ་ གྱི་ བར་ དུ་ དམྱལ་བ་␣ར་ གནས་པ་ ནི་ སླ་ ཡི་ "
 "སེམས་ཅན་ གཅིག་པོ་"
 msgstr ""
+"This occurrence to remain in hell for one hundred thousand aeons is easy. "
+"But only sentient beings"
 
 msgctxt "340086fb2de84211858e5a752ac0af60"
 msgid "དེ་␣འི་ དགེ་རྩ་ གཏོང་བ་ ནི་ དེ་ལྟ་ མིན་ ནོ ། །"
