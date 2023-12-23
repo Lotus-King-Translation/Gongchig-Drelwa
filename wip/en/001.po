@@ -9002,6 +9002,8 @@ msgctxt "cc55aec0966446d39ee523c74d491625"
 msgid ""
 "རྡོ་␣༽༽  བྱང་སེམས་ རྣམས་ ཐབས་མཁས་པ་␣ས་ མི་དགེ་བ་ ལ་ འཇུག་པ་␣ར་ འདོད་ མོད །"
 msgstr ""
+"Vajra: Though it is accepted that bodhisattvas engage in non-virtue "
+"skillfully. "
 
 msgctxt "5a1cbad051574e3295e709f894363b0e"
 msgid ""
