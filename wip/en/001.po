@@ -8956,7 +8956,7 @@ msgstr "To develop roots of virtue in one sentient being,"
 
 msgctxt "1bcbef24f29841ca93ed500cfe879d12"
 msgid "སེམས་ཅན་ རྣམས་ མ་འོངས་པ་␣ར་ འདི་ ལྟ་བུ་ འབྱུང་ ཞིང་"
-msgstr ""
+msgstr "Sentient beings will be like this in the future."
 
 msgctxt "96eb0614a3b042968997ebce070c4ebd"
 msgid ""
