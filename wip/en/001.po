@@ -8996,7 +8996,7 @@ msgstr "When he became a buddha, by holding acacia"
 
 msgctxt "a6d161ce2810421495b63fb56ce491af"
 msgid "འབྲས་བུ་འབྱུང་བ་␣འི་ ཚུལ་ བསྟན་པ་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "He showed how the results occurred."
 
 msgctxt "cc55aec0966446d39ee523c74d491625"
 msgid ""
