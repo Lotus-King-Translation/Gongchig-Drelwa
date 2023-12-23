@@ -8982,7 +8982,7 @@ msgstr ""
 
 msgctxt "142df94b174b4fafbae40c03e8888a1a"
 msgid "འབྲས་བུ་ མི་ འབྱུང་བ་ ནི་ མིན་ ཏེ །"
-msgstr ""
+msgstr "It is not the case that the fruit will not occur,"
 
 msgctxt "93264b7248d94a9fb51871e534fe10ae"
 msgid "དེད་དཔོན་ སྙིང་རྗེ་ ཆེན་པོ་ ལོ་ སྟོང་ཕྲག་ མང་པོ་␣ར་ དམྱལ་བ་ མྱོང་ ནས་"
