@@ -8932,11 +8932,11 @@ msgstr ""
 
 msgctxt "5817e7ea49f74ad4945bbd5c25a8afb8"
 msgid "དབང་མེད་ ལ་␣ས་ ཀྱི་ རྣམ་སྨིན་ འབྱུང་བ་ ལ །"
-msgstr ""
+msgstr "The occurrence of complete ripening of karma beyond [our] control,"
 
 msgctxt "bca61636b1834e7fa93cf21d4a6378ed"
 msgid "སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ ནི་ མངའ་ མི་ མཛད །"
-msgstr ""
+msgstr "Buddha, the Blessed One, does not possess it. "
 
 msgctxt "c1b9e186eae346e5b211bac59f9c6b2c"
 msgid "ཅེས་ དང་ །"
