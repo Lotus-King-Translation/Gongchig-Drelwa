@@ -8977,6 +8977,8 @@ msgstr "As said."
 msgctxt "727e91d912464b699f73d13312209153"
 msgid "སྡོམ་པ་ ཉི་ཤུ་པ་ དང་ སྤྱོད་འཇུག་ གི་ ལུང་ བཀོད་ ནུས་པ་␣ས་ གསུངས་ ཀྱི །"
 msgstr ""
+"The words quoted in the Twenty Verses on Vows and the Engaging in the "
+"Bodhisattva's Conduct:"
 
 msgctxt "142df94b174b4fafbae40c03e8888a1a"
 msgid "འབྲས་བུ་ མི་ འབྱུང་བ་ ནི་ མིན་ ཏེ །"
