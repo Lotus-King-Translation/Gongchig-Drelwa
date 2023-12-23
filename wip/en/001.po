@@ -8924,6 +8924,7 @@ msgstr "[They] have attained forbearance for others."
 msgctxt "29e4836b47284d55a8d1c7ec46581fbe"
 msgid "དམྱལ་བ་␣ར་ གནས་པ་␣ར་ ནུས་པ་ ལ་ གནང་བ་␣འི་ ཕྱིར །"
 msgstr ""
+"Because [they] are capable of remaining in hell and permission is granted. "
 
 msgctxt "02db86bf7f544b28b178608420b4b31f"
 msgid "འཕྲུལ་ དག་ བདེན་པ་␣འི་ མདོ་ ལ་␣ས །"
