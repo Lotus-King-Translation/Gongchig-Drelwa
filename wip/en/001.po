@@ -8987,6 +8987,8 @@ msgstr "It is not the case that the fruit will not occur,"
 msgctxt "93264b7248d94a9fb51871e534fe10ae"
 msgid "དེད་དཔོན་ སྙིང་རྗེ་ ཆེན་པོ་ ལོ་ སྟོང་ཕྲག་ མང་པོ་␣ར་ དམྱལ་བ་ མྱོང་ ནས་"
 msgstr ""
+"Because the captain Mahakarunika, after experiencing hell for many thousands"
+" of years,"
 
 msgctxt "f29467da17f047b2ba0ab6732f2fa598"
 msgid "སངས་རྒྱས་པ་␣འི་ དུས་ སུ་␣འང་ སེང་ལྡེང་ ཟུགས་ ཏེ་"
