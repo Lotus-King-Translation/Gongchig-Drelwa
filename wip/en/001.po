@@ -8911,7 +8911,7 @@ msgstr ""
 
 msgctxt "bdd1b0862a6945d5847caa3a61eb52de"
 msgid "འདི་␣ར་ ཉེས་པ་␣ར་ མི་ འགྱུར་ གནང་བ་ མེད་ དེ་"
-msgstr ""
+msgstr "In this [system], there is no fault and no permission"
 
 msgctxt "a28275bbf52848c5b435c9cb7cf38870"
 msgid "བྱང་སེམས་ རྣམས་ བདག་ཉིད་ ཡལ་བ་␣ར་ དོར་ ནས་"
