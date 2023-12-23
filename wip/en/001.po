@@ -8915,11 +8915,11 @@ msgstr "In this [system], there is no fault and no permission"
 
 msgctxt "a28275bbf52848c5b435c9cb7cf38870"
 msgid "བྱང་སེམས་ རྣམས་ བདག་ཉིད་ ཡལ་བ་␣ར་ དོར་ ནས་"
-msgstr ""
+msgstr "Bodhisattvas having forsaken themselves"
 
 msgctxt "52288714e0c949fa89a5c2c0ce41a921"
 msgid "གཞན་དོན་ དུ་ བཟོད་པ་ ཐོབ་པ་"
-msgstr ""
+msgstr "[They] have attained forbearance for others."
 
 msgctxt "29e4836b47284d55a8d1c7ec46581fbe"
 msgid "དམྱལ་བ་␣ར་ གནས་པ་␣ར་ ནུས་པ་ ལ་ གནང་བ་␣འི་ ཕྱིར །"
