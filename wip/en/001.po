@@ -8940,7 +8940,7 @@ msgstr "Buddha, the Blessed One, does not possess it. "
 
 msgctxt "c1b9e186eae346e5b211bac59f9c6b2c"
 msgid "ཅེས་ དང་ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "fd00af2607e0468b9ef8cf5c5be45925"
 msgid "གསང་ ཆེན་ ཐབས་མཁས་ ལ་␣ས །"
