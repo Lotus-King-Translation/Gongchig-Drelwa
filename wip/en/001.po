@@ -8968,7 +8968,7 @@ msgstr ""
 
 msgctxt "340086fb2de84211858e5a752ac0af60"
 msgid "དེ་␣འི་ དགེ་རྩ་ གཏོང་བ་ ནི་ དེ་ལྟ་ མིན་ ནོ ། །"
-msgstr ""
+msgstr "giving up roots of virtue is not like that. "
 
 msgctxt "bb014210d68343938c2b1d4141626bb1"
 msgid "ཞེས་ སོ །"
