@@ -8952,7 +8952,7 @@ msgstr "The most supreme king "
 
 msgctxt "fd6fa0a459004e739e9c2cc7cd1c22de"
 msgid "སེམས་ཅན་ གཅིག་ ལ་ དགེ་རྩ་ བསྐྱེད་ པའི ཕྱིར །"
-msgstr ""
+msgstr "To develop roots of virtue in one sentient being,"
 
 msgctxt "1bcbef24f29841ca93ed500cfe879d12"
 msgid "སེམས་ཅན་ རྣམས་ མ་འོངས་པ་␣ར་ འདི་ ལྟ་བུ་ འབྱུང་ ཞིང་"
