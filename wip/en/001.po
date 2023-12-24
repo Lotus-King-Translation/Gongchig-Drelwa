@@ -9135,7 +9135,7 @@ msgstr "Although the noble Shariputra was a bodhisattva of the sixth level."
 
 msgctxt "ecfd0b11fb034e7fa2c992efe57bb7b4"
 msgid "དུས་ ལ་མ་ བབས་པ་␣ར་ ལུས་ བྱིན་པ་␣ས་"
-msgstr ""
+msgstr "Because he donated his body before it was right time."
 
 msgctxt "fe8dcf9c49144f85842f21256459325c"
 msgid "ཉན་ཐོས་ ཀྱི་ ས་␣ར་ ལྟུང་བ་␣འི་ རྐྱེན་ བྱས་པ་ བཞིན་ ནོ ། །"
