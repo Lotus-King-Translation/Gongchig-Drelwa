@@ -9198,7 +9198,7 @@ msgstr "This is the practical instruction of the Dharma lord."
 
 msgctxt "3977abc8b959415585795bc65821cd65"
 msgid "ལྷན་␣༽༽  ཐབས་ ཚོགས་ བསགས་པ་␣འི་ ཡུལ་"
-msgstr ""
+msgstr "Addendum: the place of gathering the accumulation of methods"
 
 msgctxt "7849ece1f894441aab8908ff2de35a42"
 msgid ""
