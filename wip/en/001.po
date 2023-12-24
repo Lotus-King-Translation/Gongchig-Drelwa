@@ -9023,7 +9023,7 @@ msgstr ""
 
 msgctxt "a44d1e8d8d4742efaf7ccd3938891ea0"
 msgid "སེམས་ཅན་ སྨིན་གྲོལ་ མི་ ནུས་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Therefore, sentient beings are unable to ripen or liberate."
 
 msgctxt "9def8898ea0f47268214833eaa1c5236"
 msgid "དཔེར་ན་ མུན་པ་ སང་ མི་ ནུས་པ་ བཞིན་ ནོ ། །"
