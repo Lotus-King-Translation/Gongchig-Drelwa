@@ -9173,7 +9173,7 @@ msgstr "This body, which is utilized for sacred dharma,"
 
 msgctxt "d0287c8b460e476e8860abe0859b99b4"
 msgid "ཕྲན་ཚེགས་ ཆེད་ དུ་ གནོད་ མི་ བྱ །"
-msgstr "Should not be harmed for a minor thing."
+msgstr "Should not be harmed for a minor advantage."
 
 msgctxt "069d28c51b0f4a9d8178310d217e49ea"
 msgid "ཞེས་ སོགས་ གསུངས་ སོ ། །"
