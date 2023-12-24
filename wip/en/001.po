@@ -9131,7 +9131,7 @@ msgstr "It will become an obstacle to excellent practice."
 
 msgctxt "acf8e798b2fc446d81311ac810ecc79d"
 msgid "འཕགས་པ་ ཤཱ་རི་␣འི་ བུ་ བྱང་སེམས་ ས་ དྲུག་པ་ ཡིན་ ཀྱང་"
-msgstr ""
+msgstr "Although the noble Shariputra was a bodhisattva of the sixth level."
 
 msgctxt "ecfd0b11fb034e7fa2c992efe57bb7b4"
 msgid "དུས་ ལ་མ་ བབས་པ་␣ར་ ལུས་ བྱིན་པ་␣ས་"
