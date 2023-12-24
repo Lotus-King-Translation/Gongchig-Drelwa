@@ -9156,6 +9156,7 @@ msgstr ""
 msgctxt "052e6e7f0f2e4cd79f91e545ed016a2c"
 msgid "མཐོང་ལམ་ ནས་ ས་ འདུན་པ་␣འི་ བར་ སྤྱོད་པ་␣ར་ འཇུག །"
 msgstr ""
+"From the path of seeing up to the seventh level, engage in the conduct."
 
 msgctxt "07c253fd1f024314a9f137c83bcf4137"
 msgid "ས་ བརྒྱད་པ་ ནས་ སྤྱོད་པ་ རླབས་པོ་ཆེ་ ལ་ འཇུག་པ་ ཡིན་ ནོ ། །"
