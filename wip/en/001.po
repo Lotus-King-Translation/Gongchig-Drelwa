@@ -9035,7 +9035,7 @@ msgstr "Thus, skillful practices are exclusively virtuous."
 
 msgctxt "0b66e546ae654e299983dd5bc6e7ea4f"
 msgid "ཤེས་བྱ་ ཐམས་ཅད་ བྱང་སེམས་ ཀྱི་ བསླབ་པ་␣ར་ གསུངས་ ཀྱང་"
-msgstr ""
+msgstr "Although all knowable are said to be the training of bodhisattvas,"
 
 msgctxt "804cd6f3500d4878afc3466afecd7972"
 msgid "བླང་ བྱ་ འབའ་ཞིག་ ག་ལ་ ཡིན །"
