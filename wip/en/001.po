@@ -9145,7 +9145,7 @@ msgctxt "734d35a64c8f44d79e3454eaea20a438"
 msgid "དེས་ན་ ཚོགས་སྦྱོར་ དུ་ བསམ་པ་ རྒྱ་ཆེན་པོ་ བསྐྱེད་ ནས་"
 msgstr ""
 "Therefore, at the time of the [paths of] accumulation and connection, "
-"generates a vast attitude."
+"generates a vast aspiration."
 
 msgctxt "8c32d4522f664ff2a99f3f3067c24b35"
 msgid "སྦྱོར་བ་ གཞན་དོན་ འགྲུབ་ ཚད་ ལྕོག་ ཚད་ བྱ །"
