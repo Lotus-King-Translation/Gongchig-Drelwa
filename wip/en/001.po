@@ -9073,7 +9073,7 @@ msgstr "Thus, when a fox tries to jump where a lion jumps"
 
 msgctxt "633e26885b5045cabe22a30b0e5a5c81"
 msgid "རྐེད་པ་ བྲལ་བ་␣ས་ གཟབ་ དགོས་ སོ །"
-msgstr ""
+msgstr "It should be careful of the back sprain. "
 
 msgctxt "3f60f603d0614666a276987c3a74386a"
 msgid "རྡོ་␣༽༽  སྙིང་རྗེ་ ཆེན་པོ་␣ས་ གཞན་དོན་ དུ་ སྨོན་ལམ་ འདེབས་པ་ དང་"
