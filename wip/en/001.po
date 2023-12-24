@@ -9109,7 +9109,7 @@ msgstr "It is also dependent on the tip of one's purposeful intent. "
 
 msgctxt "6239b846faaa43e691ecda837d1b900a"
 msgid "གང་ གིས་ སྨོན་ལམ་ ཅི་ བཏབ་པ ། །"
-msgstr ""
+msgstr "Whatever aspirational prayers people offer."
 
 msgctxt "8375ca8dabfb46d09fcd78d9fe27a5c6"
 msgid "དེ་ འདྲ་␣འི་ འབྲས་བུ་ ཐོབ་པ་␣ར་ འགྱུར །"
