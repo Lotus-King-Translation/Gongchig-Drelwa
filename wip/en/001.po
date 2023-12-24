@@ -9087,7 +9087,7 @@ msgstr "exchanging self and others."
 
 msgctxt "3f03435623264d1dbeff1ba730f83474"
 msgid "འདི་␣ར་ ནི་ རང་གཞན་ བརྗེ་བ་ དེ་"
-msgstr ""
+msgstr "In this [system], in exchanging self and others"
 
 msgctxt "ca2c6fba682b40fb8dc206d0565d9aca"
 msgid "ཐབས་ལམ་ མཁས་ ན་ ཉེས་པ་␣ར་ འགྱུར་བ་␣འི་ སྐབས་ ཡོད་ དེ་"
