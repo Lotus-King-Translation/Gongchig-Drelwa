@@ -9065,7 +9065,7 @@ msgstr ""
 
 msgctxt "558bb87d0c244adbaf5d3f82968df3d0"
 msgid "འབྲས་བུ་ བཀོད་ ནུས་པ་ ལ་ གསུངས་ སོ ། །"
-msgstr ""
+msgstr "And the capacity to place the result."
 
 msgctxt "900e7c7507d6454181405362039be56c"
 msgid "དེས་ན་ སེང་གེ་ འཁྱོངས་ ས་␣ར་ ཝ་སྐྱེས་ འཁྱོངས་ ན་"
