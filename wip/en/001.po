@@ -9185,7 +9185,7 @@ msgstr "Well then, if one wonders what this means,"
 
 msgctxt "5bc54ddd58a645019277454675ba0d87"
 msgid "ན་ཚ་ སོགས་ སྡུག་བསྔལ་ སྐྱེ་ དུས་"
-msgstr ""
+msgstr "When the sufferings of sickness and so on arise,"
 
 msgctxt "96b07d7f37dd474eb96d7dfb4b8c5ad8"
 msgid "ལམ་ དུ་ གཏོང་བ་ མཛའ་བོ་␣འི་ བུ་མོ་ ལྟ་བུ་ ཉམས་ སུ་ ལེན་ དགོས་པ་"
