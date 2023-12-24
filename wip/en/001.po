@@ -9113,7 +9113,7 @@ msgstr "Whatever aspirational prayers people offer."
 
 msgctxt "8375ca8dabfb46d09fcd78d9fe27a5c6"
 msgid "དེ་ འདྲ་␣འི་ འབྲས་བུ་ ཐོབ་པ་␣ར་ འགྱུར །"
-msgstr ""
+msgstr "A similar result will be attained."
 
 msgctxt "318ab23716a147dbb7b8b0beec2f1662"
 msgid "ཞེས་པ་␣ས་ སྨོན་ལམ་ འགྲུབ་ ཅིང་"
