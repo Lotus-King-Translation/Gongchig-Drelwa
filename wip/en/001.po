@@ -9194,7 +9194,7 @@ msgstr ""
 
 msgctxt "0609d7b9782b44368252a1711e687122"
 msgid "ཆོས་རྗེ་␣འི་ ཕྱག་བཞེས་ ཡིན་ ནོ །"
-msgstr ""
+msgstr "This is the practical instruction of the Dharma lord."
 
 msgctxt "3977abc8b959415585795bc65821cd65"
 msgid "ལྷན་␣༽༽  ཐབས་ ཚོགས་ བསགས་པ་␣འི་ ཡུལ་"
