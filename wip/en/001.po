@@ -9031,7 +9031,7 @@ msgstr "Just like one cannot clear away the darkness."
 
 msgctxt "5fd751b424834840b17f881ae5ead1b8"
 msgid "དེས་ན་ ཐབས་མཁས་ སྤྱོད་པ་ དགེ་བ་ ཁོ་ན་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "Thus, skillful practices are exclusively virtuous."
 
 msgctxt "0b66e546ae654e299983dd5bc6e7ea4f"
 msgid "ཤེས་བྱ་ ཐམས་ཅད་ བྱང་སེམས་ ཀྱི་ བསླབ་པ་␣ར་ གསུངས་ ཀྱང་"
