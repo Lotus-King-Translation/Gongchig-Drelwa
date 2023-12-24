@@ -9096,6 +9096,8 @@ msgstr "There is an occasion of fault in skillful means."
 msgctxt "14067714e7bc4e5f8428734b45781eb7"
 msgid "བཟོད་པ་ མ་ ཐོབ་ ན་ འཇམ་དཔལ་ གྱི་ ཞིང་ བཀོད་ ལ་␣ས །"
 msgstr ""
+"If [one] has not attained the forbearance. According to the Array of Virtues"
+" of Manjushri's Buddha Realm:"
 
 msgctxt "a137eafd05ae4067a4ba565f35b1361d"
 msgid "ཆོས་ རྣམས་ ཐམས་ཅད་ རྐྱེན་ བཞིན་ དུ ། །"
