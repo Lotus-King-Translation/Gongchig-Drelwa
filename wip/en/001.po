@@ -9161,6 +9161,7 @@ msgstr ""
 msgctxt "07c253fd1f024314a9f137c83bcf4137"
 msgid "ས་ བརྒྱད་པ་ ནས་ སྤྱོད་པ་ རླབས་པོ་ཆེ་ ལ་ འཇུག་པ་ ཡིན་ ནོ ། །"
 msgstr ""
+"From the eighth level onward, one engages in the conduct with great force."
 
 msgctxt "1c02d9364ee443e0bc994e6a6bd89940"
 msgid "དེ་ཕྱིར་ སྤྱོད་འཇུག་ ལ་␣ས །"
