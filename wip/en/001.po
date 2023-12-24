@@ -9105,7 +9105,7 @@ msgstr "All phenomena are conditional."
 
 msgctxt "2986788aa8ee4c9c8e1a6f6d38f37319"
 msgid "འདུན་པ་␣འི་ རྩེ་ ལ་ རབ་ཏུ་ གནས །"
-msgstr ""
+msgstr "It is also dependent on one's purposeful intent. "
 
 msgctxt "6239b846faaa43e691ecda837d1b900a"
 msgid "གང་ གིས་ སྨོན་ལམ་ ཅི་ བཏབ་པ ། །"
