@@ -9081,7 +9081,7 @@ msgstr "Vajra: The great compassion aspires for the benefit of others and"
 
 msgctxt "90345edb20b44122869dd9f1bf4a4a15"
 msgid "རང་གཞན་ བརྗེ་བ་␣ར་ བཤད་ དོ ། །"
-msgstr ""
+msgstr "exchanging self and others."
 
 msgctxt "3f03435623264d1dbeff1ba730f83474"
 msgid "འདི་␣ར་ ནི་ རང་གཞན་ བརྗེ་བ་ དེ་"
