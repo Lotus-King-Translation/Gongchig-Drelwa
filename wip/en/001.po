@@ -9060,6 +9060,8 @@ msgstr ""
 msgctxt "f031bd9fdae74fcbb03248a6f3030283"
 msgid "འདི་ ནི་ སྐྱེ་བ་␣འི་ ཆོས་ ལ་ བཟོད་པ་ ཐོབ་པ་␣ས་"
 msgstr ""
+"This is said regarding the attainment of the forbearance of the reality of "
+"birth"
 
 msgctxt "558bb87d0c244adbaf5d3f82968df3d0"
 msgid "འབྲས་བུ་ བཀོད་ ནུས་པ་ ལ་ གསུངས་ སོ ། །"
