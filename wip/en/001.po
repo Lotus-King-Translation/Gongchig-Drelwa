@@ -9117,7 +9117,7 @@ msgstr "A similar result will be attained."
 
 msgctxt "318ab23716a147dbb7b8b0beec2f1662"
 msgid "ཞེས་པ་␣ས་ སྨོན་ལམ་ འགྲུབ་ ཅིང་"
-msgstr "Thus, if these aspirations are accomplished."
+msgstr "Thus, these aspirations will be accomplished."
 
 msgctxt "db6e546010fd4340b3cb7da424047a94"
 msgid "གྲུབ་ ན་ སྡུག་བསྔལ་ ཉེ་␣ས་ ཚོགས་ ཀྱིས་ ཚུལ་ ཟིལ་ གྱིས་ མནན་ ཏེ་"
