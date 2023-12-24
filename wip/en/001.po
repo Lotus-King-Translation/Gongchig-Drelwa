@@ -9150,6 +9150,8 @@ msgstr ""
 msgctxt "8c32d4522f664ff2a99f3f3067c24b35"
 msgid "སྦྱོར་བ་ གཞན་དོན་ འགྲུབ་ ཚད་ ལྕོག་ ཚད་ བྱ །"
 msgstr ""
+"In terms of application, one should accomplish whatever is possible for the "
+"benefit of others."
 
 msgctxt "052e6e7f0f2e4cd79f91e545ed016a2c"
 msgid "མཐོང་ལམ་ ནས་ ས་ འདུན་པ་␣འི་ བར་ སྤྱོད་པ་␣ར་ འཇུག །"
