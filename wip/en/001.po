@@ -9165,7 +9165,7 @@ msgstr ""
 
 msgctxt "1c02d9364ee443e0bc994e6a6bd89940"
 msgid "དེ་ཕྱིར་ སྤྱོད་འཇུག་ ལ་␣ས །"
-msgstr ""
+msgstr "Therefore, according to the Engaging in the Bodhisattva's Conduct:"
 
 msgctxt "7198be7a81d64c719afbec52a49285c6"
 msgid "དམ་པ་␣འི་ ཆོས་ ནི་ སྤྱོད་པ་␣འི་ ལུས ། །"
