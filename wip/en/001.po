@@ -9014,7 +9014,7 @@ msgstr ""
 
 msgctxt "d91743f81e3d45a7a723ed3221aa324a"
 msgid "དགེ་བ་ ལ་␣ས་ མཐོ་རིས་ ཐར་པ་ དང་ །"
-msgstr ""
+msgstr "From virtue come the higher realms and emancipation."
 
 msgctxt "7d63cdab614b45a8abc34c5adadeb4af"
 msgid "མི་དགེ་བ་ ལ་␣ས་ འཁོར་བ་ ངན་སོང་ གི་ སྡུག་ འསྔལ་ འབྱུང་བ་␣ས་"
