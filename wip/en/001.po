@@ -9101,7 +9101,7 @@ msgstr ""
 
 msgctxt "a137eafd05ae4067a4ba565f35b1361d"
 msgid "ཆོས་ རྣམས་ ཐམས་ཅད་ རྐྱེན་ བཞིན་ དུ ། །"
-msgstr ""
+msgstr "All phenomena are conditional."
 
 msgctxt "2986788aa8ee4c9c8e1a6f6d38f37319"
 msgid "འདུན་པ་␣འི་ རྩེ་ ལ་ རབ་ཏུ་ གནས །"
