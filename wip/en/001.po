@@ -9043,7 +9043,7 @@ msgstr "How could they be only something to be adopted?"
 
 msgctxt "bfc90aba2b2944298bb8c7edf9fb46c4"
 msgid "དུག་ སྤང་ རྒྱུ་ ཡིན་ཡང་ ངོ་མ་ ཤེས་ ན་"
-msgstr ""
+msgstr "Although the poison should be abandoned, if it is not recognized"
 
 msgctxt "b209bd06fafb4048bd5ec0fe455efbf6"
 msgid "སྤོང་ མི་ ཤེས་པ་ བཞིན་ ནོ ། །"
