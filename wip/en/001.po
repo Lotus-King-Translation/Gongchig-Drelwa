@@ -9054,6 +9054,8 @@ msgid ""
 "ཤེར་ཕྱིན་ དང་ གསང་ ཆེན་ ཐབས་མཁས་ ལ་␣ས་ གསུངས་པ་␣འི་ ཐབས་མཁས་པ་␣ས་ སྤྱོད་ ན་ "
 "ཉེས་པ་ མེད་ གསུངས་པ་"
 msgstr ""
+"The statement in The Perfection of Wisdom and the Great Secret of Skillful "
+"Means that there is no fault in the practice of skillful means, "
 
 msgctxt "f031bd9fdae74fcbb03248a6f3030283"
 msgid "འདི་ ནི་ སྐྱེ་བ་␣འི་ ཆོས་ ལ་ བཟོད་པ་ ཐོབ་པ་␣ས་"
