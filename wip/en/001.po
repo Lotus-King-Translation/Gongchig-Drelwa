@@ -9127,7 +9127,7 @@ msgstr ""
 
 msgctxt "38a51b43dd3d4de4be2eae82a94f5ae9"
 msgid "ལེགས་ སྤྱོད་ ཀྱི་ བར་ཆད་ དུ་ འགྱུར་བ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "It will become an obstacle to excellent practice."
 
 msgctxt "acf8e798b2fc446d81311ac810ecc79d"
 msgid "འཕགས་པ་ ཤཱ་རི་␣འི་ བུ་ བྱང་སེམས་ ས་ དྲུག་པ་ ཡིན་ ཀྱང་"
