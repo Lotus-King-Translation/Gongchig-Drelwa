@@ -9039,7 +9039,7 @@ msgstr "Although all knowable are said to be the training of bodhisattvas,"
 
 msgctxt "804cd6f3500d4878afc3466afecd7972"
 msgid "བླང་ བྱ་ འབའ་ཞིག་ ག་ལ་ ཡིན །"
-msgstr ""
+msgstr "How could they be only something to be adopted?"
 
 msgctxt "bfc90aba2b2944298bb8c7edf9fb46c4"
 msgid "དུག་ སྤང་ རྒྱུ་ ཡིན་ཡང་ ངོ་མ་ ཤེས་ ན་"
