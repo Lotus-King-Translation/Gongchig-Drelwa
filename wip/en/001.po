@@ -9027,7 +9027,7 @@ msgstr "Therefore, sentient beings are unable to ripen or liberate."
 
 msgctxt "9def8898ea0f47268214833eaa1c5236"
 msgid "དཔེར་ན་ མུན་པ་ སང་ མི་ ནུས་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "Just like one cannot clear away the darkness."
 
 msgctxt "5fd751b424834840b17f881ae5ead1b8"
 msgid "དེས་ན་ ཐབས་མཁས་ སྤྱོད་པ་ དགེ་བ་ ཁོ་ན་ ཡིན་ ནོ ། །"
