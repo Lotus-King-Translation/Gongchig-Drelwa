@@ -9139,7 +9139,7 @@ msgstr "Because he donated his body before it was right time."
 
 msgctxt "fe8dcf9c49144f85842f21256459325c"
 msgid "ཉན་ཐོས་ ཀྱི་ ས་␣ར་ ལྟུང་བ་␣འི་ རྐྱེན་ བྱས་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "It is just as when it caused him to fall to the shravaka level."
 
 msgctxt "734d35a64c8f44d79e3454eaea20a438"
 msgid "དེས་ན་ ཚོགས་སྦྱོར་ དུ་ བསམ་པ་ རྒྱ་ཆེན་པོ་ བསྐྱེད་ ནས་"
