@@ -9122,6 +9122,8 @@ msgstr "Thus, these aspirations will be accomplished."
 msgctxt "db6e546010fd4340b3cb7da424047a94"
 msgid "གྲུབ་ ན་ སྡུག་བསྔལ་ ཉེ་␣ས་ ཚོགས་ ཀྱིས་ ཚུལ་ ཟིལ་ གྱིས་ མནན་ ཏེ་"
 msgstr ""
+"If these are accomplished, suffering and the accumulation of faults will "
+"suppress"
 
 msgctxt "38a51b43dd3d4de4be2eae82a94f5ae9"
 msgid "ལེགས་ སྤྱོད་ ཀྱི་ བར་ཆད་ དུ་ འགྱུར་བ་␣འི་ ཕྱིར །"
