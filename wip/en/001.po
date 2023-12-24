@@ -9181,7 +9181,7 @@ msgstr "And so on, said. "
 
 msgctxt "336572e2c86a44a299814615bbf12472"
 msgid "འོ་ན་ ཅི་ ཞེ་ན །"
-msgstr ""
+msgstr "Well then, if one wonders what this means,"
 
 msgctxt "5bc54ddd58a645019277454675ba0d87"
 msgid "ན་ཚ་ སོགས་ སྡུག་བསྔལ་ སྐྱེ་ དུས་"
