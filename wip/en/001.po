@@ -9077,7 +9077,7 @@ msgstr "It should be careful of the back sprain. "
 
 msgctxt "3f60f603d0614666a276987c3a74386a"
 msgid "རྡོ་␣༽༽  སྙིང་རྗེ་ ཆེན་པོ་␣ས་ གཞན་དོན་ དུ་ སྨོན་ལམ་ འདེབས་པ་ དང་"
-msgstr ""
+msgstr "Vajra: The great compassion aspires for the benefit of others and"
 
 msgctxt "90345edb20b44122869dd9f1bf4a4a15"
 msgid "རང་གཞན་ བརྗེ་བ་␣ར་ བཤད་ དོ ། །"
