@@ -9009,6 +9009,8 @@ msgctxt "5a1cbad051574e3295e709f894363b0e"
 msgid ""
 "དེ་ ཆོས་ཅན་ ཐབས་མཁས་པ་␣འི་ སྤྱོད་པ་ ལ་ མི་དགེ་བ་ ཡོད་པ་ མ་ཡིན་པ་␣ར་ ཐལ །"
 msgstr ""
+"Take that as the subject, it follows that there is no non-virtue in the "
+"practice of skillful methods."
 
 msgctxt "d91743f81e3d45a7a723ed3221aa324a"
 msgid "དགེ་བ་ ལ་␣ས་ མཐོ་རིས་ ཐར་པ་ དང་ །"
