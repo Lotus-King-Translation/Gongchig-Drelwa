@@ -9069,7 +9069,7 @@ msgstr "And the capacity to place the result."
 
 msgctxt "900e7c7507d6454181405362039be56c"
 msgid "དེས་ན་ སེང་གེ་ འཁྱོངས་ ས་␣ར་ ཝ་སྐྱེས་ འཁྱོངས་ ན་"
-msgstr ""
+msgstr "Thus, when a fox tries to jump where a lion jumps"
 
 msgctxt "633e26885b5045cabe22a30b0e5a5c81"
 msgid "རྐེད་པ་ བྲལ་བ་␣ས་ གཟབ་ དགོས་ སོ །"
