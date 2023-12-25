@@ -9264,7 +9264,7 @@ msgstr ""
 
 msgctxt "47d3bb76f34f45258a4ee04482745d04"
 msgid "བདེ་བ་␣ར་ འབྲེལ་བ་ ཡིན་ ཟེར་ མོད །"
-msgstr ""
+msgstr "it is connected to happiness. As [they] said this."
 
 msgctxt "b4b0588b773843a9a573f7c233e0216f"
 msgid "དེ་ ཆོས་ཅན་"
