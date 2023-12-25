@@ -9254,6 +9254,8 @@ msgstr "This is also a marvelous elimination of obstructions. "
 msgctxt "12209c27a8164953b57b889bf5df8e2c"
 msgid "རྡོ་␣༽༽  གང་ ལ་ གནོད་པ་ བྱས་ ཀྱང་ བདེ་ འབྲེལ་བ་ ཞེས་པ་␣ས་"
 msgstr ""
+"Vajra: It is said that though one causes harm to another, one can still be "
+"connected to happiness."
 
 msgctxt "0406a32b70a441898a810a2c6b644647"
 msgid "བྱང་སེམས་ ལ་ གནོད་པ་ བྱས་པ་␣འི་ ཕྲིན་ལས་ འཇུག་ ཏེ་"
