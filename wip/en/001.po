@@ -9237,7 +9237,7 @@ msgstr "The thing, the cherishing body is transformed into nectar."
 
 msgctxt "fa5ad26c7556484089f81a2677297b6e"
 msgid "ཟད་པ་ མེད་པ་␣ར་ ཕུལ་བ་␣ས་ ཁྱད་པར་ འཕགས་པ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ །"
-msgstr ""
+msgstr "Because inexhaustible offerings are made, it is superior."
 
 msgctxt "e2a5eb3bea024a1c8d92887206970425"
 msgid "ན་ཚ་ སོགས་ བྱུང་ དུས་ ཀུ་ ས་ ལི་␣འི་ ལམ་ གཏོང་"
