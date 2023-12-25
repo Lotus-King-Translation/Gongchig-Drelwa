@@ -9229,7 +9229,7 @@ msgstr ""
 
 msgctxt "511e27aac90e43419e008f1431df59e9"
 msgid "བསམ་པ་ དོན་ གཉིས་ སྒྲུབ་པ་␣འི་ ཕྱིར་ ཁྱད་པར་ འཕགས་པ །"
-msgstr ""
+msgstr "It is superior because it accomplishes the two wishes."
 
 msgctxt "b16c0fb377f140778e9c900c126ea527"
 msgid "དངོས་པོ་ གཅེས་པ་␣འི་ ལུས་ བདུད་རྩི་␣ར་ བསྒྱུར་ ཏེ་"
