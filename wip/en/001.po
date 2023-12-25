@@ -9275,6 +9275,8 @@ msgid ""
 "སེམས་དཔ་␣ར་ རྒྱུ་ གནོད་ བྱས་པ་␣འི་ འབྲས་བུ་ བདེ་བ་␣ར་ མ་ འབྲེལ་ ཞིང་ "
 "མི་རིགས་པ་␣ར་ ཐལ །"
 msgstr ""
+"The cause, harming bodhisattvas is not connected happiness, thus it follows "
+"illogically. "
 
 msgctxt "f82ba00441a548c79317135a11d1c332"
 msgid ""
