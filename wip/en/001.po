@@ -9245,7 +9245,7 @@ msgstr "When illness and so forth occur, giving up the kusali path"
 
 msgctxt "3e2e0f98befe47e0bb405e5692eae866"
 msgid "འདི་ཁོ་ན་ ལ་␣ས་ གཞན་ གྱིས་ མི་ ཕན་པ་␣ས་"
-msgstr ""
+msgstr "Apart from this, others will not help."
 
 msgctxt "94f3cb8d8eff4be1b805428354a26cfc"
 msgid "གེགས་ སེལ་ ཁྱད་འཕགས་ ཡང་ འདི་ ཡིན་ ནོ །"
