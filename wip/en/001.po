@@ -9285,7 +9285,7 @@ msgstr "Because that which is motivated by aversion is the seed of suffering."
 
 msgctxt "772d4e4214a64882a538dc596d3ce196"
 msgid "དཔེར་ན་ དྲུག་ གི་ ས་བོན་ འབྲས་བུ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "For example, the results from the seeds of the six."
 
 msgctxt "4ac22f1af88b47b4ad0ff46c287d9200"
 msgid "དེ་སྐད་ དུའང་ སངས་རྒྱས་ མི་ སྤོང་བ་␣འི་ མདོ་ ལ་␣ས །"
