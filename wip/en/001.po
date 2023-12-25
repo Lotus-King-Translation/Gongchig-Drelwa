@@ -9241,7 +9241,7 @@ msgstr "Because inexhaustible offerings are made, it is superior."
 
 msgctxt "e2a5eb3bea024a1c8d92887206970425"
 msgid "ན་ཚ་ སོགས་ བྱུང་ དུས་ ཀུ་ ས་ ལི་␣འི་ ལམ་ གཏོང་"
-msgstr ""
+msgstr "When illness and so forth occur, giving up the kusali path"
 
 msgctxt "3e2e0f98befe47e0bb405e5692eae866"
 msgid "འདི་ཁོ་ན་ ལ་␣ས་ གཞན་ གྱིས་ མི་ ཕན་པ་␣ས་"
