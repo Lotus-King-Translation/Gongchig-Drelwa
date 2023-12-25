@@ -9219,7 +9219,7 @@ msgid ""
 "དེས་ན་ ཉམས་ལེན་ རྨད་ དུ་ བྱུང་བ་ རྣལ་འབྱོར་ ཀུ་ ས་ ལི་␣འི་ ཉམས་ལེན་ ནང་ གི་ "
 "ཚོགས་གསོག་ ཡིན་ ཏེ་"
 msgstr ""
-"Thus, the marvelous practice, the practice of Kusali yoga, is the internal "
+"Thus, the marvelous practice, the practice of kusali yoga, is the internal "
 "accumulation of merit."
 
 msgctxt "e45e3a348a464b7bbe2813bcbdcb3550"
