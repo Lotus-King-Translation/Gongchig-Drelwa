@@ -9281,7 +9281,7 @@ msgstr ""
 msgctxt "f82ba00441a548c79317135a11d1c332"
 msgid ""
 "ཞེ་སྡང་ གིས་ ཀུན་ ནས་ བསླང་པ་ དེ་ སྡུག་བསྔལ་ གྱི་ ས་བོན་ ཡིན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Because that which is motivated by aversion is the seed of suffering."
 
 msgctxt "772d4e4214a64882a538dc596d3ce196"
 msgid "དཔེར་ན་ དྲུག་ གི་ ས་བོན་ འབྲས་བུ་ བཞིན་ ནོ ། །"
