@@ -9225,6 +9225,7 @@ msgstr ""
 msgctxt "e45e3a348a464b7bbe2813bcbdcb3550"
 msgid "ཞིང་ འཁོར་འདས་ དག་པ་␣ས་ ཁྱད་པར་ འཕགས་པ །"
 msgstr ""
+"The field is superior because it is the purity of samsara and nirvana."
 
 msgctxt "511e27aac90e43419e008f1431df59e9"
 msgid "བསམ་པ་ དོན་ གཉིས་ སྒྲུབ་པ་␣འི་ ཕྱིར་ ཁྱད་པར་ འཕགས་པ །"
