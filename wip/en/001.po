@@ -9260,6 +9260,7 @@ msgstr ""
 msgctxt "0406a32b70a441898a810a2c6b644647"
 msgid "བྱང་སེམས་ ལ་ གནོད་པ་ བྱས་པ་␣འི་ ཕྲིན་ལས་ འཇུག་ ཏེ་"
 msgstr ""
+"Harming bodhisattvas is an engagement in the enlightened activity because "
 
 msgctxt "47d3bb76f34f45258a4ee04482745d04"
 msgid "བདེ་བ་␣ར་ འབྲེལ་བ་ ཡིན་ ཟེར་ མོད །"
