@@ -9233,7 +9233,7 @@ msgstr "It is superior because it accomplishes the two wishes."
 
 msgctxt "b16c0fb377f140778e9c900c126ea527"
 msgid "དངོས་པོ་ གཅེས་པ་␣འི་ ལུས་ བདུད་རྩི་␣ར་ བསྒྱུར་ ཏེ་"
-msgstr ""
+msgstr "The thing, the cherishing body is transformed into nectar."
 
 msgctxt "fa5ad26c7556484089f81a2677297b6e"
 msgid "ཟད་པ་ མེད་པ་␣ར་ ཕུལ་བ་␣ས་ ཁྱད་པར་ འཕགས་པ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ །"
