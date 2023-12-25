@@ -9208,7 +9208,7 @@ msgstr ""
 msgctxt "0a59be6ec3e5474cb246a435ecf40f3e"
 msgid "དེ་ ནི་ བདག་ཅག་ གི་ སྟོན་པ་␣འི་ མཛད་པ་ ཡིན་པ་␣ས་ སྒྲུབ་ མི་ ནུས་"
 msgstr ""
-"Because this is the deed of our teacher, thus we cannot accomplish it."
+"Because this is the deed of our teacher, thus [we] cannot accomplish it."
 
 msgctxt "c4fafeb746d34197ab78dfbd44c704e3"
 msgid "གནས་སྐབས་ ཕན་ བྱེད་ ཀྱིས་ ཀྱང་ སངས་ མི་ རྒྱ་བ་"
