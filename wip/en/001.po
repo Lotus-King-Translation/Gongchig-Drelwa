@@ -9212,7 +9212,7 @@ msgstr ""
 
 msgctxt "c4fafeb746d34197ab78dfbd44c704e3"
 msgid "གནས་སྐབས་ ཕན་ བྱེད་ ཀྱིས་ ཀྱང་ སངས་ མི་ རྒྱ་བ་"
-msgstr ""
+msgstr "Even if it benefits [us] temporarily, it will not enlighten [us]."
 
 msgctxt "e8385dc662cd45c99fde65237bff363e"
 msgid ""
