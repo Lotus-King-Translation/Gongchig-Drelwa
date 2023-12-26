@@ -9309,7 +9309,7 @@ msgstr "In response to the young woman Yeshe Den's question."
 
 msgctxt "a1f3217fcb934b418084a34b324863f3"
 msgid "གཅིག་ ལ་ གཅིག་ གིས་ གནོད་སེམས་ བྱས་པ་ ན །"
-msgstr ""
+msgstr "When people harbor ill-will against one another, "
 
 msgctxt "21de3e3c57664daa8fadfbf24753a73b"
 msgid "སྦྱིན་པ་␣ས་ མི་ སྐྱོབ་ ཚུལ་ཁྲིམས་ མི་ སྐྱོབ་ སྟེ །"
