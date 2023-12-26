@@ -9331,6 +9331,8 @@ msgstr "According to the Engaging in the Bodhisattva's Conduct:"
 msgctxt "bbb0f15f67c44f57a885ef66abe3d1c4"
 msgid "གང་ཞིག་ དེ་ འདྲ་␣འི་ རྒྱལ་སྲས་ སོགས་ དང་ །"
 msgstr ""
+"Whoever [has a bad intent against a benefactor] such as a Bodhisattva. And "
+"so forth."
 
 msgctxt "37bb7e26de2e41e38c62157e9d53a244"
 msgid "དབུ་ འཇུག་ ལ་␣ས །"
