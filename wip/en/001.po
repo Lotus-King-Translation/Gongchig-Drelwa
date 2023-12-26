@@ -9368,7 +9368,7 @@ msgstr ""
 
 msgctxt "ed39a4a859a04462a37639d5be7273ff"
 msgid "མི་ སྲིད་པ་␣ར་ ཐལ །"
-msgstr ""
+msgstr "It follows that it is impossible."
 
 msgctxt "f1962a3b5c994fa5ad1cbfcbc59e5f03"
 msgid ""
