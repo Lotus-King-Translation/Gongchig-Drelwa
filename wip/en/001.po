@@ -9344,7 +9344,7 @@ msgstr "Therefore, [anger towards] the sons of the conqueror. And so forth."
 
 msgctxt "4aceaba6eacd4b17a18409cbef7b455c"
 msgid "བདེ་བ་ འབྲེལ་ ཞེས་པ་"
-msgstr ""
+msgstr "It is said that it will be connected to happiness. "
 
 msgctxt "fa30cd25a4084dc0b16915f3f753507e"
 msgid ""
