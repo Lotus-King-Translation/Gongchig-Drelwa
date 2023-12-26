@@ -9363,6 +9363,8 @@ msgid ""
 "འཕེན་ བྱེད་ དགེ་སྡིག་ དང་ དགེ་བ་ སྟེ་ རྒྱུ་འབྲས་ ཐ་དད་ དུ་ འདོད་པ་ དེ་ "
 "ཆོས་ཅན །"
 msgstr ""
+"The propelling virtue and negative actions, and regarding virtue, it is "
+"accepted that its cause and effect are distinct. Take that as the subject."
 
 msgctxt "ed39a4a859a04462a37639d5be7273ff"
 msgid "མི་ སྲིད་པ་␣ར་ ཐལ །"
