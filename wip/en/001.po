@@ -3474,7 +3474,7 @@ msgstr "With the power of bodhicitta, "
 
 msgctxt "19523f28310a469e90dc647798815c22"
 msgid "སྔོན་ གྱི་ སྡིག་པ་ ཟད་ བྱེད་ ཅིང་ ། །"
-msgstr "The negative deeds of the past will be exhausted."
+msgstr "The negative actions of the past will be exhausted."
 
 msgctxt "7f805ed801004fc0a59eaf4c194a8042"
 msgid "བསོད་ནམས་ རྒྱ་མཚོ་ བསྡུད་ བྱེད་ ཕྱིར །"
