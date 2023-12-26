@@ -9352,7 +9352,7 @@ msgid ""
 "ཡིན་ ནོ །"
 msgstr ""
 "A part of the result is not returned temporarily, thus, it is protected with"
-" love."
+" affection."
 
 msgctxt "991db81dcda34121a5d27ebf06998205"
 msgid "རྡོ་␣༽༽  འཕེན་ རྫོགས་ མུ་བཞི་ ལ་␣ས་"
