@@ -9336,7 +9336,7 @@ msgstr ""
 
 msgctxt "37bb7e26de2e41e38c62157e9d53a244"
 msgid "དབུ་ འཇུག་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Entrance to the Middle Way:"
 
 msgctxt "bf6a8f194b28439493465f8915d1d372"
 msgid "གང་ ཕྱིར་ རྒྱལ་སྲས་ རྣམས་ ལ་སོགས །"
