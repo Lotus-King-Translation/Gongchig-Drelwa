@@ -9297,7 +9297,7 @@ msgstr "Even if all sentient beings had their eyes extracted,"
 
 msgctxt "c5f31cc45cfe4d7ba5363eb5cfb3779f"
 msgid "སེམས་ ལ་ གཤེ་བ་ ཉེས་པ་ ཆེ་␣འོ ། །"
-msgstr ""
+msgstr "Mental abuse is a great fault."
 
 msgctxt "4076c3b5ca0343d09f22bda888fc0d4d"
 msgid "ཞེས་པ་ དང་ །"
