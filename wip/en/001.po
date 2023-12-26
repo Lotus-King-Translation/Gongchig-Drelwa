@@ -9326,7 +9326,7 @@ msgstr "And"
 
 msgctxt "e78f14c4bda340118e8ae076f7414e47"
 msgid "སྤྱོད་འཇུག་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Engaging in the Bodhisattva's Conduct:"
 
 msgctxt "bbb0f15f67c44f57a885ef66abe3d1c4"
 msgid "གང་ཞིག་ དེ་ འདྲ་␣འི་ རྒྱལ་སྲས་ སོགས་ དང་ །"
