@@ -9356,7 +9356,7 @@ msgstr ""
 
 msgctxt "991db81dcda34121a5d27ebf06998205"
 msgid "རྡོ་␣༽༽  འཕེན་ རྫོགས་ མུ་བཞི་ ལ་␣ས་"
-msgstr ""
+msgstr "Vajra: From the four possibilities of propelling and completing."
 
 msgctxt "184dca5344744bd8a80c232557577c99"
 msgid ""
