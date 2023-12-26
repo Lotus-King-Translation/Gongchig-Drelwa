@@ -9305,7 +9305,7 @@ msgstr "And"
 
 msgctxt "48c019a250b6482d8a9392abbc56c0af"
 msgid "བུ་མོ་ ཡེ་ཤེས་ ལྡན་ གྱིས་ ཞུས་པ་␣ར །"
-msgstr ""
+msgstr "In response to the young woman Yeshe Den's question."
 
 msgctxt "a1f3217fcb934b418084a34b324863f3"
 msgid "གཅིག་ ལ་ གཅིག་ གིས་ གནོད་སེམས་ བྱས་པ་ ན །"
