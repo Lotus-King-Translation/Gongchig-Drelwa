@@ -9381,7 +9381,7 @@ msgstr ""
 
 msgctxt "01f41a85b6a847d1837fa434c30f2318"
 msgid "ས་བོན་ སོ་སོ་ ལས་འབྲས་ བུ་ སོ་སོ་ འབྱུང་བ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "In the same way that individual fruits arise from individual seeds."
 
 msgctxt "d58cb78922724e9086b506df97acff1b"
 msgid "དེ་བས་ན་ འཕེན་ བྱེད་ དགེ་བ་␣འི་ ཚོགས་ རྫོགས་བྱེད་ ཀྱང་ དགེ་བ །"
