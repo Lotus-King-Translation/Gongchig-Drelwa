@@ -9392,6 +9392,8 @@ msgstr ""
 msgctxt "7113f4bbe5ba431a9c172f533f931370"
 msgid "འཕེན་ བྱེད་ མི་དགེ་ ཡིན་ ན་ རྫོགས་བྱེད་ ཀྱང་ མི་དགེ་བ་␣ས་ རྫོགས་ ཏེ་"
 msgstr ""
+"When the propelling [action] is non-virtuous, then the completing [action] "
+"is also completed with non-virtues. "
 
 msgctxt "cf0b735eac5447a89ce80d0cd11a5519"
 msgid ""
