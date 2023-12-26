@@ -9399,6 +9399,8 @@ msgctxt "cf0b735eac5447a89ce80d0cd11a5519"
 msgid ""
 "རྒྱུ་ དགེ་སྡིག་ གཉིས་ ལས་འབྲས་ བུ་ བདེ་ སྔུག་ སོ་སོ་␣ར་ འབྱུང་བ་ ཡིན་ ནོ །"
 msgstr ""
+"From the two virtuous and negative causes, the results of happiness and "
+"suffering occur individually."
 
 msgctxt "c3adc9d747c74809bce205a033e7ab35"
 msgid "ལེགས་ སྐར་ དང་ མ་སྐྱེས་དགྲ་ ཡང་ རྒྱུ་ འཕེན་ བྱེད་ དང་པོ་ དད་གུས་ དང་ །"
