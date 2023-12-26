@@ -9351,6 +9351,8 @@ msgid ""
 "འབྲས་བུ་ ཡ་ ཟུང་ ཞིག་ གནས་སྐབས་ ལན་ མི་ ལྡོག་པ་␣ས་ བརྩེ་བ་␣ར་ སྐྱོང་བ་␣ས་ "
 "ཡིན་ ནོ །"
 msgstr ""
+"A part of the result is not returned temporarily, thus, it is protected with"
+" love."
 
 msgctxt "991db81dcda34121a5d27ebf06998205"
 msgid "རྡོ་␣༽༽  འཕེན་ རྫོགས་ མུ་བཞི་ ལ་␣ས་"
