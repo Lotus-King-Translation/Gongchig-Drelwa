@@ -9340,7 +9340,7 @@ msgstr "According to the Entrance to the Middle Way:"
 
 msgctxt "bf6a8f194b28439493465f8915d1d372"
 msgid "གང་ ཕྱིར་ རྒྱལ་སྲས་ རྣམས་ ལ་སོགས །"
-msgstr ""
+msgstr "Therefore, [anger towards] the sons of the conqueror. And so forth."
 
 msgctxt "4aceaba6eacd4b17a18409cbef7b455c"
 msgid "བདེ་བ་ འབྲེལ་ ཞེས་པ་"
