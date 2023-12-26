@@ -9293,7 +9293,7 @@ msgstr "As it is also said in the Sutra of Not Forsaking the Buddha:"
 
 msgctxt "9afb3d40c4634802ae379a3cd0bf6114"
 msgid "སེམས་ཅན་ ཐམས་ཅད་ ཀྱི་ མིག་ ཕྱུང་བ་ བས་ ཀྱང་"
-msgstr ""
+msgstr "Even if all sentient beings had their eyes extracted,"
 
 msgctxt "c5f31cc45cfe4d7ba5363eb5cfb3779f"
 msgid "སེམས་ ལ་ གཤེ་བ་ ཉེས་པ་ ཆེ་␣འོ ། །"
