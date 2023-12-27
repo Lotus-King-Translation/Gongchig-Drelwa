@@ -9465,7 +9465,7 @@ msgstr "It draws together all merit. "
 
 msgctxt "9f0719a213514562a7eed25238fc3654"
 msgid "ཏིང་ངེ་འཛིན་ གྱི་ མདོ་ ལ་␣ས་"
-msgstr ""
+msgstr "According to The Sutra of Meditative Concentration:"
 
 msgctxt "9d42e2ad14584348b1d46ac214473b5a"
 msgid ""
