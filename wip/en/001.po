@@ -9405,6 +9405,8 @@ msgstr ""
 msgctxt "c3adc9d747c74809bce205a033e7ab35"
 msgid "ལེགས་ སྐར་ དང་ མ་སྐྱེས་དགྲ་ ཡང་ རྒྱུ་ འཕེན་ བྱེད་ དང་པོ་ དད་གུས་ དང་ །"
 msgstr ""
+"Sunaksatra and Ajashatru as well, the propelling causes are first faith and "
+"devotion, and "
 
 msgctxt "3f0feb27231c4dd19248780a74fd1edc"
 msgid ""
