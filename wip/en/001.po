@@ -9461,7 +9461,7 @@ msgstr ""
 
 msgctxt "10b894425df5450da8ff6500cb61f9d2"
 msgid "བསོད་ནམས་ ཐམས་ཅད་ སྡུད་པ་"
-msgstr ""
+msgstr "It draws together all merit. "
 
 msgctxt "9f0719a213514562a7eed25238fc3654"
 msgid "ཏིང་ངེ་འཛིན་ གྱི་ མདོ་ ལ་␣ས་"
