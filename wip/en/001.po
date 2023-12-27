@@ -9456,6 +9456,8 @@ msgid ""
 "འདི་␣ར་ བྱང་ཆུབ་ ཀྱི་ སེམས་ ནི་ བརྗེད་པ་␣ར་ གྱུར་པ་ ལ་␣ས་ འཆོར་བ་␣ར་ མ་ "
 "གསུངས་ ཏེ་"
 msgstr ""
+"In this [system], it is stated that one forgets but does not lose "
+"bodhicitta."
 
 msgctxt "10b894425df5450da8ff6500cb61f9d2"
 msgid "བསོད་ནམས་ ཐམས་ཅད་ སྡུད་པ་"
