@@ -9437,7 +9437,7 @@ msgstr "Sentient beings are forsaken, not remembering the benefits."
 
 msgctxt "d625cbafb5e0497ca0190632fe784a6d"
 msgid "ཚོགས་ གཉིས་ མི་ བསགས །"
-msgstr ""
+msgstr "Does not collect the two accumulations."
 
 msgctxt "4c9da2432b9e465ebe184f6c893c8eba"
 msgid "སྦྱོང་ ལ་ མི་ བརྩོན་པ །"
