@@ -9441,7 +9441,7 @@ msgstr "Does not collect the two accumulations."
 
 msgctxt "4c9da2432b9e465ebe184f6c893c8eba"
 msgid "སྦྱོང་ ལ་ མི་ བརྩོན་པ །"
-msgstr ""
+msgstr "Not putting effort into the training."
 
 msgctxt "78a4462470dd4792b67608108cf15820"
 msgid ""
