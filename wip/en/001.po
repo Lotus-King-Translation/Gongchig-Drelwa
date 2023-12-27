@@ -9423,7 +9423,9 @@ msgstr "Ajashatru was struck by erysipelas and"
 
 msgctxt "e176d413d49c40f4b17ae08167160c06"
 msgid "ཚེ་ འཕོས་ ནས་ དམྱལ་བ་␣ར་ དར་ཅིག་ སྐྱེས་པ་␣ར་ གསུངས་པ་ བཞིན་ ནོ །"
-msgstr "He died and was reborn for a short while in hell."
+msgstr ""
+"It is said that after he passed away and was reborn for a short while in "
+"hell."
 
 msgctxt "edc183802eb347f1973ca3ced7ca344f"
 msgid "རྡོ་␣༽༽  གཞན་དག་ ན་རེ་"
