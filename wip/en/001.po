@@ -9419,7 +9419,7 @@ msgstr ""
 
 msgctxt "873514312b6b4bf9ac4a95af0f168ef1"
 msgid "མ་སྐྱེས་དགྲ་ འབྲུམ་བུ་ མེ་དབལ་ ཐེབས་པ་ དང་"
-msgstr ""
+msgstr "Ajashatru was struck by erysipelas and"
 
 msgctxt "e176d413d49c40f4b17ae08167160c06"
 msgid "ཚེ་ འཕོས་ ནས་ དམྱལ་བ་␣ར་ དར་ཅིག་ སྐྱེས་པ་␣ར་ གསུངས་པ་ བཞིན་ ནོ །"
