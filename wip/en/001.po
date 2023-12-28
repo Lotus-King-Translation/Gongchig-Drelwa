@@ -9484,7 +9484,7 @@ msgstr ""
 
 msgctxt "2afee9d09b434a07950a571f1e1c2f1c"
 msgid "ངས་ ད་ལྟ་ ལུང་བསྟན་པ་ ཡིན་ ནོ་ ཞེས་ དང༌ །"
-msgstr ""
+msgstr "I have prophesied now and."
 
 msgctxt "58f5f81eaf8b4b1a9b4413ad4bc904b9"
 msgid "དཀོན་ བརྩེགས་ སྡོང་ རྒྱན་ སོགས་ ལ་␣ས་ ཀྱང་"
