@@ -9493,7 +9493,7 @@ msgstr ""
 
 msgctxt "0e800d68d958442dafedb0f1ae2e0afd"
 msgid "བརྗེད་ ལ་␣ས་ འཆོར་བ་␣ར་ མ་ གསུངས་ སོ །"
-msgstr ""
+msgstr "It is said that it has been forgotten but is not lost."
 
 msgctxt "94792f9f19c342cca75709785ce38927"
 msgid ""
