@@ -9500,6 +9500,8 @@ msgid ""
 "དེས་ན་ ཕལ་ ལ་␣ས་ རྡོ་རྗེ་ ཕ་ལམ་ དང་ འདྲ་བ་␣འི་ སེམས་ འདི་ ལུག་ར་ དང་ "
 "འདྲ་བ་␣འི་ ལོག་ལྟ་ མ་གཏོགས་"
 msgstr ""
+"Thus, according to the Extensive [Sutra]: The diamond-like mind, except for "
+"the wrong views like sheep and goats,"
 
 msgctxt "70b43c29837245089a295dca557da2f6"
 msgid "གཞན་ གྱིས་ མིའཆོར་ བར་ གསུངས་ ཤིང་"
