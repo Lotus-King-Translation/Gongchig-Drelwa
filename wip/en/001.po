@@ -9489,6 +9489,7 @@ msgstr "I have prophesied now and."
 msgctxt "58f5f81eaf8b4b1a9b4413ad4bc904b9"
 msgid "དཀོན་ བརྩེགས་ སྡོང་ རྒྱན་ སོགས་ ལ་␣ས་ ཀྱང་"
 msgstr ""
+"According to the Heap of Jewels, The Supreme Stem Ornament, and so forth:"
 
 msgctxt "0e800d68d958442dafedb0f1ae2e0afd"
 msgid "བརྗེད་ ལ་␣ས་ འཆོར་བ་␣ར་ མ་ གསུངས་ སོ །"
