@@ -9449,7 +9449,7 @@ msgid ""
 "ཀྱི་ སེམས་ འཆོར་བ་␣ར་ འདོད་ མོད །"
 msgstr ""
 "It is accepted that one loses bodhicitta through one of the four negative "
-"deeds or the faults of one of the [four] defeats."
+"actions or the faults of one of the [four] defeats."
 
 msgctxt "dca4ffbbee354311a154ae573598dbb3"
 msgid ""
