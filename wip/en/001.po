@@ -9526,6 +9526,8 @@ msgctxt "9a1ae26dbcde4f0abb12f0cec8e14f06"
 msgid ""
 "ཅི་རིགས་ ཀྱི་ འཇུག་ སྡོམ་ དུ་ འགྱུར་བ་␣འི་ ཕྱིར་ འཆོར་བ་ ནི་ མི་ སྲིད་ དོ །"
 msgstr ""
+"becomes any of the vows of engaging the mind. Therefore, it is impossible to"
+" be lost."
 
 msgctxt "303aa845cb1a4dd0b600c7800c15ccc2"
 msgid ""
