@@ -9520,6 +9520,7 @@ msgstr ""
 msgctxt "831408d3d71d4633b422c9636034a12e"
 msgid "གཤེགས་ སྙིང་ རྟག་ བརྟན་ དུ་ཡོད་པ་␣ས་ དབང་ བྱས་པ་ དང༌ །"
 msgstr ""
+"Because the sugatagarbha is eternal and firmly present, it empowers and "
 
 msgctxt "9a1ae26dbcde4f0abb12f0cec8e14f06"
 msgid ""
