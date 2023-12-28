@@ -9475,7 +9475,7 @@ msgstr ""
 
 msgctxt "f99efcb984e64add9edaeed89d96ea2e"
 msgid "ནག་པོ་␣འི་ ཆོས་ བཞི་ སྤྱད་པ་␣ས་"
-msgstr ""
+msgstr "By engaging in the four negative actions."
 
 msgctxt "39e5ee70b5ff4d4790cde8af20d35aca"
 msgid "ད་བར་ བརྗེད་པ་␣ར་ འགྱུར་ ལ་ དེ་␣འི་ ཚེ་ སེམས་བསྐྱེད་པ་␣ས་"
