@@ -9472,6 +9472,8 @@ msgid ""
 "ལི་ ཙཱ་ བི་ དྲི་མ་ མེད་པ་ འདི་ སྔོན་ འཁོར་བ་ འཇིག་ གི་ བསྟན་པ་␣ར་ "
 "སེམས་བསྐྱེད་ ཀྱང་"
 msgstr ""
+"Though Litsavi Vimala generated the mind of awakening during the time of "
+"Krakucchandha"
 
 msgctxt "f99efcb984e64add9edaeed89d96ea2e"
 msgid "ནག་པོ་␣འི་ ཆོས་ བཞི་ སྤྱད་པ་␣ས་"
