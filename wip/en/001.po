@@ -9480,6 +9480,7 @@ msgstr "By engaging in the four black dharmas."
 msgctxt "39e5ee70b5ff4d4790cde8af20d35aca"
 msgid "ད་བར་ བརྗེད་པ་␣ར་ འགྱུར་ ལ་ དེ་␣འི་ ཚེ་ སེམས་བསྐྱེད་པ་␣ས་"
 msgstr ""
+"[He] has forgotten until now, generated the mind of awakening at that time."
 
 msgctxt "2afee9d09b434a07950a571f1e1c2f1c"
 msgid "ངས་ ད་ལྟ་ ལུང་བསྟན་པ་ ཡིན་ ནོ་ ཞེས་ དང༌ །"
