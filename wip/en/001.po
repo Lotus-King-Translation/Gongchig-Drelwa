@@ -9505,7 +9505,7 @@ msgstr ""
 
 msgctxt "70b43c29837245089a295dca557da2f6"
 msgid "གཞན་ གྱིས་ མིའཆོར་ བར་ གསུངས་ ཤིང་"
-msgstr ""
+msgstr "It is said that others will not lose it."
 
 msgctxt "22e0a1b5c894496c8d68ec99f1bb2fcb"
 msgid ""
