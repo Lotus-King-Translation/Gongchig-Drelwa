@@ -9536,7 +9536,7 @@ msgid ""
 msgstr ""
 "Vajra: It is said that the afflicted mind consciousness and equilibration or"
 " karma, afflictive and knowable obscuration, these three are abandoned "
-"progressively on the path of seeing,"
+"progressively on the path of seeing and "
 
 msgctxt "298370612a984489a413dea1febcb730"
 msgid "བདུན་པ་ རིང་ དུ་ སོང་བ་ མན་ དང་ །"
