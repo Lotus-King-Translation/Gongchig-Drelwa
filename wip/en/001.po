@@ -9540,7 +9540,7 @@ msgstr ""
 
 msgctxt "298370612a984489a413dea1febcb730"
 msgid "བདུན་པ་ རིང་ དུ་ སོང་བ་ མན་ དང་ །"
-msgstr ""
+msgstr "Till the seventh level, the Far-going [level] and"
 
 msgctxt "1c0062292c5244cb83624f4534d8a9e0"
 msgid "ས་བཅུ་␣འི་ རྒྱུན་མཐ་␣ར་ སོ་སོ་␣ར་ སྤོང་ ཟེར་ མོད །"
