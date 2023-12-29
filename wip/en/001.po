@@ -9545,6 +9545,8 @@ msgstr "Till the seventh level, the Far-going [level] and"
 msgctxt "1c0062292c5244cb83624f4534d8a9e0"
 msgid "ས་བཅུ་␣འི་ རྒྱུན་མཐ་␣ར་ སོ་སོ་␣ར་ སྤོང་ ཟེར་ མོད །"
 msgstr ""
+"[They] are abandoned individually at the end of the continuum of the tenth "
+"level."
 
 msgctxt "f5b4d57219a34f85b15d68e4bf9d7815"
 msgid ""
