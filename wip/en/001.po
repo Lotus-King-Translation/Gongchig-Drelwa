@@ -9615,7 +9615,7 @@ msgstr "[They] are burned by the fire of your wisdom."
 
 msgctxt "f9c5ad005e4a474fbaaccd0b298f487d"
 msgid "ཅེས་ གསུངས་པ་␣ས་ དེ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "As it is said."
 
 msgctxt "33a6ea4119f946c3a7c482892bea913f"
 msgid "སྒྲིབ་པ་ རྣམ་ གསུམ་ ཉོན་མོངས་ སྒྲིབ་པ་␣ར་ གཅིག་པ་ ཡིན་ ནོ །"
