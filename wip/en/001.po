@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Tenzin Norgyal, 2023
+# Tenzin Norgyal, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Tenzin Norgyal, 2023\n"
+"Last-Translator: Tenzin Norgyal, 2024\n"
 "Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/162865/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -9553,6 +9553,9 @@ msgid ""
 "འདི་␣ར་ ནི་ སྤང་བྱ་ གཅིག་ ལ་ རག་ ཕྲ་␣འམ་ ཆེ་ འབྲིང་ ཆུང་ གསུམ་ མངོན་རྟོགས་ "
 "ཡོད་མེད་ ཀྱིས་"
 msgstr ""
+"In this [system], in a single object of abandonment, there is subtle and "
+"coarse, or the present of greater, middling, and lesser manifest realization"
+" or not."
 
 msgctxt "67b3b62d1be24d448b9c2e769079baaf"
 msgid "སོ་སོ་␣འི་ རྒྱུད་ ལ་ རག་པ་ རྟོགས་ལྡན་ ལ་ ཡོད་པ་ ཕྲ་བ་␣ར་ བཏགས་པ་ སྟེ་"
