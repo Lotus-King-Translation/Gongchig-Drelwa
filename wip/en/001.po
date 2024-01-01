@@ -9583,7 +9583,7 @@ msgstr "The arising delusion, desire, and anger, "
 
 msgctxt "0d3c9b2d72734e35a0fb86f892c089f0"
 msgid "དེ་དག་ འགྲོ་བ་␣འི་ དགྲ་ འདྲ་ སྟེ ། །"
-msgstr ""
+msgstr "Those are like the foes of living beings."
 
 msgctxt "dddb796831db4d8e97debf0cfb58be83"
 msgid "དེ་དག་ མ་ ལུས་ ངས་ འདི་␣ར་ བཤིག ། །"
