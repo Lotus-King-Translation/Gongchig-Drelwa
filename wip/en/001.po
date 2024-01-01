@@ -9591,7 +9591,7 @@ msgstr "I have destroyed them completely here."
 
 msgctxt "6940d85191fc49f58d977ecea19f098c"
 msgid "ཅེས་ དང༌ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "522b0d02880542ea9ed14edb54e5b0d8"
 msgid "དཀོན་མཆོག་ སྤྲིན་ ལ་␣ས །"
