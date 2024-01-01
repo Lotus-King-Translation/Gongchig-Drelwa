@@ -2796,7 +2796,7 @@ msgstr "Direct perception and inference have no purpose,"
 
 msgctxt "e3f041777eef4a72b2ce9c97ef0786bb"
 msgid "མུ་སྟེགས་ རྒོལ་བ་ བཟློག་པ་␣འི་ ཕྱིར །"
-msgstr "In repelling Tirthikas as an opposition."
+msgstr "In repelling tirthikas as an opposition."
 
 msgctxt "21444adf50d24c6ba02cec170a9708c5"
 msgid "མཁས་པ་ རྣམས་ ཀྱིས་ བྱས་པ་ ཡིན །"
