@@ -9620,6 +9620,8 @@ msgstr "As it is said."
 msgctxt "33a6ea4119f946c3a7c482892bea913f"
 msgid "སྒྲིབ་པ་ རྣམ་ གསུམ་ ཉོན་མོངས་ སྒྲིབ་པ་␣ར་ གཅིག་པ་ ཡིན་ ནོ །"
 msgstr ""
+"The three kinds of obscuration are the same in terms of being afflictive "
+"obscuration."
 
 msgctxt "ac9f1701a71247c89f01c9a6db33b597"
 msgid "རྡོ་␣༽༽  གཞན་དག་ ན་རེ །"
