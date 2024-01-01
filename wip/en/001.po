@@ -9571,7 +9571,7 @@ msgstr ""
 
 msgctxt "496b8632c33a4908b3500232dfa3f6f9"
 msgid "རྒྱ་ རོལ་ ལ་␣ས །"
-msgstr ""
+msgstr "The Play in Full [sutra] that:"
 
 msgctxt "f6fbb99c9abe43bb89760d66eeb5d6b9"
 msgid "སངས་རྒྱས་ ན་ བདུན་ ཕྲག་ གཅིག་ ལོན་པ་ ན །"
