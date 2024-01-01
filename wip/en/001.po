@@ -9579,7 +9579,7 @@ msgstr "When one week has passed after [I] have attained enlightenment,"
 
 msgctxt "a4f223a15533400c9f54a7a3e8816797"
 msgid "གཏི་མུག་ འབྱུང་བ་ འདོད་ དང་ ཁྲོ ། །"
-msgstr ""
+msgstr "The arising delusion, desire, and anger, "
 
 msgctxt "0d3c9b2d72734e35a0fb86f892c089f0"
 msgid "དེ་དག་ འགྲོ་བ་␣འི་ དགྲ་ འདྲ་ སྟེ ། །"
