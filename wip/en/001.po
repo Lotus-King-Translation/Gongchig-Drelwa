@@ -9722,6 +9722,8 @@ msgstr "another acceptance is that [they] realize completely."
 msgctxt "a390c4e3fb2140fbad73a218e6c3c288"
 msgid "དེ་ཡང་ ཆ་མེད་ དོན་དམ་པ་␣ར་ ཕྱོགས་ཆ་ དང་"
 msgstr ""
+"Moreover, it is said that the partless absolute is་[undermined] by "
+"directional parts and "
 
 msgctxt "be9f839ac33e4e279bae597fb5cc9789"
 msgid "སྐད་ཅིག་ གིས་ གནོད་པ་␣ས་ བདེན་པ་ མཐོང་བ་ མིན་ ནོ་ ཞེས་ ཟེར་ རོ །"
