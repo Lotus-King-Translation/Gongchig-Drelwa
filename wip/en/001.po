@@ -3040,7 +3040,7 @@ msgstr "Second, holding from shravaka to the great mother-son tenet,"
 
 msgctxt "89ac85a35b0d4494b48af7ba4cd1616d"
 msgid "ཡང་དག་ དོན་ ལ་ རྨོངས་པ་ ནང་ གི་ མུ་སྟེགས་ ཡིན་ ཏེ །"
-msgstr "Insider Tirthikas are those who are unaware of true reality."
+msgstr "Insider tirthikas are those who are unaware of true reality."
 
 msgctxt "c7f8969079ea41dd8ac0ad1101d22017"
 msgid "དགེ་བ་␣འི་ རྩ་བ་ འཛིན་པ་␣འི་ མདོ་␣ར །"
