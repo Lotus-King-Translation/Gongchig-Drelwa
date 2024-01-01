@@ -9732,7 +9732,7 @@ msgstr "momentariness, thus the truth will not be seen."
 msgctxt "2ca3ccd4e820489bba6f8421c54c46c7"
 msgid ""
 "འདི་␣ར་ ནི་ ཉན་ཐོས་ ཀྱིས་ ཀྱང་ གནས་ལུགས་ ཕྱོགས་ གཅིག་ མཐོང་བ་ ཡོད་ དེ །"
-msgstr ""
+msgstr "In this [system], even the shravakas have seen a side of actuality."
 
 msgctxt "407d422fd80f4a519b6598ba1fd02209"
 msgid "གནས་ལུགས་ རྟོགས་པ་␣འི་ ཤེས་རབ་ མེད་ ན་"
