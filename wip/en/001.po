@@ -9783,7 +9783,7 @@ msgstr "The absence of arising is shown to the greater vehicle. "
 
 msgctxt "64216521f37d4c949758632f7a2cd3e4"
 msgid "གཞན་ གྱི་ ཟད་པ་ སྟོང་པ་ཉིད ། །"
-msgstr ""
+msgstr "The exhaustion of others is emptiness."
 
 msgctxt "b3815e5124f641249f4fbcbf8cbfbce4"
 msgid "ཟད་ དང་ མི་ སྐྱེ་ དོན་ དུ་ ནི ། །"
