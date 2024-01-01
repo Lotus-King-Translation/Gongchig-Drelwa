@@ -9748,7 +9748,7 @@ msgstr "For example, like non-Buddhists. "
 
 msgctxt "3ce6d46404ba48fead12d5bcfcd0a950"
 msgid "དེ་ལྟར་ ཡང་ འཕགས་པ་ ས་བཅུ་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "In that way as well, in the Ten Levels, Arya said:"
 
 msgctxt "8674e5cbd63a40cf9fcda1440de0cc0c"
 msgid ""
