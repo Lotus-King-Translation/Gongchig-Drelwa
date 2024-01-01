@@ -9787,7 +9787,7 @@ msgstr "The exhaustion of others is emptiness."
 
 msgctxt "b3815e5124f641249f4fbcbf8cbfbce4"
 msgid "ཟད་ དང་ མི་ སྐྱེ་ དོན་ དུ་ ནི ། །"
-msgstr ""
+msgstr "Since exhaustion and non-arising are "
 
 msgctxt "c405862d7742460da7aacac398b69130"
 msgid "གཅིག་པ་ དེ་ཕྱིར་ བཟོད་པ་␣ར་ གྱིས །"
