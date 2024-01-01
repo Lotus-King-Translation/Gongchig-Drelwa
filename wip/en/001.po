@@ -9708,7 +9708,7 @@ msgctxt "5b3638c8b6e74f749eb7823242ffbfbc"
 msgid ""
 "ཇི་སྙེད་ གྲུབ་པ་␣འི་ མཐ་␣ས་ དོན་དམ་པ་␣འི་ བདེན་པ་ མཐོང་བ་␣ར་ བསྒྲིབས་པ་ ཡིན་"
 " ནོ །"
-msgstr ""
+msgstr "All philosophical systems obscure seeing the absolute truth."
 
 msgctxt "3dcbf125b2e444258ef906093026f9c7"
 msgid "རྡོ་␣༽༽  ཉན་ཐོས་ ཀྱིས་ བདག་མེད་ མཐོང་བ་ མེད་པ་␣ར་ འདོད་པ་ དང༌ །"
