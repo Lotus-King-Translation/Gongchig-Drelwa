@@ -9674,7 +9674,7 @@ msgstr "Held by great compassion."
 
 msgctxt "321b12c48de243eb86fcda533e811e59"
 msgid "སོགས་ དང་ །"
-msgstr ""
+msgstr "And so forth."
 
 msgctxt "535d180f5b694ea0b091b597519799c8"
 msgid "སྡུད་པ་ ལ་␣ས །"
