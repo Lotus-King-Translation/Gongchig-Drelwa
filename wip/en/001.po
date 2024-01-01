@@ -8494,7 +8494,7 @@ msgctxt "bf342b8ba4af453299acbb115ef4c4c1"
 msgid "ཆོས་ཉིད་ ཀྱིས་ ཐོབ་པ་ གཉིས་ ཀྱི་ སྒོ་ ནས་ ཏེ་ བསྡུ་ ན་"
 msgstr ""
 "If the attainments are divided into two categories, they are attained by "
-"symbol and the actual nature of dharmas."
+"symbol and the true nature of phenomena."
 
 msgctxt "2b819d9d9e924cff836b8aed3a04437c"
 msgid "སྨོན་ འཇུག་ ས་ དང་པོ་␣ར་ དོན་དམ་ སྟེ་ གསུམ་ ལ་␣ས །"
