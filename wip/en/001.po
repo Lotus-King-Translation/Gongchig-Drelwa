@@ -9727,7 +9727,7 @@ msgstr ""
 
 msgctxt "be9f839ac33e4e279bae597fb5cc9789"
 msgid "སྐད་ཅིག་ གིས་ གནོད་པ་␣ས་ བདེན་པ་ མཐོང་བ་ མིན་ ནོ་ ཞེས་ ཟེར་ རོ །"
-msgstr ""
+msgstr "momentariness, thus the truth will not be seen."
 
 msgctxt "2ca3ccd4e820489bba6f8421c54c46c7"
 msgid ""
