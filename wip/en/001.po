@@ -9560,6 +9560,8 @@ msgstr ""
 msgctxt "67b3b62d1be24d448b9c2e769079baaf"
 msgid "སོ་སོ་␣འི་ རྒྱུད་ ལ་ རག་པ་ རྟོགས་ལྡན་ ལ་ ཡོད་པ་ ཕྲ་བ་␣ར་ བཏགས་པ་ སྟེ་"
 msgstr ""
+"in an individual's continuum. In the realized individual, the coarse is "
+"designated as subtle."
 
 msgctxt "941efcb4cd6846df89616e6cdf4b04b4"
 msgid "ཤེས་སྒྲིབ་ ཀྱང་ ཉོན་མོངས་ དུག་ གསུམ་ ཁོ་ན་ ཡིན་པ་"
