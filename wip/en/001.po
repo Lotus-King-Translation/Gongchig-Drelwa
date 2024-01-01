@@ -9682,7 +9682,7 @@ msgstr "According to the Condensed [Prajnaparamita In Verse]:"
 
 msgctxt "a700af76f54f4a3c9437eed5bcf21356"
 msgid "ཇི་ལྟར་ འཛིན་པ་ དེ་ལྟར་ ཀུན་ ནས་ ཉོན་མོངས་ བསྟན །"
-msgstr ""
+msgstr "The total affliction is shown in the way in which it is grasped. "
 
 msgctxt "d3b8b586eb9545cc9ebd0aa354c4292a"
 msgid "བདག་ དང་ བདག་ གིར་ མི་ དམིགས་"
