@@ -9611,7 +9611,7 @@ msgstr "Many other stains are abandoned. "
 
 msgctxt "883bd9042d064a90985e02c71dae884b"
 msgid "ཁྱོད་ ཀྱི་ ཡེ་ཤེས་ མེ་ ཡིས་ བསྲེག  །"
-msgstr ""
+msgstr "[They] are burned by the fire of your wisdom."
 
 msgctxt "f9c5ad005e4a474fbaaccd0b298f487d"
 msgid "ཅེས་ གསུངས་པ་␣ས་ དེ་␣འི་ ཕྱིར་"
