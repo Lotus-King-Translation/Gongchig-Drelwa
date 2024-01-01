@@ -9736,7 +9736,7 @@ msgstr "In this [system], even the shravakas have seen a side of actuality."
 
 msgctxt "407d422fd80f4a519b6598ba1fd02209"
 msgid "གནས་ལུགས་ རྟོགས་པ་␣འི་ ཤེས་རབ་ མེད་ ན་"
-msgstr ""
+msgstr "Because if [they] have no wisdom that realizes the actuality,"
 
 msgctxt "90d23c24fd9c4e0aa75ddd3b54163b25"
 msgid "འཁོར་བ་ ལས་མི་ འདའ་བ་␣འི་ ཕྱིར །"
