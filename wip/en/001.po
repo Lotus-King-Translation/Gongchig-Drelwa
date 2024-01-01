@@ -9762,6 +9762,8 @@ msgctxt "ec8bffb4c9f94bcea0284d87d4eba7e1"
 msgid ""
 "དེ་ལྟར་ མིན་ ན་ ས་ དང་པོ་པ་␣འི་ བློ་␣ས་ ཟིལ་ གྱིས་ གནོན་པ་␣ར་ འགྱུར་ ཏེ །"
 msgstr ""
+"If this were not the case, the minds of the first level would have surpassed"
+" them."
 
 msgctxt "da0b7e2a49074cf59e5e1c795b4af4cf"
 msgid "ཉན་ཐོས་ དག་ ལ་ མེད་པ་␣འི་ ཕྱིར་ དང༌ །"
