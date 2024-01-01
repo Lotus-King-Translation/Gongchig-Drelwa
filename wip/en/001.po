@@ -9740,7 +9740,7 @@ msgstr "Because if [they] have no wisdom that realizes the actuality,"
 
 msgctxt "90d23c24fd9c4e0aa75ddd3b54163b25"
 msgid "འཁོར་བ་ ལས་མི་ འདའ་བ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "[They] will not transcend samsara."
 
 msgctxt "a59715e9fb444e14a49b5c501bcb7a5e"
 msgid "དཔེར་ན་ ཕྱི་རོལ་པ་ བཞིན་ ནོ ། །"
