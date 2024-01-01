@@ -9587,7 +9587,7 @@ msgstr "These are like the foes of living beings."
 
 msgctxt "dddb796831db4d8e97debf0cfb58be83"
 msgid "དེ་དག་ མ་ ལུས་ ངས་ འདི་␣ར་ བཤིག ། །"
-msgstr ""
+msgstr "I have destroyed them completely here."
 
 msgctxt "6940d85191fc49f58d977ecea19f098c"
 msgid "ཅེས་ དང༌ །"
