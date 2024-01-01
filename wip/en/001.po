@@ -9767,7 +9767,7 @@ msgstr ""
 
 msgctxt "da0b7e2a49074cf59e5e1c795b4af4cf"
 msgid "ཉན་ཐོས་ དག་ ལ་ མེད་པ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "Because shravakas do not possess it and "
 
 msgctxt "9599aca053324ae78ccbbb48df4c4d58"
 msgid "བྱང་སེམས་ རྣམས་ ལ་ ཡོད་པ་␣འི་ ཕྱིར་ རོ ། །"
