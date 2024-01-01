@@ -9595,7 +9595,7 @@ msgstr "And."
 
 msgctxt "522b0d02880542ea9ed14edb54e5b0d8"
 msgid "དཀོན་མཆོག་ སྤྲིན་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Cloud of Jewels Sutra:"
 
 msgctxt "11d11a8a42284afc8d74b5e7ef85181d"
 msgid "བྱང་ཆུང་ སྙིང་པོ་␣ར་ བཞུགས་པ་ ན ། །"
