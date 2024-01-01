@@ -9744,7 +9744,7 @@ msgstr "[They] will not transcend samsara."
 
 msgctxt "a59715e9fb444e14a49b5c501bcb7a5e"
 msgid "དཔེར་ན་ ཕྱི་རོལ་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "For example, like non-Buddhists. "
 
 msgctxt "3ce6d46404ba48fead12d5bcfcd0a950"
 msgid "དེ་ལྟར་ ཡང་ འཕགས་པ་ ས་བཅུ་པ་ ལ་␣ས །"
