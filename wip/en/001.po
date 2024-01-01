@@ -9643,6 +9643,8 @@ msgstr "It follows that the true nature of phenomena is not realized. "
 msgctxt "f33fe4bcf42c4521acb8999331a0af40"
 msgid "བློ་␣ས་ བྱས་པ་ དང་ གཞལ་བྱ་ ཚད་མ་␣ར་ གྱུར་པ་␣འི་ ཕྱིར །"
 msgstr ""
+"Because products and the object of comprehension, become valid cognitions of"
+" the mind."
 
 msgctxt "d418f8cedc19428ca4131f782c90714d"
 msgid "གྲུབ་མཐའ་ ཐམས་ཅད་ ལྟ་བ་ དང་ བློ་ ཡིན །"
