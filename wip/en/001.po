@@ -9566,6 +9566,8 @@ msgstr ""
 msgctxt "941efcb4cd6846df89616e6cdf4b04b4"
 msgid "ཤེས་སྒྲིབ་ ཀྱང་ ཉོན་མོངས་ དུག་ གསུམ་ ཁོ་ན་ ཡིན་པ་"
 msgstr ""
+"The obscurations to knowables are exclusively the three poisonous "
+"afflictions as mentioned in the "
 
 msgctxt "496b8632c33a4908b3500232dfa3f6f9"
 msgid "རྒྱ་ རོལ་ ལ་␣ས །"
