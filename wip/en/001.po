@@ -9670,7 +9670,7 @@ msgstr ""
 
 msgctxt "daf0f0c00bc04f20abf6a59b889f35f2"
 msgid "གང་ གི་ ཐུགས་ བརྩེས་ ཉེར་ བཟུང་ ནས །"
-msgstr ""
+msgstr "Held by great compassion."
 
 msgctxt "321b12c48de243eb86fcda533e811e59"
 msgid "སོགས་ དང་ །"
