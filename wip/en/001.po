@@ -9599,7 +9599,7 @@ msgstr "According to the Cloud of Jewels Sutra:"
 
 msgctxt "11d11a8a42284afc8d74b5e7ef85181d"
 msgid "བྱང་ཆུང་ སྙིང་པོ་␣ར་ བཞུགས་པ་ ན ། །"
-msgstr ""
+msgstr "When [you] sat upon the essence of enlightenment,"
 
 msgctxt "17eb476306854234be2be51b992ad6ff"
 msgid "འདོད་ཆགས་ ཞེ་སྡང་ གཏི་མུག་ དང་ ། །"
