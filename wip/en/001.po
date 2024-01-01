@@ -9775,7 +9775,7 @@ msgstr "Because bodhisattvas do possess it."
 
 msgctxt "dbbeff1519954ba5a31014cb64559b81"
 msgid "སློབ་དཔོན་ གྱིས་ ཀྱང་ །"
-msgstr ""
+msgstr "And the master says:"
 
 msgctxt "f09bc63897ca4f6b96ff5a42afc67e71"
 msgid "ཐེག་ཆེན་ ལ་ ནི་ སྐྱེ་ མེད་ བསྟན ། །"
