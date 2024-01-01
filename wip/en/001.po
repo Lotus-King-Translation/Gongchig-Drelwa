@@ -9658,7 +9658,7 @@ msgstr ""
 
 msgctxt "3cde01f4024642f0a7cd10f67eab964e"
 msgid "དོན་དམ་ བློ་ ཡི་ སྤྱོད་ཡུལ་ མིན །"
-msgstr ""
+msgstr "The absolute [truth] is beyond the reach of the mind."
 
 msgctxt "5d55e52de396460590312722ca73b55f"
 msgid "སོགས་ དང་ །"
