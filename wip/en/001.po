@@ -9638,7 +9638,7 @@ msgstr ""
 
 msgctxt "88170b7d092642a0a4e7e42b2e715dc1"
 msgid "ཆོས་ཉིད་ མི་ རྟོགས་པ་␣ར་ ཐལ །"
-msgstr ""
+msgstr "It follows that the true nature of phenomena is not realized. "
 
 msgctxt "f33fe4bcf42c4521acb8999331a0af40"
 msgid "བློ་␣ས་ བྱས་པ་ དང་ གཞལ་བྱ་ ཚད་མ་␣ར་ གྱུར་པ་␣འི་ ཕྱིར །"
