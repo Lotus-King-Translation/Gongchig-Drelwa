@@ -9791,7 +9791,7 @@ msgstr "Since exhaustion and non-arising are "
 
 msgctxt "c405862d7742460da7aacac398b69130"
 msgid "གཅིག་པ་ དེ་ཕྱིར་ བཟོད་པ་␣ར་ གྱིས །"
-msgstr ""
+msgstr "The same, because of that, be patient."
 
 msgctxt "b15ab9602d8641d8bed82f28de8dd694"
 msgid "ཞེས་ དང་ །"
