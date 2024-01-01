@@ -9653,6 +9653,8 @@ msgstr "All philosophical systems are views and rational minds."
 msgctxt "924d6f9f5bc84b5086dc01136079da54"
 msgid "དེ་␣ས་ དོན་དམ་ ལ་ མི་ རིག་པ་ སྤྱོད་འཇུག་ ལ་␣ས །"
 msgstr ""
+"They do not see the absolute [truth] as the Engaging in the Bodhisattva's "
+"Conduct says:"
 
 msgctxt "3cde01f4024642f0a7cd10f67eab964e"
 msgid "དོན་དམ་ བློ་ ཡི་ སྤྱོད་ཡུལ་ མིན །"
