@@ -9686,7 +9686,7 @@ msgstr "The total affliction is shown in the way in which it is grasped. "
 
 msgctxt "d3b8b586eb9545cc9ebd0aa354c4292a"
 msgid "བདག་ དང་ བདག་ གིར་ མི་ དམིགས་"
-msgstr ""
+msgstr "Without observing I and mine,"
 
 msgctxt "6edadddae8a64069b759f398fad60b83"
 msgid "རྣམ་པ་␣ར་ བྱང་བ་␣ར་ གསུངས་ ཞེས་ དང༌ །"
