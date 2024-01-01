@@ -9755,6 +9755,8 @@ msgid ""
 "བདུན་པ་ རིང་ དུ་ སོང་བ་ བློ་␣ས་ ཟིལ་ གྱི་ མནན་པ་␣ར་ གསུངས་པ་␣འང་ འདི་␣འི་ "
 "ཤེས་བྱེད་ དུ་ གསལ་ ལོ་␣༑། །"
 msgstr ""
+"The statement that the seventh bhumi, the Far-going [level], is surpassed by"
+" the mind is also a clear scriptural source of this."
 
 msgctxt "ec8bffb4c9f94bcea0284d87d4eba7e1"
 msgid ""
