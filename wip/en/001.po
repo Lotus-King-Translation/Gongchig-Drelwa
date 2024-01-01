@@ -9771,7 +9771,7 @@ msgstr "Because shravakas do not possess it and "
 
 msgctxt "9599aca053324ae78ccbbb48df4c4d58"
 msgid "བྱང་སེམས་ རྣམས་ ལ་ ཡོད་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr "Because the bodhisattvas do possess it."
+msgstr "Because bodhisattvas do possess it."
 
 msgctxt "dbbeff1519954ba5a31014cb64559b81"
 msgid "སློབ་དཔོན་ གྱིས་ ཀྱང་ །"
