@@ -9717,7 +9717,7 @@ msgstr ""
 
 msgctxt "891d9041e8244f55911b1bec9e76fade"
 msgid "ཡོངས་རྫོགས་ རྟོགས་པ་␣ར་ འདོད་པ་ གཉིས་ སུ་ བྱུང་ ཞིང༌ །"
-msgstr ""
+msgstr "another acceptance is that [they] realize completely."
 
 msgctxt "a390c4e3fb2140fbad73a218e6c3c288"
 msgid "དེ་ཡང་ ཆ་མེད་ དོན་དམ་པ་␣ར་ ཕྱོགས་ཆ་ དང་"
