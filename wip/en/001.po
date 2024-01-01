@@ -9575,7 +9575,7 @@ msgstr "The Play in Full [sutra] that:"
 
 msgctxt "f6fbb99c9abe43bb89760d66eeb5d6b9"
 msgid "སངས་རྒྱས་ ན་ བདུན་ ཕྲག་ གཅིག་ ལོན་པ་ ན །"
-msgstr ""
+msgstr "When one week has passed after [I] have attained enlightenment,"
 
 msgctxt "a4f223a15533400c9f54a7a3e8816797"
 msgid "གཏི་མུག་ འབྱུང་བ་ འདོད་ དང་ ཁྲོ ། །"
