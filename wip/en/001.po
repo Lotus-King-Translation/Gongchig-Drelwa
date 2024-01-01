@@ -9690,7 +9690,7 @@ msgstr "Without observing I and mine,"
 
 msgctxt "6edadddae8a64069b759f398fad60b83"
 msgid "རྣམ་པ་␣ར་ བྱང་བ་␣ར་ གསུངས་ ཞེས་ དང༌ །"
-msgstr ""
+msgstr "Complete purification. As it is said and"
 
 msgctxt "64d2d3d50841406d8dafced2cfa9dc09"
 msgid "རྣམ་འགྲེལ་ ལ་␣ས །"
