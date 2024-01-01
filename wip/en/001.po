@@ -9603,7 +9603,7 @@ msgstr "When [you] sat upon the essence of enlightenment,"
 
 msgctxt "17eb476306854234be2be51b992ad6ff"
 msgid "འདོད་ཆགས་ ཞེ་སྡང་ གཏི་མུག་ དང་ ། །"
-msgstr ""
+msgstr "Attachment, aversion, delusion and"
 
 msgctxt "724ca26136534895b0e2e6e1b78e81cc"
 msgid "དྲི་མ་ གཞན་ སྤོང་ རྣམ་ མང་པོ ། །"
