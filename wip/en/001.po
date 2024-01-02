@@ -9884,6 +9884,8 @@ msgstr "All the scriptures state that even shravakas can realize this."
 msgctxt "b56547473b254451a20b0fcd3aa120b5"
 msgid "ས་ དྲུག་པ་␣ས་ རྟེན་འབྲེལ་ བཅུ་གཉིས་ རྟོགས་པ་␣ར་ གསུངས་པ་ དང་"
 msgstr ""
+"The statement that the [bodhisattvas] at the sixth level realize the twelve "
+"links of dependent relationship and "
 
 msgctxt "d5878446641847cbac0f3899d369438e"
 msgid ""
