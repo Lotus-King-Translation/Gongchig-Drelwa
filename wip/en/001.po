@@ -9799,7 +9799,7 @@ msgstr "And"
 
 msgctxt "6f9b8e9a742b4ddbb0b22bba29833a0a"
 msgid "བཅོམ་ལྡན་ དངོས་ དང་ དངོས་མེད་པ ། །"
-msgstr ""
+msgstr "The Blessed One is a thing and a non-thing."
 
 msgctxt "d864dfe459b54995bdbd6154a4f53eec"
 msgid "མཁྱེན་པ་␣འི་ སོགས་ གསུངས་པ་ ཡིན་ ནོ ། །"
