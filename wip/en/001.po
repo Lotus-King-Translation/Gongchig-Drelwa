@@ -9895,7 +9895,7 @@ msgstr ""
 
 msgctxt "118290967cba47eca3355edc3e9cb202"
 msgid "དཔེར་ན །"
-msgstr ""
+msgstr "For example:"
 
 msgctxt "1b3a4ad98f504b26b6eb65b5e8a83db6"
 msgid "རྒྱལ་བློན་ གྱི་ བུ་ གཉིས་ ལོ་ གྲངས་ མཉམ་པ་ བཞིན་ ནོ ། །"
