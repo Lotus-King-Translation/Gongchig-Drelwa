@@ -9843,7 +9843,7 @@ msgstr "In hell, migrators awaken to buddhahood."
 
 msgctxt "2e420744c7724ae09bba5a56dd4d4602"
 msgid "གཏན་ གྱི་ གེགས་བྱེད་ མ་ ཡིན་ ཏེ ། །"
-msgstr ""
+msgstr "Thus, it is not a perpetual obstacle."
 
 msgctxt "5c5f40c708474354a18c30570ea46b5d"
 msgid "ཉན་ཐོས་ དང་ ནི་ རང་ སངས་རྒྱས ། །"
