@@ -9879,7 +9879,7 @@ msgctxt "b182f765176b4c3688e8993b1ef48a27"
 msgid ""
 "གསུངས་ རབ་ ཐམས་ཅད་ ནས་ ཉན་ཐོས་ ཀྱིས་ ཀྱང་ དེ་ རྟོགས་པ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར "
 "།"
-msgstr ""
+msgstr "All the scriptures state that even shravakas can realize this."
 
 msgctxt "b56547473b254451a20b0fcd3aa120b5"
 msgid "ས་ དྲུག་པ་␣ས་ རྟེན་འབྲེལ་ བཅུ་གཉིས་ རྟོགས་པ་␣ར་ གསུངས་པ་ དང་"
