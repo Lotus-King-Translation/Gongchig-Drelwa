@@ -9856,6 +9856,8 @@ msgstr "These two levels are perpetual obstacles. "
 msgctxt "3d546f09d1be4beb900f53c8299475b8"
 msgid "ཞེས་པ་␣ས་ ས་ དང་པོ་␣འི་ བདེན་པ་ མ་ མཐོང་བ་␣ས་ དམན་ ནོ་ ཟེར །"
 msgstr ""
+"Thus, it is said that [they] are inferior since [they] do not see the truth "
+"of the first level."
 
 msgctxt "12cf41c230834c75913203c8768b900d"
 msgid ""
