@@ -9864,6 +9864,8 @@ msgid ""
 "འདི་␣ར་ ནི་ ས་ དྲུག་པ་ མན་ཆད་ ཀྱི་ མངོན་རྟོགས་ དེ་ ཉན་རང་ དང་ ཐུན་མོང་བ་ "
 "ཡིན་ ཏེ་"
 msgstr ""
+"In this [system], the paths up to the sixth level are common to shravakas "
+"and pratyekabuddhas."
 
 msgctxt "640fb7e15f7a42588bba29ba3230d7e2"
 msgid "ས་བཅུ་པ་␣འི་ མདོ་ ལ་␣ས །"
