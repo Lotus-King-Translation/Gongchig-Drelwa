@@ -9825,7 +9825,7 @@ msgctxt "9d6b726dc44a4c23b2e4235145360af8"
 msgid ""
 "ཡུངས་འབྲུ་ སྲིན་ གྱིས་ ཟོས་པ་␣འི་ ནང་ གི་ མཁའ་ ལྟར་ ཁྱད་ ཡོད་པ་␣ར་ "
 "གསུངས་པ་␣འི་ ཕྱིར་ རོ །"
-msgstr ""
+msgstr "The space inside a mustard seed eaten by a worm."
 
 msgctxt "5bc7fed0c71d464c848459ed93858515"
 msgid "རྡོ་␣༽༽  ཐེག་པ་ ཆེ་ཆུང་ གཉིས་ ལ་␣ས་ ཆུང་ངུ་ ནི་ ཤིན་ཏུ་ དམན་ ཏེ་"
