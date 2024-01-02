@@ -9920,7 +9920,7 @@ msgstr "Bodhicitta and so forth and "
 
 msgctxt "8b1c327d48564c93888c67bdfa264e85"
 msgid "མཚན་མ་ མེད་པ་ མ་ རྟོགས་པ་␣ར་ སོགས་ ཞེས་ སོ་␣༑"
-msgstr ""
+msgstr "Without realizing the absence of signs and so forth."
 
 msgctxt "7d35e5060c994c38b3ed2c251b7957e3"
 msgid ""
