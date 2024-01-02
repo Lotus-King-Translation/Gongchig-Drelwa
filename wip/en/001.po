@@ -9833,7 +9833,7 @@ msgstr ""
 
 msgctxt "361617d651e74d7a890679568d0c8562"
 msgid "ཐེག་ བསྡུས་ ལ་␣ས །"
-msgstr ""
+msgstr "According to A Summary of the Mahayana:"
 
 msgctxt "9caa9b7429d3466f888860fe38b2bbf6"
 msgid "དམྱལ་བ་␣ར་ འགྲོ་བ་ སངས་རྒྱས་ ལ ། །"
