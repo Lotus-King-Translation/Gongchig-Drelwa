@@ -9941,7 +9941,7 @@ msgstr "Because the knower and the known are contradictory."
 
 msgctxt "3b09baee1a2640dab11633cdaccc02ec"
 msgid "ཡུལ་ ཡུལ་ཅན་ ནི་ ཀུན་རྫོབ་ ཡིན་ ཅིང་"
-msgstr ""
+msgstr "Since object and subject are relative,"
 
 msgctxt "dbfc5a2dacb34fbba91772254aa9519f"
 msgid "རང་རིག་ མ་གྲུབ་པ་␣ས་"
