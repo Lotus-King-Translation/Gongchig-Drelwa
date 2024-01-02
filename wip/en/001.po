@@ -9847,7 +9847,7 @@ msgstr "Thus, it is not a perpetual obstacle."
 
 msgctxt "5c5f40c708474354a18c30570ea46b5d"
 msgid "ཉན་ཐོས་ དང་ ནི་ རང་ སངས་རྒྱས ། །"
-msgstr "The shravakas and pratyekabuddha"
+msgstr "Shravakas and pratyekabuddhas"
 
 msgctxt "75cd7d03de744fbca7f65a5cd64ac8cf"
 msgid "ས་ གཉིས་ དག་ ནི་ གཏན་ གྱི་ གེགས །"
