@@ -9912,7 +9912,7 @@ msgstr "The Precious Garland says:"
 
 msgctxt "1572f2fa60a349f5b7ce66727d74f533"
 msgid "ཉན་ཐོས་ ཐེག་པ་ དེ་ལས་ ནི ། །"
-msgstr ""
+msgstr "From that of the shravaka vehicle."
 
 msgctxt "dfe5795c28c84b799480298b9810e843"
 msgid "བྱང་ཆུབ་ སེམས་ སོགས་ དང་ །"
