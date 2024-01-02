@@ -9891,6 +9891,7 @@ msgctxt "d5878446641847cbac0f3899d369438e"
 msgid ""
 "རང་ སངས་རྒྱས་ ཀྱིས་ ཀྱང་ དེ་ རྟོགས་པ་␣ར་ གསུངས་པ་ གཉིས་ མཉམ་པ་␣འི་ ཕྱིར །"
 msgstr ""
+"The statement that pratyekabuddhas also realize them, both are similar."
 
 msgctxt "118290967cba47eca3355edc3e9cb202"
 msgid "དཔེར་ན །"
