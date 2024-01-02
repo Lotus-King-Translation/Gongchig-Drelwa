@@ -9807,7 +9807,7 @@ msgstr "The knowing of and so forth is said."
 
 msgctxt "09b70abbe36f4343a7aad6da8fa78d00"
 msgid "ཡོངས་སུ་ རྫོགས་པ་␣འང་ མིན་ ཏེ །"
-msgstr ""
+msgstr "It is not completely perfect, because"
 
 msgctxt "ae0e9d92e54a41189c22e663f012adff"
 msgid "ཐེག་པ་ ཆེ་ཆུང་ གི་ ལམ་ དང་"
