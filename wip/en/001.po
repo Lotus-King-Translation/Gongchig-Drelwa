@@ -8262,7 +8262,7 @@ msgid ""
 "ཡོད་པ་␣འི་ ཕྱིར་ རོ ། །"
 msgstr ""
 "Because compassion can be present in hawks, wolves, non-Buddhist tirthikas, "
-"as well as Buddhist sravakas and pratyekabuddhas."
+"as well as Buddhist shravakas and pratyekabuddhas."
 
 msgctxt "bf798776e8c1471f873d86791b9c9823"
 msgid ""
