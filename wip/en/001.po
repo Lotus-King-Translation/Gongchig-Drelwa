@@ -9904,6 +9904,7 @@ msgstr "It is as if the sons of a king and a minister are of the same age."
 msgctxt "f2911d98d7da475aa8028fe4d0d49571"
 msgid "ཡོན་ཏན་ མཉས་ མམ་ ཞེ་ན་ མི་ མཉམ་ སྟེ །"
 msgstr ""
+"If one wonders if [they] have equal qualities, [it] is not the same, because"
 
 msgctxt "67482ee5680b4592a2c2ad5a41b8aab3"
 msgid "རིན་ཆེན་ ཕྲེང་བ་␣ར །"
