@@ -2634,7 +2634,7 @@ msgstr "above the seventh and "
 msgctxt "d6104301295e4cd09c60bd4fe743a9cb"
 msgid "ས་བཅུ་␣འི་ རྒྱུན་མཐ་␣ར་ ཤེས་སྒྲིབ་ སྤོང་བ་ ངེས་ ཟེར །"
 msgstr ""
-"At the end of the continuum of the tenth stage, the obscuration to knowables"
+"At the end of the continuum of the tenth level, the obscuration to knowables"
 " has certainly been abandoned"
 
 msgctxt "b07fdd0312a1485aa265ab22245dc974"
