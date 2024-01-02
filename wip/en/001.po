@@ -3187,7 +3187,8 @@ msgstr ""
 
 msgctxt "7d15ac448b0f47d5b82be2b88224a3e7"
 msgid "ཆོས་ཉིད་ ཀྱི་ བདེན་པ་ མཐོང་བ་ ཡོད་ ཟེར །"
-msgstr "Claimed that they can see the true nature of phenomena."
+msgstr ""
+"It is said that there are [those] who see the true nature of phenomena."
 
 msgctxt "9656c42cbf5b4abf8aea1b5a86beb58c"
 msgid "འདི་␣ར་ ནི་ མུ་སྟེགས་ བོན་ གྱི་ གྲུབ་མཐའ་ འཛིན་པ་ ཆོས་ཅན །"
