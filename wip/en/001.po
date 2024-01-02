@@ -9945,7 +9945,7 @@ msgstr "Since object and subject are relative,"
 
 msgctxt "dbfc5a2dacb34fbba91772254aa9519f"
 msgid "རང་རིག་ མ་གྲུབ་པ་␣ས་"
-msgstr ""
+msgstr "Self-knowing is not established."
 
 msgctxt "4d269c040fb2488599fadd91344bb8d4"
 msgid "ཆོས་ཉིད་ ཀྱི་ བདེན་པ་ མི་ མཐོང་ ཟེར །"
