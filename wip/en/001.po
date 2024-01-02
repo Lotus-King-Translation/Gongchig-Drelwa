@@ -9916,7 +9916,7 @@ msgstr "From that of the shravaka vehicle."
 
 msgctxt "dfe5795c28c84b799480298b9810e843"
 msgid "བྱང་ཆུབ་ སེམས་ སོགས་ དང་ །"
-msgstr ""
+msgstr "Bodhicitta and so forth and "
 
 msgctxt "8b1c327d48564c93888c67bdfa264e85"
 msgid "མཚན་མ་ མེད་པ་ མ་ རྟོགས་པ་␣ར་ སོགས་ ཞེས་ སོ་␣༑"
