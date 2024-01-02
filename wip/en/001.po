@@ -9908,7 +9908,7 @@ msgstr ""
 
 msgctxt "67482ee5680b4592a2c2ad5a41b8aab3"
 msgid "རིན་ཆེན་ ཕྲེང་བ་␣ར །"
-msgstr ""
+msgstr "The Precious Garland says:"
 
 msgctxt "1572f2fa60a349f5b7ce66727d74f533"
 msgid "ཉན་ཐོས་ ཐེག་པ་ དེ་ལས་ ནི ། །"
