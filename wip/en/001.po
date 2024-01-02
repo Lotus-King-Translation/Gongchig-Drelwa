@@ -9819,7 +9819,7 @@ msgstr "results, their qualities are [said to be different] like oceans and "
 
 msgctxt "e2c6a782e76d47f1886591a910c921a0"
 msgid "རྨིག་ རྗེས་ ཀྱི་ ཆུ་␣འམ་ ནམ་མཁའ་ དང་"
-msgstr ""
+msgstr "The water in a hoofprint, or the sky and "
 
 msgctxt "9d6b726dc44a4c23b2e4235145360af8"
 msgid ""
