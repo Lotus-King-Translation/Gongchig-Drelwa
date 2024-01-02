@@ -9937,7 +9937,7 @@ msgstr "Self-knowing is not established as self-illuminating."
 
 msgctxt "0ca5954c08064300adf7cf0f30a9e591"
 msgid "རིག་ བྱ་ རིག་བྱེད་ འགལ་བ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Because the knower and the known are contradictory."
 
 msgctxt "3b09baee1a2640dab11633cdaccc02ec"
 msgid "ཡུལ་ ཡུལ་ཅན་ ནི་ ཀུན་རྫོབ་ ཡིན་ ཅིང་"
