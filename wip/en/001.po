@@ -9951,6 +9951,7 @@ msgstr "Self-knowing is not established."
 msgctxt "4d269c040fb2488599fadd91344bb8d4"
 msgid "ཆོས་ཉིད་ ཀྱི་ བདེན་པ་ མི་ མཐོང་ ཟེར །"
 msgstr ""
+"It is said that the truth of the true nature of phenomena is not seen."
 
 msgctxt "bca5f5965a4d493b8dd1c07be81d4fe1"
 msgid ""
