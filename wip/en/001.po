@@ -2418,7 +2418,7 @@ msgctxt "956c9dd4a7854acc91b2f760bf5b1996"
 msgid "མཚན་ཉིད་ ཐེག་པ་␣འི་ ལམ་ ས་བཅུ་␣ས་ བགྲོད་ ཀྱང་"
 msgstr ""
 "Though, the path of the defining characteristic vehicle traversed the ten "
-"stages,"
+"levels,"
 
 msgctxt "0f58379eac9546b2a08cb2417319d29e"
 msgid "སྔགས་ལམ་ གཅིག་ ཆ་␣ར་ བས་ དེ་ འགྲོད་ མི་ དགོས་ ཏེ་"
