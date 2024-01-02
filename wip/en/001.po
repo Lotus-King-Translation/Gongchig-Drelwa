@@ -9899,7 +9899,7 @@ msgstr "For example:"
 
 msgctxt "1b3a4ad98f504b26b6eb65b5e8a83db6"
 msgid "རྒྱལ་བློན་ གྱི་ བུ་ གཉིས་ ལོ་ གྲངས་ མཉམ་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "It is as if the sons of a king and a minister are of the same age."
 
 msgctxt "f2911d98d7da475aa8028fe4d0d49571"
 msgid "ཡོན་ཏན་ མཉས་ མམ་ ཞེ་ན་ མི་ མཉམ་ སྟེ །"
