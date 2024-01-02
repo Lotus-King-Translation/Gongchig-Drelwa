@@ -9815,7 +9815,7 @@ msgstr "The greater and lesser vehicles' paths and "
 
 msgctxt "729d753566c9473aa4ba2ecb018fa48e"
 msgid "འབྲས་བུ་ ཡོན་ཏན་ རྒྱ་མཚོ་ དང་"
-msgstr ""
+msgstr "results, their qualities are [said to be different] like oceans and "
 
 msgctxt "e2c6a782e76d47f1886591a910c921a0"
 msgid "རྨིག་ རྗེས་ ཀྱི་ ཆུ་␣འམ་ ནམ་མཁའ་ དང་"
