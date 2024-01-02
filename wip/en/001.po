@@ -9958,6 +9958,8 @@ msgid ""
 "སྐབས་ འདི་␣ར་ སེམས་ ཙམ་པ་␣འི་ མངོན་རྟོགས་ ནི་ བྱང་སེམས་ ས་ བདུན་པ་ རིང་ དུ་ "
 "སོང་བ་␣འི་ མངོན་རྟོགས་ དང་ མཉམ་པ་ ཡིན་ ཏེ་"
 msgstr ""
+"In this context, the path of the Mind-only school is equivalent to the path "
+"of the bodhisattvas on the seventh level, the Far-going [level]."
 
 msgctxt "95bde9caf75a4e408130e574e8bc77e8"
 msgid "དེ་ལྟར་ ཡང་ ལང་ གཤེགས་ ལ་␣ས །"
