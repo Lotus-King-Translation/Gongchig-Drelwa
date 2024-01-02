@@ -9851,7 +9851,7 @@ msgstr "The shravakas and pratyekabuddha"
 
 msgctxt "75cd7d03de744fbca7f65a5cd64ac8cf"
 msgid "ས་ གཉིས་ དག་ ནི་ གཏན་ གྱི་ གེགས །"
-msgstr ""
+msgstr "These two levels are perpetual obstacles. "
 
 msgctxt "3d546f09d1be4beb900f53c8299475b8"
 msgid "ཞེས་པ་␣ས་ ས་ དང་པོ་␣འི་ བདེན་པ་ མ་ མཐོང་བ་␣ས་ དམན་ ནོ་ ཟེར །"
