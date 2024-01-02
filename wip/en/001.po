@@ -9869,7 +9869,7 @@ msgstr ""
 
 msgctxt "640fb7e15f7a42588bba29ba3230d7e2"
 msgid "ས་བཅུ་པ་␣འི་ མདོ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Sutra of the Tenth Level: "
 
 msgctxt "5a89d76ed74741d684d5064e529ffb1c"
 msgid "ས་ ལྔ་པ་␣ས་ བདེན་ བཞི་ རྟོགས་པ་␣ར་ གསུངས་ ཤིང་"
