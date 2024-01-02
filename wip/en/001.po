@@ -9803,7 +9803,7 @@ msgstr "The Blessed One is a thing and a non-thing."
 
 msgctxt "d864dfe459b54995bdbd6154a4f53eec"
 msgid "མཁྱེན་པ་␣འི་ སོགས་ གསུངས་པ་ ཡིན་ ནོ ། །"
-msgstr "Knowing and so forth is said."
+msgstr "The knowing of and so forth is said."
 
 msgctxt "09b70abbe36f4343a7aad6da8fa78d00"
 msgid "ཡོངས་སུ་ རྫོགས་པ་␣འང་ མིན་ ཏེ །"
