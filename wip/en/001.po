@@ -9983,7 +9983,7 @@ msgstr "The eleventh is the level of the great wisdom."
 
 msgctxt "17612ec55cc148768198d2d9976b7ff6"
 msgid "དེ་ ནི་ ང་ ཡི་ ས་ ཡིན་ ནོ །"
-msgstr ""
+msgstr "That is my level."
 
 msgctxt "9c213eb77cf341ea821c2ea6d0d94381"
 msgid "ཞེས་ གསུངས་ ཤིང༌ །"
