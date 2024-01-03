@@ -9971,7 +9971,7 @@ msgstr "The Mind-only school is the seventh [level]."
 
 msgctxt "3be27ec130834580823b8a58e1715bf7"
 msgid "སྣང་བ་ མེད་པ་ ས་ བརྒྱད་པ ། །"
-msgstr ""
+msgstr "Because of no appearance, the eighth [level]."
 
 msgctxt "e23c545873d845c39880cddc725ede67"
 msgid "ས་ གཉིས་ དག་ ནི་ གནས་ ཡིན་ ཏེ ། །"
