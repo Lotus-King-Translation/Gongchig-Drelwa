@@ -10050,6 +10050,8 @@ msgid ""
 "བདག་ ཏུ་ བཟུང་བ་ རྫས་ དང་ རྒྱུན་ དང་ བཏགས་པ་ ལ་སོགས་པ་ འདོད་པ་ གང་ཟག་ གི་ "
 "བདག་ དང་"
 msgstr ""
+"The self-grasping is accepted to be a substance, a continuum, a designation,"
+" and so forth. The self of persons and "
 
 msgctxt "5fa60652ebb6446a966d6a3be84a6bdb"
 msgid ""
