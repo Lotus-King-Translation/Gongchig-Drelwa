@@ -10024,7 +10024,7 @@ msgstr "The mind is also understood without an edge or a center."
 
 msgctxt "acc14c88d3af4873967125d19f27eb06"
 msgid "ཅེས་ དང༌ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "21cc5447220543c48f69f3e31097e7f7"
 msgid "སེམས་ ཙམ་ བཀའ་ ཡིས་ དབུ་མ་ སྟོན །"
