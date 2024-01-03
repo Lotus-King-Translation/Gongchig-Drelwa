@@ -10094,7 +10094,7 @@ msgstr "If the two selflessnesses are realized on the first [level]."
 
 msgctxt "30a3939029794bf19f8916933ee70050"
 msgid "རིང་ དུ་ སོང་བ་␣འི་ ཐ་སྙད་ སྦྱར་ མེད་པ་␣ས་"
-msgstr ""
+msgstr "Because the expression Far-going is not connected"
 
 msgctxt "5b39f1911bee487cb874cfff1be9cba4"
 msgid "གང་ཟག་ གི་ བདག་ ཕུང་པོ་␣ར་ འཛིན་པ་"
