@@ -10032,7 +10032,7 @@ msgstr "The instruction of the Mind-only [school] shows the middle way."
 
 msgctxt "ab502c2b54b74c269b6f5de232d82683"
 msgid "བྱ་བ་␣འི་ སྐབས་ སུ་␣འང་ ལེགས་པ་␣ར་ བཤད་པ་ ཡིན་ ནོ །"
-msgstr ""
+msgstr "It is also excellently explained at the time of action."
 
 msgctxt "ff532d7f8fea4f089f82438d72f2c5ce"
 msgid ""
