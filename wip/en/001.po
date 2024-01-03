@@ -9975,7 +9975,7 @@ msgstr "Because of no appearance, the eighth [level]."
 
 msgctxt "e23c545873d845c39880cddc725ede67"
 msgid "ས་ གཉིས་ དག་ ནི་ གནས་ ཡིན་ ཏེ ། །"
-msgstr ""
+msgstr "These two levels are the dwelling place."
 
 msgctxt "a599161d287f4bd192fdbaf00054cb22"
 msgid "བཅུ་གཅིག་ ཡེ་ཤེས་ ཆེན་པོ་␣འི་ ས ། །"
