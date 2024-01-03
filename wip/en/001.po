@@ -9987,7 +9987,7 @@ msgstr "That is my level."
 
 msgctxt "9c213eb77cf341ea821c2ea6d0d94381"
 msgid "ཞེས་ གསུངས་ ཤིང༌ །"
-msgstr ""
+msgstr "As it is said."
 
 msgctxt "7df3e065d9504f698051eb77167d1e2c"
 msgid ""
