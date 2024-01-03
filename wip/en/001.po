@@ -10043,7 +10043,7 @@ msgstr ""
 
 msgctxt "a971b29eb3374e44bb9eed0e97a51adf"
 msgid "ཉེར་ལེན་ གྱི་ ཕུང་པོ་␣ར་ མངོན་པར་ ཞེན་པ་␣ས་"
-msgstr ""
+msgstr "to the taken aggregates."
 
 msgctxt "16ca188fba664480a17041f21187d7d6"
 msgid ""
