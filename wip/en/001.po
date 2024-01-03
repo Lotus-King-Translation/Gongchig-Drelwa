@@ -10070,6 +10070,8 @@ msgid ""
 "བརྒྱད་པ་␣ར་ རྟོགས་པ་␣ར་ འདོད་པ་ རིམ་བཞིན་ བྱམས་མགོན་ དང་ ཀླུ་སྒྲུབ་ ཀྱིས་ "
 "བཞེད་པ་␣ས་"
 msgstr ""
+"The acceptance that it is realized on the eighth level, is successively "
+"accepted by Guardian Maitreya and Nagarjuna."
 
 msgctxt "ef64deb2ad754d5abc3a9bf4528f5c62"
 msgid "འགལ་བ་ ཅན་ ཡིན་ གསུངས་ མོད ། །"
