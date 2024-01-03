@@ -10016,7 +10016,7 @@ msgstr "Oh, the conqueror's sons! the three realms are just mind."
 
 msgctxt "7084099696a24ab4a736df427f339300"
 msgid "དུས་གསུམ་ ཡང་ སེམས་ དང་ མཚུངས་པ་␣ར་ རྟོགས་ སོ ། །"
-msgstr ""
+msgstr "The three times are also realized in the same way as the mind."
 
 msgctxt "ead6f86858534214bf5b7037a6f6fce3"
 msgid "སེམས་ དེ་␣འང་ མཐའ་ དང་ དབུས་ མེད་པ་␣ར་ ཁོང་ དུ་ ཆུད་ དོ ། །"
