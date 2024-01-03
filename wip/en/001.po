@@ -10075,7 +10075,7 @@ msgstr ""
 
 msgctxt "ef64deb2ad754d5abc3a9bf4528f5c62"
 msgid "འགལ་བ་ ཅན་ ཡིན་ གསུངས་ མོད ། །"
-msgstr ""
+msgstr "Although it is said to be contradictory."
 
 msgctxt "5fb5a1e203294eedb33cb51c36bbeef1"
 msgid "འདི་␣ར་ ནི་ དེ་ གཉིས་ མི་འགལ་བ་ ཆོས་ ཀྱི་ བདག་"
