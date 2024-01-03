@@ -10080,6 +10080,7 @@ msgstr "Although [they] are said to be contradictory."
 msgctxt "5fb5a1e203294eedb33cb51c36bbeef1"
 msgid "འདི་␣ར་ ནི་ དེ་ གཉིས་ མི་འགལ་བ་ ཆོས་ ཀྱི་ བདག་"
 msgstr ""
+"In this [system], these two are not contradictory. The self of phenomena "
 
 msgctxt "d58083f7bf994d4bba6ab2ad05cb66ba"
 msgid "རང་བཞིན་ མེད་པ་ ས་ བརྒྱད་པ་␣ར་ མངོན་དུ་ བྱས་པ་ ལ་ དགོངས་པ་ མཐུན་ ཏེ་"
