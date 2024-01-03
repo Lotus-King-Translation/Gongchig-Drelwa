@@ -10012,7 +10012,7 @@ msgstr "According to the Avatamsaka [Sutra]:"
 
 msgctxt "f0a1032b2daf46a49a0f971761f9b257"
 msgid "ཀྱེ་ རྒྱལ་བ་␣འི་ སྲས་ ཁམས་ གསུམ་པོ་ ནི་ སེམས་ ཙམ་ མོ ། །"
-msgstr ""
+msgstr "Oh, the conqueror's sons! the three realms are just mind."
 
 msgctxt "7084099696a24ab4a736df427f339300"
 msgid "དུས་གསུམ་ ཡང་ སེམས་ དང་ མཚུངས་པ་␣ར་ རྟོགས་ སོ ། །"
