@@ -10090,7 +10090,7 @@ msgstr ""
 
 msgctxt "9fde591dbf7a458dab037fd9709d40c6"
 msgid "དང་པོ་␣ར་ བདག་མེད་ གཉིས་ རྟོགས་པ་ ཡིན་ ན་"
-msgstr ""
+msgstr "If the two selflessnesses are realized on the first [level]."
 
 msgctxt "30a3939029794bf19f8916933ee70050"
 msgid "རིང་ དུ་ སོང་བ་␣འི་ ཐ་སྙད་ སྦྱར་ མེད་པ་␣ས་"
