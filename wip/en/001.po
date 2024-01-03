@@ -9967,7 +9967,7 @@ msgstr "The Descent to Lanka Sutra says:"
 
 msgctxt "411b2f9e09b94ce1b0921e922b76fd36"
 msgid "སེམས་ ཙམ་པ་ ནི་ བདུན་པ་ སྟེ ། །"
-msgstr ""
+msgstr "The Mind-only school is the seventh [level] because."
 
 msgctxt "3be27ec130834580823b8a58e1715bf7"
 msgid "སྣང་བ་ མེད་པ་ ས་ བརྒྱད་པ ། །"
