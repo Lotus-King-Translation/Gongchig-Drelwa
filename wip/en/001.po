@@ -10058,6 +10058,8 @@ msgid ""
 "འཛིན་པ་␣འི་ བདག་མེད་ ཀྱང་ ཕྱི་ ནང་ གི་ ཆོས་ རྣམས་ རྟེན་འབྲེལ་ ཙམ་ དུ་ "
 "བྱུང་བ་ འདི་ ཡོད་ དོ་ བྱ་བ་ ཆོས་བདག་ སྟེ །"
 msgstr ""
+"The selflessness of grasping, the outer and inner phenomena, exist merely as"
+" a dependent-related arising. The activity is the self of phenomena."
 
 msgctxt "78c106846ab944819fed43b9016e262a"
 msgid "དེ་ རང་བཞིན་ མེད་པ་␣ར་ ས་ དང་པོ་␣ར་ རྟོགས་པ་ དང་"
