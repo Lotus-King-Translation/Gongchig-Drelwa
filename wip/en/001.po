@@ -10098,7 +10098,7 @@ msgstr "Because the expression Far-going is not connected"
 
 msgctxt "5b39f1911bee487cb874cfff1be9cba4"
 msgid "གང་ཟག་ གི་ བདག་ ཕུང་པོ་␣ར་ འཛིན་པ་"
-msgstr "The grasping of the self of persons as the aggregates"
+msgstr "The grasping of the self of a person as the aggregates"
 
 msgctxt "9b2091787737420a8feb78e8ee37cefb"
 msgid "རང་བཞིན་ མེད་པ་ ས་ དང་པོ་␣ར་ རྟོགས་པ་ ལ་ དགོངས་ ཤིང་ །"
