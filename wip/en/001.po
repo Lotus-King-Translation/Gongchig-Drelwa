@@ -10004,7 +10004,7 @@ msgstr "By realizing the outer and inner phenomena in the mind."
 
 msgctxt "ece2193c483246b188df7b4b6c13fc89"
 msgid "ཅི་ཡང་ བསྒྱུར་ བཏུབ་པ་ ནི་ ཐབས་ ཀྱི་ ཕར་ཕྱིན་ ཡིན་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "The ability to change anything is the perfection of methods."
 
 msgctxt "84dba8e5a2a74e17afd489fda6efa390"
 msgid "ཕལ་ཆེན་ ལ་␣ས་ ཀྱང་ །"
