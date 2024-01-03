@@ -10028,7 +10028,7 @@ msgstr "And"
 
 msgctxt "21cc5447220543c48f69f3e31097e7f7"
 msgid "སེམས་ ཙམ་ བཀའ་ ཡིས་ དབུ་མ་ སྟོན །"
-msgstr ""
+msgstr "The instruction of the Mind-only [school] shows the middle way."
 
 msgctxt "ab502c2b54b74c269b6f5de232d82683"
 msgid "བྱ་བ་␣འི་ སྐབས་ སུ་␣འང་ ལེགས་པ་␣ར་ བཤད་པ་ ཡིན་ ནོ །"
