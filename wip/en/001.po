@@ -10000,7 +10000,7 @@ msgstr ""
 
 msgctxt "f388a805ff564afca0dd1da02f43115d"
 msgid "ཕྱི་ ནང་ གི་ ཆོས་ རྣམས་ སེམས་ སུ་ རྟོགས་ ཏེ་"
-msgstr ""
+msgstr "By realizing the outer and inner phenomena in the mind."
 
 msgctxt "ece2193c483246b188df7b4b6c13fc89"
 msgid "ཅི་ཡང་ བསྒྱུར་ བཏུབ་པ་ ནི་ ཐབས་ ཀྱི་ ཕར་ཕྱིན་ ཡིན་པ་␣འི་ ཕྱིར་ རོ ། །"
