@@ -10063,7 +10063,7 @@ msgstr ""
 
 msgctxt "78c106846ab944819fed43b9016e262a"
 msgid "དེ་ རང་བཞིན་ མེད་པ་␣ར་ ས་ དང་པོ་␣ར་ རྟོགས་པ་ དང་"
-msgstr ""
+msgstr "Devoid of its intrinsic nature is realized on the first level.  "
 
 msgctxt "46eabfe2f2014b03a48c45ff09b3d74f"
 msgid ""
