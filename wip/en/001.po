@@ -10103,6 +10103,8 @@ msgstr "The grasping of the self of a person as the aggregates"
 msgctxt "9b2091787737420a8feb78e8ee37cefb"
 msgid "རང་བཞིན་ མེད་པ་ ས་ དང་པོ་␣ར་ རྟོགས་པ་ ལ་ དགོངས་ ཤིང་ །"
 msgstr ""
+"Because it is empty of intrinsic nature, thus the realization on the first "
+"[level] is the intent."
 
 msgctxt "a44a139fc56d49ea94fe7f05211bbe6f"
 msgid "རྟེན་འབྲེལ་ ཆོས་ ཙམ་ དུ་ སྣང་བ་ དེ་ཡང་"
