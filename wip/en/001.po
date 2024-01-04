@@ -19284,7 +19284,7 @@ msgstr ""
 
 msgctxt "dc9dffd53afd450fad85f5176c8ed850"
 msgid "དེ་ལྟར་ ཡང་ རྒྱ་ ཆེ་␣ར་ རོལ་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The Play in Full [sutra]:"
 
 msgctxt "5210db319421465eaaa75288bf496ba6"
 msgid "ཚངས་པ་ ངས་ ཡོངས་སུ་ ཆད་པ་␣འི་ རྣམ་པ་␣ས་"
