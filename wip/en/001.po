@@ -10143,7 +10143,7 @@ msgstr "Buddha Dipankara will prophesy about me."
 
 msgctxt "36073342b36e461aa9ec884fa36c1668"
 msgid "ཅེས་ དང་ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "65393b058f16420295c4048119a835bb"
 msgid "རྣམ་པ་␣ར་ འཕྲུལ་ རྒྱལ་ གྱིས་ ཞུས་ མདོ་␣ར །"
