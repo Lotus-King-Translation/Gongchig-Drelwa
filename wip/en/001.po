@@ -10241,7 +10241,7 @@ msgstr "The [levels] of Radiant, Very Difficult to Conquer, Manifest and"
 
 msgctxt "714da8ae4d6047be84dab210fc9a0702"
 msgid "རིང་ དུ་ སོང་ དང་ མི་ གཡོ་ ལེགས་པ་␣འི་ བློ ། །"
-msgstr "Far-going, Immovable, Excellent Mind,"
+msgstr "Gone Far, Unwavering, Good Intelligence,"
 
 msgctxt "aa5a546c9306439b8525c2b670813c2d"
 msgid "ཆོས་ སྤྲིན་ ས་བཅུ་པོ་ དག་ ཐོབ་པ་␣ར་ འགྱུར །"
