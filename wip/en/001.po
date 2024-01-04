@@ -10215,6 +10215,8 @@ msgstr "Finally, one traverses by vajra-like concentration and so on. "
 msgctxt "c46e974c8c02430cb1e58db68f555de2"
 msgid "གོང་མ་ རྟོགས་ ཚེ་ འོག་མ་ འདོར་བ་ ཡིན་ ཟེར་ ཡང༌ །"
 msgstr ""
+"Even though it is said that when one realizes the higher levels, one "
+"forsakes the lower ones."
 
 msgctxt "c660bd703f4e46218cec04ff2432b8e0"
 msgid ""
