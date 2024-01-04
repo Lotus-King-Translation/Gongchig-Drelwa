@@ -10259,7 +10259,7 @@ msgstr ""
 
 msgctxt "41ca7120e0644653a51e7d0e54c23c06"
 msgid "དེ་␣འི་ ངོ་བོ་ མཐོང་བ་ སྤྲོས་བྲལ །"
-msgstr ""
+msgstr "Its essence is seen without elaboration."
 
 msgctxt "9a17812105c74f738b7cdc784c57b43f"
 msgid "སྣང་བ་ ཐམས་ཅད་ དེ་ཉིད་ དུ་ རྟོགས་པ་"
