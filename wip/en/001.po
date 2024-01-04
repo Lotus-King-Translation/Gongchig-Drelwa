@@ -10135,7 +10135,7 @@ msgstr "All phenomena are empty of intrinsic nature and selflessness."
 
 msgctxt "a9dff32c12144e3fae9063e9b88fec43"
 msgid "བཟོད་པ་ བདག་ གིས་ ཐོབ་པ་ དེ་ ཡི་ ཚེ ། །"
-msgstr ""
+msgstr "When I attain forbearance"
 
 msgctxt "d73b2eaaf0b14014bee29cec99626179"
 msgid "སངས་རྒྱས་ མར་མེ་མཛད་ ཀྱིས་ བདག་ ལུང་བསྟན །"
