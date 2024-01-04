@@ -10249,7 +10249,7 @@ msgstr "And Cloud of Dharma, these ten levels will be attained. "
 
 msgctxt "9691802e6c1d4cf49ae699e67543049f"
 msgid "ཞེས་པ་␣ས་ རྣལ་འབྱོར་ བཞི་ ལ་ སྦྱར་ ན་"
-msgstr ""
+msgstr "Thus, when these four are connected to the four yogas,"
 
 msgctxt "0889fa32b35747148f157ebcb7e0ccdd"
 msgid "སྤྲོས་མེད་ ལྷན་སྐྱེས་ ཀྱིས་ ཡེ་ཤེས་ ཅུང་ཟད་ གསལ་བ་ ཚེ་ གཅིག །"
