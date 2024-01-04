@@ -10197,7 +10197,7 @@ msgstr ""
 
 msgctxt "8625efa1212f4885b0826f88b59fb126"
 msgid "མཐ་␣ར་ ཕྱིན་ ལམ་ འབྲས་བུ་␣ར་ ལམ་ དུ་ བརྟགས་ ཤིང་"
-msgstr ""
+msgstr "the final paths are like designating the result as the path."
 
 msgctxt "770180b95ea146d59b39eb4e466e74c1"
 msgid "ས་བཅུ་ ནི་ མངོན་རྟོགས་ ཀྱི་ རིམ་པ་ སྟེ་"
