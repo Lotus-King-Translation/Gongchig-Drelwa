@@ -10170,6 +10170,8 @@ msgstr "Dipamkara's prophecy also states this."
 msgctxt "c54bb3c82e534820ad0fca3dc2a9bbe8"
 msgid "གཉིས་ཀ་ དང་པོ་ རྟོགས་པ་ གསུངས་པ་ དག་ས་ དང་"
 msgstr ""
+"It is said that both of these are realized on the first [level], the pure "
+"levels and "
 
 msgctxt "5726dadce1a642bfb6261fbd220fd9d8"
 msgid "གཞོན་ནུ་␣འི་ ས་␣འི་ དང་པོ་ བརྒྱད་པ་ ཡིན་པ་␣ས་ སོ །"
