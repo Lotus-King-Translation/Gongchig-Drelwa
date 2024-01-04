@@ -10151,7 +10151,7 @@ msgstr "The Sutra requested by Vikurvanaraja says:"
 
 msgctxt "6150493315014e0f8070716046efe43c"
 msgid "ཆོས་ ཀྱི་ བདག་མེད་ རྟོགས་ ཕྱིན་ཆད་ བདག་ གིས་ སངས་རྒྱས་ མཐོང་ ། །"
-msgstr ""
+msgstr "After I realize the selflessness of phenomena, I will see the Buddha."
 
 msgctxt "4f5025cbfe8045a6b43535b9dda72535"
 msgid "གྲངས་མེད་ གཉིས་ ལ་མ་ མཐོང་ ངམ་ ཞུས་པ་␣ས །"
