@@ -10210,7 +10210,7 @@ msgstr ""
 
 msgctxt "841c1eb1de0448e3b1151b49717fbc87"
 msgid "མཐ་␣ར་ རྡོ་ཏིང་ སོགས་ ཐ་དད་ ཀྱིས་ བགྲོད་ ནས་"
-msgstr ""
+msgstr "Finally, one traverses by vajra-like concentration and so on. "
 
 msgctxt "c46e974c8c02430cb1e58db68f555de2"
 msgid "གོང་མ་ རྟོགས་ ཚེ་ འོག་མ་ འདོར་བ་ ཡིན་ ཟེར་ ཡང༌ །"
