@@ -10131,7 +10131,7 @@ msgstr "There is no birth or death at that point."
 
 msgctxt "61733a00997346ac93834f709b67efb7"
 msgid "ཆོས་ འདི་ ཐམས་ཅད་ རང་བཞིན་ བདག་མེད་པ་␣འི ། །"
-msgstr ""
+msgstr "All phenomena are empty of intrinsic nature and selflessness."
 
 msgctxt "a9dff32c12144e3fae9063e9b88fec43"
 msgid "བཟོད་པ་ བདག་ གིས་ ཐོབ་པ་ དེ་ ཡི་ ཚེ ། །"
