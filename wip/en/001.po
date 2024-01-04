@@ -10254,6 +10254,8 @@ msgstr "Thus, when these four are connected to the four yogas,"
 msgctxt "0889fa32b35747148f157ebcb7e0ccdd"
 msgid "སྤྲོས་མེད་ ལྷན་སྐྱེས་ ཀྱིས་ ཡེ་ཤེས་ ཅུང་ཟད་ གསལ་བ་ ཚེ་ གཅིག །"
 msgstr ""
+"One instance is when the unelaborated co-emergence clears a little bit of "
+"primordial wisdom."
 
 msgctxt "41ca7120e0644653a51e7d0e54c23c06"
 msgid "དེ་␣འི་ ངོ་བོ་ མཐོང་བ་ སྤྲོས་བྲལ །"
