@@ -10156,6 +10156,8 @@ msgstr "After I realize the selflessness of phenomena, I will see the Buddha."
 msgctxt "4f5025cbfe8045a6b43535b9dda72535"
 msgid "གྲངས་མེད་ གཉིས་ ལ་མ་ མཐོང་ ངམ་ ཞུས་པ་␣ས །"
 msgstr ""
+"When he was asked: \"Haven't you seen [the Buddha] in the two incalculable "
+"[eons]? "
 
 msgctxt "5d1e00e60bac409bab439660f2b7f51f"
 msgid "འཇིག་ཚོགས་ མཐོང་ ཞེས་ དང༌ །"
