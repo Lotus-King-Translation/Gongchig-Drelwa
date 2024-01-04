@@ -10233,7 +10233,7 @@ msgstr "According to The King of Meditative Concentration [Sutra]:"
 
 msgctxt "f74298638e114b8989a16a5353de90ef"
 msgid "མི་གང་ ཏིང་འཛིན་ མཆོག་ དེ་ སུ་␣ས་ འཛིན་པ ། །"
-msgstr ""
+msgstr "Those who hold this supreme meditative concentration."
 
 msgctxt "6bfe1837f9474cf9b7cb1ff57ea6394e"
 msgid "འོད་འཕྲོ་ ཤིན་ཏུ་ སྦྱངས་ དཀའ་ མངོན་གྱུར་ དང༌ ། །"
