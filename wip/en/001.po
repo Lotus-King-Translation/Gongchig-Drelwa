@@ -10123,7 +10123,7 @@ msgstr "Thus, both of these have the same intent."
 
 msgctxt "229a70056a4b45d989d32ce734be5e4f"
 msgid "དེ་ལྟར་ རྒྱ་ རོལ་ ལ་␣ས་ ༑"
-msgstr ""
+msgstr "According to The Play in Full [sutra]:"
 
 msgctxt "ec9c5dbbaf0a404c8c20fd714c7df1df"
 msgid "གང་ ཚེ་ འདི་ ན་ སྐྱེ་འཆི་ གང་ཡང་ མེད ། །"
