@@ -10114,6 +10114,8 @@ msgstr ""
 msgctxt "01c31e39feb5418f9bd333e31955c3cd"
 msgid "རང་བཞིན་ མེད་པ་ ཆོས་ ཀྱི་ བདག་མེད་པ་ ས་ བརྒྱད་པ་␣ར་ རྟོགས་པ་ ཉིད་"
 msgstr ""
+"an empty of intrinsic nature, because of the selflessness of phenomena, it "
+"is realized on the eighth level."
 
 msgctxt "db7ecdf662174960906b58bcc79533e5"
 msgid "གཉིས་ཀ་ དགོངས་པ༌་␣མཉམ་པ་␣འི་ ཕྱིར་ རོ ། །"
