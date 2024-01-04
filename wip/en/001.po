@@ -10119,7 +10119,7 @@ msgstr ""
 
 msgctxt "db7ecdf662174960906b58bcc79533e5"
 msgid "གཉིས་ཀ་ དགོངས་པ༌་␣མཉམ་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "Thus, both of these have the same intent."
 
 msgctxt "229a70056a4b45d989d32ce734be5e4f"
 msgid "དེ་ལྟར་ རྒྱ་ རོལ་ ལ་␣ས་ ༑"
