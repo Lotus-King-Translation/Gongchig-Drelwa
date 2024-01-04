@@ -10205,7 +10205,7 @@ msgstr "The ten levels are the stages of manifest realization."
 
 msgctxt "4cb1dd6f7caf475c95d952b39170a8f1"
 msgid "དང་པོ་ མཐོང་ལམ་ དེ་ནས་ དཔའ་བ་␣ར་ འགྲོ་བ་"
-msgstr ""
+msgstr "First, one courageously advances from the path of seeing."
 
 msgctxt "841c1eb1de0448e3b1151b49717fbc87"
 msgid "མཐ་␣ར་ རྡོ་ཏིང་ སོགས་ ཐ་དད་ ཀྱིས་ བགྲོད་ ནས་"
