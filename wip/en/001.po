@@ -10175,7 +10175,7 @@ msgstr ""
 
 msgctxt "5726dadce1a642bfb6261fbd220fd9d8"
 msgid "གཞོན་ནུ་␣འི་ ས་␣འི་ དང་པོ་ བརྒྱད་པ་ ཡིན་པ་␣ས་ སོ །"
-msgstr "the levels of youth's first and eight."
+msgstr "the levels of youth's first and eighth."
 
 msgctxt "29856d375fb04e6fa842d0cce0a883d3"
 msgid "ཞེས་པ་ སོགས་ ཀྱི་ ལུང་རིགས་ ཀྱིས་ སྒྲུབ་བོ །"
