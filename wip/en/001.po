@@ -10179,7 +10179,7 @@ msgstr "the levels of youth's first and eighth."
 
 msgctxt "29856d375fb04e6fa842d0cce0a883d3"
 msgid "ཞེས་པ་ སོགས་ ཀྱི་ ལུང་རིགས་ ཀྱིས་ སྒྲུབ་བོ །"
-msgstr ""
+msgstr "This is established by such scriptures and reasonings."
 
 msgctxt "84720d6483b8414c82a57ff2eac0fdbf"
 msgid ""
