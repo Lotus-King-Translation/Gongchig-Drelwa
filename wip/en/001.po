@@ -10108,7 +10108,8 @@ msgstr ""
 
 msgctxt "a44a139fc56d49ea94fe7f05211bbe6f"
 msgid "རྟེན་འབྲེལ་ ཆོས་ ཙམ་ དུ་ སྣང་བ་ དེ་ཡང་"
-msgstr "The dependent-related arising appears as just a phenomenon."
+msgstr ""
+"The appearance of dependent-related arising just as a phenomenon is also."
 
 msgctxt "01c31e39feb5418f9bd333e31955c3cd"
 msgid "རང་བཞིན་ མེད་པ་ ཆོས་ ཀྱི་ བདག་མེད་པ་ ས་ བརྒྱད་པ་␣ར་ རྟོགས་པ་ ཉིད་"
