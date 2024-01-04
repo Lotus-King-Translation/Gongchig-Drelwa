@@ -10263,7 +10263,7 @@ msgstr "Its essence is seen without elaboration."
 
 msgctxt "9a17812105c74f738b7cdc784c57b43f"
 msgid "སྣང་བ་ ཐམས་ཅད་ དེ་ཉིད་ དུ་ རྟོགས་པ་"
-msgstr ""
+msgstr "All appearances are realized in itself."
 
 msgctxt "0ce4bd5260c34c0994dec0a56e432d44"
 msgid ""
