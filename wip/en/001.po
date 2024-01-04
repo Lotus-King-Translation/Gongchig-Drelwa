@@ -10161,7 +10161,7 @@ msgstr ""
 
 msgctxt "5d1e00e60bac409bab439660f2b7f51f"
 msgid "འཇིག་ཚོགས་ མཐོང་ ཞེས་ དང༌ །"
-msgstr ""
+msgstr "He said: \"I have seen the perishing collection.\""
 
 msgctxt "d6a3326cda7b48f9b23c0f9d0fd1f4fa"
 msgid "མར་མེ་མཛད་ ལུང་བསྟན་པ་ ལ་␣ས་ ཀྱང་ དེ་ལྟར་ གསུངས་ སོ ། །"
