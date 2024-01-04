@@ -10139,7 +10139,7 @@ msgstr "When I attain forbearance"
 
 msgctxt "d73b2eaaf0b14014bee29cec99626179"
 msgid "སངས་རྒྱས་ མར་མེ་མཛད་ ཀྱིས་ བདག་ ལུང་བསྟན །"
-msgstr ""
+msgstr "Buddha Dipankara will prophesy about me."
 
 msgctxt "36073342b36e461aa9ec884fa36c1668"
 msgid "ཅེས་ དང་ །"
