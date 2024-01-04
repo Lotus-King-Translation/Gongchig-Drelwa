@@ -10165,7 +10165,7 @@ msgstr "He said: \"I have seen the perishing collection.\""
 
 msgctxt "d6a3326cda7b48f9b23c0f9d0fd1f4fa"
 msgid "མར་མེ་མཛད་ ལུང་བསྟན་པ་ ལ་␣ས་ ཀྱང་ དེ་ལྟར་ གསུངས་ སོ ། །"
-msgstr ""
+msgstr "Dipamkara's prophecy also states this."
 
 msgctxt "c54bb3c82e534820ad0fca3dc2a9bbe8"
 msgid "གཉིས་ཀ་ དང་པོ་ རྟོགས་པ་ གསུངས་པ་ དག་ས་ དང་"
