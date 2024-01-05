@@ -10282,7 +10282,7 @@ msgstr ""
 
 msgctxt "a8709e8a766c43d0a2df3af480569291"
 msgid "གནས་སྐབས་ བཅུརབཏགས་པ་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "It is like being temporarily labeled as ten [categories]."
 
 msgctxt "c09d299a2abc44bc9176e71d0bef7d6f"
 msgid "ལྷན་␣༽༽  འགའ་ཞིག་ ན་རེ །"
