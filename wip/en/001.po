@@ -10277,6 +10277,8 @@ msgstr ""
 msgctxt "60f0c3d65b1d4d1d90e75a71b74dd3e5"
 msgid "སྟོང་ཉིད་ བཅོ་བརྒྱད་ དང་ ཞི་གནས་ རྒལ་བ་␣འི་ བར་མི་ གཅིག་ ལ་"
 msgstr ""
+"It is not the same until traversing the eighteen emptinesses and calm-"
+"abiding."
 
 msgctxt "a8709e8a766c43d0a2df3af480569291"
 msgid "གནས་སྐབས་ བཅུརབཏགས་པ་ བཞིན་ ནོ །"
