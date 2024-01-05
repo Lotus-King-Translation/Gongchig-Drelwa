@@ -10301,6 +10301,7 @@ msgstr ""
 msgctxt "1c0402547896427c8d8ed793cb87dd2a"
 msgid "འདི་␣ར་ ནི་ ཏིང་འཛིན་ མཐའ་དག་ ཀྱང་ རྡོ་རྗེ་ ལྟ་བུ་ ཡིན་ ཏེ་"
 msgstr ""
+"In this [system], all the meditative concentrations are vajra-like because."
 
 msgctxt "a24b813e11554e358176dc5e798bf567"
 msgid "ཚོགས་སྦྱོར་ ཞི་གནས་ ཀྱི་ ཏིང་འཛིན་ ལ་ བརྟེན་ ནས་ མཐོང་ལམ་ སྐྱེ་ ཞིང་"
