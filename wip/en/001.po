@@ -10290,7 +10290,7 @@ msgstr "Addendum: Some said,"
 
 msgctxt "55fb92efaecc46a4b9de8091ceb37c71"
 msgid "ཏིང་འཛིན་ མང་ དུ་ཡོད་ ཀྱང་"
-msgstr ""
+msgstr "Although there are many meditative concentrations."
 
 msgctxt "533fa307e7ec4fd4b66e5215d9132195"
 msgid "རྡོ་ཏིང་ རྒྱུན་མཐ་␣འི་ ཏིང་འཛིན་ ཡིན་ ཟེར་ ཡང་ །"
