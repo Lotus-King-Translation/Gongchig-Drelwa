@@ -10295,6 +10295,8 @@ msgstr "Although there are many meditative concentrations."
 msgctxt "533fa307e7ec4fd4b66e5215d9132195"
 msgid "རྡོ་ཏིང་ རྒྱུན་མཐ་␣འི་ ཏིང་འཛིན་ ཡིན་ ཟེར་ ཡང་ །"
 msgstr ""
+"Also, the vajra-like concentration is said to be the meditative "
+"concentration of the final continuum."
 
 msgctxt "1c0402547896427c8d8ed793cb87dd2a"
 msgid "འདི་␣ར་ ནི་ ཏིང་འཛིན་ མཐའ་དག་ ཀྱང་ རྡོ་རྗེ་ ལྟ་བུ་ ཡིན་ ཏེ་"
