@@ -10306,6 +10306,8 @@ msgstr ""
 msgctxt "a24b813e11554e358176dc5e798bf567"
 msgid "ཚོགས་སྦྱོར་ ཞི་གནས་ ཀྱི་ ཏིང་འཛིན་ ལ་ བརྟེན་ ནས་ མཐོང་ལམ་ སྐྱེ་ ཞིང་"
 msgstr ""
+"The path of seeing arises in dependence on the concentration of calm-"
+"abiding, the paths of accumulation and connection."
 
 msgctxt "9a31388979904ea18e8a0d446041dc7b"
 msgid "དེ་␣ས་ ས་བཅུ་ ཚུན་ཆད་ བསྒྲོད་པ་␣འི་ ཕྱིར་ རོ །"
