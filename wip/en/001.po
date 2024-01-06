@@ -10394,6 +10394,8 @@ msgctxt "52d76a812f9141f197850783281e0b36"
 msgid ""
 "བདག་ གིས་ འདི་ ལས་མི་ ཤེས་ ཞེས་ དབུ་སྙུང་ བཞེས་ ནས་ ལུང་བསྟན་པ་ བཞིན་ ནོ ། །"
 msgstr ""
+"They stated, \"I know nothing beyond this.\" They became perplexed, and a "
+"prophecy was made."
 
 msgctxt "01b58c219dcb4646b1bf38aa207aa8d3"
 msgid "བཞི་པ་ ཡོད་ ཀྱང་ མི་ མཐོང་བ་"
