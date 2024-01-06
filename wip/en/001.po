@@ -10384,7 +10384,7 @@ msgstr ""
 
 msgctxt "50db12d839954082be8dfc8e90be099d"
 msgid "གསུམ་པ་ འགའ་ཞིག་ ཡོད་ ལ་ འགའ་ཞིག་ མེད་པ་"
-msgstr ""
+msgstr "The third is some exist, some do not. "
 
 msgctxt "5b07ac0a24fa44eea7d05dd57f9e2980"
 msgid "ནོར་ བཟང་ གི་ བླ་མ་ རྣམས་ ས་བཅུ་པ་ ཡིན་ ཀྱང་"
