@@ -10316,6 +10316,8 @@ msgstr "It will traverse up to the tenth level."
 msgctxt "22b00650664f42bfa8c708d4f62354b6"
 msgid "རྡོ་␣༽༽  ས་ དང་པོ་ ཐོབ་ མ་ ཐག་ སངས་རྒྱས་ བརྒྱ་␣འི་ ཞལ་ མཐོང་བ་ སོགས་"
 msgstr ""
+"Vajra: Soon after attaining the first level, [one] will see the faces of a "
+"hundred Buddhas and so on."
 
 msgctxt "be5ca888bbb54064888f91408e82498a"
 msgid "ཡོན་ཏན་ བརྒྱ་ ཕྲག་ བཅུ་གཉིས་ འབྱུང་བ་␣ར་ གསུངས་པ་"
