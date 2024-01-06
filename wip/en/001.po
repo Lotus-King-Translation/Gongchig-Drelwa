@@ -10336,6 +10336,7 @@ msgstr ""
 msgctxt "464e17a819824faf9d043e0c06480327"
 msgid "འདི་␣ར་ ནི་ ས་ ཐོབ་ ཀྱང་ ས་ སྦྱངས་ དགོས་པ་␣ས་"
 msgstr ""
+"In this [system], even after attaining the levels, still need to train. "
 
 msgctxt "6963f79d132347cf82b71e2ce34d735b"
 msgid ""
