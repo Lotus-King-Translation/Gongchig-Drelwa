@@ -10325,7 +10325,7 @@ msgstr "It is said that twelve hundred qualities will arise."
 
 msgctxt "dab29bef5aae49f984326368eb2b5eac"
 msgid "ཁྱེད་ ཀྱི་ རོ་ གཅིག་ དག་པ་␣འི་ མངོན་རྟོགས་ སུ་ འདོད་ ན་"
-msgstr ""
+msgstr "If you accept the one-taste as a pure manifest realization,"
 
 msgctxt "f7b21f246b4142c9b3fc169c674d334c"
 msgid "དང་པོ་␣འི་ ཡོན་ཏན་ ཡང་ མི་ འདུག་ ཟེར་ རོ ། །"
