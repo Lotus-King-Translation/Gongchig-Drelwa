@@ -10342,6 +10342,8 @@ msgctxt "6963f79d132347cf82b71e2ce34d735b"
 msgid ""
 "ཡོན་ཏན་ འབྱུང་ ཚུལ་ རིམ་གྱིས་ ཅིག་ ཆེ་␣ར་བ་ འགའ་ཞིག་ ཡོད་མེད་ ཡོད་ ཀྱང་"
 msgstr ""
+"How good qualities arise could be gradually or at once, or some exist, some "
+"do not."
 
 msgctxt "43ea2af2df3c42749b37c64c31ce1ea7"
 msgid "གཞན་ གྱིས་ མི་ མཐོང་བ་"
