@@ -10370,6 +10370,8 @@ msgid ""
 "གཉིས་པ་ སྤྱན་རས་ གཟིགས་ ལྟ་བུ་ སེམས་བསྐྱེད་པ་ གཅིག་ གིས་ ས་ བརྒྱད་པ་ "
 "ཐོབ་པ་␣ར་ གསུངས་པ་ དང་"
 msgstr ""
+"The second is like Avalokiteshvara, it is said that he attained the eighth "
+"level by generating the mind of awakening once."
 
 msgctxt "2f3bd89233e04924af49d9425b88e9b1"
 msgid "བསྒྲེས་ མོ་ མོ་ མི་ སྐྱེ་བ་␣འི་ ཆོས་ ལ་ བཟོད་པ་ ཐོབ་ ཀྱང་"
