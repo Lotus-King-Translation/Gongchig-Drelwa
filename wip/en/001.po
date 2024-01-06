@@ -10388,7 +10388,7 @@ msgstr "The third is some exist, some do not. "
 
 msgctxt "5b07ac0a24fa44eea7d05dd57f9e2980"
 msgid "ནོར་ བཟང་ གི་ བླ་མ་ རྣམས་ ས་བཅུ་པ་ ཡིན་ ཀྱང་"
-msgstr ""
+msgstr "Although the gurus of Norzang were on the tenth level."
 
 msgctxt "52d76a812f9141f197850783281e0b36"
 msgid ""
