@@ -10321,7 +10321,7 @@ msgstr ""
 
 msgctxt "be5ca888bbb54064888f91408e82498a"
 msgid "ཡོན་ཏན་ བརྒྱ་ ཕྲག་ བཅུ་གཉིས་ འབྱུང་བ་␣ར་ གསུངས་པ་"
-msgstr ""
+msgstr "It is said that twelve hundred qualities will arise."
 
 msgctxt "dab29bef5aae49f984326368eb2b5eac"
 msgid "ཁྱེད་ ཀྱི་ རོ་ གཅིག་ དག་པ་␣འི་ མངོན་རྟོགས་ སུ་ འདོད་ ན་"
