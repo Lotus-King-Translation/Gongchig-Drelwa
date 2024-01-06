@@ -10347,7 +10347,7 @@ msgstr ""
 
 msgctxt "43ea2af2df3c42749b37c64c31ce1ea7"
 msgid "གཞན་ གྱིས་ མི་ མཐོང་བ་"
-msgstr "Not being seen by others,"
+msgstr "That which cannot be seen by others,"
 
 msgctxt "a1f360e16c14422b91e6d53c7d4ca315"
 msgid "རྣལ་འབྱོར་པ་␣འི་ ཉམས་སྣང་ ལུང་ ཁུངས་ ཀྱི་ མུ་ དང་ མུ་ དྲུག་ ཡོད་ དེ་"
