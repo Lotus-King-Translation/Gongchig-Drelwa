@@ -10330,6 +10330,8 @@ msgstr "If you accept the one-taste as a pure manifest realization,"
 msgctxt "f7b21f246b4142c9b3fc169c674d334c"
 msgid "དང་པོ་␣འི་ ཡོན་ཏན་ ཡང་ མི་ འདུག་ ཟེར་ རོ ། །"
 msgstr ""
+"[They] will say that even the qualities of the first [level] are not "
+"present."
 
 msgctxt "464e17a819824faf9d043e0c06480327"
 msgid "འདི་␣ར་ ནི་ ས་ ཐོབ་ ཀྱང་ ས་ སྦྱངས་ དགོས་པ་␣ས་"
