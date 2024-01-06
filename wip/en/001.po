@@ -3573,7 +3573,7 @@ msgid ""
 "ལྷན་␣༽༽  མཚན་ཉིད་ ཐེག་པ་␣ས་ གྲས་ མེད་ གསུམ་ གྱིས་ སངས་རྒྱས་པ་␣ར་ འདོད་ མོད །"
 msgstr ""
 "Addendum: The vehicle of characteristics accepts that [one] will become a "
-"buddha in three incalculable [great aeons]."
+"buddha in three incalculable [great eons]."
 
 msgctxt "548a90def303406b8ab1bc63e135a47b"
 msgid "འདི་␣ར་ ནི་ ཚེ་ གཅིག་ གིས་ འཚང་རྒྱ་བ་␣ར་ ཡོད་ དེ །"
