@@ -10380,6 +10380,7 @@ msgstr ""
 msgctxt "992b60e51a6a4cbea7fc0f39623906c7"
 msgid "དང་པོ་␣འི་ ཡོན་ཏན་ ཙམ་ ཡང་ མེད་པ་ བཞིན་ ནོ ། །"
 msgstr ""
+"It is like one does not even possess the qualities of the first [level]."
 
 msgctxt "50db12d839954082be8dfc8e90be099d"
 msgid "གསུམ་པ་ འགའ་ཞིག་ ཡོད་ ལ་ འགའ་ཞིག་ མེད་པ་"
