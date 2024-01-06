@@ -10352,6 +10352,8 @@ msgstr "That which cannot be seen by others,"
 msgctxt "a1f360e16c14422b91e6d53c7d4ca315"
 msgid "རྣལ་འབྱོར་པ་␣འི་ ཉམས་སྣང་ ལུང་ ཁུངས་ ཀྱི་ མུ་ དང་ མུ་ དྲུག་ ཡོད་ དེ་"
 msgstr ""
+"There are six possibilities including the possibility of the scriptural "
+"source of the yogin’s experiences and visions."
 
 msgctxt "85598b47288f4fff88a58e16e6e045e1"
 msgid "དང་པོ་ ནི་ གྲངས་མེད་ གསུམ་ ལ་ རིམ་གྱིས་ བསྒྲོད་པ་ ཤཱཀྱ་ ཐུབ་ ལྟ་བུ་␣ར་"
