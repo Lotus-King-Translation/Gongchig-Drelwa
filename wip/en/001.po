@@ -10311,7 +10311,7 @@ msgstr ""
 
 msgctxt "9a31388979904ea18e8a0d446041dc7b"
 msgid "དེ་␣ས་ ས་བཅུ་ ཚུན་ཆད་ བསྒྲོད་པ་␣འི་ ཕྱིར་ རོ །"
-msgstr ""
+msgstr "It will traverse up to the tenth level."
 
 msgctxt "22b00650664f42bfa8c708d4f62354b6"
 msgid "རྡོ་␣༽༽  ས་ དང་པོ་ ཐོབ་ མ་ ཐག་ སངས་རྒྱས་ བརྒྱ་␣འི་ ཞལ་ མཐོང་བ་ སོགས་"
