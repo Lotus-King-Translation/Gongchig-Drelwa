@@ -10519,7 +10519,7 @@ msgstr "According to The Highest Continuum:"
 
 msgctxt "dcbcde216cd44653a6a1c848e3db45e9"
 msgid "རྫོགས་ སངས་ སྐུ་ ནི་ འཕྲོ་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "As the complete buddhakaya radiates,"
 
 msgctxt "71db0703357849a7816ab9b2cd2259d3"
 msgid "དེ་བཞིན་ཉིད་ དབྱེ་␣ར་ མེད་ ཕྱིར་ དང་ །"
