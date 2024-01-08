@@ -10477,7 +10477,7 @@ msgstr "And."
 
 msgctxt "118d9f56b8454357b8ec7cb03cf85200"
 msgid "ཇི་སྲིད་ དགེ་བ་␣འི་ རྩ་བ་ དེ་ ནི་ མ་ རྫོགས་པ ། །"
-msgstr ""
+msgstr "As long as [one] has not completed the root of virtue from this."
 
 msgctxt "16997375e3e44991b216b73181c99685"
 msgid "དེ་སྲིད་ བྱང་ཆུབ་ དམ་པ་ དེ་ ནི་ བཟད་ མི་ འགྱུར །"
