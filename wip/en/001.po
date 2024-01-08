@@ -10408,6 +10408,8 @@ msgstr "Nagarjuna in the Descent to Lanka Sutra:"
 msgctxt "3e0fde77c0864e4a99e45a3ef734f780"
 msgid "ས་ དང་པོ་ དང་ རྔ་བོ་ ཆེ་ དང་ འཇམ་དཔལ་ རྩ་རྒྱུད་ དུ་ ས་ བརྒྱད་པ་ དང་ །"
 msgstr ""
+"prophesied that [he] is on the first level and in the Great  Drum and The "
+"Manjushri Root Tantra as on the eighth level, and "
 
 msgctxt "0e74f9071ac34e74be33a0cb64541201"
 msgid "སྤྲིན་ཆེན་པོ་␣ར་ ས་བཅུ་པ་␣ར་ ལུང་བསྟན་པ་␣ས་"
