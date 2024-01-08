@@ -10531,7 +10531,7 @@ msgstr "Because of having the lineage [of the Buddha], all embodied [beings],"
 
 msgctxt "a207adfd65f544eb912aa1c946ae4f4d"
 msgid "རྟག་ ཏུ་ སངས་རྒྱས་ སྙིང་པོ་ ཅན །"
-msgstr ""
+msgstr "Always possess the essence of Buddha."
 
 msgctxt "2d0e39e361ab41639cde3fe676f4927f"
 msgid "ཞེས་ སོ །"
