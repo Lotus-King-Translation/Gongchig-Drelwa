@@ -10469,7 +10469,7 @@ msgstr "All these branches of [the Dharma],"
 
 msgctxt "3fd32adfaa35483b899a3d177217cb97"
 msgid "ཐུབ་པ་␣ས་ ཤེས་རབ་ དོན་ དུ་ གསུངས །"
-msgstr ""
+msgstr "The Able One had expounded [them] for the sake of wisdom."
 
 msgctxt "ac2a735324ba420c9ecace0fb5323ab6"
 msgid "ཞེས་ དང་ །"
