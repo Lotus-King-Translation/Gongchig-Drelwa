@@ -10491,6 +10491,8 @@ msgctxt "f34edd66de544a8dab7c17b94ea3d5e4"
 msgid ""
 "འདི་␣ར་ ནི་ གཞི་ ལམ་ འབྲས་བུ་␣ར་ གསུམ་ གར་ ཚོགས་ གཉིས་ ཟུང་ དུ་ འཇུག་ ནས་"
 msgstr ""
+"In this [system], the two accumulations are to be unified in the ground, "
+"path, and result, "
 
 msgctxt "3a4f57ff0f974427830e23a420fd610d"
 msgid "དབྱེ་␣ར་ མེད་པ་␣ར་ གནས་ ཏེ་"
