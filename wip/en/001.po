@@ -10465,7 +10465,7 @@ msgstr "According to the Engaging in the Bodhisattva's Conduct"
 
 msgctxt "82acc5ec33fd4780abf26da20682d8f3"
 msgid "ཡན་ལག་ འདི་དག་ ཐམས་ཅད་ ནི ། །"
-msgstr ""
+msgstr "All these branches of [the Dharma],"
 
 msgctxt "3fd32adfaa35483b899a3d177217cb97"
 msgid "ཐུབ་པ་␣ས་ ཤེས་རབ་ དོན་ དུ་ གསུངས །"
