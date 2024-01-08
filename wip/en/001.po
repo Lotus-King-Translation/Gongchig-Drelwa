@@ -10456,6 +10456,8 @@ msgid ""
 "རྡོ་␣༽༽  རྒྱུ་ བསོད་ནམས་ ཀྱི་ ཚོགས་ ལས་འབྲས་ བུ་ ཡེ་ཤེས་ ཀྱི་ ཚོགས་ འབྱུང་ "
 "སྟེ་"
 msgstr ""
+"Vajra: The result, the accumulation of wisdom occurs from the cause, the "
+"accumulation of merit because"
 
 msgctxt "61303a76334143f188a92f1929915cb6"
 msgid "སྤྱོད་འཇུག་ ལ་␣ས །"
