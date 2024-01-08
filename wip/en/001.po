@@ -10437,6 +10437,7 @@ msgid ""
 "བྱང་ཆུབ་ སེམས་བྱུང་བ་ རྣམས་ ཁོང་ རང་ གིས་ མ་གཏོགས་ མ་ མཐོང་བ་ མི་ལ་ བཞིན་ ནོ"
 " ། །"
 msgstr ""
+"Those who arise bodhicitta are only seen by themselves, such as Milarepa."
 
 msgctxt "c9de15197c9a4abfa067bbc06ecd4312"
 msgid ""
