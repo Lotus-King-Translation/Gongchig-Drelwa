@@ -10413,7 +10413,7 @@ msgstr ""
 
 msgctxt "0e74f9071ac34e74be33a0cb64541201"
 msgid "སྤྲིན་ཆེན་པོ་␣ར་ ས་བཅུ་པ་␣ར་ ལུང་བསྟན་པ་␣ས་"
-msgstr ""
+msgstr "In the Great Cloud as on the tenth level."
 
 msgctxt "d4977706d2b04e4682c24222f8a99dde"
 msgid "བརྒྱ་ ཕྲག་ བཅུ་གཉིས་ སོགས་ ཡོན་ཏན་ སུ་␣ས་ ཀྱང་ མ་ མཐོང་བ་ དང་"
