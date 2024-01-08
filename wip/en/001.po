@@ -10449,7 +10449,7 @@ msgstr ""
 
 msgctxt "6d924177f2ed40a9a757e1e774920a69"
 msgid "དེས་ན་ མཐའ་ གཅིག་ ཏུ་ ཞེན་པ་␣ར་ མི་ བྱ་␣འོ །"
-msgstr ""
+msgstr "Therefore, do not cling to one edge."
 
 msgctxt "cea8687b82a3450f9739c39b5c0e1dc6"
 msgid ""
