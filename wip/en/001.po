@@ -10399,7 +10399,7 @@ msgstr ""
 
 msgctxt "01b58c219dcb4646b1bf38aa207aa8d3"
 msgid "བཞི་པ་ ཡོད་ ཀྱང་ མི་ མཐོང་བ་"
-msgstr ""
+msgstr " Although the fourth is present, it is not seen."
 
 msgctxt "3de21860d17a4466ad187c3f09d8d32b"
 msgid "ཀླུ་སྒྲུབ་ ལང་ གཤེགས་ ལ་␣ས་"
