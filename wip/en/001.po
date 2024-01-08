@@ -10523,7 +10523,7 @@ msgstr "As the complete buddhakaya radiates,"
 
 msgctxt "71db0703357849a7816ab9b2cd2259d3"
 msgid "དེ་བཞིན་ཉིད་ དབྱེ་␣ར་ མེད་ ཕྱིར་ དང་ །"
-msgstr ""
+msgstr "As thusness is inseparable,"
 
 msgctxt "d90b9c44f89c4f2b9f73e613234e5302"
 msgid "རིགས་ ཡོད་ ཕྱིར་ ནི་ ལུས་ཅན་ ཀུན ། །"
