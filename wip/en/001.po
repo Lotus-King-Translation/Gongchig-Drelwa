@@ -10444,6 +10444,8 @@ msgid ""
 "དྲུག་པ་ ས་ ཐོབ་ མ་ ཐག་ ཡོན་ཏན་ ཉི་མ་ དང་ ཉི་མ་␣འི་ ཟེར་ བཞིན་ འབྱུང་བ་␣ར་ "
 "གསུངས་པ་␣འི་ ལུང་མདོ་ རྒྱུད་ ན་ ཡོད་ དོ ། ། །"
 msgstr ""
+"There are scriptures in the sutras and tantras that say that as soon as the "
+"sixth level is attained, the qualities arise like the sun and its rays."
 
 msgctxt "6d924177f2ed40a9a757e1e774920a69"
 msgid "དེས་ན་ མཐའ་ གཅིག་ ཏུ་ ཞེན་པ་␣ར་ མི་ བྱ་␣འོ །"
