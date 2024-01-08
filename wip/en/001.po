@@ -10500,7 +10500,7 @@ msgstr "and dwell inseparably."
 
 msgctxt "d33cf88f9f824cd0ba15132f57db40e6"
 msgid "འཇམ་དཔལ་ རྣམ་ རོལ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Manifestation of Manjushri:"
 
 msgctxt "94353d9519664f3db2b4b99c112dcdef"
 msgid ""
