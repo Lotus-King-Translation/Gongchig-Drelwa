@@ -10496,7 +10496,7 @@ msgstr ""
 
 msgctxt "3a4f57ff0f974427830e23a420fd610d"
 msgid "དབྱེ་␣ར་ མེད་པ་␣ར་ གནས་ ཏེ་"
-msgstr ""
+msgstr "and dwell inseparably."
 
 msgctxt "d33cf88f9f824cd0ba15132f57db40e6"
 msgid "འཇམ་དཔལ་ རྣམ་ རོལ་ ལ་␣ས །"
