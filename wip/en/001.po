@@ -10426,7 +10426,7 @@ msgstr "It is similar to Amitabha sitting on the head of Songtsen [Gampo] and"
 
 msgctxt "175b547b00664cfb8aa28834d846010e"
 msgid "ཐོག་མེད་ ཀྱི་ ཕྲག་ ལ་ བྱམས་མགོན་ བཞུགས་ ཀྱང་ མ་ མཐོང་བ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "Maitreya sitting on the shoulders of Asanga, but they are not seen."
 
 msgctxt "3ae991323b8948e494d175a6b117d0f6"
 msgid "ལྔ་པ་ ནི་ ས་བཅུ་␣འི་ བཤད་པ་ ལ་␣ས་"
