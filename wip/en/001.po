@@ -10481,7 +10481,7 @@ msgstr "As long as [one] has not completed the root of virtue from this."
 
 msgctxt "16997375e3e44991b216b73181c99685"
 msgid "དེ་སྲིད་ བྱང་ཆུབ་ དམ་པ་ དེ་ ནི་ བཟད་ མི་ འགྱུར །"
-msgstr ""
+msgstr "Up until then, the excellent enlightenment will not be exhausted. "
 
 msgctxt "08683b9dc6154815b5cfc249fb109827"
 msgid "ཞེས་པ་␣ས་ སོ་ ཟེར་ རོ །"
