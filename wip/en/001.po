@@ -10418,6 +10418,7 @@ msgstr "In the Great Cloud as on the tenth level."
 msgctxt "d4977706d2b04e4682c24222f8a99dde"
 msgid "བརྒྱ་ ཕྲག་ བཅུ་གཉིས་ སོགས་ ཡོན་ཏན་ སུ་␣ས་ ཀྱང་ མ་ མཐོང་བ་ དང་"
 msgstr ""
+"No one has seen [his] qualities such as the twelve hundred [qualities]."
 
 msgctxt "11a0aa5f312c4f999ce1e21cd6400ff5"
 msgid "སྲོང་ བཙན་ གྱི་ དབུ་␣ར་ འོད་ དཔག་མེད་ བཞུགས་པ་ དང་"
