@@ -10422,7 +10422,7 @@ msgstr ""
 
 msgctxt "11a0aa5f312c4f999ce1e21cd6400ff5"
 msgid "སྲོང་ བཙན་ གྱི་ དབུ་␣ར་ འོད་ དཔག་མེད་ བཞུགས་པ་ དང་"
-msgstr ""
+msgstr "It is similar to Amitabha sitting on the head of Songtsen [Gampo] and"
 
 msgctxt "175b547b00664cfb8aa28834d846010e"
 msgid "ཐོག་མེད་ ཀྱི་ ཕྲག་ ལ་ བྱམས་མགོན་ བཞུགས་ ཀྱང་ མ་ མཐོང་བ་ བཞིན་ ནོ ། །"
