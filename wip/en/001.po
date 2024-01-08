@@ -10430,7 +10430,7 @@ msgstr "Maitreya sitting on the shoulders of Asanga, but they are not seen."
 
 msgctxt "3ae991323b8948e494d175a6b117d0f6"
 msgid "ལྔ་པ་ ནི་ ས་བཅུ་␣འི་ བཤད་པ་ ལ་␣ས་"
-msgstr ""
+msgstr "The fifth as in the Explanation of the Tenth Level,"
 
 msgctxt "1757df3d7e644f7b9b251b01f41732f5"
 msgid ""
