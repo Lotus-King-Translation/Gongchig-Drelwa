@@ -10515,7 +10515,7 @@ msgstr "And."
 
 msgctxt "0505da765b1d4a24a79e31fa54fa87a0"
 msgid "རྒྱུ་␣ར་ བླ་␣ར །"
-msgstr ""
+msgstr "According to The Highest Continuum:"
 
 msgctxt "dcbcde216cd44653a6a1c848e3db45e9"
 msgid "རྫོགས་ སངས་ སྐུ་ ནི་ འཕྲོ་ ཕྱིར་ དང༌ །"
