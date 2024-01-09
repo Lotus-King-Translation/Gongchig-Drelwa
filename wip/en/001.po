@@ -10703,10 +10703,12 @@ msgstr "It is like the dependent relation of the image and the visualization."
 msgctxt "f3a5f4968a90418f9bdd713426551a80"
 msgid "དེས་ན་ ཡུལ་ དམན་པ་ སངས་རྒྱས་ སུ་ འདུ་ཤེས་ བསྐྱེད་ ནས་ བྱིན་ ན་"
 msgstr ""
+"Therefore, if a donation is made to an inferior recipient while generating "
+"the perception that he is a buddha, "
 
 msgctxt "89f70eb42f5d4157989d2697e125b1ca"
 msgid "དེ་ལྟར་ འགྲུབ་པ་ གདོན་ མི་ ཟ་བ་ ཉིད་ དོ་"
-msgstr ""
+msgstr "There is no doubt that it will be accomplished like that."
 
 msgctxt "83aa89311f364565aab55be174759831"
 msgid ""
