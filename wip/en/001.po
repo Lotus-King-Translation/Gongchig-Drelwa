@@ -10676,7 +10676,7 @@ msgstr "It will harm the teaching and "
 
 msgctxt "6ef7074864f24c36906d30e249b953c4"
 msgid "རང་ ལ་ གནོད་པ་ རྒྱུན་ མི་འཆད་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "There will be uninterrupted harm to oneself."
 
 msgctxt "858d6d6e8f324a2989e64271fcd50e6c"
 msgid "འོ་ན་ བཟང་ངན་ དུ་ བལྟས་ ན་"
