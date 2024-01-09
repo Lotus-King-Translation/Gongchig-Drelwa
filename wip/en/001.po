@@ -10579,7 +10579,7 @@ msgstr "Master Arya said,"
 
 msgctxt "b403b4fe17f44b47bbd2f6970d411e38"
 msgid "དགེ་བ་ འདི་ ཡིས་ སྐྱེ་བོ་ ཀུན ། །"
-msgstr ""
+msgstr "By this virtue, all beings will"
 
 msgctxt "4411fd2e46a74f3caba5ef88f6e62aa0"
 msgid "བསོད་ནམས་ ཞེས་ སོགས་ གསུངས་ སོ ། །"
