@@ -10715,6 +10715,8 @@ msgid ""
 "དེ་␣འི་ ཕྱིར་ མཐོ་དམན་ ཀུན་ ཏུ་ ཞིང་ ནི་ ཡར༌་␣གདམ་པ་ དང་ ཞིང་ དམན་པ་ "
 "དག་པ་␣ར་ སྒྲུབ་པ་ ནི་ ཤིན་ཏུ་ གནད་ ཟབ་པ་ ཡིན་ ནོ །"
 msgstr ""
+"Therefore, in all fields of high and low, it is a very profound essential "
+"point to select the higher field and accomplish the inferior fields as pure."
 
 msgctxt "164085a1e6fc426aa463f45fecd4fffe"
 msgid "རྡོ་␣༽༽  འཁོར་བ་ ལ་␣ས་ འདའ་བ་␣ར་ བྱེད་པ་ ལ་"
