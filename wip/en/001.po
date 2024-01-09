@@ -10637,7 +10637,7 @@ msgstr ""
 
 msgctxt "83dc3883ead941c8948e83fa1a15dade"
 msgid "ཞིང་ ཡར་ གདམ་ དགོས་ ཏེ་"
-msgstr ""
+msgstr "Higher fields need to be selected because"
 
 msgctxt "ea14c28cf6874b84b65e9551c18dea45"
 msgid ""
