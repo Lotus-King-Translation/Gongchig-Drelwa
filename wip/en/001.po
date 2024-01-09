@@ -10593,7 +10593,7 @@ msgstr ""
 
 msgctxt "5f88c313a0a849bf8b01561beee30c59"
 msgid "དོན་དམ་ ཀུན་རྫོབ་ ཀྱིས་ བསྐྱེད་པ་␣ར་ ཐལ་བ་␣ར་ འགྱུར་ རོ ། །"
-msgstr ""
+msgstr "It absurdly follows that the absolute is produced by the relative."
 
 msgctxt "10118b878b444a83a5030624b5391513"
 msgid "རྡོ་␣༽༽  ཚོགས་ བསགས་པ་␣འི་ ཞིང་ བསམ་ དངོས་ གསུམ་ ལ་␣ས་"
