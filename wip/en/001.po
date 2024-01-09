@@ -10690,6 +10690,7 @@ msgstr ""
 msgctxt "774479c7ab4f4fde8f06af4a448f6acc"
 msgid "དམན་པ་ དེ་ལྟ་ བུ་ སེམས་ ཀྱི་ རྣམ་པ་␣ར་ དག་པ་␣ར་ སྒྲུབ་ དགོས་ ཏེ །"
 msgstr ""
+"Such inferior [beings] need to accomplish the purification in their minds."
 
 msgctxt "182dced40028406ead5a85adb71d46d8"
 msgid "ཆོས་ ཐམས་ཅད་ སེམས་ ཀྱི་ འདུ་བྱེད་ ཡིན་པ་␣ས་"
