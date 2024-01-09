@@ -10604,6 +10604,8 @@ msgstr ""
 msgctxt "5e43831633a448e0936381afb585caa7"
 msgid "རྒྱུད་ ཚོད་ དམན་པ་␣ར་ ཞིང་ རྣམ་དག་ མཆོག་ གསུམ་ ལ་ ཕུལ་ ན་"
 msgstr ""
+"In the lower mental level, when an offering is made to the three excellent "
+"pure fields,"
 
 msgctxt "285d4116af5b4460bd5a212b319e6078"
 msgid "འབྲས་བུ་ ཚད་ མེད་པ་␣ས་"
