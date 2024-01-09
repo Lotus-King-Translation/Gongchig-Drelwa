@@ -10680,7 +10680,7 @@ msgstr "There will be uninterrupted harm to oneself."
 
 msgctxt "858d6d6e8f324a2989e64271fcd50e6c"
 msgid "འོ་ན་ བཟང་ངན་ དུ་ བལྟས་ ན་"
-msgstr ""
+msgstr "So, whether viewed positively or negatively,"
 
 msgctxt "ff564b9415674a61a4ed9d9fcc519967"
 msgid "བྱང་སེམས་ དེ་ ཕར་ཕྱིན་ མི་ རྫོགས་པ་␣ར་ གསུངས་པ་ ཅི་ ཞེ་ན ། །"
