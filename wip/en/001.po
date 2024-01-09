@@ -10584,6 +10584,7 @@ msgstr "By this virtue, all beings will"
 msgctxt "4411fd2e46a74f3caba5ef88f6e62aa0"
 msgid "བསོད་ནམས་ ཞེས་ སོགས་ གསུངས་ སོ ། །"
 msgstr ""
+"[Complete the accumulation of] merit [and wisdom], and so forth are said. "
 
 msgctxt "ebc66112672f47aeb233e039140c87c7"
 msgid "དེ་ལྟར་ མིན་ ན་ རྒྱུ་འབྲས་ རིགས་ མི་ འདྲ་བ་ དང༌ །"
