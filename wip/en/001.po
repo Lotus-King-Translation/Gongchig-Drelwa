@@ -10563,7 +10563,7 @@ msgstr "If [they] are accepted one on another,"
 
 msgctxt "f1661e923404424d9e01d8ef1a90e453"
 msgid "ས་␣ར་ གོམས་པ་ གཡས་གཡོན་ འདོར་བ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "It is like discarding the right and left habituations on the levels."
 
 msgctxt "1764f6a790d64e6f9478c4c042c5fc55"
 msgid "འབྲས་བུ་␣ར་ ཚོགས་ གཉིས་ མཐ་␣ར་ ཕྱིན་པ་␣ས་"
