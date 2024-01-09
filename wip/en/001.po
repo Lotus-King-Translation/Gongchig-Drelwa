@@ -10672,7 +10672,7 @@ msgstr "Afflictions will expand gradually and "
 
 msgctxt "a448be8cc35f461ba6e064eb879f4178"
 msgid "བསྟན་པ་␣ར་ གནོད་པ་ དང༌ །"
-msgstr ""
+msgstr "It will harm the teaching and "
 
 msgctxt "6ef7074864f24c36906d30e249b953c4"
 msgid "རང་ ལ་ གནོད་པ་ རྒྱུན་ མི་འཆད་པ་␣འི་ ཕྱིར་ རོ ། །"
