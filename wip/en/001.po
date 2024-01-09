@@ -10609,7 +10609,7 @@ msgstr ""
 
 msgctxt "285d4116af5b4460bd5a212b319e6078"
 msgid "འབྲས་བུ་ ཚད་ མེད་པ་␣ས་"
-msgstr ""
+msgstr "The result will be immeasurable."
 
 msgctxt "00e67b46368747dea9aa230c6494fbdd"
 msgid "དེ་ ངེས་འབྱུང་ ཐར་བ་ ཆེན་པོ་␣འི་ རྒྱུ་␣ར་ འགྲོ་བ་␣ར་ བྱེད་པ་"
