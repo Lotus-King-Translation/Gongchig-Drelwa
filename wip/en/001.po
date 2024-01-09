@@ -10685,6 +10685,7 @@ msgstr "Well then, if viewed in a good or bad [way],"
 msgctxt "ff564b9415674a61a4ed9d9fcc519967"
 msgid "བྱང་སེམས་ དེ་ ཕར་ཕྱིན་ མི་ རྫོགས་པ་␣ར་ གསུངས་པ་ ཅི་ ཞེ་ན ། །"
 msgstr ""
+"Why is it said that this bodhisattva does not complete the perfections?"
 
 msgctxt "774479c7ab4f4fde8f06af4a448f6acc"
 msgid "དམན་པ་ དེ་ལྟ་ བུ་ སེམས་ ཀྱི་ རྣམ་པ་␣ར་ དག་པ་␣ར་ སྒྲུབ་ དགོས་ ཏེ །"
