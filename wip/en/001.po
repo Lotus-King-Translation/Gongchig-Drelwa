@@ -10660,7 +10660,7 @@ msgstr "Other than this, sentient beings and "
 
 msgctxt "9bd7abffec234078b394110b4ff3f1f5"
 msgid "གནོད་པ་ བསྐྱལ་བ་ སྟེ་"
-msgstr ""
+msgstr "Harming [them], "
 
 msgctxt "6193c9397b16452891ff9d65e6128a08"
 msgid "མར་ དམན་པ་ གསུམ་ ལ་ དམིགས་ ནས་ སྦྱིན་ ན་"
