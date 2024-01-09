@@ -10547,7 +10547,7 @@ msgstr "According to the Condensed [Prajnaparamita In Verse]:"
 
 msgctxt "77c9fd5045094312acc7afbe46c233a1"
 msgid "སྦྱིན་པ་ སྦྱིན་པ་␣འི་ སྔོན་ དུ་ འགྲོ་བ་ ཤེས་རབ་ སྟེ །"
-msgstr ""
+msgstr "Generosity, generosity is preceded by wisdom."
 
 msgctxt "64f1eff4dfdf4594b26328d64dc94c28"
 msgid "ཞེས་པ་␣ས་ མཉམ་བཞག་ ཡེ་ཤེས་ དང་ །"
