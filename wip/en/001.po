@@ -10632,6 +10632,8 @@ msgstr "As they cherish inferior, [they] select lower."
 msgctxt "8fe90e620cb44b49a9fb05f0893135dd"
 msgid "འདི་␣ར་ རང་ བཞེད་ ནི་ རྒྱུད་ ཚོད་ མཐོ་དམན་ དེ་ གཉིས་ གང་ཡིན་ ཡང་"
 msgstr ""
+"In this [system], our acceptance is that regardless of the mental levels of "
+"high or low,"
 
 msgctxt "83dc3883ead941c8948e83fa1a15dade"
 msgid "ཞིང་ ཡར་ གདམ་ དགོས་ ཏེ་"
