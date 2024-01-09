@@ -10652,7 +10652,7 @@ msgstr ""
 
 msgctxt "319ef69cd3bf4da0966a89dd6f0d8af6"
 msgid "དོན་ ཆེན་ འགྲུབ་པ་␣འི་ ཕྱིར་ དང་ །"
-msgstr ""
+msgstr "It will accomplish a great purpose and"
 
 msgctxt "3b86cebcd9344ede9c6d7fc708f4b238"
 msgid "དེ་ལས་ གཞན་སེམས་ ཅན་ དང་ །"
