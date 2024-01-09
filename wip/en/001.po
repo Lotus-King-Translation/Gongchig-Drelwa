@@ -10559,7 +10559,7 @@ msgstr "The accumulation of merit in the post-attainment."
 
 msgctxt "782d4d736d924d97966ec91b83887dec"
 msgid "གཅིག་ ཐོག་ གཅིག་ གིས་ འདོད་ ན་"
-msgstr ""
+msgstr "If [they] are accepted one on another,"
 
 msgctxt "f1661e923404424d9e01d8ef1a90e453"
 msgid "ས་␣ར་ གོམས་པ་ གཡས་གཡོན་ འདོར་བ་ བཞིན་ ནོ ། །"
