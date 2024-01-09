@@ -10567,7 +10567,7 @@ msgstr "It is like discarding the right and left habituations on the levels."
 
 msgctxt "1764f6a790d64e6f9478c4c042c5fc55"
 msgid "འབྲས་བུ་␣ར་ ཚོགས་ གཉིས་ མཐ་␣ར་ ཕྱིན་པ་␣ས་"
-msgstr ""
+msgstr "By reaching the final result of the two accumulations,"
 
 msgctxt "9d21e20b62274d448ca566495c6dc69b"
 msgid "སྐུ་གཉིས་ མངོན་དུ་ གྱུར་པ་ སྟེ་"
