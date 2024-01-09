@@ -10575,7 +10575,7 @@ msgstr "The two kayas will be menifested."
 
 msgctxt "2f582d872a784c0b9e43cbbf15d62cc8"
 msgid "སློབ་དཔོན་ འཕགས་པ་␣ས །"
-msgstr ""
+msgstr "Master Arya said,"
 
 msgctxt "b403b4fe17f44b47bbd2f6970d411e38"
 msgid "དགེ་བ་ འདི་ ཡིས་ སྐྱེ་བོ་ ཀུན ། །"
