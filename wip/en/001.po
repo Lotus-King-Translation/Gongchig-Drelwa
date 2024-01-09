@@ -10643,7 +10643,7 @@ msgctxt "ea14c28cf6874b84b65e9551c18dea45"
 msgid ""
 "ཞིང་ རྣམ་པ་␣ར་ དག་པ་␣ས་ འབྲས་བུ་ གནས་སྐབས་ མཐར་ཐུག་ ཏུ་ རྒྱ་ཆེན་པོ་ "
 "འབྱུང་བ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "The pure fields produce vast results, both temporary and ultimate."
 
 msgctxt "245d5d2ce86e4725b73551cae49dccb9"
 msgid "དགེ་རྩ་ དེ་ རང་གཞན་ གྱི་ དོན་ དུ་ བསྔོས་ ན་"
