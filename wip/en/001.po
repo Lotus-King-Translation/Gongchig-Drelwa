@@ -10617,7 +10617,7 @@ msgstr "To become the cause of definite emergence and great emancipation."
 
 msgctxt "b9b03e39b3ab48469cf7c85104498f49"
 msgid "དགེ་བ་␣འི་ བཤེས་གཉེན་ གྱི་ ཞིང་ ལ་ བརྟེན །"
-msgstr ""
+msgstr "By relying on the field of a spiritual friend."
 
 msgctxt "9bfcf3ae37124378bdbda83bf2a6d111"
 msgid "ཆོས་ བྱང་སེམས་ རྒྱུད་ ཚོང་ མཐོ་བ་ རྣམས་ ནི་"
