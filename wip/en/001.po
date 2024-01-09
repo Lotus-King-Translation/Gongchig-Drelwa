@@ -10555,7 +10555,7 @@ msgstr "Thus, the primordial wisdom of equipoise and "
 
 msgctxt "871eef8016d14d4d9009cbec8dda4260"
 msgid "རྗེས་ཐོབ་ བསོད་ནམས་ ཀྱི་ ཚོགས་ ཏེ་"
-msgstr ""
+msgstr "The accumulation of merit in the post-attainment."
 
 msgctxt "782d4d736d924d97966ec91b83887dec"
 msgid "གཅིག་ ཐོག་ གཅིག་ གིས་ འདོད་ ན་"
