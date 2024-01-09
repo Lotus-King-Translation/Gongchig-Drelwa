@@ -10698,7 +10698,7 @@ msgstr "Because all phenomena are formatives of the mind."
 
 msgctxt "b40809ad900c42d8aafe27b5b64d9682"
 msgid "སྐུ་ སྤར་  དང་ དམིགས་པ་␣འི་ རྟེན་འབྲེལ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "It is like the dependent relation of the image and the visualization."
 
 msgctxt "f3a5f4968a90418f9bdd713426551a80"
 msgid "དེས་ན་ ཡུལ་ དམན་པ་ སངས་རྒྱས་ སུ་ འདུ་ཤེས་ བསྐྱེད་ ནས་ བྱིན་ ན་"
