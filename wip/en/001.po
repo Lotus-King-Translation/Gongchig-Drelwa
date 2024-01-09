@@ -10694,7 +10694,7 @@ msgstr ""
 
 msgctxt "182dced40028406ead5a85adb71d46d8"
 msgid "ཆོས་ ཐམས་ཅད་ སེམས་ ཀྱི་ འདུ་བྱེད་ ཡིན་པ་␣ས་"
-msgstr ""
+msgstr "Because all phenomena are formatives of the mind."
 
 msgctxt "b40809ad900c42d8aafe27b5b64d9682"
 msgid "སྐུ་ སྤར་  དང་ དམིགས་པ་␣འི་ རྟེན་འབྲེལ་ བཞིན་ ནོ ། །"
