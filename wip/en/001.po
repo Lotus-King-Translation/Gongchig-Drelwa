@@ -10668,7 +10668,7 @@ msgstr "When offering donations observing the three lowers,"
 
 msgctxt "d41e95e28e1c4e74b6f89386b39a00a8"
 msgid "རིམ་བཞིན་ ཉོན་མོངས་ རྒྱས་པ་ དང༌ །"
-msgstr ""
+msgstr "Afflictions will expand gradually and "
 
 msgctxt "a448be8cc35f461ba6e064eb879f4178"
 msgid "བསྟན་པ་␣ར་ གནོད་པ་ དང༌ །"
