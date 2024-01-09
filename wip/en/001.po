@@ -10664,7 +10664,7 @@ msgstr "Harming [them], "
 
 msgctxt "6193c9397b16452891ff9d65e6128a08"
 msgid "མར་ དམན་པ་ གསུམ་ ལ་ དམིགས་ ནས་ སྦྱིན་ ན་"
-msgstr ""
+msgstr "When offering donations focusing on the three lowers,"
 
 msgctxt "d41e95e28e1c4e74b6f89386b39a00a8"
 msgid "རིམ་བཞིན་ ཉོན་མོངས་ རྒྱས་པ་ དང༌ །"
