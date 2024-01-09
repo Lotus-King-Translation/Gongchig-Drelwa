@@ -10589,6 +10589,7 @@ msgstr ""
 msgctxt "ebc66112672f47aeb233e039140c87c7"
 msgid "དེ་ལྟར་ མིན་ ན་ རྒྱུ་འབྲས་ རིགས་ མི་ འདྲ་བ་ དང༌ །"
 msgstr ""
+"If this were not so, the causes and effects would be different kinds and."
 
 msgctxt "5f88c313a0a849bf8b01561beee30c59"
 msgid "དོན་དམ་ ཀུན་རྫོབ་ ཀྱིས་ བསྐྱེད་པ་␣ར་ ཐལ་བ་␣ར་ འགྱུར་ རོ ། །"
