@@ -10623,6 +10623,7 @@ msgstr "By relying on the field of a spiritual friend."
 msgctxt "9bfcf3ae37124378bdbda83bf2a6d111"
 msgid "ཆོས་ བྱང་སེམས་ རྒྱུད་ ཚོང་ མཐོ་བ་ རྣམས་ ནི་"
 msgstr ""
+"It is said that the Dharma and the bodhisattvas with higher mental level"
 
 msgctxt "f27302a791894558a6f127f0a62f07d1"
 msgid "ཞིང་ དམན་པ་ ལ་ གཅེས་པ་␣ས་ མར་ འདམ་པ་ ཡིན་ ཟེར །"
