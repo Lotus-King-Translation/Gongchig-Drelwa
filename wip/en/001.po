@@ -10656,7 +10656,7 @@ msgstr "It will accomplish a great purpose and"
 
 msgctxt "3b86cebcd9344ede9c6d7fc708f4b238"
 msgid "དེ་ལས་ གཞན་སེམས་ ཅན་ དང་ །"
-msgstr ""
+msgstr "Other than this, sentient beings and "
 
 msgctxt "9bd7abffec234078b394110b4ff3f1f5"
 msgid "གནོད་པ་ བསྐྱལ་བ་ སྟེ་"
