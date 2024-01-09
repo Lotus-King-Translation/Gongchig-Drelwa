@@ -10627,7 +10627,7 @@ msgstr ""
 
 msgctxt "f27302a791894558a6f127f0a62f07d1"
 msgid "ཞིང་ དམན་པ་ ལ་ གཅེས་པ་␣ས་ མར་ འདམ་པ་ ཡིན་ ཟེར །"
-msgstr ""
+msgstr "As they cherish inferior, [they] select lower."
 
 msgctxt "8fe90e620cb44b49a9fb05f0893135dd"
 msgid "འདི་␣ར་ རང་ བཞེད་ ནི་ རྒྱུད་ ཚོད་ མཐོ་དམན་ དེ་ གཉིས་ གང་ཡིན་ ཡང་"
