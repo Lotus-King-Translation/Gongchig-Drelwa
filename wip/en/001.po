@@ -10648,6 +10648,7 @@ msgstr "The pure fields produce vast results, both temporary and ultimate."
 msgctxt "245d5d2ce86e4725b73551cae49dccb9"
 msgid "དགེ་རྩ་ དེ་ རང་གཞན་ གྱི་ དོན་ དུ་ བསྔོས་ ན་"
 msgstr ""
+"If one dedicates the roots of virtue for the benefit of oneself and others,"
 
 msgctxt "319ef69cd3bf4da0966a89dd6f0d8af6"
 msgid "དོན་ ཆེན་ འགྲུབ་པ་␣འི་ ཕྱིར་ དང་ །"
