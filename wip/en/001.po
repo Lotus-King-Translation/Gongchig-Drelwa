@@ -10613,7 +10613,8 @@ msgstr "The result will be immeasurable."
 
 msgctxt "00e67b46368747dea9aa230c6494fbdd"
 msgid "དེ་ ངེས་འབྱུང་ ཐར་བ་ ཆེན་པོ་␣འི་ རྒྱུ་␣ར་ འགྲོ་བ་␣ར་ བྱེད་པ་"
-msgstr "To become the cause of definite emergence and great emancipation."
+msgstr ""
+"This will become the cause of definite emergence and great emancipation."
 
 msgctxt "b9b03e39b3ab48469cf7c85104498f49"
 msgid "དགེ་བ་␣འི་ བཤེས་གཉེན་ གྱི་ ཞིང་ ལ་ བརྟེན །"
