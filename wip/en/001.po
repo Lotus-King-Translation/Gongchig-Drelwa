@@ -10551,7 +10551,7 @@ msgstr "Generosity, generosity is preceded by wisdom."
 
 msgctxt "64f1eff4dfdf4594b26328d64dc94c28"
 msgid "ཞེས་པ་␣ས་ མཉམ་བཞག་ ཡེ་ཤེས་ དང་ །"
-msgstr ""
+msgstr "Thus, the primordial wisdom of equipoise and "
 
 msgctxt "871eef8016d14d4d9009cbec8dda4260"
 msgid "རྗེས་ཐོབ་ བསོད་ནམས་ ཀྱི་ ཚོགས་ ཏེ་"
