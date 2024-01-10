@@ -10745,7 +10745,7 @@ msgstr "Because the result will vastly grow and"
 
 msgctxt "6aaeaa3221b34ffd8d426072567fa8e6"
 msgid "བདག་ ཏུ་ བཟུང་བ་␣འི་ དོན་ དེ་ བཏང་ ན་"
-msgstr "If [you] let go of the object that holds to be a self, "
+msgstr "If [you] let go of the object that holds to self, "
 
 msgctxt "691104ad0ed448a382cdfa62105f786c"
 msgid "བདག་མེད་ རྟོགས་པ་␣ར་ འགྱུར་བ་␣འི་ ཕྱིར་ དང༌ །"
