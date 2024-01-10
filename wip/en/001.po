@@ -10737,7 +10737,7 @@ msgstr "The accumulation of merit is accepted as a skillful method."
 
 msgctxt "30966299602c44d0b3e78ba4668a8bc2"
 msgid "བདག་ ཏུ་ བཟུང་ ནས་ མཆོག་ གསུམ་ ལ་ ཕུལ་བ་␣ས་"
-msgstr "By holding [it] as one’s own, one offers it to the three jewels."
+msgstr "By holding to self, one offers to the three jewels."
 
 msgctxt "e76d05e136844b1b9d55ffc2eb484233"
 msgid "འབྲས་བུ་ རྒྱ་ཆེན་པོ་ འཕེལ་བ་␣འི་ ཕྱིར་ དང༌ །"
