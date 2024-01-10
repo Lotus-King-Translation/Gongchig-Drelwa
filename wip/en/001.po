@@ -10769,7 +10769,7 @@ msgstr "Likewise, according to the Engaging in the Bodhisattva's Conduct:"
 
 msgctxt "2c55dbd93fa64bf1a1802ce4311e64b5"
 msgid "ཡོངས་སུ་ བཟུང་བ་ མེད་པ་ དེ་དག་ ཀུན ། །"
-msgstr ""
+msgstr "All of these, without a holder for the whole."
 
 msgctxt "61706b6823e2449ea43f73b98ed11045"
 msgid "བློ་ ཡིས་ བླང་ ནས་ ཐུབ་པ་ སྐྱེས་ ཀྱི་ མཆོག  །"
