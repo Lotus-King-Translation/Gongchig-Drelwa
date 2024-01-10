@@ -10749,7 +10749,7 @@ msgstr "If [you] let go of the object that holds to be a self, "
 
 msgctxt "691104ad0ed448a382cdfa62105f786c"
 msgid "བདག་མེད་ རྟོགས་པ་␣ར་ འགྱུར་བ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "[You] will realize selflessness and "
 
 msgctxt "eedb80be2daa4130a1a583051c15b7e1"
 msgid "སེམས་ཅན་ རྣམས་ བདག་ ཏུ་ བཟུང་ སྟེ་"
