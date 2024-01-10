@@ -10829,6 +10829,8 @@ msgstr "Where, and so forth. As it is said."
 msgctxt "e12685b6c85e4580972868eea8deb01a"
 msgid "རྡོ་␣༽༽  བསྔོ་ རྒྱུ་␣འི་ དགེ་བ་ རང་ཉིད་ ཀྱིས་ བྱས་ བསགས་ མ་གཏོགས་"
 msgstr ""
+"Vajra: Except for the virtuous cause of dedication done and accumulated by "
+"oneself,"
 
 msgctxt "eed2200b7ef8416988f089570e42c0b5"
 msgid "གཞན་ མི་ བསྔོ་བ་ དང༌ །"
