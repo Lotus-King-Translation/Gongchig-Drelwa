@@ -10801,6 +10801,8 @@ msgstr ""
 msgctxt "f853a24509b34faea40b4cd8176d0d9b"
 msgid "འཁོར་འདས་ ཀྱི་ བདེ་ལེགས་ དཔལ་འབྱོར་ རྣམས་ བདག་ ཏུ་ བཟུང་ སྟེ་"
 msgstr ""
+"By holding the happiness, goodness, glory, and riches of samsara and nirvana"
+" to be the self,"
 
 msgctxt "da2fba46f29c40acaf7e5fb4c75df571"
 msgid "ཚོགས་ བསགས་པ་␣ས་ བདག་ འཛིན་ གཏོང་བ་␣འི་ རྒྱུ་␣ར་ འགྱུར་ ཏེ །"
