@@ -10733,7 +10733,7 @@ msgstr ""
 
 msgctxt "f5566454f0264a49b4d6eae3e9306cd3"
 msgid "ཚོགས་ བསགས་ ནི་ ཐབས་མཁས་པ་␣ར་ བཞེད་ དེ་"
-msgstr ""
+msgstr "The accumulation of merit is accepted as a skillful method."
 
 msgctxt "30966299602c44d0b3e78ba4668a8bc2"
 msgid "བདག་ ཏུ་ བཟུང་ ནས་ མཆོག་ གསུམ་ ལ་ ཕུལ་བ་␣ས་"
