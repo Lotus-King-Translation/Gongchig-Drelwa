@@ -10729,6 +10729,7 @@ msgstr "[One] must abandon self-grasping."
 msgctxt "b34599a9410941aba5e70fd3767b2bca"
 msgid "འདི་␣ར་ ནི་ བདག་ འཛིན་ དེ་ སྤོང་བ་␣འི་ ཆེད་ དུ་ བདག་ ཏུ་ བཟུང་ སྟེ་"
 msgstr ""
+"In this [system], to abandon this self-grasping, one grasps at a self."
 
 msgctxt "f5566454f0264a49b4d6eae3e9306cd3"
 msgid "ཚོགས་ བསགས་ ནི་ ཐབས་མཁས་པ་␣ར་ བཞེད་ དེ་"
