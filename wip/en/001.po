@@ -10846,7 +10846,7 @@ msgstr "Mere existence is pervaded as impermanent and "
 
 msgctxt "54411427a52f445e8b9e95b5f7a9b136"
 msgid "ཆོས་དབྱིངས་ ལས་མ་ གཏོགས་ ཆོས་ གཞན་ མེད་ ཕྱིར་"
-msgstr ""
+msgstr "There is no phenomenon other than the dharmadhatu."
 
 msgctxt "db49127c2963450cae85e3896de55866"
 msgid "ཐམས་ཅད་ དགེ་བ་␣ར་ ཐལ་བ་␣ས་ དང༌ །"
