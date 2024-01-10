@@ -10820,7 +10820,7 @@ msgstr "As it is also said by Saraha:"
 
 msgctxt "712b98f0e0fb4fe9bc6e559ffcb7b8c2"
 msgid "སེམས་ ཉིད་ གཅིག་པུ་ ཀུན་ གྱི་ ས་བོན་ ཏེ ། །"
-msgstr ""
+msgstr "Mind itself alone is the seed of everything."
 
 msgctxt "ed373a23fe8542e082ba971ccdaa4e9e"
 msgid "གང་ ལ་ ཞེས་ སོགས་ གསུངས་ སོ །"
