@@ -10773,7 +10773,7 @@ msgstr "All of these, without a holder for the whole."
 
 msgctxt "61706b6823e2449ea43f73b98ed11045"
 msgid "བློ་ ཡིས་ བླང་ ནས་ ཐུབ་པ་ སྐྱེས་ ཀྱི་ མཆོག  །"
-msgstr ""
+msgstr "Taking them by the mind, to the Able One, the supreme of beings."
 
 msgctxt "7c87af4e12e743d1875156b515885071"
 msgid "སྲས་ དང་ བཅས་པ་ རྣམས་ ལ་ ལེགས་འབུལ་ ན ། །"
