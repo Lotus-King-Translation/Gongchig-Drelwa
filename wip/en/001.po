@@ -10850,7 +10850,7 @@ msgstr "Since there is no phenomenon other than the dharmadhatu."
 
 msgctxt "db49127c2963450cae85e3896de55866"
 msgid "ཐམས་ཅད་ དགེ་བ་␣ར་ ཐལ་བ་␣ས་ དང༌ །"
-msgstr ""
+msgstr "It absurdly follows that everything is virtuous and "
 
 msgctxt "8a6ca2c641e54f94b01016f43544977f"
 msgid "བསྔོ་བ་ ནི་ བསྒྱུར་བ་␣འི་ དོན་ ཡིན་པ་␣ས་"
