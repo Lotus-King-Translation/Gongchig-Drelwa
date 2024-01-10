@@ -10724,7 +10724,7 @@ msgstr "Vajra: [Others] said that to transcend samsara,"
 
 msgctxt "e31ca0e598e44019ad08c8cd4da21f95"
 msgid "བདག་ འཛིན་ སྤོང་ དགོས་ ཟེར །"
-msgstr ""
+msgstr "[One] must abandon self-grasping."
 
 msgctxt "b34599a9410941aba5e70fd3767b2bca"
 msgid "འདི་␣ར་ ནི་ བདག་ འཛིན་ དེ་ སྤོང་བ་␣འི་ ཆེད་ དུ་ བདག་ ཏུ་ བཟུང་ སྟེ་"
