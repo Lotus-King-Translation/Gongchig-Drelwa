@@ -10807,6 +10807,7 @@ msgstr ""
 msgctxt "da2fba46f29c40acaf7e5fb4c75df571"
 msgid "ཚོགས་ བསགས་པ་␣ས་ བདག་ འཛིན་ གཏོང་བ་␣འི་ རྒྱུ་␣ར་ འགྱུར་ ཏེ །"
 msgstr ""
+"By accumulating merit, this becomes the cause for releasing self-grasping."
 
 msgctxt "c3f495cf588b4ef59bb5b58be59a1952"
 msgid ""
