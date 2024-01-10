@@ -10782,7 +10782,7 @@ msgstr ""
 
 msgctxt "c0c412789c23486fa040e91183cf49fc"
 msgid "ཡོན་གནས་ དམ་པ་ ཐུགས་རྗེ་ ཆེ་ རྣམས་ ཀྱིས ། །"
-msgstr ""
+msgstr "The holy objects for offerings, the compassionate ones."
 
 msgctxt "d690a9a4af034dbd86f0cea6f86c6aec"
 msgid "བདག་ ལ་ བརྩེར་ དགོངས་ བདག་ གི་ འདི་དག་ བཞེས །"
