@@ -10753,7 +10753,7 @@ msgstr "[You] will realize selflessness and "
 
 msgctxt "eedb80be2daa4130a1a583051c15b7e1"
 msgid "སེམས་ཅན་ རྣམས་ བདག་ ཏུ་ བཟུང་ སྟེ་"
-msgstr ""
+msgstr "Sentient beings by holding to self,"
 
 msgctxt "b0fb327344304580856b584060b6baef"
 msgid "དེ་ རྣམས་ ཀྱི་ དོན་ དུ་ བཏང་བ་␣ས་"
