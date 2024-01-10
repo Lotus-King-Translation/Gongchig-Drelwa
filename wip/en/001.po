@@ -10838,7 +10838,7 @@ msgstr "Not dedicating others and "
 
 msgctxt "5a177303bf5244788bc6e9e5c14377c4"
 msgid "ཡང་ འགའ་ཞིག་ ཡོད་པ་␣འི་ དགེ་བ་ ཁམས་ ནི་ བསྔོ་ རྒྱུ་ མེད་ དེ །"
-msgstr "Again, some have a virtuous element that cannot be dedicated because"
+msgstr "Again, some have virtuous elements that cannot be dedicated because"
 
 msgctxt "04ab6a2dd98b4c94b302d2dbb0064552"
 msgid "ཡོད་ ཙམ་ མི་རྟག་པ་␣ས་ ཁྱབ་པ་ དང༌ །"
