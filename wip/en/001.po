@@ -10761,7 +10761,7 @@ msgstr "Because of giving up for the sake of these."
 
 msgctxt "7c18c18ed4c04aebbbb45a6e776ef8d5"
 msgid "ཞི་བ་ ལ་ མི་ གནས་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "[They] do not abide in peace."
 
 msgctxt "a4776ad0830f4d98bd92754153e56556"
 msgid "དེ་ལྟར་ ཡང་ སྤྱོད་འཇུག་ ལ་␣ས །"
