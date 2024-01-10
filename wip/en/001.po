@@ -10858,7 +10858,7 @@ msgstr "Dedication is the meaning of transformation."
 
 msgctxt "11527d9bc5a54503822ade564a34057b"
 msgid "འགྱུར་ ན་ འདུས་བྱས་ སུ་ འགྱུར་བ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "If it transforms, it will become a compound."
 
 msgctxt "c9fd5ecd9f2a4e28af8961bc6e5a955b"
 msgid "བསྔོ་བ་ བྱར་མེད་ ཟེར་ རོ ། །"
