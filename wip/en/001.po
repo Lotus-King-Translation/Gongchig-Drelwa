@@ -10795,6 +10795,8 @@ msgstr "As said"
 msgctxt "030cfb44c99c4fea8572ebbc4fe03f19"
 msgid "དེ་ལྟར་ ན་ འཁོར་འདས་ ཀྱི་ ཆོས་ ཐམས་ཅད་ སེམས་ ཀྱི་ བསྒྱུར་ ཁ་ ཡིན་པ་␣ས་"
 msgstr ""
+"Thus, all phenomena of samsara and nirvana are the changing sides of the "
+"mind."
 
 msgctxt "f853a24509b34faea40b4cd8176d0d9b"
 msgid "འཁོར་འདས་ ཀྱི་ བདེ་ལེགས་ དཔལ་འབྱོར་ རྣམས་ བདག་ ཏུ་ བཟུང་ སྟེ་"
