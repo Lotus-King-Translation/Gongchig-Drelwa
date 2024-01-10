@@ -10765,7 +10765,7 @@ msgstr "[They] do not abide in peace."
 
 msgctxt "a4776ad0830f4d98bd92754153e56556"
 msgid "དེ་ལྟར་ ཡང་ སྤྱོད་འཇུག་ ལ་␣ས །"
-msgstr ""
+msgstr "Likewise, according to the Engaging in the Bodhisattva's Conduct:"
 
 msgctxt "2c55dbd93fa64bf1a1802ce4311e64b5"
 msgid "ཡོངས་སུ་ བཟུང་བ་ མེད་པ་ དེ་དག་ ཀུན ། །"
