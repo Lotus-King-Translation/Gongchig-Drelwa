@@ -10812,7 +10812,7 @@ msgstr ""
 msgctxt "c3f495cf588b4ef59bb5b58be59a1952"
 msgid ""
 "དཔེར་ན །  ཤིང་ ལ་␣ས་ མེ་ བྱུང་ ནས་ ཤིང་ ཉིད་ ཀྱང་ བསྲེག་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "For example, fire arises from wood and burns the wood itself."
 
 msgctxt "7f691e2fd93c4e0fa48e96c0f1935aea"
 msgid "དེ་སྐད་ དུའང་ །  ས་ར་ ཧ་␣ས །"
