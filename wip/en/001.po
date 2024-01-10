@@ -10757,7 +10757,7 @@ msgstr "Sentient beings by holding to self,"
 
 msgctxt "b0fb327344304580856b584060b6baef"
 msgid "དེ་ རྣམས་ ཀྱི་ དོན་ དུ་ བཏང་བ་␣ས་"
-msgstr ""
+msgstr "Because of giving up for the sake of these."
 
 msgctxt "7c18c18ed4c04aebbbb45a6e776ef8d5"
 msgid "ཞི་བ་ ལ་ མི་ གནས་པ་␣འི་ ཕྱིར་ རོ ། །"
