@@ -10778,6 +10778,7 @@ msgstr "Taking them by the mind, to the Able One, the supreme of beings."
 msgctxt "7c87af4e12e743d1875156b515885071"
 msgid "སྲས་ དང་ བཅས་པ་ རྣམས་ ལ་ ལེགས་འབུལ་ ན ། །"
 msgstr ""
+"Together with spiritual sons, when excellent offerings are made to them."
 
 msgctxt "c0c412789c23486fa040e91183cf49fc"
 msgid "ཡོན་གནས་ དམ་པ་ ཐུགས་རྗེ་ ཆེ་ རྣམས་ ཀྱིས ། །"
