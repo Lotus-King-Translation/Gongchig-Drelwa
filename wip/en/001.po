@@ -10824,7 +10824,7 @@ msgstr "Mind itself alone is the seed of everything."
 
 msgctxt "ed373a23fe8542e082ba971ccdaa4e9e"
 msgid "གང་ ལ་ ཞེས་ སོགས་ གསུངས་ སོ །"
-msgstr ""
+msgstr "Where, and so forth. As it is said."
 
 msgctxt "e12685b6c85e4580972868eea8deb01a"
 msgid "རྡོ་␣༽༽  བསྔོ་ རྒྱུ་␣འི་ དགེ་བ་ རང་ཉིད་ ཀྱིས་ བྱས་ བསགས་ མ་གཏོགས་"
