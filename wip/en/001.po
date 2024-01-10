@@ -10854,7 +10854,7 @@ msgstr "It absurdly follows that everything is virtuous and "
 
 msgctxt "8a6ca2c641e54f94b01016f43544977f"
 msgid "བསྔོ་བ་ ནི་ བསྒྱུར་བ་␣འི་ དོན་ ཡིན་པ་␣ས་"
-msgstr ""
+msgstr "Dedication is the meaning of transformation."
 
 msgctxt "11527d9bc5a54503822ade564a34057b"
 msgid "འགྱུར་ ན་ འདུས་བྱས་ སུ་ འགྱུར་བ་␣འི་ ཕྱིར་"
