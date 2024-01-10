@@ -10834,7 +10834,7 @@ msgstr ""
 
 msgctxt "eed2200b7ef8416988f089570e42c0b5"
 msgid "གཞན་ མི་ བསྔོ་བ་ དང༌ །"
-msgstr ""
+msgstr "Not dedicating others and "
 
 msgctxt "5a177303bf5244788bc6e9e5c14377c4"
 msgid "ཡང་ འགའ་ཞིག་ ཡོད་པ་␣འི་ དགེ་བ་ ཁམས་ ནི་ བསྔོ་ རྒྱུ་ མེད་ དེ །"
