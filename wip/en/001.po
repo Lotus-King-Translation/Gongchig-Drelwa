@@ -10720,7 +10720,7 @@ msgstr ""
 
 msgctxt "164085a1e6fc426aa463f45fecd4fffe"
 msgid "རྡོ་␣༽༽  འཁོར་བ་ ལ་␣ས་ འདའ་བ་␣ར་ བྱེད་པ་ ལ་"
-msgstr ""
+msgstr "Vajra: [Others] said that to transcend samsara,"
 
 msgctxt "e31ca0e598e44019ad08c8cd4da21f95"
 msgid "བདག་ འཛིན་ སྤོང་ དགོས་ ཟེར །"
