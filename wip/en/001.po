@@ -10862,7 +10862,7 @@ msgstr "If it transforms, it will become a compound."
 
 msgctxt "c9fd5ecd9f2a4e28af8961bc6e5a955b"
 msgid "བསྔོ་བ་ བྱར་མེད་ ཟེར་ རོ ། །"
-msgstr ""
+msgstr "It is said that there will be no dedication."
 
 msgctxt "53d172e09d14489dbb99ee6a8c3bb252"
 msgid "འདི་␣ར་ ནི་ འཁོར་འདས་ ཀྱི་ དགེ་རྩ་"
