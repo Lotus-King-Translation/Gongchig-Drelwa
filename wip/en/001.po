@@ -10895,7 +10895,7 @@ msgstr ""
 
 msgctxt "8fb8dab337674875a91caf6b785399cd"
 msgid "འདས་ ཀྱི་ དགེ་བ་ བསྔོ་ དགོས་པ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "The virtues of the past need to be dedicated."
 
 msgctxt "643e42bb5761497792db9212bd13169e"
 msgid "དེ་ལྟར་ ཡང་ མི་ གཡོ་␣འི་ རྒྱུད་ ལ་␣ས །"
