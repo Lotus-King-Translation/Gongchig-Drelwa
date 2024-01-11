@@ -10878,7 +10878,7 @@ msgstr "It will happen in that way."
 
 msgctxt "53a4bb419978493da98837d9146bfa22"
 msgid "དེ་བཞིན་ཉིད་ ལ་ དབྱེ་བ་ མེད་པ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར་ དང་ །"
-msgstr "Because it is said that thusness has no division."
+msgstr "Because it is said that thusness is without division."
 
 msgctxt "1796d9eed3ae43ea91372d971e127871"
 msgid "སེམས་བསྐྱེད་པ་ འཁོར་འདས་ ཀྱི་ བདག་པོ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར་ དང༌ །"
