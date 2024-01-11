@@ -10890,6 +10890,8 @@ msgid ""
 "སེམས་བསྐྱེད་ ནས་ དམ་ཆོས་ མ་ ནུབ་ བར་ གྱི་ དགེ་རྩ་ སེམས་ཅན་ གྱི་ དོན་ "
 "ཡིན་པ་␣འི་ ཕྱིར་"
 msgstr ""
+"After the generation of the mind, the roots of virtue until the decline of "
+"the holy Dharma are for the benefit of sentient beings."
 
 msgctxt "8fb8dab337674875a91caf6b785399cd"
 msgid "འདས་ ཀྱི་ དགེ་བ་ བསྔོ་ དགོས་པ་ ཡིན་ ནོ ། །"
