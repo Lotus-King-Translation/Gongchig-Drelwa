@@ -10883,6 +10883,7 @@ msgstr "Because it is said that thusness is without division."
 msgctxt "1796d9eed3ae43ea91372d971e127871"
 msgid "སེམས་བསྐྱེད་པ་ འཁོར་འདས་ ཀྱི་ བདག་པོ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར་ དང༌ །"
 msgstr ""
+"The generation of the mind is said to be the master of samsara and nirvana."
 
 msgctxt "b60677bc75b7469281d00c34fc90b63d"
 msgid ""
