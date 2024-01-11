@@ -10874,7 +10874,7 @@ msgstr "When one gathers their mind into a single mandala and dedicates it,"
 
 msgctxt "9c828e492d75413cb902d6f8b1196239"
 msgid "དེ་ལྟར་ འབྱུང་བ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "It will happen in that way."
 
 msgctxt "53a4bb419978493da98837d9146bfa22"
 msgid "དེ་བཞིན་ཉིད་ ལ་ དབྱེ་བ་ མེད་པ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར་ དང་ །"
