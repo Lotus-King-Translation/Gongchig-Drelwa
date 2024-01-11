@@ -10870,7 +10870,7 @@ msgstr "In this [system], the roots of virtue of samsara and nirvana"
 
 msgctxt "21486c098ecd4383be155bf7ba970405"
 msgid "རང་ཉིད་ ཀྱི་ སེམས་ ཀྱི་ དཀྱིལ་འཁོར་ གཅིག་ ཏུ་ བསྡུས་ ཏེ་ བསྔོས་ ན་"
-msgstr ""
+msgstr "When one gathers their mind into a single mandala and dedicates it,"
 
 msgctxt "9c828e492d75413cb902d6f8b1196239"
 msgid "དེ་ལྟར་ འབྱུང་བ་␣འི་ ཕྱིར་ དང༌ །"
