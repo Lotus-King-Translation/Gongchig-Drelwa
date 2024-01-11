@@ -10866,7 +10866,7 @@ msgstr "It is said that there will be no dedication."
 
 msgctxt "53d172e09d14489dbb99ee6a8c3bb252"
 msgid "འདི་␣ར་ ནི་ འཁོར་འདས་ ཀྱི་ དགེ་རྩ་"
-msgstr ""
+msgstr "In this [system], the roots of virtue of samsara and nirvana"
 
 msgctxt "21486c098ecd4383be155bf7ba970405"
 msgid "རང་ཉིད་ ཀྱི་ སེམས་ ཀྱི་ དཀྱིལ་འཁོར་ གཅིག་ ཏུ་ བསྡུས་ ཏེ་ བསྔོས་ ན་"
