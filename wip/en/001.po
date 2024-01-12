@@ -11005,7 +11005,7 @@ msgstr "By observing all the virtues as a single taste in the dharmadhatu."
 
 msgctxt "2b356fc6bfc44d37a5feb2b7c765f61f"
 msgid "གནས་ལུགས་ ཆོས་སྐུ་␣ར་ སྨོན་ དགོས་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "Thus, one must aspire for dharmakaya as the actuality."
 
 msgctxt "1c2e3427400e4d2e9cf5f505a77d72dc"
 msgid "དེ་ལྟར་ ཡང་ །"
