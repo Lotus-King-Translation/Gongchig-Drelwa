@@ -10911,7 +10911,7 @@ msgstr "Incalculable and immeasurable merits."
 
 msgctxt "5abc58fae9f145a1840ac97ab1ec1e99"
 msgid "དེ་␣ས་ ནི་ འགྲོ་བ་ མ་ལུས་པ ། །"
-msgstr ""
+msgstr "These are for every migrator."
 
 msgctxt "cd2c0456d45a493183aae83b05efcb92"
 msgid "བླ་མེད་ གོ་འཕང་ ཐོབ་པ་␣ར་ ཤོག  །"
