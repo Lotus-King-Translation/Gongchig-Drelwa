@@ -11001,7 +11001,7 @@ msgstr "Therefore, Dharmadhatu thusness is dedicated."
 
 msgctxt "dd3e865c4f17409f907df0acf540bc3d"
 msgid "དགེ་བ་ ཐམས་ཅད་ ཆོས་ ཀྱི་ དབྱིངས་ སུ་ རོ་ གཅིག་པ་␣ར་ དམིགས་ ནས་"
-msgstr ""
+msgstr "By observing all the virtues as a single taste in the dharmadhatu."
 
 msgctxt "2b356fc6bfc44d37a5feb2b7c765f61f"
 msgid "གནས་ལུགས་ ཆོས་སྐུ་␣ར་ སྨོན་ དགོས་པ་␣འི་ ཕྱིར་ རོ ། །"
