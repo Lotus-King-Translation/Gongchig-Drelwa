@@ -11021,7 +11021,7 @@ msgstr "The sugatagarbha, the virtuous element"
 
 msgctxt "4f504404ff7844b2b28229d55c82f861"
 msgid "ཟག་མེད་ ཡོན་ཏན་ ལྡན་པ་ དེ ། །"
-msgstr ""
+msgstr "Endowed with undefiled qualities,"
 
 msgctxt "4ae2e7ab8b4e41ac909ef24e3cf4c38b"
 msgid "བསྔོས་པ་␣ས་ འབྲས་བུ་ སྨིན་པ་␣ར་ འགྱུར །"
