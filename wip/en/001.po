@@ -11053,7 +11053,7 @@ msgstr "And"
 
 msgctxt "d9ae499dee01405cb1ef3b7d4ef278e1"
 msgid "རྣལ་འབྱོར་ ལ་␣ས་ བྱུང་ དགེ་བ་ བསྔོ ། །"
-msgstr ""
+msgstr "The dedication of virtue that arises from the yoga,"
 
 msgctxt "0bb203bc762945a3b2fc552568ea5eea"
 msgid "རང་ གི་ སེམས་ ཀྱང་ བསྔོ་བ་␣ར་ བྱ །"
