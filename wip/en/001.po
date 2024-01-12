@@ -10903,7 +10903,7 @@ msgstr "That as well in the Unwavering Tantra:"
 
 msgctxt "e0306f1380774a5194c5675906565775"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བསགས་པ་ ཡི ། །"
-msgstr ""
+msgstr "The Blessed One has accumulated"
 
 msgctxt "ea11393b33cf42e886e42ac19558da7a"
 msgid "བསོད་ནམས་ གྲངས་མེད་ གཞལ་ མི་ ལང་ ། ། /"
