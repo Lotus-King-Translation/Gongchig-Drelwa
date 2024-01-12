@@ -4261,7 +4261,7 @@ msgctxt "59925ceca55542c6b6357cb77f711003"
 msgid "བྱང་ཕྱོགས་ སོ་ བདུན་ བཞི་ བདེ་གཤེགས་ སྙིང་པོ་␣ར་ ཡོད་པ་ ངེས་ སོ །"
 msgstr ""
 "The four of the thirty-seven factors harmonious with enlightenment are "
-"certainly present in the Sugatagarbha."
+"certainly present in the sugatagarbha."
 
 msgctxt "99c2c27742754a94a7a18651e7d11172"
 msgid "ལྷན་␣༽༽  བྱང་ཕྱོགས་ སོ་ བདུན་ གནས་སྐབས་ བདུན་ དུ་ གསུངས་པ་"
