@@ -11069,7 +11069,7 @@ msgstr "Similar to what kind of nature of thusness,"
 
 msgctxt "cf5d04c18d0640bd87e45bdf268391bd"
 msgid "དེ་ འདྲ་␣འི་ ལ་␣ས་ རྣམས་ ཀུན་ ཀྱང་ བསྔོ་བ་␣ར་ བྱ །"
-msgstr ""
+msgstr "All such actions must be dedicated."
 
 msgctxt "e50700aa4ce24c8fa667f705a767e1f6"
 msgid "ཞེས་ དང་ །"
