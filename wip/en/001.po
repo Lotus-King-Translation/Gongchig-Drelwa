@@ -11099,6 +11099,8 @@ msgid ""
 "བདག་ སོགས་ བླ་ ན་ མེད་པ་ ཡེ་ཤེས་ ཀྱི་ དགེ་བ་␣འི་ རྩ་བ་ ཞེས་ སོགས་ ལུང་ མཐའ་ "
 "ཡས་ སོ་␣༑ །"
 msgstr ""
+"There are infinite scriptural passages such as the roots of virtue of "
+"unsurpassable wisdom of mine and others."
 
 msgctxt "ff85fb76574147de89f946197e3a4579"
 msgid "ཡུམ་ ལ་␣ས །"
