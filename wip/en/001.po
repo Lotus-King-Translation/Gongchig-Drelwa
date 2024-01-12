@@ -11085,7 +11085,7 @@ msgstr "If one asks, what is the absolute virtue?"
 
 msgctxt "42f85aabfb1545ad914da7f9fa0a21f9"
 msgid "དེ་བཞིན་ཉིད་ དོ །"
-msgstr ""
+msgstr "It is thusness."
 
 msgctxt "bac74f58bf8043d7a202015cca12070c"
 msgid "ཅེས་ དང༌ །"
