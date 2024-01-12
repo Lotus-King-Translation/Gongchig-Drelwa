@@ -11123,6 +11123,8 @@ msgid ""
 "དེ་ལྟར་ ན་ ཡོད་པ་␣འི་ དགེ་བ་ རྒྱ་མཚོ་ དང་ བྱས་ བསགས་ ནི་ དེ་␣འི་ རླབས་ བཞིན་"
 " ནོ །"
 msgstr ""
+"Thus, the ocean of virtue exists like that and the deeds or accumulations "
+"are like its waves."
 
 msgctxt "76129bab985a43498ebe8efe255905dc"
 msgid "དེས་ན །"
