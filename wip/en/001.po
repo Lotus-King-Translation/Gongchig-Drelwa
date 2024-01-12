@@ -10924,6 +10924,8 @@ msgstr "And"
 msgctxt "a3620f5f63d347a7988dc0966722b7e8"
 msgid "ཡུམ་ རྒྱས་པ་␣ར་ ཡང༌་␣འཕགས་ བཞི་␣འི་ དགེ་རྩ་ བསྔོ་བ་␣ར་ གསུངས་ སོ ། །"
 msgstr ""
+"The dedication of the roots of virtue of the four superior ones is also "
+"stated in the Extensive Mother [Prajnaparamita Sutra]."
 
 msgctxt "8bf209efb61b496ba8250a1be1a394c2"
 msgid "གཉིས་པ་ ནི་"
