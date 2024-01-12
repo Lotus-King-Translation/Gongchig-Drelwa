@@ -11025,7 +11025,7 @@ msgstr "Endowed with undefiled qualities,"
 
 msgctxt "4ae2e7ab8b4e41ac909ef24e3cf4c38b"
 msgid "བསྔོས་པ་␣ས་ འབྲས་བུ་ སྨིན་པ་␣ར་ འགྱུར །"
-msgstr ""
+msgstr "As it is dedicated, the result will be ripened."
 
 msgctxt "a8e6d53a3bf44bf987a9aef8de7e8d4a"
 msgid "ཞེས་ དང །"
