@@ -10950,7 +10950,7 @@ msgstr "If there is no phenomenon other than the dharmadhatu."
 
 msgctxt "52438723d3864b14a32bf975444731a1"
 msgid "འོ་ན་ ཐམས་ཅད་ ལུང་ མ་ བསྟན་ དུ་ ཅིའི་ཕྱིར་ མི་ འགྱུར་ ཏེ་"
-msgstr ""
+msgstr "Why doesn't everything become unstated [neutral]?"
 
 msgctxt "a8d030b4575341a68819fd3e939be0c2"
 msgid "མཚུངས་པ་␣འི་ ཕྱིར་ རོ །"
