@@ -10933,7 +10933,7 @@ msgstr "The second is"
 
 msgctxt "b767533b83854b1dbf38ee196bd29b87"
 msgid "ཡོད་པ་ དང་ འདོད་ ཙམ་ མི་རྟག་པ་␣ས་ ཁྱབ་ ན་"
-msgstr ""
+msgstr "If mere existence and acceptance are necessarily impermanent,"
 
 msgctxt "b2fd3b0905054ef4a3abb9313924ecc4"
 msgid ""
