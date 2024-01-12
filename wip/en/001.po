@@ -10974,7 +10974,7 @@ msgstr "Since this is also similar to virtuous actions."
 
 msgctxt "be02e19af7924eff8a11fbd0414ccbc1"
 msgid "བསྔོ་བ་ དུག་ མེད་ མི་ སྲིད་པ་␣ར་ འགྱུར་ རོ ། །"
-msgstr ""
+msgstr "It is impossible to have a dedication free of poison."
 
 msgctxt "dc96764993c147c5be1ea053469c7f90"
 msgid "དེ་ལྟར་ ན་ བསྔོ་བ་ ནི་ ཀུན་རྫོབ་ ལ་ བརྟེན་ ནས་ བཞག་ དགོས་པ་␣ས་"
