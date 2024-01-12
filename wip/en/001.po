@@ -11138,7 +11138,7 @@ msgstr ""
 
 msgctxt "98647449f1814b01af2fdc7cb690aedf"
 msgid "རྡོ་␣༽༽  སངས་རྒྱས་ དང་ བླ་མ་ ལ་ བསྔོ་བ་ དགོས་ ཏེ་"
-msgstr ""
+msgstr "Vajra: One must dedicate to the buddhas and the gurus."
 
 msgctxt "67463d56ca9d4cc9a640cd015f7b3036"
 msgid "སྐྱོན་ སྤང་ ཡོན་ཏན་ རྫོགས་པ་␣འི་ ཕྱིར་ ཟེར །"
