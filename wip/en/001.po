@@ -10271,7 +10271,7 @@ msgid ""
 "ཡིན་པ་␣ས་"
 msgstr ""
 "The realization of the non-duality of equipoise and post-attainment, or the "
-"non-duality of subject and object, as one taste is the non-meditation "
+"non-duality of subject and object, as a single taste, is the non-meditation "
 "[yoga]."
 
 msgctxt "60f0c3d65b1d4d1d90e75a71b74dd3e5"
