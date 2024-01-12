@@ -11115,6 +11115,8 @@ msgstr ""
 msgctxt "0727696e09124dbbae54e84671b60937"
 msgid "ཀུན་རྫོབ་ འཁྲུལ་པ་␣འི་ དྲི་མ་ སྦྱོང་བ་ ལ་ བལྟོས་པ་␣ས་ མི་ འགལ་ ལོ ། །"
 msgstr ""
+"This does not contradict the fact that they depend on purifying the stains "
+"of the relative."
 
 msgctxt "6f0bba99a3614d4f8a227b794f3fcb11"
 msgid ""
