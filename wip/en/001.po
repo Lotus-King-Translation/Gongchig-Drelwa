@@ -11057,7 +11057,7 @@ msgstr "The dedication of virtue that arises from the yoga,"
 
 msgctxt "0bb203bc762945a3b2fc552568ea5eea"
 msgid "རང་ གི་ སེམས་ ཀྱང་ བསྔོ་བ་␣ར་ བྱ །"
-msgstr ""
+msgstr "And also dedicate one's own mind."
 
 msgctxt "337c5975631a4ebb91a25ce8ad891c6e"
 msgid "ཞེས་ དང༌ །"
