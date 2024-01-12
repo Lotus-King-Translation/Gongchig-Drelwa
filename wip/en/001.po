@@ -11013,7 +11013,7 @@ msgstr ""
 
 msgctxt "62da450174b04913b7a3c5aeb6bc543e"
 msgid "རྒྱན་ སྟུག་པོ་␣ར །"
-msgstr ""
+msgstr "The Sutra Densely Arrayed with Ornaments says:"
 
 msgctxt "1aaf0a30fbcb44b6aad21e0eba7d2108"
 msgid "བདེ་གཤེགས་ སྙིང་པོ་ ཁམས་ དགེ་བ ། །"
