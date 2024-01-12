@@ -10907,7 +10907,7 @@ msgstr "The Blessed One has accumulated"
 
 msgctxt "ea11393b33cf42e886e42ac19558da7a"
 msgid "བསོད་ནམས་ གྲངས་མེད་ གཞལ་ མི་ ལང་ ། ། /"
-msgstr ""
+msgstr "Incalculable and immeasurable merits."
 
 msgctxt "5abc58fae9f145a1840ac97ab1ec1e99"
 msgid "དེ་␣ས་ ནི་ འགྲོ་བ་ མ་ལུས་པ ། །"
