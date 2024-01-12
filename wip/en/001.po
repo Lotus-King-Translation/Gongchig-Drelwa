@@ -11065,7 +11065,7 @@ msgstr "And"
 
 msgctxt "ce0bc312c16c4318a88aa3a7899ecb18"
 msgid "དེ་བཞིན་ཉིད་ ཀྱི་ རང་བཞིན་ ཅི་འདྲ་བ་"
-msgstr ""
+msgstr "Similar to what kind of nature of thusness,"
 
 msgctxt "cf5d04c18d0640bd87e45bdf268391bd"
 msgid "དེ་ འདྲ་␣འི་ ལ་␣ས་ རྣམས་ ཀུན་ ཀྱང་ བསྔོ་བ་␣ར་ བྱ །"
