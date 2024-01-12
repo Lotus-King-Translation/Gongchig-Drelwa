@@ -11041,7 +11041,7 @@ msgstr "And"
 
 msgctxt "30b474c2482c4742915ecbddc63ed185"
 msgid "རྡོ་རྗེ་ རྒྱལ་མཚན་ བསྔོ་བ་␣ར །"
-msgstr ""
+msgstr "The dedication of the vajra victory banner."
 
 msgctxt "88ff5478781540a191c32acbd7991e1a"
 msgid "ཁམས་ རྣམས་ ཀུན་ ཀྱང་ ཡོངས་སུ་ བསྡུ་ བྱས་ ཏེ །"
