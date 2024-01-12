@@ -10987,7 +10987,7 @@ msgstr "The dedication of merit will not go like its characteristics."
 
 msgctxt "26afd30bcb1948b1ad46236a5da94b9f"
 msgid "དོན་དམ་པ་␣ར་ ནི་ བསྔོ་བ་ ཉིད་ ཀྱང་ མ་ གྲུབ་ ན་"
-msgstr ""
+msgstr "If the dedication itself is not established in the absolute sense,"
 
 msgctxt "33c2eb9a029245b899aa5b85008a58dd"
 msgid "ཆོས་དབྱིངས་ བསྔོ་ བྱ་ ཡིན་ མིན་ གྱི་ དཔྱད་པ་ མི་ འཇུག་ གོ  །"
