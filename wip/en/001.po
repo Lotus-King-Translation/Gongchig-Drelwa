@@ -11089,7 +11089,7 @@ msgstr ""
 
 msgctxt "bac74f58bf8043d7a202015cca12070c"
 msgid "ཅེས་ དང༌ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "7491fdb70c50452cb25138f928b34e48"
 msgid ""
