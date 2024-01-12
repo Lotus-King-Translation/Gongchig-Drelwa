@@ -11081,7 +11081,7 @@ msgstr "The Compendium says:"
 
 msgctxt "e7256ef9e3124306a54af90caadaeee2"
 msgid "དོན་དམ་པ་␣འི་ དགེ་བ་ གང་ཞེ་ན །"
-msgstr ""
+msgstr "If one asks, what is the absolute virtue?"
 
 msgctxt "42f85aabfb1545ad914da7f9fa0a21f9"
 msgid "དེ་བཞིན་ཉིད་ དོ །"
