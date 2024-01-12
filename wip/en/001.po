@@ -11128,7 +11128,7 @@ msgstr ""
 
 msgctxt "76129bab985a43498ebe8efe255905dc"
 msgid "དེས་ན །"
-msgstr ""
+msgstr "Thus,"
 
 msgctxt "3bdcf7a7f83740f8a2f0e5892981022f"
 msgid "འཁོར་འདས་ ཀུན་ གྱི་  བསགས་ དང་ ཡོད་པ་␣འི་ དགེ་བ་ བསྔོ་བ་␣ར་ བྱ་␣འོ །"
