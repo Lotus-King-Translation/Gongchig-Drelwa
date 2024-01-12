@@ -10970,7 +10970,7 @@ msgstr "If the observed sign becomes compounded."
 
 msgctxt "8c9c049122cd46129c6faf2e1ed83996"
 msgid "དགེ་བ་␣འི་ ལ་␣ས་ ལ་␣འང་ མཚུངས་པ་␣ས་"
-msgstr ""
+msgstr "Since this is also similar to the virtuous action."
 
 msgctxt "be02e19af7924eff8a11fbd0414ccbc1"
 msgid "བསྔོ་བ་ དུག་ མེད་ མི་ སྲིད་པ་␣ར་ འགྱུར་ རོ ། །"
