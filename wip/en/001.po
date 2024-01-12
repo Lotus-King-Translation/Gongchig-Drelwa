@@ -10919,7 +10919,7 @@ msgstr ""
 
 msgctxt "9ed5e60a35c04dbfb59ee34b4540e67b"
 msgid "ཅེས་ དང༌ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "a3620f5f63d347a7988dc0966722b7e8"
 msgid "ཡུམ་ རྒྱས་པ་␣ར་ ཡང༌་␣འཕགས་ བཞི་␣འི་ དགེ་རྩ་ བསྔོ་བ་␣ར་ གསུངས་ སོ ། །"
