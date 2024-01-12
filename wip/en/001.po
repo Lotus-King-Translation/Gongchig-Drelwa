@@ -10958,7 +10958,7 @@ msgstr "Because they are similar."
 
 msgctxt "0fe3159655b64a469159211a3d6d9f4b"
 msgid "དེ་ལྟར་ ན་ དགེ་སྡིག་ གཏན་ མི་ སྲིད་པ་␣ར་ འགྱུར་ རོ །"
-msgstr ""
+msgstr "In that way, virtue and non-virtue would become impossible."
 
 msgctxt "25b232e4d1b648f7a4f1b8de6a4b1ba7"
 msgid "ཆོས་དབྱིངས་ བསྔོས་པ་␣ས་ ཐམས་ཅད་ དགེ་བ་␣ར་ འགྱུར་པ་␣ས་"
