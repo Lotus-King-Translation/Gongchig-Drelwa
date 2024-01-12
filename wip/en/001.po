@@ -11077,7 +11077,7 @@ msgstr "And."
 
 msgctxt "2d53a8a85bc948e0a18a6eb89273691c"
 msgid "ཀུན་བཏུས་ ལ་␣ས །"
-msgstr ""
+msgstr "The Compendium says:"
 
 msgctxt "e7256ef9e3124306a54af90caadaeee2"
 msgid "དོན་དམ་པ་␣འི་ དགེ་བ་ གང་ཞེ་ན །"
