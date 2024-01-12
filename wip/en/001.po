@@ -40,7 +40,7 @@ msgid ""
 " སངས་རྒྱས ། །"
 msgstr ""
 "The butter of form kaya is manifestly born and gone to the end of "
-"abandonment and realization, and the complete buddha. "
+"abandonment and realization, and the complete Buddha. "
 
 msgctxt "c18652eda3f642e296f89c2c81a70044"
 msgid ""
