@@ -10979,6 +10979,7 @@ msgstr "It is impossible to have a dedication free of poison."
 msgctxt "dc96764993c147c5be1ea053469c7f90"
 msgid "དེ་ལྟར་ ན་ བསྔོ་བ་ ནི་ ཀུན་རྫོབ་ ལ་ བརྟེན་ ནས་ བཞག་ དགོས་པ་␣ས་"
 msgstr ""
+"In that way, dedication must be placed in dependence upon the relative."
 
 msgctxt "f64097b949334caca9df1288c4fc76fa"
 msgid "བསོད་ནམས་ བསྔོ་ བྱ་␣ར་ བྱེད་པ་ བཞིན་ མཚན་ ལྟར་ མི་ འགྲོ་␣འོ ། །"
