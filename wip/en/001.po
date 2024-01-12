@@ -10992,6 +10992,8 @@ msgstr "If the dedication itself is not established in the absolute sense,"
 msgctxt "33c2eb9a029245b899aa5b85008a58dd"
 msgid "ཆོས་དབྱིངས་ བསྔོ་ བྱ་ ཡིན་ མིན་ གྱི་ དཔྱད་པ་ མི་ འཇུག་ གོ  །"
 msgstr ""
+"Then the analysis of whether the dharmadhatu is or is not the object of "
+"dedication does not apply."
 
 msgctxt "f997ca6ab41e42a6bcb681f7c49c21b7"
 msgid "དེ་␣འི་ ཕྱིར་ ཆོས་དབྱིངས་ དེ་བཞིན་ཉིད་ བསྔོ་བ་␣ར་ བྱ་བ་ ཡིན་ ཏེ །"
