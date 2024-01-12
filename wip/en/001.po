@@ -10954,7 +10954,7 @@ msgstr "Why doesn't everything become unstated [neutral]?"
 
 msgctxt "a8d030b4575341a68819fd3e939be0c2"
 msgid "མཚུངས་པ་␣འི་ ཕྱིར་ རོ །"
-msgstr ""
+msgstr "Because they are similar."
 
 msgctxt "0fe3159655b64a469159211a3d6d9f4b"
 msgid "དེ་ལྟར་ ན་ དགེ་སྡིག་ གཏན་ མི་ སྲིད་པ་␣ར་ འགྱུར་ རོ །"
