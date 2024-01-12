@@ -10983,7 +10983,7 @@ msgstr ""
 
 msgctxt "f64097b949334caca9df1288c4fc76fa"
 msgid "བསོད་ནམས་ བསྔོ་ བྱ་␣ར་ བྱེད་པ་ བཞིན་ མཚན་ ལྟར་ མི་ འགྲོ་␣འོ ། །"
-msgstr ""
+msgstr "The dedication of merit will not go like its characteristics."
 
 msgctxt "26afd30bcb1948b1ad46236a5da94b9f"
 msgid "དོན་དམ་པ་␣ར་ ནི་ བསྔོ་བ་ ཉིད་ ཀྱང་ མ་ གྲུབ་ ན་"
