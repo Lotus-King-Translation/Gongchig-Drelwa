@@ -11045,7 +11045,7 @@ msgstr "The dedication of the vajra victory banner."
 
 msgctxt "88ff5478781540a191c32acbd7991e1a"
 msgid "ཁམས་ རྣམས་ ཀུན་ ཀྱང་ ཡོངས་སུ་ བསྡུ་ བྱས་ ཏེ །"
-msgstr ""
+msgstr "Which draws together all the elements."
 
 msgctxt "4eeba4b67c1f49bd8090e12812fb9d21"
 msgid "ཞེས་ དང་ །"
