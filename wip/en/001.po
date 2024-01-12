@@ -10966,7 +10966,7 @@ msgstr "By dedicating the dharmadhatu, everything becomes virtuous."
 
 msgctxt "7ad0ba43f2fc4131b0def8a882b4ca17"
 msgid "དམིགས་ མཚན་ འདུ་ བྱས་ སུ་ འགྱུར་ ན །"
-msgstr ""
+msgstr "If the observed sign becomes compounded."
 
 msgctxt "8c9c049122cd46129c6faf2e1ed83996"
 msgid "དགེ་བ་␣འི་ ལ་␣ས་ ལ་␣འང་ མཚུངས་པ་␣ས་"
