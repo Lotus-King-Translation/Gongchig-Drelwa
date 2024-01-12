@@ -10946,7 +10946,7 @@ msgstr ""
 
 msgctxt "f42b4c2cafe74121897123271eb072ff"
 msgid "ཆོས་དབྱིངས་ ལ་␣ས་ ཆོས་ གཞན་ མེད་ ན །"
-msgstr ""
+msgstr "If there is no phenomenon other than the dharmadhatu."
 
 msgctxt "52438723d3864b14a32bf975444731a1"
 msgid "འོ་ན་ ཐམས་ཅད་ ལུང་ མ་ བསྟན་ དུ་ ཅིའི་ཕྱིར་ མི་ འགྱུར་ ཏེ་"
