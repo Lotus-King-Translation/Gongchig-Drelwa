@@ -11033,7 +11033,7 @@ msgstr "And."
 
 msgctxt "1da04783dc3f453ca25dcd7a9f5d2c44"
 msgid "བདེ་གཤེགས་ སྙིང་པོ་ དགེ་བ་␣འང་ དེ །"
-msgstr "The sugatagarbha is also that virtue."
+msgstr "The sugatagarbha, the virtue is also."
 
 msgctxt "a8498726897a416997a6dda62298cdc6"
 msgid "ཞེས་ དང༌ །"
