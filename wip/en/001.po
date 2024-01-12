@@ -10997,7 +10997,7 @@ msgstr ""
 
 msgctxt "f997ca6ab41e42a6bcb681f7c49c21b7"
 msgid "དེ་␣འི་ ཕྱིར་ ཆོས་དབྱིངས་ དེ་བཞིན་ཉིད་ བསྔོ་བ་␣ར་ བྱ་བ་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "Therefore, Dharmadhatu thusness is dedicated."
 
 msgctxt "dd3e865c4f17409f907df0acf540bc3d"
 msgid "དགེ་བ་ ཐམས་ཅད་ ཆོས་ ཀྱི་ དབྱིངས་ སུ་ རོ་ གཅིག་པ་␣ར་ དམིགས་ ནས་"
