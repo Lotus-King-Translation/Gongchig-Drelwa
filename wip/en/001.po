@@ -4827,7 +4827,8 @@ msgstr ""
 
 msgctxt "8dc1519941b34a3c843031c388970534"
 msgid "ལུང་ མ་ བསྟན་ མི་དགེ་བ་␣འི་ ཕྱོགས་ སུ་ འདུ་␣འོ །"
-msgstr "Thus, the neutral is included in the category of non-virtues."
+msgstr ""
+"Thus, the unstated [actions] are included in the category of non-virtues."
 
 msgctxt "3910a54aeebe4f01ad3a9593e0926dd1"
 msgid "རྡོ་␣༽༽  མངའ་བདག་ སྟག་ ཚ་ ན་རེ །"
