@@ -11017,7 +11017,7 @@ msgstr "The Sutra Densely Arrayed with Ornaments says:"
 
 msgctxt "1aaf0a30fbcb44b6aad21e0eba7d2108"
 msgid "བདེ་གཤེགས་ སྙིང་པོ་ ཁམས་ དགེ་བ ། །"
-msgstr ""
+msgstr "The sugatagarbha, the virtuous element"
 
 msgctxt "4f504404ff7844b2b28229d55c82f861"
 msgid "ཟག་མེད་ ཡོན་ཏན་ ལྡན་པ་ དེ ། །"
