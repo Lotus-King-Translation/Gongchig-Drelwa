@@ -10842,7 +10842,7 @@ msgstr "Again, some have virtuous elements that cannot be dedicated because"
 
 msgctxt "04ab6a2dd98b4c94b302d2dbb0064552"
 msgid "ཡོད་ ཙམ་ མི་རྟག་པ་␣ས་ ཁྱབ་པ་ དང༌ །"
-msgstr "Mere existence is pervaded as impermanent and "
+msgstr "Mere existence is necessarily impermanent and "
 
 msgctxt "54411427a52f445e8b9e95b5f7a9b136"
 msgid "ཆོས་དབྱིངས་ ལས་མ་ གཏོགས་ ཆོས་ གཞན་ མེད་ ཕྱིར་"
