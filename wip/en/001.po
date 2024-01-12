@@ -10929,7 +10929,7 @@ msgstr ""
 
 msgctxt "8bf209efb61b496ba8250a1be1a394c2"
 msgid "གཉིས་པ་ ནི་"
-msgstr ""
+msgstr "The second is"
 
 msgctxt "b767533b83854b1dbf38ee196bd29b87"
 msgid "ཡོད་པ་ དང་ འདོད་ ཙམ་ མི་རྟག་པ་␣ས་ ཁྱབ་ ན་"
