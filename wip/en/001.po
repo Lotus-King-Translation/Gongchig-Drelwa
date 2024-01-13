@@ -11289,7 +11289,7 @@ msgstr "According to the Excellent Accomplishment:"
 
 msgctxt "92b7b1445c5a4d06a2eac53c7f8b480f"
 msgid "བཞི་པ་ རིག་འཛིན་ སྡེ་སྣོད་ དག་ ལ་␣ས་ ཤེས་ ཞེས་ སོ ། །"
-msgstr ""
+msgstr "The fourth is known from the Pidyadhara Pitaka."
 
 msgctxt "50656f0e31424cf6b172f12aee3d1039"
 msgid "ཡང་ན་ ང་ སེམས་ འདུལ་བ་␣ས་ འདུལ་བ་ ཡིན་ ཅེས་ དང་ །"
