@@ -11176,7 +11176,7 @@ msgstr "It is said that it is like the sound of an Indian lute."
 msgctxt "246df21b841d44e39d764eaaa5298913"
 msgid "དགའ་མོ་ དང་ དགའ་ སྟོབས་ མོས་བ་ སྟོང་ གི་ འོ་མ་␣འི་ ཉིང་ཁུ་ དྲངས་ ནས་"
 msgstr ""
-"Nanda and Nandabala pulled the essence of the milk of a thousand cows and "
+"Nanda and Nandabala drew the essence of the milk of a thousand cows and "
 
 msgctxt "f83e0602858e4e93ae26208154e8cbfa"
 msgid "བརྟུལ་ཞུགས་ གྲུབ་པ་␣ར་ གྱུར་ཅིག  །"
