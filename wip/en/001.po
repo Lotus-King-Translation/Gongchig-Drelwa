@@ -11285,7 +11285,7 @@ msgstr "Addendum: Mantra is the fourth pitaka."
 
 msgctxt "1e238009bacb4258b16e5ca878b28fa0"
 msgid "ལེགས་ གྲུབ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Excellent Accomplishment:"
 
 msgctxt "92b7b1445c5a4d06a2eac53c7f8b480f"
 msgid "བཞི་པ་ རིག་འཛིན་ སྡེ་སྣོད་ དག་ ལ་␣ས་ ཤེས་ ཞེས་ སོ ། །"
