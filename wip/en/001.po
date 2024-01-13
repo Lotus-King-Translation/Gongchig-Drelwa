@@ -11253,7 +11253,7 @@ msgstr "And those who have not yet come."
 
 msgctxt "cda418656c8a4203971f7ac59359d5d0"
 msgid "ད་ལྟར་ བྱུང་བ་␣འི་ མགོན་པོ་ རྣམས ། །"
-msgstr ""
+msgstr "All the lords of the present,"
 
 msgctxt "1bde8a80f04640f0a12044f2f3069481"
 msgid "འགྲོ་ ལ་ ཕན་ ཕྱིར་ བཞུགས་པ་ དག  །"
