@@ -11293,7 +11293,7 @@ msgstr "The fourth is known from the Pidyadhara Pitaka."
 
 msgctxt "50656f0e31424cf6b172f12aee3d1039"
 msgid "ཡང་ན་ ང་ སེམས་ འདུལ་བ་␣ས་ འདུལ་བ་ ཡིན་ ཅེས་ དང་ །"
-msgstr ""
+msgstr "Or because it tames my mind, thus it is Vinaya."
 
 msgctxt "8ac4273256fd4d439d98bf8be834c393"
 msgid "ཡང་ན་ མདོ་སྡེ་ ཡིན་ ཏེ་ དཔུང་ བཟང་ ལ་␣ས །"
