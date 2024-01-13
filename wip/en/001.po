@@ -11321,6 +11321,8 @@ msgctxt "b243de81ac0543c283438952b9db7fe4"
 msgid ""
 "མངོན་པ་ ཕྱི་ ནང་ གཉིས་ གསུངས་པ་␣ས་ སྔགས་ ནང༌་␣གི་ མངོན་པ་ ཡིན་ ཅེས་པ་ སྟེ །"
 msgstr ""
+"Abhidharma is taught as twofold: outer and inner. Mantra is the inner "
+"abhidharma."
 
 msgctxt "981e9f9e72254fc89d358b73bda2bfd9"
 msgid "དེ་ལྟར་ སོ་སོ་␣ས་ འདོད་པ་ རེ་ བཤད་ ཀྱང་"
