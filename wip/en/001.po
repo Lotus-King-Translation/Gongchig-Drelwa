@@ -11315,6 +11315,7 @@ msgstr "As said."
 msgctxt "39fdbbdb09bc4eec9edfbf421b5b7224"
 msgid "ཡང་ ཆོས་སྤྱོད་ མངོན་རྟོགས་ རྒྱུད་ ལ་␣ས །"
 msgstr ""
+"Also, according to the Tantra of Manifest Realization of Dharma Activity:"
 
 msgctxt "b243de81ac0543c283438952b9db7fe4"
 msgid ""
