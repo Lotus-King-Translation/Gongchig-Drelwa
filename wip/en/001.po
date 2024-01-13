@@ -11265,7 +11265,7 @@ msgstr "By knowing this excellent ritual,"
 
 msgctxt "e3f5a0f5150c40c5b95ad26bba9b9cd1"
 msgid "ཐམས་ཅད་ མཁྱེན་པ་ ཚད་ མེད་ བརྙེས །"
-msgstr ""
+msgstr "Will achieve immeasurable omniscience."
 
 msgctxt "aba7e44bdd89482ca39e52cb9f19d741"
 msgid "ཞེས་ དང༌ །"
