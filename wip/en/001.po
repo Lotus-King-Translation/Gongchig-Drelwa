@@ -11261,7 +11261,7 @@ msgstr "Those who dwell for the benefit of beings."
 
 msgctxt "2eab5d89db3c4c0999ccaf0b411b7513"
 msgid "ཆོ་ག་ བཟང་པོ་ འདི་ མཁྱེན་ ནས ། །"
-msgstr ""
+msgstr "By knowing this excellent ritual,"
 
 msgctxt "e3f5a0f5150c40c5b95ad26bba9b9cd1"
 msgid "ཐམས་ཅད་ མཁྱེན་པ་ ཚད་ མེད་ བརྙེས །"
