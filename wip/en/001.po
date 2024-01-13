@@ -11143,7 +11143,7 @@ msgstr ""
 
 msgctxt "67463d56ca9d4cc9a640cd015f7b3036"
 msgid "སྐྱོན་ སྤང་ ཡོན་ཏན་ རྫོགས་པ་␣འི་ ཕྱིར་ ཟེར །"
-msgstr ""
+msgstr "Because [they] have abandoned faults and perfected in good qualities."
 
 msgctxt "3fedd32bf47d49dea2f7738e65e14e32"
 msgid "འདི་␣ར་ དེ་དག་ ལ་ ཡང་ བསྔོ་བ་ ནི་ ངེས་པར་ དགོས་ ཏེ་"
