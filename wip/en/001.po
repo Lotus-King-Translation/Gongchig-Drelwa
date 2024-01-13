@@ -11163,7 +11163,7 @@ msgstr "That as well, the Eight Thousand [Verses] says:"
 
 msgctxt "f1f8ffed43ae42e193a88fecb4333d83"
 msgid "སངས་རྒྱས་ ཀྱི་ མཛད་འཕྲིན་ ནི་"
-msgstr ""
+msgstr "The activities of the Buddha are "
 
 msgctxt "0b507198a36f4f7d98db9746b11a73ff"
 msgid "རྒྱུ་རྐྱེན་ གཅིག་ མིན་པ་"
