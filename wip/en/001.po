@@ -11171,7 +11171,7 @@ msgstr "not a single cause and condition."
 
 msgctxt "2324fbec7e6449d0a99ea607e04b080d"
 msgid "པི་ཝང་ གི་ སྒྲ་ ལྟར་ གསུངས་པ་ དང་"
-msgstr ""
+msgstr "It is said that it is like the sound of an Indian lute."
 
 msgctxt "246df21b841d44e39d764eaaa5298913"
 msgid "དགའ་མོ་ དང་ དགའ་ སྟོབས་ མོས་བ་ སྟོང་ གི་ འོ་མ་␣འི་ ཉིང་ཁུ་ དྲངས་ ནས་"
