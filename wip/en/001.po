@@ -11167,7 +11167,7 @@ msgstr "The activities of the Buddha are "
 
 msgctxt "0b507198a36f4f7d98db9746b11a73ff"
 msgid "རྒྱུ་རྐྱེན་ གཅིག་ མིན་པ་"
-msgstr ""
+msgstr "not a single cause and condition."
 
 msgctxt "2324fbec7e6449d0a99ea607e04b080d"
 msgid "པི་ཝང་ གི་ སྒྲ་ ལྟར་ གསུངས་པ་ དང་"
