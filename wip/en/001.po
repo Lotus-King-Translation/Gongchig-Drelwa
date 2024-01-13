@@ -11232,7 +11232,7 @@ msgstr ""
 
 msgctxt "4e85328c803749d7ab4b9763446c03d8"
 msgid "གདུལ་བྱ་ གཞན་ ལ་␣འང་ དེ་ སྟོན་ དགོས་ ཤིང་"
-msgstr ""
+msgstr "Also, this must be taught to other disciples."
 
 msgctxt "a06c444d16f84961abb2453dd5069793"
 msgid "སྔགས་ མེད་ ན་ ཕྲ་བ་ སྤོང་ བྱེད་ ཀྱི་ གཉེན་པོ་ མེད་པ་␣འི་ ཕྱིར་ རོ ། །"
