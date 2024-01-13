@@ -11241,6 +11241,7 @@ msgstr "Because without mantra there is no antidote to abandon the subtle."
 msgctxt "dc9e1900837b4f9091e998d2c0ce08f5"
 msgid "དེ་ལྟར་ ཡང་ རྣམ་སྣང་ མངོན་བྱང་ ལ་␣ས །"
 msgstr ""
+"That as well, The Manifest Complete Enlightenment of Vairocana Tantra says:"
 
 msgctxt "a49e364a6195453884f8cd584f5cc402"
 msgid "རྫོགས་པ་␣འི་ སངས་རྒྱས་ གང་ འདས་ དང༌ ། །"
