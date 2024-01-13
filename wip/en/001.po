@@ -11159,7 +11159,7 @@ msgstr "For example, it is like adding wealth to a rich man."
 
 msgctxt "b1382b7da0c1432591909b0174b1d3bd"
 msgid "དེ་ལྟར་ ཡང་ བརྒྱད་ སྟོང་ ལ་␣ས །"
-msgstr ""
+msgstr "That as well in the Eight Thousand [Verses]:"
 
 msgctxt "f1f8ffed43ae42e193a88fecb4333d83"
 msgid "སངས་རྒྱས་ ཀྱི་ མཛད་འཕྲིན་ ནི་"
