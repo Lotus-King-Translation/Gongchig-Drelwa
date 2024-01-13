@@ -11155,7 +11155,7 @@ msgstr "The enlightened activity will be swiftly completed."
 
 msgctxt "7a838f8888e24d42b08dd1663d83a70d"
 msgid "དཔེར་ན་ ཕྱུག་པོ་ ལ་ ནོར་ བསྣན་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "For example, it is like adding wealth to a rich man."
 
 msgctxt "b1382b7da0c1432591909b0174b1d3bd"
 msgid "དེ་ལྟར་ ཡང་ བརྒྱད་ སྟོང་ ལ་␣ས །"
