@@ -11199,6 +11199,8 @@ msgid ""
 "བླ་མ་␣འང་ སོ་སྐྱེ་␣ས་ དང་ ས་␣ར་ གནས་ གང་ཡིན་ ཀྱང་ གེགས་ སུ་ འགྱུར་བ་␣ས་ "
 "བསྔོ་ དགོས་ སོ ། །"
 msgstr ""
+"Even gurus, whether [they] are ordinary beings or abiding on the levels, can"
+" become an obstruction, so one must dedicate."
 
 msgctxt "39ddcd9b7593469398eb8984cebc0fcd"
 msgid ""
