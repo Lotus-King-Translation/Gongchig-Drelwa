@@ -11310,7 +11310,7 @@ msgstr "I will explain genuinely, and listen clearly."
 
 msgctxt "e1cf4f2358b14aa49e4570d885ae1be9"
 msgid "ཅེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "39fdbbdb09bc4eec9edfbf421b5b7224"
 msgid "ཡང་ ཆོས་སྤྱོད་ མངོན་རྟོགས་ རྒྱུད་ ལ་␣ས །"
