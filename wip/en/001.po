@@ -11180,7 +11180,7 @@ msgstr ""
 
 msgctxt "f83e0602858e4e93ae26208154e8cbfa"
 msgid "བརྟུལ་ཞུགས་ གྲུབ་པ་␣ར་ གྱུར་ཅིག  །"
-msgstr "We will accomplish the yogic disciplines."
+msgstr "[We] will accomplish the yogic disciplines."
 
 msgctxt "7b496d98ff6e46daa298a8e6792252ab"
 msgid "ཅེས་ བསྔོས་པ་␣ས་ ཐོ་རངས་ སངས་རྒྱས་པ་ དང་ །"
