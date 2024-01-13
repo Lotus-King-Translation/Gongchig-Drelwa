@@ -11249,7 +11249,7 @@ msgstr "The perfect buddhas who have gone beyond and,"
 
 msgctxt "28958205ddc243c581e2966b04309931"
 msgid "དེ་བཞིན་ གང་དག་ མ་ བྱོན་པ ། །"
-msgstr ""
+msgstr "And those who have not yet come."
 
 msgctxt "cda418656c8a4203971f7ac59359d5d0"
 msgid "ད་ལྟར་ བྱུང་བ་␣འི་ མགོན་པོ་ རྣམས ། །"
