@@ -11216,6 +11216,8 @@ msgid ""
 "གསང་སྔགས་ ཀྱི་ བསྟན་པ་ ནི་ སྟོན་པ་␣ས་ དུས་ ཞིང་ འདི་ ལ་␣ས་ གཞན་ དུ་ མི་ "
 "འབྱུང་ ཟེར་ མོད་ ཀྱང །"
 msgstr ""
+"Although it is said that the secret mantra teachings would not appear "
+"elsewhere than this world by Buddha."
 
 msgctxt "a769da0382dd4e3bb9a214a4f2023c94"
 msgid "འདི་␣ར་ ནི་ སྟོན་པ་ དང་ བསྟན་པ་ གཞན་ ལ་␣འང་ སྔགས་ འབྱུང་ སྟེ་"
