@@ -11273,7 +11273,7 @@ msgstr "And."
 
 msgctxt "374390284ad84de1a15577424e58de51"
 msgid "འདས་པ་␣འི་ སངས་རྒྱས་ ཞེས་ སོགས་ སོ ། །"
-msgstr ""
+msgstr "The buddhas of the past and so forth. "
 
 msgctxt "bdbc4c2d08ae42388dbfcd84a65271c6"
 msgid "དེས་ན་ སྔགས་ འབྱུང་བ་ གཞན་ ལ་␣འང་ ཡོད་ དོ །"
