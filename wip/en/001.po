@@ -11236,7 +11236,7 @@ msgstr "Also, this must be taught to other disciples."
 
 msgctxt "a06c444d16f84961abb2453dd5069793"
 msgid "སྔགས་ མེད་ ན་ ཕྲ་བ་ སྤོང་ བྱེད་ ཀྱི་ གཉེན་པོ་ མེད་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "Because without mantra there is no antidote to abandon the subtle."
 
 msgctxt "dc9e1900837b4f9091e998d2c0ce08f5"
 msgid "དེ་ལྟར་ ཡང་ རྣམ་སྣང་ མངོན་བྱང་ ལ་␣ས །"
