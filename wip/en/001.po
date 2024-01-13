@@ -11302,7 +11302,7 @@ msgstr ""
 
 msgctxt "04f49ef9211f445f98ba8d76b26159ac"
 msgid "གསང་སྔགས་ མདོ་སྡེ་␣འི་ ཚུལ་ དུ་ ནི །"
-msgstr ""
+msgstr "In the way of the secret mantra system"
 
 msgctxt "a71eb9a9548847e4bba38af4f5c4cd88"
 msgid "ཡང་དག་ ངས་ བཤད་  དྭངས་ བས་ ཉོན ། །"
