@@ -11151,7 +11151,7 @@ msgstr "In this [system], dedication is certainly needed for them because"
 
 msgctxt "dc6b0f0a51a246fc92ebd839c32e4479"
 msgid "ཕྲིན་ལས་ རྫོགས་པ་ ལ་ མྱུར་བ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "The enlightened activity will be swiftly completed."
 
 msgctxt "7a838f8888e24d42b08dd1663d83a70d"
 msgid "དཔེར་ན་ ཕྱུག་པོ་ ལ་ ནོར་ བསྣན་པ་ བཞིན་ ནོ ། །"
