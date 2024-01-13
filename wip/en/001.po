@@ -11245,7 +11245,7 @@ msgstr ""
 
 msgctxt "a49e364a6195453884f8cd584f5cc402"
 msgid "རྫོགས་པ་␣འི་ སངས་རྒྱས་ གང་ འདས་ དང༌ ། །"
-msgstr ""
+msgstr "The perfect buddhas who have gone beyond and,"
 
 msgctxt "28958205ddc243c581e2966b04309931"
 msgid "དེ་བཞིན་ གང་དག་ མ་ བྱོན་པ ། །"
