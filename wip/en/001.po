@@ -11281,7 +11281,7 @@ msgstr "Therefore, the mantra occurs in others as well."
 
 msgctxt "1af2d2826b854d3fbb0666b65e7a6a93"
 msgid "ལྷན་␣༽༽  སྔགས་ ནི་ སྡེ་སྣོད་ བཞི་པ་ ཡིན་ ཏེ་"
-msgstr ""
+msgstr "Addendum: Mantra is the fourth pitaka."
 
 msgctxt "1e238009bacb4258b16e5ca878b28fa0"
 msgid "ལེགས་ གྲུབ་ ལ་␣ས །"
