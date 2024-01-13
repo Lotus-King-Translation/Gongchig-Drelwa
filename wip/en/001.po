@@ -11257,7 +11257,7 @@ msgstr "All the lords of the present,"
 
 msgctxt "1bde8a80f04640f0a12044f2f3069481"
 msgid "འགྲོ་ ལ་ ཕན་ ཕྱིར་ བཞུགས་པ་ དག  །"
-msgstr ""
+msgstr "Those who dwell for the benefit of beings."
 
 msgctxt "2eab5d89db3c4c0999ccaf0b411b7513"
 msgid "ཆོ་ག་ བཟང་པོ་ འདི་ མཁྱེན་ ནས ། །"
