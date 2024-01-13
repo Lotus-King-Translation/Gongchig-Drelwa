@@ -11227,6 +11227,8 @@ msgstr ""
 msgctxt "f6f7561c523b44f7bb713a9cc732a83c"
 msgid "རང་ཉིད་ སངས་རྒྱས་པ་ ལ་ སྤང་བྱ་ ཕྲ་ རག་ ཐམས་ཅད་ སྤངས་ ཏེ་"
 msgstr ""
+"To become a buddha, one has to abandon all the gross and subtle objects of "
+"abandonment."
 
 msgctxt "4e85328c803749d7ab4b9763446c03d8"
 msgid "གདུལ་བྱ་ གཞན་ ལ་␣འང་ དེ་ སྟོན་ དགོས་ ཤིང་"
