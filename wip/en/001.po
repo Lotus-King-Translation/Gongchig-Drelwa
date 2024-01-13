@@ -11277,7 +11277,7 @@ msgstr "The buddhas of the past and so forth. "
 
 msgctxt "bdbc4c2d08ae42388dbfcd84a65271c6"
 msgid "དེས་ན་ སྔགས་ འབྱུང་བ་ གཞན་ ལ་␣འང་ ཡོད་ དོ །"
-msgstr ""
+msgstr "Therefore, the mantra occurs in others as well."
 
 msgctxt "1af2d2826b854d3fbb0666b65e7a6a93"
 msgid "ལྷན་␣༽༽  སྔགས་ ནི་ སྡེ་སྣོད་ བཞི་པ་ ཡིན་ ཏེ་"
