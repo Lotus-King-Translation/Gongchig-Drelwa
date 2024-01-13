@@ -11222,6 +11222,7 @@ msgstr ""
 msgctxt "a769da0382dd4e3bb9a214a4f2023c94"
 msgid "འདི་␣ར་ ནི་ སྟོན་པ་ དང་ བསྟན་པ་ གཞན་ ལ་␣འང་ སྔགས་ འབྱུང་ སྟེ་"
 msgstr ""
+"In this [system], the mantra also occurs during other buddhas and teachings."
 
 msgctxt "f6f7561c523b44f7bb713a9cc732a83c"
 msgid "རང་ཉིད་ སངས་རྒྱས་པ་ ལ་ སྤང་བྱ་ ཕྲ་ རག་ ཐམས་ཅད་ སྤངས་ ཏེ་"
