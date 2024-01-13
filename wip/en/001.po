@@ -11184,7 +11184,7 @@ msgstr "[We] will accomplish the yogic disciplines."
 
 msgctxt "7b496d98ff6e46daa298a8e6792252ab"
 msgid "ཅེས་ བསྔོས་པ་␣ས་ ཐོ་རངས་ སངས་རྒྱས་པ་ དང་ །"
-msgstr ""
+msgstr "Because of the dedication, at dawn, [they] attained buddhahood and "
 
 msgctxt "3a8d8b2d51174e5baabcaf929ffb4509"
 msgid "ལྷ་ སྦྱིན་ གྱི་ འགྱོགས་ རྡོས་ ཞབས་ ཀྱི་ སྐུ་མཚལ་ ལ་"
