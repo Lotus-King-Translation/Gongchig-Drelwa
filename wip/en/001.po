@@ -11370,7 +11370,7 @@ msgstr ""
 
 msgctxt "31ce8d059d9341c3a7bb1ef2a4ff6191"
 msgid "ལུང་ ཡང་ གསུམ་ ཀར་ ཡོད་པ་␣ས་"
-msgstr ""
+msgstr "There are scriptural passages for all three,"
 
 msgctxt "fc2fda60729146a1a060e7525efab3cb"
 msgid "འདི་ལྟར་ བྱས་ ན་ མི་ འགལ་ ཞིང་ ཆེས་ འཐད་པ་ ཡིན་ ནོ །"
