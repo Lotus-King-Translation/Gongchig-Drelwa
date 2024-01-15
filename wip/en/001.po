@@ -11331,6 +11331,7 @@ msgstr "In this way, each person explains their acceptance but"
 msgctxt "e556ce91fcb540b5b4875e55085cadd4"
 msgid "གཙོ་ ཆེ་␣ར་ མདོ་སྡེ་␣ར་ བསྡུ་བ་ འདི་ ཕལ་ གྱིས་ བཞེད་པ་␣ར་ སྣང་ངོ་ །"
 msgstr ""
+"It seems that most accept that it is mainly included in the sutra section."
 
 msgctxt "639b4798a333474583a71e0c7e77a4ff"
 msgid ""
