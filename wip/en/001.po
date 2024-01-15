@@ -11351,6 +11351,8 @@ msgctxt "be35453c32664f29bd4cd872ef6c4b58"
 msgid ""
 "དུག་ གསུམ་ སྤོང་ བྱེད་ སྡེ་སྣོད་ གསུམ་ གྱི་ དོན་ བསླབ་པ་ གསུམ་ ཡིན་པ་␣ས་"
 msgstr ""
+"The three trainings are the meaning of the three pitakas that abandon the "
+"three poisons."
 
 msgctxt "c94378852d1342918cb927043dc4a597"
 msgid "བསྐྱེད་རྫོགས་ ཟུང་འཇུག་ གིས་ སྤང་བྱ་ དྲུང་ ནས་ ཕྱུང་ སྟེ་"
