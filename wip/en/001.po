@@ -1699,7 +1699,7 @@ msgstr "The wheel of existence is taught in the five aspects."
 
 msgctxt "a4f6b1ba28b847d080703b2bdb8d88ee"
 msgid "ལུང་ ཡང་"
-msgstr "The scripture passage as well:"
+msgstr "The scriptural passage as well:"
 
 msgctxt "7aaf4eb95a3c44a3a2fc6f3a70b2cf2b"
 msgid "དགེ་སློང་ དག  ། ང་ དང་ ཁྱེད་ཅག་ ཁོ་ན་ ལ་␣ས །"
