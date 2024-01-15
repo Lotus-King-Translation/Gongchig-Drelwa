@@ -11375,6 +11375,8 @@ msgstr "There are scriptural passages for all three,"
 msgctxt "fc2fda60729146a1a060e7525efab3cb"
 msgid "འདི་ལྟར་ བྱས་ ན་ མི་ འགལ་ ཞིང་ ཆེས་ འཐད་པ་ ཡིན་ ནོ །"
 msgstr ""
+"If one does this, there is no contradiction, and it is very logically "
+"admissible."
 
 msgctxt "b6b59904e3764560be6a673f12f1ea08"
 msgid "རྡོ་␣༽༽  སྔགས་ ལ་ གཞི་ སྒོ་གསུམ་ རྡོ་རྗེ་ གསུམ་ གདོད་མ་ ནས་ གནས་པ །"
