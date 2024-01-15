@@ -11357,6 +11357,8 @@ msgstr ""
 msgctxt "c94378852d1342918cb927043dc4a597"
 msgid "བསྐྱེད་རྫོགས་ ཟུང་འཇུག་ གིས་ སྤང་བྱ་ དྲུང་ ནས་ ཕྱུང་ སྟེ་"
 msgstr ""
+"The union of generation and completion will remove the objects of "
+"abandonment from their roots."
 
 msgctxt "b2d6b7c4ad46415c84b6e5f95e99b0d1"
 msgid ""
