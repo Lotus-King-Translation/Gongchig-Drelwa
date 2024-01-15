@@ -11326,7 +11326,7 @@ msgstr ""
 
 msgctxt "981e9f9e72254fc89d358b73bda2bfd9"
 msgid "དེ་ལྟར་ སོ་སོ་␣ས་ འདོད་པ་ རེ་ བཤད་ ཀྱང་"
-msgstr ""
+msgstr "In this way, each person explains their acceptance but"
 
 msgctxt "e556ce91fcb540b5b4875e55085cadd4"
 msgid "གཙོ་ ཆེ་␣ར་ མདོ་སྡེ་␣ར་ བསྡུ་བ་ འདི་ ཕལ་ གྱིས་ བཞེད་པ་␣ར་ སྣང་ངོ་ །"
