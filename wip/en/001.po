@@ -11338,6 +11338,8 @@ msgid ""
 "འདི་␣ར་ ནི་ སྡེ་སྣོད་ གསུམ་ མམ་ དེ་ གསུམ་ ཁ་ ཡི་ སྙིང་པོ་ ལྟ་བུ་ སྔགས་ ཡིན་ "
 "ཏེ །"
 msgstr ""
+"In this [system], Mantra is the essence of the three pitakas or all of these"
+" three."
 
 msgctxt "4cc07e0598554186862e786ab0834923"
 msgid "གང་ཟག་ གཅིག་ འཚང་རྒྱ་བ་␣ར་ སྤང་བྱ་ བསྡུ་ ན་"
