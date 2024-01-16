@@ -11502,6 +11502,8 @@ msgid ""
 "དེ་ལྟ་ བུ་␣འི་ དབང་ གི་ དོན་ རང་རྒྱུད་ ལ་ ངེས་ཤེས་ སྐྱེས་ ན་ དབང་ ཐོབ་པ་␣ར་ "
 "བཞེད་ དོ །"
 msgstr ""
+"When the meaning of empowerment arises in one's mindstream with such "
+"certainty, it is accepted that one has obtained empowerment."
 
 msgctxt "acf37586c3a642ecb441b87045242493"
 msgid ""
