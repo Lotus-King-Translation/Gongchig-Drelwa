@@ -11394,7 +11394,7 @@ msgstr ""
 
 msgctxt "d07f30f2083243cf93ac8c49d083a2e5"
 msgid "འཇམ་དཔལ་ རྩ་རྒྱུད་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The Manjushri Root Tantra:"
 
 msgctxt "8d1621cd78054f369b08a0013d5ae688"
 msgid "གང་ཞིག་ དཀྱིལ་འཁོར་ མ་ མཐོང་བ །"
