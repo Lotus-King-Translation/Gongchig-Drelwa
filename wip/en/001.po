@@ -11433,7 +11433,7 @@ msgctxt "3242593db70147309684619cfcaba053"
 msgid "ཇི་ལྟར་ བསྐུར་བ་␣འི་ ཆོ་ག་ རྒྱུད་ ནས་ གསུངས་པ་ ལྟར་ སྦྱོར་བ་ སྟ་གོན །"
 msgstr ""
 "The preparatory liturgy is as said in the tantras for the ritual of "
-"conferral."
+"bestowing empowerment."
 
 msgctxt "8e742f1e74f44efe851f540a87fd50ca"
 msgid ""
