@@ -11538,6 +11538,8 @@ msgstr "obtains empowerment even without bestowing."
 msgctxt "ed3a33387ddc40639ca3c7f4b7dd99f8"
 msgid "འདི་␣ར་ ནི་ དབང་ རབ་ དེ་ལྟར་ རྟོགས་པ་ ཡོད་ ཀྱང་"
 msgstr ""
+"In this [system], although those of the best faculties may have such "
+"realization,"
 
 msgctxt "a3c301daef354afb98c4b6131f989828"
 msgid "རྒྱུད་པ་␣འི་ ཆོ་ག་ ཟབ་ ཕྱིར་"
