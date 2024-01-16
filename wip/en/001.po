@@ -11562,7 +11562,7 @@ msgstr ""
 
 msgctxt "cb57ec6d898d480c992e084e2178d1e6"
 msgid "ལོང་བ་␣ས་ ལོང་བ་ ཁྲིད་པ་ ལྟར་"
-msgstr ""
+msgstr "Like leading a blind person by a blind person."
 
 msgctxt "dfbfab30e5cc45369ad28ff48eabdc52"
 msgid "གཞན་དོན་ དུ་ དབང་ བསྐུར་བ་␣འི་ བཀའ་ མེད་པ་␣འི་ ཕྱིར་ དང་ །"
