@@ -11406,7 +11406,7 @@ msgstr "A yogin is x"
 
 msgctxt "864f3ec19c2d4c8f867f46cd68fc0536"
 msgid "མཁའ་ ལ་ ཁུ་ཚུར་ གྱིས་␣x"
-msgstr ""
+msgstr "Fist against space ...X"
 
 msgctxt "47c577e49c304c7fa3b83ed4ee51fde1"
 msgid "སྨིག་རྒྱུ་␣འི་ ཆུ་ ནི་␣x"
