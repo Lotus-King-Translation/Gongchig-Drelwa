@@ -11495,6 +11495,7 @@ msgstr ""
 msgctxt "b8243e8aec3b420894775b5ac8201ab0"
 msgid "སེམས་ཉིད་ སྐྱེ་ མེད་ དུ་ རྟོགས་པ་ ཚིག་དབང་ སྟེ །"
 msgstr ""
+"The realization that the mind itself is non-arising is the word empowerment."
 
 msgctxt "2e9972b4110c4bb6b13ba3035b2830df"
 msgid ""
