@@ -11490,7 +11490,7 @@ msgstr ""
 msgctxt "d9eec6bd325541a6b99146728e270f20"
 msgid "བདེ་སྟོང་ གི་ ཤེས་རབ་ ཡེ་ཤེས་ ཀྱི་ དབང་ །"
 msgstr ""
-"The wisdom of bliss and emptiness is for the primordial wisdom empowerment."
+"The wisdom of bliss and emptiness is the primordial wisdom empowerment."
 
 msgctxt "b8243e8aec3b420894775b5ac8201ab0"
 msgid "སེམས་ཉིད་ སྐྱེ་ མེད་ དུ་ རྟོགས་པ་ ཚིག་དབང་ སྟེ །"
