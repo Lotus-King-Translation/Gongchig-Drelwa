@@ -11474,6 +11474,8 @@ msgstr ""
 msgctxt "cd87b11bcfad443bbaceb00198967ae0"
 msgid "དེ་ཡང་ ཕུང་ ཁམས་ སྐྱེ་མཆེད་ དཀྱིལ་འཁོར་ གྱི་ འཁོར་ལོ་␣ར་"
 msgstr ""
+"Furthermore, the aggregates, elements, and sense fields are in the mandala's"
+" wheel."
 
 msgctxt "0fe0362911fe4a279fbd61eaffcb800d"
 msgid "ངེས་ཤེས་ ལྷན་ཅིག་ གིས་ སྐྱེས་པ་ བུམ་ དབང །"
