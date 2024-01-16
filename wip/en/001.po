@@ -11484,6 +11484,8 @@ msgstr "The arising of certainty together is the vase empowerment."
 msgctxt "0427050b292f4d3f8335be671df5e7c7"
 msgid "གསལ་སྟོང་ གི་ ཏིང་འཛིན་ སྐྱེས་པ་␣ར་ གསང་དབང་ །"
 msgstr ""
+"The secret empowerment is for the arising of the concentration of clarity-"
+"emptiness."
 
 msgctxt "d9eec6bd325541a6b99146728e270f20"
 msgid "བདེ་སྟོང་ གི་ ཤེས་རབ་ ཡེ་ཤེས་ ཀྱི་ དབང་ །"
