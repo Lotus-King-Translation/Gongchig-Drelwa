@@ -11579,6 +11579,7 @@ msgid ""
 "དེ་ བྱས་ ན་ དེ་␣འི་ རྒྱུད་ ལ་ ནུས་པ་␣འི་ ས་བོན་ འཇོག་པ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ "
 "། །"
 msgstr ""
+"When it is performed, the seed of potency is planted in the mindstream."
 
 msgctxt "33b2c41169174c93a74346c522e5221e"
 msgid "དབང་པོ་ ཐ་མ་␣ར་ ཡང་ བསྐུར་ དགོས་ ཏེ་"
