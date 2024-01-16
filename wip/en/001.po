@@ -11455,6 +11455,7 @@ msgstr ""
 msgctxt "4e2d0d67c51a4e718ea1e35e98d1c3be"
 msgid "གདམས་ངག་ རྗེས་ བསྟན་ གྱི་ རྟེན་འབྲེལ་ ལ་␣ས་"
 msgstr ""
+"Through the interdependence of the instructions and further teachings,"
 
 msgctxt "9273a5e62e8b413db03290eb6796b588"
 msgid "སྒོ་གསུམ་ ཐ་དད་ དུ་ འཛིན་པ་␣འི་ དྲི་མ་ དག་ ནས་"
