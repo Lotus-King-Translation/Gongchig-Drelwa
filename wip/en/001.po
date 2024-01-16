@@ -11543,7 +11543,7 @@ msgstr ""
 
 msgctxt "a3c301daef354afb98c4b6131f989828"
 msgid "རྒྱུད་པ་␣འི་ ཆོ་ག་ ཟབ་ ཕྱིར་"
-msgstr ""
+msgstr "Because the tantra’s ritual is profound,"
 
 msgctxt "099e953fd0084672b856677080337a21"
 msgid "དེ་␣འི་ ཆོ་ག་ ནི་ ངེས་པར་ དགོས་་ ཏེ་"
