@@ -11414,7 +11414,7 @@ msgstr "Mirage water is ....X"
 
 msgctxt "2ad0ae4866fa47bcaab941d97a32a9da"
 msgid "ཅེས་པ་␣ས་ དབང་ བསྐུར་ སྔོན་ དུ་ དགོས །"
-msgstr ""
+msgstr "Thus, the empowerment must [go] first."
 
 msgctxt "04c462f864dc46e49e4de5e887d5a964"
 msgid "དེ་␣འང་ གང་ གིས་ བསྐུར་བ་ རྡོ་རྗེ་ སློབ་དཔོན་ རབ་ འབྲིང་ ཐ་ གསུམ །"
