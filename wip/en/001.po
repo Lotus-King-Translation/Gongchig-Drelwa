@@ -11515,7 +11515,7 @@ msgstr ""
 
 msgctxt "8f65b18d4b604ea6ac7085084c9d59f9"
 msgid "བསྐུར་ ན་ ཐོབ་པ །"
-msgstr ""
+msgstr "obtain empowerment by bestowing,"
 
 msgctxt "27ed11c203ba4fc7ac16fa1c85e55c1f"
 msgid "བསྐུར་ ཡང་ མི་ ཐོབ་པ་ དང་ གསུམ་ ལ་␣ས །"
