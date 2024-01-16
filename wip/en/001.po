@@ -11519,7 +11519,7 @@ msgstr "obtain empowerment by bestowing,"
 
 msgctxt "27ed11c203ba4fc7ac16fa1c85e55c1f"
 msgid "བསྐུར་ ཡང་ མི་ ཐོབ་པ་ དང་ གསུམ་ ལ་␣ས །"
-msgstr ""
+msgstr "and not obtaining even by bestowing. From these three"
 
 msgctxt "f0ef51a352ee490294b0a5eab7b00f63"
 msgid "དབང་ རབ་ དང་པོ །"
