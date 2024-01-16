@@ -11528,6 +11528,8 @@ msgstr "The first is the best empowerment."
 msgctxt "aa9f8b708a904f96ab2b023759b4598c"
 msgid "དེ་ལྟ་ བུ་ ནི་ བླ་མ་␣ར་ མོས་གུས་ ཀྱིས་ སྒོ་གསུམ་ གྱི་ དྲི་མ་ དག་པ་␣ས་"
 msgstr ""
+"It is said that such a person, through devotion to the guru, purifies the "
+"stains of the three doors and"
 
 msgctxt "ed73a79ca9ee4087a34fe505601c2b24"
 msgid "མ་ བསྐུར་ ཡང་ ཐོབ་པ་ ཡིན་ ཟེར་ རོ །"
