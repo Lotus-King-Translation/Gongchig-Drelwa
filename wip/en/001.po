@@ -11450,7 +11450,7 @@ msgstr "In this system, by a qualified master,"
 
 msgctxt "ffc00f210b01470e84d3df6b6fe2a5cd"
 msgid "སློབ་མ་ མོས་གུས་ དང་ ལྡན་པ་␣ར་"
-msgstr ""
+msgstr "To devoted disciples"
 
 msgctxt "4e2d0d67c51a4e718ea1e35e98d1c3be"
 msgid "གདམས་ངག་ རྗེས་ བསྟན་ གྱི་ རྟེན་འབྲེལ་ ལ་␣ས་"
