@@ -11523,7 +11523,7 @@ msgstr "and not obtaining even by bestowing. From these three"
 
 msgctxt "f0ef51a352ee490294b0a5eab7b00f63"
 msgid "དབང་ རབ་ དང་པོ །"
-msgstr ""
+msgstr "The first is the best empowerment."
 
 msgctxt "aa9f8b708a904f96ab2b023759b4598c"
 msgid "དེ་ལྟ་ བུ་ ནི་ བླ་མ་␣ར་ མོས་གུས་ ཀྱིས་ སྒོ་གསུམ་ གྱི་ དྲི་མ་ དག་པ་␣ས་"
