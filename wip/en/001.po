@@ -11510,6 +11510,8 @@ msgid ""
 "ལྷན་␣༽༽  གང་ཟག་ རབ་ འབྲིང་ ཐ་ གསུམ་ ལ་ རིམ་བཞིན་ དབང་མ་ བསྐུར་ ཡང་ ཐོབ་པ་ "
 "དང༌ །"
 msgstr ""
+"Addendum: The three types of persons: higher, middling, and lower "
+"respectively, obtain empowerment even without bestowing and"
 
 msgctxt "8f65b18d4b604ea6ac7085084c9d59f9"
 msgid "བསྐུར་ ན་ ཐོབ་པ །"
