@@ -11386,7 +11386,7 @@ msgstr ""
 
 msgctxt "18e0710e9cc04b1aa5f982ba7e7b2f1b"
 msgid "ལམ་ སྨིན་གྲོལ་ གཉིས །"
-msgstr "The path of ripening and liberating."
+msgstr "The two paths of ripening and liberating."
 
 msgctxt "675f79e32797407d919db1e6c87dadab"
 msgid "འབྲས་བུ་ སྐུ་བཞི་ སྟེ་ གསུམ་ ལ་␣ས །"
