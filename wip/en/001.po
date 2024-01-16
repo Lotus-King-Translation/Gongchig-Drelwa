@@ -11547,7 +11547,7 @@ msgstr "Because the tantra’s ritual is profound,"
 
 msgctxt "099e953fd0084672b856677080337a21"
 msgid "དེ་␣འི་ ཆོ་ག་ ནི་ ངེས་པར་ དགོས་་ ཏེ་"
-msgstr ""
+msgstr "its ritual is certainly necessary. "
 
 msgctxt "e198a06ac6be4db99ee474dc2defd3a7"
 msgid "དབང་ རབ་ ཡིན་ཡང་ མ་ སྨིན་པ་ ཡིན་པ་␣ས་"
