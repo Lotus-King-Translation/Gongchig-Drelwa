@@ -11398,7 +11398,7 @@ msgstr "According to The Manjushri Root Tantra:"
 
 msgctxt "8d1621cd78054f369b08a0013d5ae688"
 msgid "གང་ཞིག་ དཀྱིལ་འཁོར་ མ་ མཐོང་བ །"
-msgstr "One who who has not seen the mandala."
+msgstr "One who has not seen the mandala."
 
 msgctxt "43212e73e63d4245a09f85a753ee732c"
 msgid "རྣལ་འབྱོར་པ་ ནི་␣x"
