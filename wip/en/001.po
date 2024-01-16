@@ -11426,6 +11426,8 @@ msgctxt "3ca05b44e6f444369d52f7d4aa22ee00"
 msgid ""
 "གང་ ལ་ བསྐུར་བ་ རྟེན་ གྱི་ གང་ཟག་ སྐྱབས་འགྲོ་ སོགས་ ཀྱིས་ རྒྱུད་ དག་པ །"
 msgstr ""
+"Those who receive the empowerment must have a pure mindstream, by taking "
+"refuge and so forth."
 
 msgctxt "3242593db70147309684619cfcaba053"
 msgid "ཇི་ལྟར་ བསྐུར་བ་␣འི་ ཆོ་ག་ རྒྱུད་ ནས་ གསུངས་པ་ ལྟར་ སྦྱོར་བ་ སྟ་གོན །"
