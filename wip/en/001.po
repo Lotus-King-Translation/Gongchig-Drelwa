@@ -11533,7 +11533,7 @@ msgstr ""
 
 msgctxt "ed73a79ca9ee4087a34fe505601c2b24"
 msgid "མ་ བསྐུར་ ཡང་ ཐོབ་པ་ ཡིན་ ཟེར་ རོ །"
-msgstr ""
+msgstr "obtains empowerment even without bestowing."
 
 msgctxt "ed3a33387ddc40639ca3c7f4b7dd99f8"
 msgid "འདི་␣ར་ ནི་ དབང་ རབ་ དེ་ལྟར་ རྟོགས་པ་ ཡོད་ ཀྱང་"
