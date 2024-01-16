@@ -11410,7 +11410,7 @@ msgstr "Fist against space ...X"
 
 msgctxt "47c577e49c304c7fa3b83ed4ee51fde1"
 msgid "སྨིག་རྒྱུ་␣འི་ ཆུ་ ནི་␣x"
-msgstr ""
+msgstr "Mirage water is ....X"
 
 msgctxt "2ad0ae4866fa47bcaab941d97a32a9da"
 msgid "ཅེས་པ་␣ས་ དབང་ བསྐུར་ སྔོན་ དུ་ དགོས །"
