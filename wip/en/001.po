@@ -11468,6 +11468,8 @@ msgstr "By introducing the three vajras,"
 msgctxt "880becc810c441af8348c90ad67dbfec"
 msgid "ངེས་ཤེས་ རྟོགས་པ་ སྐྱེས་པ་␣ར་ དོན་ གྱི་ དབང་ ཐོབ་པ་ ཞེས་ བྱ །"
 msgstr ""
+"When the realization of certainty arises, this is known as obtaining the "
+"actual empowerment."
 
 msgctxt "cd87b11bcfad443bbaceb00198967ae0"
 msgid "དེ་ཡང་ ཕུང་ ཁམས་ སྐྱེ་མཆེད་ དཀྱིལ་འཁོར་ གྱི་ འཁོར་ལོ་␣ར་"
