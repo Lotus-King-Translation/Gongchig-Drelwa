@@ -11557,6 +11557,8 @@ msgctxt "067a55a4c28747bea7d3f0959db5aee0"
 msgid ""
 "དཔོན་སློབ་ གཉིས་ཀ་␣ར་ གསང་ སྒྲོགས་ ཀྱི་ རྩ་ལྟུང་ ཕོག་པ་␣འི་ ཕྱིར་ དང་ །"
 msgstr ""
+"So both master and disciple incur the root downfall of proclaiming the "
+"secret, "
 
 msgctxt "cb57ec6d898d480c992e084e2178d1e6"
 msgid "ལོང་བ་␣ས་ ལོང་བ་ ཁྲིད་པ་ ལྟར་"
