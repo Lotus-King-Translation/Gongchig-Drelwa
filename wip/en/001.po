@@ -11402,7 +11402,7 @@ msgstr "One who has not seen the mandala."
 
 msgctxt "43212e73e63d4245a09f85a753ee732c"
 msgid "རྣལ་འབྱོར་པ་ ནི་␣x"
-msgstr "A yogin is "
+msgstr "A yogin is x"
 
 msgctxt "864f3ec19c2d4c8f867f46cd68fc0536"
 msgid "མཁའ་ ལ་ ཁུ་ཚུར་ གྱིས་␣x"
