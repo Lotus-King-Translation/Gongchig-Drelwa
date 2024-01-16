@@ -11463,7 +11463,7 @@ msgstr "The stains of grasping the three doors as distinct are purified,"
 
 msgctxt "36acdcddf7fb44deb395bdff66f504c9"
 msgid "རྡོ་རྗེ་ གསུམ་ དུ་ ངོ་ སྤྲད་པ་␣ས་"
-msgstr ""
+msgstr "By introducing the three vajras,"
 
 msgctxt "880becc810c441af8348c90ad67dbfec"
 msgid "ངེས་ཤེས་ རྟོགས་པ་ སྐྱེས་པ་␣ར་ དོན་ གྱི་ དབང་ ཐོབ་པ་ ཞེས་ བྱ །"
