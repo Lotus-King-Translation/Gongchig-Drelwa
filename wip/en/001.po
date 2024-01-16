@@ -11479,7 +11479,7 @@ msgstr ""
 
 msgctxt "0fe0362911fe4a279fbd61eaffcb800d"
 msgid "ངེས་ཤེས་ ལྷན་ཅིག་ གིས་ སྐྱེས་པ་ བུམ་ དབང །"
-msgstr ""
+msgstr "The arising of certainty together is the vase empowerment."
 
 msgctxt "0427050b292f4d3f8335be671df5e7c7"
 msgid "གསལ་སྟོང་ གི་ ཏིང་འཛིན་ སྐྱེས་པ་␣ར་ གསང་དབང་ །"
