@@ -11551,7 +11551,7 @@ msgstr "its ritual is certainly necessary. "
 
 msgctxt "e198a06ac6be4db99ee474dc2defd3a7"
 msgid "དབང་ རབ་ ཡིན་ཡང་ མ་ སྨིན་པ་ ཡིན་པ་␣ས་"
-msgstr ""
+msgstr "Even if [they] are of the best faculties, [they] are immature, "
 
 msgctxt "067a55a4c28747bea7d3f0959db5aee0"
 msgid ""
