@@ -11572,7 +11572,7 @@ msgstr ""
 
 msgctxt "31a23aac942f4ff4bc57cee72dfe34b8"
 msgid "ཆོ་ག་ སངས་རྒྱས་ ཀྱི་ ཡེ་ཤེས་ ཡིན་ ཅིང་"
-msgstr ""
+msgstr "The ritual is the primordial wisdom of buddhas."
 
 msgctxt "2c962128a2884caf81a201c38369a9ec"
 msgid ""
