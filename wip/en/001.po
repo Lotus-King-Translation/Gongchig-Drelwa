@@ -11419,6 +11419,8 @@ msgstr "Thus, the empowerment must [go] first."
 msgctxt "04c462f864dc46e49e4de5e887d5a964"
 msgid "དེ་␣འང་ གང་ གིས་ བསྐུར་བ་ རྡོ་རྗེ་ སློབ་དཔོན་ རབ་ འབྲིང་ ཐ་ གསུམ །"
 msgstr ""
+"The one who bestows the empowerment is the vajra master, who may be of the "
+"high, medium, or low capacity,"
 
 msgctxt "3ca05b44e6f444369d52f7d4aa22ee00"
 msgid ""
