@@ -11381,6 +11381,8 @@ msgstr ""
 msgctxt "b6b59904e3764560be6a673f12f1ea08"
 msgid "རྡོ་␣༽༽  སྔགས་ ལ་ གཞི་ སྒོ་གསུམ་ རྡོ་རྗེ་ གསུམ་ གདོད་མ་ ནས་ གནས་པ །"
 msgstr ""
+"Vajra: There are the three doors of the ground, the three vajras in mantra, "
+"which have existed primarily."
 
 msgctxt "18e0710e9cc04b1aa5f982ba7e7b2f1b"
 msgid "ལམ་ སྨིན་གྲོལ་ གཉིས །"
