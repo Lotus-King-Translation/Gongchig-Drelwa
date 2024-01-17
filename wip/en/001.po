@@ -11735,7 +11735,7 @@ msgstr "Therefore,"
 
 msgctxt "2cb33e2c509646dcba0618e1b72b322b"
 msgid "ལྷ་␣འི་ གྲངས་ ནི་ ཕྱོགས་ འདོག་ ཚང་བ་␣འམ་"
-msgstr ""
+msgstr "The number of deities is partially complete,"
 
 msgctxt "0fa7fbea25d84e3f8c9a9555714a3726"
 msgid "རིགས་ གཅིག་པ་␣ས་ ཀྱང་ དབང་ བསྐུར་ ཐོབ་པ་␣ར་ འགྲོ་བ་ ཡིན་ ནོ །"
