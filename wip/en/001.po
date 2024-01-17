@@ -11589,6 +11589,8 @@ msgctxt "fae5dfaad0af45ad85b776da49e6752f"
 msgid ""
 "བག་ཆགས་ ཀྱི་ རྒྱུས་ ནམ་ཞིག་ ན་ འབྲས་བུ་ འདོར་བ་ མི་ སྲིད་པ་␣འི་ ཕྱིར་ རོ ། །"
 msgstr ""
+"This is because it is impossible for a cause of latent tendency to ever "
+"discard its result."
 
 msgctxt "c962e6508fc74f9187708e6645d43205"
 msgid "གཞི་ འམ་ ལུས་ ལྟ་བུ་ བུམ་ དབང་ རེ་ ལ་མ་ བརྟེན་ ཐབས་མེད་ ཡིན་ ནོ ། །"
