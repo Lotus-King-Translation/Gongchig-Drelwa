@@ -11659,6 +11659,8 @@ msgstr "the eight sattvas are the seats of buddhas and bodhisattvas."
 msgctxt "07adf61c4c07449ba06ad91b7184f187"
 msgid "འབྱུང་ ལྔ་ ཡུམ་ ལྔ་ ཡུལ་ བརྒྱད་ སེམས་མ་ བརྒྱད་ ནི་"
 msgstr ""
+"The five elements, five mothers, eight objects, and eight female "
+"bodhisattvas are "
 
 msgctxt "6b9fff07aeb348b2b8a6beddc096cf03"
 msgid "རིག་མ་ དང་ ལྷ་མོ་␣འི་ གདན །"
