@@ -11674,7 +11674,7 @@ msgstr ""
 
 msgctxt "aeeae2a2fcf5447998e1c5071ae47669"
 msgid "ཁྲོ་བོ་ ཁྲོ་མོ་␣འི་ གདན་ ཡིན་པ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "the seats of wrathful male and female ones."
 
 msgctxt "9f8d2aa6f2b24e90aa3f6b5ad9cc8c79"
 msgid "རྣལ་འབྱོར་ མ་ ལྷ་ གཅིག་"
