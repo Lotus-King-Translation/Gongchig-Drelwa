@@ -11613,7 +11613,7 @@ msgstr ""
 
 msgctxt "7ed2fd142a8642eda19acb59c9bb9329"
 msgid "རིག་མ་ དང་ ལྷ་མོ་␣འི་ གདན །"
-msgstr ""
+msgstr "the seats of the consort and the goddess,"
 
 msgctxt "8302a747ea83405ab3677314db404de2"
 msgid "ཁྲོ་བོ་ དང་ ཁྲོ་མོ་␣འི་ གདན་ ཏེ་"
