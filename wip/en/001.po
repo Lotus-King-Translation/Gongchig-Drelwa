@@ -11654,7 +11654,7 @@ msgstr ""
 
 msgctxt "846e083b20d444e28ee01a9182aa5988"
 msgid "སེམས་དཔའ་ བརྒྱད་ ནི་ སངས་རྒྱས་ བྱང་སེམས་ ཀྱི་ གདན །"
-msgstr ""
+msgstr "the eight sattvas are the seats of buddhas and bodhisattvas."
 
 msgctxt "07adf61c4c07449ba06ad91b7184f187"
 msgid "འབྱུང་ ལྔ་ ཡུམ་ ལྔ་ ཡུལ་ བརྒྱད་ སེམས་མ་ བརྒྱད་ ནི་"
