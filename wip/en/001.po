@@ -11686,7 +11686,8 @@ msgstr "or five-deity [yogini], "
 
 msgctxt "78066b27a4314afe9ea682e78f400869"
 msgid "ཕུང་ ཁམས་ སྐྱེ་མཆེད་ སངས་རྒྱས་ སུ་ ངོ་འཕྲོད་ ན་"
-msgstr "If the aggregates, elements, and sensory fields are met as buddhas,"
+msgstr ""
+"If the aggregates, elements, and sensory fields are recognized as buddhas,"
 
 msgctxt "8dadb65bd17b411e9ef4283864eecc85"
 msgid "བུམ་ དབང་ ཐོབ་ ཅིང་"
