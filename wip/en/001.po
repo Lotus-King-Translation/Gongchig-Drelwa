@@ -11678,7 +11678,7 @@ msgstr "the seats of wrathful male and female ones."
 
 msgctxt "9f8d2aa6f2b24e90aa3f6b5ad9cc8c79"
 msgid "རྣལ་འབྱོར་ མ་ ལྷ་ གཅིག་"
-msgstr ""
+msgstr "A single deity of yogini"
 
 msgctxt "db16e860aee745f882079866757e7471"
 msgid "ལྷ་ ལྔ་ གང་ཡིན་ ཡང་"
