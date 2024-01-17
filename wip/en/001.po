@@ -11760,6 +11760,8 @@ msgctxt "6589d0d956e4453399a90b0f016ac625"
 msgid ""
 "ངོ་བོ་ གཅིག་ ཅིང་ ཕྲིན་ལས་ རྣམས་ ཀྱང་ རྒྱུན་ མི་འཆད་པ་␣ར་ འདུ་བ་␣འི་ ཕྱིར །"
 msgstr ""
+"Because their essence is one, and the enlightened activities are "
+"uninterruptedly collected."
 
 msgctxt "41cf177bfbc841c2b83ee76671499979"
 msgid "བརྟགས་ གཉིས་ ལ་␣ས །"
