@@ -11669,6 +11669,8 @@ msgstr "The seats of consorts and goddesses."
 msgctxt "8340e3e029bd4eeea261a0348814643d"
 msgid "ཚིག་ ཆེན་ བཅུ་ ཁྲོ་ བཅུ་ ཡུལ་ བཅུ་ ཁྲོ་མོ་ བཅུ་ ནི་"
 msgstr ""
+"The ten great words, ten wrathful ones, ten objects, and ten wrathful "
+"females are "
 
 msgctxt "aeeae2a2fcf5447998e1c5071ae47669"
 msgid "ཁྲོ་བོ་ ཁྲོ་མོ་␣འི་ གདན་ ཡིན་པ་␣འི་ ཕྱིར་ དང༌ །"
