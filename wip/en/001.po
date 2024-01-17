@@ -11639,7 +11639,7 @@ msgstr "and have become Buddhas in a single mandala wheel."
 
 msgctxt "354db05cfecf4250bc4ef9d8538f9cab"
 msgid "གདན་ ཅེས་པ་ རྟེན་ སྒྱུ་མ་␣འི་ ལུས་ ལ་"
-msgstr ""
+msgstr "The seats are the supports for the illusory body, "
 
 msgctxt "5df5074951d44e0a9c71b992a27c4d10"
 msgid "རང་རིག་ བྱང་ཆུབ་ ཀྱི་ སེམས་ བརྟེན་པ་␣འི་ ཚུལ་ དུ་ གནས་ ཤིང་"
