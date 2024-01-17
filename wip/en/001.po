@@ -11635,7 +11635,7 @@ msgstr ""
 
 msgctxt "aaae937f1bbf4489bd4c51249165dd3e"
 msgid "དཀྱིལ་འཁོར་ གྱི་ འཁོར་ལོ་ གཅིག་ ཏུ་ སངས་རྒྱས་པ་␣འི་ ཕྱིར་ དང་ །"
-msgstr ""
+msgstr "and have become Buddhas in a single mandala wheel."
 
 msgctxt "354db05cfecf4250bc4ef9d8538f9cab"
 msgid "གདན་ ཅེས་པ་ རྟེན་ སྒྱུ་མ་␣འི་ ལུས་ ལ་"
