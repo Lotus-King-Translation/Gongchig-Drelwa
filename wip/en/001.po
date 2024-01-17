@@ -11731,7 +11731,7 @@ msgstr "Because they are not complete directly."
 
 msgctxt "71bea48525eb434e9692cb395721ff00"
 msgid "དེ་བས་ན་"
-msgstr ""
+msgstr "Therefore,"
 
 msgctxt "2cb33e2c509646dcba0618e1b72b322b"
 msgid "ལྷ་␣འི་ གྲངས་ ནི་ ཕྱོགས་ འདོག་ ཚང་བ་␣འམ་"
