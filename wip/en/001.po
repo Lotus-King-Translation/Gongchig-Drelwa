@@ -11740,6 +11740,7 @@ msgstr "The number of deities is complete in a group,"
 msgctxt "0fa7fbea25d84e3f8c9a9555714a3726"
 msgid "རིགས་ གཅིག་པ་␣ས་ ཀྱང་ དབང་ བསྐུར་ ཐོབ་པ་␣ར་ འགྲོ་བ་ ཡིན་ ནོ །"
 msgstr ""
+"and even if they are from the same family, they will obtain empowerment."
 
 msgctxt "20206f58e4ad47ac99e2fa4225b9ed6f"
 msgid ""
