@@ -11682,7 +11682,7 @@ msgstr " A single deity yogini or"
 
 msgctxt "db16e860aee745f882079866757e7471"
 msgid "ལྷ་ ལྔ་ གང་ཡིན་ ཡང་"
-msgstr "or five deities, "
+msgstr "or five-deity [yogini], "
 
 msgctxt "78066b27a4314afe9ea682e78f400869"
 msgid "ཕུང་ ཁམས་ སྐྱེ་མཆེད་ སངས་རྒྱས་ སུ་ ངོ་འཕྲོད་ ན་"
