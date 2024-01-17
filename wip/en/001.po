@@ -11709,7 +11709,7 @@ msgstr "are included within one family."
 
 msgctxt "c269f94e2f1c486590df5d0430436d07"
 msgid "དོན་ གྱིས་ དེ་ལྟར་ ཚང་ ཡང་"
-msgstr "If one says, \"Although they are all complete like this in meaning, "
+msgstr "If one says, \"Although they are all complete like this in actuality, "
 
 msgctxt "189cc94361e04c75bdb59557471a4c8a"
 msgid "དངོས་ སུ་ མ་ཚང་ བས་ མི་ ཐོབ་ ཅེ་ན །"
