@@ -11717,7 +11717,7 @@ msgstr "but they are not complete in actuality, so they are not attained. ”"
 
 msgctxt "1b307932673a4030ac43492c35136140"
 msgid "དེ་ལྟར་ ན་ འཇམ་རྡོར་ མ་གཏོགས་"
-msgstr ""
+msgstr "In that way, except for Manjuvajra,"
 
 msgctxt "80269387354b4aaa8f1cb7734d0c6894"
 msgid "དུས་  གསང་ བདེ་ དགྱེས་ གང་ གིས་ ཀྱང་ མི་ ཐོབ་ སྟེ་"
