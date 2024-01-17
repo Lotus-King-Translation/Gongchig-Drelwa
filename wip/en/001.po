@@ -11722,6 +11722,8 @@ msgstr "In that way, except for Manjuvajra,"
 msgctxt "80269387354b4aaa8f1cb7734d0c6894"
 msgid "དུས་  གསང་ བདེ་ དགྱེས་ གང་ གིས་ ཀྱང་ མི་ ཐོབ་ སྟེ་"
 msgstr ""
+"None of Chakrasamvara, Hevajra, or anybody else has obtained the secret of "
+"time."
 
 msgctxt "8c6ac825e8554b9e916d2b486f9e25df"
 msgid "དངོས་ སུ་ མི་ཚང་བ་␣འི་ ཕྱིར་ རོ ། །"
