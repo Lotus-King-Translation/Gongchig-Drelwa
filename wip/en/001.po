@@ -11595,6 +11595,8 @@ msgstr ""
 msgctxt "c962e6508fc74f9187708e6645d43205"
 msgid "གཞི་ འམ་ ལུས་ ལྟ་བུ་ བུམ་ དབང་ རེ་ ལ་མ་ བརྟེན་ ཐབས་མེད་ ཡིན་ ནོ ། །"
 msgstr ""
+"Therefore, there is no choice but to rely on each of the vase empowerment, "
+"like a base or body."
 
 msgctxt "8d9ebd0f8a1a4e86957c716354c81e60"
 msgid "རྡོ་␣༽༽  དབང་ བཞི་ ལ་␣ས་"
