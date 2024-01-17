@@ -11713,7 +11713,7 @@ msgstr "If one says, \"Although they are all complete like this in meaning, "
 
 msgctxt "189cc94361e04c75bdb59557471a4c8a"
 msgid "དངོས་ སུ་ མ་ཚང་ བས་ མི་ ཐོབ་ ཅེ་ན །"
-msgstr ""
+msgstr "but they are not complete in actuality, so they are not attained. ”"
 
 msgctxt "1b307932673a4030ac43492c35136140"
 msgid "དེ་ལྟར་ ན་ འཇམ་རྡོར་ མ་གཏོགས་"
