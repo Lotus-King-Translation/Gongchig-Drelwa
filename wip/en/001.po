@@ -11624,6 +11624,8 @@ msgid ""
 "དེ་ གསུམ་ མ་ཚང་བ་ རྡོ་རྗེ་ རྣལ་འབྱོར་ མ་ ལྟ་བུ་␣ས་ ནི་ མི་ ཐོབ་ ཅེས་ ཟེར་ རོ"
 " ། །"
 msgstr ""
+"It is said that if these three are not complete, then the level such as "
+"Vajrayogini, will not attain."
 
 msgctxt "9c9a387ad0964ba29ba9c163cb24de75"
 msgid "འདི་␣ར་ ནི་ སངས་རྒྱས་ རྣམས་ ཤིན་ཏུ་ ཕྲ་བ་␣འི་ བག་ཆགས་ སྤངས་ ཏེ་"
