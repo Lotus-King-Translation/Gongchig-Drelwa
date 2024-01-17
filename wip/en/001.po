@@ -11691,7 +11691,7 @@ msgstr ""
 
 msgctxt "8dadb65bd17b411e9ef4283864eecc85"
 msgid "བུམ་ དབང་ ཐོབ་ ཅིང་"
-msgstr ""
+msgstr "The vase empowerment is obtained."
 
 msgctxt "d3702712ad0e4846b55b48923495910b"
 msgid "དེ་ ལ་ བརྟེན་ ནས་ དབང་ གསུམ་པོ་ ཡང་ ཐོབ་པ་␣ར་ འགྱུར་ ཞིང་"
