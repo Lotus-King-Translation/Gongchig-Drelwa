@@ -11765,7 +11765,7 @@ msgstr ""
 
 msgctxt "41cf177bfbc841c2b83ee76671499979"
 msgid "བརྟགས་ གཉིས་ ལ་␣ས །"
-msgstr ""
+msgstr "From the two analyses,"
 
 msgctxt "ef1040befc524049b05fae46a9a7043d"
 msgid "སེམས་ ནི་ ཆེན་པོ་ གཅིག་ཉིད་ ལ་␣ས ། །"
