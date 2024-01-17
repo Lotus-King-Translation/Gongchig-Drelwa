@@ -11705,7 +11705,7 @@ msgstr ""
 
 msgctxt "feae34966d404160a7ae25d7cfbadf18"
 msgid "རིགས་ གཅིག་ ཏུ་ འདུ་བ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "are included within one family."
 
 msgctxt "c269f94e2f1c486590df5d0430436d07"
 msgid "དོན་ གྱིས་ དེ་ལྟར་ ཚང་ ཡང་"
