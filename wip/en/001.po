@@ -11644,6 +11644,7 @@ msgstr "The seats are the supports for the illusory body, "
 msgctxt "5df5074951d44e0a9c71b992a27c4d10"
 msgid "རང་རིག་ བྱང་ཆུབ་ ཀྱི་ སེམས་ བརྟེན་པ་␣འི་ ཚུལ་ དུ་ གནས་ ཤིང་"
 msgstr ""
+"in which the self-knowing bodhicitta abides as a way of being supported."
 
 msgctxt "414b6071a34445e08628df49f5eab8d4"
 msgid "དེ་␣འང་ བདག་ གི་ ཕུང་ ལྔ་ སངས་རྒྱས་ ལྔ་ ཚོགས་ བརྒྱད་"
