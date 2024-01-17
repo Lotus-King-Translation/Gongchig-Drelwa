@@ -11630,6 +11630,8 @@ msgstr ""
 msgctxt "9c9a387ad0964ba29ba9c163cb24de75"
 msgid "འདི་␣ར་ ནི་ སངས་རྒྱས་ རྣམས་ ཤིན་ཏུ་ ཕྲ་བ་␣འི་ བག་ཆགས་ སྤངས་ ཏེ་"
 msgstr ""
+"In this [system], the Buddhas have abandoned the most subtle latent "
+"tendencies."
 
 msgctxt "aaae937f1bbf4489bd4c51249165dd3e"
 msgid "དཀྱིལ་འཁོར་ གྱི་ འཁོར་ལོ་ གཅིག་ ཏུ་ སངས་རྒྱས་པ་␣འི་ ཕྱིར་ དང་ །"
