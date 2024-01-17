@@ -11649,6 +11649,8 @@ msgstr ""
 msgctxt "414b6071a34445e08628df49f5eab8d4"
 msgid "དེ་␣འང་ བདག་ གི་ ཕུང་ ལྔ་ སངས་རྒྱས་ ལྔ་ ཚོགས་ བརྒྱད་"
 msgstr ""
+"Furthermore, the five aggregates of self, the five buddhas, the eight "
+"assemblies and "
 
 msgctxt "846e083b20d444e28ee01a9182aa5988"
 msgid "སེམས་དཔའ་ བརྒྱད་ ནི་ སངས་རྒྱས་ བྱང་སེམས་ ཀྱི་ གདན །"
