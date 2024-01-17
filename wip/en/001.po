@@ -11753,6 +11753,8 @@ msgstr ""
 msgctxt "23858e46dce3481397a1e0e418d3ff96"
 msgid "འདི་␣ར་ ནི་ ལྷ་ གཅིག་ གིས་་  ཀྱང་ ཕྲིན་ལས་ ཐམས་ཅད་ འགྲུབ་པ་ ཡིན་ ཏེ་"
 msgstr ""
+"In this [system], even a single deity can accomplish all the enlightened "
+"activities."
 
 msgctxt "6589d0d956e4453399a90b0f016ac625"
 msgid ""
