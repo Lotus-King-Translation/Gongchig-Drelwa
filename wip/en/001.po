@@ -11664,7 +11664,7 @@ msgstr ""
 
 msgctxt "6b9fff07aeb348b2b8a6beddc096cf03"
 msgid "རིག་མ་ དང་ ལྷ་མོ་␣འི་ གདན །"
-msgstr ""
+msgstr "The seats of consorts and goddesses."
 
 msgctxt "8340e3e029bd4eeea261a0348814643d"
 msgid "ཚིག་ ཆེན་ བཅུ་ ཁྲོ་ བཅུ་ ཡུལ་ བཅུ་ ཁྲོ་མོ་ བཅུ་ ནི་"
