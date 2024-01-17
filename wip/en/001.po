@@ -11700,6 +11700,8 @@ msgstr "In dependence on that the three empowerments are also obtained."
 msgctxt "d421d811d9b343a1b89cce05314c144e"
 msgid "རིགས་བརྒྱ་ རིགས་ ལྔ་ རིགས་གསུམ་ སོགས་"
 msgstr ""
+"This is because one hundred families, five families, three families, and so "
+"forth "
 
 msgctxt "feae34966d404160a7ae25d7cfbadf18"
 msgid "རིགས་ གཅིག་ ཏུ་ འདུ་བ་␣འི་ ཕྱིར་ རོ ། །"
