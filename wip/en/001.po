@@ -11600,7 +11600,7 @@ msgstr ""
 
 msgctxt "8d9ebd0f8a1a4e86957c716354c81e60"
 msgid "རྡོ་␣༽༽  དབང་ བཞི་ ལ་␣ས་"
-msgstr "Vajra: It is said that from the four empowerments,"
+msgstr "Vajra: From the four empowerments,"
 
 msgctxt "726a6878edb14424a49e61f619e12cc8"
 msgid ""
