@@ -11781,7 +11781,7 @@ msgstr "From those five families,"
 
 msgctxt "b5a3c26ea66d41bf885c965a33eb634a"
 msgid "སྟོང་ཕྲག་ དུ་མ་ སྐྱེ་བ་ ཉིད །"
-msgstr ""
+msgstr "Many thousands will arise."
 
 msgctxt "069134f5913745fab5ed5fc3f5c7c697"
 msgid "དེ་ཕྱིར་ འདི་དག་ རང་བཞིན་ གཅིག  །"
