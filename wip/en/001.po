@@ -11793,7 +11793,7 @@ msgstr "As said."
 
 msgctxt "8608856435474435ab37e4027955d354"
 msgid "ཐུགས་ ཀྱི་ རིགས་ གཅིག་ ལ་␣འང་ །"
-msgstr ""
+msgstr "Even in a single kind destination of mind,"
 
 msgctxt "0884c449b9444976a441f9298daa5dbe"
 msgid "སྐུ་གསུང་ཐུགས་ ཡོན་ ཕྲིན་ལས་ ལྔ་ ཚང་བ་␣འི་ ཕྱིར །"
