@@ -11803,7 +11803,7 @@ msgstr ""
 
 msgctxt "620d8af418e14ad68117a47fe1ded5eb"
 msgid "སྔགས་ རྣམས་ ཀུན་ གྱི་ མཚན་ཉིད་ ནི ། །"
-msgstr ""
+msgstr "The characteristics of all mantras are"
 
 msgctxt "fd29aec9d02f4318b257dd991202cda4"
 msgid "བདེ་བ་␣ར་ གཤེགས་པ་␣འི་ ཐུགས་ ལ་ གནས །"
