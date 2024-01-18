@@ -11785,7 +11785,7 @@ msgstr "Many thousands will arise."
 
 msgctxt "069134f5913745fab5ed5fc3f5c7c697"
 msgid "དེ་ཕྱིར་ འདི་དག་ རང་བཞིན་ གཅིག  །"
-msgstr ""
+msgstr "Therefore, their nature is one."
 
 msgctxt "9c283a70ea44427788c46c6f0685fdaa"
 msgid "ཅེས་ སོ །"
