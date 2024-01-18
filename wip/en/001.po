@@ -11846,12 +11846,13 @@ msgstr ""
 
 msgctxt "63966bf75d204c2dbc313b56aaa1cbc7"
 msgid "སྒྲིབ་པ་ ལམ་ གྱིས་ སྦྱངས་ ཏེ་"
-msgstr ""
+msgstr "Obscurations are purified by the path."
 
 msgctxt "3460cfd221854c2dbac68cc3e3eaed33"
 msgid ""
 "འབྲས་བུ་␣ས་ ཡོན་ཏན་ གྱི་ ངོ་བོ་␣ར་ སངས་རྒྱས་པ་␣ར་ གཅིག་པ་␣འི་ ཕྱིར་ དང༌ །"
 msgstr ""
+"The result is the same as becoming Buddha in the essence of the qualities."
 
 msgctxt "e97710487ecc4ed78fa464c2c2ee6e65"
 msgid "སྐུ་ མཚན་དཔེ་ ཐུགས་ བྲལ་འབྲས་ ཡེ་ཤེས་ དང་ ལྡན་ ཅིང་ །"
