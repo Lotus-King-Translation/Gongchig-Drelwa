@@ -11769,7 +11769,7 @@ msgstr "From the two analyses,"
 
 msgctxt "ef1040befc524049b05fae46a9a7043d"
 msgid "སེམས་ ནི་ ཆེན་པོ་ གཅིག་ཉིད་ ལ་␣ས ། །"
-msgstr ""
+msgstr "From the one great mind"
 
 msgctxt "ae5dfd568b234582a4b1c60d2a2121e2"
 msgid "ལྔ་ ཡི་ གཟུགས་ ཀྱི་ རྣམ་པ་␣ར་ མཚོན ། །"
