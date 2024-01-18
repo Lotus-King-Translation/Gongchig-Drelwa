@@ -11819,7 +11819,7 @@ msgstr ""
 
 msgctxt "503a08e4dd2047b7a6636fde10f7a13a"
 msgid "ཕྲིན་ལས་ བཞི་ ཀ་ སྒྲུབ་ ནུས་པ་ ཡིན་ ནོ །"
-msgstr ""
+msgstr "All four enlightened activities can be accomplished."
 
 msgctxt "0bc181376e8c4ac79dcd8b525eb6154b"
 msgid "ལྷན་␣༽༽  ལྷ་ རེ་རེ་ ལ་ མཚན་ ངེས་པ་ ཅན་ རེ་རེ་ ཡོད་པ་ འདོད་ མོད་ ཀྱང་ །"
