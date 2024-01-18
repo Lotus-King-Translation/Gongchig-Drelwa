@@ -11773,7 +11773,7 @@ msgstr "From the one great mind"
 
 msgctxt "ae5dfd568b234582a4b1c60d2a2121e2"
 msgid "ལྔ་ ཡི་ གཟུགས་ ཀྱི་ རྣམ་པ་␣ར་ མཚོན ། །"
-msgstr ""
+msgstr "Is represented by the five aspects of form."
 
 msgctxt "5058b78e00534e24a8e1d5dbd7dc6fe8"
 msgid "རིགས་ ནི་ ལྔ་པོ་ དེ་ཉིད་ ལ་␣ས ། །"
