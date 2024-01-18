@@ -11789,7 +11789,7 @@ msgstr "Therefore, their nature is one."
 
 msgctxt "9c283a70ea44427788c46c6f0685fdaa"
 msgid "ཅེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "8608856435474435ab37e4027955d354"
 msgid "ཐུགས་ ཀྱི་ རིགས་ གཅིག་ ལ་␣འང་ །"
