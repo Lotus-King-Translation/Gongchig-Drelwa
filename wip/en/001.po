@@ -11824,7 +11824,7 @@ msgstr "All four enlightened activities can be accomplished."
 msgctxt "0bc181376e8c4ac79dcd8b525eb6154b"
 msgid "ལྷན་␣༽༽  ལྷ་ རེ་རེ་ ལ་ མཚན་ ངེས་པ་ ཅན་ རེ་རེ་ ཡོད་པ་ འདོད་ མོད་ ཀྱང་ །"
 msgstr ""
-"Addendum: Although it is accepted that each deity has a definite sign."
+"Addendum: Although it is accepted that each deity has a definite name."
 
 msgctxt "5b0022dfeb774455a99b266ec5b1527c"
 msgid "འདི་␣ར་ ནི་ ལྷ་ རྣམས་ ཀུན་ གྱི་ མཚན་ ནི་"
