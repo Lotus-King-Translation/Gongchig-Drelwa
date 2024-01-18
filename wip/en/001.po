@@ -11862,7 +11862,7 @@ msgstr ""
 
 msgctxt "a34d3f905bc74c97821dc99b0001b69c"
 msgid "མཚན་ བཅོམ་ལྡན་འདས་ འབོད་པ་ དང༌ །"
-msgstr ""
+msgstr "The name is called the Blessed One and"
 
 msgctxt "333794db0f384cada3df54d1aea2bb1f"
 msgid "གསོལ་བ་ བཏབ་ ན་ རྗེས་སུ་ འཛིན་པ་ གཅིག་པ་␣འི་ ཕྱིར་ རོ །"
