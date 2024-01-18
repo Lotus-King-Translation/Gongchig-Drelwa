@@ -11833,6 +11833,8 @@ msgstr "In this [system], the names of all the gods are"
 msgctxt "37e72936705f442cbe8aeb2242470253"
 msgid "འབྲས་བུ་ མངོན་དུ་ བྱས་པ་␣འམ་ མཛད་འཕྲིན་ གྱི་ དོན་ ལ་བཏགས་པ་ ཡིན་ ན་"
 msgstr ""
+"If [the names] are designated for the sake of the actualized result or the "
+"enlightened activity, "
 
 msgctxt "88ab3784cd454d6691fd51ea686374aa"
 msgid ""
