@@ -11777,7 +11777,7 @@ msgstr "Is represented by the five aspects of form."
 
 msgctxt "5058b78e00534e24a8e1d5dbd7dc6fe8"
 msgid "རིགས་ ནི་ ལྔ་པོ་ དེ་ཉིད་ ལ་␣ས ། །"
-msgstr ""
+msgstr "From those five families,"
 
 msgctxt "b5a3c26ea66d41bf885c965a33eb634a"
 msgid "སྟོང་ཕྲག་ དུ་མ་ སྐྱེ་བ་ ཉིད །"
