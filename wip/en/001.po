@@ -11841,6 +11841,8 @@ msgid ""
 "དེ་ ནི་ རང་ གི་ ལྷག་པ་␣འི་ ལྷ་ གཅིག་ བདེ་མཆོག་ ལྟ་བུ་ ཡིས་ ཀྱང་ མཚན་ དེ་ "
 "ཀུན་ བཟུང་བ་ ཡིན་ ཏེ་"
 msgstr ""
+"That is the name of one's own special deity, such as Cakrasamvara, is held "
+"by everyone."
 
 msgctxt "63966bf75d204c2dbc313b56aaa1cbc7"
 msgid "སྒྲིབ་པ་ ལམ་ གྱིས་ སྦྱངས་ ཏེ་"
