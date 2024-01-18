@@ -11815,6 +11815,7 @@ msgstr "As said."
 msgctxt "e26b628aba8a4f6cb9e2a56db18cac44"
 msgid "དེ་ལྟར་ ན་ ལྷ་ གཅིག་ གིས་ རིགས་ ཐམས་ཅད་ བསྡུས་པ་␣ས་"
 msgstr ""
+"In this way, because one deity can bring together all of the families,"
 
 msgctxt "503a08e4dd2047b7a6636fde10f7a13a"
 msgid "ཕྲིན་ལས་ བཞི་ ཀ་ སྒྲུབ་ ནུས་པ་ ཡིན་ ནོ །"
