@@ -11828,7 +11828,7 @@ msgstr ""
 
 msgctxt "5b0022dfeb774455a99b266ec5b1527c"
 msgid "འདི་␣ར་ ནི་ ལྷ་ རྣམས་ ཀུན་ གྱི་ མཚན་ ནི་"
-msgstr ""
+msgstr "In this [system], the names of all the gods are"
 
 msgctxt "37e72936705f442cbe8aeb2242470253"
 msgid "འབྲས་བུ་ མངོན་དུ་ བྱས་པ་␣འམ་ མཛད་འཕྲིན་ གྱི་ དོན་ ལ་བཏགས་པ་ ཡིན་ ན་"
