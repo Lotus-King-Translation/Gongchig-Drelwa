@@ -11798,6 +11798,8 @@ msgstr "Even in a single kind destination of mind,"
 msgctxt "0884c449b9444976a441f9298daa5dbe"
 msgid "སྐུ་གསུང་ཐུགས་ ཡོན་ ཕྲིན་ལས་ ལྔ་ ཚང་བ་␣འི་ ཕྱིར །"
 msgstr ""
+"The five qualities and enlightened activities of body, speech, and mind are "
+"complete."
 
 msgctxt "620d8af418e14ad68117a47fe1ded5eb"
 msgid "སྔགས་ རྣམས་ ཀུན་ གྱི་ མཚན་ཉིད་ ནི ། །"
