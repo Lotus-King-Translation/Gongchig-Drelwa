@@ -7820,8 +7820,7 @@ msgstr "It is like expressing from the main names. "
 
 msgctxt "34fd81ecea484014acfa24e949ea91a1"
 msgid "དེ་ལྟར་ མིན་ ན་ བདེ་གཤེགས་ ཉེ་ཞོ་␣འི་ ཕུང་པོ་␣ར་ འགྱུར་ རོ །"
-msgstr ""
-"The sugata would become an imperfect aggregate if this were not the case."
+msgstr "Sugata would become an imperfect aggregate if this were not the case."
 
 msgctxt "76a56ecb19c6453eb81074fd8e8cc2ef"
 msgid "རྡོ་␣༽༽་␣བཅས་ རང་ གཅིག་པ་␣ས་ དང༌ །"
