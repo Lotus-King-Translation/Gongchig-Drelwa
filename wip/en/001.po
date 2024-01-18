@@ -11807,7 +11807,7 @@ msgstr "The characteristics of all mantras are"
 
 msgctxt "fd29aec9d02f4318b257dd991202cda4"
 msgid "བདེ་བ་␣ར་ གཤེགས་པ་␣འི་ ཐུགས་ ལ་ གནས །"
-msgstr ""
+msgstr "Abided in the mind of the sugatas."
 
 msgctxt "0459cf1dd79547068b47f97cafdd2421"
 msgid "ཞེས་ སོ །"
