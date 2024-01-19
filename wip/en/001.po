@@ -11977,6 +11977,8 @@ msgid ""
 "ཚོར་བ་ ལྷན་སྐྱེས་ བློ་འདས་ ཀྱི་ ཡེ་ཤེས་ སུ་ རྟོགས་ ན་ དཔེ་␣འམ་ དོན་ ཀྱང་ "
 "ཡིན་ ཅིང་ །"
 msgstr ""
+"Because if one realizes feeling to be the innate wisdom beyond the rational "
+"mind, it is also the example as well as the meaning,"
 
 msgctxt "54e885cd2fc645888af3c396a8d51309"
 msgid "མ་ རྟོགས་ ན་ དེ་ གཉིས་ཀ་ མིན་པ་␣འི་ ཕྱིར་ རོ །"
