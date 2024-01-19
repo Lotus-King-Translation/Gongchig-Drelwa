@@ -11928,7 +11928,7 @@ msgstr ""
 
 msgctxt "8022795593ea4df5a3fc8f629c129e0e"
 msgid "དེ་ལྟར་ ཡང་ ཡེ་ཤེས་ གྲུབ་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "Also, The Attainment of Wisdom says:"
 
 msgctxt "b09f479e8c8e4ead8861f7bd68a5555f"
 msgid "དབང་པོ་ གཉིས་ སྦྱོར་ བདེ་བ་ ནི །"
