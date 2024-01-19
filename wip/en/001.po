@@ -11956,7 +11956,7 @@ msgstr "Phagmo Drupa says:"
 
 msgctxt "7717ad3fbfac4b048030ff2ffd147df9"
 msgid "ཟག་བཅས་ བདེ་བ་ ཆེ་ སྒོ་ ཡི །"
-msgstr ""
+msgstr "The door of great bliss is with outflows."
 
 msgctxt "739c358db6a440578bce347507952ab8"
 msgid "བདེ་ཆེན་ ཡན་ལག"
