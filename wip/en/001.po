@@ -11903,6 +11903,8 @@ msgstr "Marpa said that it is whether or not one realizes suchness."
 msgctxt "f41dcdd6929b4d8d8b80b28c7d847797"
 msgid "འགའ་ཞིག་ དཔེ་ དང་ འགའ་ཞིག་ དོན་ གྱི་ ཡེ་ཤེས་ སུ་ འདོད་ མོད །"
 msgstr ""
+"Though, some accept it as metaphoric wisdom, while others accept it as "
+"ultimate wisdom."
 
 msgctxt "e655d23d84da46338a6a40ad4e66877f"
 msgid ""
