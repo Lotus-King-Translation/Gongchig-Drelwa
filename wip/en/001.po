@@ -11960,7 +11960,7 @@ msgstr "The door of great bliss is with outflows."
 
 msgctxt "739c358db6a440578bce347507952ab8"
 msgid "བདེ་ཆེན་ ཡན་ལག"
-msgstr ""
+msgstr "The limb of great bliss."
 
 msgctxt "ead6af63fe0e455ab0bbb617a1afee22"
 msgid "ཞེས་ སོགས་ སོ །"
