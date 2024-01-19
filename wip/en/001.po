@@ -12003,7 +12003,7 @@ msgstr ""
 
 msgctxt "c55e3a14471d46f5927a7234f86f6da8"
 msgid "སངས་རྒྱས་ ཀྱི་ ཡེ་ཤེས་ དང་ ཁྱད་མེད་ ཅེས་ དང་ །"
-msgstr ""
+msgstr "It is no different from the wisdom of the buddhas."
 
 msgctxt "f707ccdaa73d4be3a1086d035e8c81b3"
 msgid "དོན་ ཡེ་ བདེ་སྟོང་ རོ་ མཉམ་ བརྗོད་ མེད་ དུ་ མྱོང་ ན་ ཡིན་ ཟེར་བ་ དང་ །"
