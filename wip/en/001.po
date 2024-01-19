@@ -11867,6 +11867,7 @@ msgstr "The name is called the Blessed One and"
 msgctxt "333794db0f384cada3df54d1aea2bb1f"
 msgid "གསོལ་བ་ བཏབ་ ན་ རྗེས་སུ་ འཛིན་པ་ གཅིག་པ་␣འི་ ཕྱིར་ རོ །"
 msgstr ""
+"Because if one supplicates, accepting and subsequent caring are the same. "
 
 msgctxt "437d1a60d9bd43b6994e434a809a7b93"
 msgid ""
