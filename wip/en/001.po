@@ -11986,7 +11986,7 @@ msgstr "But if it is not realized, it is neither."
 
 msgctxt "316e35b9f2b74375871da1bc7b9b5993"
 msgid "ལྷན་␣༽༽  གསུམ་པ་␣ས་"
-msgstr ""
+msgstr "Addendum: The third"
 
 msgctxt "e2614f4830004935b395cf5a207ed5b2"
 msgid ""
