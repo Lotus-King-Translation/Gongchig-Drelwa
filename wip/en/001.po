@@ -11999,6 +11999,7 @@ msgstr ""
 msgctxt "ea42c52f6e69423198e3a9aa9f9c4d24"
 msgid "ཡང་ ཕྱིན་ ཅི་ མ་ ལོག་པ་␣ར་ རྟོགས་པ་␣ས་"
 msgstr ""
+"Furthermore, it is said that, since it is realized without misconception, "
 
 msgctxt "c55e3a14471d46f5927a7234f86f6da8"
 msgid "སངས་རྒྱས་ ཀྱི་ ཡེ་ཤེས་ དང་ ཁྱད་མེད་ ཅེས་ དང་ །"
