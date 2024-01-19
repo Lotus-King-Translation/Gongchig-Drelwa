@@ -11916,7 +11916,7 @@ msgstr ""
 
 msgctxt "66f13823d09d48baa182d5761334747f"
 msgid "དཔེ་ ཡིས་ དོན་ དེ་ གཉིས་ ཁོང་ དུ་ མི་ ཆུད་"
-msgstr ""
+msgstr "The meanings of these two cannot be understood by examples."
 
 msgctxt "7a15066034f343ee9c9150c18280728a"
 msgid ""
