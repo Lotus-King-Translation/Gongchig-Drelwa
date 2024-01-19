@@ -11944,7 +11944,7 @@ msgstr "That is great bliss."
 
 msgctxt "8d900bfb0fbc43e698fde4928328677b"
 msgid "རྒྱལ་བ་ རྣམས་ ཀྱིས་ མ་ གསུངས་ སོ །"
-msgstr ""
+msgstr "The conquerors have not said it."
 
 msgctxt "6d9be6c2490247b1a96f245904b07168"
 msgid "ཅེས་ སོ །"
