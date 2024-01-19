@@ -11993,6 +11993,8 @@ msgctxt "e2614f4830004935b395cf5a207ed5b2"
 msgid ""
 "རང་རྒྱུད་ ཀྱི་ ཡེ་ཤེས་ དེ་ རིགས་ མཐུན་ བདེ་བ་␣ས་ མི་ རྟོགས་ ཟེར་བ་ དང་ །"
 msgstr ""
+"The statement that the wisdom of one’s own mindstream is not realized by the"
+" bliss of a similar type and"
 
 msgctxt "ea42c52f6e69423198e3a9aa9f9c4d24"
 msgid "ཡང་ ཕྱིན་ ཅི་ མ་ ལོག་པ་␣ར་ རྟོགས་པ་␣ས་"
