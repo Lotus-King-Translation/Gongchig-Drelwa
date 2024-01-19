@@ -11888,7 +11888,7 @@ msgstr ""
 
 msgctxt "4a65aa571b9f4e82baff0f1ccbfc9ad1"
 msgid "དེ་ལྟར་ ངེས་ཤེས་ སྐྱེས་པ་ ལ་"
-msgstr ""
+msgstr "For the arising of such certainty,"
 
 msgctxt "6e20fc6c99a04c348f23680059f09f2f"
 msgid "མཻ་ ཏྲིས་ དཔེ་ དང་ ནཱ་ རོ་␣ས་ དོན་ གྱི་ ཡེ་ཤེས་ སུ་ བཞེད་པ་␣ས་"
