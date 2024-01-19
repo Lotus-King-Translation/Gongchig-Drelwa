@@ -11911,6 +11911,8 @@ msgid ""
 "འདི་␣ར་ ནི་ དབང་དོན་ བློ་ ལ་␣ས་ འདས་པ་␣ར་ རྟོགས་པ་␣འི་ ཡེ་ཤེས་ རྒྱུད་ ལ་མ་ "
 "སྐྱེས་ ན་"
 msgstr ""
+"In this [system], If the wisdom realizing that the sense faculties and "
+"referents are beyond the intellect has not arisen in one's mindstream, "
 
 msgctxt "66f13823d09d48baa182d5761334747f"
 msgid "དཔེ་ ཡིས་ དོན་ དེ་ གཉིས་ ཁོང་ དུ་ མི་ ཆུད་"
