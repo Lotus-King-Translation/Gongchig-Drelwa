@@ -11936,7 +11936,7 @@ msgstr "The bliss of the union of the two organs is"
 
 msgctxt "d62f6b94e8bf450dabda05be09845a68"
 msgid "དེ་ཉིད་ ཡིན་ ཅེས་ སྐྱེ་ ངག་ སྨྲ ། །"
-msgstr ""
+msgstr "Is thusness as it is said by beings."
 
 msgctxt "9c0189e70a3147f3b63746020d18d09d"
 msgid "དེ་ ནི་ བདེ་བ་ ཆེ་ ཡིན་ ཅེས ། །"
