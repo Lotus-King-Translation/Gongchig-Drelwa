@@ -11982,7 +11982,7 @@ msgstr ""
 
 msgctxt "54e885cd2fc645888af3c396a8d51309"
 msgid "མ་ རྟོགས་ ན་ དེ་ གཉིས་ཀ་ མིན་པ་␣འི་ ཕྱིར་ རོ །"
-msgstr ""
+msgstr "But if it is not realized, it is neither."
 
 msgctxt "316e35b9f2b74375871da1bc7b9b5993"
 msgid "ལྷན་␣༽༽  གསུམ་པ་␣ས་"
