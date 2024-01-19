@@ -11923,6 +11923,8 @@ msgid ""
 "དེ་ འདྲ་བ་␣ས་ འདྲ་བ་ མཚོན་པ་␣འི་ ཉམས་མྱོང་ ཐམས་ཅད་ བློ་␣ས་ བྱས་ ཡིན་པ་␣འི་ "
 "ཕྱིར་ རོ ། །"
 msgstr ""
+"This is because all experiences that indicate something similar to that are "
+"created by the mind."
 
 msgctxt "8022795593ea4df5a3fc8f629c129e0e"
 msgid "དེ་ལྟར་ ཡང་ ཡེ་ཤེས་ གྲུབ་པ་ ལ་␣ས །"
