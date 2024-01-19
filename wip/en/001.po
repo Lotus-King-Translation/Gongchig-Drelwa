@@ -11874,6 +11874,8 @@ msgid ""
 "རྡོ་␣༽༽  གསུམ་པ་ ཤེས་རབ་ ཡེ་ཤེས་ གཞན་ ལུས་ ཕྱག་རྒྱ་ ལ་␣ས་ ལེན་པ་␣ར་ གསུངས་ "
 "ཏེ །"
 msgstr ""
+"Vajra: The third, it is said that the wisdom-knowledge is taken from the "
+"mudra of other body."
 
 msgctxt "be7c7860d4624c70b0a2e1dd8c9be416"
 msgid ""
