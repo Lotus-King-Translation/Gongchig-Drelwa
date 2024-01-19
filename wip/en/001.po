@@ -11952,7 +11952,7 @@ msgstr "As said."
 
 msgctxt "f6fcdc5d709a44b381883f4b101c17e0"
 msgid "ཕག་གྲུ་␣ས །"
-msgstr ""
+msgstr "Phagmo Drupa says:"
 
 msgctxt "7717ad3fbfac4b048030ff2ffd147df9"
 msgid "ཟག་བཅས་ བདེ་བ་ ཆེ་ སྒོ་ ཡི །"
