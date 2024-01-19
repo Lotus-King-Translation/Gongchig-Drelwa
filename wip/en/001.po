@@ -11940,7 +11940,7 @@ msgstr "Is thusness as it is said by beings."
 
 msgctxt "9c0189e70a3147f3b63746020d18d09d"
 msgid "དེ་ ནི་ བདེ་བ་ ཆེ་ ཡིན་ ཅེས ། །"
-msgstr ""
+msgstr "That is great bliss."
 
 msgctxt "8d900bfb0fbc43e698fde4928328677b"
 msgid "རྒྱལ་བ་ རྣམས་ ཀྱིས་ མ་ གསུངས་ སོ །"
