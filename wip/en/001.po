@@ -11893,6 +11893,8 @@ msgstr "For the arising of such certainty,"
 msgctxt "6e20fc6c99a04c348f23680059f09f2f"
 msgid "མཻ་ ཏྲིས་ དཔེ་ དང་ ནཱ་ རོ་␣ས་ དོན་ གྱི་ ཡེ་ཤེས་ སུ་ བཞེད་པ་␣ས་"
 msgstr ""
+"Maitri accepted it to be metaphoric wisdom and Naropa accepted it to be "
+"ultimate wisdom."
 
 msgctxt "2b63191c5eb34f8b905bf37f452f5d5e"
 msgid "མར་པ་␣ས་ དེ་ཉིད་ རྟོགས་ མ་ རྟོགས་ ཡིན་ གསུངས་པ་ དང་"
