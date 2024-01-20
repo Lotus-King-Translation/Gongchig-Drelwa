@@ -12039,7 +12039,7 @@ msgstr "Whatever arises in the third moment."
 
 msgctxt "a57a26751c22464ca556e6464a9aa697"
 msgid "དོན་ མཐོང་ མ་ ཡིན་ འབྲས་ ཅན་ གྱིས ། །"
-msgstr ""
+msgstr "Those who have the result do not see the meaning."
 
 msgctxt "bea11124ba82497f8d7f68cace93a95d"
 msgid "སྦགས་པ་ ཡིས་ ནི་ བུ་རམ་ བཞིན །"
