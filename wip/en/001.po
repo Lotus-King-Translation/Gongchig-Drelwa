@@ -12008,6 +12008,8 @@ msgstr "It is no different from the wisdom of the buddhas."
 msgctxt "f707ccdaa73d4be3a1086d035e8c81b3"
 msgid "དོན་ ཡེ་ བདེ་སྟོང་ རོ་ མཉམ་ བརྗོད་ མེད་ དུ་ མྱོང་ ན་ ཡིན་ ཟེར་བ་ དང་ །"
 msgstr ""
+"It is said that it is if one experiences the principal meaning and the bliss"
+" and emptiness in inexpressible equal taste"
 
 msgctxt "d4aa41c33171463aae4af739d7975a07"
 msgid "ཡང་ དེ་ མཐོང་ལམ་ གྱི་ ཡེ་ཤེས་ འོད་ གཅིག་ ཙམ་ སྐྱེ་ ཟེར་བ་"
