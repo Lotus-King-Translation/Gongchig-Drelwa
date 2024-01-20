@@ -12014,6 +12014,8 @@ msgstr ""
 msgctxt "d4aa41c33171463aae4af739d7975a07"
 msgid "ཡང་ དེ་ མཐོང་ལམ་ གྱི་ ཡེ་ཤེས་ འོད་ གཅིག་ ཙམ་ སྐྱེ་ ཟེར་བ་"
 msgstr ""
+"Again, it is said that the wisdom of the path of seeing has arisen as just a"
+" single light."
 
 msgctxt "c912ab6094d84b4b9df4954af07023a4"
 msgid "དེ་ བཞི་ དང༌ །"
