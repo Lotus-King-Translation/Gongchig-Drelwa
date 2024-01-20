@@ -12026,6 +12026,8 @@ msgid ""
 "དེ་ལས་ གོ་བ་ བཟང་ དུ་ རེ་བ་ རྣམས་ ཀྱིས་ དེ་␣ས་ གཟུགས་བརྙན་ ཙམ་ རྟོགས་ ཟེར་བ་"
 " དང༌ །"
 msgstr ""
+"From this, those who hope for a better understanding say that it realizes "
+"mere reflections."
 
 msgctxt "d983b45b97a84814bbf73ed736b9e076"
 msgid "ཡང་དག་ ལྷ་ ཡས །"
