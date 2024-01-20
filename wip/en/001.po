@@ -12019,7 +12019,7 @@ msgstr ""
 
 msgctxt "c912ab6094d84b4b9df4954af07023a4"
 msgid "དེ་ བཞི་ དང༌ །"
-msgstr ""
+msgstr "These four and"
 
 msgctxt "fd6697a7402d4f6d85269891bb1a1c2d"
 msgid ""
