@@ -12329,7 +12329,7 @@ msgstr "These migrators are the nature of the five buddhas."
 
 msgctxt "4a851532732549ce87b29a7f10bc2fc1"
 msgid "ཅེས་ དང༌ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "2f82a7f9776c40a28d38b26bdc99c0ce"
 msgid "གསང་བ་ རྒྱ་མཚོ་ ལ་␣ས །"
