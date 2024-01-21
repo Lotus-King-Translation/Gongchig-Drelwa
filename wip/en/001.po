@@ -12223,6 +12223,8 @@ msgid ""
 "དོན་སྤྱི་␣འི་ རྣམ་པ་ བསྒོམས་པ་ རྣམས་ ཀྱི་ རྒྱུན་ བརྟགས་ གཉིས་ ལ་␣ས་ སྔ་མ་ "
 "དེ་ ཡིན །"
 msgstr ""
+"Those who meditate on the aspect of the generic image, of the two-the "
+"continuum and the imputation, it is the first one."
 
 msgctxt "8bae51e35c7f4d0abfb3c0ea98e5f01d"
 msgid "སྒོམ་ བྱེད་ ཤེས་པ་ གཞན་དབང་ དང༌ །"
