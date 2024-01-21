@@ -12188,7 +12188,7 @@ msgstr "In our system, the three vows are essentially the same, "
 
 msgctxt "86554463cbfc47619e623e84a9d6b820"
 msgid "བཀག་པ་ ཡེ་ བཀག་ ཡིན་པ་␣ས་ ཀྱང༌ །"
-msgstr ""
+msgstr "The prohibitions are primordial prohibitions,"
 
 msgctxt "e9c38b4fb08f4f39963a46d0f28dbdf5"
 msgid "དང་པོ་ ནས་ བླང་བ་␣ར་ མི་ བྱ་␣འོ །"
