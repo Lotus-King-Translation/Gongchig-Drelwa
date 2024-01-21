@@ -12273,7 +12273,7 @@ msgstr "If that which is not is established as it is by imputation,"
 
 msgctxt "9a2c78db020445c4962daa705f3f33ab"
 msgid "ཕྱི་རོལ་པ་␣ས་ ཀྱང་ གནས་ལུགས་ རྟོགས་པ་␣ར་ ཐལ །"
-msgstr ""
+msgstr "then it follows that even non-Buddhists realize the actuality."
 
 msgctxt "ed80a84001f74e36bf978eeb36c56b32"
 msgid "གནས་ལུགས་ མ་ཡིན་པ་␣ར་ ཡིན་པ་␣ར་ རློམ་པ་␣འི་ ཕྱིར ། །"
