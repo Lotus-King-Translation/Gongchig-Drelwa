@@ -12297,7 +12297,7 @@ msgstr "By the power of these, the sentient beings,"
 
 msgctxt "9fd3e9653b284021ad3665fe522ae767"
 msgid "སངས་རྒྱས་ ཉིད་ དུ་ ཐེ་ཚོམ་ མེད ། །"
-msgstr ""
+msgstr "There is no doubt that [they] are buddhas."
 
 msgctxt "c67ce9310bcd461c941333b0560c3700"
 msgid "ཟླ་བ་ བཅུ་ ཡང་ ས་ རྣམས་ སྲིང་ ། །"
