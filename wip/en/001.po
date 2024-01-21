@@ -12277,7 +12277,7 @@ msgstr "then it follows that even non-Buddhists realize the actuality."
 
 msgctxt "ed80a84001f74e36bf978eeb36c56b32"
 msgid "གནས་ལུགས་ མ་ཡིན་པ་␣ར་ ཡིན་པ་␣ར་ རློམ་པ་␣འི་ ཕྱིར ། །"
-msgstr ""
+msgstr "Because they manipulate what is not actuality as actuality."
 
 msgctxt "1ab304e5fb584323a2afa291963d7ef8"
 msgid ""
