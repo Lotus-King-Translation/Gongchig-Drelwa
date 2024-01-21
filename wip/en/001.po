@@ -12249,7 +12249,7 @@ msgstr "In this [system], the deities of the stages of generation are "
 
 msgctxt "91a1f6727f0540edbcf132c53635e95e"
 msgid "གདོད་མ་ ནས་ ཡོངས་སུ་ གྲུབ་པ་ ཡིན་ ཏེ་"
-msgstr "thoroughly-established from the prime."
+msgstr "thoroughly-established from the beginning."
 
 msgctxt "9ddf4345c5e14c93be51071ecca53c05"
 msgid "བརྩོན་པ་␣ས་ བསྒྲུབ་ ན་ འགྲུབ་པ་␣འི་ ཕྱིར །"
