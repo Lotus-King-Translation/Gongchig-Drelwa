@@ -12209,6 +12209,7 @@ msgstr "Dharmata of all phenomena is "
 msgctxt "baa7a96ac76c47f8932dd11c2d038adc"
 msgid "ཡོངས་གྲུབ་ ཏུ་ རྐྱེན་ ཚོགས་པ་ ལ་ རག་ ལས་པ་ ནི་"
 msgstr ""
+"dependent on the accumulation of conditions in the thorough establishment."
 
 msgctxt "d902d8c3e7dc4e7a97214e80771b0087"
 msgid "གཞན་དབང་ མ་ཡིན་པ་␣ར་ ཡིན་པ་␣ར་ བརྟགས་པ་ མཚན་ཉིད་ འཆད་པ་ དང་ །"
