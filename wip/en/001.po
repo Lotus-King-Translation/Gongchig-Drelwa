@@ -12325,7 +12325,7 @@ msgstr "And according to the Conduct:"
 
 msgctxt "37e5da644cb842cf94a7eed2ea89c062"
 msgid "འགྲོ་བ་ འདི་དག་ སངས་རྒྱས་ ལྔ་␣འི་ བདག་ཉིད །"
-msgstr ""
+msgstr "These migrators are the nature of the five buddhas."
 
 msgctxt "4a851532732549ce87b29a7f10bc2fc1"
 msgid "ཅེས་ དང༌ །"
