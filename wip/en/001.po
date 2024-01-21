@@ -12199,6 +12199,8 @@ msgid ""
 "རྡོ་␣༽༽  སྨིན་པ་ སྒྲོལ་ ལམ་ བསྐྱེད་རྫོགས་ གཉིས་ ལ་␣ས་ དང་པོ་ མཚན་ཉིད་གསུམ་ "
 "སྟེ །"
 msgstr ""
+"Vajra: From the paths of ripening and liberating, and the two [stages] of "
+"generation and completion, the first is the three characteristics."
 
 msgctxt "ff21bede22c9476da015da3eb799f6ba"
 msgid "ཆོས་ རྣམས་ ཀྱི་ ཆོས་ཉིད་ ནི་"
