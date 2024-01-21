@@ -12229,6 +12229,7 @@ msgstr ""
 msgctxt "8bae51e35c7f4d0abfb3c0ea98e5f01d"
 msgid "སྒོམ་ བྱེད་ ཤེས་པ་ གཞན་དབང་ དང༌ །"
 msgstr ""
+"The consciousness that meditates is the other-powered [character] and "
 
 msgctxt "a437e65132244480a535d2310d0367d5"
 msgid "གཤིས་ ལ་ མེད་པ་␣ས་ མ་ཡིན་པ་␣ར་ ཡིན་པ་␣ར་ བཅོས་པ་␣འི་ ཀུན་བཏགས་ ཏེ་"
