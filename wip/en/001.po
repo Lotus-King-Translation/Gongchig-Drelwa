@@ -12269,7 +12269,7 @@ msgstr "Just as when ordinary ore is melted, gold is not produced."
 
 msgctxt "dd705d1dacdc4e3e9e8e12d5a55bc8ab"
 msgid "གལ་ཏེ་ མ་ཡིན་པ་␣ར་ ཡིན་པ་␣ར་ བཏགས་པ་␣ས་ འགྲུབ་ ན །"
-msgstr ""
+msgstr "If that which is not is established as it is by imputation,"
 
 msgctxt "9a2c78db020445c4962daa705f3f33ab"
 msgid "ཕྱི་རོལ་པ་␣ས་ ཀྱང་ གནས་ལུགས་ རྟོགས་པ་␣ར་ ཐལ །"
