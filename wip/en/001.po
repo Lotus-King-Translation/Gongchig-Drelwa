@@ -12265,7 +12265,7 @@ msgstr "Otherwise, it is not produced."
 
 msgctxt "2f73e42304b447efac6712a15d03cf7d"
 msgid "རྡོ་ ཕལ་པ་ བཞུས་ ན་ གསེར་ མི་ འབྱུང་བ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "Just as when ordinary ore is melted, gold is not produced."
 
 msgctxt "dd705d1dacdc4e3e9e8e12d5a55bc8ab"
 msgid "གལ་ཏེ་ མ་ཡིན་པ་␣ར་ ཡིན་པ་␣ར་ བཏགས་པ་␣ས་ འགྲུབ་ ན །"
