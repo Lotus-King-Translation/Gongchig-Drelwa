@@ -12305,7 +12305,7 @@ msgstr "Ten months are also extended to the levels."
 
 msgctxt "522e153d1e514ecc831cfdeac235c755"
 msgid "སེམས་ཅན་ ས་བཅུ་␣འི་ དབང་ཕྱུག་ གི  ༑"
-msgstr ""
+msgstr "The sentient beings are the lords of the ten levels."
 
 msgctxt "b03edd815a6543e7afbe3fd7d82f429c"
 msgid "གསང་འདུས་ ལ་␣ས །"
