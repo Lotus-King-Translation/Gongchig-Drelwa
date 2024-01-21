@@ -12333,7 +12333,7 @@ msgstr "And"
 
 msgctxt "2f82a7f9776c40a28d38b26bdc99c0ce"
 msgid "གསང་བ་ རྒྱ་མཚོ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The Ocean of Secrets:"
 
 msgctxt "b736d92691e74af4b56b6fcff0be23c4"
 msgid "ཤེས་བྱ་␣འི་ དཀྱིལ་འཁོར་ མ་ ལུས་ འདི་དག་ ཐམས་ཅད་ ནི །"
