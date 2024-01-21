@@ -12309,7 +12309,7 @@ msgstr "The sentient beings are the lords of the ten levels."
 
 msgctxt "b03edd815a6543e7afbe3fd7d82f429c"
 msgid "གསང་འདུས་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The Gathered Secret:"
 
 msgctxt "c0e28c4ce4b34366805f85b68be66185"
 msgid "མདོར་ན་ ཕུང་པོ་ ལྔ་ རྣམས་ ནི །"
