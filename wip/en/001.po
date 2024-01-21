@@ -12240,6 +12240,8 @@ msgstr ""
 msgctxt "c58a34e07ce446748f3580e4ac7b33bb"
 msgid "ཀླུ་␣འི་ བྱང་ཆུབ་ ཀྱིས་ ཤིང་ སྒོམ་པ་ སྐྱེས་པ་ བཞིན་ ནོ་ ཟེར །"
 msgstr ""
+"It is said to be similar to naga bodhisattvas who meditate on trees and then"
+" emerge."
 
 msgctxt "a880fffd426a4fbb929dbc157043c64e"
 msgid "འདི་␣ར་ ནི་ བསྐྱེད་པ་␣འི་ རིམ་པ་␣འི་ ལྷ་ རྣམས་"
