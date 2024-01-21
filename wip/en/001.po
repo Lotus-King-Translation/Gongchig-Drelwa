@@ -14010,7 +14010,7 @@ msgstr ""
 
 msgctxt "6be50b3959b14350bee1fc0b0bbefab4"
 msgid "གསང་འདུས་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The Gathered Secret:"
 
 msgctxt "7ac713141f2c4e5faaf51d1f1be73068"
 msgid "འདོད་པ་␣འི་ ཡོན་ཏན་ རྣམ་ ལྔ་ ལ །།"
