@@ -12289,7 +12289,7 @@ msgstr ""
 
 msgctxt "05ac0a68fbd94133a783c7e4e3f6bc16"
 msgid "ཀྱེ་རྡོར་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Hevajra [Tantra]:"
 
 msgctxt "f10a19c9a3e84b26bed0a895ccc35877"
 msgid "འདི་དག་ དབང་ གིས་ སེམས་ཅན་ རྣམས ། །"
