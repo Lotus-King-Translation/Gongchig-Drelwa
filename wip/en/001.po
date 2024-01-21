@@ -12192,7 +12192,7 @@ msgstr "The prohibitions are primordial prohibitions,"
 
 msgctxt "e9c38b4fb08f4f39963a46d0f28dbdf5"
 msgid "དང་པོ་ ནས་ བླང་བ་␣ར་ མི་ བྱ་␣འོ །"
-msgstr ""
+msgstr "Thus they should not be taken from the beginning."
 
 msgctxt "d927cea73d3f44afbd07e6ce254e848c"
 msgid ""
