@@ -12184,7 +12184,7 @@ msgstr "And"
 
 msgctxt "266c0771762f4d11933b981fd9c262e6"
 msgid "རང་ལུགས་ ལ་ སྡོམ་ གསུམ་ གནད་ གཅིག་ དང་ ༑"
-msgstr ""
+msgstr "In our system, the three vows are essentially the same, "
 
 msgctxt "86554463cbfc47619e623e84a9d6b820"
 msgid "བཀག་པ་ ཡེ་ བཀག་ ཡིན་པ་␣ས་ ཀྱང༌ །"
