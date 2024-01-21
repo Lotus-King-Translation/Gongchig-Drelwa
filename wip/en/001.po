@@ -12215,7 +12215,7 @@ msgstr ""
 msgctxt "d902d8c3e7dc4e7a97214e80771b0087"
 msgid "གཞན་དབང་ མ་ཡིན་པ་␣ར་ ཡིན་པ་␣ར་ བརྟགས་པ་ མཚན་ཉིད་ འཆད་པ་ དང་ །"
 msgstr ""
-"Explaining and examining the characteristics of the other-powered "
+"Explaining and labeling the characteristics of the other-powered "
 "[character], even if it is not [the other-powered character] and"
 
 msgctxt "17fa87f4903843f4836fc858b86e229c"
