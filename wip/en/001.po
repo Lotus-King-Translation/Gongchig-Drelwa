@@ -12293,7 +12293,7 @@ msgstr "According to the Hevajra [Tantra]:"
 
 msgctxt "f10a19c9a3e84b26bed0a895ccc35877"
 msgid "འདི་དག་ དབང་ གིས་ སེམས་ཅན་ རྣམས ། །"
-msgstr ""
+msgstr "By the power of these, the sentient beings,"
 
 msgctxt "9fd3e9653b284021ad3665fe522ae767"
 msgid "སངས་རྒྱས་ ཉིད་ དུ་ ཐེ་ཚོམ་ མེད ། །"
