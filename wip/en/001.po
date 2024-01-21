@@ -12317,7 +12317,7 @@ msgstr "In brief, the five aggregates are"
 
 msgctxt "2f05d8cbda624d97b91df34095dd8c77"
 msgid "སངས་རྒྱས་ ལྔ་␣ར་ ནི་ རྣམ་པ་␣ར་ གྲགས ། །"
-msgstr ""
+msgstr "Known as the five Buddha types."
 
 msgctxt "0145e3227f24432bb67bb79018073f54"
 msgid "ཞེས་ དང་ ཀུན་སྤྱོད་ ལ་␣ས ། །"
