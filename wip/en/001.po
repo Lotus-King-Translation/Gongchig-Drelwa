@@ -12284,6 +12284,8 @@ msgid ""
 "དེ་བས་ན་ གདོད་མ་ ནས་ ཕུང་ ཁམས་ སྐྱེ་མཆེད་ ཐམསཅད་ དཀྱིལ་འཁོར་ གྱི་ "
 "འཁོར་ལོ་␣ར་ གནས་པ་ ཡིན་ ཏེ །"
 msgstr ""
+"Therefore, from the beginning, all the aggregates, elements, and sense "
+"fields are present in the mandala circle."
 
 msgctxt "05ac0a68fbd94133a783c7e4e3f6bc16"
 msgid "ཀྱེ་རྡོར་ ལ་␣ས །"
