@@ -12313,7 +12313,7 @@ msgstr "According to The Gathered Secret:"
 
 msgctxt "c0e28c4ce4b34366805f85b68be66185"
 msgid "མདོར་ན་ ཕུང་པོ་ ལྔ་ རྣམས་ ནི །"
-msgstr ""
+msgstr "In brief, the five aggregates are"
 
 msgctxt "2f05d8cbda624d97b91df34095dd8c77"
 msgid "སངས་རྒྱས་ ལྔ་␣ར་ ནི་ རྣམ་པ་␣ར་ གྲགས ། །"
