@@ -12253,7 +12253,7 @@ msgstr "thoroughly-established from the beginning."
 
 msgctxt "9ddf4345c5e14c93be51071ecca53c05"
 msgid "བརྩོན་པ་␣ས་ བསྒྲུབ་ ན་ འགྲུབ་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "It can be accomplished through diligence."
 
 msgctxt "554fff0ae36d4b119c11b59bacb668fa"
 msgid "དཔེར་ན་ གསེར་རྡོ་ བཞུས་ ན་ གསེར་ འབྱུང་བ་ བཞིན་ ནོ ། །"
