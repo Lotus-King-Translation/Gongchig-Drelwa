@@ -13981,7 +13981,7 @@ msgstr ""
 
 msgctxt "abbf9017186249639bff3a609faf3dc4"
 msgid "གསང་བ་ རྒྱ་མཚོ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The Ocean of Secrets:"
 
 msgctxt "704907dd8dd44ef393efff858964da32"
 msgid "སྐུ་གསུམ་ ཡོངས་སུ་ གྲུབ་པ་ གསང་སྔགས་ ཐེག་པ་ སྟེ །"
