@@ -12245,7 +12245,7 @@ msgstr ""
 
 msgctxt "a880fffd426a4fbb929dbc157043c64e"
 msgid "འདི་␣ར་ ནི་ བསྐྱེད་པ་␣འི་ རིམ་པ་␣འི་ ལྷ་ རྣམས་"
-msgstr ""
+msgstr "In this [system], the deities of the stages of generation are "
 
 msgctxt "91a1f6727f0540edbcf132c53635e95e"
 msgid "གདོད་མ་ ནས་ ཡོངས་སུ་ གྲུབ་པ་ ཡིན་ ཏེ་"
