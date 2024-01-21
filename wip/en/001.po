@@ -12204,7 +12204,7 @@ msgstr ""
 
 msgctxt "ff21bede22c9476da015da3eb799f6ba"
 msgid "ཆོས་ རྣམས་ ཀྱི་ ཆོས་ཉིད་ ནི་"
-msgstr ""
+msgstr "Dharmata of all phenomena is "
 
 msgctxt "baa7a96ac76c47f8932dd11c2d038adc"
 msgid "ཡོངས་གྲུབ་ ཏུ་ རྐྱེན་ ཚོགས་པ་ ལ་ རག་ ལས་པ་ ནི་"
