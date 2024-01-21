@@ -12234,6 +12234,8 @@ msgstr ""
 msgctxt "a437e65132244480a535d2310d0367d5"
 msgid "གཤིས་ ལ་ མེད་པ་␣ས་ མ་ཡིན་པ་␣ར་ ཡིན་པ་␣ར་ བཅོས་པ་␣འི་ ཀུན་བཏགས་ ཏེ་"
 msgstr ""
+"Because of its non-existence by nature, it is the all-labelled [character] "
+"of what is not as it is."
 
 msgctxt "c58a34e07ce446748f3580e4ac7b33bb"
 msgid "ཀླུ་␣འི་ བྱང་ཆུབ་ ཀྱིས་ ཤིང་ སྒོམ་པ་ སྐྱེས་པ་ བཞིན་ ནོ་ ཟེར །"
