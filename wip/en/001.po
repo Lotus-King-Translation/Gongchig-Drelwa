@@ -19134,7 +19134,7 @@ msgstr ""
 
 msgctxt "8bb223c113ec4508b04afd1977f9ec4f"
 msgid "གསང་འདུས་ གཉིས་ མེད་ རྣམས་ ལ་␣ས །"
-msgstr ""
+msgstr "According to all the Non-dual Gathered Secret:"
 
 msgctxt "9ca9187278d642b6b81064ff9b2d5a3a"
 msgid "བྱང་ཆུབ་ སེམས་ ནི་ མི་ཟད་ ཕྱིར ། །"
