@@ -12435,7 +12435,7 @@ msgstr "Those with mandalas, likewise thousands."
 
 msgctxt "8a2c2d801e224abdb4c80bf15c196528"
 msgid "ཞེས་པ་ ལྟར་ བསྙེན་པ་ གཙོ་ ཆེ་ ཟེར །"
-msgstr ""
+msgstr "Thus, it is said that recitation is the most important."
 
 msgctxt "441411882f8d4dd9ac2fe122247c82d2"
 msgid "འདི་␣ར་ ནི་ དེ་␣འང་ བསྐྱེད་རིམ་ ཡོངས་གྲུབ་ གཞིར་བཅས་ ཏེ་"
