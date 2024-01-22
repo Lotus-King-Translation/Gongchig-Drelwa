@@ -12373,7 +12373,7 @@ msgstr ""
 
 msgctxt "ca17b5f1d8094b08b66c48b9243e7abc"
 msgid "དེ་␣འང་ དང་པོ་"
-msgstr "Also, the first"
+msgstr "Also, in the first"
 
 msgctxt "b9a8a2309eab4fe99df99ddff5587a4a"
 msgid "སྣོད་ གཞལ་ཡས་ བཅུད་ ལྷ་ དང་ ལྷ་མོ་␣ར་ མོས་པ་␣ས་ སྦྱོང༌ །"
