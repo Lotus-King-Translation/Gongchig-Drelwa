@@ -12459,6 +12459,8 @@ msgstr ""
 msgctxt "43e936b9f812475e8fc94b0ad5b951cf"
 msgid "གདན་ ཟླ་བ །  གསུང་ ཡིག་འབྲུ །  ཐུགས་ ཕྱག་མཚན །"
 msgstr ""
+"The seat is the moon, the speech is the syllables, the mind is the sceptre, "
+"and "
 
 msgctxt "a5de4e6eadf54e2c904ff5e8bb38a717"
 msgid "སྐུ་ ཡོངས་རྫོགས་ ཏེ་ མངོན་བྱང་ ལྔ །"
