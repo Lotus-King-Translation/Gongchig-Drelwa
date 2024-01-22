@@ -12363,7 +12363,7 @@ msgstr "Addendum: From the beginning,"
 
 msgctxt "395d88abcc984500a24fab7e0e07ebb8"
 msgid "ལྷ་ ལ་ འཇུག་ མི་ ནུས་"
-msgstr ""
+msgstr "One cannot engage the deity,"
 
 msgctxt "81630afa2a1b4403845436e23bc23045"
 msgid "སྦྱང་ སྤེལ་ སྒྱུ་མ་␣ར་ བསླབ་པ་ སོགས་ ཀྱིས་ སྒོམ་ དགོས །"
