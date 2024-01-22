@@ -12368,6 +12368,8 @@ msgstr "One cannot engage with the deity,"
 msgctxt "81630afa2a1b4403845436e23bc23045"
 msgid "སྦྱང་ སྤེལ་ སྒྱུ་མ་␣ར་ བསླབ་པ་ སོགས་ ཀྱིས་ སྒོམ་ དགོས །"
 msgstr ""
+"One must meditate by training in purification, alternation, illusion, and so"
+" forth."
 
 msgctxt "ca17b5f1d8094b08b66c48b9243e7abc"
 msgid "དེ་␣འང་ དང་པོ་"
