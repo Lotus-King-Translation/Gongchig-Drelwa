@@ -12359,7 +12359,7 @@ msgstr "And"
 
 msgctxt "01a1c5c3de1c4fdfa634293e2484db61"
 msgid "ལྷན་␣༽༽  དང་པོ་ ནས་"
-msgstr ""
+msgstr "Addendum: From the beginning,"
 
 msgctxt "395d88abcc984500a24fab7e0e07ebb8"
 msgid "ལྷ་ ལ་ འཇུག་ མི་ ནུས་"
