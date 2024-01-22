@@ -12406,7 +12406,7 @@ msgstr ""
 
 msgctxt "7daddd36b28f4088aec491e596bdbfbc"
 msgid "ཟབ་མོ་␣འི་ གནད་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "the profound key point."
 
 msgctxt "ca6d760c8c9446689cf5e31783cd38e5"
 msgid "ལུས་ངག་ ཡིད་ གསུམ་ ཐ་མལ་ དུ་ སྐད་ཅིག་ ཙམ་ ཡང་ མི་ འཆོར་བ་"
