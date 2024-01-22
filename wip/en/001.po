@@ -12499,6 +12499,8 @@ msgstr "Austerity must be like drinking water or stone."
 msgctxt "23c87e535af54120913134f28b3e46db"
 msgid "འདོད་ཡོན་ བརྟེན་ ན་ ལུས་ དྲེགས་ ནས་ ཉོན་མོངས་ སྐྱེ་བ་␣ས་"
 msgstr ""
+"If one depends on sense pleasures, the body will become haughty and "
+"afflictions arise."
 
 msgctxt "aa08eeb155c749ea92d272af6ada0411"
 msgid "ལུས་ རྒུད་ ན་ མི་ ཡོང །"
