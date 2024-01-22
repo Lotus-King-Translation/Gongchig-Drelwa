@@ -12511,6 +12511,8 @@ msgid ""
 "ཡང་ ཉོན་མོངས་ སྐྱེས་ དུས་ རང་ གིས་ རང་ དམའ་ འབབ་ སུན་ འབྱིན་ དགོས་ ཟེར་ རོ "
 "། །"
 msgstr ""
+"Again, it is said that when afflictions arise, one must refute oneself by "
+"belittling oneself."
 
 msgctxt "c1322085934f4372b18e568efd8c5245"
 msgid "འདི་␣ར་ ནི་ ཐ་མལ་པ་␣འི་ ལུས་ སུ་ བཏགས་པ་␣འི་ ཕྱིར་"
