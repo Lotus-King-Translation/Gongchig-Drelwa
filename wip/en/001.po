@@ -12448,6 +12448,8 @@ msgid ""
 "རྟེན་འབྲེལ་ གྱི་ ཚོགས་པ་ ཚང་བ་ ལ་␣ས་ འགྲུབ་པ་ ངེས་པར་ ཤེས་པ་␣ར་ བྱེད་ དགོས་ "
 "ཏེ །"
 msgstr ""
+"By the complete assembly of interdependence, then one must understand the "
+"accomplishment."
 
 msgctxt "93f1976eeda446059b0f4aa9f57e56d8"
 msgid "དེ་␣འང་ ནང་ རྟེན་འབྲེལ་ གཞི་ སྟོང་ཉིད །"
