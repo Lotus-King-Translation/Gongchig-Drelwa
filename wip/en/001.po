@@ -12419,7 +12419,7 @@ msgstr " the vow of a knowledge-holder."
 
 msgctxt "5094c4980c25430eaa30572b3904b1e0"
 msgid "ལྷན་␣༽༽  ལྷ་ འགྲུབ་པ་␣ར་ བྱེད་པ་ ལ་"
-msgstr ""
+msgstr "Addendum: To accomplish the deity,"
 
 msgctxt "7834e05042e943f18b5f6a3cfeb69c74"
 msgid "སཾ་ བྷུ་ ཊི་ ལ་␣ས །"
