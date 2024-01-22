@@ -12378,6 +12378,8 @@ msgstr "Also, in the first"
 msgctxt "b9a8a2309eab4fe99df99ddff5587a4a"
 msgid "སྣོད་ གཞལ་ཡས་ བཅུད་ ལྷ་ དང་ ལྷ་མོ་␣ར་ མོས་པ་␣ས་ སྦྱོང༌ །"
 msgstr ""
+"Purify with adherence to the vessel as the immeasurable celestial mansion "
+"and the inhabitants as the deities and goddesses."
 
 msgctxt "37b1c61dacd64ce8a4f57af549772b48"
 msgid "བར་ དུ་ དེ་ གཉིས་ སྤེལ་མ་␣ར་ བསླབ །"
