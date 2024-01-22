@@ -12431,7 +12431,7 @@ msgstr "One hundred thousand recitations of the lord of the wheel."
 
 msgctxt "9b54cb0bb6284574b619d30357344061"
 msgid "དཀྱིལ་འཁོར་ ཅན་ གྱིས་ དེ་བཞིན་ ཁྲི །"
-msgstr ""
+msgstr "Those with mandalas, likewise thousands."
 
 msgctxt "8a2c2d801e224abdb4c80bf15c196528"
 msgid "ཞེས་པ་ ལྟར་ བསྙེན་པ་ གཙོ་ ཆེ་ ཟེར །"
