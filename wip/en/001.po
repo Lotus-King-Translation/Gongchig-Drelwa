@@ -12392,6 +12392,8 @@ msgstr "Finally, train in mere illusion."
 msgctxt "9ecc9df2829245f59ac91ff0a8bb373d"
 msgid "གཟོད་ རང་ ལུས་ ལྷ་␣ར་ བསྒོམས་པ་␣ས་ གསལ་བ་␣ར་ འོང་ ཟེར་␣༑"
 msgstr ""
+"Then, it is said that by meditating on one’s own body as the deity, it will "
+"become clear."
 
 msgctxt "f756b813e8d842e397944506fec2e736"
 msgid "འདི་␣ར་ ནི་ བསྐྱེད་རིམ་ ཡོངས་གྲུབ་ ཡིན་པ་␣འི་ ཕྱིར་"
