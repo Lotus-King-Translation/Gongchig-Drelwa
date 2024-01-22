@@ -12486,7 +12486,7 @@ msgstr "That is the outer and inner dependent relationships."
 
 msgctxt "6fb481bb220244ac84d94c1b19290684"
 msgid "བསྙེན་པ་␣འི་ གྲངས་ དེ་␣འང་ འདི་␣འི་ ཕྱོགས་ ཙམ་ མོ །"
-msgstr ""
+msgstr "The number of recitations is just a portion of this."
 
 msgctxt "7f204345ecc44b32998886ebeef6218b"
 msgid "ལྷན་␣༽༽  དཀའ་བ་ མ་ སྤྱད་ ན་ སངས་ མི་ རྒྱ་"
