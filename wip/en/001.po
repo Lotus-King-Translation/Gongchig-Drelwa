@@ -12337,7 +12337,7 @@ msgstr "According to The Ocean of Secrets:"
 
 msgctxt "b736d92691e74af4b56b6fcff0be23c4"
 msgid "ཤེས་བྱ་␣འི་ དཀྱིལ་འཁོར་ མ་ ལུས་ འདི་དག་ ཐམས་ཅད་ ནི །"
-msgstr ""
+msgstr "All of these mandalas of knowable without exception are"
 
 msgctxt "ce1d7d4cf9eb46beb2117f92da79888a"
 msgid "སྐུ་གསུམ་ ཡོངས་སུ་ གྲུབ་པ་ གསང་སྔགས་ ཐེག་པ་ སྟེ །"
