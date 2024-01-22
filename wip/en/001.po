@@ -12482,7 +12482,7 @@ msgstr ""
 
 msgctxt "00bf2a63e24a426aae0b8da0a82cee30"
 msgid "ཕྱི་ ནང་ གི་ རྟེན་འབྲེལ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "That is the outer and inner dependent relationships."
 
 msgctxt "6fb481bb220244ac84d94c1b19290684"
 msgid "བསྙེན་པ་␣འི་ གྲངས་ དེ་␣འང་ འདི་␣འི་ ཕྱོགས་ ཙམ་ མོ །"
