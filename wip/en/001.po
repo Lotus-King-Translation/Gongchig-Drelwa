@@ -12387,7 +12387,7 @@ msgstr "In the middle, train in alternating those two."
 
 msgctxt "3455e4ea0861461e9d7159dfea8ae3f6"
 msgid "མཐ་␣ར་ སྒྱུ་མ་ ཙམ་ ལ་ བསླབས་ ཏེ་"
-msgstr "Finally, train in just an illusion."
+msgstr "Finally, train in mere illusion."
 
 msgctxt "9ecc9df2829245f59ac91ff0a8bb373d"
 msgid "གཟོད་ རང་ ལུས་ ལྷ་␣ར་ བསྒོམས་པ་␣ས་ གསལ་བ་␣ར་ འོང་ ཟེར་␣༑"
