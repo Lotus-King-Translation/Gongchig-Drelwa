@@ -12454,6 +12454,7 @@ msgstr ""
 msgctxt "93f1976eeda446059b0f4aa9f57e56d8"
 msgid "དེ་␣འང་ ནང་ རྟེན་འབྲེལ་ གཞི་ སྟོང་ཉིད །"
 msgstr ""
+"Further, the inner dependent relationship, the emptiness as the ground."
 
 msgctxt "43e936b9f812475e8fc94b0ad5b951cf"
 msgid "གདན་ ཟླ་བ །  གསུང་ ཡིག་འབྲུ །  ཐུགས་ ཕྱག་མཚན །"
