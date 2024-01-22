@@ -12411,6 +12411,7 @@ msgstr "the profound key point."
 msgctxt "ca6d760c8c9446689cf5e31783cd38e5"
 msgid "ལུས་ངག་ ཡིད་ གསུམ་ ཐ་མལ་ དུ་ སྐད་ཅིག་ ཙམ་ ཡང་ མི་ འཆོར་བ་"
 msgstr ""
+"Not losing body, speech, and mind to ordinary states even for an instant is"
 
 msgctxt "2506359002f6415da22fcfc1bc6d16e1"
 msgid "རིག་པ་ འཛིན་པ་␣འི་ སྡོམ་པ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ །"
