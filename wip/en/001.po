@@ -12402,6 +12402,7 @@ msgstr "In this [system], the generation stage is thoroughly-established."
 msgctxt "9098c494f28e409e80f5a33124ddff2f"
 msgid "རང་ ལུས་ ལྷ་ དང་ དབྱེ་␣ར་ མེད་པ་ ལ་ ཅིག་ ཆ་␣ར་ དུ་ འཇུག་པ་ ནི་"
 msgstr ""
+"The simultaneous entry of one’s own body inseparable from the deity is"
 
 msgctxt "7daddd36b28f4088aec491e596bdbfbc"
 msgid "ཟབ་མོ་␣འི་ གནད་ ཡིན་ ཏེ །"
