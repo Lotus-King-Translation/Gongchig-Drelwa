@@ -12427,7 +12427,7 @@ msgstr "According to the Samputa:"
 
 msgctxt "7cae6f181b8046ce8fe09dd99bd16f11"
 msgid "འཁོར་ལོ་␣འི་ བདག་པོ་ འབུམ་ བཟླས་ ཤིང་ །"
-msgstr ""
+msgstr "One hundred thousand recitations of the lord of the wheel."
 
 msgctxt "9b54cb0bb6284574b619d30357344061"
 msgid "དཀྱིལ་འཁོར་ ཅན་ གྱིས་ དེ་བཞིན་ ཁྲི །"
