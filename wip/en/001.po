@@ -12351,7 +12351,7 @@ msgstr "The vehicle of the path is to enter the realm of the three bodies."
 
 msgctxt "3a852e92efd14e298a707fd8392b1370"
 msgid "སྐུ་གསུམ་ འདུ་ འཕྲལ་ མེད་པ་ རྡོ་རྗེ་␣འི་ ཐེག་པ་␣འོ ། །"
-msgstr ""
+msgstr "The three bodies without meeting or parting is the vajra vehicle."
 
 msgctxt "28c285c3510c4ded8f655deadcb8a18e"
 msgid "ཞེས་ སོ ། །"
