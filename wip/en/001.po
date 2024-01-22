@@ -12516,7 +12516,7 @@ msgstr ""
 
 msgctxt "c1322085934f4372b18e568efd8c5245"
 msgid "འདི་␣ར་ ནི་ ཐ་མལ་པ་␣འི་ ལུས་ སུ་ བཏགས་པ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "In this [system], because it is designated as an ordinary body,"
 
 msgctxt "5d9ea987883f4b9891dd52c9b6a3d8d6"
 msgid "དཀའ་ཐུབ་ སྤྱོད་པ་ ནི་ དེ་ལྟར་ སྨད་པ་ ཡིན་ ཏེ་"
