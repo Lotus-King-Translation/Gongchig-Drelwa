@@ -12504,7 +12504,7 @@ msgstr ""
 
 msgctxt "aa08eeb155c749ea92d272af6ada0411"
 msgid "ལུས་ རྒུད་ ན་ མི་ ཡོང །"
-msgstr ""
+msgstr "If the body degenerates, this will not occur."
 
 msgctxt "0c46ea126e1c4eef8ff30e83af22c5de"
 msgid ""
