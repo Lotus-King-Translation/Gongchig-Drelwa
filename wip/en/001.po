@@ -12440,6 +12440,8 @@ msgstr "Thus, it is said that recitation is the most important."
 msgctxt "441411882f8d4dd9ac2fe122247c82d2"
 msgid "འདི་␣ར་ ནི་ དེ་␣འང་ བསྐྱེད་རིམ་ ཡོངས་གྲུབ་ གཞིར་བཅས་ ཏེ་"
 msgstr ""
+"In this [system], The generation stage is the basis for the thorough-"
+"establishment."
 
 msgctxt "689236f97a374c38ae2ea62bb13c0533"
 msgid ""
