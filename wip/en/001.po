@@ -12397,7 +12397,7 @@ msgstr ""
 
 msgctxt "f756b813e8d842e397944506fec2e736"
 msgid "འདི་␣ར་ ནི་ བསྐྱེད་རིམ་ ཡོངས་གྲུབ་ ཡིན་པ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "In this [system], the generation stage is thoroughly-established."
 
 msgctxt "9098c494f28e409e80f5a33124ddff2f"
 msgid "རང་ ལུས་ ལྷ་ དང་ དབྱེ་␣ར་ མེད་པ་ ལ་ ཅིག་ ཆ་␣ར་ དུ་ འཇུག་པ་ ནི་"
