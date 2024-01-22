@@ -12383,7 +12383,7 @@ msgstr ""
 
 msgctxt "37b1c61dacd64ce8a4f57af549772b48"
 msgid "བར་ དུ་ དེ་ གཉིས་ སྤེལ་མ་␣ར་ བསླབ །"
-msgstr ""
+msgstr "In the middle, train in alternating those two."
 
 msgctxt "3455e4ea0861461e9d7159dfea8ae3f6"
 msgid "མཐ་␣ར་ སྒྱུ་མ་ ཙམ་ ལ་ བསླབས་ ཏེ་"
