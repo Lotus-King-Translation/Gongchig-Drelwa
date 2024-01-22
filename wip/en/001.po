@@ -12415,7 +12415,7 @@ msgstr ""
 
 msgctxt "2506359002f6415da22fcfc1bc6d16e1"
 msgid "རིག་པ་ འཛིན་པ་␣འི་ སྡོམ་པ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ །"
-msgstr ""
+msgstr " the vow of a knowledge-holder."
 
 msgctxt "5094c4980c25430eaa30572b3904b1e0"
 msgid "ལྷན་␣༽༽  ལྷ་ འགྲུབ་པ་␣ར་ བྱེད་པ་ ལ་"
