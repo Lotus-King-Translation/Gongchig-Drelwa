@@ -12342,6 +12342,8 @@ msgstr "All of these mandalas of knowable without exception are"
 msgctxt "ce1d7d4cf9eb46beb2117f92da79888a"
 msgid "སྐུ་གསུམ་ ཡོངས་སུ་ གྲུབ་པ་ གསང་སྔགས་ ཐེག་པ་ སྟེ །"
 msgstr ""
+"The secret mantra vehicle is the complete accomplishment of the three "
+"bodies."
 
 msgctxt "b015d64911c24b58a3e54443371519b6"
 msgid "སྐུ་གསུམ་ ཞིང་ ལ་ འཇུག་པ་ ལམ་ གྱི་ ཐེག་པ་ ཡིན །"
