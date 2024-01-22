@@ -12490,7 +12490,7 @@ msgstr "The number of recitations is just a portion of this."
 
 msgctxt "7f204345ecc44b32998886ebeef6218b"
 msgid "ལྷན་␣༽༽  དཀའ་བ་ མ་ སྤྱད་ ན་ སངས་ མི་ རྒྱ་"
-msgstr ""
+msgstr "Addendum: One will not become a buddha without engaging in hardship."
 
 msgctxt "d756174efe144a0b822e2800c522b413"
 msgid "དཀའ་ཐུབ་ ཆུ་ འཐུང་ རྡོ་ ལྟར་ དགོས །"
