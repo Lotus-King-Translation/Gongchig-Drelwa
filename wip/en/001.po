@@ -12469,7 +12469,7 @@ msgstr ""
 
 msgctxt "adedeb3683644ce19d67dde8afe726f1"
 msgid "ཕུང་ ལྔ་ རང་ཆས་ སུ་ ཡོད་པ་ རྒྱུ །"
-msgstr "The inherent presence of the five aggregates is cause. "
+msgstr "The inherent presence of the five aggregates is the cause."
 
 msgctxt "dd55f84d4ed148678133527b52b8d354"
 msgid ""
