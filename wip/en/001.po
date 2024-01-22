@@ -12423,7 +12423,7 @@ msgstr "Addendum: To accomplish the deity,"
 
 msgctxt "7834e05042e943f18b5f6a3cfeb69c74"
 msgid "སཾ་ བྷུ་ ཊི་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Samputa:"
 
 msgctxt "7cae6f181b8046ce8fe09dd99bd16f11"
 msgid "འཁོར་ལོ་␣འི་ བདག་པོ་ འབུམ་ བཟླས་ ཤིང་ །"
