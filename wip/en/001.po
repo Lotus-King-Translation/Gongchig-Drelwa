@@ -12606,7 +12606,7 @@ msgstr "By eradicating the exaggeration of what is and what is not,"
 
 msgctxt "32093a1c705e4ebb8b80e322e8c017e9"
 msgid "སྤྲོ་ ན་ ལྷག་ ཡར་ ཡང་ རྒྱས་པ་␣ར་ འགྱུར་བ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "When elaborated, it becomes more extensive than before."
 
 msgctxt "f7c73a7ef85544e89528737ea14aa794"
 msgid "མེ་ འབར་བ་ ལ་ ཤིང་ བསྣན་པ་ བཞིན་ ནོ་␣༑"
