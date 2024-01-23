@@ -12564,7 +12564,7 @@ msgstr "The aggregates are the nature of the five buddhas."
 
 msgctxt "c7099dc0a1f349ff8d6a95b89f66c573"
 msgid "ཅེས་ སོ ། །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "d54b55ee7f6c421896fbae0d66324417"
 msgid "དེས་ན་ སེམས་ བརྟུལ་ ན་  ལུས་ངག་ ཀྱང་ འདུལ་བ་␣ར་ འགྱུར་ རོ །"
