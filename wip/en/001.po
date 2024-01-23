@@ -12524,7 +12524,7 @@ msgstr ""
 
 msgctxt "f847b78892d04508aaf13b7696800062"
 msgid "བསྐྱེད་པ་␣འི་ རིམ་པ་ ཡོངས་གྲུབ་ ཡིན་པ་␣འི་ ཕྱིར་ དང་ །"
-msgstr ""
+msgstr "Because the stages of generation is the thorough-establishment and"
 
 msgctxt "8fc488d5edc7487c887a7a12b32774c6"
 msgid "ནང་པ་ སངས་རྒྱས་པ་ ནང་སེམས་ འདུལ་བ་ གཙོ་ ཆེ་བ་␣འི་ ཕྱིར་ དང་ །"
