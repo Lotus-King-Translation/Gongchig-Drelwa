@@ -12584,7 +12584,7 @@ msgstr ""
 
 msgctxt "6a40ca8fdca64ade9f0b37dd396c7698"
 msgid "འཇུག་ ཆོག་ མི་ དགོས་ ཟེར་བ་ ནི་ ཁ་ཅིག་ གོ  །"
-msgstr "It is said that the liturgical procedure to engage is not needed."
+msgstr "It is said that the liturgical procedure to engage is not required."
 
 msgctxt "4d1e9af574ed4e28959dd02a76948fd1"
 msgid "འདི་␣ར་ ནི་ དེ་ལྟར་ རང་བྱུང་ གི་ ཏིང་འཛིན་ སྐྱེ་བ་"
