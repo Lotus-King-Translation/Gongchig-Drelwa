@@ -12573,6 +12573,8 @@ msgstr "Therefore, taming the mind also tames the body and speech."
 msgctxt "ff2003a2eca24dfdb94d586263c9de67"
 msgid "རྡོ་␣༽༽  སྔོན་ གྱི་ ལས་འཕྲོ་ སད་པ་␣འི་ སྦྱངས་ སྟོབས་ ཅན་"
 msgstr ""
+"Vajra: Some said that those with the power of training activate the previous"
+" uncompleted karma"
 
 msgctxt "b58841ce879848819d346b1e4b652e6e"
 msgid "ཤེས་ གཉེན་ དང་ གདམས་ངག་ ལ་མ་ བརྟེན་ ཡང་ ཏིང་འཛིན་ སྐྱེ་བ་ ཡོད་པ་␣ས་"
