@@ -12624,6 +12624,8 @@ msgstr "Definite emergence from samsara is individual emancipation."
 msgctxt "8a3204b5aaac4aaf8bf00f2b63f73a95"
 msgid "ཉན་རང་ དུ་ མི་ གོལ་བ་ སེམས་བསྐྱེད །"
 msgstr ""
+"To not go astray in the shravakas and pratyekabuddhas is the generation of "
+"the mind [for enlightenment]."
 
 msgctxt "9248b311ffe147a0b984ae12eec62770"
 msgid "སྒོ་གསུམ་ ཐ་མལ་ དུ་ཞིག་པ་␣ར་ ལྡོག་པ་ སྔགས་ ཀྱི་ དབང་ བསྐུར་ ནས་"
