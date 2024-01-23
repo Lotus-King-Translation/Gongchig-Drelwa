@@ -12560,7 +12560,7 @@ msgstr "And"
 
 msgctxt "7b026e32171c42c29577e8ef9386fa5e"
 msgid "ཕུང་པོ་ སངས་རྒྱས་ ལྔ་␣འི་ བདག་ཉིད །"
-msgstr ""
+msgstr "The aggregates are the nature of the five buddhas."
 
 msgctxt "c7099dc0a1f349ff8d6a95b89f66c573"
 msgid "ཅེས་ སོ ། །"
