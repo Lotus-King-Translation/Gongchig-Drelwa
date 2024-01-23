@@ -12638,6 +12638,8 @@ msgid ""
 "བསྐྱེད་རྫོགས་ ཀྱི་ ཏིང་འཛིན་ དང་ དབྱེ་␣ར་ མེད་ བདེ་ཆེན་ གྱི་ དོན་ ངོ་ "
 "སྤྲད་པ་␣ས་"
 msgstr ""
+"Introduced to the meaning of great bliss, which is inseparable from the "
+"concentration of the generation and completion stages, "
 
 msgctxt "7cf220619f7346a5bc8cb6d4457ea4d1"
 msgid "མཆོག་ ཐུན་ གྱི་ དངོས་གྲུབ་ ཐོབ་པ་␣ར་ འགྱུར་ རོ ། །"
