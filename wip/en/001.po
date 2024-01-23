@@ -12548,7 +12548,7 @@ msgstr "Shantideva says:"
 
 msgctxt "567ba9c0f5ee4510b525726fe1354657"
 msgid "སེམས་ བསྲུང་ བརྟུལ་ཞུགས་ མ་གཏོགས་པ་␣འི ། །"
-msgstr ""
+msgstr "Except for the discipline of guarding the mind,"
 
 msgctxt "691f0be813b0468b9c08dbb7b3b7b51e"
 msgid "བརྟུལ་ཞུགས་ མང་པོ་␣ས་ ཅི་ཞིག་ བྱ །"
