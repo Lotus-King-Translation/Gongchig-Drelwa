@@ -12532,7 +12532,7 @@ msgstr "Buddhists place the most important emphasis on taming the mind."
 
 msgctxt "a98dc8726b444925804f0fe1844e3724"
 msgid "རྩ་ལྟུང་ གཏོང་བ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Because it will pass the root downfalls."
 
 msgctxt "a6ed2169330b460a81faa2c65a76875b"
 msgid "རང་ གི་ སེམས་ ནི་ ཡོངས་སུ་ འདུལ །"
