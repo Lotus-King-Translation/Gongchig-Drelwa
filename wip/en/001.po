@@ -12630,6 +12630,8 @@ msgstr ""
 msgctxt "9248b311ffe147a0b984ae12eec62770"
 msgid "སྒོ་གསུམ་ ཐ་མལ་ དུ་ཞིག་པ་␣ར་ ལྡོག་པ་ སྔགས་ ཀྱི་ དབང་ བསྐུར་ ནས་"
 msgstr ""
+"To reverse the three doors from their destruction into the ordinary, by "
+"bestowing the empowerment of mantra"
 
 msgctxt "c8a8947ee3224daa85fa41e0f4ac1c61"
 msgid ""
