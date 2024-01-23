@@ -12552,7 +12552,7 @@ msgstr "Except for the discipline of guarding the mind,"
 
 msgctxt "691f0be813b0468b9c08dbb7b3b7b51e"
 msgid "བརྟུལ་ཞུགས་ མང་པོ་␣ས་ ཅི་ཞིག་ བྱ །"
-msgstr ""
+msgstr "What to do with many disciplines?"
 
 msgctxt "c1d29e87610145d8aebbf0b6f5b65f91"
 msgid "ཞེས་ དང༌ །"
