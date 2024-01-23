@@ -12540,7 +12540,7 @@ msgstr "Completely tame one's own mind."
 
 msgctxt "a44cdd32c31d4970a226d6879330ae22"
 msgid "ཅེས་ དང་ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "7caf3ba92b1e4c919eed34372d48882a"
 msgid "ཞི་ ལྷས །"
