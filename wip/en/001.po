@@ -12619,7 +12619,7 @@ msgstr ""
 
 msgctxt "37c67cba927c473bab39e50fcd3cd645"
 msgid "སྐྱབས་འགྲོ་ འཁོར་བ་ ལ་ ངེས་པར་ འབྱུང་བ་␣འི་ སོ་ཐར །"
-msgstr ""
+msgstr "Definite emergence from samsara is individual emancipation."
 
 msgctxt "8a3204b5aaac4aaf8bf00f2b63f73a95"
 msgid "ཉན་རང་ དུ་ མི་ གོལ་བ་ སེམས་བསྐྱེད །"
