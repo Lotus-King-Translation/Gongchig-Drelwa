@@ -12614,7 +12614,7 @@ msgstr "Like adding wood to a blazing fire."
 
 msgctxt "8f6d4a24203b4c16b94e5a60edd39563"
 msgid "༑་␣དེ་ལྟར་ ན་ ནང་པ་␣འི་ ཕྱག་རྒྱ་␣ས་ ཐེབས་པ་␣འི་ སླད་ དུ་"
-msgstr ""
+msgstr "Thus, for the sake of being placed by the Buddhist mudra is "
 
 msgctxt "37c67cba927c473bab39e50fcd3cd645"
 msgid "སྐྱབས་འགྲོ་ འཁོར་བ་ ལ་ ངེས་པར་ འབྱུང་བ་␣འི་ སོ་ཐར །"
