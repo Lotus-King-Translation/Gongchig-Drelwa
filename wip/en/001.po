@@ -12602,7 +12602,7 @@ msgstr ""
 
 msgctxt "b6ccb69343e3476693ea3e1a6de4d83a"
 msgid "ཡིན་ མིན་ གྱི་ སྒྲོ་ འདོག་ ཆོད་ དེ་"
-msgstr ""
+msgstr "By eradicating the exaggeration of what is and what is not,"
 
 msgctxt "32093a1c705e4ebb8b80e322e8c017e9"
 msgid "སྤྲོ་ ན་ ལྷག་ ཡར་ ཡང་ རྒྱས་པ་␣ར་ འགྱུར་བ་␣འི་ ཕྱིར །"
