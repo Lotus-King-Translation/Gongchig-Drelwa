@@ -12536,7 +12536,7 @@ msgstr ""
 
 msgctxt "a6ed2169330b460a81faa2c65a76875b"
 msgid "རང་ གི་ སེམས་ ནི་ ཡོངས་སུ་ འདུལ །"
-msgstr ""
+msgstr "Completely tame one's own mind."
 
 msgctxt "a44cdd32c31d4970a226d6879330ae22"
 msgid "ཅེས་ དང་ །"
