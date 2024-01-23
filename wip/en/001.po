@@ -12589,6 +12589,8 @@ msgstr "It is said that the liturgical procedure to engage is not needed."
 msgctxt "4d1e9af574ed4e28959dd02a76948fd1"
 msgid "འདི་␣ར་ ནི་ དེ་ལྟར་ རང་བྱུང་ གི་ ཏིང་འཛིན་ སྐྱེ་བ་"
 msgstr ""
+"In this [system], for those who have generated the self-arisen concentration"
+" in that way,"
 
 msgctxt "e153a3724bf94ea69fa15a64ab72130a"
 msgid ""
