@@ -12610,7 +12610,7 @@ msgstr "When elaborated, it becomes more extensive than before."
 
 msgctxt "f7c73a7ef85544e89528737ea14aa794"
 msgid "མེ་ འབར་བ་ ལ་ ཤིང་ བསྣན་པ་ བཞིན་ ནོ་␣༑"
-msgstr ""
+msgstr "Like adding wood to a blazing fire."
 
 msgctxt "8f6d4a24203b4c16b94e5a60edd39563"
 msgid "༑་␣དེ་ལྟར་ ན་ ནང་པ་␣འི་ ཕྱག་རྒྱ་␣ས་ ཐེབས་པ་␣འི་ སླད་ དུ་"
