@@ -12643,7 +12643,7 @@ msgstr ""
 
 msgctxt "7cf220619f7346a5bc8cb6d4457ea4d1"
 msgid "མཆོག་ ཐུན་ གྱི་ དངོས་གྲུབ་ ཐོབ་པ་␣ར་ འགྱུར་ རོ ། །"
-msgstr ""
+msgstr "The actual supreme and ordinary accomplishment will be attained. "
 
 msgctxt "93cbd1afb1f84ce9a94b0cb9cd945fc1"
 msgid "དེས་ན་ མི་ལུས་ ཐོབ་པ་ སྔོན་ ཚུལ་ཁྲིམས་ བསྲུང་བ་␣ས་ ཡིན་ ཀྱང་"
