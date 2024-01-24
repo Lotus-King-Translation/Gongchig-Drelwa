@@ -4537,7 +4537,7 @@ msgstr "I never had the perception of distinct."
 
 msgctxt "3bacaf8869c34f24890c044392d3ec0b"
 msgid "ཐེག་པ་ དམན་པ་ གཞན་ ལ་ ངེས་ བསྟན་ ན ། །"
-msgstr "If [you] show the lesser vehicle to others,"
+msgstr "If one shows the lesser vehicle to others,"
 
 msgctxt "abf87cdf9a8c48439e7729216107a794"
 msgid "དེ་ ལ་ ང་ ནི་ སེར་སྣ་␣འི་ སྐྱོན་ དུ་ འགྱུར ། །"
