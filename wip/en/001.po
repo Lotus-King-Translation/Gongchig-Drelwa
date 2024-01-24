@@ -12810,7 +12810,7 @@ msgstr ""
 
 msgctxt "0302b3cf61034f6f9b5c32335a621c30"
 msgid "ཞལ་ ཇི་ལྟར་ མཐོང་བ་ དེ་␣ར་ བྱེད་ དགོས་ ཟེར །"
-msgstr ""
+msgstr "It should be whatever faces one sees."
 
 msgctxt "0d26ecd9c54f4f889e868d978d1ce8c9"
 msgid ""
