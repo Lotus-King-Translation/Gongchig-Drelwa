@@ -12806,6 +12806,7 @@ msgstr ""
 msgctxt "a7a171087a78403b8c9108b2c199b000"
 msgid "བྲིས་སྐུ་ འབྲི་བ་ གང་ཡང་ རུང་ སྟེ་ འབད་རྩོལ་ ལྡན་པ་␣ར་ སྒྲུབ་པ་␣ས་"
 msgstr ""
+"Or draws paintings of it, or whatever, since one has done with effort,"
 
 msgctxt "0302b3cf61034f6f9b5c32335a621c30"
 msgid "ཞལ་ ཇི་ལྟར་ མཐོང་བ་ དེ་␣ར་ བྱེད་ དགོས་ ཟེར །"
