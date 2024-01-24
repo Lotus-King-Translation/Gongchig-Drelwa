@@ -12704,7 +12704,7 @@ msgstr ""
 
 msgctxt "5139c1d4d0634ff68bad8098c031d045"
 msgid "མི་ ལྡན་ ན་ ཉེས་པ་ འབྱུང་བ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "But if one does not have them, faults arise."
 
 msgctxt "f7979ca1d0154cd587fb7ec65e62064a"
 msgid "དེ་ལྟར་ ཡང་ དུས་འཁོར་ ལ་␣ས །"
