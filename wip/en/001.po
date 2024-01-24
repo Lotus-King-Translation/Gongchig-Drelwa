@@ -12839,7 +12839,7 @@ msgstr "If someone asks, \"What is the fault with the deity that one sees?\""
 
 msgctxt "45df050cdbb34f10b4bfc847e94b8a1d"
 msgid "རང་རྒྱུད་ སྒྲིབ་པ་␣ས་ བསྒྲིབས་ ཏེ་"
-msgstr ""
+msgstr "Because one's [mental] continuum is obscured by the obscurations."
 
 msgctxt "8041e614499f489394de6f097aff9556"
 msgid "ཉོན་མོངས་ འདུ་བ་ བཞི་␣ས་ མཐོང་སྣང་ དུ་མ་ འབྱུང་བ་ དང་"
