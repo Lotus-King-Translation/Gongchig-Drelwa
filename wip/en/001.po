@@ -12694,6 +12694,7 @@ msgstr "and even one needs to cultivate in this way,"
 msgctxt "dad30aeff8f94bf18d9eaabcaa0d94af"
 msgid "སྐྱོན་ སྤང་ ཡོན་ཏན་ རྫོགས་པ་␣འི་ སངས་རྒྱས་ ཡིན་པ་␣འི་ ཕྱིར་ དང༌ །"
 msgstr ""
+"Because they are buddhas who have abandoned faults and perfected qualities."
 
 msgctxt "35c0f5d3e7d44290bca5eaeeb779ca5c"
 msgid "མཚན་ བཟང་ དང་ ལྡན་པ་␣ར་ བསྒོམ་ ན་ ཚོགས་ རྫོགས་ ཤིང༌ །"
