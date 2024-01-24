@@ -12665,6 +12665,8 @@ msgid ""
 "རྡོ་␣༽༽  སྔགས་ ཀྱི་ ལྷ་ ནི་ གདུལ་བྱ་ དང་ མཐུན་པ་␣ར་ འདོད་ཆགས་ ཅན་ ལ་ ཞལ་ "
 "སྦྱོར །"
 msgstr ""
+"Vajra: It is said that the deities of mantra are concordant with the "
+"disciples, being union for the desirous."
 
 msgctxt "f73f49902c34471f858e9b70555aa465"
 msgid "ཞེ་སྡང་ ཅན་ ལ་ ཁྲོ་བོ །"
