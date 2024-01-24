@@ -15372,7 +15372,7 @@ msgstr ""
 
 msgctxt "993cf58a50924d96a74c3dcb17c65f1c"
 msgid "གུར་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Dome:"
 
 msgctxt "893b3948634449fbbf094b9e1d0c2d31"
 msgid "ཡུལ་ དང་ དབང་པོ་␣འི་ བྱེ་བྲག་ རྣམས ། །"
