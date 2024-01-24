@@ -3446,7 +3446,7 @@ msgstr ""
 
 msgctxt "667b2ef0a9544cb88a78af6b8d1457f6"
 msgid "རྡོ་␣༽༽  ཐེག་པ་ ཆེ་ཆུང་ གི་ ཁྱད་པར་"
-msgstr "Vajra: The differences between the Lesser and Great Vehicles. "
+msgstr "Vajra: The differences between the lesser and great vehicles. "
 
 msgctxt "258933467c8848069f0bb527e979700e"
 msgid ""
