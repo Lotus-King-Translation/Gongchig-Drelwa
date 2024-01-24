@@ -12791,7 +12791,7 @@ msgstr "Meditating in the aspect of an animal is"
 
 msgctxt "1d91628a81d14ff0b4d10f1d65996ecc"
 msgid "རྒྱལ་བསེན་ སྒྲུབ་པ་ དང་ ཁྱད་མེད་ ཅིང་ །"
-msgstr ""
+msgstr "No different from practicing Gyalsen [A kind of malevolent spirit]."
 
 msgctxt "d7ce5fdfcba8457ebdb4d31424a9c0ec"
 msgid "བརྟན་པ་ ཐོབ་ ཀྱང་ ཡོན་ཏན་ སྣ་ གཅིག་ མི་ འབྱུང་ ངོ༌ །"
