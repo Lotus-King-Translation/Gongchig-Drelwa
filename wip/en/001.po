@@ -12795,7 +12795,7 @@ msgstr "No different from practicing Gyalsen [A kind of malevolent spirit]."
 
 msgctxt "d7ce5fdfcba8457ebdb4d31424a9c0ec"
 msgid "བརྟན་པ་ ཐོབ་ ཀྱང་ ཡོན་ཏན་ སྣ་ གཅིག་ མི་ འབྱུང་ ངོ༌ །"
-msgstr ""
+msgstr "Even if one attains stability, not a single good quality will arise."
 
 msgctxt "4666baa575a84e9fb5ed1a8777f4cc74"
 msgid "རྡོ་␣༽༽  ལྷ་ རང་ཉིད་ ཀྱིས་ བསྒོམས་པ་ གཞན་ ལ་ སྟོན་པ་"
