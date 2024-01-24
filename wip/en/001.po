@@ -12756,7 +12756,7 @@ msgstr "And. According to the Hevajra [Tantra]:"
 
 msgctxt "608759a1bdb94c73b033e11558c6b48a"
 msgid "བཙུན་མོ་␣འི་ བྷ་ ག་␣འི་ བདེ་ གནས་ སུ །"
-msgstr ""
+msgstr "In the bhaga of a queen, the place of bliss."
 
 msgctxt "78f4caf1d2b84da0a03307621fe98e15"
 msgid "སྟོན་པ་ སུམ་ཅུ་རྩ་གཉིས་ མཚན ། །"
