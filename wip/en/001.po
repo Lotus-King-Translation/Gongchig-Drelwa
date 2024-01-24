@@ -11582,7 +11582,7 @@ msgstr ""
 
 msgctxt "33b2c41169174c93a74346c522e5221e"
 msgid "དབང་པོ་ ཐ་མ་␣ར་ ཡང་ བསྐུར་ དགོས་ ཏེ་"
-msgstr "Even those of lesser faculties are required to be bestowed because"
+msgstr "Even those of the least faculties are required to be bestowed because"
 
 msgctxt "fae5dfaad0af45ad85b776da49e6752f"
 msgid ""
