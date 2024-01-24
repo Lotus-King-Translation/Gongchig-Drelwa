@@ -9814,7 +9814,7 @@ msgstr "It is not completely perfect, because"
 
 msgctxt "ae0e9d92e54a41189c22e663f012adff"
 msgid "ཐེག་པ་ ཆེ་ཆུང་ གི་ ལམ་ དང་"
-msgstr "The greater and lesser vehicles' paths and "
+msgstr "The Greater and Lesser Vehicles' paths and "
 
 msgctxt "729d753566c9473aa4ba2ecb018fa48e"
 msgid "འབྲས་བུ་ ཡོན་ཏན་ རྒྱ་མཚོ་ དང་"
