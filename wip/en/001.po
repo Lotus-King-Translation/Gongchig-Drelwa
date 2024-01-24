@@ -12787,7 +12787,7 @@ msgstr "Fearsome,"
 
 msgctxt "3a8aed4714b84238b929afe88f408f0e"
 msgid "དུད་འགྲོ་␣འི་ རྣམ་པ་ ཅན་ སྒོམ་པ་ ནི་"
-msgstr ""
+msgstr "Meditating in the aspect of an animal is"
 
 msgctxt "1d91628a81d14ff0b4d10f1d65996ecc"
 msgid "རྒྱལ་བསེན་ སྒྲུབ་པ་ དང་ ཁྱད་མེད་ ཅིང་ །"
