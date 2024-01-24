@@ -12772,7 +12772,7 @@ msgstr ""
 
 msgctxt "f891b80b2e6e4eb28b2ef52c3881b5ca"
 msgid "ཞེས་ སོགས་ མཐའ་ ཡས་ སོ ། །"
-msgstr ""
+msgstr "There are infinite such examples."
 
 msgctxt "0962674ed4e241a19a48f1529646db0f"
 msgid ""
