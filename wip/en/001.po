@@ -12826,6 +12826,8 @@ msgstr "The deities as mentioned in there should be the primary ones."
 msgctxt "9333d67336c14ab881ece5814410c225"
 msgid "ཤེས་བྱ་ ཐམས་ཅད་ མཁྱེན་པ་␣ས་ སྐྱོན་ སྤོང་ ཡོན་ཏན་ སྒྲུབ་པ་␣འི་ ཐབས་"
 msgstr ""
+"By knowing all the knowable and the means for abandoning faults and "
+"accomplishing good qualities."
 
 msgctxt "40eea410dd95498c8654cb387c71cc0b"
 msgid "སེམས་ཅན་ ཀུན་ ལ་ སྟོན་པ་␣འི་ ཕྱིར །"
