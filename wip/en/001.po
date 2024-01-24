@@ -12831,7 +12831,7 @@ msgstr ""
 
 msgctxt "40eea410dd95498c8654cb387c71cc0b"
 msgid "སེམས་ཅན་ ཀུན་ ལ་ སྟོན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Teaching them to all the sentient beings."
 
 msgctxt "a9179042e06543159d87c3a2a065de2c"
 msgid "རང་ གིས་ མཐོང་བ་␣འི་ ལྷ་␣ར་ སྐྱོན་ ཅི་ ཡོད་ ཅེ་ན་"
