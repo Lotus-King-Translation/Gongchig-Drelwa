@@ -4573,7 +4573,7 @@ msgstr "According to the Commentary on the Intent:"
 
 msgctxt "dc74f931228a4866a088d6ff4b6c894b"
 msgid "ཐེག་པ་ ཆེ་ དང་ ཐེག་པ་ དམན་པ་ ལ་␣ས །"
-msgstr "In the Great and Lesser Vehicles,"
+msgstr "In the great and lesser vehicles,"
 
 msgctxt "db8e0cfad9564506b23b4a8789508a03"
 msgid "རང་བཞིན་ སྣ་ཚོགས་ ཆོས་ རྣམས་ གང་ བསྟན་པ ། །"
