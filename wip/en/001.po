@@ -12728,7 +12728,7 @@ msgstr "The assemblage of all of these, without excluding any."
 
 msgctxt "67ad340a5aaa4cfe892e6a0ee0f2bcd5"
 msgid "ཁྱབ་བདག་ མཆོག་ གི་ གོ་འཕང་ ནི །"
-msgstr ""
+msgstr "The achievement level of the presiding lord."
 
 msgctxt "d141999af351464db769abfcfdf08c5e"
 msgid "སྔགས་པ་ རྣམས་ ཀྱིས་ བསྒོམ་པ་␣ར་ བྱ ། །"
