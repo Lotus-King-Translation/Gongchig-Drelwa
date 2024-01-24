@@ -699,7 +699,7 @@ msgstr ""
 
 msgctxt "72c1484aa77f47e4947698e57afd6f18"
 msgid "ཞི་བ་␣འི་ བློ་གྲོས་ ལྟ་བུ་␣ས་ ཐེག་ཆུང་ དང་ །"
-msgstr "like by Santamati, the lesser vehicle [teachings],"
+msgstr "like by Santamati, the Lesser Vehicle [teachings],"
 
 msgctxt "4e9b12ec32854a5d8607d04f477f6817"
 msgid "གཟི་བརྗིད་ ཡོན་ཏན་ ལྟ་བུ་␣ས་ བསྙེན་གནས་ གཅིག་པུ་ དང་ །"
