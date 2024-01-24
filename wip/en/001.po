@@ -12854,7 +12854,7 @@ msgstr ""
 
 msgctxt "fe5e19a1f145484c90ac91d165a9f7a7"
 msgid "ལེགས་ཉེས་ གར་ འགྲོ་ མི་ ཤེས་ ཤིང་"
-msgstr ""
+msgstr "One does not know where good and bad are going."
 
 msgctxt "13b3730673794722a1ea06003ee1cf68"
 msgid "བཀའ་ དང་ འགལ་བ་␣འི་ ལོག་ཤེས་ ཡིན་པ་␣འི་ ཕྱིར་ རོ །"
