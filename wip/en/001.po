@@ -12724,7 +12724,7 @@ msgstr "The eighty excellent minor marks."
 
 msgctxt "829e708df69b420fa20804cc86830915"
 msgid "འདི་དག་ མ་ ལུས་ འདུས་པ་ སྟེ ། །"
-msgstr ""
+msgstr "The assemblage of all of these, without excluding any."
 
 msgctxt "67ad340a5aaa4cfe892e6a0ee0f2bcd5"
 msgid "ཁྱབ་བདག་ མཆོག་ གི་ གོ་འཕང་ ནི །"
