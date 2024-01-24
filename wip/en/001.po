@@ -9833,7 +9833,7 @@ msgstr "The space inside a mustard seed eaten by a worm."
 msgctxt "5bc7fed0c71d464c848459ed93858515"
 msgid "རྡོ་␣༽༽  ཐེག་པ་ ཆེ་ཆུང་ གཉིས་ ལ་␣ས་ ཆུང་ངུ་ ནི་ ཤིན་ཏུ་ དམན་ ཏེ་"
 msgstr ""
-"Vajra: From the two, the greater and lesser vehicles, the lesser vehicle is "
+"Vajra: From the two, the Greater and Lesser vehicles, the Lesser Vehicle is "
 "utmost inferior."
 
 msgctxt "361617d651e74d7a890679568d0c8562"
