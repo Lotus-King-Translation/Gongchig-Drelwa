@@ -10917,7 +10917,7 @@ msgstr "These are for every migrator."
 
 msgctxt "cd2c0456d45a493183aae83b05efcb92"
 msgid "བླ་མེད་ གོ་འཕང་ ཐོབ་པ་␣ར་ ཤོག  །"
-msgstr "May they attain the highest state."
+msgstr "May they attain the highest achievement level."
 
 msgctxt "9ed5e60a35c04dbfb59ee34b4540e67b"
 msgid "ཅེས་ དང༌ །"
