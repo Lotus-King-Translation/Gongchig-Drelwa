@@ -6145,7 +6145,7 @@ msgstr "As said."
 msgctxt "be8ef59ed0574d16bdc75d12af4caa1d"
 msgid "སོ་ཐར་ སྨྲོས་ ཙམ་ གྱིས་ ཐེག་དམན་ ཡིན་ ན་"
 msgstr ""
-"If it becomes the lesser vehicle by merely mentioning individual "
+"If it becomes the Lesser Vehicle by merely mentioning individual "
 "emancipation,"
 
 msgctxt "50b1b4cd03314b909349be17d53a17ab"
