@@ -12658,7 +12658,7 @@ msgstr ""
 
 msgctxt "9e6f29a4ba61487a92f794e01a843cbf"
 msgid "ངན་འགྲོ་␣ར་ ལྟུང་བ་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "It is like one will fall into the lower realms of bad migrations."
 
 msgctxt "1b133a4ff4a540bb90ea06144bce58ff"
 msgid ""
