@@ -2976,7 +2976,7 @@ msgstr ""
 msgctxt "1ee1f167db9f4d94b60a6afd5e16d16e"
 msgid "ནང་པ་␣ར་ ཐེག་དམན་ དོན་ སྨྲ་ སྡེ་གཉིས །"
 msgstr ""
-"In Buddhists, the two schools of the Lesser Vehicle advocate external "
+"In Buddhists, the two schools of the lesser vehicle advocate external "
 "objects."
 
 msgctxt "a8f9fe1f5c3541658d462e55bc104169"
