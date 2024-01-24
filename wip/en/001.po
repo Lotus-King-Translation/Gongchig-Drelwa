@@ -12760,7 +12760,7 @@ msgstr "In the bhaga of a queen, the place of bliss."
 
 msgctxt "78f4caf1d2b84da0a03307621fe98e15"
 msgid "སྟོན་པ་ སུམ་ཅུ་རྩ་གཉིས་ མཚན ། །"
-msgstr ""
+msgstr "The teacher possesses the thirty-two marks."
 
 msgctxt "8bc218461f2141118a17b3135a190371"
 msgid "གཙོ་བོ་ དཔེ་བྱད་ བརྒྱད་ཅུ་ ལྡན ། །"
