@@ -12678,7 +12678,7 @@ msgstr "Various heads of animals for the ignorant and so forth."
 
 msgctxt "99a0a0fb72554f658a02d793304b86e6"
 msgid "མཚན་དཔེ་ མེད་པ་␣ར་ ཡང་ བྱོན་ ཟེར་ རོ ། །"
-msgstr ""
+msgstr "Arrive without the major and minor marks."
 
 msgctxt "deee7c21ffc441349272894f5b6f7c34"
 msgid ""
