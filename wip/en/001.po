@@ -261,7 +261,7 @@ msgstr "The complete ripening of karma,"
 
 msgctxt "2a74a46ab539449597e83fcd1cac2973"
 msgid "དབང་མཆོག་ མཆོག་ མིན །"
-msgstr "the excellent and lesser faculties,"
+msgstr "the excellent and not excellent faculties,"
 
 msgctxt "44de76d3f0d94942943310f642b8eee5"
 msgid "ཁམས་ སྣ་ཚོགས །"
