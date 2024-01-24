@@ -12684,6 +12684,8 @@ msgctxt "deee7c21ffc441349272894f5b6f7c34"
 msgid ""
 "འདི་␣ར་ ནི་ ལྷ་ རྣམས་ ཐམས་ཅད་ རང་བཞིན་ གྱིས་ མཚན་དཔེ་␣འི་ ཡོན་ཏན་ ལྡན་ ཞིང་"
 msgstr ""
+"In this [system], all the deities naturally have the qualities of the major "
+"and minor marks,"
 
 msgctxt "d6aeeaf764d14877acd6d2df400e2e96"
 msgid "དེ་ལྟར་ བསྒོམ་ ཡང་ དགོས་ ཏེ་"
