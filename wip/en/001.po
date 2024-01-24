@@ -3604,7 +3604,7 @@ msgstr "According to the Question and Answer in Verses:"
 
 msgctxt "e1718955f7414bd7bd0442edfb087616"
 msgid "འདི་ ཡང་ སྟོན་པ་ ཉིད་ ཀྱི་ བཀའ །"
-msgstr "This is the instruction of the Teacher himself."
+msgstr "This is the instruction of Buddha himself."
 
 msgctxt "343ecdb8e02e472e81a3a3d4b34585a7"
 msgid "སེམས་བསྐྱེད་ གཅིག་ གིས་ སངས་རྒྱས་པ་␣ར ། །"
