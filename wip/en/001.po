@@ -12800,7 +12800,7 @@ msgstr "Even if one attains stability, not a single good quality will arise."
 msgctxt "4666baa575a84e9fb5ed1a8777f4cc74"
 msgid "རྡོ་␣༽༽  ལྷ་ རང་ཉིད་ ཀྱིས་ བསྒོམས་པ་ གཞན་ ལ་ སྟོན་པ་"
 msgstr ""
-"Vajra: It is said that the deity on which one meditates and teaches it to "
+"Vajra: It is said that the deity on which one meditates or teaches it to "
 "others,"
 
 msgctxt "a7a171087a78403b8c9108b2c199b000"
