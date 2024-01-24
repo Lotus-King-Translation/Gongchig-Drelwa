@@ -12712,7 +12712,7 @@ msgstr "Also, according to the Kalachakra [Tantra]:"
 
 msgctxt "153c43467d6e48cf80d67323f43dd336"
 msgid "རབ་མཆོག་ རྒྱལ་བ་␣འི་ བདག་པོ་ ཡི ། །"
-msgstr ""
+msgstr "The supreme lord of conquerors."
 
 msgctxt "3454326fe8874a22a820d53a8048af6c"
 msgid "མཚན་ ནི་ སུམ་ཅུ་རྩ་གཉིས་ དང༌ ། །"
