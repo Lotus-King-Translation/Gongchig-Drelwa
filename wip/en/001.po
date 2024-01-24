@@ -12850,6 +12850,7 @@ msgstr ""
 msgctxt "6b4bf5df48fe46999e6b08457e2e7de1"
 msgid "མཐོང་བ་ དེ་ རྒྱལ་བ་␣འི་ བཀ་␣ས་ མ་ བསྒྱུར་ ན་"
 msgstr ""
+"If those seeings are not transformed by the teachings of the conqueror,"
 
 msgctxt "fe5e19a1f145484c90ac91d165a9f7a7"
 msgid "ལེགས་ཉེས་ གར་ འགྲོ་ མི་ ཤེས་ ཤིང་"
