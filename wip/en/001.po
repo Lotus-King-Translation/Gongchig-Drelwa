@@ -12674,7 +12674,7 @@ msgstr "Being wrathful for the hateful,"
 
 msgctxt "dc416aadf90d4186a522edfe7751b44f"
 msgid "གཏི་མུག་ ཅན༌་␣ལ་ དུད་འགྲོ་␣འི་ མགོ་བརྙན་ ལྟ་བུ་ སོགས་"
-msgstr ""
+msgstr "Various heads of animals for the ignorant and so forth."
 
 msgctxt "99a0a0fb72554f658a02d793304b86e6"
 msgid "མཚན་དཔེ་ མེད་པ་␣ར་ ཡང་ བྱོན་ ཟེར་ རོ ། །"
