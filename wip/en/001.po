@@ -12740,7 +12740,7 @@ msgstr "And"
 
 msgctxt "ddfe6d7927834af2b3d9658b5bd47e4c"
 msgid "རྡོ་རྗེ་ གུར་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Vajra Dome:"
 
 msgctxt "76e5be7ac04644759fca69ea52ea03dd"
 msgid ""
