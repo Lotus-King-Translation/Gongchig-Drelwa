@@ -12716,7 +12716,7 @@ msgstr "The supreme lord of conquerors."
 
 msgctxt "3454326fe8874a22a820d53a8048af6c"
 msgid "མཚན་ ནི་ སུམ་ཅུ་རྩ་གཉིས་ དང༌ ། །"
-msgstr ""
+msgstr "The thirty-two major marks and"
 
 msgctxt "92b60961cbee4728bbbfbdd95792f80a"
 msgid "དཔེ་བྱད་ བཟང་པོ་ བརྒྱད་ཅུ་ སྟེ ། །"
