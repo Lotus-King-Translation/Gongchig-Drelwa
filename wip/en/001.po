@@ -12699,6 +12699,8 @@ msgstr ""
 msgctxt "35c0f5d3e7d44290bca5eaeeb779ca5c"
 msgid "མཚན་ བཟང་ དང་ ལྡན་པ་␣ར་ བསྒོམ་ ན་ ཚོགས་ རྫོགས་ ཤིང༌ །"
 msgstr ""
+"If one meditates on those having the auspicious marks, the accumulations are"
+" completed,"
 
 msgctxt "5139c1d4d0634ff68bad8098c031d045"
 msgid "མི་ ལྡན་ ན་ ཉེས་པ་ འབྱུང་བ་␣འི་ ཕྱིར་ རོ ། །"
