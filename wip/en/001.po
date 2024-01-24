@@ -12732,7 +12732,7 @@ msgstr "The achievement level of the presiding lord."
 
 msgctxt "d141999af351464db769abfcfdf08c5e"
 msgid "སྔགས་པ་ རྣམས་ ཀྱིས་ བསྒོམ་པ་␣ར་ བྱ ། །"
-msgstr ""
+msgstr "The tantric practitioners must meditate on this."
 
 msgctxt "c0124b22c1b24b109baa29249a860b6f"
 msgid "ཞེས་ དང༌ །"
