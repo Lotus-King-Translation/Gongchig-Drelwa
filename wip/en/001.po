@@ -12654,6 +12654,7 @@ msgstr ""
 msgctxt "3b7f6cc2da0e47a19b8243967196e285"
 msgid "རྟེན་ དེ་␣ར་ དགེ་བ་␣འི་ འཕྲོ་ མཐུད་ ནས་ མ་ སྒྲུབ་ ན་"
 msgstr ""
+"If one does not continue to accomplish the radiance of virtue on that basis,"
 
 msgctxt "9e6f29a4ba61487a92f794e01a843cbf"
 msgid "ངན་འགྲོ་␣ར་ ལྟུང་བ་ བཞིན་ ནོ །"
