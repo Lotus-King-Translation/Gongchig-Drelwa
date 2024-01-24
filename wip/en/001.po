@@ -12764,7 +12764,7 @@ msgstr "The teacher possesses the thirty-two marks."
 
 msgctxt "8bc218461f2141118a17b3135a190371"
 msgid "གཙོ་བོ་ དཔེ་བྱད་ བརྒྱད་ཅུ་ ལྡན ། །"
-msgstr ""
+msgstr "As principal, the eighty minor marks."
 
 msgctxt "c506c30f53e54912b2a3a699c2e6baf9"
 msgid "གུ་བ་ ཞེས་ བྱ་␣འི་ རྣམ་པ་␣ར་ གནས ། །"
