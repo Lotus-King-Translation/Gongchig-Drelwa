@@ -12816,6 +12816,8 @@ msgctxt "0d26ecd9c54f4f889e868d978d1ce8c9"
 msgid ""
 "འདི་␣ར་ ནི་ མདོ་ རྒྱུད་ དྲི་མ་ མེད་པ་ ལ་␣ས་ གསུངས་པ་␣འི་ དབྱིབ་ ཚད་ སོགས་"
 msgstr ""
+"In this [system], the shapes, sizes, and so forth are stated in the "
+"stainless sutras and tantras."
 
 msgctxt "caa038c34a0741d4bbb5f36914fcd238"
 msgid "ཇི་ལྟར་ བཤད་པ་␣འི་ ལྷ་ དེ་ རྣམས་ ཁོ་ན་ གཙོ་བོ་␣ར་ བྱ་ དགོས་ ཏེ་"
