@@ -12720,7 +12720,7 @@ msgstr "The thirty-two major marks and"
 
 msgctxt "92b60961cbee4728bbbfbdd95792f80a"
 msgid "དཔེ་བྱད་ བཟང་པོ་ བརྒྱད་ཅུ་ སྟེ ། །"
-msgstr ""
+msgstr "The eighty excellent minor marks."
 
 msgctxt "829e708df69b420fa20804cc86830915"
 msgid "འདི་དག་ མ་ ལུས་ འདུས་པ་ སྟེ ། །"
