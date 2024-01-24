@@ -14972,7 +14972,7 @@ msgstr ""
 
 msgctxt "21a4fa2d8c2c4380b034465a101bca17"
 msgid "རྡོ་རྗེ་ གུར་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Vajra Dome:"
 
 msgctxt "b6d445a3ecc7448f8615d428ea6ab3d0"
 msgid "དེ་ ཚེ་དབང་ བསྒྱུར་ མཆོག་ཐོབ་པ་␣འི ། །"
