@@ -3460,7 +3460,7 @@ msgstr ""
 msgctxt "f60291e8d650471793003153888e76dd"
 msgid "འདི་␣ར་ ནི་ ཐེག་པ་ ཆེ་ཆུང་ གི་ ཁྱད་པར་ སེམས་བསྐྱེད་ ཡིན་ ཏེ །"
 msgstr ""
-"In this [system], the difference between the lesser and great vehicles is "
+"In this [system], the difference between the Lesser and Great Vehicles is "
 "the generation of the mind [for enlightenment]."
 
 msgctxt "4c0b7583161d4878be64cc5f7c3d9464"
