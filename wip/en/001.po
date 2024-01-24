@@ -12747,6 +12747,8 @@ msgid ""
 "མཚན་ བཟང་པོ་ སོ་ གཉིས་ དང་ དཔེ་བྱད་ བརྒྱད་ཅུ་␣ས་ བརྒྱན་པ་␣འི་ སྐུ་ དེ་ ནི་ "
 "ང་ ཡིན་ ནོ །༑ །"
 msgstr ""
+"That body adorned with the thirty-two excellent marks and the eighty minor "
+"marks is me."
 
 msgctxt "4a4626fff96b48b69801b8163dd725fb"
 msgid "ཞེས་ དང༌ །  ཀྱེེ་ རྡོར་ ལ་␣ས །"
