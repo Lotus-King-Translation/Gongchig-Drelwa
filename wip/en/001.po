@@ -12844,6 +12844,8 @@ msgstr "Because one's [mental] continuum is obscured by the obscurations."
 msgctxt "8041e614499f489394de6f097aff9556"
 msgid "ཉོན་མོངས་ འདུ་བ་ བཞི་␣ས་ མཐོང་སྣང་ དུ་མ་ འབྱུང་བ་ དང་"
 msgstr ""
+"The numerous visual appearances caused by the four collections of affliction"
+" and "
 
 msgctxt "6b4bf5df48fe46999e6b08457e2e7de1"
 msgid "མཐོང་བ་ དེ་ རྒྱལ་བ་␣འི་ བཀ་␣ས་ མ་ བསྒྱུར་ ན་"
