@@ -12783,7 +12783,7 @@ msgstr ""
 
 msgctxt "54eb6553d55c44c0bcc7a9238ce6cc66"
 msgid "འཇིགས་རུང་ །"
-msgstr ""
+msgstr "Fearsome,"
 
 msgctxt "3a8aed4714b84238b929afe88f408f0e"
 msgid "དུད་འགྲོ་␣འི་ རྣམ་པ་ ཅན་ སྒོམ་པ་ ནི་"
