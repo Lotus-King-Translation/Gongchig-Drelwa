@@ -12689,7 +12689,7 @@ msgstr ""
 
 msgctxt "d6aeeaf764d14877acd6d2df400e2e96"
 msgid "དེ་ལྟར་ བསྒོམ་ ཡང་ དགོས་ ཏེ་"
-msgstr ""
+msgstr "and even one needs to cultivate in this way,"
 
 msgctxt "dad30aeff8f94bf18d9eaabcaa0d94af"
 msgid "སྐྱོན་ སྤང་ ཡོན་ཏན་ རྫོགས་པ་␣འི་ སངས་རྒྱས་ ཡིན་པ་␣འི་ ཕྱིར་ དང༌ །"
