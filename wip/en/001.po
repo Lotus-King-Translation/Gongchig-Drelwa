@@ -12881,7 +12881,7 @@ msgstr ""
 
 msgctxt "5c83de4c3d3640eb8836869a8408ef5d"
 msgid "ས་བོན་ ལ་ བརྟེན་པ་ འབྱུང་བ་ རིམ་ བརྩེགས་ སྒོམ་པ་ དང་ །"
-msgstr ""
+msgstr "Relying on the seed and meditating consecutively. "
 
 msgctxt "9e2957e797d84a799185894ef6a30d8c"
 msgid "ཆོ་ག་ མི་ དགོས་པ །  ཆོ་ག་ འབྲིང༌ །  ཆོ་ག་ རྒྱས་པ་ སྟེ་ །"
