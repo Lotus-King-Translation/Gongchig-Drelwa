@@ -12905,6 +12905,8 @@ msgctxt "9372bc8a41404ba78116ea4f90dc2e06"
 msgid ""
 "སྐྱེ་བ་ མེད་པ་␣ར་ རྟོགས་པ་ རྒྱུ་འབྲས་ ཀྱི་ རྟེན་འབྲེལ་ ལ་ རག་ ལས་ཤིང༌ །"
 msgstr ""
+"The realization of non-arising depends on the interdependence of cause and "
+"effect, "
 
 msgctxt "17d247c5036d4e2082010ee95ad6cb49"
 msgid "དེ་ རྟོགས་ ན་ རྒྱུ་འབྲས་ ཉིད་ དུ་ འཆར་ ཏེ་"
