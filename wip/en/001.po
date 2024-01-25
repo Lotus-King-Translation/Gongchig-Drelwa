@@ -8403,7 +8403,7 @@ msgstr "It follows that it is not required in the mantra as well."
 msgctxt "e9bf75c2a180494fbc67b7ca809b8fb3"
 msgid "ཐེག་ཆེན་ རྒྱུ་འབྲས་ གཉིས་ ལ་␣ས་ རྒྱུ་ལ་ མི་ དགོས་ ན་"
 msgstr ""
-"From the two, the cause and result of the greater vehicle, if the cause does"
+"From the two, the cause and result of the Greater Vehicle, if the cause does"
 " not require it."
 
 msgctxt "b66f5ab4ad734f328ea67c2d40147e2f"
