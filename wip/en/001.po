@@ -12935,7 +12935,7 @@ msgstr "The perfection of wisdom is itself sameness."
 
 msgctxt "1490e6b954f0474984b4bb0f016552b9"
 msgid "ནམ་མཁའ་ མུ་མེད་པ་␣ས x"
-msgstr ""
+msgstr "Because space has no limits..  X"
 
 msgctxt "d367029d03ea4cb889666fec0b252f81"
 msgid "རི་རབ་ སྣ་ཚོགས་␣x"
