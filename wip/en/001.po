@@ -19798,7 +19798,7 @@ msgstr ""
 
 msgctxt "85f1665fe7d44d1b8aa196ff8ebf55dd"
 msgid "ཡུམ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Mother [Sutra]:"
 
 msgctxt "a007078dbda24a348f35ff8f457dbd7e"
 msgid "རབ་འབྱོར་ ཁ་ཅིག་ ནི་ ཉོན་མོངས་པ་␣འི་ སྤྲུལ་པ་␣འོ ། །"
