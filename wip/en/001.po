@@ -12892,6 +12892,8 @@ msgstr ""
 msgctxt "c2554872e51e4b4c8e6293d3ac1da634"
 msgid "རབ་ ལ་ ཚོམ་བུ་ སོགས་ དང་པོ་ གསུམ་ གྱི་ ཆོག་ ཟེར་ རོ ། །"
 msgstr ""
+"For those of best [faculties], the first three, such as the cluster and so "
+"forth, are sufficient."
 
 msgctxt "b960fe8d11904f9985f0f52982b186c1"
 msgid "འདི་␣ར་ ནི་ དབང་པོ་ རབ་ ལ་ ཆོ་ག་ རྒྱས་པ་ ལྷག་པར་ ཡང་ དགོས་ ཏེ་"
