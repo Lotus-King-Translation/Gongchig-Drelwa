@@ -12943,7 +12943,7 @@ msgstr "The diversity of Mount Meru.. X"
 
 msgctxt "d24a7187f47d4b06b84055dee4a91a87"
 msgid "ཞེས་ གསུངས་པ་ འདི་␣ས་ བསྟན་པ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "This statement teaches this."
 
 msgctxt "c26b471dad714e5494253a723259d0ec"
 msgid "ལྷན་␣༽༽  མཁས་པ་ གཞན་དག་ ན་རེ །"
