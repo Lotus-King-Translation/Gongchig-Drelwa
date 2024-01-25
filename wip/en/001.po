@@ -12877,6 +12877,7 @@ msgstr ""
 msgctxt "30ce9d4c7b854c52b83c80ce85dd8417"
 msgid "རིམ་བཞིན་ བསྐྱེད་རིམ་ སྐད་ཅིག་ དྲན་ རྫོགས །"
 msgstr ""
+"The generation stage is progressively recalled and completed in a moment."
 
 msgctxt "5c83de4c3d3640eb8836869a8408ef5d"
 msgid "ས་བོན་ ལ་ བརྟེན་པ་ འབྱུང་བ་ རིམ་ བརྩེགས་ སྒོམ་པ་ དང་ །"
