@@ -8249,7 +8249,7 @@ msgstr "Vajra: Other spiritual friends say:"
 
 msgctxt "532a9c1ace4746fcb836ac7960c35883"
 msgid "ཐེག་པ་ ཆེན་པོ་ ནི་ སྙིང་རྗེ་␣ས་ ཁྱད་པར་ དུ་ བྱས་པ་␣འི་"
-msgstr "The greater vehicle is distinguished by compassion"
+msgstr "The Greater Vehicle is distinguished by compassion"
 
 msgctxt "49b80d72b42544eabd871500687e2171"
 msgid "སྙིང་རྗེ་ བྱང་ཆུབ་ ཀྱི་ སེམས་ ཡིན་ ཟེར་བ་ མང་ ངོ༌ ། །"
