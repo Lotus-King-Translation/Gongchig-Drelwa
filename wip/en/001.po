@@ -12898,6 +12898,8 @@ msgstr ""
 msgctxt "b960fe8d11904f9985f0f52982b186c1"
 msgid "འདི་␣ར་ ནི་ དབང་པོ་ རབ་ ལ་ ཆོ་ག་ རྒྱས་པ་ ལྷག་པར་ ཡང་ དགོས་ ཏེ་"
 msgstr ""
+"In this [system], for those of the best faculties, an extensive ritual is "
+"especially required."
 
 msgctxt "9372bc8a41404ba78116ea4f90dc2e06"
 msgid ""
