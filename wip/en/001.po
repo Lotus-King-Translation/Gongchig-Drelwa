@@ -12919,6 +12919,7 @@ msgstr "All the qualities and enlightened activities will emerge."
 msgctxt "9f3cddb3659c4aec900de629cb1e5206"
 msgid "དབང་པོ་ ཐ་མ་␣ས་ དེ་ལྟར་ འཇུག་ མི་ ཤེས་པ་␣འི་ ཕྱིར་ རོ ། །"
 msgstr ""
+"Because those of the least faculties do not know how to engage in that way."
 
 msgctxt "56129bceb10d4cd18e8ba32d90d9d938"
 msgid "དེ་ལྟར་ ཡང་ ཡུམ་ ལ་␣ས །"
