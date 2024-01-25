@@ -12931,7 +12931,7 @@ msgstr "Because of the sameness of all phenomena,"
 
 msgctxt "8c7a5b6b9daf4af09c746f6b8edffb0e"
 msgid "ཤེས་རབ་ ཀྱི་ ཕ་རོལ་ ཏུ་ ཕྱིན་པ་ མཉམ་པ་ཉིད་ དོ ། །"
-msgstr ""
+msgstr "The perfection of wisdom is itself sameness."
 
 msgctxt "1490e6b954f0474984b4bb0f016552b9"
 msgid "ནམ་མཁའ་ མུ་མེད་པ་␣ས x"
