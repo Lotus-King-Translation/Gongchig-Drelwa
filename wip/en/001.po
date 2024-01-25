@@ -12927,7 +12927,7 @@ msgstr "Also, according to the Mother [Sutra]:"
 
 msgctxt "83c5be1f701342819f4303ad1c1c58d0"
 msgid "ཆོས་ ཐམས་ཅད་ མཉམ་པ་ཉིད་ བས་"
-msgstr ""
+msgstr "Because of the sameness of all phenomena,"
 
 msgctxt "8c7a5b6b9daf4af09c746f6b8edffb0e"
 msgid "ཤེས་རབ་ ཀྱི་ ཕ་རོལ་ ཏུ་ ཕྱིན་པ་ མཉམ་པ་ཉིད་ དོ ། །"
