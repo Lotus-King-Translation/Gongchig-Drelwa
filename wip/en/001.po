@@ -12939,7 +12939,7 @@ msgstr "Because space has no limits..  X"
 
 msgctxt "d367029d03ea4cb889666fec0b252f81"
 msgid "རི་རབ་ སྣ་ཚོགས་␣x"
-msgstr ""
+msgstr "The diversity of Mount Meru.. X"
 
 msgctxt "d24a7187f47d4b06b84055dee4a91a87"
 msgid "ཞེས་ གསུངས་པ་ འདི་␣ས་ བསྟན་པ་ ཡིན་ ནོ ། །"
