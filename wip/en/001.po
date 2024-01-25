@@ -16952,7 +16952,7 @@ msgstr ""
 
 msgctxt "e90514feb66c4fafab30931e9ad4e526"
 msgid "ཡུམ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Mother [Sutra]:"
 
 msgctxt "0eed56b78e2b48028c88e281894f7344"
 msgid ""
