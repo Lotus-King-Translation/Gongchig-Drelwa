@@ -12914,7 +12914,7 @@ msgstr "And when that is realized, it arises as cause and effect."
 
 msgctxt "2765ac1c7cec4ca58ecf4e59d117ae25"
 msgid "ཡོན་ཏན་ ཕྲིན་ལས་ ཐམས་ཅད་ འབྱུང་བ་␣ར་ འགྱུར་བ་␣འི་ ཕྱིར་ དང་ །"
-msgstr ""
+msgstr "All the qualities and enlightened activities will emerge."
 
 msgctxt "9f3cddb3659c4aec900de629cb1e5206"
 msgid "དབང་པོ་ ཐ་མ་␣ས་ དེ་ལྟར་ འཇུག་ མི་ ཤེས་པ་␣འི་ ཕྱིར་ རོ ། །"
