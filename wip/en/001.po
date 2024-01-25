@@ -19649,6 +19649,8 @@ msgstr "And."
 msgctxt "f171a3c1294a440f8d2e1564fa482a99"
 msgid "ཡུམ་ ལ་␣ས་ ཆོས་ ཐམས་ཅད་ མངོན་པར་ རྫོགས་པ་␣ར་ སངས་རྒྱས་ སོ ། །"
 msgstr ""
+"According to the Mother [Sutra], all phenomena will become perfectly and "
+"completely awakened."
 
 msgctxt "03b933650e6241c7b77131d41d6fd49b"
 msgid "ཞེས་ དང༌ །"
