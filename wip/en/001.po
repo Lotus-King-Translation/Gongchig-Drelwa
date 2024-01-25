@@ -12870,7 +12870,7 @@ msgstr ""
 
 msgctxt "089ee625287b4650ac5f0eb98ad69ca9"
 msgid "ཚོམ་བུ་ རས་བྲིས་ རྡུལ་ མཚོན་ ལ་ བརྟེན་ ནས་"
-msgstr ""
+msgstr "Relying on the cluster, painted cloth, and particles,"
 
 msgctxt "30ce9d4c7b854c52b83c80ce85dd8417"
 msgid "རིམ་བཞིན་ བསྐྱེད་རིམ་ སྐད་ཅིག་ དྲན་ རྫོགས །"
