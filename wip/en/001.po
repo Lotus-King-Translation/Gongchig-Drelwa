@@ -13051,6 +13051,7 @@ msgstr ""
 msgctxt "602e48949b8f4cc1a22f7749a9064c2b"
 msgid "ལྷན་␣༽༽  སྔགས་ ཀྱི་ བར་ དུ་ གཅོད་པ་ དགྲ་ འགེགས་ གཉིས་ ལ་␣ས་"
 msgstr ""
+"Addendum: From the two hindrances of mantra, the enemy and the obstruction, "
 
 msgctxt "0257f4b2a2e649089b739de5a69d5c68"
 msgid "འགེགས་ ལ་ བསྲུང་ འཁོར་ མེ་རི་ རྡོ་ རྭ་ ཁྲོ་བོ་ འཅུ་ གཞལ་ཡས་ ཁང་ དང་"
