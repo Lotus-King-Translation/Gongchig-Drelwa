@@ -13040,7 +13040,7 @@ msgstr "A qualified master and "
 
 msgctxt "a39962ec0a3542ea84c11bb00963e45e"
 msgid "སློབ་མ་␣འི་ མོས་གུས་ དང༌ །"
-msgstr ""
+msgstr "Devoted disciples and "
 
 msgctxt "f3514753424c470891338236b22e9ebe"
 msgid "སྔོན་ སྦྱང་ གི་ རྟེན་འབྲེལ་ ཚོགས་པ་ ལ་␣ས་ འབྱུང་བ་ ཡིན་ ནོ ། །"
