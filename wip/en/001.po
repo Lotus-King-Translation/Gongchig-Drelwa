@@ -3493,7 +3493,7 @@ msgstr "It will dispel all the physical and mental fatigue. "
 
 msgctxt "c5a9e9b375d64de3a7ee22f836344d3f"
 msgid "བྱང་ཆུབ་ སེམས་ ཀྱི་ རྟ་ ཞོན་ ནས ། །"
-msgstr "By riding the bodhicitta horse,"
+msgstr "By riding the horse of bodhicitta,"
 
 msgctxt "c96a50ba6a3949e881efe51ee25322f9"
 msgid "བདེ་ ནས་ བདེ་བ་␣ར་ འགྲོ་བ་ ལ ། །"
