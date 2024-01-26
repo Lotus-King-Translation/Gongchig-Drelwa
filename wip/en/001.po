@@ -12988,7 +12988,7 @@ msgstr ""
 
 msgctxt "5410184b80ed4a2fba870e55591f3363"
 msgid "དེས་ན་ རང་ ལུས་ རྡོ་རྗེ་ གསུམ་ གདོད་ ནས་ ཡིན་པ་␣ར་"
-msgstr ""
+msgstr "Therefore, one’s own body is primarily the three vajras."
 
 msgctxt "43bfd28ff94d4e0c87683188dbc4febb"
 msgid "ངེས་པ་␣འི་ དོན་ ཆོ་ག་ ལ་ བརྟེན་ ནས་ རྟོགས་ དགོས་ ཤིང་"
