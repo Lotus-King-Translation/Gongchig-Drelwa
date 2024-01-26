@@ -13018,7 +13018,7 @@ msgstr ""
 
 msgctxt "86094ec8e0b54e8a9622e31e59cfb004"
 msgid "ཆོ་ག་ བསྡུས་པ་ ཡང་ ནི་ བཞེད་ དེ་"
-msgstr ""
+msgstr "then the brief ritual is also accepted."
 
 msgctxt "a9ca6c034a5e43d2972d191b3c12adaf"
 msgid "རྟོགས་པ་ གཅིག་ ལ་ སེམས་ ཟིན་པ་␣འི་ དུས་ བླ་མ་␣ས་ ངོ་སྤྲོད་ ན་"
