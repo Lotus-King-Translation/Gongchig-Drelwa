@@ -13028,7 +13028,7 @@ msgstr ""
 
 msgctxt "2b9e18406a3d4098b2c467f9bbda7497"
 msgid "རྟོགས་ལྡན་ དུ་ འགྱུར་བ་ ལ་ ཚེགས་ མེད་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "One will have no difficulty in becoming a realized being."
 
 msgctxt "a8d2ea4d86a84dc7b54964eaa40063f7"
 msgid "ཀླུ་␣འི་ བྱང་ཆུབ་ ལ་སོགས་པ་ བཞིན་ ནོ ། །"
