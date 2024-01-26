@@ -12972,6 +12972,8 @@ msgid ""
 "དྲང་དོན་ གསུམ་པོ་ དང་ ངེས་དོན་ བླ་མེད་པ་␣ར་ གཉིས་ཀ་ ལ་ ཆོ་ག་ རྒྱས་པ་ དགོས་ "
 "ཏེ་"
 msgstr ""
+"The three provisional meanings and the unsurpassable definitive meaning "
+"require extensive rituals."
 
 msgctxt "43872e2bc7be40aa9ffc8e984eab33c0"
 msgid "རྒྱུ་རྐྱེན་ ལ་མ་ བརྟེན་ ན་ མི་ འགྲུབ་པ་␣འི་ ཕྱིར །"
