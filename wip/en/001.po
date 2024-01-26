@@ -12978,6 +12978,7 @@ msgstr ""
 msgctxt "43872e2bc7be40aa9ffc8e984eab33c0"
 msgid "རྒྱུ་རྐྱེན་ ལ་མ་ བརྟེན་ ན་ མི་ འགྲུབ་པ་␣འི་ ཕྱིར །"
 msgstr ""
+"If it is not dependent on causes and conditions, it cannot be established."
 
 msgctxt "bbe0e1e363e44b43a76d93fe98fa9b61"
 msgid "དཔེར་ན་ ཆུ་ལུད་ དྲོད་གཤེར་ དང་ བྲལ་བ་␣འི་ ས་བོན་ བཞིན་ ནོ ། །"
