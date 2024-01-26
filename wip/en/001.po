@@ -13065,7 +13065,7 @@ msgstr "so so, which is accepted as a profound cultivation."
 
 msgctxt "acba4cee53ba40459d7457559c98b5c8"
 msgid "འདི་␣ར་ དེ་ རྣམས་ ཕྱོགས་ རེ་␣ར་ འོང་པ་ ཡིན་"
-msgstr ""
+msgstr "In this [system], these come from one direction."
 
 msgctxt "1a62b2ea0544439eb86a53d2c771eb11"
 msgid ""
