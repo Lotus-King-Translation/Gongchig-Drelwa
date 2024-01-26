@@ -12997,6 +12997,8 @@ msgstr "The definitive meaning must be realized by relying on ritual."
 msgctxt "dd04734fa5914bd0977b1eb683d2a3dd"
 msgid "རྟོགས་ ན་ དྲང་དོན་ ཆོ་ག་ སོགས་ ཐབས་ རྣམས་ ཀྱང་"
 msgstr ""
+"If it is realized, the methods such as the ritual of the provisional meaning"
+" and so forth,"
 
 msgctxt "5a05475569894a28b488c8a2c277ec12"
 msgid "ངེས་དོན་ དང་ རོ་ གཅིག་པ་␣ར་ འགྱུར་ རོ ། །"
