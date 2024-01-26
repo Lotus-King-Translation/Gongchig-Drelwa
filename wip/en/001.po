@@ -13014,6 +13014,7 @@ msgstr ""
 msgctxt "630d84bb8f284a029c290df8f2b5c927"
 msgid "འདི་␣ར་ ནི་ ཐབས་ བསྡུས་པ་ དེ་ ཡིས་ མཚན་མ་␣ར་ ཞེན་པ་ འདུལ་ ནུས་ ན་"
 msgstr ""
+"In this [system], If that brief method can subdue attachment to signs,"
 
 msgctxt "86094ec8e0b54e8a9622e31e59cfb004"
 msgid "ཆོ་ག་ བསྡུས་པ་ ཡང་ ནི་ བཞེད་ དེ་"
