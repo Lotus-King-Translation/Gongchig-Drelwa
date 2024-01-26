@@ -13002,7 +13002,7 @@ msgstr ""
 
 msgctxt "5a05475569894a28b488c8a2c277ec12"
 msgid "ངེས་དོན་ དང་ རོ་ གཅིག་པ་␣ར་ འགྱུར་ རོ ། །"
-msgstr ""
+msgstr "Will also become "
 
 msgctxt "ad61695d42a843769d1aa50d470d71a4"
 msgid ""
