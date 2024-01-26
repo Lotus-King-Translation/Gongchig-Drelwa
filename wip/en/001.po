@@ -13032,7 +13032,7 @@ msgstr "One will have no difficulty in becoming a realized being."
 
 msgctxt "a8d2ea4d86a84dc7b54964eaa40063f7"
 msgid "ཀླུ་␣འི་ བྱང་ཆུབ་ ལ་སོགས་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "It is like the naga bodhisattvas and so forth."
 
 msgctxt "bfbcec2ef88a447dbcd704fa9689a9e6"
 msgid "དེ་ བླ་མ་ མཚན་ཉིད་ དང་ ལྡན་པ་ དང་"
