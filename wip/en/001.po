@@ -13071,7 +13071,7 @@ msgctxt "1a62b2ea0544439eb86a53d2c771eb11"
 msgid ""
 "བསྲུང་བ་␣འི་ འཁོར་ལོ་ རྨད་ དུ་ བྱུང་བ་ གཉིས་ མེད་ བྱང་ཆུབ་ ཀྱི་ སེམས་ ཡིན་ "
 "ཏེ་"
-msgstr ""
+msgstr "The marvelous protection wheel is the non-dual mind of awakening."
 
 msgctxt "f1b014f647144c3ab66b58d3b046a8b9"
 msgid ""
