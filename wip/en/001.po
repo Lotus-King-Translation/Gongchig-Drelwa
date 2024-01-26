@@ -13008,6 +13008,8 @@ msgctxt "ad61695d42a843769d1aa50d470d71a4"
 msgid ""
 "ལྷན་␣༽༽  དབང་ གི་ དང་པོ་ ནས་ ཆོ་ག་ རྒྱས་པ་ གཅིག་ གི་ སྒོར་ འཇུག་ དགོས་ ཟེར །"
 msgstr ""
+"Addendum: It is said that from the beginning of the empowerment, one must "
+"enter through the door of an extensive ritual."
 
 msgctxt "630d84bb8f284a029c290df8f2b5c927"
 msgid "འདི་␣ར་ ནི་ ཐབས་ བསྡུས་པ་ དེ་ ཡིས་ མཚན་མ་␣ར་ ཞེན་པ་ འདུལ་ ནུས་ ན་"
