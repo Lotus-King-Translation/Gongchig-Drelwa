@@ -12952,6 +12952,8 @@ msgstr "Addendum: Other experts say:"
 msgctxt "8e23836ace4f4c3c8728cc11dda68912"
 msgid "བྱ་སྤྱོད་ རྣལ་འབྱོར་ གསུམ་ མི་ ཟབ་ བླ་མེད་ ཟབ་ སྟེ་"
 msgstr ""
+"The three of action, conduct, and yoga are not profound, but are the highest"
+" profound."
 
 msgctxt "1ae437b65c5b4b4a82313a89c28da046"
 msgid "དྲང་དོན་ དང་ ངེས་དོན་ ཡིན་པ་␣འི་ ཕྱིར་ ཞེས་ ཟེར་ རོ ། །"
