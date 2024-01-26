@@ -13036,7 +13036,7 @@ msgstr "It is like the naga bodhisattvas and so forth."
 
 msgctxt "bfbcec2ef88a447dbcd704fa9689a9e6"
 msgid "དེ་ བླ་མ་ མཚན་ཉིད་ དང་ ལྡན་པ་ དང་"
-msgstr ""
+msgstr "A qualified master, and "
 
 msgctxt "a39962ec0a3542ea84c11bb00963e45e"
 msgid "སློབ་མ་␣འི་ མོས་གུས་ དང༌ །"
