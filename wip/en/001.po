@@ -13045,6 +13045,8 @@ msgstr "Devoted disciples and "
 msgctxt "f3514753424c470891338236b22e9ebe"
 msgid "སྔོན་ སྦྱང་ གི་ རྟེན་འབྲེལ་ ཚོགས་པ་ ལ་␣ས་ འབྱུང་བ་ ཡིན་ ནོ ། །"
 msgstr ""
+"It occurs from the accumulation of dependent-related arisings of the "
+"previous training."
 
 msgctxt "602e48949b8f4cc1a22f7749a9064c2b"
 msgid "ལྷན་␣༽༽  སྔགས་ ཀྱི་ བར་ དུ་ གཅོད་པ་ དགྲ་ འགེགས་ གཉིས་ ལ་␣ས་"
