@@ -13061,7 +13061,7 @@ msgstr ""
 
 msgctxt "9818eb522f1742f6971e06d007cc14e0"
 msgid "བཅས་པ་ སྒོམ་པ་ ཟབ་པ་␣ར་ འདོད་ དོ ། །"
-msgstr ""
+msgstr "so so, which is accepted as a profound cultivation."
 
 msgctxt "acba4cee53ba40459d7457559c98b5c8"
 msgid "འདི་␣ར་ དེ་ རྣམས་ ཕྱོགས་ རེ་␣ར་ འོང་པ་ ཡིན་"
