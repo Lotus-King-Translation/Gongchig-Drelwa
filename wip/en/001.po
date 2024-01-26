@@ -13056,6 +13056,8 @@ msgstr ""
 msgctxt "0257f4b2a2e649089b739de5a69d5c68"
 msgid "འགེགས་ ལ་ བསྲུང་ འཁོར་ མེ་རི་ རྡོ་ རྭ་ ཁྲོ་བོ་ འཅུ་ གཞལ་ཡས་ ཁང་ དང་"
 msgstr ""
+"It is accepted that the protection wheel from the obstruction is fire, "
+"mountain, vajra fence, ten wrathful ones, the celestial mansion and "
 
 msgctxt "9818eb522f1742f6971e06d007cc14e0"
 msgid "བཅས་པ་ སྒོམ་པ་ ཟབ་པ་␣ར་ འདོད་ དོ ། །"
