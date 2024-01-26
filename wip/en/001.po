@@ -683,7 +683,7 @@ msgstr "Having the result is exclusively for sentient beings."
 
 msgctxt "b9584d003d3843bd9995970cc06f66b6"
 msgid "ལྷན་␣༽༽  ཁ་ཅིག་ ན་རེ །"
-msgstr "Addendum: Some said,"
+msgstr "Addendum: A certain person says:"
 
 msgctxt "1aa9be0c8b1c4d1d90bede6f840becca"
 msgid "སངས་རྒྱས་ ཀྱི་ ཆོས་ ཐེག་པ་ དང་ གྲུབ་མཐའ་ ཐ་དད་ ངེས་པ་ ཅན་ ཏེ་"
