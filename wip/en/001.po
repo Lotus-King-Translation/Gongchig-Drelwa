@@ -12992,7 +12992,7 @@ msgstr "Therefore, one’s own body is primarily the three vajras."
 
 msgctxt "43bfd28ff94d4e0c87683188dbc4febb"
 msgid "ངེས་པ་␣འི་ དོན་ ཆོ་ག་ ལ་ བརྟེན་ ནས་ རྟོགས་ དགོས་ ཤིང་"
-msgstr ""
+msgstr "The definitive meaning must be realized by relying on ritual."
 
 msgctxt "dd04734fa5914bd0977b1eb683d2a3dd"
 msgid "རྟོགས་ ན་ དྲང་དོན་ ཆོ་ག་ སོགས་ ཐབས་ རྣམས་ ཀྱང་"
