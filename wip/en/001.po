@@ -12947,7 +12947,7 @@ msgstr "This statement teaches this."
 
 msgctxt "c26b471dad714e5494253a723259d0ec"
 msgid "ལྷན་␣༽༽  མཁས་པ་ གཞན་དག་ ན་རེ །"
-msgstr ""
+msgstr "Addendum: Other expert said that,"
 
 msgctxt "8e23836ace4f4c3c8728cc11dda68912"
 msgid "བྱ་སྤྱོད་ རྣལ་འབྱོར་ གསུམ་ མི་ ཟབ་ བླ་མེད་ ཟབ་ སྟེ་"
