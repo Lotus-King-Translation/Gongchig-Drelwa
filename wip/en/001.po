@@ -12958,6 +12958,8 @@ msgstr ""
 msgctxt "1ae437b65c5b4b4a82313a89c28da046"
 msgid "དྲང་དོན་ དང་ ངེས་དོན་ ཡིན་པ་␣འི་ ཕྱིར་ ཞེས་ ཟེར་ རོ ། །"
 msgstr ""
+"Therefore, it is said to be the provisional meaning and the definitive "
+"meaning."
 
 msgctxt "13f44794aa6a49b6a8b2c0eb98863b0b"
 msgid "འདི་␣ར་ ངེས་དོན་ ཡིན་པ་␣ར་ མཐུན་ ཀྱང་"
