@@ -12983,6 +12983,8 @@ msgstr ""
 msgctxt "bbe0e1e363e44b43a76d93fe98fa9b61"
 msgid "དཔེར་ན་ ཆུ་ལུད་ དྲོད་གཤེར་ དང་ བྲལ་བ་␣འི་ ས་བོན་ བཞིན་ ནོ ། །"
 msgstr ""
+"For example, it is like a seed that is devoid of water, fertilizer, heat, "
+"and moisture."
 
 msgctxt "5410184b80ed4a2fba870e55591f3363"
 msgid "དེས་ན་ རང་ ལུས་ རྡོ་རྗེ་ གསུམ་ གདོད་ ནས་ ཡིན་པ་␣ར་"
