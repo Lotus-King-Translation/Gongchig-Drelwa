@@ -916,7 +916,7 @@ msgstr "As said."
 
 msgctxt "9df07e8484aa4e7697cbf4db8d0ed8c1"
 msgid "ཁ་ཅིག་ ན་རེ །"
-msgstr "Some said:"
+msgstr "A certain person says:"
 
 msgctxt "b70e94966fb94aca9f19a5a222e28017"
 msgid "སྡེ་སྣོད་ རྒྱུད་སྡེ་ གང་རུང་ རེ་ ཉམས་ སུ་ བླངས་ ན་"
