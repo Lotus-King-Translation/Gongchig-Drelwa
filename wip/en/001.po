@@ -12964,6 +12964,8 @@ msgstr ""
 msgctxt "13f44794aa6a49b6a8b2c0eb98863b0b"
 msgid "འདི་␣ར་ ངེས་དོན་ ཡིན་པ་␣ར་ མཐུན་ ཀྱང་"
 msgstr ""
+"In this [system], Although it is in concordance with being the definitive "
+"meaning."
 
 msgctxt "e072cfeec50a497ab0e6b950707cc019"
 msgid ""
