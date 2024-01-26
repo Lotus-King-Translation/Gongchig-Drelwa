@@ -1258,7 +1258,7 @@ msgstr "It exists in the other two in the same way."
 
 msgctxt "9ca3868d174a4371be6b42a7ac0e6568"
 msgid "རྡོ་␣༽༽  མཁས་པ་ གཞན་དག་ ན་རེ །"
-msgstr "Vajra: Other expert said that,"
+msgstr "Vajra: Other experts say:"
 
 msgctxt "283bc6abf7744f61954bdc3de5ffd91b"
 msgid "འཁོར་ལོ་ གསུམ་ གྱི་ དོན་ འབྲེལ་ དེ་ལྟར་ ཚང་བ་␣ར་ གནས་ ཀྱང་"
