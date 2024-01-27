@@ -13110,6 +13110,8 @@ msgid ""
 "རིམ་བཞིན་ གཏི་མུག །  ཞེ་སྡང །  སེར་སྣ །  འདོད་ཆགས །  ཕྲག་དོག་ གི་ སྐྱེ་མཆེད་"
 " ཐམས་ཅད་ བསྡུས་པ་␣འི་ རྡོ་རྗེ་ དྲུག་ ཏུ་ གསུངས་ ཏེ་"
 msgstr ""
+"The six vajras are taught as that which include all the sensory fields of "
+"delusion, anger, avarice, desire, and jealousy respectively."
 
 msgctxt "20ccaa07fa0f4d35a0c07dd39b880bac"
 msgid ""
