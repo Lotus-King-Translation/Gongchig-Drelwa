@@ -13094,7 +13094,7 @@ msgstr ""
 
 msgctxt "d8ecf68ef67b47a28b8a612f836110f7"
 msgid "ཡིད་ཤེས་ གཅིག་ ཏུ་ བྱས་ ཏེ་"
-msgstr ""
+msgstr "And the mental consciousness is taken as one."
 
 msgctxt "a08ababfc30c4ddc94010fa01598c2ef"
 msgid "ཕྱི་␣འི་ གཟུགས་ ལ་ སྐྱེ་ ཞིང་ མཆེད་པ་ དྲུག་ ལ་␣ས་"
