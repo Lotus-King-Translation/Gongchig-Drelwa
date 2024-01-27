@@ -5359,7 +5359,7 @@ msgstr "According to the Vajra Dome:"
 
 msgctxt "c1ebf97c26c643b09e761ac5443b40b8"
 msgid "ཡུལ་ དང་ དབང་པོ་␣འི་ བྱེ་བྲག་ རྣམས །"
-msgstr "The particulars of objects and faculties."
+msgstr "The particulars of the object and the faculties."
 
 msgctxt "b5cb9a444a7a4ba2b906344c7bae57c9"
 msgid "རྣམ་པ་ ཐ་དད་ མ་ མཆིས་ ཏེ །"
