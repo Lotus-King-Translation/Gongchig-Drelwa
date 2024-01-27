@@ -13099,6 +13099,7 @@ msgstr "And the mental consciousness is taken as one."
 msgctxt "a08ababfc30c4ddc94010fa01598c2ef"
 msgid "ཕྱི་␣འི་ གཟུགས་ ལ་ སྐྱེ་ ཞིང་ མཆེད་པ་ དྲུག་ ལ་␣ས་"
 msgstr ""
+"In the outer form, from the six [sources] of the arising and development,"
 
 msgctxt "2449c2941d124efea88bac57439a8e13"
 msgid "མིག་ རྣ་ སྣ་ ལྕེ་ ལུས་ ཡིད་ དྲུག་ ལ་"
