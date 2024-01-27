@@ -13078,6 +13078,8 @@ msgid ""
 "དོན་དམ་ བདེན་པ་␣འི་ དབང་ དུ་ ན་ གེགས་ ལ་␣ས་ སངས་རྒྱས་ ཉིད་ ཀྱང་ མེད་ ཅེས་ སོ"
 " ། །"
 msgstr ""
+"In the context of ultimate truth, it is said that buddhahood itself does not"
+" exist apart from obstructions."
 
 msgctxt "648a6d5102b94758a988a92a60fe3d47"
 msgid "མེད་ བཞིན་ དུ་ ཡུལ་ དབང་ཤེས་ གསུམ་ ཚོགས་པ་ ལ་␣ས་ གེགས་ སྣང་ འབྱུང་"
