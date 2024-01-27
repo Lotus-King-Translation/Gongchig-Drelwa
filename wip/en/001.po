@@ -13084,6 +13084,8 @@ msgstr ""
 msgctxt "648a6d5102b94758a988a92a60fe3d47"
 msgid "མེད་ བཞིན་ དུ་ ཡུལ་ དབང་ཤེས་ གསུམ་ ཚོགས་པ་ ལ་␣ས་ གེགས་ སྣང་ འབྱུང་"
 msgstr ""
+"Although it is non-existence, the appearance of obstructions occurs when the"
+" object, sense faculties, and consciousness come together."
 
 msgctxt "1c299b0523f8413f95aefe5b41fd308d"
 msgid "དེ་␣འི་ རྩ་བ་ ཡིད་ ཀྱི་ སྐྱེ་མཆེད་ མིག་ སོགས་ དང་"
