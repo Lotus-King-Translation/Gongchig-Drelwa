@@ -13090,6 +13090,7 @@ msgstr ""
 msgctxt "1c299b0523f8413f95aefe5b41fd308d"
 msgid "དེ་␣འི་ རྩ་བ་ ཡིད་ ཀྱི་ སྐྱེ་མཆེད་ མིག་ སོགས་ དང་"
 msgstr ""
+"The roots of that are the sense-source of the mind, eye, and so forth,"
 
 msgctxt "d8ecf68ef67b47a28b8a612f836110f7"
 msgid "ཡིད་ཤེས་ གཅིག་ ཏུ་ བྱས་ ཏེ་"
