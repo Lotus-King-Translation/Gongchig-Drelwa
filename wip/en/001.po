@@ -13887,7 +13887,7 @@ msgstr ""
 
 msgctxt "6f19b703eaa74fcba70226a6e06c0188"
 msgid "ཟླ་ སྒྲོན་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Moon Lamp sutra:"
 
 msgctxt "2e79a86ece6d4fcdb1e50054d4596002"
 msgid "ངས་ ནི་ མདོ་སྡེ་ གང་ བཤད་པ །"
