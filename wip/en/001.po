@@ -20170,6 +20170,7 @@ msgstr ""
 msgctxt "58bf31470cf74621a370ad9e4fe59880"
 msgid "དེ་ལྟར་ ཡང་ གཏན་ ལ་ ཕབ་པ་ དང༌ །  ཟླ་བ་ སྒྲོན་མེ་ ལ་␣ས །"
 msgstr ""
+"Therefore, it is also determined and according to the Moon Lamp [sutra]:"
 
 msgctxt "c91ea05360a540db8d260638f1d9f04b"
 msgid "མྱ་ངན་ ལ་␣ས་ འདས་པ་ ལ་ མི་ གནས་པ་"
