@@ -20103,7 +20103,7 @@ msgstr ""
 
 msgctxt "3f03d6b4c1fd45b6911bbfefe6bb4009"
 msgid "དེ་ལྟར་ ཟླ་ སྒྲོན་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Moon Lamp [sutra]:"
 
 msgctxt "85b6222791c1459f818ff8ed826983c8"
 msgid "སྐུ་ ནི་ ནམ་མཁ་␣འི་ མཚན་ཉིད་ དེ ། །"
