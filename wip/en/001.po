@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "The true transmission of the Buddha's doctrine, lord Drigungpa's holy "
 "Dharma- A Thorough Explanation of The Single Intent- The Ear Ornament that "
-"Delights the New Mind. "
+"Delights the New Minds. "
 
 msgctxt "d040936945854546a7449761291d81dd"
 msgid "༄༅། ། ན་མོ་ གུ་རུ་ རཏྣ་ ཤྲཱི་ ཡེ །"
