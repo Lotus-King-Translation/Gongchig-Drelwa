@@ -13288,6 +13288,8 @@ msgstr "Because it is the dharmakaya."
 msgctxt "e42a5887667d4ae18e6b72fcc4acfdee"
 msgid "དཔེར་ན་ དམ་བཅའ་ བདུན་ ལྡན་ གྱི་ ཕ་ལམ་ བཞིན་ ནོ །"
 msgstr ""
+"For example, it is like the path of perfection which is endowed with the "
+"seven commitments."
 
 msgctxt "777d18065da3436a8af99bcb49f7132f"
 msgid "དེ་ལྟར་ ཡང་ རྡོ་རྗེ་ རྩེ་མོ་ ལ་␣ས་"
