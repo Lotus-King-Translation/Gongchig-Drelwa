@@ -13213,6 +13213,8 @@ msgstr "It is required to meditate in this way and"
 msgctxt "b5d7003fd37e4575820c473badd8ce5d"
 msgid "བཅུད་ གྲུབ་པ་␣འི་ ཚུལ་ དུ་ ལྷ་ དང་ ལྷ་མོ་␣འི་ རང་བཞིན་ གདོད་ ནས་"
 msgstr ""
+"As a way of forming the [inner] content, in the prime nature of the deity "
+"and the female deity,"
 
 msgctxt "3c192d9d77284ea392504fe1d9a8c39f"
 msgid "གྲུབ་པ་ བསྒོམ་པ་␣ས་ འབྲས་བུ་ མཉམ་ཉིད་ མངོན་དུ་ གྱུར་པ་ སྟེ་"
