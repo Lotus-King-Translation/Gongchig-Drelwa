@@ -12144,7 +12144,7 @@ msgstr "It will produce the root downfalls of sutra and mantra."
 
 msgctxt "c2d2f3344c28485db68b54a993f5b682"
 msgid "དེ་ལྟར་ ཡང་ ཀྱེེ་ རྡོར་ ལ་␣ས །"
-msgstr "Thus, according to the Hevajra Tantra:"
+msgstr "Likewise, according to the Hevajra Tantra:"
 
 msgctxt "7f074b8183e54a48bd5272c673bceb6a"
 msgid "ཁུ་བ་ མེད་ ན་ བདེ་ མི་ འགྱུར ། །"
