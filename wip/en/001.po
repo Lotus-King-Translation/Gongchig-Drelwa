@@ -13264,7 +13264,7 @@ msgstr "As said."
 
 msgctxt "b8d44f6ea68846ea9243ef716565a811"
 msgid "རྡོ་␣༽༽  རྡོ་རྗེ་␣འི་ ལུས་ ཀྱི་ གནས་ལུགས་ ལུས་ དང་ མཉམ་ དུ་"
-msgstr ""
+msgstr "Vajra: It is said that the actuality of the vajra body, with the body"
 
 msgctxt "278a7b1cc61c4044bacda07e264c2f91"
 msgid "ཆགས་པ་ གནས་པ་ རྩ་ གཡོ་བ་ རླུང་ བཀོད་པ་"
