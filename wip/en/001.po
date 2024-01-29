@@ -15298,7 +15298,7 @@ msgstr ""
 
 msgctxt "36d0f802e02045d1a5c0d163ec46785f"
 msgid "དེ་ལྟར་ ཡང་ སཾ་ བྷུ་ ཊི་ ལ་␣ས །"
-msgstr ""
+msgstr "Likewise, according to the Samputa:"
 
 msgctxt "9b2f47955fbe4126a6e160d7cc47cc5d"
 msgid "ཡོན་ཏན་ ཐམས་ཅད་ རབ་ རྫོགས་ ཀྱང༌ །"
