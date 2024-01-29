@@ -13169,6 +13169,8 @@ msgid ""
 "སྲུང་བ་ ཞེས་པ་ རྒྱུ་ལ་ གནས་པ་ ལམ་ གྱིས་ བསྲུངས་ ནས་ འབྲས་བུ་ མངོན་དུ་ "
 "བྱེད་པ་␣འོ ། །"
 msgstr ""
+"So-called protection is being abided in the cause, protected by the path, "
+"and the actualization of the result."
 
 msgctxt "7c3af3b7142745389e3a431d9133f761"
 msgid ""
