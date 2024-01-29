@@ -13150,6 +13150,8 @@ msgid ""
 "ནང་ལྟར་ ན །  མེ་ལོང་ །  ཆོས་དབྱིངས །  མཉམ་ཉིད །  སོ་␣ར་ རྟོག །  བྱ་ གྲུབ་ "
 "ཀྱི་ ཡེ་ཤེས་"
 msgstr ""
+"The inner aspects are the mirror, dharmadhatu, equality, individual "
+"comprehension, all-accomplishing wisdom,"
 
 msgctxt "343a07b4de2f42d28a184bfddd5fa454"
 msgid ""
