@@ -12708,7 +12708,7 @@ msgstr "But if one does not have them, faults arise."
 
 msgctxt "f7979ca1d0154cd587fb7ec65e62064a"
 msgid "དེ་ལྟར་ ཡང་ དུས་འཁོར་ ལ་␣ས །"
-msgstr "Also, according to the Kalachakra [Tantra]:"
+msgstr "Likewise, according to the Kalachakra [Tantra]:"
 
 msgctxt "153c43467d6e48cf80d67323f43dd336"
 msgid "རབ་མཆོག་ རྒྱལ་བ་␣འི་ བདག་པོ་ ཡི ། །"
