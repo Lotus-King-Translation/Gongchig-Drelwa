@@ -19627,7 +19627,7 @@ msgstr ""
 
 msgctxt "b7fee49ac7ca46bbbe6f54154db90aa8"
 msgid "དེ་ལྟར་ ཡང་ཡང་ དག་སྦྱོར་བ་␣འི་ རྒྱུད་ ལ་␣ས །"
-msgstr ""
+msgstr "Likewise, according to the Tantra of Emergence from Samputa:"
 
 msgctxt "8d16d537dd044a4e90fb2c54ce642e8f"
 msgid ""
