@@ -13128,7 +13128,7 @@ msgstr ""
 
 msgctxt "30855cb8868a4d02aff05567ccf01ca0"
 msgid "གེགས་ བྱ་བ་ གདོད་ ནས་ མ་གྲུབ་པ་␣འོ ། །"
-msgstr ""
+msgstr "That which obstructed has never been established primarily."
 
 msgctxt "9528223842be45cb8a6b2c4a6119063a"
 msgid "དེ་བཞིན་ རྣ་བ་ སོགས་ ཀྱང་"
