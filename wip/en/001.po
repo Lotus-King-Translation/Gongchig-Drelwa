@@ -13268,7 +13268,7 @@ msgstr "Vajra: It is said that the actuality of the vajra body, with the body"
 
 msgctxt "278a7b1cc61c4044bacda07e264c2f91"
 msgid "ཆགས་པ་ གནས་པ་ རྩ་ གཡོ་བ་ རླུང་ བཀོད་པ་"
-msgstr ""
+msgstr "Attachment abides, the channels move, the wind arrange,"
 
 msgctxt "7098dd7009f5457fb7ebac043385de76"
 msgid "བྱང་སེམས་ ཐིག་ལེ་␣འི་ འཁོར་ལོ་ བཞི་ འདི་ ཡིན་ ཟེར །"
