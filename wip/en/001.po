@@ -14318,7 +14318,7 @@ msgstr ""
 
 msgctxt "2a7faf0f256b4f359627bdd83f41e649"
 msgid "བརྟག་པ་ གོང་མ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the first segment:"
 
 msgctxt "335894d639a140c4afef8d4ed9a76e06"
 msgid "བཅོམ་ལྡན་ མ་ དག་པ་ གང་ ལགས །"
