@@ -15498,7 +15498,7 @@ msgstr ""
 
 msgctxt "f151e3e18cde446388ec9f852bb04671"
 msgid "དེ་ལྟར་ སློབ་དཔོན་ ཟླ་བ་␣ས །"
-msgstr ""
+msgstr "Likewise, the master Candra[kirti] says:"
 
 msgctxt "f43608a16b0f4013a0944e5fca760d70"
 msgid "སེམས་ཉིད་ ཀྱིས་ ནི་ སེམས་ཅན་ འཇིག་རྟེན་ དང༌ །"
