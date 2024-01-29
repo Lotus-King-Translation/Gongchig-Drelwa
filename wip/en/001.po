@@ -13177,6 +13177,8 @@ msgid ""
 "རྡོ་␣༽༽  སྨིན་ བྱེད་ སྟ་དངོ་␣ས་ གྲོལ་ བྱེད་ བསྐྱེད་རྫོགས་ སོགས་ ཀྱི་ རྣམ་ "
 "བཞག་ རྒྱས་པ་ རྣམས་"
 msgstr ""
+"Vajra: The extensive presentations of the ripening axe blade, the generation"
+" and completion stages for the liberating levels, and so on are "
 
 msgctxt "e142c73cca17452f8b5e15b13fd4ecae"
 msgid "སྤྲོས་པ་ ལ་ དགའ་བ་ ལ་ གསུངས་པ་ ཡིན་ ཟེར །"
