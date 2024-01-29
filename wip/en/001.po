@@ -13573,7 +13573,7 @@ msgstr ""
 
 msgctxt "ff8d93afb9c0411ea8f5be8616fdb61d"
 msgid "དེ་ལྟར་ ཡང་ རྗེ་ འཇིག་རྟེན་ མགོན་པོ་␣ས །"
-msgstr ""
+msgstr "Likewise, Lord Jigten Gonpo says:"
 
 msgctxt "a69eeff0d0d14bb6854faa70baa0e355"
 msgid "གཞན་ གྱི་ ཆོག་ དབང་ གོང་མ་ ཟབ་ ཟེར་ ཡང༌ །"
