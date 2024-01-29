@@ -13186,7 +13186,7 @@ msgstr "It is said that they are taught for those who like elaboration."
 
 msgctxt "357afc0f810644b893eafc73550f1a2e"
 msgid "འདི་␣ར་ ནི་ སྤྲོས་པ་␣འི་ རིམ་པ་ དེ་ ཐམས་ཅད་"
-msgstr ""
+msgstr "In this [system], all these stages of elaboration are "
 
 msgctxt "1dfad4bd6d844eb3bb0331ccc539f39d"
 msgid "ཤེས་བྱ་␣འི་ གཤིས་ ལ་ ཡོད་པ་ བབས་ ཀྱི་ རྟེན་འབྲེལ་ ཡིན་ ཏེ་"
