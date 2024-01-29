@@ -18893,7 +18893,7 @@ msgstr ""
 
 msgctxt "df8ca7464e3a4d0e8044dd95d5d93ea4"
 msgid "དེ་ལྟར་ ཡང་ །"
-msgstr ""
+msgstr "Likewise,"
 
 msgctxt "5bd5184bfcfd4b8d90fb211320714896"
 msgid "ནད་ ཐམས་ཅད་ ཞི་བ་␣ར་ བྱེད་པ་␣འི་ གཟུངས་ ལ་␣ས །"
