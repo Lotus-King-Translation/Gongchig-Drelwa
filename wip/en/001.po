@@ -13191,6 +13191,7 @@ msgstr "In this [system], all these stages of elaboration are "
 msgctxt "1dfad4bd6d844eb3bb0331ccc539f39d"
 msgid "ཤེས་བྱ་␣འི་ གཤིས་ ལ་ ཡོད་པ་ བབས་ ཀྱི་ རྟེན་འབྲེལ་ ཡིན་ ཏེ་"
 msgstr ""
+"Dependent relationships that naturally exist within the nature of Knowable."
 
 msgctxt "5f22b20d79ab49bf909b5bf6b23dd82b"
 msgid "ཕྱི་ སྣོད་ རླུང་ མེ་ ཆུ་ ས་རི་ རབ་ ལྔ །"
