@@ -9965,7 +9965,7 @@ msgstr ""
 
 msgctxt "95bde9caf75a4e408130e574e8bc77e8"
 msgid "དེ་ལྟར་ ཡང་ ལང་ གཤེགས་ ལ་␣ས །"
-msgstr "The Descent to Lanka Sutra says:"
+msgstr "Likewise, The Descent to Lanka Sutra says:"
 
 msgctxt "411b2f9e09b94ce1b0921e922b76fd36"
 msgid "སེམས་ ཙམ་པ་ ནི་ བདུན་པ་ སྟེ ། །"
