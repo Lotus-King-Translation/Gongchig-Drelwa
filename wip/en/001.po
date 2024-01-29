@@ -15856,7 +15856,7 @@ msgstr ""
 
 msgctxt "91a4e141b7e7468587ada8d2887df608"
 msgid "དེ་ལྟར་ ཡང༌ །"
-msgstr "That as well."
+msgstr "Likewise,"
 
 msgctxt "baa49b5c26ed4a55be6f6c60859e9daf"
 msgid "ཆེད་ དུ་ བརྗོད་པ་␣ར །"
