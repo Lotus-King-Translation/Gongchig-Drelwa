@@ -13278,6 +13278,8 @@ msgctxt "28c0bc69633d4f71937c5109f63007ba"
 msgid ""
 "འདི་␣ར་ ནི་ རྡོ་རྗེ་␣འི་ ལུས་ ཟབ་མོ་ གཉིས་ སུ་ མེད་པ་␣འི་ འཁོར་ལོ་ བཞེད་ དེ་"
 msgstr ""
+"In this [system], it is accepted that the profound vajra body is the non-"
+"dual wheel."
 
 msgctxt "5d97116584c1429a8e69132a0e136b44"
 msgid "ཆོས་སྐུ་ ཡིན་པ་␣འི་ ཕྱིར་␣༑"
