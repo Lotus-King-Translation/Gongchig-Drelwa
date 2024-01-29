@@ -13248,7 +13248,7 @@ msgstr "And."
 
 msgctxt "bd88d3f4ae4a4e519b6c61fba656526f"
 msgid "ཕུར་པ་␣འི་ རྒྱུད་ ཉི་མ་␣འི་ འོད་ཟེར་ ལ་␣ས ། །"
-msgstr ""
+msgstr "According to The Vajrakila Tantra, the Rays of the Sun:"
 
 msgctxt "862bc43d5be349698477a45cf41d62d2"
 msgid "རྟེན་ ཅིང་ འབྲེལ་ འབྱུང་གནས་པ་␣འི་ ཆོས ། །"
