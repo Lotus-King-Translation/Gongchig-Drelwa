@@ -13124,7 +13124,7 @@ msgstr ""
 
 msgctxt "2478662b4e864ce2ac372d497e73e0a5"
 msgid "མཐོང་བ་ ཐམས་ཅད་ རྣམ་སྣང་ ལས་མ་ གཡོས་ ཤིང་"
-msgstr ""
+msgstr "Everything one sees does not waver from Vairocana,"
 
 msgctxt "30855cb8868a4d02aff05567ccf01ca0"
 msgid "གེགས་ བྱ་བ་ གདོད་ ནས་ མ་གྲུབ་པ་␣འོ ། །"
