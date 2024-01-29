@@ -13208,7 +13208,7 @@ msgstr ""
 
 msgctxt "979f0a6f911e42db8632d35158af32f3"
 msgid "ཚུལ་ དེ་ལྟར་ བསྒོམ་ དགོས་པ་ དང༌ །"
-msgstr ""
+msgstr "It is required to meditate in this way and"
 
 msgctxt "b5d7003fd37e4575820c473badd8ce5d"
 msgid "བཅུད་ གྲུབ་པ་␣འི་ ཚུལ་ དུ་ ལྷ་ དང་ ལྷ་མོ་␣འི་ རང་བཞིན་ གདོད་ ནས་"
