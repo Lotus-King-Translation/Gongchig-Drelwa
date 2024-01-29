@@ -19824,7 +19824,7 @@ msgstr ""
 
 msgctxt "60fc14f22a23427ca4be3419810b5eca"
 msgid "དེ་ལྟར་ ཡང༌ །"
-msgstr ""
+msgstr "Likewise,"
 
 msgctxt "cb21093478774847a72abfcc49bb3345"
 msgid "རྒྱུ་ལ་ བརྟེན་་ པ་␣འི་ མཁས་པ་ བཅོམ་ལྡན་འདས ། །"
