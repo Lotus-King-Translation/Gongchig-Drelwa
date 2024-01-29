@@ -13227,6 +13227,8 @@ msgid ""
 "སྤྲོས་པ་ དེ་དག་ གདོད་ ནས་ གནས་པ་ རྟེན་འབྲེལ་ གྱི་ ཚུལ་ དུ་ འབྱུང་བ་␣འི་ "
 "ཕྱིར་ རོ ། །"
 msgstr ""
+"This is because these elaborations primarily exist and arise in the manner "
+"of dependent relationships."
 
 msgctxt "c6ec7a05c1dd4dada3b448a34cc8f04d"
 msgid "དེ་ལྟར་ ཡང་ །"
