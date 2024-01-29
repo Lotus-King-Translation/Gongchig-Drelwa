@@ -13252,7 +13252,7 @@ msgstr "According to The Vajrakila Tantra, the Rays of the Sun:"
 
 msgctxt "862bc43d5be349698477a45cf41d62d2"
 msgid "རྟེན་ ཅིང་ འབྲེལ་ འབྱུང་གནས་པ་␣འི་ ཆོས ། །"
-msgstr ""
+msgstr "The phenomena abiding in the dependent-related arising,"
 
 msgctxt "e3dffe4df3634bb8bdf7617eebe568ca"
 msgid "རིག་པ་␣འི་ ཡེ་ཤེས་ གསལ་བ་␣ར་ འགྱུར །"
