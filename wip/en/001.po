@@ -11011,7 +11011,7 @@ msgstr "Thus, one must aspire for dharmakaya as the actuality."
 
 msgctxt "1c2e3427400e4d2e9cf5f505a77d72dc"
 msgid "དེ་ལྟར་ ཡང་ །"
-msgstr "That as well."
+msgstr "Likewise,"
 
 msgctxt "62da450174b04913b7a3c5aeb6bc543e"
 msgid "རྒྱན་ སྟུག་པོ་␣ར །"
