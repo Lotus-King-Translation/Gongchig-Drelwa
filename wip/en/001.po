@@ -13289,7 +13289,7 @@ msgstr ""
 
 msgctxt "777d18065da3436a8af99bcb49f7132f"
 msgid "དེ་ལྟར་ ཡང་ རྡོ་རྗེ་ རྩེ་མོ་ ལ་␣ས་"
-msgstr ""
+msgstr "Likewise, according to the Peak of Vajra:"
 
 msgctxt "62686fa70c824248aa88b631da2ad5a5"
 msgid "སྲ་ ཞིང་ སྙིང་པོ་ ཁོང་སྟོང་ མེད ། །"
