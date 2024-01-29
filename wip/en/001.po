@@ -13598,6 +13598,7 @@ msgstr "As said."
 msgctxt "30eec2fb0716448b80898db53dde3145"
 msgid "གཞན་ ཡང་ བརྟག་ གཉིས་ ལ་␣ས །"
 msgstr ""
+"Furthermore, according to the two segments [of the Hevajra root tantra]:"
 
 msgctxt "c5f2f84a7bc646dba72ac480d5aae92d"
 msgid "དང་པོ་ གསོ་སྦྱོང་ སྦྱིན་པ་␣ར་ བྱ །"
