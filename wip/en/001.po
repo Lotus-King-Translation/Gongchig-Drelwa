@@ -13283,7 +13283,7 @@ msgstr ""
 
 msgctxt "5d97116584c1429a8e69132a0e136b44"
 msgid "ཆོས་སྐུ་ ཡིན་པ་␣འི་ ཕྱིར་␣༑"
-msgstr ""
+msgstr "Because it is the dharmakaya."
 
 msgctxt "e42a5887667d4ae18e6b72fcc4acfdee"
 msgid "དཔེར་ན་ དམ་བཅའ་ བདུན་ ལྡན་ གྱི་ ཕ་ལམ་ བཞིན་ ནོ །"
