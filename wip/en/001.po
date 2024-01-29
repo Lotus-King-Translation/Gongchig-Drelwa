@@ -19104,7 +19104,7 @@ msgstr ""
 
 msgctxt "b7845e5e9ee847fead920532e34a177e"
 msgid "དེ་ལྟར་ ཡང་ བྱང་ཆུབ་ སེམས་ འགྲེལ་ ལ་␣ས །"
-msgstr ""
+msgstr "Likewise, according to A Commentary on Bodhicitta:"
 
 msgctxt "074b15235b254fcb936e941e4fddb37b"
 msgid "བྱང་ཆུབ་ སེམས་ ཀྱི་ རང་བཞིན་ སྐུ ། །"
