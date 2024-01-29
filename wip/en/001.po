@@ -13103,7 +13103,7 @@ msgstr ""
 
 msgctxt "2449c2941d124efea88bac57439a8e13"
 msgid "མིག་ རྣ་ སྣ་ ལྕེ་ ལུས་ ཡིད་ དྲུག་ ལ་"
-msgstr "In the six of eye, ear, nose, tongue, body, and mind "
+msgstr "In the six: eye, ear, nose, tongue, body, and mind "
 
 msgctxt "08eb18ffda7446098e56c652da5242d0"
 msgid ""
