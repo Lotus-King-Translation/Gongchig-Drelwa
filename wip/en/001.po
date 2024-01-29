@@ -13196,6 +13196,7 @@ msgstr ""
 msgctxt "5f22b20d79ab49bf909b5bf6b23dd82b"
 msgid "ཕྱི་ སྣོད་ རླུང་ མེ་ ཆུ་ ས་རི་ རབ་ ལྔ །"
 msgstr ""
+"The outer vessel of the five: wind, fire, water, earth and་Mount Meru."
 
 msgctxt "23c3bfa10cdb4956a23f8ac000c94af0"
 msgid ""
