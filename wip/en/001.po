@@ -13240,7 +13240,7 @@ msgstr "Other than dependent origination,"
 
 msgctxt "884cd2c789274ddda4988ee9107fac37"
 msgid "ཆོས་ འགའ་ ཡོད་པ་ མ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "There is not a single phenomenon."
 
 msgctxt "bdcb9c602ff747e98a60a412d047018d"
 msgid "ཞེས་ དང་ །"
