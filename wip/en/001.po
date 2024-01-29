@@ -13203,6 +13203,8 @@ msgid ""
 "རང་ ལུས་ རྐང་མཐིལ །  འདོམས །  ལྟེ་བ །  བྲང་ །  སྒལ་ཚིགས་ རྣམས་ ཡིན་པ་␣ར་ "
 "གསུངས་པ་␣ས་"
 msgstr ""
+"And one’s own body with the soles of the feet, genitals, navel, chest, and "
+"spine are taught."
 
 msgctxt "979f0a6f911e42db8632d35158af32f3"
 msgid "ཚུལ་ དེ་ལྟར་ བསྒོམ་ དགོས་པ་ དང༌ །"
