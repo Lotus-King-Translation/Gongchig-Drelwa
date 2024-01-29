@@ -17466,6 +17466,7 @@ msgstr ""
 msgctxt "97b312da83a84b74a9c521da6f094760"
 msgid "དེ་ལྟར་ ཡང་ ཏིང་འཛིན་ རྒྱལ་པོ་ ལ་␣ས །"
 msgstr ""
+"That as well, according to The King of Meditative Concentration [Sutra]:"
 
 msgctxt "fe6e67570f614c62abaabe328e099472"
 msgid "ཆོས་ཉིད་ ལ་␣ས་ ཀྱི་ རྣམ་སྨིན་ མེད་ ཤེས་ ཀྱང་ །"
