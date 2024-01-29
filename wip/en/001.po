@@ -18625,6 +18625,7 @@ msgstr ""
 msgctxt "214776bb5e5c48778bcfae66651196e1"
 msgid "དེ་ལྟར་ ཡང་ མཚན་ བརྗོད་ ལ་␣ས །"
 msgstr ""
+"Likewise, according to the [Sutra] Expressing The Names [of Manjushri]:"
 
 msgctxt "eaf9a2de5d8d4de6aa2c34d52f0a70d4"
 msgid "གཉིས་ མེད་ ཡེ་ཤེས་ ཚུལ་ འཆང་བ ། །"
