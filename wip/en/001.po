@@ -13219,6 +13219,8 @@ msgstr ""
 msgctxt "3c192d9d77284ea392504fe1d9a8c39f"
 msgid "གྲུབ་པ་ བསྒོམ་པ་␣ས་ འབྲས་བུ་ མཉམ་ཉིད་ མངོན་དུ་ གྱུར་པ་ སྟེ་"
 msgstr ""
+"The fruition of the realization of equality is actualized through the "
+"meditation on accomplishment."
 
 msgctxt "41a935b2528e409faefad9dfe4ae4daa"
 msgid ""
