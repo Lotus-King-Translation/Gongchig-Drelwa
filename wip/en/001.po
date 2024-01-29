@@ -13132,7 +13132,7 @@ msgstr "That which obstructed has never been established primarily."
 
 msgctxt "9528223842be45cb8a6b2c4a6119063a"
 msgid "དེ་བཞིན་ རྣ་བ་ སོགས་ ཀྱང་"
-msgstr ""
+msgstr "Likewise, ear and so on, as well"
 
 msgctxt "d4dcb4eb69a441b5b949f3853928fafb"
 msgid ""
