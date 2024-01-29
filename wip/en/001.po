@@ -13256,7 +13256,7 @@ msgstr "The phenomena abiding in the dependent-related arising,"
 
 msgctxt "e3dffe4df3634bb8bdf7617eebe568ca"
 msgid "རིག་པ་␣འི་ ཡེ་ཤེས་ གསལ་བ་␣ར་ འགྱུར །"
-msgstr ""
+msgstr "The wisdom of rigpa will become clear."
 
 msgctxt "4418644c464f4ffb8cca96cc72af059f"
 msgid "ཞེས་ སོ །"
