@@ -13232,7 +13232,7 @@ msgstr ""
 
 msgctxt "c6ec7a05c1dd4dada3b448a34cc8f04d"
 msgid "དེ་ལྟར་ ཡང་ །"
-msgstr ""
+msgstr "That as well."
 
 msgctxt "ed65f39d92a1437b96c1a10510c62f0f"
 msgid "རྟེན་ ཅིང་ འབྲེལ་ འབྱུང་ མ་གཏོགས་པ་␣འི ། །"
