@@ -13272,7 +13272,7 @@ msgstr "Attachment abides, the channels move, the wind arrange,"
 
 msgctxt "7098dd7009f5457fb7ebac043385de76"
 msgid "བྱང་སེམས་ ཐིག་ལེ་␣འི་ འཁོར་ལོ་ བཞི་ འདི་ ཡིན་ ཟེར །"
-msgstr ""
+msgstr "These are said to be the four wheels of the bodhicitta drop."
 
 msgctxt "28c0bc69633d4f71937c5109f63007ba"
 msgid ""
