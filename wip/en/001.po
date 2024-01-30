@@ -13379,7 +13379,7 @@ msgstr "They will not attain the actual accomplishment."
 
 msgctxt "2f6645d1c6a04b4e863ad4473ddf505d"
 msgid "ཉམས་པ་␣ར་ འགྱུར་བ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "Therefore, [they] will become degenerated. "
 
 msgctxt "fe0ffa6f15184040993c31ea4e985465"
 msgid "ཆོས་ ལུང་ ལ་ རག་ ལ་␣ས །"
