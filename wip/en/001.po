@@ -13341,7 +13341,7 @@ msgstr "The bodyless body is the supreme body."
 
 msgctxt "a5976b0b82d8480eb2be2aa7b8ec69a1"
 msgid "ལུས་ ཀྱི་ མཐའ་ ནི་ རྟོཌ་པ་ པོ །"
-msgstr ""
+msgstr "The body’s end is the realizer."
 
 msgctxt "e03d72c4e4e74eab8fe16840d713012a"
 msgid "ཞེས་པ་␣ས་ དེ་ མངོན་དུ་ བྱས་པ་␣འོ །"
