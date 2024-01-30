@@ -13357,7 +13357,7 @@ msgstr ""
 
 msgctxt "7a9ee1fa99034c5cbe7813cdb9a0a1a5"
 msgid "འདི་␣ར་ ནི་ ཟབ་མོ་␣འི་ གནས་ལུགས་ འགའ་ཞིག་"
-msgstr ""
+msgstr "In this [system], some profound actualities were"
 
 msgctxt "8004c99d5dd747d78e223dcac45bddd6"
 msgid ""
