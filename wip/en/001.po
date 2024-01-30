@@ -13297,7 +13297,7 @@ msgstr "Likewise, according to the Peak of Vajra:"
 
 msgctxt "62686fa70c824248aa88b631da2ad5a5"
 msgid "སྲ་ ཞིང་ སྙིང་པོ་ ཁོང་སྟོང་ མེད ། །"
-msgstr ""
+msgstr "It is firm with no hollow core,"
 
 msgctxt "53d8c5105e8f4024a41f193c4f2f10bd"
 msgid "གཞིག་ ཅིང་ གཞོམ་ དུ་ མེད་པ་␣ས་ ན ། །"
