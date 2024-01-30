@@ -13333,7 +13333,7 @@ msgstr ""
 
 msgctxt "b43eb9b9526643379349d4252f282769"
 msgid "མངོན་དུ་ གྱུར་པ་ ལ་ རྡོ་རྗེ་␣འི་ ལུས་ ཞེས་ བྱ་ སྟེ །"
-msgstr ""
+msgstr "Their actualization without division is called the vajra body."
 
 msgctxt "30a8144a70a1402398a91e2d2cfcd8be"
 msgid "ལུས་མེད་ ལུས་ ཏེ་ ལུས་ ཀྱི་ མཆོག  །"
