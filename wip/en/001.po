@@ -13387,7 +13387,7 @@ msgstr "Dharma depends on transmission, "
 
 msgctxt "6b4654ab345c4cdcab8e4d155e1f7fd2"
 msgid "ལུང་ མན་ངག  །"
-msgstr ""
+msgstr "Transmission [depends] on the foremost instruction,"
 
 msgctxt "90c5f5cd2940498badd2435aa47f819f"
 msgid "མན་ངག་ བརྒྱུད་པ་␣འི་ བླ་མ་ ལ་ རག་ ལས་པ་␣ས་"
