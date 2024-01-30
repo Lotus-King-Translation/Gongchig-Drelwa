@@ -13370,6 +13370,8 @@ msgstr ""
 msgctxt "ad0ea0b24a4c4005abfbc55f4b2b36a8"
 msgid "བླ་མ་ ལ་མ་ བརྟེན་པ་␣ར་ དབང་རྣོན་ གོ་བ་␣ས་ ཞུགས་ ན་"
 msgstr ""
+"If those of sharp faculties engage with comprehension without relying on a "
+"guru,"
 
 msgctxt "245b2036a1f5440688aaa0c3a0c921f6"
 msgid "དངོས་གྲུབ་ མི་ ཐོབ་ ཅིང༌ །"
