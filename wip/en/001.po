@@ -13329,6 +13329,8 @@ msgid ""
 "དེ་ ལ་ བརྟེན་ ནས་ སྒོ་གསུམ་ དབྱེ་␣ར་ མེད་ གཉིས་ སུ་ མེད་པ་␣འི་ རྡོ་རྗེ་ "
 "མི་ཕྱེད་པ་"
 msgstr ""
+"In dependence on that, the inseparable and non-dual three doors of vajra, "
+"without division"
 
 msgctxt "b43eb9b9526643379349d4252f282769"
 msgid "མངོན་དུ་ གྱུར་པ་ ལ་ རྡོ་རྗེ་␣འི་ ལུས་ ཞེས་ བྱ་ སྟེ །"
