@@ -13345,7 +13345,7 @@ msgstr "The body’s end is the realizer."
 
 msgctxt "e03d72c4e4e74eab8fe16840d713012a"
 msgid "ཞེས་པ་␣ས་ དེ་ མངོན་དུ་ བྱས་པ་␣འོ །"
-msgstr ""
+msgstr "Thus, this is what is manifested."
 
 msgctxt "6a01bebdcdf942eaa66e06ba898575e1"
 msgid ""
