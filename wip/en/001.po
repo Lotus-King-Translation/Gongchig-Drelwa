@@ -13321,6 +13321,8 @@ msgid ""
 "སྒོ་གསུམ་ རྡོ་རྗེ་ གསུམ་ ལ་␣ས་ ནམ་ཡང་ མི་འདའ་ བར་ བྱེད་པ་ རྡོ་རྗེ་ འཛིན་པ་ "
 "ཟེར །"
 msgstr ""
+"One who never passes the three doors and the three vajras is called a vajra "
+"holder."
 
 msgctxt "96b3a605f5154a1fac0b685ff2218804"
 msgid ""
