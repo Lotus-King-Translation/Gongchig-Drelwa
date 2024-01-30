@@ -13364,6 +13364,8 @@ msgid ""
 "རྡོ་རྗེ་ འཆང་ གིས་ རྒྱུད་ དཀྲུགས་ ལུང་ བཅུ་␣ས་ མན་ངག་ གབ་པ་␣འི་ སྒོ་ ནས་ "
 "སྦས་པ་ ཡིན་ ཏེ །"
 msgstr ""
+"concealed by Vajradhara in the mixed tantras and the ten transmissions by "
+"the approach of hidden core instructions."
 
 msgctxt "ad0ea0b24a4c4005abfbc55f4b2b36a8"
 msgid "བླ་མ་ ལ་མ་ བརྟེན་པ་␣ར་ དབང་རྣོན་ གོ་བ་␣ས་ ཞུགས་ ན་"
