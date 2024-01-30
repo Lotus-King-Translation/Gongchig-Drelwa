@@ -13314,6 +13314,7 @@ msgstr "Emptiness is explained as the vajra."
 msgctxt "36e25b466d41446d919f81bedf6354b3"
 msgid "ཅེས་པ་␣ས་ ཆོས་སྐུ་ ཡོན་ཏན་ མཛད་པ་ དང་ བཅས་པ་ སྟེ་"
 msgstr ""
+"Thus, the dharmakaya is endowed with qualities and enlightened activities."
 
 msgctxt "fb9cd9bd1e9943e0a848ec862359f732"
 msgid ""
