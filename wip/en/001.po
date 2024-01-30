@@ -13352,7 +13352,7 @@ msgid ""
 "རྡོ་␣༽༽  རྩ་ རླུང་ ཐིག་ལེ་␣འི་ གནས་ལུགས་ རྒྱུད་ དུ་ གསུངས་པ་ དེ་ ཁོ་ན་␣ར་ "
 "ངེས་ ཟེར་"
 msgstr ""
-"Vajra: They say that the actuality of the channels, winds, and drops is "
+"Vajra: It is said that the actuality of the channels, winds, and drops is "
 "ascertained only as taught in the tantras."
 
 msgctxt "7a9ee1fa99034c5cbe7813cdb9a0a1a5"
