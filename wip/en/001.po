@@ -13337,7 +13337,7 @@ msgstr "Their actualization without division is called the vajra body."
 
 msgctxt "30a8144a70a1402398a91e2d2cfcd8be"
 msgid "ལུས་མེད་ ལུས་ ཏེ་ ལུས་ ཀྱི་ མཆོག  །"
-msgstr ""
+msgstr "The bodyless body is the supreme body."
 
 msgctxt "a5976b0b82d8480eb2be2aa7b8ec69a1"
 msgid "ལུས་ ཀྱི་ མཐའ་ ནི་ རྟོཌ་པ་ པོ །"
