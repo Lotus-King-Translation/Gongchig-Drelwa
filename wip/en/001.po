@@ -13301,7 +13301,7 @@ msgstr "It is firm with no hollow core,"
 
 msgctxt "53d8c5105e8f4024a41f193c4f2f10bd"
 msgid "གཞིག་ ཅིང་ གཞོམ་ དུ་ མེད་པ་␣ས་ ན ། །"
-msgstr ""
+msgstr "Unbreakable and cannot be defeated,"
 
 msgctxt "3fe7f01505c94afaae43a2bab5012fb6"
 msgid "བསྲེག་ པ་␣ར་ བྱར་མེད་ འཇིགས་པ་ མེད ། །"
