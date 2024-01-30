@@ -13309,7 +13309,7 @@ msgstr "It cannot be burned, and there is no fear."
 
 msgctxt "ae5f38974e6d45ce80491094f658a23a"
 msgid "སྟོང་པ་ཉིད་ ནི་ རྡོ་རྗེ་␣ར་ བཤད ། །"
-msgstr ""
+msgstr "Emptiness is explained as the vajra."
 
 msgctxt "36e25b466d41446d919f81bedf6354b3"
 msgid "ཅེས་པ་␣ས་ ཆོས་སྐུ་ ཡོན་ཏན་ མཛད་པ་ དང་ བཅས་པ་ སྟེ་"
