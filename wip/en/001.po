@@ -13375,7 +13375,7 @@ msgstr ""
 
 msgctxt "245b2036a1f5440688aaa0c3a0c921f6"
 msgid "དངོས་གྲུབ་ མི་ ཐོབ་ ཅིང༌ །"
-msgstr ""
+msgstr "They will not attain the actual accomplishment."
 
 msgctxt "2f6645d1c6a04b4e863ad4473ddf505d"
 msgid "ཉམས་པ་␣ར་ འགྱུར་བ་␣འི་ ཕྱིར་ རོ ། །"
