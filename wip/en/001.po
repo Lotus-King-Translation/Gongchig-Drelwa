@@ -13412,7 +13412,7 @@ msgstr ""
 
 msgctxt "57c9672d0bd94950b6da1916714316d9"
 msgid "རྡོ་རྗེ་ སྙིང་པོ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the the Vajra Essence:"
 
 msgctxt "843178add5fd465c9dfedd778aedb412"
 msgid "ཆོས་ ཀྱི་ ཕུང་པོ་ བརྒྱད་ ཁྲི་ དང༌ ། །"
