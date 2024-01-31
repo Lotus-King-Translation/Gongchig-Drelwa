@@ -13432,7 +13432,7 @@ msgstr "Because this meaning is not proclaimed elsewhere."
 
 msgctxt "0f31d7c52c9249acb0f008ae7849fcbf"
 msgid "བླ་མ་ ལ་ ནི་གུ་␣ས་པ་ ཡི ། །"
-msgstr ""
+msgstr "Paying respect to the guru."
 
 msgctxt "905868706b9a469dadbfbaf98b9f4018"
 msgid "སློབ་མ་ དག་ གིས་ རྟོགས་པ་␣འི་ ཕྱིར ། །"
