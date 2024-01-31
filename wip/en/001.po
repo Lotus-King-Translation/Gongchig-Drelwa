@@ -13400,7 +13400,7 @@ msgstr ""
 
 msgctxt "dd2d302948d74a5f89d6ee883d0f64ea"
 msgid "བླ་མ་␣ར་ བསྟེན་ ནས་ བརྩོན་འགྲུས་ ཀྱིས་ ཉམས་ སུ་ བླངས་པ་␣ས་"
-msgstr ""
+msgstr "Rely on a guru and gain experience with diligence."
 
 msgctxt "06020bc035874e5eade41a4f4a3873db"
 msgid "གནས་ལུགས་ རྟོགས་པ་␣ར་ འགྱུར་བ་␣འི་ ཕྱིར །"
