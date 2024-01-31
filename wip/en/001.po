@@ -13436,7 +13436,7 @@ msgstr "Paying respect to the guru."
 
 msgctxt "905868706b9a469dadbfbaf98b9f4018"
 msgid "སློབ་མ་ དག་ གིས་ རྟོགས་པ་␣འི་ ཕྱིར ། །"
-msgstr ""
+msgstr "For the disciples to realize."
 
 msgctxt "f3789c6a31f946e9b807f9f7950eece0"
 msgid "རྒྱུད་ གཞན་དག་ ཏུ་ སྦས་པ་␣འོ ། །"
