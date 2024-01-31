@@ -13465,7 +13465,7 @@ msgstr "The basis of abiding in the middle,"
 
 msgctxt "111a4f7354704290b6c8a790e075a8ea"
 msgid "མཐ་␣ར་ འཇིག་ རྐྱེན་ རྣམས་ རྒྱུད་ དུ་ བཤད་པ་ ལྟར་ ཟབ་ ཟེར །"
-msgstr ""
+msgstr "and the conditions of destruction at the end."
 
 msgctxt "93b832b86fd4411dbe49cc31a59ded43"
 msgid ""
