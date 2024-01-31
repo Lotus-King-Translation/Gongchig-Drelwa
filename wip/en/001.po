@@ -13453,7 +13453,7 @@ msgstr "Vajra: The actuality of the faults and good qualities of the body"
 
 msgctxt "dffc124335eb4f0cae4b1f2ff58a003b"
 msgid "རྩ་  རླུང་ གི་ རྟེན་འབྲེལ་ ལ་␣ས་ འབྱུང་བ་␣ས་"
-msgstr ""
+msgstr "arises from the interdependence of the channels and winds. "
 
 msgctxt "fccb0817440248d986616ea2f8d89114"
 msgid "དང་པོ་ སྐྱེ་བ་␣འི་ རྒྱུ །"
