@@ -13404,7 +13404,7 @@ msgstr "Rely on a guru and gain experience with diligence."
 
 msgctxt "06020bc035874e5eade41a4f4a3873db"
 msgid "གནས་ལུགས་ རྟོགས་པ་␣ར་ འགྱུར་བ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "[They] will realize the actuality."
 
 msgctxt "765f12af882c434990f2a54a9eabd587"
 msgid "སྦ་␣ས་ ཏེ །"
