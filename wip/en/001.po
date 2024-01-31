@@ -13449,7 +13449,9 @@ msgstr ""
 
 msgctxt "274b981ea6124ae39474f621e8cd4eae"
 msgid "རྡོ་␣༽༽  ལུས་ སྐྱོན་ཡོན་ གྱི་ གནས་ལུགས་"
-msgstr "Vajra: The actuality of the faults and good qualities of the body"
+msgstr ""
+"Vajra: It is said that the actuality of the faults and good qualities of the"
+" body"
 
 msgctxt "dffc124335eb4f0cae4b1f2ff58a003b"
 msgid "རྩ་  རླུང་ གི་ རྟེན་འབྲེལ་ ལ་␣ས་ འབྱུང་བ་␣ས་"
