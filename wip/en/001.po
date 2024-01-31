@@ -13391,7 +13391,7 @@ msgstr "Transmission [depends] on the foremost instruction,"
 
 msgctxt "90c5f5cd2940498badd2435aa47f819f"
 msgid "མན་ངག་ བརྒྱུད་པ་␣འི་ བླ་མ་ ལ་ རག་ ལས་པ་␣ས་"
-msgstr ""
+msgstr "The foremost instruction depends on the lineage gurus,"
 
 msgctxt "37187dde2b9e4c1e873b8479bf11e83e"
 msgid "དབང་རྣོན་ གྱིས་ ཟབ་མོ་ དེ་ རྟོགས་པ་␣འི་ ཆེད་ དུ་"
