@@ -13408,7 +13408,7 @@ msgstr "[They] will realize the actuality."
 
 msgctxt "765f12af882c434990f2a54a9eabd587"
 msgid "སྦ་␣ས་ ཏེ །"
-msgstr "In a hidden [teaching]:"
+msgstr "In a hidden:"
 
 msgctxt "57c9672d0bd94950b6da1916714316d9"
 msgid "རྡོ་རྗེ་ སྙིང་པོ་ ལ་␣ས །"
