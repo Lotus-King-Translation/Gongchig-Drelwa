@@ -13396,6 +13396,8 @@ msgstr "The foremost instruction depends on the lineage gurus."
 msgctxt "37187dde2b9e4c1e873b8479bf11e83e"
 msgid "དབང་རྣོན་ གྱིས་ ཟབ་མོ་ དེ་ རྟོགས་པ་␣འི་ ཆེད་ དུ་"
 msgstr ""
+"Therefore, those of sharp faculties rely on a guru to realize that profound "
+"[instruction]"
 
 msgctxt "dd2d302948d74a5f89d6ee883d0f64ea"
 msgid "བླ་མ་␣ར་ བསྟེན་ ནས་ བརྩོན་འགྲུས་ ཀྱིས་ ཉམས་ སུ་ བླངས་པ་␣ས་"
