@@ -13428,7 +13428,7 @@ msgstr "I have explained the genuine assemblage."
 
 msgctxt "fc0395c88deb4ed9b8a8d42af8f4e623"
 msgid "གཞན་ དུ་ དོན་ འདི་ མ་ བསྒྲགས་པ་␣ས ། །"
-msgstr "I have not proclaimed this meaning elsewhere."
+msgstr "Because this meaning is not proclaimed elsewhere."
 
 msgctxt "0f31d7c52c9249acb0f008ae7849fcbf"
 msgid "བླ་མ་ ལ་ ནི་གུ་␣ས་པ་ ཡི ། །"
