@@ -13440,7 +13440,7 @@ msgstr "For the disciples to realize."
 
 msgctxt "f3789c6a31f946e9b807f9f7950eece0"
 msgid "རྒྱུད་ གཞན་དག་ ཏུ་ སྦས་པ་␣འོ ། །"
-msgstr ""
+msgstr "This is hidden in other tantras."
 
 msgctxt "ab0184ca5f2f487d809e937fea947957"
 msgid "རྟོགས་ ཚུལ་ ཆོས་རྗེ་ རིན་པོ་ཆེ་ བཞིན་ ནོ ། །"
