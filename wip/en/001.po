@@ -13461,7 +13461,7 @@ msgstr "The causes of birth at the beginning,"
 
 msgctxt "8615eaea352c4a9a9a48bd589329191b"
 msgid "བར་ དུ་ གནས་པ་␣འི་ གཞི །"
-msgstr ""
+msgstr "The basis of abiding in the middle,"
 
 msgctxt "111a4f7354704290b6c8a790e075a8ea"
 msgid "མཐ་␣ར་ འཇིག་ རྐྱེན་ རྣམས་ རྒྱུད་ དུ་ བཤད་པ་ ལྟར་ ཟབ་ ཟེར །"
