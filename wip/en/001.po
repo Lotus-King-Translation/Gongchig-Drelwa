@@ -13457,7 +13457,7 @@ msgstr "arises from the interdependence of the channels and winds. "
 
 msgctxt "fccb0817440248d986616ea2f8d89114"
 msgid "དང་པོ་ སྐྱེ་བ་␣འི་ རྒྱུ །"
-msgstr ""
+msgstr "The causes of birth at the beginning,"
 
 msgctxt "8615eaea352c4a9a9a48bd589329191b"
 msgid "བར་ དུ་ གནས་པ་␣འི་ གཞི །"
