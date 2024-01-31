@@ -13473,6 +13473,8 @@ msgctxt "93b832b86fd4411dbe49cc31a59ded43"
 msgid ""
 "འདི་␣ར་ ནི་ལ་␣ས་ ཏེ་ རྩ་ རླུང་ གི་ བྱ་ བྱེད་ལས་ གསུམ་ གྱི་ གནས་ཚུལ་ དང་"
 msgstr ""
+"In this [system], Karma is the circumstances of action, actor, karma of the "
+"channels and winds, and "
 
 msgctxt "d3a72d31519649a1bed91ab32e09863c"
 msgid "འདུག་ ཚུལ་ འགའ་ཞིག་ ནི་ སྨན་ རྒྱུད་ ཟབ་པ་␣ར་ བཞེད་ དེ །"
