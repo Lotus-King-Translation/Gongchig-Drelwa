@@ -13420,7 +13420,7 @@ msgstr "The Dharma heaps of eighty-thousand and,"
 
 msgctxt "06f125f0a4754893b9c4d4abc6559560"
 msgid "བཞི་ སྟོང་ གི་ ནི་ གྲངས་ སྟོང་ གི  །"
-msgstr ""
+msgstr "Four thousand, the thousands of enumeration,"
 
 msgctxt "e4d930b2b1b1409e926c53e72b5a2d24"
 msgid "ཡང་དག་ འདུས་པ་␣ར་ ངས་ བཤད་ དོ ། །"
