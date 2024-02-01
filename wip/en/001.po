@@ -13558,7 +13558,7 @@ msgstr "In this [system], Those that are held to be not profound in others"
 
 msgctxt "3f3745e54e384b438013180a6b05f9a7"
 msgid "འདི་␣ར་ ཟབ་པ་␣ར་ བྱ་ སྟེ་"
-msgstr ""
+msgstr "are profound here."
 
 msgctxt "6491e06a3ce54c4fa63ae7b34f07a885"
 msgid "དེ་དག་ མེད་ ན་ སངས་རྒྱས་་ པ་ ལྟ་ཅི་"
