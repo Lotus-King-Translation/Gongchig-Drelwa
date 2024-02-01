@@ -13539,7 +13539,7 @@ msgstr "the training of discipline,"
 
 msgctxt "4c7ebe952df94c8f8b6879410b43fa87"
 msgid "སྡོམ་པ་ སོ་ཐར །"
-msgstr ""
+msgstr "the vows of individual emancipation, "
 
 msgctxt "708a36e9fe624fdbad698387abac2a4a"
 msgid ""
