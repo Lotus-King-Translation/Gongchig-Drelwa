@@ -13078,7 +13078,7 @@ msgid ""
 "དོན་དམ་ བདེན་པ་␣འི་ དབང་ དུ་ ན་ གེགས་ ལ་␣ས་ སངས་རྒྱས་ ཉིད་ ཀྱང་ མེད་ ཅེས་ སོ"
 " ། །"
 msgstr ""
-"In terms of the ultimate truth, there is not even an enlightened one from "
+"In terms of the absolute truth, there is not even an enlightened one from "
 "the obstructions."
 
 msgctxt "648a6d5102b94758a988a92a60fe3d47"
