@@ -1000,7 +1000,7 @@ msgstr "The first five are the sutra sections of shravaka "
 
 msgctxt "22b9a81241da476288eb5ce2fd2149a9"
 msgid "དེ་འོག་ བཞི་ འདུལ་བ་␣འི་ སྡེ་སྣོད་"
-msgstr "The next four are the vinaya pitaka."
+msgstr "The next four are the Vinaya Pitaka."
 
 msgctxt "48447a0694b548759551dba98b857903"
 msgid "དེ་འོག་ གཉིས་ བྱང་སེམས་ ཀྱི་ མདོ་སྡེ་"
