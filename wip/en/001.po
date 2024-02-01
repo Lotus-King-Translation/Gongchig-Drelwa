@@ -13487,6 +13487,8 @@ msgstr "In the mantra lineage, it is hidden and not clearly taught."
 msgctxt "8ae0ee8f96094da292b4506ec75f4fb0"
 msgid "འདི་␣ར་ གསལ་བ་␣འི་ ཕྱིར་ ཡན་ལག་ བརྒྱད་པ་␣ར་ མཚོན་ ན་"
 msgstr ""
+"In this [system], to make them clear, if the eight branches are taken as an "
+"illustration,"
 
 msgctxt "f337ee7b20564793a7f73644f5702b5a"
 msgid "དང་པོ་ ཆགས་པ་ དུག་ གསུམ་ ཤས་ གང་ ཆེ་␣འི་ ཚུལ་ དུ་"
