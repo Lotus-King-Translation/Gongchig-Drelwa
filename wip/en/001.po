@@ -13504,6 +13504,8 @@ msgid ""
 "རྣམ་པ་␣ར་ གྱུར་ ན་ སེལ་ ཐབས་ གང་ གི་ གཉེན་པོ་ གང་ཡིན་པ་ སྐྱོན་ དག་པ་ ཕན་བདེ་"
 " སྐྱེད་པ་ དང༌ །"
 msgstr ""
+"changed, whatever the antidote of the method of elimination, will purify the"
+" faults, and produce benefit and ease. "
 
 msgctxt "ce2aa63f4f6a436e90316afd6823f38d"
 msgid "རྩ་ འདི་ ལ་ རླུང་ འདི་ གནས་པ་ སོགས་ ཤིན་ཏུ་ གསལ་པོ་␣ར་ བསྟན་ ཅིང་ །"
