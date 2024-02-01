@@ -13545,6 +13545,8 @@ msgctxt "708a36e9fe624fdbad698387abac2a4a"
 msgid ""
 "སེམས་བསྐྱེད་ དོན་དམ་ རྒྱུད་ བླ་མེད་ དབང་ བཞི་པ་ གྲོལ་ ལམ་ རྫོགས་རིམ་ རྣམས་"
 msgstr ""
+"the generation of bodhicitta, the absolute tantra, the fourth highest "
+"empowerment, the path of liberation, and the completion stage, are "
 
 msgctxt "07f7f51e81a241cc9ed9d3c2c34d209b"
 msgid "ཟབ་ ཅིང་ གཞན་པ་ མི་ ཟབ་པ་ འདོད་ མོད །"
