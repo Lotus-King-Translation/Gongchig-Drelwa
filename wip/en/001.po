@@ -13478,7 +13478,7 @@ msgstr ""
 
 msgctxt "d3a72d31519649a1bed91ab32e09863c"
 msgid "འདུག་ ཚུལ་ འགའ་ཞིག་ ནི་ སྨན་ རྒྱུད་ ཟབ་པ་␣ར་ བཞེད་ དེ །"
-msgstr ""
+msgstr "Some ways of staying are accepted as the profound medicinal tantra."
 
 msgctxt "9a5957310cd742f6bf801776554729d0"
 msgid "སྔགས་རྒྱུད་ དུ་ སྦ་␣ས་ ཏེ་ གསལ་པོ་␣ར་ མ་ བསྟན་པ་"
