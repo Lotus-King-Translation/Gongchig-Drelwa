@@ -13509,7 +13509,7 @@ msgstr ""
 
 msgctxt "ce2aa63f4f6a436e90316afd6823f38d"
 msgid "རྩ་ འདི་ ལ་ རླུང་ འདི་ གནས་པ་ སོགས་ ཤིན་ཏུ་ གསལ་པོ་␣ར་ བསྟན་ ཅིང་ །"
-msgstr ""
+msgstr "It is clearly taught which winds reside in which channels, and so on."
 
 msgctxt "bae0809afaa346168eb0016e529e4776"
 msgid "དེ་␣འང་ སངས་རྒྱས་ ཀྱི་ ཕྲིན་ལས་"
