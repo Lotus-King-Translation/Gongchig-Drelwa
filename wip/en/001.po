@@ -13562,7 +13562,7 @@ msgstr "are profound here."
 
 msgctxt "6491e06a3ce54c4fa63ae7b34f07a885"
 msgid "དེ་དག་ མེད་ ན་ སངས་རྒྱས་་ པ་ ལྟ་ཅི་"
-msgstr ""
+msgstr "Without these, not to mention becoming a buddha,"
 
 msgctxt "a3dc2848f363414fac5b4e4937e9b58d"
 msgid "ལམ་ གྱི་ ཡོན་ཏན་ ཡང་ ཐོབ་པ་␣ར་ མི་ ནུས་པ་␣འི་ ཕྱིར་"
