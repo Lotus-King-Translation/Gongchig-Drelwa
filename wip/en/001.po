@@ -3065,7 +3065,7 @@ msgstr "Proposing persons as particles and moments as substances."
 
 msgctxt "74bd11ead0244026b31a979a391428db"
 msgid "འཇིག་ དང་ སྟོང་ དང་ དོན་དམ་ མཚན་མ་␣ར་ བཀྲ་ ། །"
-msgstr "Disintegration, empty, and transcendent meaning are cleared as signs."
+msgstr "Disintegration, empty, and ultimate are cleared with signs."
 
 msgctxt "20067c8af618405fb5375c2a4d1c682b"
 msgid "ཡང་དག་ དོན་ ལ་ གང་ གི་ མུ་སྟེགས་ ཡིན །"
