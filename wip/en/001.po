@@ -13492,6 +13492,8 @@ msgstr ""
 msgctxt "f337ee7b20564793a7f73644f5702b5a"
 msgid "དང་པོ་ ཆགས་པ་ དུག་ གསུམ་ ཤས་ གང་ ཆེ་␣འི་ ཚུལ་ དུ་"
 msgstr ""
+"The first is attachment, in the manner of whichever of the three poisons is "
+"predominant, "
 
 msgctxt "a1876b1ad2e344339070106862693d4a"
 msgid "ཉེ་␣ས་ གསུམ་ པགས་པ་ དེ་"
