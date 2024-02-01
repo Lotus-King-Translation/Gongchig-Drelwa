@@ -13566,7 +13566,7 @@ msgstr "Without these, not to mention becoming a buddha,"
 
 msgctxt "a3dc2848f363414fac5b4e4937e9b58d"
 msgid "ལམ་ གྱི་ ཡོན་ཏན་ ཡང་ ཐོབ་པ་␣ར་ མི་ ནུས་པ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "One cannot even attain the qualities of the path,"
 
 msgctxt "9221ed83a7194d5b876a3c4f7318e724"
 msgid "རྩ་བ་ དང་ དྲལ་བ་␣འི་ ཡལ་ འདབས་ བཞིན་ ནོ ། །"
