@@ -13517,7 +13517,7 @@ msgstr "Also, the enlightened activities of Buddhas,"
 
 msgctxt "300b63441876491ebe32670b8dbcb0ba"
 msgid "གསེར་འོད་ སོགས་ བཀའ་ ནས་ གསུངས་པ་"
-msgstr ""
+msgstr "such as the golden light and so on are taught in the Buddha's words."
 
 msgctxt "33dcad9825c54c2d94108f74a5d2d47b"
 msgid ""
