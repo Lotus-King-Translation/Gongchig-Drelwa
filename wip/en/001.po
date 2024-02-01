@@ -13524,6 +13524,8 @@ msgid ""
 "རིགས་གསུམ་ སེམས་དཔའ་ དང་ སློབ་དཔོན་ ཀླུ་ གྲུབ་ སོགས་ ཀྱིས་ བཀྲལ་བ་␣འི་ དོན་ "
 "ཡིན་པ་␣འི་ ཕྱིར་ རོ །"
 msgstr ""
+"This is because it is the meaning that is commented on by the three families"
+" of bodhisattvas, the master Nagarjuna, and so forth."
 
 msgctxt "9f6788262eb6495f91514038c0ae6eea"
 msgid "རྡོ་␣༽༽  སྐྱབས་འགྲོ་ བདེན་ བཞི་␣འི་ ཆོས་འཁོར་ སྡེ་སྣོད་ འདུལ་བ །"
