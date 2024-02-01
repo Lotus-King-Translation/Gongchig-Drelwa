@@ -13497,7 +13497,7 @@ msgstr ""
 
 msgctxt "a1876b1ad2e344339070106862693d4a"
 msgid "ཉེ་␣ས་ གསུམ་ པགས་པ་ དེ་"
-msgstr "If the skin of the three faults are"
+msgstr "If the skins of the three faults are"
 
 msgctxt "eedf6e01fe924ae0a5a6621342f11d77"
 msgid ""
