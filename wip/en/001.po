@@ -13482,7 +13482,7 @@ msgstr "Some ways of staying are accepted as the profound medicine lineage."
 
 msgctxt "9a5957310cd742f6bf801776554729d0"
 msgid "སྔགས་རྒྱུད་ དུ་ སྦ་␣ས་ ཏེ་ གསལ་པོ་␣ར་ མ་ བསྟན་པ་"
-msgstr ""
+msgstr "In the mantra lineage, it is hidden and not clearly taught."
 
 msgctxt "8ae0ee8f96094da292b4506ec75f4fb0"
 msgid "འདི་␣ར་ གསལ་བ་␣འི་ ཕྱིར་ ཡན་ལག་ བརྒྱད་པ་␣ར་ མཚོན་ ན་"
