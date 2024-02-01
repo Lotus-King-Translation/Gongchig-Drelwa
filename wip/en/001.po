@@ -13530,6 +13530,8 @@ msgstr ""
 msgctxt "9f6788262eb6495f91514038c0ae6eea"
 msgid "རྡོ་␣༽༽  སྐྱབས་འགྲོ་ བདེན་ བཞི་␣འི་ ཆོས་འཁོར་ སྡེ་སྣོད་ འདུལ་བ །"
 msgstr ""
+"Vajra: Taking refuge, the Dharma wheel of the four truths, the Vinaya "
+"pitaka,"
 
 msgctxt "232f100df4d6454c82c299a020e27027"
 msgid "བསླབ་པ་ ཚུལ་ཁྲིམས །"
