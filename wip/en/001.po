@@ -13513,7 +13513,7 @@ msgstr "It is clearly taught which winds reside in which channels, and so on."
 
 msgctxt "bae0809afaa346168eb0016e529e4776"
 msgid "དེ་␣འང་ སངས་རྒྱས་ ཀྱི་ ཕྲིན་ལས་"
-msgstr ""
+msgstr "Also, the enlightened activities of Buddhas,"
 
 msgctxt "300b63441876491ebe32670b8dbcb0ba"
 msgid "གསེར་འོད་ སོགས་ བཀའ་ ནས་ གསུངས་པ་"
