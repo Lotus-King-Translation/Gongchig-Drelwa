@@ -13698,6 +13698,8 @@ msgstr ""
 msgctxt "57a54e5dba4a4a78a08fe96b7f02bc95"
 msgid "བརྩོན་འགྲུས་ ཅན་ མངོནཤེས་ དང་ རྫུ་འཕྲུལ་ རེ་ ཐོབ་པ་ སྲིད་ ཀྱང་ །"
 msgstr ""
+"Although those who are perseverant can attain some kind of clairvoyance and "
+"miraculous powers,"
 
 msgctxt "d4ad462dd1194162a02d7b09cbe2df28"
 msgid "ཕྱི་རོལ་པ་ ལ་␣འང་ ཡོད་ དེ །"
