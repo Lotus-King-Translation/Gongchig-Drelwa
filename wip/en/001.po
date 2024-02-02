@@ -13620,7 +13620,7 @@ msgstr ""
 
 msgctxt "00be152549674bbb917b4f84301108ec"
 msgid "གཞི་ དང་ སྣོད་ དང་ ལུས་ ལྟ་བུ ། །"
-msgstr ""
+msgstr "Like the basis, the vessel, and the body."
 
 msgctxt "7eb482e8a68d425084f7233064df41f3"
 msgid "གཞན་ རྣམས་ དེ་ ཡི་ ཁྱད་པར་ ཆོས །"
