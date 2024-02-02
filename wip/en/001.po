@@ -13692,6 +13692,8 @@ msgstr "because there is no basis for support."
 msgctxt "9104458fe35a4371b9e32f5a1346a565"
 msgid "དཔེར་ན་ འཁོར་ བསྒྱུར་ ཟས་ ལ་མ་ བརྟེན་ ན་ འཚོ་ མི་ ནུས་པ་ བཞིན་ ནོ ། །"
 msgstr ""
+"For example, if a universal monarch does not rely on food, he cannot "
+"survive."
 
 msgctxt "57a54e5dba4a4a78a08fe96b7f02bc95"
 msgid "བརྩོན་འགྲུས་ ཅན་ མངོནཤེས་ དང་ རྫུ་འཕྲུལ་ རེ་ ཐོབ་པ་ སྲིད་ ཀྱང་ །"
