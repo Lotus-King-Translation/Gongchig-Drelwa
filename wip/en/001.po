@@ -13594,7 +13594,7 @@ msgstr "First, [he] must be born into that family."
 
 msgctxt "2b6b7df2e92548df8179196aa4b7069e"
 msgid "དེ་␣འི་ འོག་ ཏུ་ བདེན་ བཞི་ དང་ འདུལ་བ་ སོགས་ ཟབ་པ་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "Following that, the four truths, Vinaya, and so forth are profound."
 
 msgctxt "d5812c2fa96e42a7971f8e29945ef07b"
 msgid ""
