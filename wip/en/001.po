@@ -13574,7 +13574,7 @@ msgstr "It's like a branch broken from the root."
 
 msgctxt "d0ad14aff6d44a3890d1365540bc291e"
 msgid "དེ་བས་ན་ སྐྱབས་ སུ་ འགྲོ་བ་ ཟབ་ སྟེ །"
-msgstr ""
+msgstr "Therefore, going for refuge is profound because"
 
 msgctxt "c066a83aa02c4ef5a73174f796d357bd"
 msgid "ཆོས་ ཐམས་ཅད་ ཀྱི་ གཞི་མ་ ཡིན་པ་␣འི་ ཕྱིར །"
