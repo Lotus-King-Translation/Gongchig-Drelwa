@@ -13601,6 +13601,8 @@ msgid ""
 "དེ་␣ས་ ཁྱད་པར་ གྱི་ ཆོས་འཁོར་ དང་ བཟོ་གནས་ དང་ ཡིག་རྩིས་ ལ་ བརྟེན་ དགོས་པ་ "
 "བཞིན་ ནོ ། །"
 msgstr ""
+"Thus, one must rely on the special Dharma wheel, crafts,  reading, writing, "
+"and arithmetic."
 
 msgctxt "ff8d93afb9c0411ea8f5be8616fdb61d"
 msgid "དེ་ལྟར་ ཡང་ རྗེ་ འཇིག་རྟེན་ མགོན་པོ་␣ས །"
