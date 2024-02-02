@@ -13682,6 +13682,8 @@ msgstr "In this [system], If these non-profound ones are absent,"
 msgctxt "597c185f1de444c8b07f69217b6f2fbe"
 msgid "རྩ་ རླུང་ གི་ གདམས་པ་␣ས་ སངས་ མི་ རྒྱ་ སྟེ་"
 msgstr ""
+"one will not become a buddha through the instructions on the channels and "
+"winds,"
 
 msgctxt "d1924999279b47dbb3bd056f5d92f8d0"
 msgid "རྟེན་གཞི་ མེད་པ་␣འི་ ཕྱིར །"
