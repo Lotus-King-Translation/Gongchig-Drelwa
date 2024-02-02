@@ -13661,7 +13661,7 @@ msgstr "[They] are not needed. By accomplishing the channels and winds, "
 
 msgctxt "23deeaba21894cdfa76cec422bede8cd"
 msgid "འགྲོས་ བཞི་ རིམ་པ་␣ར་ ཐིམ་པ་␣ས་"
-msgstr ""
+msgstr "The four processes dissolve gradually,"
 
 msgctxt "ffe1603b0e81454b90ff7944fe1d7a7d"
 msgid "ས་བཅུ་␣འི་ བར་ བགྲོད་ དེ་"
