@@ -13703,7 +13703,7 @@ msgstr ""
 
 msgctxt "d4ad462dd1194162a02d7b09cbe2df28"
 msgid "ཕྱི་རོལ་པ་ ལ་␣འང་ ཡོད་ དེ །"
-msgstr "Even non-Buddhists also have it."
+msgstr "Even non-Buddhists also have this."
 
 msgctxt "66bd0bebc69c4921af6d85a327764581"
 msgid "དེ་␣འང་ འདོད་ཆགས་ དང་ བྲལ་ དགོས་པ་␣ས་"
