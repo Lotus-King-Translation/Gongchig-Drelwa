@@ -13711,7 +13711,7 @@ msgstr "Since this must also be free from desire,"
 
 msgctxt "11a9f4e0173b413eb62c8e374775e1bf"
 msgid "དེང་སང་ དཀའ་བ་␣ར་ སྣང་ངོ་ །"
-msgstr ""
+msgstr "It seems to be difficult these days."
 
 msgctxt "6401cab0afb24f25a6096013c2c9c67d"
 msgid ""
