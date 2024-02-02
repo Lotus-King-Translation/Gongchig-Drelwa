@@ -13582,7 +13582,7 @@ msgstr "It is the basis of all Dharma,"
 
 msgctxt "2699a40a9c9248c3a12eafd8721d3d29"
 msgid "དཔེར་ན་ འཁོར་ལོ་␣ས་ བསྒྱུར་ རྒྱལ་"
-msgstr ""
+msgstr "For example, for a universal monarch"
 
 msgctxt "b0d219eb4c2a4eb2a9a068052a46a92f"
 msgid "འཇིག་རྟེན་ དུ་ འབྱུང་བ་ ལ་"
