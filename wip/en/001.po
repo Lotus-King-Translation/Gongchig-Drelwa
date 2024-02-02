@@ -13586,7 +13586,7 @@ msgstr "For example, for a universal monarch"
 
 msgctxt "b0d219eb4c2a4eb2a9a068052a46a92f"
 msgid "འཇིག་རྟེན་ དུ་ འབྱུང་བ་ ལ་"
-msgstr ""
+msgstr "to emerge in the world,"
 
 msgctxt "48aa134fa3634bc7b6cd97299a1eedf0"
 msgid "ཐོག་མ་␣ར་ དེ་␣འི་ རིགས་ སུ་ སྐྱེ་ དགོས་པ་ བཞིན་ ནོ ། །"
