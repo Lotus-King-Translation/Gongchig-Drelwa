@@ -14289,7 +14289,7 @@ msgstr "And than,"
 
 msgctxt "9e035b02ae0b4ca2b66fb19da6abb6fb"
 msgid "དེ་ རྗེས་ ཀྱེ་ རྡོ་རྗེ་ རྩམ །"
-msgstr ""
+msgstr "And then compose the Hevajra [Tantra]."
 
 msgctxt "2c38c3ed1d0f4eefa7602badc0262b66"
 msgid "ཞེས་ དང༌ །"
