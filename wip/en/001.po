@@ -13665,7 +13665,7 @@ msgstr "The four processes dissolve gradually,"
 
 msgctxt "ffe1603b0e81454b90ff7944fe1d7a7d"
 msgid "ས་བཅུ་␣འི་ བར་ བགྲོད་ དེ་"
-msgstr ""
+msgstr "and by traversing up to the tenth level, "
 
 msgctxt "4e15f6766e364c699c4d7a10dbf064b6"
 msgid "འབྲས་བུ་ སྐུ་བཞི་ ཡེ་ཤེས་ ལྔ་ མངོན་དུ་ གྱུར་ ཏེ་"
