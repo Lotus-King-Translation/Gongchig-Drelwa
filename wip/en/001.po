@@ -13737,7 +13737,7 @@ msgstr "Any of the body, speech, and mind become suitable."
 
 msgctxt "88347cec4ffb4b1b890c2eab2cfa6ecb"
 msgid "སྐྱོན་ ལུས་ རྩ་ ཡི་ མི་ ཚངས་སྤྱོད །"
-msgstr ""
+msgstr "The fault of the body channels is sexual misconduct."
 
 msgctxt "993accc7d4374368b47244f6d87ffe2a"
 msgid "ངག་ རླུང་ གི་ རྫུན །"
