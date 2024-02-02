@@ -13624,7 +13624,7 @@ msgstr "Like the basis, the vessel, and the body."
 
 msgctxt "7eb482e8a68d425084f7233064df41f3"
 msgid "གཞན་ རྣམས་ དེ་ ཡི་ ཁྱད་པར་ ཆོས །"
-msgstr ""
+msgstr "The others are the special features of it."
 
 msgctxt "ce75ce2595cc4456a279eacbb557bf04"
 msgid "ཞེས་ སོ ། །"
