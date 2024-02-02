@@ -13637,7 +13637,7 @@ msgstr ""
 
 msgctxt "c5f2f84a7bc646dba72ac480d5aae92d"
 msgid "དང་པོ་ གསོ་སྦྱོང་ སྦྱིན་པ་␣ར་ བྱ །"
-msgstr ""
+msgstr "First, one must give the healing and purifying."
 
 msgctxt "807dd05b3b53494e8c76c8380cdfc89d"
 msgid "ཞེས་པ་ ནས །"
