@@ -13669,7 +13669,7 @@ msgstr "and by traversing up to the tenth level, "
 
 msgctxt "4e15f6766e364c699c4d7a10dbf064b6"
 msgid "འབྲས་བུ་ སྐུ་བཞི་ ཡེ་ཤེས་ ལྔ་ མངོན་དུ་ གྱུར་ ཏེ་"
-msgstr ""
+msgstr "The resultant four bodies and five primordial wisdoms are actualized."
 
 msgctxt "8550da1ef9da482bb12151b975f69f2c"
 msgid "རྡོ་རྗེ་ འཆང་ གི་ གོ་འཕང་ ཐོབ་ ཟེར །"
