@@ -13687,7 +13687,7 @@ msgstr ""
 
 msgctxt "d1924999279b47dbb3bd056f5d92f8d0"
 msgid "རྟེན་གཞི་ མེད་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "because there is no basis for support."
 
 msgctxt "9104458fe35a4371b9e32f5a1346a565"
 msgid "དཔེར་ན་ འཁོར་ བསྒྱུར་ ཟས་ ལ་མ་ བརྟེན་ ན་ འཚོ་ མི་ ནུས་པ་ བཞིན་ ནོ ། །"
