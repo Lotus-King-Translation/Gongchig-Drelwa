@@ -13570,7 +13570,7 @@ msgstr "One cannot even attain the qualities of the path,"
 
 msgctxt "9221ed83a7194d5b876a3c4f7318e724"
 msgid "རྩ་བ་ དང་ དྲལ་བ་␣འི་ ཡལ་ འདབས་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "It's like a branch broken from the root."
 
 msgctxt "d0ad14aff6d44a3890d1365540bc291e"
 msgid "དེ་བས་ན་ སྐྱབས་ སུ་ འགྲོ་བ་ ཟབ་ སྟེ །"
