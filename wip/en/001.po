@@ -13673,7 +13673,7 @@ msgstr "The resultant four bodies and five primordial wisdoms are actualized."
 
 msgctxt "8550da1ef9da482bb12151b975f69f2c"
 msgid "རྡོ་རྗེ་ འཆང་ གི་ གོ་འཕང་ ཐོབ་ ཟེར །"
-msgstr ""
+msgstr "It is said that then one attains the achievement level of Vajradhara."
 
 msgctxt "b337f8ffd5a845bd90922999f6805175"
 msgid "འདི་␣ར་ མི་ ཟབ་པ་ དེ་ རྣམས་ མེད་ ན་"
