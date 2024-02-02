@@ -13729,7 +13729,7 @@ msgstr ""
 
 msgctxt "782f89d0dd8b4d5298cb324ad85ac94d"
 msgid "སྒོ་གསུམ་ གྱི་ སྐྱོན་ བསྡམས་པ་␣ས་"
-msgstr ""
+msgstr "By restraining the faults of the three doors, "
 
 msgctxt "347314e3505c49b398d929811a60254a"
 msgid "ལུས་ངག་ ཡིད་ གསུམ་ ལ་␣ས་ སུ་ རུང་ ཞིང་ །"
