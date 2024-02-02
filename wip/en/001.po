@@ -13724,6 +13724,8 @@ msgstr ""
 msgctxt "ad121dfbc1e44df28988e0a4d9f83658"
 msgid "འདི་␣ར་ སྔགས་ གང་ གི་ གདམས་པ་␣འི་ གནད་ ལ་ འདུལ་བ་ ལྷག་པ་ ཡིན་ ཏེ་"
 msgstr ""
+"In this [system], The Vinaya is superior in the key point of the "
+"instructions of any mantra."
 
 msgctxt "782f89d0dd8b4d5298cb324ad85ac94d"
 msgid "སྒོ་གསུམ་ གྱི་ སྐྱོན་ བསྡམས་པ་␣ས་"
