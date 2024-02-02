@@ -13590,7 +13590,7 @@ msgstr "to emerge in the world,"
 
 msgctxt "48aa134fa3634bc7b6cd97299a1eedf0"
 msgid "ཐོག་མ་␣ར་ དེ་␣འི་ རིགས་ སུ་ སྐྱེ་ དགོས་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "First, [he] must be born into that family."
 
 msgctxt "2b6b7df2e92548df8179196aa4b7069e"
 msgid "དེ་␣འི་ འོག་ ཏུ་ བདེན་ བཞི་ དང་ འདུལ་བ་ སོགས་ ཟབ་པ་ ཡིན་ ཏེ །"
