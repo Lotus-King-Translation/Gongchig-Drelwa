@@ -13657,7 +13657,7 @@ msgstr "Vajra: All the non‑profound ones just explained"
 
 msgctxt "81f60c1ce32e4c54ad8149c94f4d022a"
 msgid "མི་ དགོས་པ་␣ར་ རྩ་ རླུང་ བསྒྲུབས་པ་␣ས་"
-msgstr ""
+msgstr "[They] are not needed. By accomplishing the channels and winds, "
 
 msgctxt "23deeaba21894cdfa76cec422bede8cd"
 msgid "འགྲོས་ བཞི་ རིམ་པ་␣ར་ ཐིམ་པ་␣ས་"
