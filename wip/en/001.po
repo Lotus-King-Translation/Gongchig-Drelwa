@@ -13677,7 +13677,7 @@ msgstr "It is said that then one attains the achievement level of Vajradhara."
 
 msgctxt "b337f8ffd5a845bd90922999f6805175"
 msgid "འདི་␣ར་ མི་ ཟབ་པ་ དེ་ རྣམས་ མེད་ ན་"
-msgstr ""
+msgstr "In this [system], without these non-profound ones,"
 
 msgctxt "597c185f1de444c8b07f69217b6f2fbe"
 msgid "རྩ་ རླུང་ གི་ གདམས་པ་␣ས་ སངས་ མི་ རྒྱ་ སྟེ་"
