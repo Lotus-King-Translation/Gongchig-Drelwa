@@ -13653,7 +13653,7 @@ msgstr "As said."
 
 msgctxt "8b67ef1c0b7e4369ab83c87d14f74776"
 msgid "རྡོ་␣༽༽  བཤད་ མ་ ཐག་པ་␣འི་ མི་ ཟབ་པ་ དེ་ རྣམས་"
-msgstr ""
+msgstr "Vajra: All the non‑profound ones just explained"
 
 msgctxt "81f60c1ce32e4c54ad8149c94f4d022a"
 msgid "མི་ དགོས་པ་␣ར་ རྩ་ རླུང་ བསྒྲུབས་པ་␣ས་"
