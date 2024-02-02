@@ -13718,6 +13718,8 @@ msgid ""
 "ལྷན་␣༽༽  སྔགས་ ཀྱི་ ཉམས་ལེན་ ཐུན་ མིན་ རྩ་ རླུང་ གི་ གདམས་པ་ ཟབ་པ་␣ར་ འདོད་ "
 "མོད །"
 msgstr ""
+"Addendum: Although it is accepted that the uncommon tantric practices are "
+"the profound instructions on the channels and winds."
 
 msgctxt "ad121dfbc1e44df28988e0a4d9f83658"
 msgid "འདི་␣ར་ སྔགས་ གང་ གི་ གདམས་པ་␣འི་ གནད་ ལ་ འདུལ་བ་ ལྷག་པ་ ཡིན་ ཏེ་"
