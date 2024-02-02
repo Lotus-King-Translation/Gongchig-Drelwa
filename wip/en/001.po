@@ -13707,7 +13707,7 @@ msgstr "Even non-Buddhists also have this."
 
 msgctxt "66bd0bebc69c4921af6d85a327764581"
 msgid "དེ་␣འང་ འདོད་ཆགས་ དང་ བྲལ་ དགོས་པ་␣ས་"
-msgstr ""
+msgstr "Since this must also be free from desire,"
 
 msgctxt "11a9f4e0173b413eb62c8e374775e1bf"
 msgid "དེང་སང་ དཀའ་བ་␣ར་ སྣང་ངོ་ །"
