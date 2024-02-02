@@ -13611,6 +13611,8 @@ msgstr "Likewise, Lord Jigten Gonpo says:"
 msgctxt "a69eeff0d0d14bb6854faa70baa0e355"
 msgid "གཞན་ གྱི་ ཆོག་ དབང་ གོང་མ་ ཟབ་ ཟེར་ ཡང༌ །"
 msgstr ""
+"Although the higher ritual empowerment of others is said to be more "
+"profound,"
 
 msgctxt "3885a81f95db497a8df43e29741431a7"
 msgid "འམ་ བུ་ བུམ་ དབང་ ལ་ རྩི་ ཆོད་ ཆེ །"
