@@ -13733,7 +13733,7 @@ msgstr "By restraining the faults of the three doors,"
 
 msgctxt "347314e3505c49b398d929811a60254a"
 msgid "ལུས་ངག་ ཡིད་ གསུམ་ ལ་␣ས་ སུ་ རུང་ ཞིང་ །"
-msgstr ""
+msgstr "Any of the body, speech, and mind become suitable."
 
 msgctxt "88347cec4ffb4b1b890c2eab2cfa6ecb"
 msgid "སྐྱོན་ ལུས་ རྩ་ ཡི་ མི་ ཚངས་སྤྱོད །"
