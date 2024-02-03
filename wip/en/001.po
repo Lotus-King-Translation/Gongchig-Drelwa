@@ -13798,6 +13798,8 @@ msgstr "Like the sun in the sky when clouds are seen."
 msgctxt "900873c5f09c47ecb09e740463b1e1b6"
 msgid "འདི་␣ར་ ཁྱོད་ བློ་གྲོས་ ཅན་ བློ་མིག་ དག་པ་␣འི་ འཕགས་ རྣམས་ ཀྱིས་ ཀྱང་"
 msgstr ""
+"In this [system], even you! the intelligent noble ones with pure eyes of "
+"intelligence, "
 
 msgctxt "c4e2e92eaeac4d209878e93930f6db9f"
 msgid "ཐམས་ཅད་ མཐོང་ མ་ ལགས །"
