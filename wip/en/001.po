@@ -13793,7 +13793,7 @@ msgstr ""
 
 msgctxt "6d7f3cc0dd4d44cea9320c6e59992ee8"
 msgid "སྤྲིན་ མཐོང་ མཁའ་ ལ་ ཉི་ བཞིན་"
-msgstr ""
+msgstr "Like the sun in the sky when clouds are seen."
 
 msgctxt "900873c5f09c47ecb09e740463b1e1b6"
 msgid "འདི་␣ར་ ཁྱོད་ བློ་གྲོས་ ཅན་ བློ་མིག་ དག་པ་␣འི་ འཕགས་ རྣམས་ ཀྱིས་ ཀྱང་"
