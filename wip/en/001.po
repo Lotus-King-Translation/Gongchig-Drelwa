@@ -13788,6 +13788,8 @@ msgctxt "298d8019183247b2bcde44571a60e97f"
 msgid ""
 "ས་བཅུ་པ་␣ས་ ཀྱང་ མུན་ཁུང་ གི་ གླང་པོ་ ལྟར་ ཕྱོགས་ ཙམ་ ལས་མི་ རྟོགས་ ཏེ །"
 msgstr ""
+"Even those on the tenth level realize it just partially, like like an "
+"elephant in the dark."
 
 msgctxt "6d7f3cc0dd4d44cea9320c6e59992ee8"
 msgid "སྤྲིན་ མཐོང་ མཁའ་ ལ་ ཉི་ བཞིན་"
