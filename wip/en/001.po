@@ -13755,6 +13755,8 @@ msgstr "the pure qualities increase."
 msgctxt "2ed71ec0d012483d96da797b28504811"
 msgid "འཁོར་ལོ་ བཞི་ གང་ སྟེ་ བསམ་གཏན་ བཞི་ དགེ་སྦྱོང་ གི་ འབྲས་བུ་ བཞི་"
 msgstr ""
+"After fulfilling the four wheels, the four meditative absorptions, the four "
+"results of virtuous training, "
 
 msgctxt "ace1f80e227c45aab2082a119a69302e"
 msgid "མཐར་ཐུག་ སྟོབས་ སོགས་ ཀྱང་ འབྱུང་བ་␣འི་ ཕྱིར་ རོ ། །"
