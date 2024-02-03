@@ -13737,7 +13737,7 @@ msgstr "Any of the body, speech, and mind become suitable."
 
 msgctxt "88347cec4ffb4b1b890c2eab2cfa6ecb"
 msgid "སྐྱོན་ ལུས་ རྩ་ ཡི་ མི་ ཚངས་སྤྱོད །"
-msgstr "The fault of the body channels is sexual misconduct."
+msgstr "The faults of the body are the sexual misconduct of the channels,"
 
 msgctxt "993accc7d4374368b47244f6d87ffe2a"
 msgid "ངག་ རླུང་ གི་ རྫུན །"
@@ -13745,7 +13745,7 @@ msgstr "The lies of the winds in the speech,"
 
 msgctxt "9ba0f16101504e48911334d62ded20aa"
 msgid "ཡིད་ ཐིག་ལེ་␣འི་ བརྣབ་སེམས་ སོགས་ དག་ ཅིང་"
-msgstr ""
+msgstr "the covetousness of the drops in the mind and so on are purified and"
 
 msgctxt "a4f0fd2ce7eb4afaa1199c17100bb2fc"
 msgid "ཡོན་ཏན་ དྭངས་མ་ འཕེལ་བ་␣ས་"
