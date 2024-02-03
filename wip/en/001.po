@@ -13749,7 +13749,7 @@ msgstr "the covetousness of the drops in the mind and so on are purified and"
 
 msgctxt "a4f0fd2ce7eb4afaa1199c17100bb2fc"
 msgid "ཡོན་ཏན་ དྭངས་མ་ འཕེལ་བ་␣ས་"
-msgstr ""
+msgstr "the pure qualities increase."
 
 msgctxt "2ed71ec0d012483d96da797b28504811"
 msgid "འཁོར་ལོ་ བཞི་ གང་ སྟེ་ བསམ་གཏན་ བཞི་ དགེ་སྦྱོང་ གི་ འབྲས་བུ་ བཞི་"
