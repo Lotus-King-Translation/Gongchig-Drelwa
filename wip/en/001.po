@@ -277,7 +277,7 @@ msgstr "the path that everyone follows,"
 
 msgctxt "d821c017b8644546971b21271029476c"
 msgid "བསམ་གཏན་ དང་ རྣམ་ཐར །"
-msgstr "concentrations and complete liberation,"
+msgstr "meditative absorptions and complete liberation,"
 
 msgctxt "b87c994717df4195984faea7b59522e9"
 msgid "སྔོན་ གནས་ རྗེས་དྲན །"
