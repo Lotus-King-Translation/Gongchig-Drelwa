@@ -13782,7 +13782,7 @@ msgstr ""
 
 msgctxt "6b8dc76623b64497a63f615f3650c259"
 msgid "ལྷན་␣༽༽  ཀུན་གཞི་ བདེ་གཤེགས་ སྙིང་པོ་ དེ་"
-msgstr ""
+msgstr "Addendum: the all-ground, the sugatagarbha,"
 
 msgctxt "298d8019183247b2bcde44571a60e97f"
 msgid ""
