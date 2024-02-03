@@ -13777,6 +13777,7 @@ msgstr ""
 msgctxt "875792da8f8d4c4b9b6496af5b66c5a3"
 msgid "འཁོར་ལོ་ བཞི་ དང་ སྡེ་པ་ བཞི་ སྤྲད་པ་␣འི་ རྒྱུ་མཚན་ ཡང་ དེ་ ཡིན་ ནོ །"
 msgstr ""
+"This is the reason why the four wheels and the four schools are given."
 
 msgctxt "6b8dc76623b64497a63f615f3650c259"
 msgid "ལྷན་␣༽༽  ཀུན་གཞི་ བདེ་གཤེགས་ སྙིང་པོ་ དེ་"
