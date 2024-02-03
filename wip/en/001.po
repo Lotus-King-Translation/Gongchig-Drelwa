@@ -13741,7 +13741,7 @@ msgstr "The fault of the body channels is sexual misconduct."
 
 msgctxt "993accc7d4374368b47244f6d87ffe2a"
 msgid "ངག་ རླུང་ གི་ རྫུན །"
-msgstr "The lies of the speech wind."
+msgstr "The lies of the winds in the speech,"
 
 msgctxt "9ba0f16101504e48911334d62ded20aa"
 msgid "ཡིད་ ཐིག་ལེ་␣འི་ བརྣབ་སེམས་ སོགས་ དག་ ཅིང་"
