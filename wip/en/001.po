@@ -13765,6 +13765,8 @@ msgstr "and finally, the strengths and so forth also arise."
 msgctxt "3efa3eda1c384cc589f2f75513f968ab"
 msgid "དེས་ན་ སྒོ་གསུམ་ མ་ དག་ ན་ དུག་ གསུམ་ གྱིས་ རྙོག་པ་␣ར་ འགྱུར་བ་␣ས་"
 msgstr ""
+"Therefore, if the three doors are not purified, they will be sullied by the "
+"three poisons."
 
 msgctxt "1570ebee8ff64c36a7a7693b50d71ffa"
 msgid ""
