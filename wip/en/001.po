@@ -9321,7 +9321,8 @@ msgstr ""
 
 msgctxt "412799a41f9244e6b5a1b41486b15337"
 msgid "བསམ་གཏན་ མི་ སྐྱོབ་ སངས་རྒྱས་ མཆོད་པ་␣ས་ མིན །"
-msgstr "Concentration will not protect and offerings to Buddhas will not. "
+msgstr ""
+"meditative absorption will not protect and offerings to Buddhas will not. "
 
 msgctxt "54533a9655104265ba2da3b178629f5e"
 msgid "ཞེས་ དང༌ །"
