@@ -13803,7 +13803,7 @@ msgstr ""
 
 msgctxt "c4e2e92eaeac4d209878e93930f6db9f"
 msgid "ཐམས་ཅད་ མཐོང་ མ་ ལགས །"
-msgstr ""
+msgstr "do not see everything."
 
 msgctxt "40413e68556a42b6a161caff6a58afb8"
 msgid "ཞེས་པ་␣ས་ སྤྱི་␣འི་ བཞེད་པ་ དེ་ མཐུན་ ཡང་ །"
