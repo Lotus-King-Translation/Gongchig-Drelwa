@@ -13773,6 +13773,7 @@ msgid ""
 "རྩ་ རླུང་ ཐིག་ལེ་ གསུམ་ ཀ་ སྡོམ་ བྱེད་ དགེ་སློང་ གི་ སྡོམ་སེམས་ བརྟན་པོ་␣ས་ "
 "སྡོམ་པ་ སྟེ་"
 msgstr ""
+"the channels, winds, and drops are restrained by the firm vows of a monk."
 
 msgctxt "875792da8f8d4c4b9b6496af5b66c5a3"
 msgid "འཁོར་ལོ་ བཞི་ དང་ སྡེ་པ་ བཞི་ སྤྲད་པ་␣འི་ རྒྱུ་མཚན་ ཡང་ དེ་ ཡིན་ ནོ །"
