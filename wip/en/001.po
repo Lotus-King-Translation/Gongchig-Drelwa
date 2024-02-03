@@ -13760,7 +13760,7 @@ msgstr ""
 
 msgctxt "ace1f80e227c45aab2082a119a69302e"
 msgid "མཐར་ཐུག་ སྟོབས་ སོགས་ ཀྱང་ འབྱུང་བ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "and finally, the strengths and so forth also arise."
 
 msgctxt "3efa3eda1c384cc589f2f75513f968ab"
 msgid "དེས་ན་ སྒོ་གསུམ་ མ་ དག་ ན་ དུག་ གསུམ་ གྱིས་ རྙོག་པ་␣ར་ འགྱུར་བ་␣ས་"
