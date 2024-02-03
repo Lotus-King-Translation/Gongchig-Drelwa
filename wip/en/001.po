@@ -1249,7 +1249,7 @@ msgstr "The three doors of complete emancipation: signlessness and so on. "
 msgctxt "6318c88fe3134d3a98d409c4fdb1d4ce"
 msgid "གཏུམ་པོ་ རབ་ སྣང་ ལ་ གསུམ་ གསོལ་བ་␣ས་ སྟོབས་ བཅུ་ བསྟན་པ་ ངེས་དོན་ ཏེ་"
 msgstr ""
-"On the three requests, ferocious Candapradyota showed the Ten Strengths, "
+"On the three requests, ferocious Candapradyota showed the ten strengths, "
 "which is a definitive meaning."
 
 msgctxt "b33895b3338c4d99ad40dc70f4a4aca1"
