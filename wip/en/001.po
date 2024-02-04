@@ -13807,7 +13807,7 @@ msgstr "do not see everything."
 
 msgctxt "40413e68556a42b6a161caff6a58afb8"
 msgid "ཞེས་པ་␣ས་ སྤྱི་␣འི་ བཞེད་པ་ དེ་ མཐུན་ ཡང་ །"
-msgstr ""
+msgstr "Although this is in concordance with the general acceptance. "
 
 msgctxt "17f69ea5f312480d953c3e49a7a9ff2b"
 msgid "འདི་␣ར་ བླ་མ་ བྱིན་ རླབ་ དང་ ལྡན་པ་␣ས་"
