@@ -13885,7 +13885,7 @@ msgstr "It is seen by the seventh level and "
 
 msgctxt "e54775429ed942969ab8a0c868de84b1"
 msgid "ས་ དང་པོ་␣ས་ མཐོང༌ །"
-msgstr ""
+msgstr "It is seen by the first level."
 
 msgctxt "e30d17d8d0fb4e3d9282ac9760ea2e9c"
 msgid "སོ་སྐྱེ་␣ས་ མཐོང་བ་␣འི་ ཀུན་གཞི་ སྟེ་ རྣམ་ གྲངས་ བྱེད་ དགོས །"
