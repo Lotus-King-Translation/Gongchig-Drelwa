@@ -13831,7 +13831,8 @@ msgstr "The constituents are gathered inside,"
 
 msgctxt "51ad654d0ae44e10b9a4d30b3cf6ad29"
 msgid "ལུས་ ལ་ བག་ཆགས་ ཀྱི་ ས་བོན་ རྩ་མདུད་ དང་"
-msgstr "The seeds of latency are knotted from their roots in the body."
+msgstr ""
+"The seeds of latency are present in the body in the channel knots and "
 
 msgctxt "8af4edd448684a54a4649084e5004253"
 msgid "ཡི་གེ་␣ར་ གནས་པ་␣འི་ ངང་ རིག་ དྲུག་ གི་ ས་བོན་ རྣམས་ མཐོང་ །"
