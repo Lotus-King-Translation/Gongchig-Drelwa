@@ -13873,7 +13873,7 @@ msgstr ""
 
 msgctxt "54092f476fd64c7cb98f84af67452894"
 msgid "མེ་ལོང་ དང་ མཉམ་ཉིད་ སོགས་ ཡེ་ཤེས་ ལྔ་ འབྱུང་ ཞིང༌ །"
-msgstr ""
+msgstr "The five wisdoms such as the equality to mirror and so forth arise."
 
 msgctxt "090a3eebb3544f168a4a02acf72d0226"
 msgid "དེ་ལྟར་ ན་ ས་བཅུ་␣ས་ ཀྱང་ མི་ མཐོང་བ་ དང་ །"
