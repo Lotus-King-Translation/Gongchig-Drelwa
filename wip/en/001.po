@@ -13844,7 +13844,7 @@ msgstr "When the winds enter there, it is the six families."
 
 msgctxt "51c6271235044448a97650152982d468"
 msgid "དེ་ དང་ དེ་␣ར་ མཐོང་ དེ་ ཡུན་རིང་ དུ་ གོམ་པ་␣ས་"
-msgstr ""
+msgstr "By seeing and habituating in them for a ling time,"
 
 msgctxt "24339a276e2b4fcc8cf751e76b45092f"
 msgid "ཕྱི་རོལ་ ཏུ་ རིག་ དྲུག་ གི་ དཀྱིལ་འཁོར་ ཡོད་པ་ དང༌ །"
