@@ -13840,7 +13840,7 @@ msgstr "The seeds of the six awarenesses are seen while abiding in syllables."
 
 msgctxt "8412ea97fcf243a1ad1d78ae9a7f5f5a"
 msgid "དེ་␣ར་ རླུང་ ཆུད་པ་␣ས་ རིགས་ དྲུག་པོ །"
-msgstr ""
+msgstr "When the winds enter there, it is the six families."
 
 msgctxt "51c6271235044448a97650152982d468"
 msgid "དེ་ དང་ དེ་␣ར་ མཐོང་ དེ་ ཡུན་རིང་ དུ་ གོམ་པ་␣ས་"
