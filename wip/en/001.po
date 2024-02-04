@@ -13890,6 +13890,8 @@ msgstr "It is seen by the first level."
 msgctxt "e30d17d8d0fb4e3d9282ac9760ea2e9c"
 msgid "སོ་སྐྱེ་␣ས་ མཐོང་བ་␣འི་ ཀུན་གཞི་ སྟེ་ རྣམ་ གྲངས་ བྱེད་ དགོས །"
 msgstr ""
+"and the omni-base that is seen by the individualized beings should be "
+"enumerated."
 
 msgctxt "a7950a460c9c4576b7875609edecbe2d"
 msgid "རྡོ  ༽༽  སྒོམ་ཆེན་པ་␣ས་ ཉམས་ སུ་ མྱོང་བ་"
