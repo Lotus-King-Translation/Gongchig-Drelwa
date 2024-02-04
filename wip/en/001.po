@@ -13895,7 +13895,7 @@ msgstr ""
 
 msgctxt "a7950a460c9c4576b7875609edecbe2d"
 msgid "རྡོ  ༽༽  སྒོམ་ཆེན་པ་␣ས་ ཉམས་ སུ་ མྱོང་བ་"
-msgstr ""
+msgstr "Vajra: That which is experience by great meditators,"
 
 msgctxt "21a6e5c7fab24e77a1a82241fa6bc73f"
 msgid "བཀའ་ དང་ བསྟན་བཅོས་ གང་ ནས་ ཀྱང་ མ་ བཤད་པ་ ཞིག་ བྱུང་ ན་␣འང་ ཟབ་ ཟེར །"
