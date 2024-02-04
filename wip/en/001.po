@@ -13823,7 +13823,7 @@ msgstr ""
 
 msgctxt "a1abe4b136d34e349c664b9d5548bcaa"
 msgid "གོམ་པ་ གནད་ དུ་ སོང་བ་␣ས་"
-msgstr ""
+msgstr "Because the meditation has reached the essential point,"
 
 msgctxt "54ddd2f5b72e49439452f3d8b977bd7e"
 msgid "ཁམས་ ནང་ དུ་ འདུས་ ཏེ་"
