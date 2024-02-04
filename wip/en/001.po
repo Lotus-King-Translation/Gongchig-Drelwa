@@ -13818,6 +13818,8 @@ msgid ""
 "གདམས་ངག་ བསྟན་པ་␣འི་ དོན་ བརྩོན་འགྲུས་ ཀྱིས་ བསྒོམ་པ་␣འི་ མཐུ་␣ས་ ཀུན་གཞི་ "
 "དེ་དུས་ རེ་འགའ་ གཞན་ དུ་ ཡང་ མཐོང་ སྟེ་"
 msgstr ""
+"The omni-base [consciousness] is seen at other times through the power of "
+"meditating with diligence on the meaning of the instructions taught."
 
 msgctxt "a1abe4b136d34e349c664b9d5548bcaa"
 msgid "གོམ་པ་ གནད་ དུ་ སོང་བ་␣ས་"
