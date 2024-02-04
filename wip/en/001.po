@@ -13900,6 +13900,8 @@ msgstr "Vajra: That which is experienced by great meditators,"
 msgctxt "21a6e5c7fab24e77a1a82241fa6bc73f"
 msgid "བཀའ་ དང་ བསྟན་བཅོས་ གང་ ནས་ ཀྱང་ མ་ བཤད་པ་ ཞིག་ བྱུང་ ན་␣འང་ ཟབ་ ཟེར །"
 msgstr ""
+"If that is not explained in any of the Buddha-word or treatises, it is said "
+"they are profound."
 
 msgctxt "8ef2f038837b434b836a5700e5448b42"
 msgid "འདི་␣ར་ བཀའ་ དང་ འགལ་བ་␣འི་ ཉམས་མྱོང་ བྱུང་བ་ ལོག་རྟོག་ ཡིན་ ཏེ་"
