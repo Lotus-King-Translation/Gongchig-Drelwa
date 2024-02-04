@@ -13877,7 +13877,7 @@ msgstr "The five wisdoms such as the equality to mirror and so forth arise."
 
 msgctxt "090a3eebb3544f168a4a02acf72d0226"
 msgid "དེ་ལྟར་ ན་ ས་བཅུ་␣ས་ ཀྱང་ མི་ མཐོང་བ་ དང་ །"
-msgstr "In this way, it is not seen by the tenth level and"
+msgstr "In this way, it is not even seen by the tenth level and"
 
 msgctxt "32407f5982d3438a8c930d0faa530f5a"
 msgid "ས་ བདུན་པ་␣ས་ མཐོང་བ་ དང་ །"
