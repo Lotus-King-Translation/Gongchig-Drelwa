@@ -13811,7 +13811,7 @@ msgstr "Although this is in concordance with the general acceptance. "
 
 msgctxt "17f69ea5f312480d953c3e49a7a9ff2b"
 msgid "འདི་␣ར་ བླ་མ་ བྱིན་ རླབ་ དང་ ལྡན་པ་␣ས་"
-msgstr ""
+msgstr "In this [system], Because gurus who possess blessing,"
 
 msgctxt "a371456c61d9420eafdc2c89215b91f9"
 msgid ""
