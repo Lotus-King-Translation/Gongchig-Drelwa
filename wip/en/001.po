@@ -13868,6 +13868,8 @@ msgstr "Because of the actualization of the dependent arising of phenomena."
 msgctxt "ded51f4729594d569a8f8496f7e13cc5"
 msgid "དེ་␣འང་ ཀུན་གཞི་ ཉོན་ཡིད་ ཡིད་ཤེས་ སྒོ་ ལྔ་ དག་པ་␣ས་ ཆོས་དབྱིངས །"
 msgstr ""
+"Furthermore, the five doors of the afflicted mind of the omni-base are "
+"purified."
 
 msgctxt "54092f476fd64c7cb98f84af67452894"
 msgid "མེ་ལོང་ དང་ མཉམ་ཉིད་ སོགས་ ཡེ་ཤེས་ ལྔ་ འབྱུང་ ཞིང༌ །"
