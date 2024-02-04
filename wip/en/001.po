@@ -13853,6 +13853,8 @@ msgstr "The existence of the external mandalas of the six families and"
 msgctxt "0ecfff1741984502861a377b4b3eb20c"
 msgid "ཕྱི་རོལ་ གྱི་ རྒྱུ་རྐྱེན་ གང་ ལ་␣ས་ གང་ འབྱུང་ ཕལ་ཆེར་ མཐོང་བ་␣ས་"
 msgstr ""
+"The most parts of what arises from the external causes and conditions are "
+"seen."
 
 msgctxt "3c7ffe3404af429a8a48947c2fb23420"
 msgid "ཀུན་གཞི་␣འམ་ ཆོས་ཉིད་ བདེ་གཤེགས་ སྙིང་པོ་ མཐོང་བ་ སྟེ་"
