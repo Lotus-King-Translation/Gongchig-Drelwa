@@ -13848,7 +13848,7 @@ msgstr "By seeing and habituating in them for a ling time,"
 
 msgctxt "24339a276e2b4fcc8cf751e76b45092f"
 msgid "ཕྱི་རོལ་ ཏུ་ རིག་ དྲུག་ གི་ དཀྱིལ་འཁོར་ ཡོད་པ་ དང༌ །"
-msgstr ""
+msgstr "The existence of the external mandalas of the six families and"
 
 msgctxt "0ecfff1741984502861a377b4b3eb20c"
 msgid "ཕྱི་རོལ་ གྱི་ རྒྱུ་རྐྱེན་ གང་ ལ་␣ས་ གང་ འབྱུང་ ཕལ་ཆེར་ མཐོང་བ་␣ས་"
