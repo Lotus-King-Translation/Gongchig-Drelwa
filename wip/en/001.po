@@ -13856,6 +13856,7 @@ msgstr ""
 msgctxt "3c7ffe3404af429a8a48947c2fb23420"
 msgid "ཀུན་གཞི་␣འམ་ ཆོས་ཉིད་ བདེ་གཤེགས་ སྙིང་པོ་ མཐོང་བ་ སྟེ་"
 msgstr ""
+"The omni-base [consciousness] or the Dharmata sugatagarbha is seen because"
 
 msgctxt "493cd6806b53418b8221b380ccf910d8"
 msgid "ཆོས་ རྣམས་ ཀྱི་ རྟེན་འབྲེལ་ མངོན་དུ་ བྱས་པ་␣འི་ ཕྱིར་ རོ ། །"
