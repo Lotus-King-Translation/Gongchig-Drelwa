@@ -13863,7 +13863,7 @@ msgstr ""
 
 msgctxt "493cd6806b53418b8221b380ccf910d8"
 msgid "ཆོས་ རྣམས་ ཀྱི་ རྟེན་འབྲེལ་ མངོན་དུ་ བྱས་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "Because of the actualization of the dependent arising of phenomena."
 
 msgctxt "ded51f4729594d569a8f8496f7e13cc5"
 msgid "དེ་␣འང་ ཀུན་གཞི་ ཉོན་ཡིད་ ཡིད་ཤེས་ སྒོ་ ལྔ་ དག་པ་␣ས་ ཆོས་དབྱིངས །"
