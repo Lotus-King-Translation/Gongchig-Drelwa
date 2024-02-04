@@ -13836,7 +13836,7 @@ msgstr ""
 
 msgctxt "8af4edd448684a54a4649084e5004253"
 msgid "ཡི་གེ་␣ར་ གནས་པ་␣འི་ ངང་ རིག་ དྲུག་ གི་ ས་བོན་ རྣམས་ མཐོང་ །"
-msgstr ""
+msgstr "The seeds of the six awarenesses are seen while abiding in syllables."
 
 msgctxt "8412ea97fcf243a1ad1d78ae9a7f5f5a"
 msgid "དེ་␣ར་ རླུང་ ཆུད་པ་␣ས་ རིགས་ དྲུག་པོ །"
