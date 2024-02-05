@@ -14159,7 +14159,7 @@ msgstr "The jewel of clinging and grasping remains."
 
 msgctxt "03666a5bc3da424eb90fde9968e3cdf3"
 msgid "ནོར་བུ་ ལ་ མངོན་ཞེན་ སྐྱེ་ གྱུར་ ན ། །"
-msgstr ""
+msgstr "If one is completely attached to the jewel,"
 
 msgctxt "52b91d0a12e545f793e3660d45df59b0"
 msgid "དུག་སྦྲུལ་ ལྟ་བུ་␣འི་ དམྱལ་་ སྲུང་ གིས ། །"
