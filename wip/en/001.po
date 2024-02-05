@@ -6949,7 +6949,7 @@ msgstr "Aware of full ordination."
 
 msgctxt "1ae5134956754a32b3dceb8ffe4be9bb"
 msgid "དམ་ཆོས་ ནུབ་པ །"
-msgstr "The holy dharma declines. "
+msgstr "The holy Dharma declines. "
 
 msgctxt "f93a62f06a4f4faa996a8f1d1073acc9"
 msgid "རྩ་ལྟུང་ བྱུང་བ་ སྟེ་ དགུ་པོ་␣ས་ གཏོང་བ་␣ར་ གསུངས་ མོད །"
