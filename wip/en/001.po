@@ -688,7 +688,7 @@ msgstr "Addendum: A certain person says:"
 msgctxt "1aa9be0c8b1c4d1d90bede6f840becca"
 msgid "སངས་རྒྱས་ ཀྱི་ ཆོས་ ཐེག་པ་ དང་ གྲུབ་མཐའ་ ཐ་དད་ ངེས་པ་ ཅན་ ཏེ་"
 msgstr ""
-"The dharma, vehicles, and philosophical systems of Buddha are distinct and "
+"The Dharma, vehicles, and philosophical systems of Buddha are distinct and "
 "definitive because"
 
 msgctxt "ee78f774c6c54828bebdd59c59064b98"
