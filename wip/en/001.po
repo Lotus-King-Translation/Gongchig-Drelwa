@@ -14106,6 +14106,8 @@ msgid ""
 "འདི་␣ར་ ནི་ སྐྱོན་མེད་པ་␣འི་ ཏིང་འཛིན་ དེ་ གསུམ་ ཁམས་ གསུམ་ འཁོར་བ་␣འི་ "
 "རྒྱུ་␣འམ་ ས་བོན་ ཡིན་ ཏེ །"
 msgstr ""
+"In this [system], these three flawless meditative concentrations are the "
+"causes or seeds of the three realms of cyclic existence."
 
 msgctxt "7a93061c5b464532b5fc552debde882b"
 msgid "བདེ་བ་␣ས་ འདོད་ཁམས །"
