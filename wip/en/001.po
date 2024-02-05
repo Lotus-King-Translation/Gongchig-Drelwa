@@ -6817,7 +6817,7 @@ msgstr "The complete liberation of the mind and "
 msgctxt "f4ce567316794a3f830a0e59f211085a"
 msgid "ཤེས་རབ་ རྣམ་པ་␣ར་ གྲོལ་བ་␣འི་ ཆོས་ བསྟན་པ་ ཅེས་ སོགས་ དང་ །"
 msgstr ""
-"The dharma teaching of the complete liberation of wisdom and so forth and"
+"The Dharma teaching of the complete liberation of wisdom and so forth and"
 
 msgctxt "7c57081d770d43268da53de1dd97a574"
 msgid "སྡིག་པ་ ཅི་ཡང་ མི་ བྱ་ ཞིང །"
