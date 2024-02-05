@@ -14151,7 +14151,7 @@ msgstr "The lord Phagmo Drupa also said:"
 
 msgctxt "a310f32c68fe4de6a39d3d15132b519a"
 msgid "བདེ་ དང་ གསལ་བ་␣འི་ རྒྱ་མཚོ་ རུ ། །"
-msgstr ""
+msgstr "In the ocean of bliss and clarity."
 
 msgctxt "3e3a532e91be45478350d202801089aa"
 msgid "ཞེན་ དང་ འཛིན་པ་␣འི་ ནོར་བུ་ གནས ། །"
