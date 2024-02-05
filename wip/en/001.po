@@ -13999,7 +13999,7 @@ msgstr ""
 
 msgctxt "c5205ede6f0043228205ec317141045b"
 msgid "བརྗོད་བྱ་␣འི་ དོན་ ཡང་ གཅིག་ སྟེ་"
-msgstr ""
+msgstr "The meaning of the object being expressed is the same."
 
 msgctxt "6f19b703eaa74fcba70226a6e06c0188"
 msgid "ཟླ་ སྒྲོན་ ལ་␣ས །"
