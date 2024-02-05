@@ -1354,7 +1354,7 @@ msgstr "Those of great intelligence have thoroughly gone all of the grounds."
 
 msgctxt "1cfee4b4659e423d8c2be12723a2b42a"
 msgid "ཆོས་ ཀྱི་ དབང་ ནི་ བསྐུར་ གནས་ སུ ། །"
-msgstr "The empowerment of dharma is in the place of bestowal,"
+msgstr "The empowerment of the Dharma is in the place of bestowal,"
 
 msgctxt "efccf86881a241d0ade8dbc22acb3bc4"
 msgid "འོག་མིན་ སྟུག་པོ་ ཉམས་ དགའ་བ་␣ར ། །"
