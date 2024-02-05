@@ -13961,7 +13961,7 @@ msgstr "some are abandoned, and some are accomplished. "
 
 msgctxt "fd8c2cf373f94d29b3eb6bb9c9ddeb77"
 msgid "ཕྱོགས་ རེ་␣ར་ མཐུན་པ་␣ས་ ཆོག་ ཟེར་བ་ དང་"
-msgstr ""
+msgstr " it is sufficient to agree on some points and "
 
 msgctxt "64d997cc0b384543bfcd596680226347"
 msgid "འོག་མ་ གོང་མ་␣ར་ ཞུགས་ ནས་ དོར་ ཟེར །"
