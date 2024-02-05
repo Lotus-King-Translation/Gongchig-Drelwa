@@ -10249,7 +10249,7 @@ msgstr "Gone Far, Unwavering, Good Intelligence,"
 
 msgctxt "aa5a546c9306439b8525c2b670813c2d"
 msgid "ཆོས་ སྤྲིན་ ས་བཅུ་པོ་ དག་ ཐོབ་པ་␣ར་ འགྱུར །"
-msgstr "And Cloud of Dharma, these ten levels will be attained. "
+msgstr "And the cloud of dharma, these ten levels will be attained. "
 
 msgctxt "9691802e6c1d4cf49ae699e67543049f"
 msgid "ཞེས་པ་␣ས་ རྣལ་འབྱོར་ བཞི་ ལ་ སྦྱར་ ན་"
