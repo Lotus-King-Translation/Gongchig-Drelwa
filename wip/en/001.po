@@ -13911,7 +13911,7 @@ msgstr ""
 
 msgctxt "94c711a00a994275b355ed1de66e48f0"
 msgid "ཐམས་ཅད་ མཁྱེན་པ་␣འི་ གསུང་ དང་ འགལ་བ་␣འམ་"
-msgstr "Because it contradicts the words of the omniscient one or "
+msgstr "Because it contradicts the speeches of the omniscient one or "
 
 msgctxt "eb0ee37a2e3440039e26e9937473ee7f"
 msgid "མུ་སྟེགས་ ཀྱི་ ལམ་སྣ་ ཟིན་པ་ ཡིན་པ་␣འི་ ཕྱིར །"
