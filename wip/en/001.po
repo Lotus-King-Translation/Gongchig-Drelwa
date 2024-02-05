@@ -13988,6 +13988,8 @@ msgid ""
 "སྐྱོན་ སྤོང་ ཡོན་ཏན་ བསྒྲུབ་པ་ ལ་ ཐམས་ཅད་ ཉམས་ སུ་ ལེན་ དགོས་པ་␣འི་ ཕྱིར་ "
 "དང་ །"
 msgstr ""
+"For, in order to abandon faults and accomplish good qualities, everything "
+"must be practiced."
 
 msgctxt "e2f21a4e08024d5084954095ed6530d4"
 msgid "སྡོམ་ གསུམ་ དང་ ཕྱག་ ཆེན་ ཚུལ་ཁྲིམས་ གནད་ གཅིག་པ་␣འི་ ཕྱིར་ དང་"
