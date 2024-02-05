@@ -14065,7 +14065,7 @@ msgstr ""
 
 msgctxt "cda964ec7efd4b42bfd9dee23b540420"
 msgid "གནད་ ཇི་ དང་ ཇི་ལྟ་བུ་␣ས་ ཡོན་ཏན་ བསྐྱེད་པ་ དང་"
-msgstr ""
+msgstr "By the various essential points, good qualities are generated and "
 
 msgctxt "5773cdec955c4716a6266fb7112f0bb0"
 msgid ""
