@@ -6737,7 +6737,7 @@ msgstr "Please tame your mind, the Blessed One said."
 
 msgctxt "13ec2eb33c1c499e86e90aa1ec38c865"
 msgid "སེམས་ ནི་ ཆོས་ ཀྱི་ སོཌ་ དང༌ །"
-msgstr "Mind is the dharma, and so on."
+msgstr "Mind is the Dharma, and so on."
 
 msgctxt "f3a5afd354f54638943701088c2ba731"
 msgid "ལ་␣ས་ རྣམ་འབྱེད་ ལ་␣ས །"
