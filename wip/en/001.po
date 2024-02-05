@@ -14111,7 +14111,7 @@ msgstr ""
 
 msgctxt "7a93061c5b464532b5fc552debde882b"
 msgid "བདེ་བ་␣ས་ འདོད་ཁམས །"
-msgstr ""
+msgstr "The desire realm by bliss,"
 
 msgctxt "89d00ed48c2344569d441962f49ad588"
 msgid "གསལ་བ་␣ས་ གཟུགས་ཁམས །"
