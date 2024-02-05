@@ -15836,7 +15836,7 @@ msgstr ""
 
 msgctxt "90686f81dfa94e498ef94332d3a4445e"
 msgid "རྗེ་ ཕག་མོ་ གྲུ་པ་␣འི་ སྣང་བ་"
-msgstr ""
+msgstr "The lord Phagmo Drupa's appearances,"
 
 msgctxt "d0e23893c6134efe948c9dbb82111713"
 msgid "རང་སེམས་ ཀྱི་ ཁྲོད་ ནས་"
