@@ -13948,6 +13948,8 @@ msgstr ""
 msgctxt "40a0d759661b4a2a9f5bedd9cd1ea731"
 msgid "རྡོ་␣༽༽  སྡེ་སྣོད་ རྒྱུད་སྡེ་ དྲང་དོན་ ངེས་དོན་ ཐ་དད་པ་␣ས་"
 msgstr ""
+"Vajra: It is said that since pitakas and tantra section, and the provisional"
+" and definitive meanings are distinct,"
 
 msgctxt "c8e1b9e5772b401a9584026e25eac7d3"
 msgid "ལ་ལ་␣ར་ བཀག་པ་ ལ་ལ་␣ར་ གནང །"
