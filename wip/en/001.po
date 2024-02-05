@@ -14072,6 +14072,8 @@ msgid ""
 "སྐྱོན་ སྤོང་བ་ མཁྱེན་པ་␣ས་ བརྩེ་བ་ ཆེན་པོ་␣ས་ གདུལ་བྱ་ རྣམས་ ལ་ བསྟན་པ་␣འི་ "
 "ཕྱིར་"
 msgstr ""
+"faults are abandoned, thus with his great knowledge and love, he taught to "
+"the disciples."
 
 msgctxt "786f449c406c450396bd0f90368620b5"
 msgid "གསུང་རབ་ ནས་ གསུངས་པ་ དེ་བཞིན་ དུ་ འབྱུང་བ་ ཡིན་ ནོ ། །"
