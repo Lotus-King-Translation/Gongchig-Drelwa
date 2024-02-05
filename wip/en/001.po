@@ -14123,7 +14123,7 @@ msgstr "The formless realm by non-conceptuality."
 
 msgctxt "cc42b2ee734444b081fe136b8ce4b8db"
 msgid "ཨཱརྱ་ དེ་ཝ་␣ས །"
-msgstr ""
+msgstr "Arya Dewa said:"
 
 msgctxt "f453289ba9164dc082030cef303ec4a9"
 msgid ""
