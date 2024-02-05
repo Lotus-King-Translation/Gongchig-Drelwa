@@ -13980,6 +13980,8 @@ msgstr ""
 msgctxt "8ad201a88dc94ca4bac7672efdf21389"
 msgid "ཆོས་ཕུང་ བརྒྱད་ ཁྲི་ ཉོན་མོངས་པ་␣འི་ གཉེན་པོ་␣ར་ གསུངས་པ་␣ས་"
 msgstr ""
+"The eighty thousand heaps of the Dharma were taught as antidotes to the "
+"afflictive emotions"
 
 msgctxt "a02d50c23a8442d0b00a0db3274f14a2"
 msgid ""
