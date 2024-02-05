@@ -14163,7 +14163,7 @@ msgstr "If one is completely attached to the jewel,"
 
 msgctxt "52b91d0a12e545f793e3660d45df59b0"
 msgid "དུག་སྦྲུལ་ ལྟ་བུ་␣འི་ དམྱལ་་ སྲུང་ གིས ། །"
-msgstr ""
+msgstr "The guardians of hell, like poisonous snakes,"
 
 msgctxt "672cf41405ea4be5b0d935158fece978"
 msgid "བདེ་བ་ ཆེན་པོ་␣འི་ སྲོག་ བཅད་ དེ་␣༑ ༑"
