@@ -13932,6 +13932,8 @@ msgctxt "0270341f55d247b780061e7c3e6ba667"
 msgid ""
 "མཁྱེན་པ་ དང་ བརྩེ་བ་ ཆེན་པོ་ སངས་རྒྱས་ ཀྱི་ གསུངས་ ལ་␣ས་ ལྡོགཔའི་ མྱོང་བ་"
 msgstr ""
+"The experience which contradicts the speeches of the Buddha, who is endowed "
+"with great knowledge and love,"
 
 msgctxt "eb573fbd703e4c58adf0b7290235b223"
 msgid "དེ་ ནི་ འདུད་ ཀྱི་ ལ་␣ས་ ཡིན་པ་␣ས་"
