@@ -14090,6 +14090,8 @@ msgstr "Bliss comes even to stab the body with no thought."
 msgctxt "9fe9bc615c894aa38fff63d78968c3a1"
 msgid "བདེ་བ་ ཕྱི་ ནང་ དང་ གང་ཟག་ ཁྱད་མེད་པ་ གསལ་བ་ སྟེ་"
 msgstr ""
+"The bliss is clear, without any distinction between outer and inner, or "
+"between individuals."
 
 msgctxt "f8c4a8367d524e25b748636b30097754"
 msgid "ཏིང་ངེ་འཛིན་ དེ་ གསུམ་ སྐུ་གསུམ་ གྱི་ རྒྱུ་ ཡིན་པ་␣ར་ འདོད་ ཀྱང་ །"
