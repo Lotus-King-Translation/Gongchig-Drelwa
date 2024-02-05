@@ -1187,7 +1187,7 @@ msgid ""
 "གསུམ་པ་ དང་ བཅས་ གསུམ་ ཀ་ ཚང་བ་␣ར་ བཞེད་ དེ །"
 msgstr ""
 "In this [system], it accepts that each of the Dharma wheels consists of the "
-"first, second, and third wheels of Dharma, or all three."
+"first, second, and third wheels of the Dharma, or all three."
 
 msgctxt "8cfa8bb0691549dea876f252d9c35186"
 msgid "དང་པོ་␣ར་ སྡུག་བསྔལ་ གྱི་ རྒྱུ་ ཀུན་འབྱུང་"
