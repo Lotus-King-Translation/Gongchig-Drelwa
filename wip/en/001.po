@@ -13925,6 +13925,8 @@ msgctxt "81f3a97ad4bf4addb09b8c5cc714eeb5"
 msgid ""
 "ཕྱི་མཐའ་ མི་ འཇིག་པ་␣ས་ མངོན་ཤེས་ ཀྱིས་ བརྟགས་པ་␣འི་ གྲུབ་མཐའ་ བཞིན་ ནོ ། །"
 msgstr ""
+"the non-destruction of the extreme outer world are like the philosophical "
+"system that is imputed by higher perception."
 
 msgctxt "0270341f55d247b780061e7c3e6ba667"
 msgid ""
