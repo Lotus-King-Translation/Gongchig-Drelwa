@@ -13417,7 +13417,7 @@ msgstr "According to the the Vajra Essence:"
 
 msgctxt "843178add5fd465c9dfedd778aedb412"
 msgid "ཆོས་ ཀྱི་ ཕུང་པོ་ བརྒྱད་ ཁྲི་ དང༌ ། །"
-msgstr "The Dharma heaps of eighty-thousand and,"
+msgstr "The eighty thousand heaps of the Dharma and,"
 
 msgctxt "06f125f0a4754893b9c4d4abc6559560"
 msgid "བཞི་ སྟོང་ གི་ ནི་ གྲངས་ སྟོང་ གི  །"
