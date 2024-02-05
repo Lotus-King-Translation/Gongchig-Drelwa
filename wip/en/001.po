@@ -2187,7 +2187,7 @@ msgctxt "76e115c445984e9cb085b4d46b7471cd"
 msgid "ལྷན་␣༽༽  མཁས་པ་ གཞན་ གྱིས་ སངས་རྒྱས་ ཀྱི་ ཆོས་སྡེ་ སྣོད་ དུ་ བྱས་ ན་"
 msgstr ""
 "Addendums: other experts said that if the Buddha's Dharma is created into "
-"Pitakas,"
+"pitakas,"
 
 msgctxt "2184756409904009a066d002a1310a7b"
 msgid ""
