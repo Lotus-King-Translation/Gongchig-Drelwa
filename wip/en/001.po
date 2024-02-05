@@ -13972,7 +13972,7 @@ msgstr ""
 msgctxt "48cc9e2b03394d73b39da12bc54bd3e4"
 msgid "འདི་␣ར་ ནི་ དགོངས་པ་ ཐམས་ཅད་ འགལ་བ་ མེད་པ་␣ར་ ཤེས་པ་␣ར་ བྱ་ དགོས་ ཏེ་"
 msgstr ""
-"In this [system], one must understand that all intentions are not "
+"In this [system], one must understand that all intents are not "
 "contradictory."
 
 msgctxt "8ad201a88dc94ca4bac7672efdf21389"
