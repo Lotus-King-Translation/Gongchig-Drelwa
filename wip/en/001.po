@@ -619,7 +619,7 @@ msgstr ""
 
 msgctxt "1bdf7c6a768e4a20ae27927a7a831451"
 msgid "ཆོས་ རྣམས་ བསྟན་པ་␣འི་ ཐབས་ ནི་ གཅིག་ ཏུ་ འདོད་ དེ་"
-msgstr "The method of showing Dharma is one, as it accepts that."
+msgstr "The method of showing the Dharma is one, as it accepts that."
 
 msgctxt "9f2c9237f8f94325bcdf89c3103ddfd0"
 msgid "སངས་རྒྱས་ ཞེས་པ་␣འི་ ཡི་གེ་ དང་"
