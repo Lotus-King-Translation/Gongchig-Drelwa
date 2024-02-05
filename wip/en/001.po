@@ -14147,7 +14147,7 @@ msgstr "And"
 
 msgctxt "1dd566196bda4e51a19627b07673fbf2"
 msgid "མགོན་པོ་ ཕག་མོ་ གྲུ་པ་␣ས་ ཀྱང༌ ། །"
-msgstr ""
+msgstr "The lord Phagmo Drupa also said:"
 
 msgctxt "a310f32c68fe4de6a39d3d15132b519a"
 msgid "བདེ་ དང་ གསལ་བ་␣འི་ རྒྱ་མཚོ་ རུ ། །"
