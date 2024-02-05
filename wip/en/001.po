@@ -14047,7 +14047,7 @@ msgstr ""
 
 msgctxt "626ceb22168c41bbb3fb23409af1d29f"
 msgid "དེ་ ཁོ་ན་ཉིད་ ལྟར་ འབྱུང་ ཟེར །"
-msgstr ""
+msgstr "It is said that they arise according to it."
 
 msgctxt "6404b5cd60fd45ccbd1569eafb007982"
 msgid ""
