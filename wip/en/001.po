@@ -8542,7 +8542,7 @@ msgstr "To become the absence of suffering,"
 
 msgctxt "deb52599a34c4a88b898b70c8c29ad9f"
 msgid "སེར་སྣ་␣ས་ ཆོས་ནོར་ མི་ སྟེར་ དང་ ། །"
-msgstr "Out of miserliness, not giving the wealth of Dharma and"
+msgstr "Out of miserliness, not giving the wealth of the Dharma and"
 
 msgctxt "cf683a9e72e6466f91b5d6d4711c7b2b"
 msgid "གཞན་ གྱིས་ བཤད་ ཀྱང་ མི་ ཉན་པ་␣ར ། །"
