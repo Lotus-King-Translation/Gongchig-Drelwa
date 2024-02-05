@@ -14008,7 +14008,7 @@ msgstr "According to the Moon Lamp [sutra]:"
 
 msgctxt "2e79a86ece6d4fcdb1e50054d4596002"
 msgid "ངས་ ནི་ མདོ་སྡེ་ གང་ བཤད་པ །"
-msgstr ""
+msgstr "Whatever sutra section I have explained,"
 
 msgctxt "73256efabd8f46e0b1894e550e32da65"
 msgid "ཚིག་འབྲུ་ ཐ་དད་ དོན་ གཅིག་ སྟེ །"
