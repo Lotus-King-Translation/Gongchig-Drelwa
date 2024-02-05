@@ -8558,7 +8558,7 @@ msgstr "Abandoning the Greater Vehicle."
 
 msgctxt "d8e111ea4bd44a9faf5ffde150978a92"
 msgid "དམ་ཆོས་ འདྲ་␣ར་ སྣང་ སྟོན་པ་␣འོ ། །"
-msgstr "A similar holy Dharma is taught."
+msgstr "A similar holy dharma is taught."
 
 msgctxt "91b10a9039a34731ba98bcce1176411a"
 msgid "ཞེས་ རྩ་ལྟུང་ བཞི་པོ་ འདི་␣ས་ དང་པོ་པ་ ལ་ འོང་ མི་ སྲིད་ དེ །"
