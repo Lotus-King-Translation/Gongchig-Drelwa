@@ -14077,7 +14077,7 @@ msgstr ""
 
 msgctxt "786f449c406c450396bd0f90368620b5"
 msgid "གསུང་རབ་ ནས་ གསུངས་པ་ དེ་བཞིན་ དུ་ འབྱུང་བ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "This is how it occurs, just as said in the excellent speech."
 
 msgctxt "4c64488c810b4f63ab4b5576e44ff2e8"
 msgid "རྡོ་␣༽༽  རྟོག་པ་ ཕྲ་མོ་ ཙམ་ ཡང་ མི་ འགྱུ་བ་"
