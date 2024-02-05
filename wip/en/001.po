@@ -13919,7 +13919,7 @@ msgstr "It is the beginning of holding the path of the tirthikas."
 
 msgctxt "d244871e9366437aa2c06584eacf9bb8"
 msgid "མུ་སྟེགས་ མངོན་ མཐའ་ འཇིག་པ་ དང་"
-msgstr ""
+msgstr "Tirthikas' views of the destruction of the extreme perception and "
 
 msgctxt "81f3a97ad4bf4addb09b8c5cc714eeb5"
 msgid ""
