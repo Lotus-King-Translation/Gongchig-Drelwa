@@ -13385,7 +13385,7 @@ msgstr "Therefore, [they] will become degenerated. "
 
 msgctxt "fe0ffa6f15184040993c31ea4e985465"
 msgid "ཆོས་ ལུང་ ལ་ རག་ ལ་␣ས །"
-msgstr "Dharma depends on transmission, "
+msgstr "The Dharma depends on transmission, "
 
 msgctxt "6b4654ab345c4cdcab8e4d155e1f7fd2"
 msgid "ལུང་ མན་ངག  །"
