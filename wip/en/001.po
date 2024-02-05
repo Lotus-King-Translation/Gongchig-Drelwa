@@ -14024,7 +14024,7 @@ msgstr "Jowo said:"
 
 msgctxt "86b434dce6344735865514e30aa1964d"
 msgid "ཆོས་ ཀྱི་ ཕུང་པོ་ བརྒྱད་ ཁྲི་ དང༌ ། །"
-msgstr ""
+msgstr "The eighty thousand heaps of the Dharma and"
 
 msgctxt "520f0c80cce442dcaf2ec59376d807e2"
 msgid "བཞི་ སྟོང་ གསུང་པ་ གང་ཡིན་པ ། །"
