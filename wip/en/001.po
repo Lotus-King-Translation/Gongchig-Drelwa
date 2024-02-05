@@ -14036,7 +14036,7 @@ msgstr "Diligently engage and settle down in this Dharmata."
 
 msgctxt "eca0abe541db49b2aee3359e96337826"
 msgid "ཞེས་པ་␣ས་ མི་འགལ་བ་ བྱེད་ དགོས །"
-msgstr ""
+msgstr "Thus, it must not contradict this."
 
 msgctxt "4711434bb3e042df9e06b22f7bab4fed"
 msgid ""
