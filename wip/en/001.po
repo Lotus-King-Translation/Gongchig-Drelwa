@@ -195,7 +195,7 @@ msgid ""
 "ཡིད་བཞིན་ གྱི་ ནོར་བུ་ རྡོ་རྗེ་␣འི་ གསུང་ བརྒྱ་ དང་ ལྔ་ བཅུ །"
 msgstr ""
 "The precious Dharma Lord's teaching, The Single Intent A 150-vajra speech of"
-" holy Dharma, is an excellent text of wish-fulfilling jewel."
+" the holy Dharma, is an excellent text of wish-fulfilling jewel."
 
 msgctxt "cb8a74b7d65d41ee9364bdb2f844a22d"
 msgid ""
