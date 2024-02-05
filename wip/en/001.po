@@ -14085,7 +14085,7 @@ msgstr "Vajra: Not even the slightest thought moves,"
 
 msgctxt "85f36836e40f44478efb55ab4612c309"
 msgid "མི་ རྟོག་ ལུས་ ལ་ གྲི་ རྒྱབ་ ཀྱང་ བདེ་བ་␣ར་ འོང་བ་"
-msgstr "It is blissful even to stab the body with no thought."
+msgstr "Bliss comes even to stab the body with no thought."
 
 msgctxt "9fe9bc615c894aa38fff63d78968c3a1"
 msgid "བདེ་བ་ ཕྱི་ ནང་ དང་ གང་ཟག་ ཁྱད་མེད་པ་ གསལ་བ་ སྟེ་"
