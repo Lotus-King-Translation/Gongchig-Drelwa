@@ -13942,6 +13942,8 @@ msgstr "is the action of bowing."
 msgctxt "63965e25013c42edb02b329d19a2d2a0"
 msgid "ཡུམ་ དང་ གཙུག་ཏོར་ བམ་ དགུ་ ལ་␣ས་ གསུངས་པ་ བཞིན་ རིགས་པ་␣ར་ བྱ་␣འོ །"
 msgstr ""
+"It is proper, as stated in the Mother [sutra] and Crown Probuterance Ninth "
+"Volume."
 
 msgctxt "40a0d759661b4a2a9f5bedd9cd1ea731"
 msgid "རྡོ་␣༽༽  སྡེ་སྣོད་ རྒྱུད་སྡེ་ དྲང་དོན་ ངེས་དོན་ ཐ་དད་པ་␣ས་"
