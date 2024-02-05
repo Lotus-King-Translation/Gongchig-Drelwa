@@ -13972,6 +13972,8 @@ msgstr ""
 msgctxt "48cc9e2b03394d73b39da12bc54bd3e4"
 msgid "འདི་␣ར་ ནི་ དགོངས་པ་ ཐམས་ཅད་ འགལ་བ་ མེད་པ་␣ར་ ཤེས་པ་␣ར་ བྱ་ དགོས་ ཏེ་"
 msgstr ""
+"In this [system], one must understand that all intentions are not "
+"contradictory."
 
 msgctxt "8ad201a88dc94ca4bac7672efdf21389"
 msgid "ཆོས་ཕུང་ བརྒྱད་ ཁྲི་ ཉོན་མོངས་པ་␣འི་ གཉེན་པོ་␣ར་ གསུངས་པ་␣ས་"
