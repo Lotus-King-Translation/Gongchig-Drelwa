@@ -13915,7 +13915,7 @@ msgstr "Because it contradicts the words of the omniscient one or "
 
 msgctxt "eb0ee37a2e3440039e26e9937473ee7f"
 msgid "མུ་སྟེགས་ ཀྱི་ ལམ་སྣ་ ཟིན་པ་ ཡིན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "It is the beginning of holding the path of the tirthikas."
 
 msgctxt "d244871e9366437aa2c06584eacf9bb8"
 msgid "མུ་སྟེགས་ མངོན་ མཐའ་ འཇིག་པ་ དང་"
