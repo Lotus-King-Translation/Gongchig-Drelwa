@@ -13966,6 +13966,8 @@ msgstr " it is sufficient to agree on some points and "
 msgctxt "64d997cc0b384543bfcd596680226347"
 msgid "འོག་མ་ གོང་མ་␣ར་ ཞུགས་ ནས་ དོར་ ཟེར །"
 msgstr ""
+"It is also said lower ones are to be discarded after entering the higher "
+"ones."
 
 msgctxt "48cc9e2b03394d73b39da12bc54bd3e4"
 msgid "འདི་␣ར་ ནི་ དགོངས་པ་ ཐམས་ཅད་ འགལ་བ་ མེད་པ་␣ར་ ཤེས་པ་␣ར་ བྱ་ དགོས་ ཏེ་"
