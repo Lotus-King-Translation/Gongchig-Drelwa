@@ -13953,7 +13953,7 @@ msgstr ""
 
 msgctxt "c8e1b9e5772b401a9584026e25eac7d3"
 msgid "ལ་ལ་␣ར་ བཀག་པ་ ལ་ལ་␣ར་ གནང །"
-msgstr "Some are prohibited, some are permitted, "
+msgstr "Some are prohibited, some are permitted,"
 
 msgctxt "c8b893cc272443158ea229c6ee00eb74"
 msgid "ལ་ལ་␣ར་ སྤང་བ་ ལ་ལ་␣ར་ སྒྲུབ་པ་␣ས་"
