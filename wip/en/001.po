@@ -14020,7 +14020,7 @@ msgstr "And"
 
 msgctxt "729aa9d5f3ed448a8023c2aac31ba85f"
 msgid "ཇོ་བོ་␣ས །"
-msgstr ""
+msgstr "Jowo said:"
 
 msgctxt "86b434dce6344735865514e30aa1964d"
 msgid "ཆོས་ ཀྱི་ ཕུང་པོ་ བརྒྱད་ ཁྲི་ དང༌ ། །"
