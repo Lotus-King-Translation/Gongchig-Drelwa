@@ -13906,6 +13906,8 @@ msgstr ""
 msgctxt "8ef2f038837b434b836a5700e5448b42"
 msgid "འདི་␣ར་ བཀའ་ དང་ འགལ་བ་␣འི་ ཉམས་མྱོང་ བྱུང་བ་ ལོག་རྟོག་ ཡིན་ ཏེ་"
 msgstr ""
+"In this [system], the experiences that contradict the Buddha-word are "
+"mistaken conceptions."
 
 msgctxt "94c711a00a994275b355ed1de66e48f0"
 msgid "ཐམས་ཅད་ མཁྱེན་པ་␣འི་ གསུང་ དང་ འགལ་བ་␣འམ་"
