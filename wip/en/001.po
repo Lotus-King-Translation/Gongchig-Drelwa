@@ -14028,7 +14028,7 @@ msgstr "The eighty thousand heaps of the Dharma and"
 
 msgctxt "520f0c80cce442dcaf2ec59376d807e2"
 msgid "བཞི་ སྟོང་ གསུང་པ་ གང་ཡིན་པ ། །"
-msgstr ""
+msgstr "four thousand, whatever it is taught."
 
 msgctxt "17995a55964c499fb477ef84bf3e2767"
 msgid "ཆོས་ཉིད་ འདི་ ལ་ གཞོལ་ ཞིང་ འབབས །"
