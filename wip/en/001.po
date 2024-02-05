@@ -14119,7 +14119,7 @@ msgstr "The form realm by clarity,"
 
 msgctxt "91e5d66c6e2f4bc2bf0248328802b853"
 msgid "མི་ རྟོག་པ་␣ས་ གཟུགས་ མེད་ ཁམས་ སུ་ སྐྱེ་བ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "The formless realm by non-conceptuality."
 
 msgctxt "cc42b2ee734444b081fe136b8ce4b8db"
 msgid "ཨཱརྱ་ དེ་ཝ་␣ས །"
