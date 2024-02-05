@@ -14167,7 +14167,7 @@ msgstr "The guardians of hell, like poisonous snakes,"
 
 msgctxt "672cf41405ea4be5b0d935158fece978"
 msgid "བདེ་བ་ ཆེན་པོ་␣འི་ སྲོག་ བཅད་ དེ་␣༑ ༑"
-msgstr ""
+msgstr "It will take the life of great bliss and"
 
 msgctxt "ee9192783c9543ad9b956c537e10180c"
 msgid "ཉམ་ང་ ཆེན་པོ་␣འི་ གཡང་ ལ་ བསྐུར །"
