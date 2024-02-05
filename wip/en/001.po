@@ -3024,7 +3024,7 @@ msgid ""
 "གསུངས་པ་ རྣམས་ ལ་"
 msgstr ""
 "It is said that unfathomable good qualities would arise by merely hearing "
-"the names of Buddha and Dharma, to all these statements"
+"the names of Buddha and the Dharma, to all these statements"
 
 msgctxt "94765f2847ab423681441465600dee7c"
 msgid "དེ་ཙམ་ ཅི་ ཡིན་ སྙམ་ ནས །"
