@@ -14115,7 +14115,7 @@ msgstr "The desire realm by bliss,"
 
 msgctxt "89d00ed48c2344569d441962f49ad588"
 msgid "གསལ་བ་␣ས་ གཟུགས་ཁམས །"
-msgstr ""
+msgstr "The form realm by clarity,"
 
 msgctxt "91e5d66c6e2f4bc2bf0248328802b853"
 msgid "མི་ རྟོག་པ་␣ས་ གཟུགས་ མེད་ ཁམས་ སུ་ སྐྱེ་བ་␣འི་ ཕྱིར །"
