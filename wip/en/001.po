@@ -14012,7 +14012,7 @@ msgstr "Whatever sutra section I have explained,"
 
 msgctxt "73256efabd8f46e0b1894e550e32da65"
 msgid "ཚིག་འབྲུ་ ཐ་དད་ དོན་ གཅིག་ སྟེ །"
-msgstr ""
+msgstr "The words are different, but the meaning is the same."
 
 msgctxt "f9f9367b2454445fb39d3deca736e009"
 msgid "ཞེས་ དང༌ །"
