@@ -14042,6 +14042,8 @@ msgctxt "4711434bb3e042df9e06b22f7bab4fed"
 msgid ""
 "རྡོ་␣༽༽  ཉམས་ སུ་ ལེན་པ་␣འི་ སྐྱོན་ཡོན་ ནི་ གདམས་ངག་ དམིགས་བསལ་ ཡིན་པ་␣ས་"
 msgstr ""
+"Vajra: The faults and good qualities of practice are the special oral "
+"instructions."
 
 msgctxt "626ceb22168c41bbb3fb23409af1d29f"
 msgid "དེ་ ཁོ་ན་ཉིད་ ལྟར་ འབྱུང་ ཟེར །"
