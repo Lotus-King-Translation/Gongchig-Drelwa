@@ -14155,7 +14155,7 @@ msgstr "In the ocean of bliss and clarity."
 
 msgctxt "3e3a532e91be45478350d202801089aa"
 msgid "ཞེན་ དང་ འཛིན་པ་␣འི་ ནོར་བུ་ གནས ། །"
-msgstr ""
+msgstr "The jewel of clinging and grasping remains."
 
 msgctxt "03666a5bc3da424eb90fde9968e3cdf3"
 msgid "ནོར་བུ་ ལ་ མངོན་ཞེན་ སྐྱེ་ གྱུར་ ན ། །"
