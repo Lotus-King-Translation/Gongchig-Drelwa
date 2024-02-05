@@ -13581,7 +13581,7 @@ msgstr "Therefore, going for refuge is profound because"
 
 msgctxt "c066a83aa02c4ef5a73174f796d357bd"
 msgid "ཆོས་ ཐམས་ཅད་ ཀྱི་ གཞི་མ་ ཡིན་པ་␣འི་ ཕྱིར །"
-msgstr "It is the basis of all Dharma,"
+msgstr "It is the basis of all phenomena,"
 
 msgctxt "2699a40a9c9248c3a12eafd8721d3d29"
 msgid "དཔེར་ན་ འཁོར་ལོ་␣ས་ བསྒྱུར་ རྒྱལ་"
