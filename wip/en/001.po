@@ -5509,7 +5509,7 @@ msgstr "\"Whoever kills a sentient being, I will kill them.\" was proclaimed. "
 
 msgctxt "b9550637bd0a42b7b357d84d15551156"
 msgid "རིམ་གྱིས་ ཆོས་ འཅུ་ དྲུག་ ལ་ བཀོད་པ་␣ས་"
-msgstr "He gradually placed them in the sixteen Dharmas."
+msgstr "He gradually placed them in the sixteen dharmas."
 
 msgctxt "ec947eadf5234082a2f4c31c58308a50"
 msgid "ལྔ་ བརྒྱ་␣འི་ བར་ དུ་ འཕེལ་བ་␣ར་ གསུངས་པ་"
