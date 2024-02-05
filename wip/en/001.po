@@ -14130,6 +14130,8 @@ msgid ""
 "བསམ་གཏན་ ནགས་མེ་␣ས་ ཡང་ དང་ ཡང་ དུ་ ནི་ ཉོན་མོངས་ ཚང་ཚིང་ བསྲེག་པ་␣ར་ གྱུར་ "
 "ན་ ཡང༌ ། །"
 msgstr ""
+"Even the forest fires of concentration burn up the thicket of afflictions "
+"again and again."
 
 msgctxt "b62e893c47d649b6b8c4d813847976b3"
 msgid "བདག་ ལྟ་␣འི་ རྩ་བ་ བརྟན་པོ་ མ་ སྤངས་པ་␣ས ། །"
