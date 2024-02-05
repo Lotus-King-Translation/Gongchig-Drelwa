@@ -4350,7 +4350,7 @@ msgstr "In this [system], this also has a basis."
 msgctxt "d02d93da99d3467890b93dc8d70b3302"
 msgid "ལམ་ དུ་ བྱེད་པ་ ངེས་དོན་ འཁོར་ལོ་␣ར་ མ་ཟད་"
 msgstr ""
-"It acts as the path of the definitive wheel [of Dharma], not only that, "
+"It acts as the path of the definitive wheel [of the Dharma], not only that, "
 
 msgctxt "10b9e66edd894cff96f30e54bf54415e"
 msgid ""
