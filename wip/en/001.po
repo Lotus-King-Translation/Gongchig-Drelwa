@@ -9173,7 +9173,7 @@ msgstr "Therefore, according to the Engaging in the Bodhisattva's Conduct:"
 
 msgctxt "7198be7a81d64c719afbec52a49285c6"
 msgid "དམ་པ་␣འི་ ཆོས་ ནི་ སྤྱོད་པ་␣འི་ ལུས ། །"
-msgstr "This body, which is utilized for sacred dharma,"
+msgstr "This body, which is utilized for the sacred Dharma,"
 
 msgctxt "d0287c8b460e476e8860abe0859b99b4"
 msgid "ཕྲན་ཚེགས་ ཆེད་ དུ་ གནོད་ མི་ བྱ །"
