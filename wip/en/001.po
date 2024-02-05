@@ -14032,7 +14032,7 @@ msgstr "four thousand, whatever it is taught."
 
 msgctxt "17995a55964c499fb477ef84bf3e2767"
 msgid "ཆོས་ཉིད་ འདི་ ལ་ གཞོལ་ ཞིང་ འབབས །"
-msgstr ""
+msgstr "Diligently engage and settle down in this Dharmata."
 
 msgctxt "eca0abe541db49b2aee3359e96337826"
 msgid "ཞེས་པ་␣ས་ མི་འགལ་བ་ བྱེད་ དགོས །"
