@@ -13957,7 +13957,7 @@ msgstr "Some are prohibited, some are permitted, "
 
 msgctxt "c8b893cc272443158ea229c6ee00eb74"
 msgid "ལ་ལ་␣ར་ སྤང་བ་ ལ་ལ་␣ར་ སྒྲུབ་པ་␣ས་"
-msgstr ""
+msgstr "some are abandoned, and some are accomplished. "
 
 msgctxt "fd8c2cf373f94d29b3eb6bb9c9ddeb77"
 msgid "ཕྱོགས་ རེ་␣ར་ མཐུན་པ་␣ས་ ཆོག་ ཟེར་བ་ དང་"
