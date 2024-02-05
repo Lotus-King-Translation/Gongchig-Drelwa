@@ -14054,6 +14054,8 @@ msgid ""
 "འདི་␣ར་ ནི་ གདམས་ངག་ ལྟར་ མིན་པ་␣ར་ རྒྱལ་བ་ ཐམས་ཅད་ མཁྱེན་པ་␣འི་ བཀའ་ ལྟར་ "
 "འོང་བ་␣ར་ བཞེད་ དེ་"
 msgstr ""
+"In this [system], it is accepted that it is not according to the oral "
+"instructions, but it is according to the words of the omniscient conqueror."
 
 msgctxt "15133c69706d452891742606082ff9e8"
 msgid "རྒྱུ་འབྲས་ ཀྱི་ རྟེན་འབྲེལ་ ཐམས་ཅད་ མངོན་སུམ་ དུ་ གྱུར་པ་␣ས་"
