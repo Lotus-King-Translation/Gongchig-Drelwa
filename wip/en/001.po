@@ -14139,7 +14139,7 @@ msgstr "Because the firm root of the view of a self has not been abandoned,"
 
 msgctxt "b3dab9c1fdab420d9001e71592cdaf04"
 msgid "ཆ་␣ར་ གྱིས་ བརླན་ བཞིན་ མོད་ ལ་ རབ་ཏུ་ སྐྱེ །"
-msgstr ""
+msgstr "It grows instantly, like a plant moistened by rain."
 
 msgctxt "2ab37fe7642f44d881bb583ff1d983ab"
 msgid "ཞེས་ དང༌ །"
