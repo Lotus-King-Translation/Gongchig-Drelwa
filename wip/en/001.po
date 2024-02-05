@@ -6488,7 +6488,7 @@ msgstr "He went toward the ocean."
 msgctxt "5ae7e13a2aa940cba3f67a00f0561d7e"
 msgid "སློབ་མ་ བསྡུས་ ཆོས་ བཤད་པ་␣ས་ དགྲ་བཅོམ་པ་ མང་པོ་ བྱུང༌ །"
 msgstr ""
-"He gathered disciples and taught them the dharma, and many of them became "
+"He gathered disciples and taught them the Dharma, and many of them became "
 "arhats."
 
 msgctxt "14b3fabcbd454a26a4eb7eb158086748"
