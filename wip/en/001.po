@@ -2157,7 +2157,7 @@ msgstr "It has been prophesied as the instructions of the Mind Only"
 
 msgctxt "eaecfd2868ef4fa68a72ec3645b66c8a"
 msgid "ཆོས་འཁོར་ བསྐོར་བ་␣ར་ འགྱུར་ རོ་ ཞེས་ གསུངས་པ་␣ས་"
-msgstr "It is said that [he] will turn the wheel of Dharma."
+msgstr "It is said that [he] will turn the wheel of the Dharma."
 
 msgctxt "6055dcd4ce9648e38faee55ac9dcf95a"
 msgid "ལུང་བསྟན་པ་␣འི་ གསུངས་ རབ་ དེ་"
