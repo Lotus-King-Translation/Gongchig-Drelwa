@@ -14340,7 +14340,7 @@ msgstr "Bodhisattvas..X"
 
 msgctxt "877c706cae0e4839b68ec07482e725c2"
 msgid "གསང་སྔགས་␣x"
-msgstr ""
+msgstr "The secret mantra.. X"
 
 msgctxt "5b7a9498d53842c0ac876dd06903f17c"
 msgid "དགེ་ཚུལ་␣x"
