@@ -14296,7 +14296,7 @@ msgstr ""
 
 msgctxt "fa59e1b8b56f4222b0370aacdbfc2462"
 msgid "ཚེ་ གཅིག་ རྡོ་རྗེ་ འཆང་ གི་ གོ་འཕང་ ཐོབ་པ་␣ར་ བྱེད་པ་ ལ་"
-msgstr ""
+msgstr "To attain the achievement level of Vajradhara in one lifetime,"
 
 msgctxt "8e0c1f0d47bd466ab3531014211d8f14"
 msgid "སྐྱོན་ སྤོང་བ་ དང་ ཡོན་ཏན་ སྒྲུབ་ དགོས་ ཤིང་"
