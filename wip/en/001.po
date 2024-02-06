@@ -14182,6 +14182,8 @@ msgid ""
 "གསུམ་པོ་ དབྱེ་␣ར་ མེད་ ཆོས་དབྱིངས་ སུ་ རོ་ མཉམ་པ་ ཞིག་ དགོས་པ་␣ར་ སེམས་ ཤིང་"
 " གཞན་ དུ་ སྐྱོན་མེད་ དུ་ བཤད་  ཀྱང་"
 msgstr ""
+"I think that these three are indivisible and of equal taste in the "
+"dharmadhatu, even if it is explained as being without fault,"
 
 msgctxt "d3ac7195e1214a8abfa6a03ce6642939"
 msgid ""
