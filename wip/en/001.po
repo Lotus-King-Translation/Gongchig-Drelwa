@@ -16640,7 +16640,7 @@ msgstr ""
 
 msgctxt "be116658e4fd4a3f8c46553c673221a4"
 msgid "བདེ་མཆོག་ རྩ་རྒྱུད་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Root Tantra of Cakrasamvara:"
 
 msgctxt "c9993148e00c409b97ea72e96aa5b5fe"
 msgid "ཡིད་ ནི་ ནང་ དུ་ ཆུད་ གྱུར་ ན ། །"
