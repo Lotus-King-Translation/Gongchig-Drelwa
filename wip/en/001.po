@@ -14352,7 +14352,7 @@ msgstr "Millions of training.. X"
 
 msgctxt "2c586fca9a5640d0b922a08fa7646715"
 msgid "བྱང་ཆུབ་␣x"
-msgstr ""
+msgstr "Enlightenment..X"
 
 msgctxt "d26a5bb229c84876a952566df8674c79"
 msgid "གསང་སྔགས་␣x"
