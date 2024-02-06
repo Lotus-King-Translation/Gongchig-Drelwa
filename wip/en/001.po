@@ -14227,6 +14227,8 @@ msgstr "is present in one’s body."
 msgctxt "5eb90fabb99f414daf6f66a44f9f944b"
 msgid "ལམ་ གྱིས་ བསྒོམ་པ་␣ས་ ཕུང་ ཁམས་ སྐྱེ་མཆེད་ རྣམ་པ་␣ར་ དག་པ་"
 msgstr ""
+"By meditating on this as the path, the aggregates, elements, and sense "
+"sources are purified."
 
 msgctxt "50009201a6bc4d168626862afab968fd"
 msgid "དེ་␣འི་ འཁོར་ལོ་ ལ་ ཐ་དད་ མེད་པ་␣འི་ ཕྱིར་"
