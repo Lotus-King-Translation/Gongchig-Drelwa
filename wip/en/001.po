@@ -14360,7 +14360,7 @@ msgstr "The secret mantra..X"
 
 msgctxt "efdf2074d8d84f03b98a510c0e6c4afa"
 msgid "དགེ་སློང་ x"
-msgstr ""
+msgstr "Monks..X"
 
 msgctxt "39f9247854ec4fe296a8e01c8e0703d0"
 msgid "ཅེས་ དང༌ །"
