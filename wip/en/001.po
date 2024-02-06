@@ -14271,7 +14271,7 @@ msgstr "According to The Gathered Secret:"
 
 msgctxt "7ac713141f2c4e5faaf51d1f1be73068"
 msgid "འདོད་པ་␣འི་ ཡོན་ཏན་ རྣམ་ ལྔ་ ལ །།"
-msgstr ""
+msgstr "On the five types of desirables, "
 
 msgctxt "972b9e3c22c447019abf4fb7992a1dd9"
 msgid "བརྟེན་ ནས་ མྱུར་ དུ་ འགྲུབ་པ་␣ར་ འགྱུར །"
