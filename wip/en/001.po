@@ -11394,7 +11394,7 @@ msgstr "The two paths of ripening and liberating."
 
 msgctxt "675f79e32797407d919db1e6c87dadab"
 msgid "འབྲས་བུ་ སྐུ་བཞི་ སྟེ་ གསུམ་ ལ་␣ས །"
-msgstr "The result is the four or three kayas."
+msgstr "The result is the four or three bodies."
 
 msgctxt "d07f30f2083243cf93ac8c49d083a2e5"
 msgid "འཇམ་དཔལ་ རྩ་རྒྱུད་ ལ་␣ས །"
