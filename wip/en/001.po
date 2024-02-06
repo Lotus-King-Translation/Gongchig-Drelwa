@@ -14300,7 +14300,7 @@ msgstr "To attain the achievement level of Vajradhara in one lifetime,"
 
 msgctxt "8e0c1f0d47bd466ab3531014211d8f14"
 msgid "སྐྱོན་ སྤོང་བ་ དང་ ཡོན་ཏན་ སྒྲུབ་ དགོས་ ཤིང་"
-msgstr ""
+msgstr "One must abandon faults and accomplish good qualities."
 
 msgctxt "bca0d11cfafb429d925dff5bc850adef"
 msgid ""
