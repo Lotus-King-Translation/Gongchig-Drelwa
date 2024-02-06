@@ -14222,7 +14222,7 @@ msgstr "The mandala with the eight charnel grounds"
 
 msgctxt "dd62d9fa70384c0888fd2336bb913321"
 msgid "རང་ གི་ ལུས་ ལ་ གནས་པ་ དེ་"
-msgstr ""
+msgstr "is present in one’s body."
 
 msgctxt "5eb90fabb99f414daf6f66a44f9f944b"
 msgid "ལམ་ གྱིས་ བསྒོམ་པ་␣ས་ ཕུང་ ཁམས་ སྐྱེ་མཆེད་ རྣམ་པ་␣ར་ དག་པ་"
