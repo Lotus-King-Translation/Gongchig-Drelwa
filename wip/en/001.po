@@ -11751,7 +11751,7 @@ msgid ""
 "ལྷན་␣༽༽  སྐུ་གསུམ་ མཛད་པ་ གསུམ་ དུ་ ངེས་པ་␣ས་ བསམ་ གྱིས་ མི་ ཁྱབ་པ་␣ར་ འདོད་"
 " མོད །"
 msgstr ""
-"Addendum: Because the three kayas are definite to the three enlightened "
+"Addendum: Because the three bodies are definite to the three enlightened "
 "activities, it is accepted that they are inconceivable."
 
 msgctxt "23858e46dce3481397a1e0e418d3ff96"
