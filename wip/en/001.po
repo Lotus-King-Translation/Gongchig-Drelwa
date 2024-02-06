@@ -14218,7 +14218,7 @@ msgstr ""
 
 msgctxt "01240107b5b440a98aaea75ee13eb72c"
 msgid "དཀྱིལ་འཁོར་ གྱི་ དུར་ཁྲོད་ བརྒྱད་ དང་ བཅས་པ་"
-msgstr ""
+msgstr "The mandala with the eight charnel grounds"
 
 msgctxt "dd62d9fa70384c0888fd2336bb913321"
 msgid "རང་ གི་ ལུས་ ལ་ གནས་པ་ དེ་"
