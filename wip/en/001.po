@@ -14214,6 +14214,7 @@ msgstr "It is said that they are distinct."
 msgctxt "308ee389c1ee4dbbaa4e066f54c0d24c"
 msgid "འདི་␣ར་ ནི་ སྐུ་གསུམ་པོ་ རེ་རེ་ ལ་ ཡང་ གཞན་ གཉིས་ཀ་ ཚང་ སྟེ་"
 msgstr ""
+"In this [system], each of the three bodies also completes the other two."
 
 msgctxt "01240107b5b440a98aaea75ee13eb72c"
 msgid "དཀྱིལ་འཁོར་ གྱི་ དུར་ཁྲོད་ བརྒྱད་ དང་ བཅས་པ་"
