@@ -14328,7 +14328,7 @@ msgstr "The possession of the sacred commitment of the secret mantra are"
 
 msgctxt "e5c3e0474f14460996f9847c75ce1e37"
 msgid "དགེ་བསྙེན་ རྡོ་རྗེ་ འཛིན་པ་ ཡིན ། །"
-msgstr ""
+msgstr "the layman Vajradhara."
 
 msgctxt "f979017e81594906a310eb122683f259"
 msgid "བསླབ་པ་ བཅུ་ ཡི་␣x"
