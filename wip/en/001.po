@@ -14356,7 +14356,7 @@ msgstr "Enlightenment..X"
 
 msgctxt "d26a5bb229c84876a952566df8674c79"
 msgid "གསང་སྔགས་␣x"
-msgstr ""
+msgstr "The secret mantra..X"
 
 msgctxt "efdf2074d8d84f03b98a510c0e6c4afa"
 msgid "དགེ་སློང་ x"
