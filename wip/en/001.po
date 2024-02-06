@@ -14196,7 +14196,7 @@ msgstr ""
 msgctxt "e352944010024670884cf9160ee326e0"
 msgid "རྡོ་␣༽༽  དཀྱིལ་འཁོར་ གྱི་ འཁོར་ལོ་ བདེ་མཆོག་ ལྟ་བུ་␣ར་ མཚོན་ ན་"
 msgstr ""
-"Vajra: The illustration of the circle of mandala, such as Cakrasamvara,"
+"Vajra: The illustration of the wheel of mandala, such as Cakrasamvara,"
 
 msgctxt "dccc513036844c4cbbae6622e30521da"
 msgid ""
