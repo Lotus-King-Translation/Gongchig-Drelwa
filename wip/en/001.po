@@ -14364,7 +14364,7 @@ msgstr "Monks..X"
 
 msgctxt "39f9247854ec4fe296a8e01c8e0703d0"
 msgid "ཅེས་ དང༌ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "9f729203cf864feeac7b8fa6efdbbf9a"
 msgid "དང་པོ་␣ར་ གསོ་སྦྱོང་ སྦྱིན་པ་␣ར་ བྱ །"
