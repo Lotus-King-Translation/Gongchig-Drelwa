@@ -14336,7 +14336,7 @@ msgstr "The ten main trainings..X"
 
 msgctxt "6e09ffd6840948fb9dfd6956dbcd4284"
 msgid "བྱང་ཆུབ་ སེམས་དཔ་␣འི་␣x"
-msgstr ""
+msgstr "Bodhisattvas..X"
 
 msgctxt "877c706cae0e4839b68ec07482e725c2"
 msgid "གསང་སྔགས་␣x"
