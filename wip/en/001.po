@@ -10578,7 +10578,7 @@ msgstr "By reaching the final result of the two accumulations,"
 
 msgctxt "9d21e20b62274d448ca566495c6dc69b"
 msgid "སྐུ་གཉིས་ མངོན་དུ་ གྱུར་པ་ སྟེ་"
-msgstr "The two kayas will be menifested."
+msgstr "The two bodies will be menifested."
 
 msgctxt "2f582d872a784c0b9e43cbbf15d62cc8"
 msgid "སློབ་དཔོན་ འཕགས་པ་␣ས །"
