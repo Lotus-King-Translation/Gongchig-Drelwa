@@ -14316,7 +14316,7 @@ msgstr "According to the Kalachakra [Tantra]:"
 
 msgctxt "6180d2d7c02843b681339d7f4bc27e07"
 msgid "བསླབ་པ་ ལྔ་ ཡི་ གནས་ ལྡན་ ཞིང༌ ། །"
-msgstr ""
+msgstr "The one who has the five trainings,"
 
 msgctxt "b976ab844bfc459aa461aabf84214e55"
 msgid "བྱང་ཆུབ་ སེམས་དཔ་␣འི་ སྡོམ་པ་ དང༌ ། །"
