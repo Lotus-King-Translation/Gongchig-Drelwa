@@ -14324,7 +14324,7 @@ msgstr "The bodhisattva vows and "
 
 msgctxt "f940990cb9ed43c797a1e6782b4b1010"
 msgid "གསང་སྔགས་ དམ་ཚིག་ ལྡན་པ་ ནི ། །"
-msgstr ""
+msgstr "The possession of the sacred commitment of the secret mantra are"
 
 msgctxt "e5c3e0474f14460996f9847c75ce1e37"
 msgid "དགེ་བསྙེན་ རྡོ་རྗེ་ འཛིན་པ་ ཡིན ། །"
