@@ -14190,6 +14190,8 @@ msgid ""
 "བདེ་ གསལ་ སོགས་ སོ་སོ་␣ར་ འཛིན་པ་␣འི་ རྟོག་པ་ ལས་མ་ འདས་པ་␣ར་ དགོངས་པ་ ཡིན་ "
 "ནམ་ མཉམ་ མོ །"
 msgstr ""
+"I wonder if it is intended that it does not go beyond thoughts that "
+"apprehend bliss, clarity, and so forth as separate."
 
 msgctxt "e352944010024670884cf9160ee326e0"
 msgid "རྡོ་␣༽༽  དཀྱིལ་འཁོར་ གྱི་ འཁོར་ལོ་ བདེ་མཆོག་ ལྟ་བུ་␣ར་ མཚོན་ ན་"
