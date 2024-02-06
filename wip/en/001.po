@@ -14241,6 +14241,8 @@ msgstr "According to The Ocean of Secrets:"
 msgctxt "704907dd8dd44ef393efff858964da32"
 msgid "སྐུ་གསུམ་ ཡོངས་སུ་ གྲུབ་པ་ གསང་སྔགས་ ཐེག་པ་ སྟེ །"
 msgstr ""
+"The complete accomplishment of the three bodies is the vehicle of the secret"
+" mantra."
 
 msgctxt "e0015e2290d3481e9440317f0f685826"
 msgid "སྐུ་གསུམ་ ཉིད་ ལ་ འཇུག་པ་ ལམ་ གྱི་ ཐེག་པ་ ཡིན ། །"
