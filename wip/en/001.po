@@ -14332,7 +14332,7 @@ msgstr "the layman Vajradhara."
 
 msgctxt "f979017e81594906a310eb122683f259"
 msgid "བསླབ་པ་ བཅུ་ ཡི་␣x"
-msgstr ""
+msgstr "The ten main trainings..X"
 
 msgctxt "6e09ffd6840948fb9dfd6956dbcd4284"
 msgid "བྱང་ཆུབ་ སེམས་དཔ་␣འི་␣x"
