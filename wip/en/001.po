@@ -11370,7 +11370,7 @@ msgid ""
 " ཕྱིར་ རོ ། །"
 msgstr ""
 "This is because the non-duality of method and wisdom enlightens the union of"
-" the great bliss kaya."
+" the great bliss body."
 
 msgctxt "31ce8d059d9341c3a7bb1ef2a4ff6191"
 msgid "ལུང་ ཡང་ གསུམ་ ཀར་ ཡོད་པ་␣ས་"
