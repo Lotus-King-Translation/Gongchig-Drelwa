@@ -14312,7 +14312,7 @@ msgstr ""
 
 msgctxt "806c89680a1f46dcbc7fee00c6ac1bbc"
 msgid "དུས་འཁོར་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Kalachakra [Tantra]:"
 
 msgctxt "6180d2d7c02843b681339d7f4bc27e07"
 msgid "བསླབ་པ་ ལྔ་ ཡི་ གནས་ ལྡན་ ཞིང༌ ། །"
