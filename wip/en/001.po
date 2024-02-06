@@ -14283,7 +14283,7 @@ msgstr "And."
 
 msgctxt "e5680ac8e66844cbb8110613fbe6fccc"
 msgid "ཁྱོད་ ཀྱི་ སྲོག་ཆགས་ བསད་པ་␣ར་ བྱ །"
-msgstr ""
+msgstr "Your living beings are being killed."
 
 msgctxt "f5d14988462a4e1db5397fff53bf8561"
 msgid "ཞེས་ སོགས་ གསུངས་པ་␣ས་ སོ་ ཟེར་ རོ །"
