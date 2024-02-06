@@ -14287,7 +14287,7 @@ msgstr "Your living beings are being killed."
 
 msgctxt "f5d14988462a4e1db5397fff53bf8561"
 msgid "ཞེས་ སོགས་ གསུངས་པ་␣ས་ སོ་ ཟེར་ རོ །"
-msgstr ""
+msgstr "And so on, it is said."
 
 msgctxt "6258c4bc4ce747d19bb20e5d70043e78"
 msgid "འདི་␣ར་ ནི་ གསང་སྔགས་ ལ་ ནི་ ཚུལ་ཁྲིམས་ མེད་ ཀ་མེད་ ཡིན་ ཏེ་"
