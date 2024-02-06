@@ -14392,7 +14392,7 @@ msgstr "Mantra is not accomplished by losing moral discipline."
 
 msgctxt "65a617c167cd4ffbac0f8bfb30bfdf3d"
 msgid "ཅེས་ སོ ། །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "7064db55b73d4a1d9c23cef30462f3b1"
 msgid ""
