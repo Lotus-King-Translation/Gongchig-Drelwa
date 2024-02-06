@@ -14307,6 +14307,8 @@ msgid ""
 "དེ་␣འང་ སྒོ་གསུམ་ ཉེས་པ་ ཕྲ་མོ་␣ས་ ཀྱང་ མི་ གོས་པ་␣ར་ བྱེད་ དགོས་པ་␣འི་ ཕྱིར"
 " །"
 msgstr ""
+"Moreover, one must not be stained by even the smallest faults of body, "
+"speech, and mind."
 
 msgctxt "806c89680a1f46dcbc7fee00c6ac1bbc"
 msgid "དུས་འཁོར་ ལ་␣ས །"
