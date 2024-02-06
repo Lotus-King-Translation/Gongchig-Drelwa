@@ -14246,7 +14246,7 @@ msgstr ""
 
 msgctxt "e0015e2290d3481e9440317f0f685826"
 msgid "སྐུ་གསུམ་ ཉིད་ ལ་ འཇུག་པ་ ལམ་ གྱི་ ཐེག་པ་ ཡིན ། །"
-msgstr ""
+msgstr "The path vehicle is the entrance to the three bodies."
 
 msgctxt "fe3de28f518549498b2a1307424fd46e"
 msgid "སྐུ་གསུམ་ འདུ་ འབྲལ་ མེད་པ་ འབྲས་བུ་␣འི་ ཐེག་པ་␣འོ ། །"
