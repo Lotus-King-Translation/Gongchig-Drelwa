@@ -14209,7 +14209,7 @@ msgstr ""
 
 msgctxt "bb50effddc5e46e6a823f615adbc755c"
 msgid "དེ་ གསུམ་ ཐ་དད་ ཡིན་ ཟེར་ རོ །"
-msgstr ""
+msgstr "It is said that they are distinct."
 
 msgctxt "308ee389c1ee4dbbaa4e066f54c0d24c"
 msgid "འདི་␣ར་ ནི་ སྐུ་གསུམ་པོ་ རེ་རེ་ ལ་ ཡང་ གཞན་ གཉིས་ཀ་ ཚང་ སྟེ་"
