@@ -14344,7 +14344,7 @@ msgstr "The secret mantra.. X"
 
 msgctxt "5b7a9498d53842c0ac876dd06903f17c"
 msgid "དགེ་ཚུལ་␣x"
-msgstr ""
+msgstr "Novice..X"
 
 msgctxt "713b3e69140f41eca0af81f7b2bd5ed7"
 msgid "བསླབ་པ་ བྱེ་བ་␣འི་␣x"
