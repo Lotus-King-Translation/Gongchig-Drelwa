@@ -14232,7 +14232,7 @@ msgstr ""
 
 msgctxt "50009201a6bc4d168626862afab968fd"
 msgid "དེ་␣འི་ འཁོར་ལོ་ ལ་ ཐ་དད་ མེད་པ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "Therefore, there is no difference in the wheel."
 
 msgctxt "abbf9017186249639bff3a609faf3dc4"
 msgid "གསང་བ་ རྒྱ་མཚོ་ ལ་␣ས །"
