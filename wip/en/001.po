@@ -14348,7 +14348,7 @@ msgstr "Novice..X"
 
 msgctxt "713b3e69140f41eca0af81f7b2bd5ed7"
 msgid "བསླབ་པ་ བྱེ་བ་␣འི་␣x"
-msgstr ""
+msgstr "Millions of training.. X"
 
 msgctxt "2c586fca9a5640d0b922a08fa7646715"
 msgid "བྱང་ཆུབ་␣x"
