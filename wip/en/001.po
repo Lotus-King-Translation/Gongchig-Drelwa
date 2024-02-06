@@ -14320,7 +14320,7 @@ msgstr "The one who has the five trainings,"
 
 msgctxt "b976ab844bfc459aa461aabf84214e55"
 msgid "བྱང་ཆུབ་ སེམས་དཔ་␣འི་ སྡོམ་པ་ དང༌ ། །"
-msgstr ""
+msgstr "The bodhisattva vows and "
 
 msgctxt "f940990cb9ed43c797a1e6782b4b1010"
 msgid "གསང་སྔགས་ དམ་ཚིག་ ལྡན་པ་ ནི ། །"
