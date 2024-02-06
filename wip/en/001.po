@@ -14275,7 +14275,7 @@ msgstr "On the five types of desirables, "
 
 msgctxt "972b9e3c22c447019abf4fb7992a1dd9"
 msgid "བརྟེན་ ནས་ མྱུར་ དུ་ འགྲུབ་པ་␣ར་ འགྱུར །"
-msgstr "By relying on them, a swift accomplishment."
+msgstr "By relying on them, one will swiftly accomplish."
 
 msgctxt "86ead4aa26114fbb8a1598e23511e68e"
 msgid "ཞེས་ དང༌ །"
