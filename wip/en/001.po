@@ -12928,7 +12928,7 @@ msgstr ""
 
 msgctxt "56129bceb10d4cd18e8ba32d90d9d938"
 msgid "དེ་ལྟར་ ཡང་ ཡུམ་ ལ་␣ས །"
-msgstr "Likewise, according to the Mother [Sutra]:"
+msgstr "Likewise, according to the Mother [Prajnaparamita Sutra]:"
 
 msgctxt "83c5be1f701342819f4303ad1c1c58d0"
 msgid "ཆོས་ ཐམས་ཅད་ མཉམ་པ་ཉིད་ བས་"
