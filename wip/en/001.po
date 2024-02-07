@@ -14408,7 +14408,7 @@ msgstr "In this [system], in addition to the hindrances created by desire,"
 
 msgctxt "1f2a020716cb477d8212eb9bfbc36727"
 msgid "མདོ་སྔགས་ གཉིས་ཀ་ གཅིག་པ་ ཡིན་ ཏེ་ མཚན་ཉིད་ དུ༌ །"
-msgstr ""
+msgstr "Both sutra and tantra are the same as in the characteristic."
 
 msgctxt "065eaaf1beb644b3a3013773582344dd"
 msgid ""
