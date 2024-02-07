@@ -14508,7 +14508,7 @@ msgstr ""
 
 msgctxt "cecfb726261f4a8ab0c4a19ba7f38b34"
 msgid "དེ་ མཚན་ཉིད་ ལ་␣ས་ ཤིན་ཏུ་ དཀའ་བ་␣ར་ སྣང་ངོ༌ ། །"
-msgstr ""
+msgstr "This appears to be very difficult from characteristics. "
 
 msgctxt "d0edd9da973d4017860c13f8a6dcb485"
 msgid ""
