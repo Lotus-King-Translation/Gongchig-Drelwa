@@ -14503,6 +14503,8 @@ msgstr "If a person has the power of the antidote,"
 msgctxt "9b3f1e03e12a4b61a544e89212bb3437"
 msgid "རྒྱུད་ ལ་ མི་ གོས་པ་ འདམས་ ཀྱི་ པདྨ་ བཞིན་ ཡིན་ ཀྱང༌ །"
 msgstr ""
+"[His or her] mindstream will not be covered [by stain], like a lotus in the "
+"mud."
 
 msgctxt "cecfb726261f4a8ab0c4a19ba7f38b34"
 msgid "དེ་ མཚན་ཉིད་ ལ་␣ས་ ཤིན་ཏུ་ དཀའ་བ་␣ར་ སྣང་ངོ༌ ། །"
