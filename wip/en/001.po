@@ -14482,7 +14482,7 @@ msgstr "I have taught this to people."
 
 msgctxt "bb1b1739dbb34933b768a98c9e43b946"
 msgid "དེ་ ཀུན་ ཡང་དག་ ཉིད་ དུ་ སྨྲ ། །"
-msgstr ""
+msgstr "All of them are said genuinely,"
 
 msgctxt "cb53a53da58d4e0ab1f694dae59c6529"
 msgid "གཞན་ དུ་ གྱུར་པ་ ཡོད་ མ་ ཡིན ། །"
