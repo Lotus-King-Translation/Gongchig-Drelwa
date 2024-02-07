@@ -14490,7 +14490,7 @@ msgstr "There is nothing other than that."
 
 msgctxt "a2e19ecd4c83438a8b1f7763d513d65b"
 msgid "ཅེས་ སོ །"
-msgstr ""
+msgstr "As said."
 
 msgctxt "e26ecf3ced0b4af4b8167fd0c7e77572"
 msgid "འདོད་པ་ བསྟེན་པ་␣ར་ གསུངས་པ་ ནི །"
