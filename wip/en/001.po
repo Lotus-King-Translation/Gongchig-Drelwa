@@ -14462,7 +14462,7 @@ msgstr "When [he] was asked, “Why?” "
 
 msgctxt "08e6eace7f884f138cab7092f651b76a"
 msgid "གཟུགས་འཛིན་ གྱི་ ངོ་བོ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr "It is because it is the essence of the apprehension of form."
+msgstr "This is because it is the essence of the apprehension of form."
 
 msgctxt "87556de68b274048a9ba85040237c925"
 msgid "ཞེས་ དང༌ །"
