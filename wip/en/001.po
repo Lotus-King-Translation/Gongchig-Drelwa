@@ -14428,7 +14428,7 @@ msgstr "Desires are like poisonous leaves."
 
 msgctxt "f91034107d4046beb833da18953e608d"
 msgid "རལ་གྲི་␣འི་ སོ་ ལྟ་བུ་␣འོ ། །"
-msgstr ""
+msgstr "It is like the edge of a sword."
 
 msgctxt "0b8c4bb9a4b248168f12bec17f46f352"
 msgid "མི་གཙང་བ་␣འི་ སྦུབས་ ལྟ་བུ་␣འོ ། །"
