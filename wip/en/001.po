@@ -14494,7 +14494,7 @@ msgstr "As said."
 
 msgctxt "e26ecf3ced0b4af4b8167fd0c7e77572"
 msgid "འདོད་པ་ བསྟེན་པ་␣ར་ གསུངས་པ་ ནི །"
-msgstr ""
+msgstr "The statement that one should rely on desire means that"
 
 msgctxt "288dcdf218bd4093a4dd64e239596a11"
 msgid "གང་ཟག་ གཉེན་པོ་ སྟོབས་ དང་ ལྡན་ ན་"
