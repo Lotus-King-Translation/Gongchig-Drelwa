@@ -14432,7 +14432,7 @@ msgstr "It is like the edge of a sword."
 
 msgctxt "0b8c4bb9a4b248168f12bec17f46f352"
 msgid "མི་གཙང་བ་␣འི་ སྦུབས་ ལྟ་བུ་␣འོ ། །"
-msgstr ""
+msgstr "It is like the inside of filth."
 
 msgctxt "52372c644eef4bc2aa7d815004296385"
 msgid "ཞེས་ དང༌ །"
