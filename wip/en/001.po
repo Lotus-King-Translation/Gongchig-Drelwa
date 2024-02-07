@@ -14498,7 +14498,7 @@ msgstr "The statement that one should rely on desire means that"
 
 msgctxt "288dcdf218bd4093a4dd64e239596a11"
 msgid "གང་ཟག་ གཉེན་པོ་ སྟོབས་ དང་ ལྡན་ ན་"
-msgstr ""
+msgstr "If a person has the power of the antidote,"
 
 msgctxt "9b3f1e03e12a4b61a544e89212bb3437"
 msgid "རྒྱུད་ ལ་ མི་ གོས་པ་ འདམས་ ཀྱི་ པདྨ་ བཞིན་ ཡིན་ ཀྱང༌ །"
