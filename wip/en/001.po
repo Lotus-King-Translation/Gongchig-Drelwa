@@ -14404,7 +14404,7 @@ msgstr ""
 
 msgctxt "083aafee06e045f2899a690bf6d3f4ae"
 msgid "འདི་␣ར་ ནི་ འདོད་པ་␣ས་ བར་ དུ་ གཅོད་པ་␣འི་ སྟེང་ དུ་"
-msgstr ""
+msgstr "In this [system], in addition to the hindrances created by desire,"
 
 msgctxt "1f2a020716cb477d8212eb9bfbc36727"
 msgid "མདོ་སྔགས་ གཉིས་ཀ་ གཅིག་པ་ ཡིན་ ཏེ་ མཚན་ཉིད་ དུ༌ །"
