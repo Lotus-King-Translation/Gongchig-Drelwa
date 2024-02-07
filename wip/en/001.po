@@ -14474,7 +14474,7 @@ msgstr "According to the Heap of Jewels:"
 
 msgctxt "2c2187d5a91c421ca9b155cef0f7c2dd"
 msgid "བར་ དུ་ གཅོད་པ་␣འི་ ཆོས་ གང་དག  །"
-msgstr ""
+msgstr "All those things that cause hindrances,"
 
 msgctxt "4aa5f0f756354414bbee3a81d14a5da8"
 msgid "སྐྱེ་བོ་ རྣམས་ ལ་ ངས་ བསྟན་པ ། །"
