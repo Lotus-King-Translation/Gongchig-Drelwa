@@ -14470,7 +14470,7 @@ msgstr "And."
 
 msgctxt "ff452906d4da46df9ba14da33c766d27"
 msgid "དཀོན་ རྩེགས་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Heap of Jewels:"
 
 msgctxt "2c2187d5a91c421ca9b155cef0f7c2dd"
 msgid "བར་ དུ་ གཅོད་པ་␣འི་ ཆོས་ གང་དག  །"
