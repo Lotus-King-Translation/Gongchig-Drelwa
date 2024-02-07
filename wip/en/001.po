@@ -14486,7 +14486,7 @@ msgstr "All of them are said genuinely,"
 
 msgctxt "cb53a53da58d4e0ab1f694dae59c6529"
 msgid "གཞན་ དུ་ གྱུར་པ་ ཡོད་ མ་ ཡིན ། །"
-msgstr ""
+msgstr "There is nothing other than that."
 
 msgctxt "a2e19ecd4c83438a8b1f7763d513d65b"
 msgid "ཅེས་ སོ །"
