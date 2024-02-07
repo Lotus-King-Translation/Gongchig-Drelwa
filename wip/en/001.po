@@ -14415,6 +14415,8 @@ msgid ""
 "ཡུམ་ ལ་␣ས་ འདོད་པ་␣ས་ ནི་ ཚངས་པ་␣འི་ འཇིག་རྟེན་ དུ་ སྐྱེ་བ་ ལ་ ཡང་བ་␣ར་ དུ་ "
 "གཅོད་ ན་"
 msgstr ""
+"According to the Mother [Prajnaparamita Sutra]: If desire hinders even to "
+"rebirth in the world of Brahma,"
 
 msgctxt "673c0272901741fe84db7b93c02d0da6"
 msgid "མྱ་ངན་ ལ་␣ས་ འདས་པ་ ལ་␣ས་ ལྟ་ སྨོས་ ཀྱང་ ཅི་ དགོས་ ཞེས་ དང༌ །"
