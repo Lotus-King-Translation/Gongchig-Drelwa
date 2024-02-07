@@ -14458,7 +14458,7 @@ msgstr "The five, form, and so forth, [He] replied."
 
 msgctxt "68b99cfb20734830b8e628b54d924b9f"
 msgid "ཅི་ཕྱིར་ ཞུས་པ་␣ས །"
-msgstr ""
+msgstr "When [he] was asked, “Why?” "
 
 msgctxt "08e6eace7f884f138cab7092f651b76a"
 msgid "གཟུགས་འཛིན་ གྱི་ ངོ་བོ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ ། །"
