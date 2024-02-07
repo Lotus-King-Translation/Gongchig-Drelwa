@@ -14420,7 +14420,7 @@ msgstr ""
 
 msgctxt "673c0272901741fe84db7b93c02d0da6"
 msgid "མྱ་ངན་ ལ་␣ས་ འདས་པ་ ལ་␣ས་ ལྟ་ སྨོས་ ཀྱང་ ཅི་ དགོས་ ཞེས་ དང༌ །"
-msgstr ""
+msgstr "It is needless to mention the hindrances to nirvana and "
 
 msgctxt "a4dfe0c7f9cb467695e5630837a5fecb"
 msgid "འདོད་པ་ རྣམས་ ནི་ དུག་ གི་ ལོ་མ་ ལྟ་བུ་␣འོ །"
