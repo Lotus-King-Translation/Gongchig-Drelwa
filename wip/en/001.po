@@ -14441,6 +14441,8 @@ msgstr "And."
 msgctxt "9641c32f64924a6880cf5c122114f927"
 msgid "སྔགས་ ལ་ ཚུལ་ཁྲིམས་ མེད་ ཐབས་མེད་པ་ བཤད་ མ་ ཐག་པ་ ཉིད་ ཀྱི་ ཕྱིར་ དང་"
 msgstr ""
+"This is because, as just explained, discipline is indispensable for the "
+"mantra."
 
 msgctxt "2a7faf0f256b4f359627bdd83f41e649"
 msgid "བརྟག་པ་ གོང་མ་ ལ་␣ས །"
