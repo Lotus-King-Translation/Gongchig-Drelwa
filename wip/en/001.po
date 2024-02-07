@@ -14424,7 +14424,7 @@ msgstr "It is needless to mention the hindrances to nirvana and "
 
 msgctxt "a4dfe0c7f9cb467695e5630837a5fecb"
 msgid "འདོད་པ་ རྣམས་ ནི་ དུག་ གི་ ལོ་མ་ ལྟ་བུ་␣འོ །"
-msgstr ""
+msgstr "Desires are like poisonous leaves."
 
 msgctxt "f91034107d4046beb833da18953e608d"
 msgid "རལ་གྲི་␣འི་ སོ་ ལྟ་བུ་␣འོ ། །"
