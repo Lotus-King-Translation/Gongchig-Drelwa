@@ -14399,6 +14399,8 @@ msgid ""
 "རྡོ་␣༽༽  སྔགས་ ནི་ འཇུག་ ལམ་ འབྲས་བུ་ བདེ་བ་␣ས་ འདོད་ཡོན་ སྤྱད་པ་␣ས་ གྲུབ་ "
 "ཟེར །"
 msgstr ""
+"Vajra: Mantra is said to be accomplished by engaging in the sense pleasures "
+"of the path of engagement and the blissful result."
 
 msgctxt "083aafee06e045f2899a690bf6d3f4ae"
 msgid "འདི་␣ར་ ནི་ འདོད་པ་␣ས་ བར་ དུ་ གཅོད་པ་␣འི་ སྟེང་ དུ་"
