@@ -14450,7 +14450,7 @@ msgstr "According to the first segment:"
 
 msgctxt "335894d639a140c4afef8d4ed9a76e06"
 msgid "བཅོམ་ལྡན་ མ་ དག་པ་ གང་ ལགས །"
-msgstr ""
+msgstr "The Blessed One, What are the impurities?"
 
 msgctxt "d0954aed4cdc4c359240dbe5ed6e0827"
 msgid "བཀའ་ རྩལ་པ་ གཟུགས་ ལ་སོགས་པ་ ལྔ་␣འོ ། །"
