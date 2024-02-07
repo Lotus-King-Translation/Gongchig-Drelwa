@@ -14478,7 +14478,7 @@ msgstr "All those phenomena that cause hindrances,"
 
 msgctxt "4aa5f0f756354414bbee3a81d14a5da8"
 msgid "སྐྱེ་བོ་ རྣམས་ ལ་ ངས་ བསྟན་པ ། །"
-msgstr ""
+msgstr "I have taught this to people."
 
 msgctxt "bb1b1739dbb34933b768a98c9e43b946"
 msgid "དེ་ ཀུན་ ཡང་དག་ ཉིད་ དུ་ སྨྲ ། །"
