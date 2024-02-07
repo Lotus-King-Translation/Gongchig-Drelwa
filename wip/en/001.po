@@ -14454,7 +14454,7 @@ msgstr "The Blessed One, What are the impurities?"
 
 msgctxt "d0954aed4cdc4c359240dbe5ed6e0827"
 msgid "བཀའ་ རྩལ་པ་ གཟུགས་ ལ་སོགས་པ་ ལྔ་␣འོ ། །"
-msgstr "The five, form, and so forth, [He] replied."
+msgstr "The five, form, and so forth. [He] replied."
 
 msgctxt "68b99cfb20734830b8e628b54d924b9f"
 msgid "ཅི་ཕྱིར་ ཞུས་པ་␣ས །"
