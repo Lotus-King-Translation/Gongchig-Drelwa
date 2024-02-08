@@ -14539,7 +14539,7 @@ msgstr "The transformation of hatred and delusion into the path is"
 
 msgctxt "fa0f46bc3acb442685a303b3b407733e"
 msgid "གསལ་བ་ དང་ མི་ རྟོག་པ་␣འི་ ཏིང་ངེ་འཛིན་"
-msgstr ""
+msgstr "The meditative stabilization of clarity and non-conceptuality,"
 
 msgctxt "1d518a06c79e42aba5cca4c6b61feb3b"
 msgid "འབྲས་བུ་ སྤྲུལ་སྐུ་ དང་ ཆོས་སྐུ་␣ར་ བསྒྱུར་བ་␣ས་"
