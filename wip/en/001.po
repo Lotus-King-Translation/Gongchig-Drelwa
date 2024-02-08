@@ -14515,6 +14515,8 @@ msgid ""
 "དེ་␣འི་ ཕྱིར་ རལ་གྲི་ དང་ འདྲ་བ་␣འི་ སྔགས་ འདི་ ཕུབ་ ལྟ་བུ་␣འི་ ཚུལ་ཁྲིམས་ "
 "ལ་མ་ བརྟེན་ ན་ ཉམས་པ་ ཡིན་ ནོ །"
 msgstr ""
+"Therefore, if the sword-like mantra does not rely on the shield-like "
+"discipline, it will deteriorate."
 
 msgctxt "cdfae5ec296146d7b9880c368078c27a"
 msgid ""
