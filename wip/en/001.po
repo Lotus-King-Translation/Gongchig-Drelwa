@@ -14569,6 +14569,8 @@ msgid ""
 "གློ་བུར་ གྱི་ དྲི་མ་␣ས་ བསྒྲིབས་པ་ བསལ་བ་␣འམ་ སྦྱོང་པ་␣འི་ ལམ་པ་ ཡིན་པ་␣འི་ "
 "ཕྱིར །"
 msgstr ""
+"It is a path of elimination or purification of what is obscured by "
+"adventitious stains."
 
 msgctxt "8e7b395b552244008e23db6b9f3e850e"
 msgid "ཀྱེ་རྡོར་ ལ་␣ས །"
