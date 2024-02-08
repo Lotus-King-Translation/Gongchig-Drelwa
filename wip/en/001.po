@@ -14535,7 +14535,7 @@ msgstr ""
 
 msgctxt "941576bfb89240b3856a76d784c49267"
 msgid "ཞེ་སྡང་ དང་ གཏི་མུག་ ལམ་ དུ་ བསྒྱུར་བ་"
-msgstr ""
+msgstr "The transformation of hatred and delusion into the path,"
 
 msgctxt "fa0f46bc3acb442685a303b3b407733e"
 msgid "གསལ་བ་ དང་ མི་ རྟོག་པ་␣འི་ ཏིང་ངེ་འཛིན་"
