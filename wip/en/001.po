@@ -14578,7 +14578,7 @@ msgstr "According to the Hevajra [Tantra]:"
 
 msgctxt "a20df0c320cc4d51a858a6e74c71442f"
 msgid "སེམས་ཅན་ རྣམས་ སངས་རྒྱས་ ཏེ ། །"
-msgstr ""
+msgstr "Sentient beings are buddhas,"
 
 msgctxt "3dbab84f692b4df28e8ffa6570c4c252"
 msgid "འོན་ཀྱང་ གློ་བུར་ དྲི་མ་␣ས་ བསྒྲིབས ། །"
