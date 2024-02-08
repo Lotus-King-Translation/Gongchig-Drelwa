@@ -14523,6 +14523,8 @@ msgid ""
 "རྡོ་␣༽༽  འདུལ་བ་ གཞི་ སྤོང་བ་ མཚན་ཉིད་ གཞི་ སྦྱོང་བ་ སྔགས་ གཞི་ བསྒྱུར་བ་ "
 "སྟེའང་"
 msgstr ""
+"Vajra: The basis of the Vinaya is abandoning, the basis of the "
+"characteristics is purifying, and the basis of the mantra is transforming."
 
 msgctxt "df6c47363432465ca0fd9c5218d0a1e9"
 msgid ""
