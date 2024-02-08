@@ -14530,6 +14530,8 @@ msgctxt "df6c47363432465ca0fd9c5218d0a1e9"
 msgid ""
 "འདོད་ཆགས་ ལམ་ དུ་ བསྒྱུར་བ་ བདེ་བ་␣འི་ ཏིང་ངེ་འཛིན་ འབྲས་བུ་ ལོངས་སྐུ །"
 msgstr ""
+"The transformation of desire into the path is the blissful meditative "
+"concentration, the result of the sambhogakaya."
 
 msgctxt "941576bfb89240b3856a76d784c49267"
 msgid "ཞེ་སྡང་ དང་ གཏི་མུག་ ལམ་ དུ་ བསྒྱུར་བ་"
