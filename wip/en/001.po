@@ -14547,7 +14547,7 @@ msgstr "The results are nirmanakaya and dharmakaya."
 
 msgctxt "e88dfd12583a4a6f934dc84fb9e6a8cb"
 msgid "རྣམ་རྟོག་ ཡེ་ཤེས་ ཀྱི་ རོལ་པ་ ཡིན་ ཟེར །"
-msgstr ""
+msgstr "It is said that thoughts are the display of wisdom."
 
 msgctxt "a5704f08345e4a0990a5ba2d888383de"
 msgid ""
