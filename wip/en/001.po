@@ -14553,6 +14553,8 @@ msgctxt "a5704f08345e4a0990a5ba2d888383de"
 msgid ""
 "འདི་␣ར་ ནི་ སྔགས་ ཀྱི་ ལམ་ གྱིས་ མི་དགེ་བ་ དགེ་བ་␣ར་ བསྒྱུར་བ་␣ར་ འདོད་ ན་"
 msgstr ""
+"In this [system], If it is accepted that non-virtue is transformed into "
+"virtue through the path of mantra,"
 
 msgctxt "74bc1ec62c98452280b9f86190b9132a"
 msgid "འདི་␣ར་ འགྱུར་བ་␣འི་ སྐབས་མེད་ དེ་"
