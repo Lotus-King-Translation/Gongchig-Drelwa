@@ -14543,7 +14543,7 @@ msgstr "The meditative stabilization of clarity and non-conceptuality,"
 
 msgctxt "1d518a06c79e42aba5cca4c6b61feb3b"
 msgid "འབྲས་བུ་ སྤྲུལ་སྐུ་ དང་ ཆོས་སྐུ་␣ར་ བསྒྱུར་བ་␣ས་"
-msgstr ""
+msgstr "The results are nirmanakaya and dharmakaya."
 
 msgctxt "e88dfd12583a4a6f934dc84fb9e6a8cb"
 msgid "རྣམ་རྟོག་ ཡེ་ཤེས་ ཀྱི་ རོལ་པ་ ཡིན་ ཟེར །"
