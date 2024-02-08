@@ -14558,7 +14558,7 @@ msgstr ""
 
 msgctxt "74bc1ec62c98452280b9f86190b9132a"
 msgid "འདི་␣ར་ འགྱུར་བ་␣འི་ སྐབས་མེད་ དེ་"
-msgstr ""
+msgstr "In this [system], there is no occasion for transformation."
 
 msgctxt "a205250949d04187ae669d3f9491a8e8"
 msgid "གདོད་ ནས་ དཀྱིལ་འཁོར་ གྱི་ འཁོར་ལོ་ ཡིན་ ཀྱང་"
