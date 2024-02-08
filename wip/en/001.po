@@ -14587,6 +14587,7 @@ msgstr "But this is obscured by adventitious stains."
 msgctxt "d4dfa46cd1074ec295276f2c121396ea"
 msgid "དེ་ཉིད་ བསལ་ ན་ སངས་རྒྱས་ ཉིད །"
 msgstr ""
+"When these stains are eliminated, then buddhahood itself is [revealed]."
 
 msgctxt "2e893fecbb044322be984d0436d6aeb1"
 msgid "ཅེས་པ་␣ས་ སྦྱོང་བ་␣འི་ ལམ་པ་ ཡིན་ ཅིང༌ །"
