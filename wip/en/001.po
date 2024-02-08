@@ -14562,7 +14562,7 @@ msgstr "In this [system], there is no occasion for transformation."
 
 msgctxt "a205250949d04187ae669d3f9491a8e8"
 msgid "གདོད་ ནས་ དཀྱིལ་འཁོར་ གྱི་ འཁོར་ལོ་ ཡིན་ ཀྱང་"
-msgstr ""
+msgstr "Although it is the wheel of the mandala from the beginning,"
 
 msgctxt "02ae720b819a432995a96955cb3bad02"
 msgid ""
