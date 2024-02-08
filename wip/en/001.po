@@ -14582,7 +14582,7 @@ msgstr "Sentient beings are buddhas,"
 
 msgctxt "3dbab84f692b4df28e8ffa6570c4c252"
 msgid "འོན་ཀྱང་ གློ་བུར་ དྲི་མ་␣ས་ བསྒྲིབས ། །"
-msgstr ""
+msgstr "But this is obscured by adventitious stains."
 
 msgctxt "d4dfa46cd1074ec295276f2c121396ea"
 msgid "དེ་ཉིད་ བསལ་ ན་ སངས་རྒྱས་ ཉིད །"
