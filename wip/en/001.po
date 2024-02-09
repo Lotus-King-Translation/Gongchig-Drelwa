@@ -14664,7 +14664,7 @@ msgstr "In this system, non-virtue is prohibited in the Vinaya, "
 
 msgctxt "68f3a14aeb1e4608ac2759010029520c"
 msgid "སྔགས་ སུ་␣འང་ མི་དགེ་ ཞིང་ སྤང་བྱ་ ཡིན་པ་␣ས་"
-msgstr ""
+msgstr "Non-virtue is also an object of abandonment in the mantra."
 
 msgctxt "4ac6371d928a417f900d941c6bdd2137"
 msgid "དགེ་བ་␣ར་ མི་ འགྱུར་ ཏེ་"
