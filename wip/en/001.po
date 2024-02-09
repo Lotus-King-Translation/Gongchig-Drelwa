@@ -14678,7 +14678,7 @@ msgstr ""
 
 msgctxt "3896332cb2ca423caaf920a3916426d6"
 msgid "ལམ་ གྱི་ གེགས་ དམ་བཅ་␣ས་པ་ ལ་"
-msgstr ""
+msgstr "In the promise of the path of obstruction, "
 
 msgctxt "5ee56f4f035c4fae9c10ba10796b9f15"
 msgid ""
