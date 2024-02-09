@@ -14684,6 +14684,7 @@ msgctxt "5ee56f4f035c4fae9c10ba10796b9f15"
 msgid ""
 "ལྷ་ དང་ བཅས་པ་␣འི་ འཇིག་རྟེན་ ན་ སུ་␣ས་ ཀྱང་ རྒོལ་བ་ མེད་པ་␣འི་ ཕྱིར་ དང་"
 msgstr ""
+"This is because no one in the world can oppose including the gods and so on."
 
 msgctxt "a38541fbf9a340c68aaf1cd18310df95"
 msgid ""
