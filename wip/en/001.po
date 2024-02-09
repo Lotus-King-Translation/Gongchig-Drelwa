@@ -14610,7 +14610,7 @@ msgstr "It is not a path of abandonment, but a path of transformation."
 
 msgctxt "57e7edfdeb71499398416422ee9845e6"
 msgid "དེ་ལྟར་ མིན་པ་ བསྒྱུར་བ་␣འི་ ལམ་པ་ ཡིན་ ན་"
-msgstr ""
+msgstr "Unlike that if it is the path of transformation,"
 
 msgctxt "9e7b64fc12cc4ee088bc9cc98568c4a5"
 msgid ""
