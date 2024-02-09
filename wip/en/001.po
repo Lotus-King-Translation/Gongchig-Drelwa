@@ -14622,6 +14622,8 @@ msgstr ""
 msgctxt "4a0971a258b945f5a98976014b09116c"
 msgid "འགལ་བ་ དང་ དུག་ གསུམ་ གཞི་མ་གྲུབ་པ་␣ས་ བསྒྱུར་བ་␣ས་ འགྱུར་ ན་"
 msgstr ""
+"Since the three poisons are not established, if it is changed by "
+"transformation,"
 
 msgctxt "fe13adc0c82545b6b6f4259c1e90f0e4"
 msgid "མི་དགེ་ དགེ་བ་␣ར་ འགྱུར་ ཏེ་"
