@@ -14637,7 +14637,7 @@ msgstr ""
 
 msgctxt "aede3544fbd54eaebf19558f8519a741"
 msgid "སྙིང་པོ་ རྟག་པ་ དང་ འགལ་བ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "It would contradict the eternal essence."
 
 msgctxt "4edceb925c464f8eb00636a6df593da4"
 msgid "སྔགས་ སུ་ མི་འགྱུར་བ་␣ས་ སྦྱོང་བ་␣འི་ ལམ་པ་ ཡིན་ ནོ །"
