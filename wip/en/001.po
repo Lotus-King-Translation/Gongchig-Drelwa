@@ -14652,7 +14652,7 @@ msgstr ""
 
 msgctxt "8b96aefb0cc14a51aa0a91c6b3410cfb"
 msgid "འདོད་ཆགས་ ཞེ་སྡང་ གཏི་མུག་ དང་ །"
-msgstr ""
+msgstr "Attachment, aversion, delusion and"
 
 msgctxt "c8d176c5fdae4557b94d4b4eb4419193"
 msgid "ང་རྒྱལ་ ཕྲག་དོག་ མི་ སྤང་ ངོ་ ཞེས་ ཟེར་ རོ །"
