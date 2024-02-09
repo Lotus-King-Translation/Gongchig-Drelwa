@@ -14660,7 +14660,7 @@ msgstr "Pride and jealousy are not being abandoned."
 
 msgctxt "181f036bc1bd425787c6e07b51739dc0"
 msgid "འདི་␣ར་ ནི་ འདུལ་བ་␣ར་ མི་དགེ་བ་ བཀག་པ་"
-msgstr ""
+msgstr "In this system, non-virtue is prohibited in the Vinaya, "
 
 msgctxt "68f3a14aeb1e4608ac2759010029520c"
 msgid "སྔགས་ སུ་␣འང་ མི་དགེ་ ཞིང་ སྤང་བྱ་ ཡིན་པ་␣ས་"
