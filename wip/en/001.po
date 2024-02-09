@@ -14641,7 +14641,7 @@ msgstr "It would contradict the eternal essence."
 
 msgctxt "4edceb925c464f8eb00636a6df593da4"
 msgid "སྔགས་ སུ་ མི་འགྱུར་བ་␣ས་ སྦྱོང་བ་␣འི་ ལམ་པ་ ཡིན་ ནོ །"
-msgstr ""
+msgstr "Since it does not change in mantra, it is the path of purification."
 
 msgctxt "ab7bdd1769334f8bbe768b90ffaac777"
 msgid ""
