@@ -14696,7 +14696,7 @@ msgstr ""
 
 msgctxt "9f9cebb3022948f49aaf8f3aec7da58d"
 msgid "དགོངས་པ་ ཅན་ དང་ སྒྲ་ ཇི་བཞིན་ མ་ཡིན་པ་ དང༌ །"
-msgstr ""
+msgstr "The implied meaning and the words are not literal,"
 
 msgctxt "82b76224dcf14f1aa85fa55f1d2940ed"
 msgid "ཚུལ་བཞིན་ ལ་␣ས་ སྦས་དོན་ སྤྱི་ བཤད་ ཤས་ ཆེ་བ་␣འི་ ཕྱིར་ རོ ། །"
