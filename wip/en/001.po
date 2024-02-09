@@ -147,7 +147,7 @@ msgstr ""
 
 msgctxt "76257ff95d6047bcb857ccb6d3b3886c"
 msgid "སྟོན་པ་␣ས་ གསུང་པ་␣འི་ མདོ་སྔགས་ ཀྱི ། །"
-msgstr "Sutra and mantra taught by the Buddha."
+msgstr "The sutra and mantra taught by the Buddha,"
 
 msgctxt "57b3912effb8465682c9a4aa074f5d87"
 msgid "དོན་ རྣམས་ མ་ ནོར་ གོ་ བདེ་␣འི་ ཕྱིཪ ། །"
