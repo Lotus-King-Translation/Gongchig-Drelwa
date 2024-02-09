@@ -14691,6 +14691,8 @@ msgid ""
 "རྡོ་རྗེ་ འཆང་ གི་ རྒྱུད་ དཀྲུགས་ ལུང་ བཅུ་␣ས་ མན་ངག་ གབ་པ་ དང་ མཐའ་ དྲུག་ "
 "ལ་␣ས་"
 msgstr ""
+"From the hidden foremost instruction by Vajradhara in the mixed tantras, the"
+" ten transmissions, and the six extremes"
 
 msgctxt "9f9cebb3022948f49aaf8f3aec7da58d"
 msgid "དགོངས་པ་ ཅན་ དང་ སྒྲ་ ཇི་བཞིན་ མ་ཡིན་པ་ དང༌ །"
