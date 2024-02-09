@@ -14718,7 +14718,7 @@ msgstr "The intent is elucidated in the authoritative statements."
 
 msgctxt "732b3ae6a94740b3b9dc3dedd4c14fec"
 msgid "མ་ བྱིན་པ་ ལ་ བྱང་ཆུབ་ སེམས །"
-msgstr ""
+msgstr "Bodhicitta to those who do not donate."
 
 msgctxt "72bc0303f2d245af9f56e1b756fd215e"
 msgid "ཀུན་རྫོབ་ སྟོན་པ་ རྫུན་སྨྲ་བ ། །"
