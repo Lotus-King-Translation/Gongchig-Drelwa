@@ -14656,7 +14656,7 @@ msgstr "Attachment, aversion, delusion and"
 
 msgctxt "c8d176c5fdae4557b94d4b4eb4419193"
 msgid "ང་རྒྱལ་ ཕྲག་དོག་ མི་ སྤང་ ངོ་ ཞེས་ ཟེར་ རོ །"
-msgstr ""
+msgstr "Pride and jealousy are not being abandoned."
 
 msgctxt "181f036bc1bd425787c6e07b51739dc0"
 msgid "འདི་␣ར་ ནི་ འདུལ་བ་␣ར་ མི་དགེ་བ་ བཀག་པ་"
