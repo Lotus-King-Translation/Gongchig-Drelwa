@@ -14601,6 +14601,8 @@ msgstr ""
 msgctxt "d7fea16e758748ba8409214192c7030c"
 msgid "སྟོང་གསུམ་ དར་ཡུག་ དང་ སྙིང་པོ་␣འི་ མདོ་␣ར་ དཔེ་ དགུ་␣ས་ བསྟན་པ་ སོགས་"
 msgstr ""
+"In the Sutra of The Three Thousand Silk Cloth and the Essence Sutra, it is "
+"shown by nine examples and so forth,"
 
 msgctxt "95919d5931de4ad499cf140ae7a8aa36"
 msgid "སྤོང་བ་␣འི་ ལམ་པ་ མིན་ བསྒྱུར་བ་␣འི་ ལམ་ ཡིན་ ནོ ། །"
