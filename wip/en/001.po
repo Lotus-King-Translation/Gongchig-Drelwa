@@ -14627,7 +14627,7 @@ msgstr ""
 
 msgctxt "fe13adc0c82545b6b6f4259c1e90f0e4"
 msgid "མི་དགེ་ དགེ་བ་␣ར་ འགྱུར་ ཏེ་"
-msgstr ""
+msgstr "Then the non-virtue would become virtue,"
 
 msgctxt "e790bb78cff7460e9d76884574dc943c"
 msgid "རྒྱུ་འབྲས་ ཀྱི་ བབ་ དང་ འགལ་བ་␣འི་ ཕྱིར་ སྤོང་བ་ ཡིན་ ན་␣འང་"
