@@ -14606,7 +14606,7 @@ msgstr ""
 
 msgctxt "95919d5931de4ad499cf140ae7a8aa36"
 msgid "སྤོང་བ་␣འི་ ལམ་པ་ མིན་ བསྒྱུར་བ་␣འི་ ལམ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "It is not a path of abandonment, but a path of transformation."
 
 msgctxt "57e7edfdeb71499398416422ee9845e6"
 msgid "དེ་ལྟར་ མིན་པ་ བསྒྱུར་བ་␣འི་ ལམ་པ་ ཡིན་ ན་"
