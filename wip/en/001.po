@@ -14701,6 +14701,7 @@ msgstr "The implied meaning and the words are not literal,"
 msgctxt "82b76224dcf14f1aa85fa55f1d2940ed"
 msgid "ཚུལ་བཞིན་ ལ་␣ས་ སྦས་དོན་ སྤྱི་ བཤད་ ཤས་ ཆེ་བ་␣འི་ ཕྱིར་ རོ ། །"
 msgstr ""
+"This is because most of the hidden meaning is explained suitably in general."
 
 msgctxt "105e243f7b91419db6b78e38dd3ab249"
 msgid ""
