@@ -14616,6 +14616,8 @@ msgctxt "9e7b64fc12cc4ee088bc9cc98568c4a5"
 msgid ""
 "ཀུན་ ནས་ ཉོན་མོངས་ སོགས་ བདུད་ བཅོམ་ ཕྱིར་ བཅོམ་ལྡན་འདས་ ཞེས་ བྱ་ ཞེས་པ་ དང་"
 msgstr ""
+"This contradicts the statement that the Blessed One is so-called because he "
+"has defeated the total afflictions and so forth."
 
 msgctxt "4a0971a258b945f5a98976014b09116c"
 msgid "འགལ་བ་ དང་ དུག་ གསུམ་ གཞི་མ་གྲུབ་པ་␣ས་ བསྒྱུར་བ་␣ས་ འགྱུར་ ན་"
