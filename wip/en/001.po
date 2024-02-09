@@ -14632,6 +14632,8 @@ msgstr "Then the non-virtue would become virtue,"
 msgctxt "e790bb78cff7460e9d76884574dc943c"
 msgid "རྒྱུ་འབྲས་ ཀྱི་ བབ་ དང་ འགལ་བ་␣འི་ ཕྱིར་ སྤོང་བ་ ཡིན་ ན་␣འང་"
 msgstr ""
+"Therefore, it would contradict the condition of cause and effect. Even if it"
+" is abandoned, "
 
 msgctxt "aede3544fbd54eaebf19558f8519a741"
 msgid "སྙིང་པོ་ རྟག་པ་ དང་ འགལ་བ་␣འི་ ཕྱིར་"
