@@ -14730,7 +14730,7 @@ msgstr ""
 
 msgctxt "c86b0f4343714440a3128182ed4d968c"
 msgid "ཚངས་པ་␣འི་ གནས་ བཞི་ བུད་མེད་ ཡིན ། །"
-msgstr ""
+msgstr "The four abodes of Brahma are women."
 
 msgctxt "e011e0948da141b7b6b5cbddcefabd69"
 msgid "དགོངས་པ་ ཡིས་ ནི་ བཤད་པ་ ལ ། །"
