@@ -14771,6 +14771,8 @@ msgstr "Then, they hold the speech as it is."
 msgctxt "62c9dae679014901871a3bf9957cc7fb"
 msgid "ཞེས་པ་␣ས་ དུག་ གསུམ་ འབྲེལ་བ་␣འི་ ལ་␣ས་ སྔགས་ སུ་␣འང་ མི་དགེ་བ་ ལ་"
 msgstr ""
+"This means that the actions associated with the three poisons are non-"
+"virtuous even in the mantra,"
 
 msgctxt "95c03fe5591f49ffa040eb13c9d6d2e4"
 msgid "དེ་ མེད་ ན་ སྔགས་ སུ་␣འང་ དགེ་བ་ ཡིན་ ནོ །"
