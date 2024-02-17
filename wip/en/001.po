@@ -14766,7 +14766,7 @@ msgstr "It is said there is nothing other than this statement."
 
 msgctxt "3a435484d181433e8d30e4584dcd43aa"
 msgid "དེ་ནས་ ཇི་བཞིན་ སྨྲ་␣ར་ འཛིན་ ཏོ །"
-msgstr ""
+msgstr "Then, they hold the speech as it is."
 
 msgctxt "62c9dae679014901871a3bf9957cc7fb"
 msgid "ཞེས་པ་␣ས་ དུག་ གསུམ་ འབྲེལ་བ་␣འི་ ལ་␣ས་ སྔགས་ སུ་␣འང་ མི་དགེ་བ་ ལ་"
