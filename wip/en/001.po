@@ -14762,7 +14762,7 @@ msgstr "Not realizing the meaning of this statement."
 
 msgctxt "b1f0d0984b594a819d2911df4f8b6b0b"
 msgid "གསུངས་པ་ འདི་ ལ་␣ས་ གཞན་ མིན་ ཞེས ། །"
-msgstr ""
+msgstr "It is said there is nothing other than this statement."
 
 msgctxt "3a435484d181433e8d30e4584dcd43aa"
 msgid "དེ་ནས་ ཇི་བཞིན་ སྨྲ་␣ར་ འཛིན་ ཏོ །"
