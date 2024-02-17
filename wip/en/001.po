@@ -14758,7 +14758,7 @@ msgstr "Those who are ignorant about the words of the intent."
 
 msgctxt "632b3bddd94747bb93025028a6266eb0"
 msgid "གསུངས་པ་␣འི་ དོན་ འདི་ མ་ རྟོགས་ ནས ། ༑"
-msgstr ""
+msgstr "Not realizing the meaning of this statement."
 
 msgctxt "b1f0d0984b594a819d2911df4f8b6b0b"
 msgid "གསུངས་པ་ འདི་ ལ་␣ས་ གཞན་ མིན་ ཞེས ། །"
