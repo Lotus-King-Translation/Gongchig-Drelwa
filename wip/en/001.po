@@ -14738,7 +14738,7 @@ msgstr "To explain the intent,"
 
 msgctxt "99285056b2254e31891466dd56b0a57d"
 msgid "བྱིས་པ་ རྣམས་ ནི་ ཡི་ག་␣ར་ རྟོགས ། །"
-msgstr ""
+msgstr "Children realize as they wish,"
 
 msgctxt "7e5fd0e4b5d84f2ab02e49bdafd72df5"
 msgid "རྗེ་ རྗེ་  ཐེག་པ་␣ར་ གནས་ འདོད་ ཀྱང་ ། །"
