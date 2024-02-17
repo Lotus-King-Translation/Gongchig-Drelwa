@@ -14722,7 +14722,7 @@ msgstr "Bodhicitta to those who do not donate."
 
 msgctxt "72bc0303f2d245af9f56e1b756fd215e"
 msgid "ཀུན་རྫོབ་ སྟོན་པ་ རྫུན་སྨྲ་བ ། །"
-msgstr ""
+msgstr "Teaching the relative and speaking falsehood,"
 
 msgctxt "ca96e288e7ab43fd85e91c9f432fdc80"
 msgid "ཕུང་པོ་ སྲོག་ཆགས་ གྱུར་པ་ སྟེ ། །"
