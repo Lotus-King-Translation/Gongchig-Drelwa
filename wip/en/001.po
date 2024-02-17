@@ -14726,7 +14726,7 @@ msgstr "Teaching the relative and speaking falsehood,"
 
 msgctxt "ca96e288e7ab43fd85e91c9f432fdc80"
 msgid "ཕུང་པོ་ སྲོག་ཆགས་ གྱུར་པ་ སྟེ ། །"
-msgstr ""
+msgstr "The aggregates become living beings."
 
 msgctxt "c86b0f4343714440a3128182ed4d968c"
 msgid "ཚངས་པ་␣འི་ གནས་ བཞི་ བུད་མེད་ ཡིན ། །"
