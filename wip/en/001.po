@@ -14776,7 +14776,7 @@ msgstr ""
 
 msgctxt "95c03fe5591f49ffa040eb13c9d6d2e4"
 msgid "དེ་ མེད་ ན་ སྔགས་ སུ་␣འང་ དགེ་བ་ ཡིན་ ནོ །"
-msgstr ""
+msgstr "If they are not, they are virtuous even in the mantra."
 
 msgctxt "5f36f103a2ca41c8a67effb5818105e9"
 msgid ""
