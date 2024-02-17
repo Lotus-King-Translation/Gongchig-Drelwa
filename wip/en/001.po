@@ -14734,7 +14734,7 @@ msgstr "The four abodes of Brahma are women."
 
 msgctxt "e011e0948da141b7b6b5cbddcefabd69"
 msgid "དགོངས་པ་ ཡིས་ ནི་ བཤད་པ་ ལ ། །"
-msgstr ""
+msgstr "To explain the intent,"
 
 msgctxt "99285056b2254e31891466dd56b0a57d"
 msgid "བྱིས་པ་ རྣམས་ ནི་ ཡི་ག་␣ར་ རྟོགས ། །"
