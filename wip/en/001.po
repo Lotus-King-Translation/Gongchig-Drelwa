@@ -14742,7 +14742,7 @@ msgstr "Children realize as they wish,"
 
 msgctxt "7e5fd0e4b5d84f2ab02e49bdafd72df5"
 msgid "རྗེ་ རྗེ་  ཐེག་པ་␣ར་ གནས་ འདོད་ ཀྱང་ ། །"
-msgstr ""
+msgstr "Although one wishes to abide in the lordly vehicle,"
 
 msgctxt "d952d646f8b042ba925f6e3682cca271"
 msgid "ཆོས་ཉིད་ དེ་ ཡི་ ཡེ་ཤེས་ སོ ། །"
