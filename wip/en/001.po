@@ -7992,7 +7992,7 @@ msgstr "Attachment is a lesser fault and it is difficult to remove."
 
 msgctxt "3f65959df6da4f0cac04dfd16d4db015"
 msgid "ཞེ་སྡང་ ནི་ ཉེས་པ་ ཆེ་ ལ་ འབྲལ་ དཀའ །"
-msgstr "Aversion is a greater fault and it is difficult to separate."
+msgstr "Aversion is a greater fault and it is difficult to remove."
 
 msgctxt "344a605d3c3c45edadc4aac40a00286a"
 msgid "གཏི་མུག་ ནི་ ཉེས་པ་ ཡང་ ཆེ་ ལ་ འབྲལ་ ཡང་ དཀའ །"
