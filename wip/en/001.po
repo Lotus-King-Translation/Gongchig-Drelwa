@@ -14872,6 +14872,7 @@ msgstr ""
 msgctxt "060340fc151842ccb0101514ba35fb32"
 msgid "དཔལ་མགོན་ ཀླུ་སྒྲུབ་ ཀྱི་ དབུ་མ་ རིན་ཆེན་ ཕྲེང་བ་ ལ་␣ས །"
 msgstr ""
+"According to the Precious Garland by the glorious protector Nagarjuna:"
 
 msgctxt "d8aa173af4084b47a5086e74da0217f8"
 msgid "མདོར་ན་ སངས་རྒྱས་ བསྟན་ འདི་དག  །"
