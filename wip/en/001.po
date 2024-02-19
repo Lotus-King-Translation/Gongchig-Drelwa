@@ -11863,7 +11863,7 @@ msgctxt "e97710487ecc4ed78fa464c2c2ee6e65"
 msgid "སྐུ་ མཚན་དཔེ་ ཐུགས་ བྲལ་འབྲས་ ཡེ་ཤེས་ དང་ ལྡན་ ཅིང་ །"
 msgstr ""
 "The body is endowed with marks and signs, the mind is the result of "
-"separation endowed with wisdom, "
+"disconnection endowed with wisdom, "
 
 msgctxt "a34d3f905bc74c97821dc99b0001b69c"
 msgid "མཚན་ བཅོམ་ལྡན་འདས་ འབོད་པ་ དང༌ །"
