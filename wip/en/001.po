@@ -14850,6 +14850,8 @@ msgctxt "3dbebde4bb9d4d6eba093bb0ee257ed5"
 msgid ""
 "འདི་␣ར་ ཕར་ཕྱིན་ དྲུག་ ནི་ མདོ་སྔགས་ ཀྱི་ ཐེག་པ་ གསུམ་ ཀ་␣འི་ ལམ་ ཡིན་ ཏེ་"
 msgstr ""
+"In this [system], the six paramitas are the paths of all three vehicles, "
+"sutra and tantra."
 
 msgctxt "c4e8dfb3a94040de88673c6dc5d8f943"
 msgid "ཚོགས་ གཉིས་ མ་ བརྟེན་པ་␣ར་ སངས་རྒྱས་པ་␣འི་ ཐབས་མེད་པ་␣འི་ ཕྱིར །"
