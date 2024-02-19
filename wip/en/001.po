@@ -14789,7 +14789,7 @@ msgstr ""
 
 msgctxt "a1444c0936684457be16685944b7567d"
 msgid "འབྲས་བུ་ ཞི་བདེ་ མི་ གནས་པ་␣འི་ མྱང་འདས །"
-msgstr ""
+msgstr "The result is peaceful non-dwelling nirvana."
 
 msgctxt "14fe6ad89b094678afd56199b183e8b4"
 msgid "ཟུང་འཇུག་ བདེ་ཆེན་ གསུམ་ ཐོབ་ ཟེར །"
