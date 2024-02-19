@@ -14813,6 +14813,8 @@ msgctxt "3c9cdc13046e487a99a46d63babf8bd4"
 msgid ""
 "གང་ཟག་ གཅིག་ སངས་རྒྱས་པ་␣འི་ རྒྱུ་རྐྱེན་ ཐབས་ ཀྱི་ རིམ་པ་ ཡིན་པ་␣འི་ ཕྱིར །"
 msgstr ""
+"Therefore, these are the stages of the method and the causes and conditions "
+"for one person to become a buddha."
 
 msgctxt "d490c9f4738b4c3eb21762e1c2f81e1d"
 msgid "དཔེར་ན་ རྒྱལ་པོ་ མཁས་པ་␣ས་ ཁྲིམས་ འཆའ་བ་ བཞིན་ ནོ ། །"
