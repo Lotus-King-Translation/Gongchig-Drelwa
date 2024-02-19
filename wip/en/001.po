@@ -14876,7 +14876,7 @@ msgstr ""
 
 msgctxt "d8aa173af4084b47a5086e74da0217f8"
 msgid "མདོར་ན་ སངས་རྒྱས་ བསྟན་ འདི་དག  །"
-msgstr ""
+msgstr "In brief, these teachings of the Buddha are"
 
 msgctxt "19796020477a4d29ab89be4cb31d2f1a"
 msgid "ཕ་རོལ་ ཕྱིན་ དྲུག་ ཁོ་ན་ ཡོད །"
