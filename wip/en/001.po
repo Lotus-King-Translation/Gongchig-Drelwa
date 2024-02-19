@@ -14866,6 +14866,8 @@ msgstr "The first three are as follows:"
 msgctxt "25fff27b2cef4b09bf6dc599f20a8111"
 msgid "བསོད་ནམས་ ཐ་མ་ གཉིས་ ཡེ་ཤེས་ ཀྱི་ ཚོགས་ བརྩོན་འགྲུས་ གཉིས་ ཀྱི་ གྲོགས་"
 msgstr ""
+"The last two merits, the accumulation of wisdom, and the companion of the "
+"two perseverances."
 
 msgctxt "060340fc151842ccb0101514ba35fb32"
 msgid "དཔལ་མགོན་ ཀླུ་སྒྲུབ་ ཀྱི་ དབུ་མ་ རིན་ཆེན་ ཕྲེང་བ་ ལ་␣ས །"
