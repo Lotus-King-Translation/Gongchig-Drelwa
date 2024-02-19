@@ -14830,7 +14830,7 @@ msgstr "First, one must give the healing and purifying."
 
 msgctxt "27f85bbc16b64538a753031d2b55d5a9"
 msgid "སོགས་ གསུངས་པ་␣ས །"
-msgstr ""
+msgstr "And so forth. As it is said."
 
 msgctxt "69f86934696f4d34813dca3134f49660"
 msgid ""
