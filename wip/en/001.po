@@ -14837,6 +14837,8 @@ msgid ""
 "སྔགས་སྡོམ་ མན་ཆད་ ལ་ བསླབ་པ་ གསུམ་ ལམ་རིམ་ སྤྱི་ཁྱབ་ ཏུ་ དགོས་པ་ ཁོ་ན་ ཡིན་ "
 "ནོ །"
 msgstr ""
+"The three trainings are only required in the general stages of the path "
+"below the tantric vows."
 
 msgctxt "9c52b8c017284ba1bfcc263f44958d84"
 msgid "ལྷན་␣༽༽  སོ་ བྱང་ སྔགས་ གསུམ་ ལམ་ མི་ གཅིག་པ་ ཐ་དད་ ཡིན་ ཟེར་ ཡང༌ །"
