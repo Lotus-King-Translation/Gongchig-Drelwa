@@ -14915,7 +14915,7 @@ msgstr ""
 
 msgctxt "43f3537be4f84dfa87ad38229e8c86c4"
 msgid "གཏི་མུག་ རྣམ་དག་ བསྒོམ་པ་ ཡི ། །"
-msgstr ""
+msgstr "Meditating on the purity of delusion, "
 
 msgctxt "50985280e97e4019a44a2cbf23b62965"
 msgid "རྣམ་པ་␣ར་ སྣང་ མཛད་ ཉིད་ དུ་ འགྱུར ། །"
