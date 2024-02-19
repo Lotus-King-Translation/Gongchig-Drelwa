@@ -31,7 +31,7 @@ msgid ""
 "སྣ་ཚོགས་ བསོད་ནམས་ འོ་མ་␣འི་ མཚོ་ ལ་ བརྩོན་འགྲུས་ སྐྱ་བ་␣ས་ བསྲུབས་པ་ ལ་␣ས "
 "། །"
 msgstr ""
-" By churning the milk lake of different kinds of merit with the churning "
+"By churning the milk lake of different kinds of merit with the churning "
 "stick of perseverance."
 
 msgctxt "d6fc2fb4f2b849f68fcc59331d89d07b"
