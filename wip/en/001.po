@@ -14880,7 +14880,7 @@ msgstr "In brief, these teachings of the Buddha are"
 
 msgctxt "19796020477a4d29ab89be4cb31d2f1a"
 msgid "ཕ་རོལ་ ཕྱིན་ དྲུག་ ཁོ་ན་ ཡོད །"
-msgstr ""
+msgstr "exclusively the six perfections."
 
 msgctxt "058de9334ecb4a2b82cd31a959f17299"
 msgid "ཅེས་པ་ སོགས་ རྒྱ་ ཆེ་␣ར་ གསུངས་པ་␣ས་ ཤེས་ སོ །"
