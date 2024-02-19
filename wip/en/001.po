@@ -14906,6 +14906,8 @@ msgctxt "60200c61d74f40989061f7799b149787"
 msgid ""
 "གཞི་ བསྒྱུར་བ་␣འི་ ལམ་པ་ མི་ སྲིད་པ་ གོང་ དུ་ བསྒྲུབས་ ཟིན་པ་␣འི་ ཕྱིར་"
 msgstr ""
+"The impossibility of the path being transformed into the basis has already "
+"been proven above. "
 
 msgctxt "1dbd34466f9d4ddb89786e4bb7361180"
 msgid "ཀུན་ ཏུ་ ཁྭ་ ཀྱི་ རྒྱུད་ ལ་␣ས །"
