@@ -14856,6 +14856,8 @@ msgstr ""
 msgctxt "c4e8dfb3a94040de88673c6dc5d8f943"
 msgid "ཚོགས་ གཉིས་ མ་ བརྟེན་པ་␣ར་ སངས་རྒྱས་པ་␣འི་ ཐབས་མེད་པ་␣འི་ ཕྱིར །"
 msgstr ""
+"This is because without relying on the two accumulations, there is no method"
+" for attaining buddhahood."
 
 msgctxt "6aba49b0569d430db2a705a884e0ef05"
 msgid "དེ་␣འང་ དང་པོ་ གསུམ་"
