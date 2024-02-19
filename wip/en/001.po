@@ -14793,7 +14793,7 @@ msgstr "The result is peaceful non-dwelling nirvana."
 
 msgctxt "14fe6ad89b094678afd56199b183e8b4"
 msgid "ཟུང་འཇུག་ བདེ་ཆེན་ གསུམ་ ཐོབ་ ཟེར །"
-msgstr ""
+msgstr "It is said that the threefold great bliss of union is attained."
 
 msgctxt "ad614c4446dd436e83802efa9593259d"
 msgid "འདི་␣ར་ རྡོ་རྗེ་ ཐེག་པ་␣འི་ ལམ་རིམ་ གྱི་ བསླབ་པ་"
