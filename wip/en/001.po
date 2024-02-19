@@ -14806,6 +14806,8 @@ msgid ""
 "དེ་ གསུམ་ ཀ་␣འི་ གང་ཟག་ ཆོས་ འབྲས་བུ་ སོགས་ བཟང་ངན་ བསལ་ བཞག་ མེད་པ་␣ས་ "
 "ཐམས་ཅད་ དགོས་ ཏེ །"
 msgstr ""
+"Since there is no distinction between good and bad individuals, dharma, "
+"results, and so forth, all three are necessary."
 
 msgctxt "3c9cdc13046e487a99a46d63babf8bd4"
 msgid ""
