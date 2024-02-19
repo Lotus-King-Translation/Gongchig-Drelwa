@@ -14861,7 +14861,7 @@ msgstr ""
 
 msgctxt "6aba49b0569d430db2a705a884e0ef05"
 msgid "དེ་␣འང་ དང་པོ་ གསུམ་"
-msgstr ""
+msgstr "The first three are as follows:"
 
 msgctxt "25fff27b2cef4b09bf6dc599f20a8111"
 msgid "བསོད་ནམས་ ཐ་མ་ གཉིས་ ཡེ་ཤེས་ ཀྱི་ ཚོགས་ བརྩོན་འགྲུས་ གཉིས་ ཀྱི་ གྲོགས་"
