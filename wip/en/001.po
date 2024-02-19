@@ -14899,6 +14899,8 @@ msgstr "being the lineage is explained in both the paramitas and mantra."
 msgctxt "ff71b8df6f584fafa22e2e5842494e66"
 msgid "ཉོན་མོངས་པ་ དག་པ་␣འམ་ བྲལ་བ་␣འི་ འབྲས་བུ་ བདེ་བ་␣ར་ གཤེགས་པ་ ཉིད་ དེ་"
 msgstr ""
+"The result of purification or disconnection of the afflictions is the state "
+"of sugata. "
 
 msgctxt "60200c61d74f40989061f7799b149787"
 msgid ""
