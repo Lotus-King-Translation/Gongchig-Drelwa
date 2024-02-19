@@ -14843,6 +14843,8 @@ msgstr ""
 msgctxt "9c52b8c017284ba1bfcc263f44958d84"
 msgid "ལྷན་␣༽༽  སོ་ བྱང་ སྔགས་ གསུམ་ ལམ་ མི་ གཅིག་པ་ ཐ་དད་ ཡིན་ ཟེར་ ཡང༌ །"
 msgstr ""
+"Addendum: It is said that the paths of the three: solitary realizers, "
+"bodhisattvas, and mantra practitioners are not the same but different."
 
 msgctxt "3dbebde4bb9d4d6eba093bb0ee257ed5"
 msgid ""
