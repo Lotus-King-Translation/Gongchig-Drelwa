@@ -14894,7 +14894,7 @@ msgstr ""
 
 msgctxt "1cc4e0f957ee40d3b5f941b913638fcd"
 msgid "རིགས་ སུ་ ཕར་ཕྱིན་ དང་ སྔགས་ གཉིས་ཀ་ ནས་ བཤད་ ཟེར་ རོ ། །"
-msgstr ""
+msgstr "being the lineage is explained in both the paramitas and mantra."
 
 msgctxt "ff71b8df6f584fafa22e2e5842494e66"
 msgid "ཉོན་མོངས་པ་ དག་པ་␣འམ་ བྲལ་བ་␣འི་ འབྲས་བུ་ བདེ་བ་␣ར་ གཤེགས་པ་ ཉིད་ དེ་"
