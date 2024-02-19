@@ -14884,7 +14884,7 @@ msgstr "exclusively the six perfections."
 
 msgctxt "058de9334ecb4a2b82cd31a959f17299"
 msgid "ཅེས་པ་ སོགས་ རྒྱ་ ཆེ་␣ར་ གསུངས་པ་␣ས་ ཤེས་ སོ །"
-msgstr ""
+msgstr "And because of other extensive teachings, this can be known. "
 
 msgctxt "cab2957ce68d47209c3e84e95200f037"
 msgid "རྡོ་␣༽༽  ཉོན་མོངས་ སངས་རྒྱས་ ཀྱི་ གདུང་ དང་"
