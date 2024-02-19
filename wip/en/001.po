@@ -14826,7 +14826,7 @@ msgstr "Likewise, according to the two segments [of the Hevajra root tantra]:"
 
 msgctxt "1ddf1fff57d445168426a2db538027d5"
 msgid "དང་པོ་ གསོ་སྦྱོང་ སྦྱིན་པ་␣ར་ བྱ །"
-msgstr ""
+msgstr "First, one must give the healing and purifying."
 
 msgctxt "27f85bbc16b64538a753031d2b55d5a9"
 msgid "སོགས་ གསུངས་པ་␣ས །"
