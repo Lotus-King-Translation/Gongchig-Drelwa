@@ -14818,7 +14818,7 @@ msgstr ""
 
 msgctxt "d490c9f4738b4c3eb21762e1c2f81e1d"
 msgid "དཔེར་ན་ རྒྱལ་པོ་ མཁས་པ་␣ས་ ཁྲིམས་ འཆའ་བ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "It is like a wise king who establishes laws."
 
 msgctxt "784be05a26aa48d69b0543e8e28b9d87"
 msgid "དེ་ལྟར་ ཡང་ བརྟག་ གཉིས་ ལ་␣ས །"
