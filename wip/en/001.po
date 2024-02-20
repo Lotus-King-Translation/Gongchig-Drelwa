@@ -14927,7 +14927,7 @@ msgstr "Meditating on the purity of aversion,"
 
 msgctxt "6219c6611a5d40dabd7896e021478cf9"
 msgid "མི་བསྐྱོད་པ་ ནི་ ཉིད་ དུ་ འགྱུར ། །"
-msgstr ""
+msgstr "One will become Akshobhya himself."
 
 msgctxt "8b02db2e335f4735ab12bfe75f24ff4e"
 msgid "ཕྲག་དོག་ རྣམ་དག་ བསྒོམ་པ་ ཡི ། །"
