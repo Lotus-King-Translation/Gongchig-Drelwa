@@ -14979,7 +14979,7 @@ msgstr "According to the Cloud of Jewels Sutra:"
 
 msgctxt "ab9d2233a0344176b1da3effa70109e5"
 msgid "སྲིད་པ་␣འི་ མྱ་ངན་ སྒྲོལ་བ་པོ ། །"
-msgstr ""
+msgstr "The liberator from the misery of existence,"
 
 msgctxt "31e14c3275af41fca92a0f2b842f9bf9"
 msgid "ཉོན་མོངས་ བསྒྲལ་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
