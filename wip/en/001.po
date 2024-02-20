@@ -14983,7 +14983,7 @@ msgstr "The liberator from the misery of existence,"
 
 msgctxt "31e14c3275af41fca92a0f2b842f9bf9"
 msgid "ཉོན་མོངས་ བསྒྲལ་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
-msgstr ""
+msgstr "Homage to you who liberate from afflictions."
 
 msgctxt "87eae2666d8a4950a449e5914eea8a89"
 msgid "ཞེས་ དང༌ །"
