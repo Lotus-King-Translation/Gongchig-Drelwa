@@ -14919,7 +14919,7 @@ msgstr "Meditating on the purity of delusion, "
 
 msgctxt "50985280e97e4019a44a2cbf23b62965"
 msgid "རྣམ་པ་␣ར་ སྣང་ མཛད་ ཉིད་ དུ་ འགྱུར ། །"
-msgstr ""
+msgstr "One will become Vairochana himself."
 
 msgctxt "b51dd053e47f46cc987c3c4ee34913fb"
 msgid "ཞེ་སྡང་ རྣམ་དག་ བསྒོམ་པ་ ཡི ། །"
