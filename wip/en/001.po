@@ -14931,7 +14931,7 @@ msgstr "One will become Akshobya himself."
 
 msgctxt "8b02db2e335f4735ab12bfe75f24ff4e"
 msgid "ཕྲག་དོག་ རྣམ་དག་ བསྒོམ་པ་ ཡི ། །"
-msgstr ""
+msgstr "Meditating on the purity of jealousy,"
 
 msgctxt "d3b6260cbc2e4cf2a5064ad2c13ff733"
 msgid "དོན་ཡོད་ གྲུབ་པ་ ཉིད་ དུ་ འགྱུར ། །"
