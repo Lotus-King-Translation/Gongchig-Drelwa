@@ -14951,7 +14951,7 @@ msgstr "And."
 
 msgctxt "c941b404d3464c8b86b6ef09a619b791"
 msgid "མགོན་པོ་ འབྲི་གུང་པ་ ཆེན་པོ་␣ས །"
-msgstr ""
+msgstr "The great lord Drigungpa said,"
 
 msgctxt "58fdb27f729a4a5f94343ef6754be319"
 msgid "དགྲ་གཉེན་ དུ་ ཆོད་པ་␣འི་ དཔའ་བོ་ དང་ ། །"
