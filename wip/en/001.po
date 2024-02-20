@@ -14999,7 +14999,7 @@ msgstr "Attachment, aversion, delusion and"
 
 msgctxt "06207337d42e41f48a8fe1945c924169"
 msgid "དྲི་མ་ གཞན་ ཡང་ རྣམ་ མང་པོ ། །"
-msgstr ""
+msgstr "There are many other kinds of stains."
 
 msgctxt "b9da5dc7903e480ba695cbbd986561dc"
 msgid "ཁྱོད་ ཀྱི་ ཡེ་ཤེས་ མེ་ ཡིས་ བསྲེགས །"
