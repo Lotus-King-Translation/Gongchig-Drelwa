@@ -14939,7 +14939,7 @@ msgstr "One will become Amoghasiddhih himself."
 
 msgctxt "5b18954bdbd24c569673571f9839eaae"
 msgid "ང་རྒྱལ་ རྣམ་དག་ བསྒོམ་པ་ ཡི ། །"
-msgstr ""
+msgstr "Meditating on the purity of pride,"
 
 msgctxt "40acd9490a8f485cb0c8e9b06cdcaf3b"
 msgid "རིན་ཆེན་ འབྱུང་ ལྡན་ ཉིད་ དུ་ འགྱུར །"
