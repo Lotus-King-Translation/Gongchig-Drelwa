@@ -14935,7 +14935,7 @@ msgstr "Meditating on the purity of jealousy,"
 
 msgctxt "d3b6260cbc2e4cf2a5064ad2c13ff733"
 msgid "དོན་ཡོད་ གྲུབ་པ་ ཉིད་ དུ་ འགྱུར ། །"
-msgstr ""
+msgstr "One will become Amoghasiddhih himself."
 
 msgctxt "5b18954bdbd24c569673571f9839eaae"
 msgid "ང་རྒྱལ་ རྣམ་དག་ བསྒོམ་པ་ ཡི ། །"
