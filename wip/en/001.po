@@ -14963,7 +14963,7 @@ msgstr "The dakini who realizes relatives as empty, both of them"
 
 msgctxt "674c28114e514de6a2716ecf5e8e1d96"
 msgid "སེམས་ འགྱུར་བ་ མེད་པ་␣འི་ རྣལ་འབྱོར་པ ། །"
-msgstr ""
+msgstr "Are the yogins whose minds are unchanging."
 
 msgctxt "b5aac06b87404b51aa9535f6296fd152"
 msgid "དུས་རྒྱུན་ ཆད་ མེད་པ་ སྒོར་ རོ་ རོ ། །"
