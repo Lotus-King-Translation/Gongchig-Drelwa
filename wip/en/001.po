@@ -14959,7 +14959,7 @@ msgstr "The hero who has cut off enemies to friends and"
 
 msgctxt "8268b21333ff487e81fb2a4e510b7158"
 msgid "གཉེན་ སྟོང་པ་␣ར་ རྟོགས་པ་␣འི་ མཁའ་འགྲོ་ གཉིས ། །"
-msgstr ""
+msgstr "The dakini who realizes relatives as empty, both of them"
 
 msgctxt "674c28114e514de6a2716ecf5e8e1d96"
 msgid "སེམས་ འགྱུར་བ་ མེད་པ་␣འི་ རྣལ་འབྱོར་པ ། །"
