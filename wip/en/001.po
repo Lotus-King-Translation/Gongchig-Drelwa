@@ -14955,7 +14955,7 @@ msgstr "The great lord Drigungpa said,"
 
 msgctxt "58fdb27f729a4a5f94343ef6754be319"
 msgid "དགྲ་གཉེན་ དུ་ ཆོད་པ་␣འི་ དཔའ་བོ་ དང་ ། །"
-msgstr "The hero who has cut off enemies to friends and"
+msgstr "The hero who has cut off enemies to relatives and"
 
 msgctxt "8268b21333ff487e81fb2a4e510b7158"
 msgid "གཉེན་ སྟོང་པ་␣ར་ རྟོགས་པ་␣འི་ མཁའ་འགྲོ་ གཉིས ། །"
