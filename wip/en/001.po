@@ -14991,7 +14991,7 @@ msgstr "And."
 
 msgctxt "539b2f6a55c84301a3932cbad48342d5"
 msgid "བྱང་ཆུབ་ སྙིང་པོ་␣ར་ བཞུགས་པ་ ན ། །"
-msgstr "When [he] was seated at the seat of enlightenment."
+msgstr "When [he] was seated at the essence of enlightenment."
 
 msgctxt "fdc7126f031148948f65b8742fcfaf32"
 msgid "འདོད་ཆགས་ ཞེ་སྡང་ གཏི་མུག་ དང་ ། །"
