@@ -15003,7 +15003,7 @@ msgstr "There are many other kinds of stains."
 
 msgctxt "b9da5dc7903e480ba695cbbd986561dc"
 msgid "ཁྱོད་ ཀྱི་ ཡེ་ཤེས་ མེ་ ཡིས་ བསྲེགས །"
-msgstr ""
+msgstr "They are burnt by your flaming wisdom."
 
 msgctxt "799ef2d1d3894abfb2e27ac839f296ea"
 msgid "ཞེས་པ་␣ས་"
