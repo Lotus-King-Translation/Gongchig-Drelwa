@@ -14943,7 +14943,7 @@ msgstr "Meditating on the purity of pride,"
 
 msgctxt "40acd9490a8f485cb0c8e9b06cdcaf3b"
 msgid "རིན་ཆེན་ འབྱུང་ ལྡན་ ཉིད་ དུ་ འགྱུར །"
-msgstr ""
+msgstr "One will become Ratnasambhava himself."
 
 msgctxt "c2d4844424784234afe26cc404e5e947"
 msgid "ཞེས་ དང༌ །"
