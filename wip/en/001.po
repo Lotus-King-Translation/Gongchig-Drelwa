@@ -14923,7 +14923,7 @@ msgstr "One will become Vairochana himself."
 
 msgctxt "b51dd053e47f46cc987c3c4ee34913fb"
 msgid "ཞེ་སྡང་ རྣམ་དག་ བསྒོམ་པ་ ཡི ། །"
-msgstr ""
+msgstr "Meditating on the purity of aversion,"
 
 msgctxt "6219c6611a5d40dabd7896e021478cf9"
 msgid "མི་བསྐྱོད་པ་ ནི་ ཉིད་ དུ་ འགྱུར ། །"
