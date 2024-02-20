@@ -14967,7 +14967,7 @@ msgstr "Are the yogins whose minds are unchanging."
 
 msgctxt "b5aac06b87404b51aa9535f6296fd152"
 msgid "དུས་རྒྱུན་ ཆད་ མེད་པ་ སྒོར་ རོ་ རོ ། །"
-msgstr ""
+msgstr "[They] will be at the door uninterruptedly."
 
 msgctxt "615ba872dd2e440189c28eef45b7b74a"
 msgid "ཞེས་ དང༌ །"
