@@ -15025,7 +15025,7 @@ msgstr "Therefore, it is called family and lineage."
 
 msgctxt "6a8918494ad841f190b548361f57e493"
 msgid "གཞན་ དུ་ ཉོན་མོངས་ ཉིད་ མ་ སྦྱངས་ ན་"
-msgstr ""
+msgstr "Otherwise, if the afflictions themselves are not purified,"
 
 msgctxt "88986de0e17143c194cba1b856976837"
 msgid ""
