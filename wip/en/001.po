@@ -15085,7 +15085,7 @@ msgstr "Likewise, according to the request by Kashyapa:"
 
 msgctxt "b7ecfe460f1e46d792e580d82e0adbfa"
 msgid "ཇི་ལྟར་ གྲོང་ཁྱེར་ དབུས་ ཀྱི་ མི་གཙང་ ལུད ། །"
-msgstr ""
+msgstr "Just like the unclean manure in the middle of the city,"
 
 msgctxt "8428f457e256421c8724b0d07e5e7633"
 msgid "དེ་ ནི་ བུ་རམ་ཤིང་པ་␣འི་ ཞིང་ ལ་ ཕན ། །"
