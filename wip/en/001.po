@@ -15097,7 +15097,7 @@ msgstr "Likewise the manure of the afflictions of the bodhisattva,"
 
 msgctxt "a842a49fbefa434bbaa97596d1a1049a"
 msgid "རྒྱལ་ དང་ རྒྱལ་བ་␣འི་ ཆོས་ ལ་ ཕན་པ་␣ར་ བྱེད །"
-msgstr ""
+msgstr "That benefits the conquerors and their dharma."
 
 msgctxt "782e821fccf0455a8a11fb404c7ed9ff"
 msgid ""
