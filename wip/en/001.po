@@ -15045,7 +15045,7 @@ msgstr ""
 
 msgctxt "14dbfd5981ba482ba99ff93780947984"
 msgid "དག་པ་␣ར་ བྱེད་ དགོས་ ཟེར་བ་␣ས་"
-msgstr ""
+msgstr "Thus they are needed to be purified. "
 
 msgctxt "a2f6b15e3f664815b26bd603b3ec0405"
 msgid "དེ་ ངེད་ དང་ མཐུན་ ཀྱང་"
