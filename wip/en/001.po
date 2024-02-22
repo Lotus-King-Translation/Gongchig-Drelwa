@@ -15064,6 +15064,8 @@ msgid ""
 "དེ་ ཟབ་ སྟེ་ རྩ་ རླུང་ མ་ དག་པ་␣འི་ གང་ཟག་ ལ་␣ས་ དག་པ་␣འི་ སྐུ་ དང་ ཡེ་ཤེས་ "
 "འབྱུང་ ཞིང༌ །"
 msgstr ""
+"This is profound because the bodies and wisdom occur to those persons with "
+"pure channels, winds, and drops."
 
 msgctxt "658a51175aad48f1be8e8f565d419c77"
 msgid "གཞན་ དུ་ ན་ དག་ རྒྱུ་␣འི་ དེ་ གསུམ་ མེད་ ན་"
