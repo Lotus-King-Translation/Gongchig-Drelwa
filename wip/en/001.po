@@ -15036,7 +15036,7 @@ msgstr ""
 
 msgctxt "c48a70ba0c7b4c88b9ba9a29a3361219"
 msgid "ངན་སོང་ གི་ གདུང་ ཡིན་པ་␣ས་ སོ །"
-msgstr ""
+msgstr "This is the family line of the bad migrations."
 
 msgctxt "0147ee199d054104a092727a08beea43"
 msgid ""
