@@ -15089,7 +15089,7 @@ msgstr "Just like the unclean manure in the middle of the city,"
 
 msgctxt "8428f457e256421c8724b0d07e5e7633"
 msgid "དེ་ ནི་ བུ་རམ་ཤིང་པ་␣འི་ ཞིང་ ལ་ ཕན ། །"
-msgstr "That benefits the field of sugarcane,"
+msgstr "That benefits the field of sugarcane."
 
 msgctxt "54ce2c9ea1d2401dba5f10199c970986"
 msgid "དེ་བཞིན་ བྱང་ཆུབ་ སེམས་དཔ་␣འི་ ཉོན་མོངས་ ལུད ། །"
