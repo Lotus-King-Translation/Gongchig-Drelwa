@@ -15040,6 +15040,8 @@ msgctxt "0147ee199d054104a092727a08beea43"
 msgid ""
 "ལྷན་␣༽༽  དུག་ གསུམ་ གྱིས་ རིམ་བ་ ཞིག་ རྩ་ རླུང་ ཐིག་ལེ་ གསུམ་ མ་ དག་པ་␣ས་"
 msgstr ""
+"Addendum: It is said that the three poisons destroy the stages because the "
+"channels, winds, and drops are impure,"
 
 msgctxt "14dbfd5981ba482ba99ff93780947984"
 msgid "དག་པ་␣ར་ བྱེད་ དགོས་ ཟེར་བ་␣ས་"
