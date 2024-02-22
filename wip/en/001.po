@@ -15056,6 +15056,8 @@ msgstr "Although this accords with us,"
 msgctxt "d06ce8e4b3234683a483ecce6fd8b424"
 msgid "འདི་␣ར་ རྩ་ རླུང་ ཐིག་ལེ་ ནི་ སྙིགས་མ་ སྟེ་ དྲུག་ དང་ བཅས་པ་"
 msgstr ""
+"In this [system], the channels, winds, and drops are associated with six "
+"degenertions."
 
 msgctxt "24e315cbe3634cef89a06d79176ad5fe"
 msgid ""
