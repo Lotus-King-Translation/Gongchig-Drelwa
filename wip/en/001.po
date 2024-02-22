@@ -15021,7 +15021,7 @@ msgstr ""
 
 msgctxt "a5c518f90505437c93e528625a3a20ea"
 msgid "རིགས་ དང་ གདུངས་ ཞེས་ གསུངས་ སོ ། །"
-msgstr ""
+msgstr "Therefore, it is called family and lineage."
 
 msgctxt "6a8918494ad841f190b548361f57e493"
 msgid "གཞན་ དུ་ ཉོན་མོངས་ ཉིད་ མ་ སྦྱངས་ ན་"
