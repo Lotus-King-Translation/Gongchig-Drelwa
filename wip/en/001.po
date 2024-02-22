@@ -15077,7 +15077,7 @@ msgstr "The results of purification will not occur."
 
 msgctxt "9b9cca2f9b9e420d9c48388c52e1666d"
 msgid "རྒྱུ་ མེད་པ་␣འི་ འབྲས་བུ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "It is like a result without a cause."
 
 msgctxt "43ebfa5255f14e239477e18def5d651d"
 msgid "དེ་ལྟར་ ཡང་ འོད་སྲུང་ གིས་ ཞུས་པ་ ལ་␣ས །"
