@@ -15073,7 +15073,7 @@ msgstr "Otherwise, if these three causes of purification are not present."
 
 msgctxt "75cabc19ef054dd49e4e1d2080fff802"
 msgid "དག་པ་␣འི་ འབྲས་བུ་ མི་ འབྱུང་ སྟེ་"
-msgstr ""
+msgstr "The results of purification will not occur."
 
 msgctxt "9b9cca2f9b9e420d9c48388c52e1666d"
 msgid "རྒྱུ་ མེད་པ་␣འི་ འབྲས་བུ་ བཞིན་ ནོ ། །"
