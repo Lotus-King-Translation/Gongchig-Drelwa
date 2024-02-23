@@ -15103,6 +15103,8 @@ msgctxt "782e821fccf0455a8a11fb404c7ed9ff"
 msgid ""
 "ཅེས་པ་ བཞིན་ རྩ་ རླུང་ ཐིག་ལེ་ མ་ དག་པ་ འདམ་རྫབ་ དང་ འདྲ་བ་ དེ་ རྒྱུ་ བྱས་"
 msgstr ""
+"Thus, the impure channels, winds, and drops are like a foul swamp that acts "
+"as the cause, "
 
 msgctxt "2c0ec44ed80544d0b1d5ca426c714093"
 msgid "རྐྱེན་ བླ་མ་ དམ་པ་␣འི་ གདམས་ངག་ ལ་ བརྟེན་ ནས་"
