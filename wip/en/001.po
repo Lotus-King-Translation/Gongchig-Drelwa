@@ -15108,7 +15108,7 @@ msgstr ""
 
 msgctxt "2c0ec44ed80544d0b1d5ca426c714093"
 msgid "རྐྱེན་ བླ་མ་ དམ་པ་␣འི་ གདམས་ངག་ ལ་ བརྟེན་ ནས་"
-msgstr ""
+msgstr "By relying on the instructions of a holy guru as the condition,"
 
 msgctxt "83aa508b5041421bb520ff0b7baf14b2"
 msgid "བརྩོན་འགྲུས་ བརྩམས་པ་␣ས་ དག་པ་ ཐོབ་པ་␣ར་ འགྱུར་ རོ་␣༑ ༑"
