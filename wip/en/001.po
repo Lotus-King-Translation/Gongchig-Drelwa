@@ -15112,7 +15112,7 @@ msgstr "By relying on the instructions of a holy guru as the condition,"
 
 msgctxt "83aa508b5041421bb520ff0b7baf14b2"
 msgid "བརྩོན་འགྲུས་ བརྩམས་པ་␣ས་ དག་པ་ ཐོབ་པ་␣ར་ འགྱུར་ རོ་␣༑ ༑"
-msgstr ""
+msgstr "By perseverance, one will attain purity."
 
 msgctxt "3dffd202a6a04b23a91a2b3c82febc48"
 msgid "མ་ དག་པ་ དེ་ སེམས་ཅན་ ཐམས་ཅད་ ལ་ ཡོད་ ཀྱང་"
