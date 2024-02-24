@@ -15137,6 +15137,7 @@ msgstr ""
 msgctxt "34ec600f7c30429eb95f496e94059d31"
 msgid "ཉེས་པ་␣ར་ མི་འགྱུར་བ་␣ས་ གནང་ བར་ འདོད་ དོ །"
 msgstr ""
+"Since this would not become a fault, thus it is accepted as permitted."
 
 msgctxt "291411951b984d5b8ae8a4dc691c9802"
 msgid "འདི་␣ར་ ནི་ སྔགས་ ཀྱི་ མཐུ་␣འམ་ ནུས་པ་ བསྟན་ ཙམ་ ལ་␣ས་"
