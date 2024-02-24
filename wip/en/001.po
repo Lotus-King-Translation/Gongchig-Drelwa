@@ -15155,7 +15155,7 @@ msgstr "the preparative step is aversion and "
 
 msgctxt "586d2e4eab99447186d41f638a197fbc"
 msgid "དེ་ གནས་ དང་ གནས་མིན་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ དང་"
-msgstr ""
+msgstr "Its abode or non-abode, the omniscient wisdom, and "
 
 msgctxt "5d41e9370b024b1294b41f863ac22a1b"
 msgid "མི་ འཇིགས་པ་ དམ་བཅ་␣ས་པ་ དང་ ། །  འགལ་བ་␣འི་ ཕྱིར་"
