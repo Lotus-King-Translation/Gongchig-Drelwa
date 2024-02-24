@@ -15142,6 +15142,8 @@ msgstr ""
 msgctxt "291411951b984d5b8ae8a4dc691c9802"
 msgid "འདི་␣ར་ ནི་ སྔགས་ ཀྱི་ མཐུ་␣འམ་ ནུས་པ་ བསྟན་ ཙམ་ ལ་␣ས་"
 msgstr ""
+"In this [system], apart from merely teaching the power or capability of the "
+"mantra, "
 
 msgctxt "46dbe779c3e34fc7a5c7425e88dd8510"
 msgid "མངོན་སྤྱོད་ དངོས་ སུ་ གནང་བ་ མེད་ དེ་"
