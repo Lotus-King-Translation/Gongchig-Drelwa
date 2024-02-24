@@ -15120,7 +15120,7 @@ msgstr "Although, this impurity is present in all sentient beings,"
 
 msgctxt "b59cd22c4dfd43389ce1525374f101e2"
 msgid "རྐྱེན་ མ་ཚང་ བས་ དེ་ལྟར་ མི་ འགྱུར་ ཏེ །"
-msgstr ""
+msgstr "Because of incomplete conditions, it does not become like that."
 
 msgctxt "ddd996e0f8b14721b9e7610bdd838f6b"
 msgid "རྩོལ་བ་ མ་ བྱས་པ་␣འི་ གསེར་རྡོ་ བཞིན་ ནོ །"
