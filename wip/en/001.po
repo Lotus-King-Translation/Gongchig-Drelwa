@@ -15147,7 +15147,7 @@ msgstr ""
 
 msgctxt "46dbe779c3e34fc7a5c7425e88dd8510"
 msgid "མངོན་སྤྱོད་ དངོས་ སུ་ གནང་བ་ མེད་ དེ་"
-msgstr ""
+msgstr "The actual wrathful [ritual] activity is not permitted because"
 
 msgctxt "13959541a2e7420cad96d721af145234"
 msgid "སྦྱོར་བ་ ཞེ་སྡང་ ཡིན་པ་␣འི་ ཕྱིར་ དང༌ །"
