@@ -15163,7 +15163,7 @@ msgstr "The assurance of fearlessness. This would contradict. "
 
 msgctxt "d2bcfae03e93463bb1358b933445a9ba"
 msgid "འཇམ་དཔལ་ རྩ་རྒྱུད་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The Manjushri Root Tantra:"
 
 msgctxt "5ac6a7d75cee4f7cb155f77a1de71096"
 msgid ""
