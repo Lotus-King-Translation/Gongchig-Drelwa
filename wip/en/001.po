@@ -15131,6 +15131,8 @@ msgid ""
 "རྡོ་␣༽༽  སྔགས་ ཀྱི་ མངོན་སྤྱོད་ ཀྱིས་ གདུག་པ་ ཅན་ སྒྲོལ་ དགོས་པ་␣ར་ གསུངས་པ་"
 " སྒྲ་ ཇི་བཞིན་པ་ ཡིན་པ་␣ས་"
 msgstr ""
+"Vajra: The statement that malevolent ones must be liberated through the "
+"mantra's wrathful [ritual] activity is literal."
 
 msgctxt "34ec600f7c30429eb95f496e94059d31"
 msgid "ཉེས་པ་␣ར་ མི་འགྱུར་བ་␣ས་ གནང་ བར་ འདོད་ དོ །"
