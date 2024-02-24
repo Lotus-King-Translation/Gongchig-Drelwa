@@ -15151,7 +15151,7 @@ msgstr "The actual wrathful [ritual] activity is not permitted because"
 
 msgctxt "13959541a2e7420cad96d721af145234"
 msgid "སྦྱོར་བ་ ཞེ་སྡང་ ཡིན་པ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr "the preparative step is aversion."
+msgstr "the preparative step is aversion and "
 
 msgctxt "586d2e4eab99447186d41f638a197fbc"
 msgid "དེ་ གནས་ དང་ གནས་མིན་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ དང་"
