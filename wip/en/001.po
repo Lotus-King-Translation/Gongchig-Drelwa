@@ -15116,7 +15116,7 @@ msgstr "By perseverance, one will attain purity."
 
 msgctxt "3dffd202a6a04b23a91a2b3c82febc48"
 msgid "མ་ དག་པ་ དེ་ སེམས་ཅན་ ཐམས་ཅད་ ལ་ ཡོད་ ཀྱང་"
-msgstr ""
+msgstr "Although, this impurity is present in all sentient beings,"
 
 msgctxt "b59cd22c4dfd43389ce1525374f101e2"
 msgid "རྐྱེན་ མ་ཚང་ བས་ དེ་ལྟར་ མི་ འགྱུར་ ཏེ །"
