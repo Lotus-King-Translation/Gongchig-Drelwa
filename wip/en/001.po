@@ -15124,7 +15124,7 @@ msgstr "Because of incomplete conditions, it does not become like that."
 
 msgctxt "ddd996e0f8b14721b9e7610bdd838f6b"
 msgid "རྩོལ་བ་ མ་ བྱས་པ་␣འི་ གསེར་རྡོ་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "It is like gold ore without making any effort."
 
 msgctxt "e96519f2f05e444d8cbfafd9a520f179"
 msgid ""
