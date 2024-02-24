@@ -15159,7 +15159,7 @@ msgstr "Its abode or non-abode, the omniscient wisdom, and "
 
 msgctxt "5d41e9370b024b1294b41f863ac22a1b"
 msgid "མི་ འཇིགས་པ་ དམ་བཅ་␣ས་པ་ དང་ ། །  འགལ་བ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "The assurance of fearlessness. This would contradict. "
 
 msgctxt "d2bcfae03e93463bb1358b933445a9ba"
 msgid "འཇམ་དཔལ་ རྩ་རྒྱུད་ ལ་␣ས །"
