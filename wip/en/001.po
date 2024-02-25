@@ -15239,6 +15239,8 @@ msgid ""
 "རྡོ་␣༽༽  རྡོ་རྗེ་␣འི་ དམྱལ་བ་ ནི་ རྒྱུ་␣འི་ ཐེག་པ་␣ར་ བཤད་པ་␣འི་ བཅོ་བརྒྱད་ "
 "ལ་␣ས་ གུད་ ན་ སྡུག་བསྔལ་  ལག་པ་␣ར་ ཆེ་བ་ ཞིག་ ཡོད་ ཟེར །"
 msgstr ""
+"Vajra: It is said that the Vajra Hell when declines from the eighteen hells "
+"as explained in the causal vehicle, there is greater suffering."
 
 msgctxt "03c7a3c69da84dc89c355294e8196a04"
 msgid "འདི་␣ར་ ནི་ དེ་ ལ་ ལོགས་ སུ་ མེད་ དེ་"
