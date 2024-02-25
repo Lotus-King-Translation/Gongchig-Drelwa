@@ -15352,7 +15352,7 @@ msgstr ""
 
 msgctxt "c1761e36b12a48059f9f1d6eaf5292b9"
 msgid "ཐར་པ་ དང་ ཐོབ་པ་␣འི་ དུས་ མེད་ ཅེས་ ཟེར་ ཡང་"
-msgstr ""
+msgstr "There is no time for liberation or attainment."
 
 msgctxt "38ef6cc1c4c849bb876371bc8bbd9abc"
 msgid ""
