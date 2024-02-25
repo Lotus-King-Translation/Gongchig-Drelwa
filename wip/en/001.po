@@ -15228,7 +15228,7 @@ msgstr "If liberated by the harmful mind of anger,"
 
 msgctxt "321789ff05c740e8bdf2d401feac94b9"
 msgid "དམྱལ་བ་␣འི་ སྐྱེ་བ་ མནར་མེད་ ལེན །"
-msgstr "Will take rebirth in the unending torment Hell."
+msgstr "Will take rebirth in the unending torment hell."
 
 msgctxt "1895f752230148d8b4efdc4d47fed211"
 msgid "ཅེས་ སོ །༑"
