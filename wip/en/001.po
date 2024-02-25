@@ -15329,6 +15329,8 @@ msgstr "Likewise, in the fire mandala is the Fire Hell,"
 msgctxt "92c4b667a5c748cfae1eaf188b26435a"
 msgid "ངུ་བ་ མི་བཟད་པ་ ཆུ་ དཀྱིལ་ ལ་ འདམ་ གྱི་ ཆུ་ དང་ བྱེ་མ་␣འི་ ཆུ །"
 msgstr ""
+"The overwhelming wailing, the center of the water mandala are the Swamp "
+"Water and Sandy Water [Hells], "
 
 msgctxt "18e876f432414378b9c023d809dbeaea"
 msgid "ས་ དཀྱིལ་ གྱི་ ཕྱེད་ འོག་མ་ ལ་ གསེག་མ་␣འི་ དམྱལ་བ་ སྟེ །"
