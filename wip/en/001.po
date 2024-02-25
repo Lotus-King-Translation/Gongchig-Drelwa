@@ -15220,7 +15220,7 @@ msgstr "With the compassion of self-awareness and clarity,"
 
 msgctxt "f114a35c3fa145769d77f594d4a24fe4"
 msgid "ཉོན་མོངས་ བསྒྲལ་བ་ མ་གཏོགས་པ ། །"
-msgstr ""
+msgstr "Besides liberating the afflictions,"
 
 msgctxt "6d34930b899c4e7698c71becbbae8558"
 msgid "ཞེ་སྡང་ གདུག་པ་␣འི་ སེམས་ ཀྱིས་ སྒྲོལ ། །"
