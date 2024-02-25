@@ -15347,6 +15347,8 @@ msgstr "It is also taught in the Collected [texts]."
 msgctxt "d6550ef2e05940ee9cda9c28faeba274"
 msgid "རྡོ་␣༽༽  དམ་ཚིག་ འདས་ ནས་ རྡོ་རྗེ་␣འི་ དམྱལ་བ་␣ར་ སྐྱེས་ ན་"
 msgstr ""
+"Vajra: It is said that if you transgress your commitments and are born in "
+"the Vajra Hell,"
 
 msgctxt "c1761e36b12a48059f9f1d6eaf5292b9"
 msgid "ཐར་པ་ དང་ ཐོབ་པ་␣འི་ དུས་ མེད་ ཅེས་ ཟེར་ ཡང་"
