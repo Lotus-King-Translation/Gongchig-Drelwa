@@ -15311,6 +15311,7 @@ msgstr "There is also the Vajra Hell being placed as unending torment [hell]."
 msgctxt "d65c776260e64523a568b3dd788dc85f"
 msgid "དུས་འཁོར་ གྱི་ འགྲེལ་བ་ དྲི་མེད་ འོད་ ལ་␣ས །"
 msgstr ""
+"According to the Stainless Light, a commentary on the Kalachakra Tantra:"
 
 msgctxt "283591aae7a147c8a67547371481b3d7"
 msgid "རླུང་ གི་ དཀྱིལ་འཁོར་ གྱི་ དབུས་ སུ་ ངུ་འབོད་ དང༌ །"
