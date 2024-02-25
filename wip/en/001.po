@@ -15342,7 +15342,7 @@ msgstr "The seven places are the hot and cold hells and their surroundings."
 
 msgctxt "c3d208f5ada442f096199c8bcc35a526"
 msgid "འདུ་བ་␣ར་ ཡང་ གསུངས་ སོ །"
-msgstr ""
+msgstr "It is also taught in the Collected [texts]."
 
 msgctxt "d6550ef2e05940ee9cda9c28faeba274"
 msgid "རྡོ་␣༽༽  དམ་ཚིག་ འདས་ ནས་ རྡོ་རྗེ་␣འི་ དམྱལ་བ་␣ར་ སྐྱེས་ ན་"
