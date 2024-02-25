@@ -15207,6 +15207,8 @@ msgid ""
 "ཆོས་ ཀུན་ མཉམ་ཉིད་ དུ་ རྟོགས་པ་ ཇོ་བོ་ རྗེ་ དང༌ །  རྗེ་བཙུན་ མི་ལ །  "
 "སློབ་ དཔོན་ པདྨ་ ལྟ་བུ་ ཞིག་ གི་ མཛད་པ་ སྟེ་"
 msgstr ""
+"This is the deed of one who realizes the equality of all phenomena such as "
+"the noble lord Atisha, Jetsun Milarepa, and master Padmasambhava."
 
 msgctxt "9a047f7d5a9c4a3f8da21ea91c47ca59"
 msgid "གཤིན་རྗེ་ མེ་ རུ་ རྩེ་␣འི་ རྒྱུད་ ལ་␣ས །"
