@@ -15320,7 +15320,7 @@ msgstr "In the center of the wind mandala is the Wailing Hell and"
 
 msgctxt "34ead7e6f3864322aec2974c633e054e"
 msgid "དེ་␣འི་ སྟེང་ དུ་ མུན་པ་ ཆེན་པོ་ དང༌ །"
-msgstr ""
+msgstr "Above that is the Great Darkness Hell and"
 
 msgctxt "b93cc7cca38b48839ef383101508ce9e"
 msgid "དེ་བཞིན་ དུ་ མེ་ དཀྱིལ་ ལ་ མེ་␣འི་ དམྱལ་བ་ དང་"
