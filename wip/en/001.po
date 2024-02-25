@@ -15216,7 +15216,7 @@ msgstr "According to the Yamataka Fire Peak Tantra:"
 
 msgctxt "f065cf8cb0da433caa6cea3ca7ce0b7b"
 msgid "རང་རིག་ གསལ་བ་␣འི་ ཐུགས་རྗེ་ ཡི ། །"
-msgstr ""
+msgstr "With the compassion of self-awareness and clarity,"
 
 msgctxt "f114a35c3fa145769d77f594d4a24fe4"
 msgid "ཉོན་མོངས་ བསྒྲལ་བ་ མ་གཏོགས་པ ། །"
