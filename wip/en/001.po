@@ -15379,7 +15379,7 @@ msgstr "Even if one abides in the four greatnesses,"
 
 msgctxt "69397d96a840450899c01b7df176ae1f"
 msgid "ནམ་མཁའ་ ལ་ ནི་ སྤྲིན་ བཞིན་ དུ །"
-msgstr ""
+msgstr "It is like clouds in the sky."
 
 msgctxt "839ccf024f934e65a49752ab12b4863e"
 msgid "ཞེས་ སོགས་ བསྟན་པ་ སྒྲ་ ཇི་བཞིན་ དུ་ བཟུང་ ནས་"
