@@ -15189,6 +15189,8 @@ msgstr "With the support of Tsang Tsan and Pehar and so on,"
 msgctxt "6d7536d131884ed1a88edd0005ed6d5c"
 msgid "སྲོག་གཅོད་པ་ ངན་སོང་ དུ་ སྐྱེ་བ་ ལྟ་ སྨོས་ ཀྱང་ ཅི་ དགོས །"
 msgstr ""
+"It is needless to mention that taking life leads to rebirth in the lower "
+"realms."
 
 msgctxt "7f3b043aa2d74041beb80e159d274ac9"
 msgid "འོ་ན་ མ་ གནང་ ངམ་ ཞེ་ན །"
