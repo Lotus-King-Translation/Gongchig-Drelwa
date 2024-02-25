@@ -15180,6 +15180,7 @@ msgstr "[He] killed many enemies by the wrathful [ritual] activities."
 msgctxt "d42741e85743496fa06b471f08545837"
 msgid "ལྷ་ དེ་ ཡི་ གཟུགས་ བཟུང་ ནས་ དམྱལ་བ་␣ར་ སྐྱེ་བ་␣ར་ གསུངས་ ན །"
 msgstr ""
+"It is said that he held the form of that deity and was reborn in hell."
 
 msgctxt "85b5615f093742f9aa06f38be03eba09"
 msgid "གཙང་ བཙན་ དང་ པེ་ ཧར་ སོགས་ ལ་ རྟེན་ ནས་་"
