@@ -15282,7 +15282,7 @@ msgstr "According to the Vajra Dome:"
 
 msgctxt "b6d445a3ecc7448f8615d428ea6ab3d0"
 msgid "དེ་ ཚེ་དབང་ བསྒྱུར་ མཆོག་ཐོབ་པ་␣འི ། །"
-msgstr ""
+msgstr "At that time, with the attainment of supreme mastery,"
 
 msgctxt "62a6260efffc4a8fac72396f37a0e1f6"
 msgid "སློབ་མ་␣ས་ བླ་མ་␣འི་ བཀའ་ འདས་ ན ། །"
