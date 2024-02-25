@@ -15258,7 +15258,7 @@ msgstr ""
 
 msgctxt "ded25553894d4c619a99b653dad574c9"
 msgid "མནར་མེད་ ལ་སོགས་ འཇིགས་རུང་བ་␣འི ། །"
-msgstr "The terrifying hells such as the unending torment hell,"
+msgstr "The terrifying hells such as the Unending Torment Hell,"
 
 msgctxt "16a5fbe1b1054ab38d10f1859ad0e2c7"
 msgid "དམྱལ་བ་ བསྟན་བ་ གང་ཡིན་པ ། །"
