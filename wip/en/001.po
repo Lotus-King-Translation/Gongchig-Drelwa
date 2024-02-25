@@ -15363,7 +15363,7 @@ msgstr ""
 
 msgctxt "8779be45efb94c0d9ca023467b46d7f6"
 msgid "ཆོས་ ལ་ བརྟེན་པ་␣འི་ བསྐུལ་བ་ ཡིན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "This is because it is an exhortation based on the Dharma."
 
 msgctxt "7b52efdc689b422897b99633ade6274e"
 msgid "དཔེར་ན་ ཐུབ་དཀའ་ གཞོན་ནུ་␣ས་ ཐར་པ་ ནག་པོ་␣ར །"
