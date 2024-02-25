@@ -15248,7 +15248,7 @@ msgstr "In this [system], there is no hell apart from these "
 
 msgctxt "b5bf34dccaf647d1b64b084288855985"
 msgid "མནར་མེད་ ལ་སོགས་ བཅོ་བརྒྱད་ དེ་ རྣམས་ ཡིན་ ཏེ་"
-msgstr "eighteen hells, the unending torment hell, and so forth."
+msgstr "eighteen hells, the Unending Torment Hell, and so forth."
 
 msgctxt "62afeee337f542b5a29f42f572e4db49"
 msgid "མི་གཡོ་བ་␣འི་ རྟོགས་པ་ དང་ བླ་མ་ ལྔ་ བཅུ་པ་ ལ་␣ས །"
