@@ -15262,7 +15262,7 @@ msgstr "The terrifying hells such as the unending torment hell,"
 
 msgctxt "16a5fbe1b1054ab38d10f1859ad0e2c7"
 msgid "དམྱལ་བ་ བསྟན་བ་ གང་ཡིན་པ ། །"
-msgstr ""
+msgstr "Whatever is shown as the hell,"
 
 msgctxt "e6c9ea32fe214d2f8ebf9187c6b41d62"
 msgid "སློབ་དཔོན་ ལ་ ནི་ སྨོད་པ་ རྣམས ། །"
