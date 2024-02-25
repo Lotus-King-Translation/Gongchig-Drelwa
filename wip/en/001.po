@@ -15294,7 +15294,7 @@ msgstr "There will suffer in this world,"
 
 msgctxt "6543bb42b4804a69a8c0061ebe7d82a0"
 msgid "ཕ་རོལ་ མནར་མེད་ གནས་པ་␣ར་ འགྱུར །"
-msgstr "Will remain in unending torment [hell] in the life beyond."
+msgstr "Will remain in Unending Torment [Hell] in the life beyond."
 
 msgctxt "718fd9182c754ab9b944c20843340f2a"
 msgid "ཞེས་ དང་ །"
