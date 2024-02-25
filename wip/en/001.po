@@ -15367,7 +15367,7 @@ msgstr "This is because it is an exhortation based on the Dharma."
 
 msgctxt "7b52efdc689b422897b99633ade6274e"
 msgid "དཔེར་ན་ ཐུབ་དཀའ་ གཞོན་ནུ་␣ས་ ཐར་པ་ ནག་པོ་␣ར །"
-msgstr ""
+msgstr "For example, Durdharsa Kumarabhutah to Tarpanagpo"
 
 msgctxt "10256566652d4be9b4e900e86c9d47a2"
 msgid "དེ་བཞིན་ཉིད་ དེ་ མ་ བཅོ་␣ས་ ན ། །"
