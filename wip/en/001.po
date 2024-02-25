@@ -15244,7 +15244,7 @@ msgstr ""
 
 msgctxt "03c7a3c69da84dc89c355294e8196a04"
 msgid "འདི་␣ར་ ནི་ དེ་ ལ་ ལོགས་ སུ་ མེད་ དེ་"
-msgstr ""
+msgstr "In this [system], there is no hell apart from these "
 
 msgctxt "b5bf34dccaf647d1b64b084288855985"
 msgid "མནར་མེད་ ལ་སོགས་ བཅོ་བརྒྱད་ དེ་ རྣམས་ ཡིན་ ཏེ་"
