@@ -15232,7 +15232,7 @@ msgstr "Will take rebirth in the unending torment hell."
 
 msgctxt "1895f752230148d8b4efdc4d47fed211"
 msgid "ཅེས་ སོ །༑"
-msgstr ""
+msgstr "As said."
 
 msgctxt "453ddc0a37a94f9887e49dd6a712dc1e"
 msgid ""
