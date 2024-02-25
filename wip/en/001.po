@@ -15306,7 +15306,7 @@ msgstr "In the secret mantra, there is the wailing [hell]."
 
 msgctxt "037edf2f793d47c3a3ef2fea7e40e975"
 msgid "རྡོ་རྗེ་␣འི་ དམྱལ་བ་ མནར་མེད་ དུ་ བཞག་པ་ ཡང་ ཡོད་ དེ །"
-msgstr ""
+msgstr "There is also the Vajra Hell being placed as unending torment [hell]."
 
 msgctxt "d65c776260e64523a568b3dd788dc85f"
 msgid "དུས་འཁོར་ གྱི་ འགྲེལ་བ་ དྲི་མེད་ འོད་ ལ་␣ས །"
