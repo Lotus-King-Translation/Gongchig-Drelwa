@@ -15383,7 +15383,7 @@ msgstr "It is like clouds in the sky."
 
 msgctxt "839ccf024f934e65a49752ab12b4863e"
 msgid "ཞེས་ སོགས་ བསྟན་པ་ སྒྲ་ ཇི་བཞིན་ དུ་ བཟུང་ ནས་"
-msgstr ""
+msgstr "So forth and by taking these teachings literally"
 
 msgctxt "8b35ba6be09c4539aad868590c25bb4e"
 msgid "ལས་མི་ ཟད་པ་ ལ་ སྤྱད་པ་␣ས་ ངན་སོང་ དུ་ ལྟུང་བ་"
