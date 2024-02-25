@@ -15324,7 +15324,7 @@ msgstr "Above that is the Great Darkness Hell and"
 
 msgctxt "b93cc7cca38b48839ef383101508ce9e"
 msgid "དེ་བཞིན་ དུ་ མེ་ དཀྱིལ་ ལ་ མེ་␣འི་ དམྱལ་བ་ དང་"
-msgstr ""
+msgstr "Likewise, in the fire mandala is the Fire Hell,"
 
 msgctxt "92c4b667a5c748cfae1eaf188b26435a"
 msgid "ངུ་བ་ མི་བཟད་པ་ ཆུ་ དཀྱིལ་ ལ་ འདམ་ གྱི་ ཆུ་ དང་ བྱེ་མ་␣འི་ ཆུ །"
