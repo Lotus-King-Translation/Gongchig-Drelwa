@@ -15388,6 +15388,8 @@ msgstr "So forth and by taking these teachings literally"
 msgctxt "8b35ba6be09c4539aad868590c25bb4e"
 msgid "ལས་མི་ ཟད་པ་ ལ་ སྤྱད་པ་␣ས་ ངན་སོང་ དུ་ ལྟུང་བ་"
 msgstr ""
+"Because of conducting the inexhaustible karma, one falls into the bad "
+"migrations,"
 
 msgctxt "a199d5b17dd540538cc3f4dd332c9a11"
 msgid "དད་ འཕགས་ འཇིགས་བྱེད་ ཆེན་པོ་␣ར་ སྤྲུལ་ ནས་ དྲང་བ་ བཞིན་ ནོ །"
