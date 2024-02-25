@@ -15266,7 +15266,7 @@ msgstr "Whatever is shown as the hell,"
 
 msgctxt "e6c9ea32fe214d2f8ebf9187c6b41d62"
 msgid "སློབ་དཔོན་ ལ་ ནི་ སྨོད་པ་ རྣམས ། །"
-msgstr ""
+msgstr "All the disparagement of the masters,"
 
 msgctxt "a6b2c34c90724123814596b7a44f7539"
 msgid "དེ་␣ར་ ནི་ ངེས་པར་ གནས་པ་␣ར་ བསྟན །"
