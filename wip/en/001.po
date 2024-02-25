@@ -15212,7 +15212,7 @@ msgstr ""
 
 msgctxt "9a047f7d5a9c4a3f8da21ea91c47ca59"
 msgid "གཤིན་རྗེ་ མེ་ རུ་ རྩེ་␣འི་ རྒྱུད་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Yamataka Fire Peak Tantra:"
 
 msgctxt "f065cf8cb0da433caa6cea3ca7ce0b7b"
 msgid "རང་རིག་ གསལ་བ་␣འི་ ཐུགས་རྗེ་ ཡི ། །"
