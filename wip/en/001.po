@@ -15224,7 +15224,7 @@ msgstr "Besides liberating the afflictions,"
 
 msgctxt "6d34930b899c4e7698c71becbbae8558"
 msgid "ཞེ་སྡང་ གདུག་པ་␣འི་ སེམས་ ཀྱིས་ སྒྲོལ ། །"
-msgstr ""
+msgstr "If liberated by the harmful mind of anger,"
 
 msgctxt "321789ff05c740e8bdf2d401feac94b9"
 msgid "དམྱལ་བ་␣འི་ སྐྱེ་བ་ མནར་མེད་ ལེན །"
