@@ -15253,6 +15253,8 @@ msgstr "eighteen hells, the unending torment hell, and so forth."
 msgctxt "62afeee337f542b5a29f42f572e4db49"
 msgid "མི་གཡོ་བ་␣འི་ རྟོགས་པ་ དང་ བླ་མ་ ལྔ་ བཅུ་པ་ ལ་␣ས །"
 msgstr ""
+"According to the realization of the Unwavering [level] and the Fifty Verses "
+"of Guru [Devotion]:"
 
 msgctxt "ded25553894d4c619a99b653dad574c9"
 msgid "མནར་མེད་ ལ་སོགས་ འཇིགས་རུང་བ་␣འི ། །"
