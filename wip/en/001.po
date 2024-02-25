@@ -15334,7 +15334,7 @@ msgstr ""
 
 msgctxt "18e876f432414378b9c023d809dbeaea"
 msgid "ས་ དཀྱིལ་ གྱི་ ཕྱེད་ འོག་མ་ ལ་ གསེག་མ་␣འི་ དམྱལ་བ་ སྟེ །"
-msgstr ""
+msgstr "In the lower half of the earth mandala is the Pebble Hell."
 
 msgctxt "3917d3c1fda641428af6c7048bfe5e44"
 msgid "གནས་ བདུན་ ལ་ ཚ་གྲང་ གི་ དམྱལ་བ་ འཁོར་བཅས་"
