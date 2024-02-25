@@ -15290,7 +15290,7 @@ msgstr "If a disciple transgresses the words of the guru,"
 
 msgctxt "6cd305e91d334c2c9b770cb09334aafc"
 msgid "འཇིག་རྟེན་ འདི་␣ར་ ནི་ སྡུག་བསྔལ་ ཞིང༌ ། །"
-msgstr ""
+msgstr "There will suffer in this world,"
 
 msgctxt "6543bb42b4804a69a8c0061ebe7d82a0"
 msgid "ཕ་རོལ་ མནར་མེད་ གནས་པ་␣ར་ འགྱུར །"
