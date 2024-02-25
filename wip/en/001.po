@@ -15315,7 +15315,7 @@ msgstr ""
 
 msgctxt "283591aae7a147c8a67547371481b3d7"
 msgid "རླུང་ གི་ དཀྱིལ་འཁོར་ གྱི་ དབུས་ སུ་ ངུ་འབོད་ དང༌ །"
-msgstr ""
+msgstr "In the center of the wind mandala is the Wailing Hell and"
 
 msgctxt "34ead7e6f3864322aec2974c633e054e"
 msgid "དེ་␣འི་ སྟེང་ དུ་ མུན་པ་ ཆེན་པོ་ དང༌ །"
