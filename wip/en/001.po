@@ -15194,7 +15194,7 @@ msgstr ""
 
 msgctxt "7f3b043aa2d74041beb80e159d274ac9"
 msgid "འོ་ན་ མ་ གནང་ ངམ་ ཞེ་ན །"
-msgstr ""
+msgstr "Well then, was it not permitted?"
 
 msgctxt "f67c3e83ba3e420eac97481e53c0349e"
 msgid "བསད་པ་ དག་ གསོ་ ནུས་པ་ རྣམ་ཤེས་ སྤར་ ནུས་པ་"
