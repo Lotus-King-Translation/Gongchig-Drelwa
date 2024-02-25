@@ -15175,7 +15175,7 @@ msgstr ""
 
 msgctxt "20e78d2eda094a79a29743bba0752fd9"
 msgid "མངོན་སྤྱོད་ ཀྱིས་ དགྲ་ མང་པོ་ བསད་པ་␣ས་"
-msgstr ""
+msgstr "[He] killed many enemies by the wrathful [ritual] activities."
 
 msgctxt "d42741e85743496fa06b471f08545837"
 msgid "ལྷ་ དེ་ ཡི་ གཟུགས་ བཟུང་ ནས་ དམྱལ་བ་␣ར་ སྐྱེ་བ་␣ར་ གསུངས་ ན །"
