@@ -15358,6 +15358,8 @@ msgctxt "38ef6cc1c4c849bb876371bc8bbd9abc"
 msgid ""
 "འདི་␣ར་ ནི་ སློབ་དཔོན་ རྒྱུད་ ཚོད་ མཐོ་ ན་ མྱུར་ དུ་ འདྲེན་པ་ ཡིན་ ཏེ །"
 msgstr ""
+"In this [system], if the master’s mental continuum is advanced, he will lead"
+" quickly."
 
 msgctxt "8779be45efb94c0d9ca023467b46d7f6"
 msgid "ཆོས་ ལ་ བརྟེན་པ་␣འི་ བསྐུལ་བ་ ཡིན་པ་␣འི་ ཕྱིར །"
