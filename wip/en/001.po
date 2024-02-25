@@ -15184,7 +15184,7 @@ msgstr ""
 
 msgctxt "85b5615f093742f9aa06f38be03eba09"
 msgid "གཙང་ བཙན་ དང་ པེ་ ཧར་ སོགས་ ལ་ རྟེན་ ནས་་"
-msgstr "By the support of Tsang Tsan and Pehar and so on,"
+msgstr "With the support of Tsang Tsan and Pehar and so on,"
 
 msgctxt "6d7536d131884ed1a88edd0005ed6d5c"
 msgid "སྲོག་གཅོད་པ་ ངན་སོང་ དུ་ སྐྱེ་བ་ ལྟ་ སྨོས་ ཀྱང་ ཅི་ དགོས །"
