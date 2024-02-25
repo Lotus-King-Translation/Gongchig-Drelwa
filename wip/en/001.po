@@ -15338,7 +15338,7 @@ msgstr "In the lower half of the earth mandala is the Pebble Hell."
 
 msgctxt "3917d3c1fda641428af6c7048bfe5e44"
 msgid "གནས་ བདུན་ ལ་ ཚ་གྲང་ གི་ དམྱལ་བ་ འཁོར་བཅས་"
-msgstr ""
+msgstr "The seven places are the hot and cold hells and their surroundings."
 
 msgctxt "c3d208f5ada442f096199c8bcc35a526"
 msgid "འདུ་བ་␣ར་ ཡང་ གསུངས་ སོ །"
