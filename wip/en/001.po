@@ -15394,6 +15394,7 @@ msgstr ""
 msgctxt "a199d5b17dd540538cc3f4dd332c9a11"
 msgid "དད་ འཕགས་ འཇིགས་བྱེད་ ཆེན་པོ་␣ར་ སྤྲུལ་ ནས་ དྲང་བ་ བཞིན་ ནོ །"
 msgstr ""
+"It is like the confident superior being emanated into the Great Terrifier."
 
 msgctxt "04b504bb64134899ae593254192ff905"
 msgid "ལྷན་␣༽༽  སྔགས་ ཀྱི་ རྩ་ལྟུང་ སློབ་མ་␣ས་ སློབ་དཔོན་ ལ་ བརྙས་ ན་"
