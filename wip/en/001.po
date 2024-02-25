@@ -15371,7 +15371,7 @@ msgstr "For example, Durdharsa Kumarabhutah to Tarpanagpo"
 
 msgctxt "10256566652d4be9b4e900e86c9d47a2"
 msgid "དེ་བཞིན་ཉིད་ དེ་ མ་ བཅོ་␣ས་ ན ། །"
-msgstr ""
+msgstr "If the thusness is not fabricated,"
 
 msgctxt "9bc4c694b63546bfa32e7686536a3324"
 msgid "ཆེན་པོ་ བཞི་ ལ་ གནས་ བཅས་ ཀྱང་ ། །"
