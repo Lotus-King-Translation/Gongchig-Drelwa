@@ -15199,6 +15199,8 @@ msgstr "Well then, was it not permitted?"
 msgctxt "f67c3e83ba3e420eac97481e53c0349e"
 msgid "བསད་པ་ དག་ གསོ་ ནུས་པ་ རྣམ་ཤེས་ སྤར་ ནུས་པ་"
 msgstr ""
+"The capability to purely restore the dead and the capability to elevate "
+"consciousness,"
 
 msgctxt "73d0cd2ac8584ee2bf42ae8792d18718"
 msgid ""
