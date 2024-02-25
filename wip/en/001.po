@@ -15302,7 +15302,7 @@ msgstr "And."
 
 msgctxt "e815cad8408d4292879cec923e510f29"
 msgid "གསང་སྔགས་ སུ་ ངུ་འབོད་ ལ་"
-msgstr "In the secret mantra, there is the wailing [hell]."
+msgstr "In the secret mantra, there is the Wailing [Hell]."
 
 msgctxt "037edf2f793d47c3a3ef2fea7e40e975"
 msgid "རྡོ་རྗེ་␣འི་ དམྱལ་བ་ མནར་མེད་ དུ་ བཞག་པ་ ཡང་ ཡོད་ དེ །"
