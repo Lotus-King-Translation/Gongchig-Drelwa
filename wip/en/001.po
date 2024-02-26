@@ -15494,7 +15494,7 @@ msgstr "That is accepted as profound."
 
 msgctxt "dc8fd9b60ad54fb59957eac3166f8e3b"
 msgid "དེ་␣འང་ ཆོས་ ཐམས་ཅད་ ལུང་ དང་ བཅས་པ །"
-msgstr ""
+msgstr "Furthermore, all Dharmas must have the scriptural transmissions,"
 
 msgctxt "ad89fdaa1ccb46acb8c6f5a95b41f87e"
 msgid "ལུང་ མན་ངག་ དང་ བཅས་པ་ དགོས་པ་␣ས་"
