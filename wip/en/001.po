@@ -15548,7 +15548,7 @@ msgstr "Even if all good qualities are perfected,"
 
 msgctxt "9d60411fd7914e6799f91fb635b6fdc3"
 msgid "བླ་མ་ མེད་ ན་ སྲིད་མཐ་␣ར་ མིན །"
-msgstr ""
+msgstr "One will not emancipated from existence without a guru."
 
 msgctxt "c5ca03cad981472ca3ba3448d6baa300"
 msgid "ཅེས་པ་␣ས་ སངས་རྒྱས་ ནས་ བརྒྱུད་པ་␣འི་ ཆོས་ ཟབ་ ཅིང་ ངོ་མཚར་བ་ ཡིན་ ལ །"
