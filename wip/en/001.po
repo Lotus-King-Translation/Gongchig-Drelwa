@@ -15456,6 +15456,7 @@ msgstr ""
 msgctxt "f258aa77141b41cdbaab30aa674b39c1"
 msgid "རྡོ་␣༽༽  འགའ་ཞིག་ ཆོས་ རྒྱུད་པ་ མེད་པ་␣འི་ ཉམས་མྱོང་ དང༌ །"
 msgstr ""
+"Vajra: Some [people] have experiences that are not of the Dharma lineage."
 
 msgctxt "fe7490fe19cf455a98c835adc43543b1"
 msgid "རྡོལ་ཆོས་ དཔེ་ དཀ་␣ར་ བུ་ བཞི་ དང །"
