@@ -15518,7 +15518,7 @@ msgstr "Also, according to the sutra:"
 
 msgctxt "84f84ab7d9764e0c8d4a628e7798a8d1"
 msgid "སངས་རྒྱས་ ཆོས་ རྣམས་ དགེ་བ་␣འི་ བཤེས་ ལ་ བརྟེན་ ཏོ་ ཞེས ། །"
-msgstr ""
+msgstr "The Buddha’s teachings depend on a spiritual friend."
 
 msgctxt "37d32ecac69b49429546855527bc8690"
 msgid "ཡོན་ཏན་ ཀུན་ གྱི་ མཆོག་ མངའ་ རྒྱལ་བ་␣ས་ དེ་སྐད་ གསུངས །"
