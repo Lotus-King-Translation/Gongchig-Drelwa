@@ -15426,7 +15426,7 @@ msgctxt "b1945408c91e4be5a1c3369190dec378"
 msgid ""
 "སློབ་དཔོན་ གྱིས་ སློབ་མ་␣ར་ བརྙས་ ན་ རྩ་ལྟུང་ བཅུ་གཉིས་པ་ ཡིན་པ་␣འི་ ཕྱིར་ "
 "དང་"
-msgstr ""
+msgstr "If a master despises his disciple, this is the twelfth root downfall."
 
 msgctxt "d03ae9f0ab584edc8abbec30abda879f"
 msgid ""
