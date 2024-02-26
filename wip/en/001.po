@@ -15438,7 +15438,7 @@ msgstr ""
 
 msgctxt "d9bc98b80e6a4e3585ab360e9536c3f4"
 msgid "དཔེ་␣ར་ མས་ བུ་ བསད་པ་ དང༌ །"
-msgstr ""
+msgstr "For example, both the mother who killed her child and"
 
 msgctxt "ea5e20c6a9ad4f69a9faf38eb16c751d"
 msgid "བུས་ མ་ བསད་པ་ གཉིས་ཀ་ གང་ཡིན་ ཡང་ དམྱལ་བ་␣ར་ ལྟུང་བ་ བཞིན་ ནོ །"
