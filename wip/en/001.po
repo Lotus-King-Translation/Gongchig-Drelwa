@@ -15404,7 +15404,7 @@ msgstr ""
 
 msgctxt "159e4a546d514886946ab917abd2fc02"
 msgid "ལྟུང་བ་ དང་པོ་ འཕོག་པ་␣ས་"
-msgstr ""
+msgstr "The first downfall is incurred."
 
 msgctxt "4b7375ab55bd4f68aadbe7073a7b9302"
 msgid "སློབ་མ་␣འི་ དམ་ཚིག་ ཤིན་ཏུ་ གཉེན་ ལ་"
