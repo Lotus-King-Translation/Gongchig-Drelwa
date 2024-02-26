@@ -15528,6 +15528,7 @@ msgstr ""
 msgctxt "d415f8e439a3447d8ab2ec40106a50b4"
 msgid "ཞེས་ སོགས་ གསུངས་ ན་ སྔགས་ སུ་ རྒྱུད་ དཀྲུག་པ །"
 msgstr ""
+"If such things are said, it would disturb the mainstream in the mantra."
 
 msgctxt "304f5bafdb544f498f4345fb5fc3d814"
 msgid "ལུང་ བཅུ་␣ས །"
