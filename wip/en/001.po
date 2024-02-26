@@ -15419,6 +15419,8 @@ msgid ""
 "འདི་␣ར་ ནི་ དཔོན་སློབ་ གཉིས་ཀ་ ཕན་ཚུན་ དམ་ཚིག་ གཉེན་ མི་ གཉེན་ མཉམ་པ་ ལ་ "
 "གཅིག་ ཡིན་ ཏེ །"
 msgstr ""
+"In this [system], the sacred commitment of both the master and disciple is "
+"equal, whether they are close or not."
 
 msgctxt "b1945408c91e4be5a1c3369190dec378"
 msgid ""
