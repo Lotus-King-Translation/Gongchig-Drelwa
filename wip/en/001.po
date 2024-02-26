@@ -15514,7 +15514,7 @@ msgstr "Just as, for example, the Buddha did."
 
 msgctxt "6dab1ecd800a4aeea79b00c09dac1a65"
 msgid "མདོ་ ལ་␣ས་ ཀྱང༌ །"
-msgstr ""
+msgstr "Also, according to the sutra:"
 
 msgctxt "84f84ab7d9764e0c8d4a628e7798a8d1"
 msgid "སངས་རྒྱས་ ཆོས་ རྣམས་ དགེ་བ་␣འི་ བཤེས་ ལ་ བརྟེན་ ཏོ་ ཞེས ། །"
