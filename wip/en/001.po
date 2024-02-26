@@ -15468,7 +15468,7 @@ msgstr "The wood teaching of the eight-limbed restoration and purification."
 
 msgctxt "2641ae2774c84600b448c47c62695e98"
 msgid "གནམ་ ཆོས་ ཏནྡྲ་ སྡེ་ བཅོ་བརྒྱད་ ལ་སོགས་པ་"
-msgstr ""
+msgstr "The eighteen sections of the Sky Dharma Tantra and so forth."
 
 msgctxt "ecdebb1a36b64041b8a30c0ab6d425e1"
 msgid "ཟབ་པ་␣ར་ འཛིན་པ་ མང་ དུ་ བྱུང་ ཡང༌ །"
