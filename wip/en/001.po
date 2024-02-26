@@ -15535,7 +15535,7 @@ msgstr "According to the ten scriptural transmissions:"
 
 msgctxt "4138abd23f6e4f92be753d25dcbfd50e"
 msgid "མན་ངག་ གབ་པ་␣འི་ ཕྱིར་ ལྟ་ སྨྲོས་ ཀྱང་ ཅི་ དགོས་"
-msgstr ""
+msgstr "It is needless to say it is for concealing the foremost instructions."
 
 msgctxt "36d0f802e02045d1a5c0d163ec46785f"
 msgid "དེ་ལྟར་ ཡང་ སཾ་ བྷུ་ ཊི་ ལ་␣ས །"
