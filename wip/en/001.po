@@ -15510,7 +15510,7 @@ msgstr "You will not understand them yourself."
 
 msgctxt "362a6b5ff2c544d2812e6040fc735cea"
 msgid "དཔེར་ན་ སངས་རྒྱས་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "Just as, for example, the Buddha did."
 
 msgctxt "6dab1ecd800a4aeea79b00c09dac1a65"
 msgid "མདོ་ ལ་␣ས་ ཀྱང༌ །"
