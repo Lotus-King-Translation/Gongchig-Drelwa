@@ -15464,7 +15464,7 @@ msgstr ""
 
 msgctxt "365a0a65f3174013a8beb76d9b1bfd3b"
 msgid "ཤིང་ ཆོས་ གསོ་སྦྱོང་ ཡན་ལག་ བརྒྱད་པ །"
-msgstr ""
+msgstr "The wood teaching of the eight-limbed restoration and purification."
 
 msgctxt "2641ae2774c84600b448c47c62695e98"
 msgid "གནམ་ ཆོས་ ཏནྡྲ་ སྡེ་ བཅོ་བརྒྱད་ ལ་སོགས་པ་"
