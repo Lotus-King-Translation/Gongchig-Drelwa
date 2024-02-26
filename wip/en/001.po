@@ -15442,7 +15442,7 @@ msgstr "For example, both the mother who killed her child and"
 
 msgctxt "ea5e20c6a9ad4f69a9faf38eb16c751d"
 msgid "བུས་ མ་ བསད་པ་ གཉིས་ཀ་ གང་ཡིན་ ཡང་ དམྱལ་བ་␣ར་ ལྟུང་བ་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "the child who killed its mother will fall into hell."
 
 msgctxt "e76d836edfc84575bf31a0d127386f7b"
 msgid ""
