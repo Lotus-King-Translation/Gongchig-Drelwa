@@ -15472,7 +15472,7 @@ msgstr "The eighteen sections of the Sky Dharma Tantra and so forth."
 
 msgctxt "ecdebb1a36b64041b8a30c0ab6d425e1"
 msgid "ཟབ་པ་␣ར་ འཛིན་པ་ མང་ དུ་ བྱུང་ ཡང༌ །"
-msgstr ""
+msgstr "Although many people hold them as profound,"
 
 msgctxt "784076f6163545cfb675c95553eef430"
 msgid "དེ་དག་ རྣམས་ ཚིག་དོན་ བཟང་ ཡང་"
