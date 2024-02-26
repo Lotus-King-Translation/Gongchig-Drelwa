@@ -15433,6 +15433,8 @@ msgid ""
 "ས ། ཉེས་པ་ བྱས་ ན་ བླ་མ་ ཡིན་ ཀྱང་ འབྲས་བུ་འབྱུང་བ་ རྟེན་འབྲེལ་ ཡིན་པ་␣འི་ "
 "ཕྱིར །"
 msgstr ""
+"If you commit a fault, even as a guru, the result will arise because of the "
+"interdependence of causes and conditions."
 
 msgctxt "d9bc98b80e6a4e3585ab360e9536c3f4"
 msgid "དཔེ་␣ར་ མས་ བུ་ བསད་པ་ དང༌ །"
