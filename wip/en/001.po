@@ -15412,7 +15412,7 @@ msgstr "Therefore, the disciple’s sacred commitment is very kin"
 
 msgctxt "a63db7c679fe4937bf72ce1ab9620266"
 msgid "སློབ་དཔོན་ གྱིས་ ནི་ སློབ་མ་␣ར་ དེ་ལྟར་ མི་ གཉེན་ ཟེར །"
-msgstr ""
+msgstr "But the master does not treat the disciple in that way."
 
 msgctxt "f9cd864e1ce3440b847e4c5dd78dd782"
 msgid ""
