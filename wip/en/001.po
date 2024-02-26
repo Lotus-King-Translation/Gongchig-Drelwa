@@ -15557,7 +15557,7 @@ msgstr ""
 
 msgctxt "e1c9a66c84b94da8964ebe88499c8329"
 msgid "དེ་␣འང་ མཚན་ཉིད་ ལྡན་པ་␣འི་ བླ་མ་␣ར་ རག་ ལས་པ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "This also depends on a qualified guru."
 
 msgctxt "7469908b6f5e4ca286db776385e343f9"
 msgid "བླ་མ་ མ་ བརྟེན་པ་␣ར་ རྡོལ་ཆོས་ སོགས་ ཀྱིས་ སྒོམ་ སྐྱེས་ ཀྱང་"
