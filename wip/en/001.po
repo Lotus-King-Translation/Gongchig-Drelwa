@@ -15408,7 +15408,7 @@ msgstr "The first downfall is incurred."
 
 msgctxt "4b7375ab55bd4f68aadbe7073a7b9302"
 msgid "སློབ་མ་␣འི་ དམ་ཚིག་ ཤིན་ཏུ་ གཉེན་ ལ་"
-msgstr "Therefore, the disciple’s sacred commitment is very kin"
+msgstr "Therefore, the disciple’s sacred commitment is very close,"
 
 msgctxt "a63db7c679fe4937bf72ce1ab9620266"
 msgid "སློབ་དཔོན་ གྱིས་ ནི་ སློབ་མ་␣ར་ དེ་ལྟར་ མི་ གཉེན་ ཟེར །"
