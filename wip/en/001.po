@@ -15498,7 +15498,7 @@ msgstr "Furthermore, all Dharmas must have the scriptural transmissions,"
 
 msgctxt "ad89fdaa1ccb46acb8c6f5a95b41f87e"
 msgid "ལུང་ མན་ངག་ དང་ བཅས་པ་ དགོས་པ་␣ས་"
-msgstr ""
+msgstr "The scriptural transmissions must have foremost instructions."
 
 msgctxt "f87620309ae04afa8bf56c6215432b39"
 msgid "བརྒྱུད་པ་␣འི་ བླ་མ་ ལ་མ་ བརྟེན་ ན་"
