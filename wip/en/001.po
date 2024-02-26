@@ -15506,7 +15506,7 @@ msgstr "Thus, if you do not rely on a lineage guru,"
 
 msgctxt "2a46c03f3f564b2e837cf149f3512b20"
 msgid "རང་ཉིད་ ཀྱི་ མི་ ཤེས་པ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "You will not understand them yourself."
 
 msgctxt "362a6b5ff2c544d2812e6040fc735cea"
 msgid "དཔེར་ན་ སངས་རྒྱས་ བཞིན་ ནོ །"
