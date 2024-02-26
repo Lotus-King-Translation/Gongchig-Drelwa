@@ -15531,7 +15531,7 @@ msgstr ""
 
 msgctxt "304f5bafdb544f498f4345fb5fc3d814"
 msgid "ལུང་ བཅུ་␣ས །"
-msgstr ""
+msgstr "According to the ten scriptural transmissions:"
 
 msgctxt "4138abd23f6e4f92be753d25dcbfd50e"
 msgid "མན་ངག་ གབ་པ་␣འི་ ཕྱིར་ ལྟ་ སྨྲོས་ ཀྱང་ ཅི་ དགོས་"
