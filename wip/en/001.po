@@ -15523,6 +15523,7 @@ msgstr "The Buddha’s teachings depend on a spiritual friend."
 msgctxt "37d32ecac69b49429546855527bc8690"
 msgid "ཡོན་ཏན་ ཀུན་ གྱི་ མཆོག་ མངའ་ རྒྱལ་བ་␣ས་ དེ་སྐད་ གསུངས །"
 msgstr ""
+"This is what the conqueror, who is the supreme of all qualities, has said."
 
 msgctxt "d415f8e439a3447d8ab2ec40106a50b4"
 msgid "ཞེས་ སོགས་ གསུངས་ ན་ སྔགས་ སུ་ རྒྱུད་ དཀྲུག་པ །"
