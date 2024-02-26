@@ -15490,7 +15490,7 @@ msgstr ""
 
 msgctxt "1444c8f6b678412183141a492942f830"
 msgid "དེ་ ཟབ་པ་␣ར་ བཞེད་ དེ་"
-msgstr ""
+msgstr "That is accepted as profound."
 
 msgctxt "dc8fd9b60ad54fb59957eac3166f8e3b"
 msgid "དེ་␣འང་ ཆོས་ ཐམས་ཅད་ ལུང་ དང་ བཅས་པ །"
