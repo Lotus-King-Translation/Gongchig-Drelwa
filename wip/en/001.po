@@ -15476,7 +15476,7 @@ msgstr "Although many people hold them as profound,"
 
 msgctxt "784076f6163545cfb675c95553eef430"
 msgid "དེ་དག་ རྣམས་ ཚིག་དོན་ བཟང་ ཡང་"
-msgstr ""
+msgstr "Even the words and meaning of those are good, "
 
 msgctxt "9b38de3c6cf64385a29e2cf2c5752318"
 msgid "བླ་མ་ བརྒྱུད་པ་ མེད་པ་␣ས་ འབྲས་བུ་ མི་ འབྱིན་པ་␣འི་ ཕྱིར །"
