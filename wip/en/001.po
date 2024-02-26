@@ -15399,6 +15399,8 @@ msgstr ""
 msgctxt "04b504bb64134899ae593254192ff905"
 msgid "ལྷན་␣༽༽  སྔགས་ ཀྱི་ རྩ་ལྟུང་ སློབ་མ་␣ས་ སློབ་དཔོན་ ལ་ བརྙས་ ན་"
 msgstr ""
+"Addendum: It is said that the root downfall of mantra is that if a disciple "
+"despises the master,"
 
 msgctxt "159e4a546d514886946ab917abd2fc02"
 msgid "ལྟུང་བ་ དང་པོ་ འཕོག་པ་␣ས་"
