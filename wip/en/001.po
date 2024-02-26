@@ -15480,7 +15480,7 @@ msgstr "Even the words and meaning of those are good, "
 
 msgctxt "9b38de3c6cf64385a29e2cf2c5752318"
 msgid "བླ་མ་ བརྒྱུད་པ་ མེད་པ་␣ས་ འབྲས་བུ་ མི་ འབྱིན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "They do not bring results because there is no lineage of gurus."
 
 msgctxt "faa82e2434bb49c7bce77facfcb7b7cf"
 msgid "འདི་␣ར་ ནི་ དམ་པ་␣འི་ ཆོས་ གང་ཞིག་ བརྒྱུད་པ་ ནས་ བརྒྱུད་པ་␣ར་ འབྲེལ་པ་"
