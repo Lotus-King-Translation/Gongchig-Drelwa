@@ -15502,7 +15502,7 @@ msgstr "The scriptural transmissions must have foremost instructions."
 
 msgctxt "f87620309ae04afa8bf56c6215432b39"
 msgid "བརྒྱུད་པ་␣འི་ བླ་མ་ ལ་མ་ བརྟེན་ ན་"
-msgstr ""
+msgstr "Thus, if you do not rely on a lineage guru,"
 
 msgctxt "2a46c03f3f564b2e837cf149f3512b20"
 msgid "རང་ཉིད་ ཀྱི་ མི་ ཤེས་པ་␣འི་ ཕྱིར་"
