@@ -15553,6 +15553,7 @@ msgstr "One will not emancipated from existence without a guru."
 msgctxt "c5ca03cad981472ca3ba3448d6baa300"
 msgid "ཅེས་པ་␣ས་ སངས་རྒྱས་ ནས་ བརྒྱུད་པ་␣འི་ ཆོས་ ཟབ་ ཅིང་ ངོ་མཚར་བ་ ཡིན་ ལ །"
 msgstr ""
+"Thus, the Dharma transmitted from the Buddha is profound and marvelous."
 
 msgctxt "e1c9a66c84b94da8964ebe88499c8329"
 msgid "དེ་␣འང་ མཚན་ཉིད་ ལྡན་པ་␣འི་ བླ་མ་␣ར་ རག་ ལས་པ་ ཡིན་ ནོ ། །"
