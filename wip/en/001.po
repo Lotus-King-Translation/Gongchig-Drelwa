@@ -15686,7 +15686,7 @@ msgstr "They are confused latencies like the appearances of dreams,"
 
 msgctxt "521354ee06c247e28280c7faa98f4d80"
 msgid "ཕྱི་ ནང་ གང་ཡང་ མ་ ཡིན་"
-msgstr ""
+msgstr "which are neither external nor internal,"
 
 msgctxt "7988da70aee9431e8515d76cb67735c0"
 msgid "གང་ དུའང་ མ་གྲུབ་པ་"
