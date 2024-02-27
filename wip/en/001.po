@@ -15667,6 +15667,8 @@ msgstr "It would absurdly follow that the mind would also be."
 msgctxt "0c382658f6844dfebd687921a4843638"
 msgid "སེམས་ བཞིན་ དུ་ ཡུལ་ ཀྱང་ མཐོང་ཆོས་ སུ་ མི་ རུང་བ་␣ར་ འགྱུར་ རོ ། །"
 msgstr ""
+"Like the mind, the object would also not be suitable to be a visible "
+"phenomenon."
 
 msgctxt "c8c2d987d52e4fd8b86f7f25b7319ab4"
 msgid "གཉིས་པ་ ལྟར་ ན་␣འང་ དོན་ཡོད་པ་ ལྟར་ འགྱུར་ རོ་ སྙམ་ ན་"
