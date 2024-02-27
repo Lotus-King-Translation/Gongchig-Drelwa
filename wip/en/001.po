@@ -15678,7 +15678,7 @@ msgstr ""
 
 msgctxt "e71f006866254c3ea0450e0211548dae"
 msgid "སྣང་བ་ ཕྱི་དོན་ དུ་ གྲུབ་པ་ མེད་པ་␣ས་ ཡིན་ ཀྱང་"
-msgstr ""
+msgstr "Then, although appearances are not established as external objects, "
 
 msgctxt "146588e641ac47ff95a02b244b756f14"
 msgid "བག་ཆགས་ འཁྲུལ་བ་ རྨི་ལམ་ གྱི་ སྣང་བ་ ལྟར་"
