@@ -15648,7 +15648,7 @@ msgstr "All the appearances of good and bad are your own mind."
 
 msgctxt "86f68101ca6944bfa1bca805afda69ad"
 msgid "སྣང་ མི་ སྣང་ དུ་ འཛིན་པ་ རང་ གི་ སེམས་ ཡིན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "The grasping of appearance and non-appearance is one’s own mind."
 
 msgctxt "3c603b123a48451dbef9e8421abd856d"
 msgid "འོ་ན་ སྣང་ཡུལ་ ཡོད་པ་␣ས་ སེམས་ ཡིན་ ནམ་ མེད་པ་␣ས་ ཡིན །"
