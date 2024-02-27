@@ -15606,7 +15606,7 @@ msgstr "Lama Dakpo Lharje, Phagdru Choje, and Drigungpa,"
 
 msgctxt "7385eb13b3f44280821267ad2faa816b"
 msgid "ད་བར་ ཆོས་བརྒྱུད་ རྣམ་པ་␣ར་ དག་པ །"
-msgstr ""
+msgstr "Has been a pure Dharma lineage up to the present."
 
 msgctxt "ede214563dc0458ebb2a7f10b7122084"
 msgid ""
