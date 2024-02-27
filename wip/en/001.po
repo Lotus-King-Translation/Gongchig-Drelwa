@@ -15566,7 +15566,7 @@ msgstr ""
 
 msgctxt "6b4529cef748443987b2b03ae1da3dfd"
 msgid "ཕལ་ཆེར་ འཇིག་རྟེན་པ་␣འི་ ཏིང་འཛིན་ འབའ་ཞིག་ ཏུ་ འོང་བ་␣ས་"
-msgstr ""
+msgstr "Most likely, one will only have worldly meditative stabilizations."
 
 msgctxt "20bfbf42dfee462aaaa3db5afea8b5da"
 msgid "འཁོར་བ་ ལ་␣ས་ ཀྱང་ མི་འདའ་ ན་"
