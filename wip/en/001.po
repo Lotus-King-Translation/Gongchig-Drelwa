@@ -15622,7 +15622,7 @@ msgstr ""
 
 msgctxt "4936033c2bef49cf9ad1d1691e8ccfe7"
 msgid "བརྒྱུད་པ་ དེ་ལྟར་ རྣམ་པ་␣ར་ དག་པ་ ཡིན་པ་␣ས་ ཟབ་བོ །"
-msgstr ""
+msgstr "Since the lineage is pure in this way, it is profound."
 
 msgctxt "a583bc1ef3f240faa7738c88c5e9f375"
 msgid "རྡོ་␣༽༽་␣སྣང་བ་ སྣ་ཚོགས་ སུ་ སྣང་བ་ ཐམས་ཅད་ ཕྱི་དོན་ དུ་ སྒྲུབ་པ་␣ས་"
