@@ -15653,6 +15653,8 @@ msgstr "The grasping of appearance and non-appearance is one’s own mind."
 msgctxt "3c603b123a48451dbef9e8421abd856d"
 msgid "འོ་ན་ སྣང་ཡུལ་ ཡོད་པ་␣ས་ སེམས་ ཡིན་ ནམ་ མེད་པ་␣ས་ ཡིན །"
 msgstr ""
+"Well then, whether the mind is because of the existence of an appearing "
+"object or the non-existence of an appearing object."
 
 msgctxt "c259265b9e634d67a2143f950c9bdeaf"
 msgid "དང་པོ་ ལྟར་ ན་ ཡུལ་ ལྟར་ ཡོད་པ་ བཞིན་"
