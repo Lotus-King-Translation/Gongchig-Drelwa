@@ -15639,6 +15639,8 @@ msgstr ""
 msgctxt "086846e81c0a40ecbed3b8eb2603e8ce"
 msgid "འདི་␣ར་ ནི་ ཁམས་ གསུམ་ འཁོར་བ་ དང་ མྱང་འདས་ གསུམ་ གྱི་ ཆོས་མ་ ལུས་པ་"
 msgstr ""
+"In this [system], all the phenomena of the three realms of samsara and "
+"nirvana without exception"
 
 msgctxt "ef5cd9437d614f9191c8b6879987b7db"
 msgid "ཀུན་ གྱི་ བཟང་ངན་ སྣང་བ་ ནི་ རང་ གི་ སེམས་ ཡིན་ ཏེ །"
