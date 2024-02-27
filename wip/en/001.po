@@ -15570,7 +15570,7 @@ msgstr "Most likely, one will only have worldly meditative stabilizations."
 
 msgctxt "20bfbf42dfee462aaaa3db5afea8b5da"
 msgid "འཁོར་བ་ ལ་␣ས་ ཀྱང་ མི་འདའ་ ན་"
-msgstr ""
+msgstr "If one does not even transcend cyclic existence,"
 
 msgctxt "5156e1e54bba40b4854eacbb91506091"
 msgid "ཐམས་ཅད་ མཁྱེན་པ་ ལྟ་ཅི་ སྨོས །"
