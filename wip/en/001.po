@@ -15618,6 +15618,7 @@ msgstr ""
 msgctxt "79f9143f9dc04a4cafa95526a360fb4d"
 msgid "ལོ་ན་␣ས་ བརྒྱུད་པ་␣འི་ ཟབ་ ལམ་ ཕྱག་རྒྱ་ ཆེན་པོ་ སྟེ་"
 msgstr ""
+"The profound path of Mahamudra, which has been transmitted from years."
 
 msgctxt "4936033c2bef49cf9ad1d1691e8ccfe7"
 msgid "བརྒྱུད་པ་ དེ་ལྟར་ རྣམ་པ་␣ར་ དག་པ་ ཡིན་པ་␣ས་ ཟབ་བོ །"
