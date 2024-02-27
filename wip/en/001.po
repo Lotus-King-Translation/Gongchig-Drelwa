@@ -15627,6 +15627,8 @@ msgstr "Since the lineage is pure in this way, it is profound."
 msgctxt "a583bc1ef3f240faa7738c88c5e9f375"
 msgid "རྡོ་␣༽༽་␣སྣང་བ་ སྣ་ཚོགས་ སུ་ སྣང་བ་ ཐམས་ཅད་ ཕྱི་དོན་ དུ་ སྒྲུབ་པ་␣ས་"
 msgstr ""
+"Vajra: Since all appearances that appear as various kinds are established as"
+" external objects,"
 
 msgctxt "2f7a87a42c1d4641b69ad5d20e96be6b"
 msgid "བློ་ དང་ མ་ འབྲེལ་བ་␣ར་ བྱེ་ སྨྲ་ སོགས་ འདོད་པ་ ཡོད་ ཀྱང་"
