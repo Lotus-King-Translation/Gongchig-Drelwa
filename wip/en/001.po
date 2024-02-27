@@ -15682,7 +15682,7 @@ msgstr "Then, although appearances are not established as external objects, "
 
 msgctxt "146588e641ac47ff95a02b244b756f14"
 msgid "བག་ཆགས་ འཁྲུལ་བ་ རྨི་ལམ་ གྱི་ སྣང་བ་ ལྟར་"
-msgstr ""
+msgstr "They are confused latencies like the appearances of dreams,"
 
 msgctxt "521354ee06c247e28280c7faa98f4d80"
 msgid "ཕྱི་ ནང་ གང་ཡང་ མ་ ཡིན་"
