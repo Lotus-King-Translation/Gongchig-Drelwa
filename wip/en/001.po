@@ -15633,6 +15633,8 @@ msgstr ""
 msgctxt "2f7a87a42c1d4641b69ad5d20e96be6b"
 msgid "བློ་ དང་ མ་ འབྲེལ་བ་␣ར་ བྱེ་ སྨྲ་ སོགས་ འདོད་པ་ ཡོད་ ཀྱང་"
 msgstr ""
+"However, the Vaibhashikas and others accept that they are not connected to "
+"the mind."
 
 msgctxt "086846e81c0a40ecbed3b8eb2603e8ce"
 msgid "འདི་␣ར་ ནི་ ཁམས་ གསུམ་ འཁོར་བ་ དང་ མྱང་འདས་ གསུམ་ གྱི་ ཆོས་མ་ ལུས་པ་"
