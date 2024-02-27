@@ -15642,7 +15642,7 @@ msgstr ""
 
 msgctxt "ef5cd9437d614f9191c8b6879987b7db"
 msgid "ཀུན་ གྱི་ བཟང་ངན་ སྣང་བ་ ནི་ རང་ གི་ སེམས་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "All the appearances of good and bad are your own mind."
 
 msgctxt "86f68101ca6944bfa1bca805afda69ad"
 msgid "སྣང་ མི་ སྣང་ དུ་ འཛིན་པ་ རང་ གི་ སེམས་ ཡིན་པ་␣འི་ ཕྱིར །"
