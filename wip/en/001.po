@@ -15673,6 +15673,8 @@ msgstr ""
 msgctxt "c8c2d987d52e4fd8b86f7f25b7319ab4"
 msgid "གཉིས་པ་ ལྟར་ ན་␣འང་ དོན་ཡོད་པ་ ལྟར་ འགྱུར་ རོ་ སྙམ་ ན་"
 msgstr ""
+"In the second case, if one thinks that it would be like the existence of an "
+"object,"
 
 msgctxt "e71f006866254c3ea0450e0211548dae"
 msgid "སྣང་བ་ ཕྱི་དོན་ དུ་ གྲུབ་པ་ མེད་པ་␣ས་ ཡིན་ ཀྱང་"
