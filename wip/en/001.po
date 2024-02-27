@@ -15598,7 +15598,7 @@ msgstr "Paramita is the pure conduct transmitted form Buddha and Asanga."
 
 msgctxt "e2bec2ecd7254118b84244f405de7533"
 msgid "རྒྱུད་པ་ ཆུ་བོ་ གཉིས་ འདྲེས་ ཇོ་བོ་ རྗེ་ དང་ །"
-msgstr ""
+msgstr "The lineage of the two rivers mixed, from Atisha to"
 
 msgctxt "1415978b6ca746b6a32886613387d88d"
 msgid "བླ་མ་ དྭགས་པོ་ ལྷ་རྗེ་ ཕག་གྲུ་ ཆོས་རྗེ་ འབྲི་གུང་པ་ ནས་"
