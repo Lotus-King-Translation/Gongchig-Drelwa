@@ -15594,7 +15594,7 @@ msgstr ""
 
 msgctxt "174315d5ad604a83af8a000b3e0c771b"
 msgid "སྤྱོད་པ་ རྣམ་དག་ སངས་རྒྱས་ དང་ ཐོགས་མེད་ ནས་ བརྒྱུད་པ་␣འི་ ཕར་ཕྱིན །"
-msgstr ""
+msgstr "Paramita is the pure conduct transmitted form Buddha and Asanga."
 
 msgctxt "e2bec2ecd7254118b84244f405de7533"
 msgid "རྒྱུད་པ་ ཆུ་བོ་ གཉིས་ འདྲེས་ ཇོ་བོ་ རྗེ་ དང་ །"
