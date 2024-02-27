@@ -15578,7 +15578,7 @@ msgstr "It is needless to mention about omniscient."
 
 msgctxt "93f1bf81b9a141a7927de856d2adff5a"
 msgid "དེས་ན་ རྣམ་པ་␣ར་ དག་པ་␣འི་ བརྒྱུད་པ་"
-msgstr ""
+msgstr "Therefore, this kind of pure lineage is "
 
 msgctxt "3674b9441aa241bb932639cc2c343af9"
 msgid "དེ་ འདྲ་བ་ ནི་ བཀའ་ བརྒྱུད་ རིན་པོ་ཆེ་ འདི་ ཡིན་ ཏེ །"
