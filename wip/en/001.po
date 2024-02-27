@@ -15574,7 +15574,7 @@ msgstr "If one does not even transcend cyclic existence,"
 
 msgctxt "5156e1e54bba40b4854eacbb91506091"
 msgid "ཐམས་ཅད་ མཁྱེན་པ་ ལྟ་ཅི་ སྨོས །"
-msgstr ""
+msgstr "It is needless to mention about omniscience."
 
 msgctxt "93f1bf81b9a141a7927de856d2adff5a"
 msgid "དེས་ན་ རྣམ་པ་␣ར་ དག་པ་␣འི་ བརྒྱུད་པ་"
