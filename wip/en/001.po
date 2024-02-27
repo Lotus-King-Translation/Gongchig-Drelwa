@@ -15662,7 +15662,7 @@ msgstr "In the first case, just as the object exists,"
 
 msgctxt "c34ac91f4e1c4b81822f68aa69f90180"
 msgid "སེམས་ ཀྱང་ དེ་␣ར་ ཐལ་བ་␣འམ་"
-msgstr ""
+msgstr "It would absurdly follow that the mind would also be."
 
 msgctxt "0c382658f6844dfebd687921a4843638"
 msgid "སེམས་ བཞིན་ དུ་ ཡུལ་ ཀྱང་ མཐོང་ཆོས་ སུ་ མི་ རུང་བ་␣ར་ འགྱུར་ རོ ། །"
