@@ -15582,7 +15582,7 @@ msgstr "Therefore, this kind of pure lineage is "
 
 msgctxt "3674b9441aa241bb932639cc2c343af9"
 msgid "དེ་ འདྲ་བ་ ནི་ བཀའ་ བརྒྱུད་ རིན་པོ་ཆེ་ འདི་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "this precious Kagyu."
 
 msgctxt "1ab5f4812e394006be59770243064671"
 msgid ""
