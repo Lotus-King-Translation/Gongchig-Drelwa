@@ -15690,7 +15690,7 @@ msgstr "which are neither external nor internal,"
 
 msgctxt "7988da70aee9431e8515d76cb67735c0"
 msgid "གང་ དུའང་ མ་གྲུབ་པ་"
-msgstr ""
+msgstr "Nor established as anything at all. "
 
 msgctxt "bd52b37820ec496995a3becb251d67a2"
 msgid "རང་བཞིན་ མེད་པ་␣ར་ སྨྲ་བ་␣ས་ སྐྱོན་ དེ་དག་ མེད་ དོ ། །"
