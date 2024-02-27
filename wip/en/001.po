@@ -15658,7 +15658,7 @@ msgstr ""
 
 msgctxt "c259265b9e634d67a2143f950c9bdeaf"
 msgid "དང་པོ་ ལྟར་ ན་ ཡུལ་ ལྟར་ ཡོད་པ་ བཞིན་"
-msgstr ""
+msgstr "In the first case, just as the object exists,"
 
 msgctxt "c34ac91f4e1c4b81822f68aa69f90180"
 msgid "སེམས་ ཀྱང་ དེ་␣ར་ ཐལ་བ་␣འམ་"
