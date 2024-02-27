@@ -15612,6 +15612,8 @@ msgctxt "ede214563dc0458ebb2a7f10b7122084"
 msgid ""
 "སྔགས་ ཀྱི་ ལྟ་སྤྱོད་ སྒོམ་ གསུམ་ དབྱེ་␣ར་ མེད་ རྣམ་དག་ རྡོ་རྗེ་ འཆང་ ཏེ་"
 msgstr ""
+"The view, conduct, and meditation of the mantra are inseparable and "
+"completely pure."
 
 msgctxt "79f9143f9dc04a4cafa95526a360fb4d"
 msgid "ལོ་ན་␣ས་ བརྒྱུད་པ་␣འི་ ཟབ་ ལམ་ ཕྱག་རྒྱ་ ཆེན་པོ་ སྟེ་"
