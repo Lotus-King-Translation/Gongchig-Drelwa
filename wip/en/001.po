@@ -15589,6 +15589,8 @@ msgid ""
 "དེ་␣འང་ ལྟ་བ་ རྣམ་པ་␣ར་ དག་པ་ སངས་རྒྱས་ དང་ ཀླུ་ གྲུབ་ ནས་ བརྒྱུད་པ་␣འི་ "
 "དབུ་མ །"
 msgstr ""
+"Furthermore, Madhyamaka is the perfectly pure view transmitted from Buddha "
+"and Nagarjuna."
 
 msgctxt "174315d5ad604a83af8a000b3e0c771b"
 msgid "སྤྱོད་པ་ རྣམ་དག་ སངས་རྒྱས་ དང་ ཐོགས་མེད་ ནས་ བརྒྱུད་པ་␣འི་ ཕར་ཕྱིན །"
