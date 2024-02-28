@@ -15712,7 +15712,7 @@ msgstr "The mind is the five types of migrators,"
 
 msgctxt "586547b972a846339dc41e8e0d79431d"
 msgid "བདེ་ དང་ སྡུག་བསྔལ་ མཚན་ཉིད་ དག  །"
-msgstr ""
+msgstr "The characteristics of happiness and suffering,"
 
 msgctxt "40511b086dbf4ddea5d1eb23f7f509ce"
 msgid "སེམས་ལས་ མ་གཏོགས་ ཅུང་ཟད་ མེད །"
