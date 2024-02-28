@@ -15704,7 +15704,7 @@ msgstr "According to the Vajra[pani] Praise by the master Arya [Nagarjuna]:"
 
 msgctxt "d4eeca0589874d2aa22a8100efeafa17"
 msgid "སེམས་ རྟོགས་པ་␣ས་ ནི་ བྱང་ཆུབ་ སྟེ །"
-msgstr ""
+msgstr "Realizing the mind is enlightenment,"
 
 msgctxt "005e24a5a5534c22ae094c1d9c83d425"
 msgid "སེམས་ ནི་ འགྲོ་བ་ ལྔ་པོ་ ཡིན ། །"
