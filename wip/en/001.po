@@ -15720,7 +15720,7 @@ msgstr "There is nothing else besides the mind."
 
 msgctxt "23a18214db3f44368b94f44f1cca5fd9"
 msgid "ཅེས་ དང་ །"
-msgstr ""
+msgstr "And"
 
 msgctxt "993cf58a50924d96a74c3dcb17c65f1c"
 msgid "གུར་ ལ་␣ས །"
