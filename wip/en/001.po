@@ -15716,7 +15716,7 @@ msgstr "The characteristics of happiness and suffering,"
 
 msgctxt "40511b086dbf4ddea5d1eb23f7f509ce"
 msgid "སེམས་ལས་ མ་གཏོགས་ ཅུང་ཟད་ མེད །"
-msgstr ""
+msgstr "There is nothing else besides the mind."
 
 msgctxt "23a18214db3f44368b94f44f1cca5fd9"
 msgid "ཅེས་ དང་ །"
