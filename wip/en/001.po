@@ -15708,7 +15708,7 @@ msgstr "Realizing the mind is enlightenment,"
 
 msgctxt "005e24a5a5534c22ae094c1d9c83d425"
 msgid "སེམས་ ནི་ འགྲོ་བ་ ལྔ་པོ་ ཡིན ། །"
-msgstr ""
+msgstr "The mind is the five types of migrators,"
 
 msgctxt "586547b972a846339dc41e8e0d79431d"
 msgid "བདེ་ དང་ སྡུག་བསྔལ་ མཚན་ཉིད་ དག  །"
