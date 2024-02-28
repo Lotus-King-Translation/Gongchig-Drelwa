@@ -15758,6 +15758,8 @@ msgctxt "0106eabaa1974d15aa8731da964f2def"
 msgid ""
 "དེ་␣ས་ བསྒྲུབས་པ་␣འི་ དགེ་སྡིག་ གི་ འབྲས་བུ་ ཡང་ སེམས་ ལ་ སྣང་བ་ ཡིན་ ནོ ། །"
 msgstr ""
+"The results of virtue and non-virtue accomplished by that also appear to "
+"mind."
 
 msgctxt "f151e3e18cde446388ec9f852bb04671"
 msgid "དེ་ལྟར་ སློབ་དཔོན་ ཟླ་བ་␣ས །"
