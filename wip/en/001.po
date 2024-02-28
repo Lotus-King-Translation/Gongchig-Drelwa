@@ -15748,7 +15748,7 @@ msgstr "Thus,"
 
 msgctxt "7ad2ddff86504ce5b5bf3d462e03f643"
 msgid "སྣང་བ་␣འི་ ཡུལ་ ལུས་སེམས་ གསུམ་"
-msgstr ""
+msgstr "The three appearances of object, body, and mind, "
 
 msgctxt "7b8cf8029a7448179fc6b09c4a2acb29"
 msgid "སེམས་ལས་ གཞན་ དུ་མ་ དམིགས་ ཤིང༌ །"
