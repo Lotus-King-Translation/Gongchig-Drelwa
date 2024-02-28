@@ -15732,7 +15732,7 @@ msgstr "All the particular objects and sense faculties,"
 
 msgctxt "8a5e32f4f90243178f6e5d55ea0e0765"
 msgid "རྣམ་པ་ ཐ་དད་ མ་ མཆིས་ ཏེ་␣༑"
-msgstr ""
+msgstr "[They] are not different in type,"
 
 msgctxt "c8a49961ba5e448fa9d34edf529aef5a"
 msgid "གཟུགས་ སོགས་ སྣང་བ་␣ར་ གྱུར་པ་ ནི །"
