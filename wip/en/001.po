@@ -15752,7 +15752,7 @@ msgstr "The three appearances of object, body, and mind, "
 
 msgctxt "7b8cf8029a7448179fc6b09c4a2acb29"
 msgid "སེམས་ལས་ གཞན་ དུ་མ་ དམིགས་ ཤིང༌ །"
-msgstr ""
+msgstr "They are not observed as anything other than mind."
 
 msgctxt "0106eabaa1974d15aa8731da964f2def"
 msgid ""
