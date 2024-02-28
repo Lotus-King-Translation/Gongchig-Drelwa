@@ -15740,7 +15740,7 @@ msgstr "But the appearance of forms and so forth,"
 
 msgctxt "490c2bebe5214ac5a724373023ac4325"
 msgid "རང་སེམས་ སྣང་བ་ ཁོ་ན་␣འོ ། །"
-msgstr ""
+msgstr " It is just the appearance of one’s own mind."
 
 msgctxt "1297ee6b70f1444b8fb6b90fdc15a4ec"
 msgid "ཞེས་པ་␣ས་"
