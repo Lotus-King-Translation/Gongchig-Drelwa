@@ -15736,7 +15736,7 @@ msgstr "[They] are not different in type,"
 
 msgctxt "c8a49961ba5e448fa9d34edf529aef5a"
 msgid "གཟུགས་ སོགས་ སྣང་བ་␣ར་ གྱུར་པ་ ནི །"
-msgstr ""
+msgstr "But the appearance of forms and so forth,"
 
 msgctxt "490c2bebe5214ac5a724373023ac4325"
 msgid "རང་སེམས་ སྣང་བ་ ཁོ་ན་␣འོ ། །"
