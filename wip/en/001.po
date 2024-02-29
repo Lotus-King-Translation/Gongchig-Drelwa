@@ -2335,7 +2335,7 @@ msgid ""
 "ཆེན་ རྟོགས་པ་ དང༌ །"
 msgstr ""
 "After seeing plant reflections in brewed wine, the great Brahmin realized "
-"Mahamudra."
+"mahamudra."
 
 msgctxt "245610526ac74879a343f5939407de58"
 msgid "འདུལ་བ་ ལུང་ ལ་␣ས་"
