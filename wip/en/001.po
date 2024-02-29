@@ -15820,6 +15820,8 @@ msgid ""
 "འདི་␣ར་ ནི་ རྒྱུ་ དགེ་སྡིག་ གི་ ལ་␣ས་ ལ་ འབྲས་བུ་ བདེ་སྡུག་ མྱོང་བ་␣འི་ "
 "སྣང་བ་ ཐམས་ཅད་"
 msgstr ""
+"In this [system], all appearances of experiencing happiness and suffering as"
+" the result of virtuous and negative actions are"
 
 msgctxt "d1a4051237fb4518b3b50c90a9be0a3b"
 msgid "ཀུན་གཞི་ ལ་ འཁྲུལ་བ་␣འི་ བག་ཆགས་ བཞག་པ་"
