@@ -15847,7 +15847,7 @@ msgstr ""
 
 msgctxt "b1b228883b0f4a9983c57734289a6670"
 msgid "དེ་ལྟར་ ཡང་ མདོ་ དྲན་ ཉེར་ ལ་␣ས །"
-msgstr ""
+msgstr "Likewise, according to the Application of Mindfulness Sutra:"
 
 msgctxt "875a91b005b14bc9942ade17b41b2b44"
 msgid "འཇིག་རྟེན་ དག་ ན་ ཇི་ལྟར་ སྣང་བ་ ཀུན ། །"
