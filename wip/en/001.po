@@ -15775,7 +15775,7 @@ msgstr "The container worlds in great diversity."
 
 msgctxt "309ffe368c1848588c2ae2204c9b4a57"
 msgid "འགྲོ་བ་ མ་ ལུས་ ལ་␣ས་ ལ་␣ས་ སྐྱེས་པ་␣ར་ གསུངས ། །"
-msgstr ""
+msgstr "All migrators are said to be born from karma,"
 
 msgctxt "34ca1b29051d4a549a121f1945a306b7"
 msgid "སེམས་ སྤང་ ནས་ ནི་ལ་␣ས་ ཀྱང་ ཡོད་ མ་ ཡིན །"
