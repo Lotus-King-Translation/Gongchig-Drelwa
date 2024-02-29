@@ -15812,6 +15812,8 @@ msgstr ""
 msgctxt "4786baac2bd0405ebfd989f968873c5d"
 msgid "ད་ལྟ་ གང་ བསགས་པ་ ཕྱི་མ་ ལ་␣ས་ ད་ལྟ་ འབྲས་བུ་ མི་ འབྱུང་ ཟེར །"
 msgstr ""
+"Whatever is accumulated now will produce results in the future, not in the "
+"present."
 
 msgctxt "04b6bebca61f4af9895d0f975e8a52b6"
 msgid ""
