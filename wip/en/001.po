@@ -15791,7 +15791,7 @@ msgstr "It does not have an actor such as mind."
 
 msgctxt "645aa52baa334eff9ac36c18b8160cc8"
 msgid "དེ་␣ས་ ནི་ སེམས་ལས་ གཞན་པ་␣འི་ བྱེད་པ་པོ ། །"
-msgstr ""
+msgstr "Therefore, the actor other than the mind"
 
 msgctxt "45106f2e9c6b440387e4cd1856954507"
 msgid "བཟློག་པ་␣འི་ གཟུགས་ ནི་ བཀག་པ་ མ་ ཡིན་ ནོ ། །"
