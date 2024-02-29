@@ -15875,7 +15875,7 @@ msgstr "Because they are engaged in a continuum."
 
 msgctxt "284a12af2808412ebba3e70a6d8510f6"
 msgid "དཔེར་ན་ ཕྲེང་བ་ རེ་རེ་བ་ མེད་པ་␣འི་ བརྒྱ་ མི་ འབྱུང་བ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "For example, a hundred cannot emerge without each of the beads. "
 
 msgctxt "c55a9a6fcf194a4f9fe74caacca02f9f"
 msgid ""
