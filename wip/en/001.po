@@ -15771,7 +15771,7 @@ msgstr "The mind itself lays the sentient beings, the world and "
 
 msgctxt "d271246a49374c52828d9db9eff41c13"
 msgid "སྣོད་ ཀྱི་ འཇིག་རྟེན་ ཤིན་ཏུ་ སྣ་ཚོགས་ འགོད ། །"
-msgstr ""
+msgstr "The container worlds in great diversity."
 
 msgctxt "309ffe368c1848588c2ae2204c9b4a57"
 msgid "འགྲོ་བ་ མ་ ལུས་ ལ་␣ས་ ལ་␣ས་ སྐྱེས་པ་␣ར་ གསུངས ། །"
