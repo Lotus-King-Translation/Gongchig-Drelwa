@@ -15923,7 +15923,7 @@ msgstr ""
 
 msgctxt "da2c5ee553194fc882ba4efa852b8618"
 msgid "བྱམས་ སོགས་ ཀྱི་ བདེ་ལྡན་ གྱིས་ འགྲོ་བ་ ལྟ་བུ་ སྟེ་"
-msgstr ""
+msgstr "It is like migrators who are happy with love and so forth."
 
 msgctxt "c676bdd34509427bb438a29b55958706"
 msgid ""
