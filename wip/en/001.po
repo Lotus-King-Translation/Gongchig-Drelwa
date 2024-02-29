@@ -15902,6 +15902,8 @@ msgid ""
 "དེ་␣འང་ རང་རྒྱུད་ ལ་ དགེ་ མི་དགེ་␣འི་ རྣམ་རྟོག་ གང་ སྐྱེས་པ་␣འི་ "
 "འབྲས་བུ་␣འམ་ ས་བོན་"
 msgstr ""
+"The result or seed of any virtuous or non-virtuous discursive thoughts that "
+"arise in one’s own continuum."
 
 msgctxt "950ce45bb1154d1fb024d7d0e15005ad"
 msgid "དེ་ དང་ རིགས་ མཐུན་པ་ ཞིག་ རྟོག་པ་"
