@@ -15867,7 +15867,7 @@ msgstr "Furthermore, the momentariness of composite [phenomena] means"
 
 msgctxt "5704de270b2e4fb591b754fff0343a33"
 msgid "རྒྱུ་རྐྱེན་ གྱི་ ཆོས་ རྣམས་ ཆོས་ཅན་ སྐད་ཅིག་མ་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "That the phenomena of causes and conditions are momentary."
 
 msgctxt "2ee3c763552f4cb5834eeeba7cdc7796"
 msgid "རྒྱུན་ གྱི་ འཇུག་པ་␣འི་ ཕྱིར །"
