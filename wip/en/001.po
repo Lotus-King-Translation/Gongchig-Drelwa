@@ -15783,7 +15783,7 @@ msgstr "When the mind is abandoned, karma no longer exists."
 
 msgctxt "514f8b1c6fd74d04b155667f9bf2a4c0"
 msgid "གལ་ཏེ་ གཟུགས་ ཡོད་ མོད་ ཀྱི་ དེ་ ལ་ ནི ། །"
-msgstr ""
+msgstr "Even in case if the form exists, "
 
 msgctxt "d2909569805f4225a32d44296e71b9e5"
 msgid "སེམས་ བཞིན་ བྱེད་པ་པོ་ ཉིད་ ཡོད་ མ་ ཡིན ། །"
