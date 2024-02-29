@@ -15835,6 +15835,8 @@ msgctxt "95112d3bacc94001b442ebe06594d7db"
 msgid ""
 "གཟུགས་ ཡིན་པ་␣ས་ འཁྲུལ་སྣང་ སྟེ་ བག་ཆགས་ མ་ཟད་ རིང་ ལ་སྟོང་ མི་ སྲིད་པ་"
 msgstr ""
+"Because of being the form, they are the appearances of confusion, thus it is"
+" impossible for them to be empty as long as the latencies are not exhausted."
 
 msgctxt "b1181b46d8e645c9a08501ebb5987cb6"
 msgid ""
