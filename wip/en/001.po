@@ -15855,7 +15855,7 @@ msgstr "All that appears in the worlds,"
 
 msgctxt "92973a6239734be6b2c635ef8e152e73"
 msgid "ཐམས་ཅད་ རང་ གི་ ལ་␣ས༌་␣ལ༌ཉེ་ བར་ བྱུང༌ །"
-msgstr ""
+msgstr "All of them arise from one's own karma."
 
 msgctxt "6a308a5b692f4664ba931ebd10a9ac6e"
 msgid "ཞེས་ སོ །"
