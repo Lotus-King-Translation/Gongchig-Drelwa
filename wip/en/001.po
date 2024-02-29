@@ -15787,7 +15787,7 @@ msgstr "Even in case if the form exists, "
 
 msgctxt "d2909569805f4225a32d44296e71b9e5"
 msgid "སེམས་ བཞིན་ བྱེད་པ་པོ་ ཉིད་ ཡོད་ མ་ ཡིན ། །"
-msgstr ""
+msgstr "It does not have an actor such as mind."
 
 msgctxt "645aa52baa334eff9ac36c18b8160cc8"
 msgid "དེ་␣ས་ ནི་ སེམས་ལས་ གཞན་པ་␣འི་ བྱེད་པ་པོ ། །"
