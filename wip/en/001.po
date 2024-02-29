@@ -15829,7 +15829,7 @@ msgstr "The latencies of delusion placed in the omni-base [consciousness]."
 
 msgctxt "ce9dcf9fd33f4503900e54fef8315370"
 msgid "དེ་སྐད་ ཅིག་ གི་ བསམ་པ་ དེ་␣འི་ རང་ གི་ སྣང །"
-msgstr ""
+msgstr "It appears itself by having thoughts for a moment."
 
 msgctxt "95112d3bacc94001b442ebe06594d7db"
 msgid ""
