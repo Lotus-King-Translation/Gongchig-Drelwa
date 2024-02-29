@@ -15842,6 +15842,8 @@ msgctxt "b1181b46d8e645c9a08501ebb5987cb6"
 msgid ""
 "མཁྲིས་ནད་ མ་ འབྱང་བ་␣ར་ དུ་ དུང་ལ་ སེ་␣ར་ འཛིན་ མི་ ལྡོག་པ་ བཞིན་ ནོ ། །"
 msgstr ""
+"Until the jaundice is cured, apprehending of yellow conch will not be "
+"reversed."
 
 msgctxt "b1b228883b0f4a9983c57734289a6670"
 msgid "དེ་ལྟར་ ཡང་ མདོ་ དྲན་ ཉེར་ ལ་␣ས །"
