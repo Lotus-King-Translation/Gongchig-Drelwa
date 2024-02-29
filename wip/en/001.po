@@ -15851,7 +15851,7 @@ msgstr "Likewise, according to the Application of Mindfulness Sutra:"
 
 msgctxt "875a91b005b14bc9942ade17b41b2b44"
 msgid "འཇིག་རྟེན་ དག་ ན་ ཇི་ལྟར་ སྣང་བ་ ཀུན ། །"
-msgstr ""
+msgstr "All that appears in the worlds,"
 
 msgctxt "92973a6239734be6b2c635ef8e152e73"
 msgid "ཐམས་ཅད་ རང་ གི་ ལ་␣ས༌་␣ལ༌ཉེ་ བར་ བྱུང༌ །"
