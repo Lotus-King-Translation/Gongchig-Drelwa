@@ -15882,7 +15882,7 @@ msgid ""
 "སྣང་ གཟུགས་ ནི་ ཕྱག་རྒྱ་ ཆེན་པོ་␣འི་ ཆོས་ཉིད་ འདི་ བསམ་པ་␣འི་ རང་གཟུགས་ ཡིན་"
 " ལ་"
 msgstr ""
-"The appearing form is the reflected natural form of this reality of "
+"The appearing form is the natural form of thought of the reality of "
 "mahamudra."
 
 msgctxt "00f8e8f7657442ee9057cfa1a385a07b"
