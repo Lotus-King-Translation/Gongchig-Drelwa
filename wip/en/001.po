@@ -15918,6 +15918,8 @@ msgctxt "2df04dcacbb54da99f3df834116e531d"
 msgid ""
 "དེ་␣འི་ རང་གཟུགས་ སུ་ འགྲུབ་པ་ ནི་ ཞེ་སྡང་ གིས་ དམར་ ལམ་ གྱི་ སོང་བ་ དང །"
 msgstr ""
+"To be produced in the natural form that is gone in the red path of hatred "
+"and"
 
 msgctxt "da2c5ee553194fc882ba4efa852b8618"
 msgid "བྱམས་ སོགས་ ཀྱི་ བདེ་ལྡན་ གྱིས་ འགྲོ་བ་ ལྟ་བུ་ སྟེ་"
