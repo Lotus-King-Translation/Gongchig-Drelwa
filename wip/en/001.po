@@ -15863,7 +15863,7 @@ msgstr "As said."
 
 msgctxt "d30e48defc534b82bbfde9e9efb5c9d2"
 msgid "དེ་␣འང་ འདུས་བྱས་ སྐད་ཅིག་མ་ ཡིན་པ་ ནི །"
-msgstr ""
+msgstr "Furthermore, the momentariness of composite [phenomena] means"
 
 msgctxt "5704de270b2e4fb591b754fff0343a33"
 msgid "རྒྱུ་རྐྱེན་ གྱི་ ཆོས་ རྣམས་ ཆོས་ཅན་ སྐད་ཅིག་མ་ ཡིན་ ཏེ །"
