@@ -15895,7 +15895,7 @@ msgstr ""
 
 msgctxt "5a96a7ccf3fa40fb9be6c7cb347e3639"
 msgid "དང་པོ་ ནི་"
-msgstr ""
+msgstr "The first is"
 
 msgctxt "2fa6d3c388db42479ab917341b56a644"
 msgid ""
