@@ -15887,7 +15887,7 @@ msgstr ""
 
 msgctxt "00f8e8f7657442ee9057cfa1a385a07b"
 msgid "ཆོས་ཅན་ བསམ་པ་␣འི་ རང་གཟུགས་ ལ་ ནི་ གསུམ་ སྟེ །"
-msgstr ""
+msgstr "The subject, the reflected natural form is threefold. "
 
 msgctxt "361fa6636975476c857c221b14abb947"
 msgid ""
