@@ -15806,6 +15806,8 @@ msgid ""
 "རྡོ་␣༽༽་␣ད་ལྟ་␣འི་ བདེ་སྡུག་ སྔོན་ གྱི་ དགེ་སྡིག་ གི་ འབྲས་བུ་ སྨིན་པ་ ཡིན་ "
 "ཅིང་"
 msgstr ""
+"Vajra: It is said that present happiness and suffering are the ripened "
+"fruits of previous virtue and negative action,"
 
 msgctxt "4786baac2bd0405ebfd989f968873c5d"
 msgid "ད་ལྟ་ གང་ བསགས་པ་ ཕྱི་མ་ ལ་␣ས་ ད་ལྟ་ འབྲས་བུ་ མི་ འབྱུང་ ཟེར །"
