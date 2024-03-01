@@ -15947,7 +15947,7 @@ msgstr ""
 
 msgctxt "832bfaec4803471392eb17eaa1125365"
 msgid "གསུམ་པ་ ནི །"
-msgstr ""
+msgstr "The third is"
 
 msgctxt "408f88ce07b64d8d8dcffcb0d06cd09f"
 msgid "ལུས་ འགྱུར་བ་ དགེ་ཚུལ་ ཀླུ་␣ར་ གྱུར་པ་␣འི་ གླེང་ གཞི་ བཞིན་ ནོ ། །"
