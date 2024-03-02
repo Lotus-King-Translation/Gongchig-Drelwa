@@ -15983,6 +15983,8 @@ msgstr ""
 msgctxt "49da4c6d19cc4a8f917361f4eea36420"
 msgid "སྐད་ཅིག་ ལ་ དགེ་ མི་དགེ་␣འི་ བསམ་པ་ མི་རྟག་པ་␣ར་ ཤེས་པ་ དང༌ །"
 msgstr ""
+"And one will understand that virtuous and non-virtuous thoughts are "
+"impermanent in every moment,"
 
 msgctxt "616c2b027b50490cb955587a8ed08186"
 msgid "ལུས་ མི་རྟག་པ་␣ར་ འགྱུར་བ་ ཤེས་པ་␣ས་"
