@@ -16012,7 +16012,7 @@ msgstr "When it is produced with one step,"
 
 msgctxt "a3dbca97fe84438bbc70dd3ef8736284"
 msgid "ཐམས་ཅད་ གཅིག་ ཅ་␣ར་ འགུལ་བ་ ལྟར །"
-msgstr ""
+msgstr "Everything is simultaneously moved,"
 
 msgctxt "e817cb0dad6d4db9a7be05c43575e9ba"
 msgid "སྐད་ཅིག་ ཡེ་ཤེས་ དེ་བཞིན་ ནོ ། ༑"
