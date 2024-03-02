@@ -15972,7 +15972,7 @@ msgstr "The result of karma arising from interdependence is"
 
 msgctxt "0ce831c693ba48f8bf1a5fefdbb7c039"
 msgid "མོ་མཁན་ དང་ འདྲ་བ་␣འི་ སེམས་ ལ་ སྣང་བ་␣འི་ གཟུགས་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "Like a fortune-teller, the form that appears to the mind."
 
 msgctxt "c12cf6eb2a5447e3b7ab5e1aaeaf348a"
 msgid "འདི་ གོ་ ན་ མཐོང་ཆོས་ སྐད་ཅིག་ ཏུ་ འབྱུང་བ་ ལ་ མཁས་པ་ དང༌ །"
