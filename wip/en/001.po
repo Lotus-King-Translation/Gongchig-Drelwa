@@ -15968,7 +15968,7 @@ msgstr "Thus, the mind, karma, and "
 
 msgctxt "232c068e303f47ae979b2dcde61203a1"
 msgid "ལ་␣ས་ ཀྱི་ འབྲས་བུ་␣ས་ རྟེན་འབྲེལ་ ལ་␣ས་ འབྱུང་བ་ ནི་"
-msgstr ""
+msgstr "The result of karma arising from interdependence is"
 
 msgctxt "0ce831c693ba48f8bf1a5fefdbb7c039"
 msgid "མོ་མཁན་ དང་ འདྲ་བ་␣འི་ སེམས་ ལ་ སྣང་བ་␣འི་ གཟུགས་ ཡིན་ ནོ ། །"
