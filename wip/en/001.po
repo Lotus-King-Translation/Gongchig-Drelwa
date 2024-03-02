@@ -15994,6 +15994,7 @@ msgstr ""
 msgctxt "d040e2eebd3d471a8af32337c31d251d"
 msgid "སྐྱོན་ སྤོང་ ཡོན་ཏན་ བསྒྲུབ་པ་ ལ་ ཚེགས་ མེད་པ་␣ར་ འོང་བ་ ཡིན་ ཏེ །"
 msgstr ""
+"Therefore, one will easily eliminate faults and accomplish good qualities."
 
 msgctxt "137e1c14304f4aee9de470abbcab874e"
 msgid "ཕར་ཕྱིན་ མངོན་རྟོགས་ རྒྱན་ ལ་␣ས །"
