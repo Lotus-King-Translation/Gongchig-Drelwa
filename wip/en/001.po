@@ -16068,6 +16068,8 @@ msgstr "Its nature is not ascertained."
 msgctxt "9e9b027efdba47bfa4543c064a627852"
 msgid "འདི་␣ར་ རྒྱུ་འབྲས་ ཀྱི་ གཤིས༌་␣ལ་ རྟེན་འབྲེལ་ ལ་ མི་ གནས་ ན་"
 msgstr ""
+"In this [system], if the interdependence is not ascertained in the intrinsic"
+" nature of cause and effect,"
 
 msgctxt "5c40867657cd4bfe9b80ff22a7485db9"
 msgid "བལྟས་པ་␣ས་ འགྱུར་ མི་ སྲིད་ དེ་"
