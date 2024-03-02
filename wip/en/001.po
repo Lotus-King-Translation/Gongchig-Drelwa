@@ -15936,6 +15936,8 @@ msgstr ""
 msgctxt "34e66e646b5f41cda28b469859227fba"
 msgid "གཉིས་པ་ ནི་ སྔར་ དགེ་རྩ་ དཔག་མེད་ བསྒྲུབ་ ཀྱང་"
 msgstr ""
+"The second is that although one has previously accomplished countless roots "
+"of virtue,"
 
 msgctxt "fa13031ede12466585a65e4d82af4a37"
 msgid ""
