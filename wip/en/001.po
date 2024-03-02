@@ -15944,6 +15944,8 @@ msgid ""
 "འཆི་ཁ་␣ར་ མི་དགེ་བ་␣ས་ མཚམས་ སྦྱར་ ན་ སོང་ དུ་ སྐྱེ་བ་ ཆོས་རྒྱལ་ "
 "མྱ་ངན་མེད་པ་ དང་ །"
 msgstr ""
+"If one connects with non-virtue at the time of death, one will be reborn in "
+"bad migrations like the Dharma King Ashoka and"
 
 msgctxt "45de681b413649bfa10e4c49670b8bb9"
 msgid "དགེ་བ་␣ས་ མཚམས་ སྦྱར་ ན་ འཕགས་རྒྱལ་ གྱི་ རྔོན་པ་ ལྟ་བུ་ བཞིན་ ནོ ། །"
