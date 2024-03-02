@@ -16004,7 +16004,7 @@ msgstr ""
 
 msgctxt "3719fc09db384f97a76f177ab41fc464"
 msgid "ཇི་ལྟར་ སྐྱེས་པ་␣འི་ ཟོ་ཆུན་ རྒྱུད །"
-msgstr ""
+msgstr "Just as how a watermill is produced in continuity,"
 
 msgctxt "950a049a739c4c7d83a83dabc96a31ca"
 msgid "རྡོག་ ཐབས་ གཅིག་ གིས་ བསྐྱེད་པ་ ན ། །"
