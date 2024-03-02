@@ -9386,7 +9386,7 @@ msgid ""
 msgstr ""
 "This is because the primordial wisdom of knowing sees the individual "
 "occurrence of virtuous and non-virtuous effects, as well as [what is] "
-"abiding and [what is] not abiding."
+"appropriate and [what is] inappropriate."
 
 msgctxt "01f41a85b6a847d1837fa434c30f2318"
 msgid "ས་བོན་ སོ་སོ་ ལས་འབྲས་ བུ་ སོ་སོ་ འབྱུང་བ་ བཞིན་ ནོ ། །"
