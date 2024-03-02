@@ -16059,7 +16059,7 @@ msgstr "It is said because the intrinsic nature is not established and"
 
 msgctxt "1f84ceb8a1b141a39d656ca8be967dd2"
 msgid "འཁྲུལ་སྣང་ ཡིན་པ་ དང་"
-msgstr ""
+msgstr "It is confused appearances and "
 
 msgctxt "f3f5013392d24c2f995ff409a7236528"
 msgid "རང་བཞིན་ མ་ངེས་པ་␣འི་ ཕྱིར་ ཞེས་ ཟེར་ རོ །"
