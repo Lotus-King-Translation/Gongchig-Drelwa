@@ -15960,6 +15960,7 @@ msgstr "The third is"
 msgctxt "408f88ce07b64d8d8dcffcb0d06cd09f"
 msgid "ལུས་ འགྱུར་བ་ དགེ་ཚུལ་ ཀླུ་␣ར་ གྱུར་པ་␣འི་ གླེང་ གཞི་ བཞིན་ ནོ ། །"
 msgstr ""
+"This is like the story of the novice whose body changed and became a naga."
 
 msgctxt "bcf185f8c2d8434299e0ff9f5b6d6467"
 msgid "དེ་ལྟར་ སེམས་ དང་ །  ལ་␣ས་ དང་ །"
