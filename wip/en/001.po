@@ -16032,7 +16032,7 @@ msgstr "The lord Phagmo Drupa's appearances,"
 
 msgctxt "d0e23893c6134efe948c9dbb82111713"
 msgid "རང་སེམས་ ཀྱི་ ཁྲོད་ ནས་"
-msgstr ""
+msgstr "From within one's own mind,"
 
 msgctxt "7f454f5140fe456c930bf6fadea36630"
 msgid "ང་ འབུས་ བསམ་པ་␣འི་ རང་གཟུགས་ འདི་ རྙེད་པ་ ཡིན་ གསུངས །"
