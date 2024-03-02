@@ -16016,7 +16016,7 @@ msgstr "Everything is simultaneously moved,"
 
 msgctxt "e817cb0dad6d4db9a7be05c43575e9ba"
 msgid "སྐད་ཅིག་ ཡེ་ཤེས་ དེ་བཞིན་ ནོ ། ༑"
-msgstr ""
+msgstr "The instantaneous wisdom is like that."
 
 msgctxt "21d6fd726023465a912215772c195178"
 msgid "ཞེས་ སོ །"
