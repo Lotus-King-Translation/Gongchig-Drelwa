@@ -16024,7 +16024,7 @@ msgstr "As said."
 
 msgctxt "1ded63f024e2495e83830939a2598b12"
 msgid "རྗེ་ འཇིག་རྟེན་ མགོན་པོ་␣ས །"
-msgstr ""
+msgstr "Lord Jigten Gonpo says:"
 
 msgctxt "90686f81dfa94e498ef94332d3a4445e"
 msgid "རྗེ་ ཕག་མོ་ གྲུ་པ་␣འི་ སྣང་བ་"
