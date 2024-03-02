@@ -16081,6 +16081,8 @@ msgstr "It is impossible to change by examining it,"
 msgctxt "1258e643d4d64342a41d30e3c91bfb0e"
 msgid "གནས་ དང་ གནས་མིན་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ དང་ འགལ་བ་␣འི་ ཕྱིར་ དང་ །"
 msgstr ""
+"It contradicts [what is] appropriate or inappropriate of the omniscient "
+"wisdom, and"
 
 msgctxt "2d6e83a0aa904456864492750aad4d5f"
 msgid "རྒྱུ་འབྲས་ རྟེན་འབྲེལ་ གྱི་ གཤིས་ དང་ འགལ་བ་ དང༌ །"
