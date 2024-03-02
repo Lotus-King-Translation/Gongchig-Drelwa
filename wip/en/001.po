@@ -6661,7 +6661,7 @@ msgstr "The essential point about accepting suchness is that"
 
 msgctxt "0c40e45027464a73a715188188e8d463"
 msgid "ཆོས་ ཐམས་ཅད་ བསམ་པ་ སྐད་ཅིག་མ་␣འི་ རང་གཟུགས་ ཡིན་པ་"
-msgstr "All phenomena are the natural forms of momentary thoughts, "
+msgstr "All phenomena are the natural forms of momentary thought,"
 
 msgctxt "d64ce2c9509b479688f91f443e4be137"
 msgid "དགེ་ མི་དགེ་␣འི་ བསམ་པ་ གང་དེ་␣འི་ རང་གཟུགས་ སུ་ འགྲུབ་པ་␣ས་ ན་␣འོ ། །"
