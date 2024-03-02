@@ -16091,6 +16091,8 @@ msgstr "It is contrary to the nature of interdependence of cause and effect."
 msgctxt "8739ae51d1ef4f258f0bab7646e97871"
 msgid "ཆོས་ ཀྱི་ གྲགས་པ་␣འི་ ཚད་མ་␣ས་ ཀྱང་ མི་ འགྲུབ་པ་␣འི་ ཕྱིར་ རོ །"
 msgstr ""
+"This is because it is not established even by [the Compendium of] Valid "
+"Cognition of Dharmakirti."
 
 msgctxt "a4b5aa45df6b4f5ba4cdf946eb1347d2"
 msgid "གལ་ཏེ་ འགྱུར་ ན་ སྡུག་བསྔལ་ བདེ་བ་␣ར་ བལྟས་པ་␣ས་"
