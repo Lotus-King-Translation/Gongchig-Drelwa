@@ -16063,7 +16063,7 @@ msgstr "It is confused appearances and "
 
 msgctxt "f3f5013392d24c2f995ff409a7236528"
 msgid "རང་བཞིན་ མ་ངེས་པ་␣འི་ ཕྱིར་ ཞེས་ ཟེར་ རོ །"
-msgstr ""
+msgstr "Its nature is not ascertained."
 
 msgctxt "9e9b027efdba47bfa4543c064a627852"
 msgid "འདི་␣ར་ རྒྱུ་འབྲས་ ཀྱི་ གཤིས༌་␣ལ་ རྟེན་འབྲེལ་ ལ་ མི་ གནས་ ན་"
