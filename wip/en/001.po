@@ -15930,6 +15930,8 @@ msgid ""
 "བྲམ་ཟེ་ ཏོ་ རྒྱ་␣འི་ ནེ་ ཚོ་␣འི་ ཁྱི་ དཀར་པོ་ དུང་ ལྟ་བུ་␣འི་ གཏམ་རྒྱུད་ "
 "བཞིན་ ནོ ། །"
 msgstr ""
+"It is similar to the story of the brahman Torgyal's white dog of Netso which"
+" resembles a conch shell."
 
 msgctxt "34e66e646b5f41cda28b469859227fba"
 msgid "གཉིས་པ་ ནི་ སྔར་ དགེ་རྩ་ དཔག་མེད་ བསྒྲུབ་ ཀྱང་"
