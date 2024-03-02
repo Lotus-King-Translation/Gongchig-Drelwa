@@ -15977,6 +15977,8 @@ msgstr "Like a fortune-teller, the form that appears to the mind."
 msgctxt "c12cf6eb2a5447e3b7ab5e1aaeaf348a"
 msgid "འདི་ གོ་ ན་ མཐོང་ཆོས་ སྐད་ཅིག་ ཏུ་ འབྱུང་བ་ ལ་ མཁས་པ་ དང༌ །"
 msgstr ""
+"If one understands this, one will become skilled in the fact that the "
+"visible world arises moment by moment,"
 
 msgctxt "49da4c6d19cc4a8f917361f4eea36420"
 msgid "སྐད་ཅིག་ ལ་ དགེ་ མི་དགེ་␣འི་ བསམ་པ་ མི་རྟག་པ་␣ར་ ཤེས་པ་ དང༌ །"
