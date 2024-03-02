@@ -15989,6 +15989,7 @@ msgstr ""
 msgctxt "616c2b027b50490cb955587a8ed08186"
 msgid "ལུས་ མི་རྟག་པ་␣ར་ འགྱུར་བ་ ཤེས་པ་␣ས་"
 msgstr ""
+"And thus understand that the body is impermanent and subject to change."
 
 msgctxt "d040e2eebd3d471a8af32337c31d251d"
 msgid "སྐྱོན་ སྤོང་ ཡོན་ཏན་ བསྒྲུབ་པ་ ལ་ ཚེགས་ མེད་པ་␣ར་ འོང་བ་ ཡིན་ ཏེ །"
