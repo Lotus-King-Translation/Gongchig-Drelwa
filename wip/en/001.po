@@ -15964,7 +15964,7 @@ msgstr ""
 
 msgctxt "bcf185f8c2d8434299e0ff9f5b6d6467"
 msgid "དེ་ལྟར་ སེམས་ དང་ །  ལ་␣ས་ དང་ །"
-msgstr ""
+msgstr "Thus, the mind, karma, and "
 
 msgctxt "232c068e303f47ae979b2dcde61203a1"
 msgid "ལ་␣ས་ ཀྱི་ འབྲས་བུ་␣ས་ རྟེན་འབྲེལ་ ལ་␣ས་ འབྱུང་བ་ ནི་"
