@@ -16096,15 +16096,15 @@ msgstr ""
 
 msgctxt "a4b5aa45df6b4f5ba4cdf946eb1347d2"
 msgid "གལ་ཏེ་ འགྱུར་ ན་ སྡུག་བསྔལ་ བདེ་བ་␣ར་ བལྟས་པ་␣ས་"
-msgstr ""
+msgstr "If it changes, then suffering is viewed as happiness."
 
 msgctxt "3a5c9254301e41ba820d5d9c762c0328"
 msgid "དེ་␣ར་ འགྱུར་ རིགས་ ན་␣འང་ མངོན་སུམ་ དང་ འགལ་ ཞིང་"
-msgstr ""
+msgstr "Even if it can change, this would contradict direct perception and "
 
 msgctxt "cdca0a9d47514b2980b597537a4899e4"
 msgid "མི་ འགྲུབ་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "Thus it is not established."
 
 msgctxt "495a1be366954a669502da178023f7a3"
 msgid "རྫུ་འཕྲུལ་ ཏིང་འཛིན་ གྱི་ སྟོབས་ ལ་␣ས་"
