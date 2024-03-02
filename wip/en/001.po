@@ -16086,7 +16086,7 @@ msgstr ""
 
 msgctxt "2d6e83a0aa904456864492750aad4d5f"
 msgid "རྒྱུ་འབྲས་ རྟེན་འབྲེལ་ གྱི་ གཤིས་ དང་ འགལ་བ་ དང༌ །"
-msgstr ""
+msgstr "It is contrary to the nature of interdependence of cause and effect."
 
 msgctxt "8739ae51d1ef4f258f0bab7646e97871"
 msgid "ཆོས་ ཀྱི་ གྲགས་པ་␣འི་ ཚད་མ་␣ས་ ཀྱང་ མི་ འགྲུབ་པ་␣འི་ ཕྱིར་ རོ །"
