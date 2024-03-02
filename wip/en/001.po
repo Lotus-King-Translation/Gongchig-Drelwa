@@ -16037,6 +16037,7 @@ msgstr "From within one's own mind,"
 msgctxt "7f454f5140fe456c930bf6fadea36630"
 msgid "ང་ འབུས་ བསམ་པ་␣འི་ རང་གཟུགས་ འདི་ རྙེད་པ་ ཡིན་ གསུངས །"
 msgstr ""
+"It is said that the natural forms of thought such as “I am a bug” is found."
 
 msgctxt "020d601816af43fdb512ccb9abea8033"
 msgid ""
