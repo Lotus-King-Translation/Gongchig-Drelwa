@@ -15950,6 +15950,8 @@ msgstr ""
 msgctxt "45de681b413649bfa10e4c49670b8bb9"
 msgid "དགེ་བ་␣ས་ མཚམས་ སྦྱར་ ན་ འཕགས་རྒྱལ་ གྱི་ རྔོན་པ་ ལྟ་བུ་ བཞིན་ ནོ ། །"
 msgstr ""
+"If one connects with virtue, one will be like the hunter of the Ujjain "
+"[city]."
 
 msgctxt "832bfaec4803471392eb17eaa1125365"
 msgid "གསུམ་པ་ ནི །"
