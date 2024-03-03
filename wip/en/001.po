@@ -16145,7 +16145,7 @@ msgstr "Then it does not need to depend on abandonment or adoption."
 msgctxt "acc314fe3c60401c95f8dfe864a773a2"
 msgid "རྡོ་␣༽༽  མཚན་ཉིད་ མི་ ལྡན་པ་␣འི་ བླ་མ་␣ས་ ཀྱང་ ཡོན་ཏན་ སྐྱེ་ ནུས་ ཏེ་"
 msgstr ""
-"Vajra: It is said that even a guru who does not possess qualifications can "
+"Vajra: It is said that even a guru who does not possess characteristics can "
 "give rise to good qualities."
 
 msgctxt "ac6db0cdc6a4422a9fd6d214f928c866"
