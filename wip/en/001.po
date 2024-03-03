@@ -16202,6 +16202,8 @@ msgstr ""
 msgctxt "65176eb0dde240ff86c80a2f75a3b4e4"
 msgid "ཅི་ཕྱིར་ ཞེ་ན་ མཁས་པ་␣འི་ ཡོན་ཏན་ དེ་ལས་ འབྱུང༌ ། །"
 msgstr ""
+"Well then, if it is asked why? The qualities of learned ones arises from "
+"this."
 
 msgctxt "4af87f7da21e4c10928c9688038af1c0"
 msgid "དེ་ལྟ་␣འི་ མཚན་ཉིད་ ཕར་ཕྱིན་ ཐེག་པ་␣ར །"
