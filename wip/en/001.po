@@ -19148,7 +19148,7 @@ msgstr ""
 
 msgctxt "262db71bf24548a58be46a9c54393483"
 msgid "ཅི་ཕྱིར །"
-msgstr ""
+msgstr "Why is this?"
 
 msgctxt "e7b125ee5cd04c2c86b669e76bf14705"
 msgid "གསང་བ་ བསམ་ གྱིས་ མི་ ཁྱབ་པ་␣འི་ མདོ་ ལ་␣ས །"
