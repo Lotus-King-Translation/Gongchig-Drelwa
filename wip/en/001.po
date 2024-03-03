@@ -16170,6 +16170,8 @@ msgid ""
 "དཔེར་ན་ འཕོང་ མི་ ཤེས་པ་␣འི་ སློབ་དཔོན་ གྱིས་ གཞན་ ལ་ དེ་ སྟོན་ མི་ ཤེས་པ་ "
 "བཞིན་ ནོ ། །"
 msgstr ""
+"It is like a master who does not know how to shoot [arrows] and cannot teach"
+" it to others."
 
 msgctxt "91a4e141b7e7468587ada8d2887df608"
 msgid "དེ་ལྟར་ ཡང༌ །"
