@@ -16283,7 +16283,7 @@ msgstr "Are the excellent gurus, one should rely on [them]."
 
 msgctxt "d5919803234149c4b352641d6fa9ee31"
 msgid "དེ་ལས་ གཞན་པ་ དག་ གི་ ཁྱད་པར་ བྱ་ དགོས་ ཏེ །"
-msgstr ""
+msgstr "One must distinguish the other from that."
 
 msgctxt "bd931903770d4fbca649dafd54b26971"
 msgid "དོན་དམ་ བསྙེན་པ་ ལ་␣ས །"
