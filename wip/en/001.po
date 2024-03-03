@@ -16245,7 +16245,7 @@ msgstr "Skilled in the meaning of the Great Vehicle,"
 
 msgctxt "4f306bc38c93407484dba3b59970f368"
 msgid "བྱང་ཆུབ་ སེམས་དཔ་␣འི་ རྟུལ་ ཞུགས་ མཆོག  །"
-msgstr ""
+msgstr "And [they] have the supreme discipline of a bodhisattva."
 
 msgctxt "aa3ad46283714616ba0c7e04af4f594a"
 msgid "ཅེས་ སོ ། །"
