@@ -16191,7 +16191,7 @@ msgstr "By relying on a direct descendent, one remains as before,"
 
 msgctxt "847d40e4f33046cfa78d8c1448d0afc4"
 msgid "གཙོ་བོ་ བརྟེན་པ་␣ས་ དམ་པ་ ཐོབ་པ་␣ར་ འགྱུར ། །"
-msgstr ""
+msgstr "By relying on the chief, one attains the excellence"
 
 msgctxt "37331ae9518840e395b8645e747ca6a9"
 msgid "དེ་ཕྱིར་ བདག་པ་␣ས་ གཙོ་ གྱུར་ བརྟེན་པ་␣ར་ བྱ ། ཞེས་ དང་ །"
