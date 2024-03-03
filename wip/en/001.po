@@ -16219,7 +16219,7 @@ msgstr "The definition of this in the Perfection Vehicle."
 
 msgctxt "ed0ed2710ec0492691700433ba0a3a6d"
 msgid "བཤེས་གཉེན་ དུལ་བ་ ཞི་བ་ ཉེར་ཞི་བ ། །"
-msgstr ""
+msgstr "The spiritual friend who is tame, peaceful, and totally pacified,"
 
 msgctxt "4a7d0c4afa4d4c5391bee298a73ebc8b"
 msgid "ཡོན་ཏན་ ལྷག་པར་ བརྩོན་ བྱ་ ལུང་ གིས་ ཕྱུག  །"
