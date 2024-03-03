@@ -16116,7 +16116,7 @@ msgstr "Fire blazing from the upper part of the body and so forth, and"
 
 msgctxt "4c0c9217c35e422292e7e089f068b277"
 msgid "ནམ་མཁའ་ དངོས་པོ་␣ར་ སྒྲུབ་པ་ སོགས་ ནི་"
-msgstr ""
+msgstr "Establishing space as a thing and so forth, are "
 
 msgctxt "20ecf84da0b5448bbb0cfac9e1a8c12d"
 msgid "རྒྱུ་ འདོད་ཡོན་ སྤོང་ ཞིང་"
