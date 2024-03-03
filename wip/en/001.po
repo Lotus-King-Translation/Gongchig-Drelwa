@@ -16163,7 +16163,7 @@ msgstr ""
 
 msgctxt "0e44290c472e4b58840ec23d8a43c151"
 msgid "རང་ཉིད་ མ་ སྨིན་པ་␣ར་ གཞན་ སྨིན་ མི་ ནུས་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Without maturing oneself, one cannot bring others to maturity."
 
 msgctxt "6ad1380361544987b9c1596a7947c472"
 msgid ""
