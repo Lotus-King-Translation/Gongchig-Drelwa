@@ -16200,6 +16200,8 @@ msgstr "Therefore, one should rely on the chief by oneself."
 msgctxt "8392b63470b04da0a2292a2cd8bfe38c"
 msgid "སྡུད་པ་␣ར ། སློབ་མ་ བཟང་པོ་ བླ་མ་␣ར་ གུས་ ལྡན་ དེ་དག་ གིས ། །"
 msgstr ""
+"According to the Condensed [Prajnaparamita In Verse]: The good disciples who"
+" have devotion to the guru."
 
 msgctxt "f021d7664ef74daa93a19d76e8ea531b"
 msgid "བླ་མ་ མཁས་པ་ རྣམས་ ལ་ རྟག་ ཏུ་ བརྟེན་པ་␣ར་ བྱ ། །"
