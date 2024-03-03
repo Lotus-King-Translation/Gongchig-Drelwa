@@ -16195,7 +16195,7 @@ msgstr "By relying on the chief, one attains the excellence"
 
 msgctxt "37331ae9518840e395b8645e747ca6a9"
 msgid "དེ་ཕྱིར་ བདག་པ་␣ས་ གཙོ་ གྱུར་ བརྟེན་པ་␣ར་ བྱ ། ཞེས་ དང་ །"
-msgstr ""
+msgstr "Therefore, one should rely on the chief by oneself."
 
 msgctxt "8392b63470b04da0a2292a2cd8bfe38c"
 msgid "སྡུད་པ་␣ར ། སློབ་མ་ བཟང་པོ་ བླ་མ་␣ར་ གུས་ ལྡན་ དེ་དག་ གིས ། །"
