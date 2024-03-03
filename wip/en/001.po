@@ -16241,7 +16241,7 @@ msgstr "The eternal spiritual friends are"
 
 msgctxt "2a9329ed234e4d5594bc777850ac957f"
 msgid "ཐེག་ཆེན་ དོན་ ལ་ མཁས་པ་ དང༌ ། །"
-msgstr ""
+msgstr "Skilled in the meaning of the Great Vehicle,"
 
 msgctxt "4f306bc38c93407484dba3b59970f368"
 msgid "བྱང་ཆུབ་ སེམས་དཔ་␣འི་ རྟུལ་ ཞུགས་ མཆོག  །"
