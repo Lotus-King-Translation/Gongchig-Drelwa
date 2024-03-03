@@ -16108,7 +16108,7 @@ msgstr "Thus it is not established."
 
 msgctxt "495a1be366954a669502da178023f7a3"
 msgid "རྫུ་འཕྲུལ་ ཏིང་འཛིན་ གྱི་ སྟོབས་ ལ་␣ས་"
-msgstr ""
+msgstr "With the miraculous power of concentration,"
 
 msgctxt "6e042e0812d84cb8805b0ef00cf7b11b"
 msgid "སྐུ་ སྟོད་ ལ་␣ས་ མེ་ འབར་བ་ སོགས་ དང་"
