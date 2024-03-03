@@ -16275,7 +16275,7 @@ msgstr ""
 
 msgctxt "45db018092dc47b4b12c90869f4738b5"
 msgid "ཞེས་པ་ དེ་དག་ དང་ ལྡན་པ་ ནི་"
-msgstr ""
+msgstr "Thus, those who possess these [qualities]"
 
 msgctxt "16c33c92d4d447e4a5fa8b74e44b8c26"
 msgid "བླ་མ་␣འི་ མཆོག་ ཡིན་པ་␣ས་ བརྟེན་པ་␣ར་ བྱ་ ཞིང་ ༈"
