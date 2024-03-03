@@ -16233,7 +16233,7 @@ msgstr "Who has realized thusness, who is skilled in speech, "
 
 msgctxt "85efb369f44d4545916d1064af16f8ff"
 msgid "བརྩེ་བ་␣འི་ བདག་ཉིད་ སྐྱོ་ངལ་ སྤང་ ལ་ བརྟེན ། །"
-msgstr ""
+msgstr "Who is affectionate, and who has given up physical and mental fatigue"
 
 msgctxt "4e4d2f34561049eb988ca88b6b20eed4"
 msgid "རྟག་པ་␣ར་ དགེ་བ་␣འི་ བཤེས་གཉེན་ ནི ། །"
