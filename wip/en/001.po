@@ -16179,7 +16179,7 @@ msgstr "Likewise,"
 
 msgctxt "baa49b5c26ed4a55be6f6c60859e9daf"
 msgid "ཆེད་ དུ་ བརྗོད་པ་␣ར །"
-msgstr ""
+msgstr "According to the Udanavarga:"
 
 msgctxt "a2fc491cd8e04d28b8da1798292c7852"
 msgid "དམན་པ་ བརྟེན་པ་␣ས་ མི་ དག་ རྣམ་པ་␣ར་ འགྱུར །"
