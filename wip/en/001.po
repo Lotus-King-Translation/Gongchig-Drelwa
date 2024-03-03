@@ -16613,7 +16613,7 @@ msgstr ""
 
 msgctxt "0a20da5e4ddf46dea596486b6718603b"
 msgid "དེ་བཞིན་␣x"
-msgstr ""
+msgstr "Likewise, X"
 
 msgctxt "b681c49a751540c696a3c2f02f30eda2"
 msgid "ཡིད་ དང་སེམས་ ཀྱིས་ ཡུལ་ དུ་ ཤེས་ མ་ ཡིན །"
