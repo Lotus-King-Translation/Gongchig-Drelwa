@@ -16120,7 +16120,7 @@ msgstr "Establishing space as a thing and so forth, are "
 
 msgctxt "20ecf84da0b5448bbb0cfac9e1a8c12d"
 msgid "རྒྱུ་ འདོད་ཡོན་ སྤོང་ ཞིང་"
-msgstr "The cause as sense pleasures are abandoned"
+msgstr "The cause sense pleasures are abandoned"
 
 msgctxt "d5e853dc636f4ff6b1651334c986d04a"
 msgid "བསམ་གཏན་ བསྒྲུབ་པ་␣ས་"
