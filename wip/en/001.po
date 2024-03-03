@@ -16270,6 +16270,8 @@ msgid ""
 "སངས་རྒྱས་ ཞལ་ འདི་ གང་ གི་ ཐུགས་ དང་ ཞལ་ལ་ གནས་པ་␣ར་ གྱུར་པ་ དེ་ ནི་ "
 "དཔལ་ལྡན་ བླ་མ་␣འོ ། །"
 msgstr ""
+"This face of the Buddha, whose mind is and that which remains in the face is"
+" the glorious guru."
 
 msgctxt "45db018092dc47b4b12c90869f4738b5"
 msgid "ཞེས་པ་ དེ་དག་ དང་ ལྡན་པ་ ནི་"
