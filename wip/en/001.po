@@ -16140,7 +16140,7 @@ msgstr "If it were to become by examining others, "
 
 msgctxt "d938aa42c4b1406bbe103591f7ed6163"
 msgid "སྤང་བླང་ ལ་ ལྟོས་ མི་ དགོས་པ་␣འི་ ཕྱིར་ རོ །"
-msgstr ""
+msgstr "Then it does not need to depend on abandonment or adoption."
 
 msgctxt "acc314fe3c60401c95f8dfe864a773a2"
 msgid "རྡོ་␣༽༽  མཚན་ཉིད་ མི་ ལྡན་པ་␣འི་ བླ་མ་␣ས་ ཀྱང་ ཡོན་ཏན་ སྐྱེ་ ནུས་ ཏེ་"
