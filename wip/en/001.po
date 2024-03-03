@@ -16211,7 +16211,7 @@ msgstr ""
 
 msgctxt "4af87f7da21e4c10928c9688038af1c0"
 msgid "དེ་ལྟ་␣འི་ མཚན་ཉིད་ ཕར་ཕྱིན་ ཐེག་པ་␣ར །"
-msgstr ""
+msgstr "The definition of this in the Perfection Vehicle."
 
 msgctxt "ed0ed2710ec0492691700433ba0a3a6d"
 msgid "བཤེས་གཉེན་ དུལ་བ་ ཞི་བ་ ཉེར་ཞི་བ ། །"
