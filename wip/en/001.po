@@ -16237,7 +16237,7 @@ msgstr "Who is affectionate, and who has given up physical and mental fatigue"
 
 msgctxt "4e4d2f34561049eb988ca88b6b20eed4"
 msgid "རྟག་པ་␣ར་ དགེ་བ་␣འི་ བཤེས་གཉེན་ ནི ། །"
-msgstr ""
+msgstr "The eternal spiritual friends are"
 
 msgctxt "2a9329ed234e4d5594bc777850ac957f"
 msgid "ཐེག་ཆེན་ དོན་ ལ་ མཁས་པ་ དང༌ ། །"
