@@ -16124,7 +16124,7 @@ msgstr "The cause as sense pleasures are abandoned"
 
 msgctxt "d5e853dc636f4ff6b1651334c986d04a"
 msgid "བསམ་གཏན་ བསྒྲུབ་པ་␣ས་"
-msgstr ""
+msgstr "As concentration is accomplished,"
 
 msgctxt "08103f9ef71448908611589559d33741"
 msgid "དེ་དག་ འབྱུང་བ་ གཤིས་ ལ་ གནས་པ་"
