@@ -16132,7 +16132,7 @@ msgstr "The occurrence of these abide in the nature,"
 
 msgctxt "7dd700d3ed17454d9e95c4aa06ea53fc"
 msgid "རྒྱུ་ བསྒྲུབས་པ་␣ས་ ཐོབ་པ་ ལ་␣ས་"
-msgstr ""
+msgstr "This is attained because of the accomplishment of the cause"
 
 msgctxt "94c0aaf0ba3041ccbad9e5de7799574a"
 msgid "གཞན་ དུ་ བལྟས་པ་␣ས་ འགྱུར་ ན་"
