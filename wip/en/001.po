@@ -16324,7 +16324,7 @@ msgstr ""
 
 msgctxt "76c1f08a5aae4f30886a29362ade4ee6"
 msgid "ཅི་ཕྱིར་ ཞེ་ན་"
-msgstr ""
+msgstr "If asked why it is so?"
 
 msgctxt "dcd6a383514b42e88c361efc54ee0262"
 msgid "རྒྱལ་བ་␣ས་ ཆོས་ ཚུལ་ གང་ བསྟན་པ ། །"
