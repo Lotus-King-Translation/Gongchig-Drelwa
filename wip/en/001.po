@@ -16205,7 +16205,7 @@ msgstr ""
 
 msgctxt "f021d7664ef74daa93a19d76e8ea531b"
 msgid "བླ་མ་ མཁས་པ་ རྣམས་ ལ་ རྟག་ ཏུ་ བརྟེན་པ་␣ར་ བྱ ། །"
-msgstr ""
+msgstr "[They] should always rely on learned gurus."
 
 msgctxt "65176eb0dde240ff86c80a2f75a3b4e4"
 msgid "ཅི་ཕྱིར་ ཞེ་ན་ མཁས་པ་␣འི་ ཡོན་ཏན་ དེ་ལས་ འབྱུང༌ ། །"
