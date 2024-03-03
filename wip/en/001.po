@@ -16128,7 +16128,7 @@ msgstr "As concentration is accomplished,"
 
 msgctxt "08103f9ef71448908611589559d33741"
 msgid "དེ་དག་ འབྱུང་བ་ གཤིས་ ལ་ གནས་པ་"
-msgstr ""
+msgstr "The occurrence of these abide in the nature,"
 
 msgctxt "7dd700d3ed17454d9e95c4aa06ea53fc"
 msgid "རྒྱུ་ བསྒྲུབས་པ་␣ས་ ཐོབ་པ་ ལ་␣ས་"
