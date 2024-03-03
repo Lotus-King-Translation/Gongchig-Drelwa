@@ -16254,6 +16254,8 @@ msgstr "As said."
 msgctxt "e215ff5e97dd487c89f081cf48a0db18"
 msgid "སྔགས་ བླ་མེད་ ལ་␣ས ། དབང་ བཞི་ བསྐུར་བ་␣འི་ བླ་མ་ ནི །"
 msgstr ""
+"According to The Highest Yoga Tantra: The guru who confers the four "
+"empowerments is as "
 
 msgctxt "2e9f42a8ab1e47989f97b29c0836d69f"
 msgid "ཞེས་ སོགས་ དང༌ །"
