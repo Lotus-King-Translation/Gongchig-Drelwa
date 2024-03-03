@@ -18635,7 +18635,7 @@ msgstr "And."
 
 msgctxt "20fbe50fb3ba4b8c973dab2e0fdff0ff"
 msgid "ཤེར་ སྙིང་ལས །"
-msgstr ""
+msgstr "According to The Heart of Wisdom Sutra:"
 
 msgctxt "71a9f9bd6cd2406890ae3ac04b7bfad0"
 msgid "གཟུགས་ སྟོང་པ་␣འོ་␣༑"
