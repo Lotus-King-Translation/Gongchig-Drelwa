@@ -16183,7 +16183,7 @@ msgstr "According to the Udanavarga:"
 
 msgctxt "a2fc491cd8e04d28b8da1798292c7852"
 msgid "དམན་པ་ བརྟེན་པ་␣ས་ མི་ དག་ རྣམ་པ་␣ར་ འགྱུར །"
-msgstr ""
+msgstr "By relying on an inferior, one becomes completely impure,"
 
 msgctxt "256b09921bd24dc5959adf3c4604d7c6"
 msgid "ཐད་ཀ་␣ར་ བབས་པ་ བརྟེན་པ་␣ས་ སོ་ ན་ གནས ། །"
