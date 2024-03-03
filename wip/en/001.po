@@ -16625,7 +16625,7 @@ msgstr ""
 
 msgctxt "c86be79e71c448919dc962f8d1666ffa"
 msgid "འོ་ན་ ཅི་ ཞེ་ན །"
-msgstr ""
+msgstr "Well then, if it is asked why?"
 
 msgctxt "05b305baf8a64f25b98a12d28499604f"
 msgid "སྨྲ་ བསམ་བརྗོད་ མེད་ ཤེས་རབ་ ཕ་རོལ་ ཕྱིན །"
