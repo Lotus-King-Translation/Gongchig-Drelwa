@@ -16136,7 +16136,7 @@ msgstr "This is attained because of the accomplishment of the cause"
 
 msgctxt "94c0aaf0ba3041ccbad9e5de7799574a"
 msgid "གཞན་ དུ་ བལྟས་པ་␣ས་ འགྱུར་ ན་"
-msgstr ""
+msgstr "If it were to become by examining others, "
 
 msgctxt "d938aa42c4b1406bbe103591f7ed6163"
 msgid "སྤང་བླང་ ལ་ ལྟོས་ མི་ དགོས་པ་␣འི་ ཕྱིར་ རོ །"
