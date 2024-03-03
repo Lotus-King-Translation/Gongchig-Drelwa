@@ -16187,7 +16187,7 @@ msgstr "By relying on an inferior, one becomes completely impure,"
 
 msgctxt "256b09921bd24dc5959adf3c4604d7c6"
 msgid "ཐད་ཀ་␣ར་ བབས་པ་ བརྟེན་པ་␣ས་ སོ་ ན་ གནས ། །"
-msgstr ""
+msgstr "By relying on a direct descendent, one remains as before,"
 
 msgctxt "847d40e4f33046cfa78d8c1448d0afc4"
 msgid "གཙོ་བོ་ བརྟེན་པ་␣ས་ དམ་པ་ ཐོབ་པ་␣ར་ འགྱུར ། །"
