@@ -16112,7 +16112,7 @@ msgstr "With the miraculous power of concentration,"
 
 msgctxt "6e042e0812d84cb8805b0ef00cf7b11b"
 msgid "སྐུ་ སྟོད་ ལ་␣ས་ མེ་ འབར་བ་ སོགས་ དང་"
-msgstr ""
+msgstr "Fire blazing from the upper part of the body and so forth, and"
 
 msgctxt "4c0c9217c35e422292e7e089f068b277"
 msgid "ནམ་མཁའ་ དངོས་པོ་␣ར་ སྒྲུབ་པ་ སོགས་ ནི་"
