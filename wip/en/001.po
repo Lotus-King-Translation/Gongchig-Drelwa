@@ -16263,7 +16263,7 @@ msgstr "And so on."
 
 msgctxt "61beceabd0aa46e0b71c2861873bf399"
 msgid "དུས་འཁོར་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Kalachakra [Tantra]:"
 
 msgctxt "ec76e1e079e840a986111a434c39aa6e"
 msgid ""
