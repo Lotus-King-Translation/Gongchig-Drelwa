@@ -16279,7 +16279,7 @@ msgstr "Thus, those who possess these [qualities]"
 
 msgctxt "16c33c92d4d447e4a5fa8b74e44b8c26"
 msgid "བླ་མ་␣འི་ མཆོག་ ཡིན་པ་␣ས་ བརྟེན་པ་␣ར་ བྱ་ ཞིང་ ༈"
-msgstr ""
+msgstr "Are the excellent gurus, one should rely on [them]."
 
 msgctxt "d5919803234149c4b352641d6fa9ee31"
 msgid "དེ་ལས་ གཞན་པ་ དག་ གི་ ཁྱད་པར་ བྱ་ དགོས་ ཏེ །"
