@@ -16152,7 +16152,7 @@ msgctxt "ac6db0cdc6a4422a9fd6d214f928c866"
 msgid ""
 "ཀུན་དགའ་བོ་ རྒྱུན་ཞུགས་ ལ་ སློབ་པ་␣ས་ དགྲ་བཅོམ་པ་ བྱུང་བ་ བཞིན་ ནོ་ ཞེས་ "
 "ཟེར་ རོ །"
-msgstr ""
+msgstr "Like Ananda, who was trained as a stream-enterer and became an arhat."
 
 msgctxt "fcf949aa8c8a4200b46917a23bd4ebcb"
 msgid ""
