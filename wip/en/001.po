@@ -16229,7 +16229,7 @@ msgstr ""
 
 msgctxt "93d36feae049430389961d77edd1a377"
 msgid "དེ་ཉིད་ རབ་ཏུ་ རྟོགས་ ལ་ སྨྲ་མཁས་ ལྡན ། །"
-msgstr ""
+msgstr "Who has realized thusness, who is skilled in speech, "
 
 msgctxt "85efb369f44d4545916d1064af16f8ff"
 msgid "བརྩེ་བ་␣འི་ བདག་ཉིད་ སྐྱོ་ངལ་ སྤང་ ལ་ བརྟེན ། །"
