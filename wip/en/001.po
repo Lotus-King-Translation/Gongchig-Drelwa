@@ -16224,6 +16224,8 @@ msgstr "The spiritual friend who is tame, peaceful, and totally pacified,"
 msgctxt "4a7d0c4afa4d4c5391bee298a73ebc8b"
 msgid "ཡོན་ཏན་ ལྷག་པར་ བརྩོན་ བྱ་ ལུང་ གིས་ ཕྱུག  །"
 msgstr ""
+"Who is rich in scriptural authority and pursue diligently in excellent "
+"qualities,"
 
 msgctxt "93d36feae049430389961d77edd1a377"
 msgid "དེ་ཉིད་ རབ་ཏུ་ རྟོགས་ ལ་ སྨྲ་མཁས་ ལྡན ། །"
