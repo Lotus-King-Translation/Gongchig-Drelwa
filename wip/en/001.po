@@ -16319,7 +16319,7 @@ msgstr ""
 
 msgctxt "a9eb3f0ba4284d60917a8cbe7cde1c62"
 msgid "སངས་རྒྱས་ ཀྱི་ མཐུ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "It is because of the power of the buddhas."
 
 msgctxt "bf0b8b79e25342d980d7da6ea38483be"
 msgid "ཕག་པ་ སྡུད་པ་ ལ་␣ས །"
