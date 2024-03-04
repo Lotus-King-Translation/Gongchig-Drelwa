@@ -17379,7 +17379,7 @@ msgstr ""
 
 msgctxt "4403ff0291c045b5bd0771ec2a94ee24"
 msgid "རྒྱུད་བླ་མ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The Highest Continuum:"
 
 msgctxt "f056fec0e2474e34934c73e8bfd48551"
 msgid "འདི་ ལ་ བསལ་ བྱ་ ཅི་ཡང་ མེད །"
