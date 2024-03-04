@@ -16287,7 +16287,7 @@ msgstr "One must distinguish the other from that."
 
 msgctxt "bd931903770d4fbca649dafd54b26971"
 msgid "དོན་དམ་ བསྙེན་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "."
 
 msgctxt "4a38c5c645004cf0895e3e9beff2989e"
 msgid "རྩོད་ ལྡན་ དབང་ གིས་ བླ་མ་ སྐྱོན་ དང་ ཡོན་ཏན་ འདྲེན །"
