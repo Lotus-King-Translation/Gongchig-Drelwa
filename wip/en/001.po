@@ -16429,7 +16429,7 @@ msgstr "That which lead to the definite emergence"
 
 msgctxt "f6d6f7d0c2d0421381a4528dc44b84a2"
 msgid "དད་པ་ ཐེག་པ་␣འི་ མཆོག་ ཡིན་ ཏེ ། །"
-msgstr ""
+msgstr "The best vehicle is confidence,"
 
 msgctxt "5be9b8e9c2794f879712a279a4d36035"
 msgid "དེ་ཕྱིར་ བློ་ དང་ ལྡན་པ་␣འི་ མི་␣ས ། །"
