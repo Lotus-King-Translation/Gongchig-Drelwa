@@ -16413,7 +16413,7 @@ msgstr "From seeds burnt by fire"
 
 msgctxt "0217c6964e7f4d9880b2f316a1a0fd06"
 msgid "མྱུ་གུ་ སྔོན་པོ་ ཇི་བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "Just like green sprouts."
 
 msgctxt "8a707cc14c96445a828aca0b1b545531"
 msgid "ཞེས་ དང༌ །"
