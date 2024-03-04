@@ -16384,6 +16384,8 @@ msgstr ""
 msgctxt "01973969aa8246ef95ff526872bb4121"
 msgid "འདི་␣ར་ ནི་ རྟོགས་པ་ སྐྱེད་ ཐབས་ གཙོ་བོ་ མེད་ མི་ རུང་བ་ ནི་"
 msgstr ""
+"In this [system], the only thing that is indispensable for generating "
+"realization is"
 
 msgctxt "9a20c4c33c3c48d5a067a82497aa0b84"
 msgid "དྭངས་བ་␣འི་ དད་པ་ མོས་གུས་ ཁོ་ན་␣ར་ ངེས་ ཏེ་"
