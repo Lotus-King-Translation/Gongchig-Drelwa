@@ -16391,7 +16391,7 @@ msgstr ""
 
 msgctxt "f5109491c9334380b7381aa4dc45e167"
 msgid "དཀོན་ བརྩེགས་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Heap of Jewels:"
 
 msgctxt "7a95951c8be2499f87642e0d0cf3d650"
 msgid "དད་པ་ མེད་པ་␣འི་ མི་ རྣམས་ ལ ། །"
