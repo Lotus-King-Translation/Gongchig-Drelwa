@@ -16378,6 +16378,8 @@ msgstr ""
 msgctxt "38b9ddfc8c7a4cdf8156201eb09a722e"
 msgid "རྟོགས་པ་␣ར་ འདོད་པ་ དང་ གཞན་ ཡང་ མ་ངེས་པ་␣འི་ ཐབས་ མང་ ཟེར །"
 msgstr ""
+"Some are accepted as realization and there are many other non-definitive "
+"methods."
 
 msgctxt "01973969aa8246ef95ff526872bb4121"
 msgid "འདི་␣ར་ ནི་ རྟོགས་པ་ སྐྱེད་ ཐབས་ གཙོ་བོ་ མེད་ མི་ རུང་བ་ ནི་"
