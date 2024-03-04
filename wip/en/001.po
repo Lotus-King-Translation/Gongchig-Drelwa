@@ -16300,7 +16300,7 @@ msgstr "There is no way to be completely free of degeneration."
 
 msgctxt "fddee41394f04b5181c82c3c8807bed0"
 msgid "དེ་ཕྱིར་ ཡོན་ཏན་ ལྷག་པ་ ཡང་ ནི་ དཔྱད་ བྱས་ ཏེ ། །"
-msgstr ","
+msgstr "Therefore, after examining the special good qualities,"
 
 msgctxt "152adff963b04ee7aa1b7c16e7114fad"
 msgid "བུ་ རྣམས་ ཀྱིས་ ནི་ དེ་ ལ་ བརྟེན་པ་␣ར་ བྱ་བ་␣འོ ། ༑"
