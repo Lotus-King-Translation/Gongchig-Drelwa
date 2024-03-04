@@ -16393,7 +16393,7 @@ msgstr "Definite only to pure confidence and devotion."
 
 msgctxt "62def57f5b4d451587d66168f6452625"
 msgid "དཀར་པོ་␣འི་ ཆོས་ ཐམས་ཅད་ ཀྱི་ རྟེན་ ཡིན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "It is the support of all good qualities."
 
 msgctxt "f5109491c9334380b7381aa4dc45e167"
 msgid "དཀོན་ བརྩེགས་ ལ་␣ས །"
