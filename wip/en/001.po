@@ -16360,6 +16360,8 @@ msgstr "And having actualized them, teach according to the training."
 msgctxt "1a68be83b3214204acc2bf153ac71771"
 msgid "སངས་རྒྱས་ མཐུ་␣ས་ བྱེད་ རང་ གི་ སྟོབས་ ཀྱི་ མཐུ་␣ས་ མ་ ཡིན །"
 msgstr ""
+"This is done by the power of the Buddha, not by the power of one's own "
+"strength."
 
 msgctxt "6b5cfe0f200a4907ba3cafe358e9957d"
 msgid "ཞེས་ སོ །"
