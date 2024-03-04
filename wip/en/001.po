@@ -16296,7 +16296,7 @@ msgstr ""
 
 msgctxt "c0932cfee69b4cf7bf97659e40be686d"
 msgid "རྣམ་པ་ ཀུན་ ཏུ་ སྡིག་ དང་ བྲལ་བ་ ཡོད་ མ་ ཡིན ། །"
-msgstr ""
+msgstr "There is no way to be completely free of degeneration."
 
 msgctxt "fddee41394f04b5181c82c3c8807bed0"
 msgid "དེ་ཕྱིར་ ཡོན་ཏན་ ལྷག་པ་ ཡང་ ནི་ དཔྱད་ བྱས་ ཏེ ། །"
