@@ -16421,7 +16421,7 @@ msgstr "And."
 
 msgctxt "f4636d53eec0438e81a5cca0605c7f05"
 msgid "ཆོས་ བཅུ་པ་␣འི་ མདོ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Ten Dharma Sutra:"
 
 msgctxt "e8a583922d09450bbe2822abc6d82158"
 msgid "གང་ གི་ འདྲེན་པ་ ངེས་འབྱུང་བ ། །"
