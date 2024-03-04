@@ -16389,7 +16389,7 @@ msgstr ""
 
 msgctxt "9a20c4c33c3c48d5a067a82497aa0b84"
 msgid "དྭངས་བ་␣འི་ དད་པ་ མོས་གུས་ ཁོ་ན་␣ར་ ངེས་ ཏེ་"
-msgstr ""
+msgstr "Definite only to pure confidence and devotion."
 
 msgctxt "62def57f5b4d451587d66168f6452625"
 msgid "དཀར་པོ་␣འི་ ཆོས་ ཐམས་ཅད་ ཀྱི་ རྟེན་ ཡིན་པ་␣འི་ ཕྱིར །"
