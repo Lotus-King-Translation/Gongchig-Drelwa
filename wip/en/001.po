@@ -16335,7 +16335,7 @@ msgstr "Explained and expressed with reasoning,"
 
 msgctxt "71517ac84dfc4e9fbc641da01920ae3e"
 msgid "མཆོག་ འཕགས་ བདེ་བ་ བྱེད་ དང་ དེ་ ཡི་ འབྲས་ ཐོབ་པ ། །"
-msgstr ""
+msgstr "The excellent noble bliss and its result will be attained."
 
 msgctxt "e2d525d86a1e47399babdc48af697584"
 msgid "དེ་དག་ ཀུན་ ཀྱང་ དེ་བཞིན་ གཤེགས་པ་␣འི་ སྐྱེས་བུ་␣འི་ མཐུ ། །"
