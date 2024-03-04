@@ -16425,7 +16425,7 @@ msgstr "According to the Ten Dharma Sutra:"
 
 msgctxt "e8a583922d09450bbe2822abc6d82158"
 msgid "གང་ གི་ འདྲེན་པ་ ངེས་འབྱུང་བ ། །"
-msgstr ""
+msgstr "That which lead to the definite emergence"
 
 msgctxt "f6d6f7d0c2d0421381a4528dc44b84a2"
 msgid "དད་པ་ ཐེག་པ་␣འི་ མཆོག་ ཡིན་ ཏེ ། །"
