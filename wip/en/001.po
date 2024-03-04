@@ -16445,7 +16445,7 @@ msgstr "And."
 
 msgctxt "62afe5dde75a4d3ab01a6b8d45c972fd"
 msgid "ལམ་ གྱི་ ཆོས་ ཐམས་ཅད་ དྭངས་བ་␣འི་ དད་པ་ མོས་གུས་ ལ་ རག་ ལས་ཤིང་"
-msgstr ""
+msgstr "All the dharmas of the path depend on pure confidence and devotion."
 
 msgctxt "c21d35f2839b4542808fb2c7585d10e6"
 msgid "མཐར་ཐུག་ གི་ དོན་ ཡང་ དེ་ལས་ ཡིན་ ཏེ །"
