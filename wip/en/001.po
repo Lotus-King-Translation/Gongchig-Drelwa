@@ -16355,7 +16355,7 @@ msgstr "The best of people, having become his disciples, train in it."
 
 msgctxt "b89fe93b60364d0997635834725b17a0"
 msgid "མངོན་སུམ་ བྱས་ ནས་ བསླབ་པ་ ཇིབཞིན་ སྟོན་ བྱེད་ དེ ། །"
-msgstr ""
+msgstr "And having actualized them, teach according to the training."
 
 msgctxt "1a68be83b3214204acc2bf153ac71771"
 msgid "སངས་རྒྱས་ མཐུ་␣ས་ བྱེད་ རང་ གི་ སྟོབས་ ཀྱི་ མཐུ་␣ས་ མ་ ཡིན །"
