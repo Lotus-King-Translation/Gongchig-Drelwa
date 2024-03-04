@@ -16373,7 +16373,7 @@ msgid ""
 "ན་"
 msgstr ""
 "Vajra: It is said that when the co-emergent wisdom, hearing, contemplating, "
-"and meditating, are examined by  the five logical axioms,"
+"and meditating are examined by  the five logical axioms,"
 
 msgctxt "38b9ddfc8c7a4cdf8156201eb09a722e"
 msgid "རྟོགས་པ་␣ར་ འདོད་པ་ དང་ གཞན་ ཡང་ མ་ངེས་པ་␣འི་ ཐབས་ མང་ ཟེར །"
