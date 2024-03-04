@@ -16339,7 +16339,7 @@ msgstr "The excellent noble bliss and its result will be attained."
 
 msgctxt "e2d525d86a1e47399babdc48af697584"
 msgid "དེ་དག་ ཀུན་ ཀྱང་ དེ་བཞིན་ གཤེགས་པ་␣འི་ སྐྱེས་བུ་␣འི་ མཐུ ། །"
-msgstr ""
+msgstr "All of these are the powers of Tathagata."
 
 msgctxt "76c1f08a5aae4f30886a29362ade4ee6"
 msgid "ཅི་ཕྱིར་ ཞེ་ན་"
