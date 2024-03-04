@@ -16299,7 +16299,7 @@ msgstr ""
 
 msgctxt "fddee41394f04b5181c82c3c8807bed0"
 msgid "དེ་ཕྱིར་ ཡོན་ཏན་ ལྷག་པ་ ཡང་ ནི་ དཔྱད་ བྱས་ ཏེ ། །"
-msgstr ""
+msgstr ","
 
 msgctxt "152adff963b04ee7aa1b7c16e7114fad"
 msgid "བུ་ རྣམས་ ཀྱིས་ ནི་ དེ་ ལ་ བརྟེན་པ་␣ར་ བྱ་བ་␣འོ ། ༑"
