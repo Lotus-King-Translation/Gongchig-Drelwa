@@ -16331,7 +16331,7 @@ msgstr "All the Dharma that the conqueror's hearers teach,"
 
 msgctxt "17eb286c61864c32b4cbebc3e5c6b3a6"
 msgid "འཆད་ དང་ རིགས་པ་ དག་ དང་ ལྡན་པ་␣ར་ བརྗོད་པ་ དང་ ། །"
-msgstr ""
+msgstr "Explained and expressed with reasoning,"
 
 msgctxt "71517ac84dfc4e9fbc641da01920ae3e"
 msgid "མཆོག་ འཕགས་ བདེ་བ་ བྱེད་ དང་ དེ་ ཡི་ འབྲས་ ཐོབ་པ ། །"
