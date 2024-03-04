@@ -16449,7 +16449,7 @@ msgstr "All the dharmas of the path depend on pure confidence and devotion,"
 
 msgctxt "c21d35f2839b4542808fb2c7585d10e6"
 msgid "མཐར་ཐུག་ གི་ དོན་ ཡང་ དེ་ལས་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "and the ultimate meaning also comes from that."
 
 msgctxt "0d095d3573e94fcebddef0b66016ab13"
 msgid "རྒྱུད་ བླ་␣ར །"
