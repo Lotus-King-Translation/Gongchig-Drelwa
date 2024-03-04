@@ -16347,7 +16347,7 @@ msgstr "If asked why it is so?"
 
 msgctxt "dcd6a383514b42e88c361efc54ee0262"
 msgid "རྒྱལ་བ་␣ས་ ཆོས་ ཚུལ་ གང་ བསྟན་པ ། །"
-msgstr ""
+msgstr "Whatever the Dharma taught by the conqueror,"
 
 msgctxt "620c2f9672444fbaab71142a0a2f8dca"
 msgid "དེ་ ལ་ མི་མཆོག་ སློབ་མ་␣ར་ གྱུར་པ་␣ས་ མངོན་ བསླབས་ ཤིང་ ། ༑"
