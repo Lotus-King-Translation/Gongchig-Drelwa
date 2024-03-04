@@ -155,7 +155,7 @@ msgstr "To avoid mistake in the meanings and for an easy understanding"
 
 msgctxt "8313b0559b28465bab4be9807dc65180"
 msgid "རྒྱལ་མཆོག་ འབྲི་གུང་ རིན་ཆེན་ གྱི ། །"
-msgstr "The excellent victor, Drigung Rinchen's"
+msgstr "The excellent conqueror, Drigung Rinchen's"
 
 msgctxt "4eb33c5771444f16ba9a3c6d376380e1"
 msgid "གསུངས་པ་␣འི་ ཁྱད་ཆོས་ དགོངས་པ་ གཅིག  །"
