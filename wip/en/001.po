@@ -16351,7 +16351,7 @@ msgstr "Whatever the Dharma taught by the conqueror,"
 
 msgctxt "620c2f9672444fbaab71142a0a2f8dca"
 msgid "དེ་ ལ་ མི་མཆོག་ སློབ་མ་␣ར་ གྱུར་པ་␣ས་ མངོན་ བསླབས་ ཤིང་ ། ༑"
-msgstr "The best of people, having become his disciples and train in it."
+msgstr "The best of people, having become his disciples, train in it."
 
 msgctxt "b89fe93b60364d0997635834725b17a0"
 msgid "མངོན་སུམ་ བྱས་ ནས་ བསླབ་པ་ ཇིབཞིན་ སྟོན་ བྱེད་ དེ ། །"
