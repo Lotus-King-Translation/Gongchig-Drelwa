@@ -16409,7 +16409,7 @@ msgstr "The white qualities will not occur,"
 
 msgctxt "983aa90502f845c5bc943d86bfe77434"
 msgid "ས་བོན་ མེ་ ཡིས་ ཚིགས་པ་ ལ་␣ས ། ༑"
-msgstr ""
+msgstr "From seeds burnt by fire"
 
 msgctxt "0217c6964e7f4d9880b2f316a1a0fd06"
 msgid "མྱུ་གུ་ སྔོན་པོ་ ཇི་བཞིན་ ནོ ། །"
