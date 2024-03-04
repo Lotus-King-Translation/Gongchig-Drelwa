@@ -16401,7 +16401,7 @@ msgstr "According to the Heap of Jewels:"
 
 msgctxt "7a95951c8be2499f87642e0d0cf3d650"
 msgid "དད་པ་ མེད་པ་␣འི་ མི་ རྣམས་ ལ ། །"
-msgstr ""
+msgstr "For those people without confidence,"
 
 msgctxt "2d604688910f4abe98d8ee0f75932755"
 msgid "དཀར་པོ་␣འི་ ཡོན་ཏན་ མི་ འབྱུང་ སྟེ ། །"
