@@ -16304,7 +16304,7 @@ msgstr "Therefore, after examining the special good qualities,"
 
 msgctxt "152adff963b04ee7aa1b7c16e7114fad"
 msgid "བུ་ རྣམས་ ཀྱིས་ ནི་ དེ་ ལ་ བརྟེན་པ་␣ར་ བྱ་བ་␣འོ ། ༑"
-msgstr "Children should rely on him."
+msgstr "Sons should rely on them."
 
 msgctxt "90912bd82a8d4bddbeb69b4addb25850"
 msgid "ཞེས་ སོ ། །"
