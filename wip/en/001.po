@@ -16437,7 +16437,7 @@ msgstr "Thus those people with rational mind,"
 
 msgctxt "582677f0bb254cfeab28a74c69e795b6"
 msgid "དད་པ་␣འི་ རྗེས་སུ་ འབྲང་བ་ བརྟེན །"
-msgstr ""
+msgstr "Follow confidence and supported."
 
 msgctxt "c96fbc54fd89435585e56d57d11c3b27"
 msgid "ཅེས །"
