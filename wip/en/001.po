@@ -16327,7 +16327,7 @@ msgstr "According to the Condensed [Prajnaparamita In Verse]:"
 
 msgctxt "af5cb818d64f437fa2fc799882648a90"
 msgid "རྒྱལ་བ་␣འི་ ཉན་ཐོས་པ་ དག་ ཇི་སྙེད་ ཆོས་སྟོན་ དང༌ །"
-msgstr ""
+msgstr "All the Dharma that the conqueror's hearers teach,"
 
 msgctxt "17eb286c61864c32b4cbebc3e5c6b3a6"
 msgid "འཆད་ དང་ རིགས་པ་ དག་ དང་ ལྡན་པ་␣ར་ བརྗོད་པ་ དང་ ། །"
