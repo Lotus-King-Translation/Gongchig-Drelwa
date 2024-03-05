@@ -16510,6 +16510,7 @@ msgstr "Stones in a deep lake will never dry."
 msgctxt "40d5996cb3664a4580b7969ed35dc853"
 msgid "རྡོ་␣༽༽  ལྟ་བ་␣འི་ མཐར་ཐུག་ དབུ་མ་ ཆེན་པོ་ འདོད་ མོད །"
 msgstr ""
+"Vajra: Although the ultimate view is accepted as the great middle way."
 
 msgctxt "cc7c274d7cd44c7c9621bbc168bc9db0"
 msgid "དེ་དག་ ནི་ ཡང་དག་པ་␣འི་ ལྟ་བ་ རྟོགས་པ་ དང་ ལྡན་པ་ མིན་ ཏེ །"
