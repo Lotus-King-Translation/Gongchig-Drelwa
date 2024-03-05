@@ -16520,6 +16520,8 @@ msgctxt "871b4e5827bf49b4bbcfdb194d3638eb"
 msgid ""
 "བློ་␣ས་ བཞག་པ་␣འི་ ཕྱིར་ ཡེ་ སྙིང་ གིས་ སྐྱེ་ མེད་ ཅེས་ དང་ སྟོང་ ཞེས་ དང༌ །"
 msgstr ""
+"Because it is posited by the mind, it is called unborn and empty by the "
+"primordial essence."
 
 msgctxt "750613796c194bce8526fab2d2155c33"
 msgid "བདག་མེད་ ཅེས་ དང༌ །"
