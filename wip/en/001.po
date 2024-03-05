@@ -16461,7 +16461,7 @@ msgstr "The absolute self-arising is"
 
 msgctxt "8d0c759b1d924f90b173e54f25d1c1bc"
 msgid "དད་པ་ ཉིད་ ཀྱིས་ རྟོགས་ བྱ་ ཡིན ། །"
-msgstr ""
+msgstr "To be realized by confidence itself."
 
 msgctxt "c5c3544a959a425f8bb5b8ba730c039e"
 msgid "ཉི་མ་␣འི་ དཀྱིལ་འཁོར་ འོད་འབར་བ ། །"
