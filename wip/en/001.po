@@ -16514,7 +16514,7 @@ msgstr ""
 
 msgctxt "cc7c274d7cd44c7c9621bbc168bc9db0"
 msgid "དེ་དག་ ནི་ ཡང་དག་པ་␣འི་ ལྟ་བ་ རྟོགས་པ་ དང་ ལྡན་པ་ མིན་ ཏེ །"
-msgstr ""
+msgstr "They do not have the realization of the genuine view."
 
 msgctxt "871b4e5827bf49b4bbcfdb194d3638eb"
 msgid ""
