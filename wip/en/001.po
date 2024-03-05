@@ -16566,6 +16566,8 @@ msgstr "As said."
 msgctxt "2518f2012e364fbab1f9e8e40ba8a73c"
 msgid "དེ་␣འི་ ཕྱིར་ དོན་དམ་པ་␣ར་ བལྟ་ བྱ་ ལྟ་ བྱེད་ བྲལ་བ་␣ས་"
 msgstr ""
+"Therefore, since in the ultimate sense, there is no seer and nothing that is"
+" seen,"
 
 msgctxt "2b7ade984c4c4713bbc52e1c0b8f7e0b"
 msgid "ལྟ་བ་ མི་ འདོད་ ཀྱང༌ ། །"
