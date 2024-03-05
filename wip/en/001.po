@@ -16473,7 +16473,7 @@ msgstr "Is not seen by those without eyes."
 
 msgctxt "cedca50b46484f2a9a233fce9f991b87"
 msgid "ཅེས་པ་␣ས་ ཆོས་སྐུ་␣ར་ འདུ་ཤེས་པ་␣ས་ མོས་གུས་ སྐྱེས་ ན །"
-msgstr ""
+msgstr "Thus, if you generate devotion by perceiving the dharmakaya,"
 
 msgctxt "bcdf7cdfe2f04314a6ea7489954ec4c3"
 msgid "ཏིལླི་པ་␣ས །"
