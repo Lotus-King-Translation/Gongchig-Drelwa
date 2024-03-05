@@ -16553,7 +16553,7 @@ msgstr "To abandon all the views,"
 
 msgctxt "ff398fd31c6a4317b794233ffa09cf5e"
 msgid "དམ་པ་␣འི་ ཆོས་ ནི་ སྟོན་ མཛད་པ །"
-msgstr ""
+msgstr "[You] taught the holy dharma,"
 
 msgctxt "5554ff2fccd341d3874f8f2046932581"
 msgid "གོོོོ་ ཏམ་ དེ་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
