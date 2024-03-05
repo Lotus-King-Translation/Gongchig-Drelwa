@@ -16557,7 +16557,7 @@ msgstr "[You] taught the holy dharma,"
 
 msgctxt "5554ff2fccd341d3874f8f2046932581"
 msgid "གོོོོ་ ཏམ་ དེ་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
-msgstr ""
+msgstr "I pay homage to you, Guatama."
 
 msgctxt "cef6786b83f543938ba9f9c0a086e394"
 msgid "ཞེས་ སོ །། །"
