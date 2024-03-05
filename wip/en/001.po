@@ -16532,6 +16532,8 @@ msgid ""
 "སྟོང་པ་ཉིད་ དམན་པ་␣འི་ ཡིད་ ཀྱིས་ གང་ སྒོམ་པ་ དེ་ ནི་ འདི་ ལ་ བདག་ "
 "བསྒོམ་པ་␣འོ ། །"
 msgstr ""
+"Whatever meditation on emptiness by a lesser mind is a meditation on self "
+"here."
 
 msgctxt "55fbb2a4970c44a7b5b4e17a64719537"
 msgid "ཞེས་ དང༌ །"
