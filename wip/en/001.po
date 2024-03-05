@@ -16489,7 +16489,7 @@ msgstr "[He] pleased me for twelve years."
 
 msgctxt "f17ff7c3724f478a8ccac2291a18d5d5"
 msgid "ང་ ཡི་ རྟོགས་པ་ ཁོ་ ལ་ ཡོད ། །"
-msgstr ""
+msgstr "He has my realization. "
 
 msgctxt "a29c68165c3c4f01b774b29fb7873cf1"
 msgid "ཅེས་པ་ ལྟར་ འབྱུང་བ་ ཡིན་ ནོ ། །"
