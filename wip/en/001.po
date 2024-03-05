@@ -16525,7 +16525,7 @@ msgstr ""
 
 msgctxt "750613796c194bce8526fab2d2155c33"
 msgid "བདག་མེད་ ཅེས་ དང༌ །"
-msgstr ""
+msgstr "no-self and"
 
 msgctxt "933a4dbd05c944478ffcf850b9d30f78"
 msgid ""
