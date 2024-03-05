@@ -16493,7 +16493,7 @@ msgstr "He has my realization. "
 
 msgctxt "a29c68165c3c4f01b774b29fb7873cf1"
 msgid "ཅེས་པ་ ལྟར་ འབྱུང་བ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "It occurred just as [he] said."
 
 msgctxt "37914b668b014888b7cc9a12bced3ff6"
 msgid "དད་པ་ མེད་ ན་ ཅིར་ འགྱུར་ སྙམ་ ན ། །"
