@@ -16477,7 +16477,7 @@ msgstr "Thus, if you generate devotion by perceiving the dharmakaya,"
 
 msgctxt "bcdf7cdfe2f04314a6ea7489954ec4c3"
 msgid "ཏིལླི་པ་␣ས །"
-msgstr ""
+msgstr "Tilopa said:"
 
 msgctxt "fd73b0e9a859463dbbe6696b4078c159"
 msgid "མི་ བརྗེད་ གཟུངས་ ཐོབ་ ནཱ་ རོ་པ་␣ས ། །"
