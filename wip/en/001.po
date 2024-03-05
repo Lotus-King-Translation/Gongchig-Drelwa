@@ -16505,7 +16505,7 @@ msgstr "It is impossible to attain enlightenment, just as"
 
 msgctxt "13580f21dab540bbadadb4846b8eed5d"
 msgid "མཚོ་ གཏིང་ གི་ རྡོ་བ་ སྐམ་ ལ་ མི་ འབྱུང་བ་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "Stones in a deep lake will never dry."
 
 msgctxt "40d5996cb3664a4580b7969ed35dc853"
 msgid "རྡོ་␣༽༽  ལྟ་བ་␣འི་ མཐར་ཐུག་ དབུ་མ་ ཆེན་པོ་ འདོད་ མོད །"
