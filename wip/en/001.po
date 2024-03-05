@@ -16501,7 +16501,7 @@ msgstr "If one wonders what would happen if you had no confidence,"
 
 msgctxt "0f462336fe604c24893efd00482d304b"
 msgid "བྱང་ཆུབ་ ཐོབ་ མི་ སྲིད་ དཔེར་ན །"
-msgstr ""
+msgstr "It is impossible to attain enlightenment, "
 
 msgctxt "13580f21dab540bbadadb4846b8eed5d"
 msgid "མཚོ་ གཏིང་ གི་ རྡོ་བ་ སྐམ་ ལ་ མི་ འབྱུང་བ་ བཞིན་ ནོ །"
