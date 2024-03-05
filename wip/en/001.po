@@ -9675,7 +9675,7 @@ msgstr "And so forth."
 
 msgctxt "c7b01556393244f7b9fb0d9dc7d35dec"
 msgid "རྩ་ཤེ་␣ར་ ལ་␣ས །"
-msgstr "According to the Root Stanzas of the Middle Way called Prajna:"
+msgstr "According to the Root Stanzas of the Middle Way:"
 
 msgctxt "daf0f0c00bc04f20abf6a59b889f35f2"
 msgid "གང་ གི་ ཐུགས་ བརྩེས་ ཉེར་ བཟུང་ ནས །"
