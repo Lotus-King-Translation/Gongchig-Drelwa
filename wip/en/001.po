@@ -16457,7 +16457,7 @@ msgstr "According to The Highest Continuum:"
 
 msgctxt "938a3b40630944da8cdd425a3cdfc7c4"
 msgid "རང་བྱུང་ ཉིད་ ཀྱི་ དོན་དམ་ ནི་␣༑ །"
-msgstr ""
+msgstr "The absolute self-arising is"
 
 msgctxt "8d0c759b1d924f90b173e54f25d1c1bc"
 msgid "དད་པ་ ཉིད་ ཀྱིས་ རྟོགས་ བྱ་ ཡིན ། །"
