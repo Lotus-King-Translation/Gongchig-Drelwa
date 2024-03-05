@@ -16545,7 +16545,7 @@ msgstr "According to the Root Stanzas of the Middle Way:"
 
 msgctxt "ccb55b12d7794342a94d8258abe638d1"
 msgid "གང་ གི་ ཐུགས་ བརྩེས་ ཉེར་ བཟུང་ ན །"
-msgstr ""
+msgstr "Hold closely by compassionate mind,"
 
 msgctxt "77dd95dd3a184c949426c5b99fe3d568"
 msgid "ལྟ་བ་ ཐམས་ཅད་ སྤོང་བ་␣འི་ ཕྱིར་␣༑ །"
