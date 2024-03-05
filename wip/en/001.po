@@ -16497,7 +16497,7 @@ msgstr "It occurred just as [he] said."
 
 msgctxt "37914b668b014888b7cc9a12bced3ff6"
 msgid "དད་པ་ མེད་ ན་ ཅིར་ འགྱུར་ སྙམ་ ན ། །"
-msgstr ""
+msgstr "If one wonders what would happen if you had no confidence,"
 
 msgctxt "0f462336fe604c24893efd00482d304b"
 msgid "བྱང་ཆུབ་ ཐོབ་ མི་ སྲིད་ དཔེར་ན །"
