@@ -16469,7 +16469,7 @@ msgstr "The blazing light of the sun’s disk "
 
 msgctxt "777498133ce742bb858c3f5a22921ada"
 msgid "མིག་ མེད་པ་ ཡིས་ མཐོང་བ་ མེད ། །"
-msgstr ""
+msgstr "Is not seen by those without eyes."
 
 msgctxt "cedca50b46484f2a9a233fce9f991b87"
 msgid "ཅེས་པ་␣ས་ ཆོས་སྐུ་␣ར་ འདུ་ཤེས་པ་␣ས་ མོས་གུས་ སྐྱེས་ ན །"
