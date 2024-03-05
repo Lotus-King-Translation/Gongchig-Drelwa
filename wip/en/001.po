@@ -16571,7 +16571,7 @@ msgstr ""
 
 msgctxt "2b7ade984c4c4713bbc52e1c0b8f7e0b"
 msgid "ལྟ་བ་ མི་ འདོད་ ཀྱང༌ ། །"
-msgstr ""
+msgstr "Though the view is not accepted,"
 
 msgctxt "fe4368a027f243ad800295d236322149"
 msgid "ཀུན་རྫོབ་ ཙམ་ དུ་ དཔོན་སློབ་ ཀྱི་ རྟེན་འབྲེལ་ ཚོགས་པ་ ལ་␣ས་"
