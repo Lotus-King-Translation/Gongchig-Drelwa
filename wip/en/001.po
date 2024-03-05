@@ -16485,7 +16485,7 @@ msgstr "Naropa, who has attained the retainer of forgetfulness,"
 
 msgctxt "c1c3f404141e4409a1286451e4c00fe1"
 msgid "བཅུ་གཉིས་ བར་ དུ་ ང་ མཉེས་ བྱས ། །"
-msgstr ""
+msgstr "He pleased me for twelve years."
 
 msgctxt "f17ff7c3724f478a8ccac2291a18d5d5"
 msgid "ང་ ཡི་ རྟོགས་པ་ ཁོ་ ལ་ ཡོད ། །"
