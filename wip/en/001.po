@@ -16549,7 +16549,7 @@ msgstr "Hold closely by compassionate mind,"
 
 msgctxt "77dd95dd3a184c949426c5b99fe3d568"
 msgid "ལྟ་བ་ ཐམས་ཅད་ སྤོང་བ་␣འི་ ཕྱིར་␣༑ །"
-msgstr ""
+msgstr "To abandon all the views,"
 
 msgctxt "ff398fd31c6a4317b794233ffa09cf5e"
 msgid "དམ་པ་␣འི་ ཆོས་ ནི་ སྟོན་ མཛད་པ །"
