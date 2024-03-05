@@ -18637,7 +18637,7 @@ msgstr ""
 
 msgctxt "a9cf001c6a624c0d9b48bed1a508eb25"
 msgid "རྩ་ཤེ་␣ས་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Root Stanzas of the Middle Way:"
 
 msgctxt "489a9b0f05ec4d59a14da3ad0dd3219e"
 msgid "གང་ གི་ རྟེན་ ཅིང་ འབྲེལ་བ་␣ར་ འབྱུང༌ ། །"
