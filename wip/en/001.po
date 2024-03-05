@@ -16465,7 +16465,7 @@ msgstr "To be realized by confidence itself."
 
 msgctxt "c5c3544a959a425f8bb5b8ba730c039e"
 msgid "ཉི་མ་␣འི་ དཀྱིལ་འཁོར་ འོད་འབར་བ ། །"
-msgstr ""
+msgstr "The blazing light of the sun’s disk "
 
 msgctxt "777498133ce742bb858c3f5a22921ada"
 msgid "མིག་ མེད་པ་ ཡིས་ མཐོང་བ་ མེད ། །"
