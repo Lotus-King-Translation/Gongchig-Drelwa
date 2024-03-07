@@ -16685,7 +16685,7 @@ msgstr "It is the sphere of the wisdom of the individual self-knowing,"
 
 msgctxt "2bd80f11cc22479cb961085bb47579d8"
 msgid "དུས་གསུམ་ རྒྱལ་བ་␣འི་ ཡུམ་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
-msgstr ""
+msgstr "Homage to the mother of the conquerors of the three times."
 
 msgctxt "665189895fa04d98b306769c003dbde4"
 msgid "ཞེས་ དང༌ །"
