@@ -16628,7 +16628,7 @@ msgstr "In this [system], these three greatnesses do not touch the actuality."
 
 msgctxt "ceb525b9fa9f40e0b221695508e55bd5"
 msgid "མདོ་ ཏིང་འཛིན་ རྒྱལ་པོ་ ལ་␣ས །"
-msgstr ""
+msgstr "The King of Meditative Concentration Sutra:"
 
 msgctxt "dee2fe33d7864a6aba31ad9281cac970"
 msgid "ཡོད་ དང་ མེད་ ཅེས་བྱ་བ་ མཐའ་ ཡིན་ ཏེ །"
