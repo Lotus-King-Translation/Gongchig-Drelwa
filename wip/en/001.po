@@ -16609,6 +16609,8 @@ msgid ""
 "དེ་ ནི་ ལྟ་བ་␣འི་ མཆོག་གྱུར་ རྟོགས་པ་ དང་ སོ་སོ་␣ར་ ཐ་ མི་ དད་ དུ་ ལྡན་པ་ ལ་"
 " བཞེད་ དོ ། །"
 msgstr ""
+"This is accepted as an excellent view endowed with and not separate from "
+"realization."
 
 msgctxt "0b65f709a76c4de2aeb100dae14c909b"
 msgid "གནས་ལུགས་ རྟོགས་པ་ ལ་"
