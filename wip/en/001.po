@@ -16624,7 +16624,7 @@ msgstr ""
 
 msgctxt "122359257f5e42cf9b315a842df27733"
 msgid "འདི་␣ར་ ནི་ ཆེན་པོ་ དེ་ གསུམ་ གྱིས་ གནས་ལུགས་ ལ་མ་ རེག་པ་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "In this [system], these three greatnesses do not touch the actuality."
 
 msgctxt "ceb525b9fa9f40e0b221695508e55bd5"
 msgid "མདོ་ ཏིང་འཛིན་ རྒྱལ་པོ་ ལ་␣ས །"
