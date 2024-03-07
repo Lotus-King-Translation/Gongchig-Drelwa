@@ -16597,7 +16597,7 @@ msgstr "Minds do not exist in the mind because,"
 
 msgctxt "1cef66d4339d4e8f8073cbb54b92daa7"
 msgid "སེམས་ ཀྱི་ རང་བཞིན་ ནི་ འོད་གསལ་བ་␣འོ ། །"
-msgstr ""
+msgstr "The nature of the mind is luminosity."
 
 msgctxt "7386264b860440769e8d8cc001f9170e"
 msgid "ཞེས་པ་␣ས་ སྣང་སྲིད་ ཡེ་ཤེས་ སུ་ འཆར་བ་␣ར་ བྱེད་པ་"
