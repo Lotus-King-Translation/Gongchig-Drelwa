@@ -16660,7 +16660,7 @@ msgstr "Likewise, X"
 
 msgctxt "b681c49a751540c696a3c2f02f30eda2"
 msgid "ཡིད་ དང་སེམས་ ཀྱིས་ ཡུལ་ དུ་ ཤེས་ མ་ ཡིན །"
-msgstr ""
+msgstr "The mind and knower do not know objects."
 
 msgctxt "e82350719b9a47bdb120d8210f8633f9"
 msgid "ཅེས་པ་ བཞིན་ བློ་ དང་སེམས་ ཚིག་ གིས་ གཏན་ ལ་ མི་ ཕབ་བོ ། །"
