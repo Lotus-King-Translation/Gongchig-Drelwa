@@ -19037,7 +19037,7 @@ msgstr ""
 
 msgctxt "bda2cca2a03d4a519ad3c42c593d6a3e"
 msgid "ཏིང་འཛིན་  རྒྱལ་པོ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The King of Meditative Concentration [Sutra]:"
 
 msgctxt "aef47db201c4475eb7cd088dc7ad1821"
 msgid "ཡོད་ དང་ མེད་ ཅེས་བྱ་བ་ མཐའ་ ཡིན་ ཏེ །"
