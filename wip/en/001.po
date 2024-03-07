@@ -16593,7 +16593,7 @@ msgstr "According to the Mother [Prajnaparamita Sutra]:"
 
 msgctxt "789cdceeab564f03b2de61ad3d818b24"
 msgid "སེམས་ ལ་ སེམས་མ་ མཆིས་ ཏེ །"
-msgstr ""
+msgstr "Mind do not exist in the mind because,"
 
 msgctxt "1cef66d4339d4e8f8073cbb54b92daa7"
 msgid "སེམས་ ཀྱི་ རང་བཞིན་ ནི་ འོད་གསལ་བ་␣འོ ། །"
