@@ -16664,7 +16664,7 @@ msgstr "The mind and knower do not know objects."
 
 msgctxt "e82350719b9a47bdb120d8210f8633f9"
 msgid "ཅེས་པ་ བཞིན་ བློ་ དང་སེམས་ ཚིག་ གིས་ གཏན་ ལ་ མི་ ཕབ་བོ ། །"
-msgstr ""
+msgstr "As it is said, the mind and knower cannot be determined by words. "
 
 msgctxt "c86be79e71c448919dc962f8d1666ffa"
 msgid "འོ་ན་ ཅི་ ཞེ་ན །"
