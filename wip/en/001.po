@@ -16652,7 +16652,7 @@ msgstr "And. According to the Avatamsaka [Sutra]:"
 
 msgctxt "9810c3d997074c84ba68c793fcc5ae91"
 msgid "ཇི་ལྟར་ བར་ སྣངཤིན་ ཏུ་␣x"
-msgstr ""
+msgstr "Like how it appears..X"
 
 msgctxt "0a20da5e4ddf46dea596486b6718603b"
 msgid "དེ་བཞིན་␣x"
