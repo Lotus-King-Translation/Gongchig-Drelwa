@@ -16619,6 +16619,8 @@ msgstr "To realize the actuality,"
 msgctxt "a0f392ce6840477c8204927a8253d57f"
 msgid "དབུ་ ཕྱག་ རྫོགས་ གསུམ་ ཁོ་ན་ མཐོ་བ་ ཡིན་པ་␣ར་ འདོད་ ཀྱང༌ །"
 msgstr ""
+"Although it is accepted that the three- Madhyamaka, Mahamudra, and Dzogchen "
+"are considered the highest."
 
 msgctxt "122359257f5e42cf9b315a842df27733"
 msgid "འདི་␣ར་ ནི་ ཆེན་པོ་ དེ་ གསུམ་ གྱིས་ གནས་ལུགས་ ལ་མ་ རེག་པ་ ཡིན་ ཏེ །"
