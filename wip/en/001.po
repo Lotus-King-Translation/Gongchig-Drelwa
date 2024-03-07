@@ -16602,6 +16602,7 @@ msgstr "The nature of the mind is luminosity."
 msgctxt "7386264b860440769e8d8cc001f9170e"
 msgid "ཞེས་པ་␣ས་ སྣང་སྲིད་ ཡེ་ཤེས་ སུ་ འཆར་བ་␣ར་ བྱེད་པ་"
 msgstr ""
+"Thus, the whole of appearance and existence appear as primordial wisdom."
 
 msgctxt "28865c534e594dd2aab3194083f9392a"
 msgid ""
