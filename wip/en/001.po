@@ -16677,7 +16677,7 @@ msgstr ""
 
 msgctxt "409e91d6933047c0a17d9d6f24ae88ad"
 msgid "མ་ སྐྱེས་ མི་ འགག་ ནམ་མཁ་␣འི་ ངོ་བོ་ ཉིད །"
-msgstr ""
+msgstr "Unborn and unceasing, the essence of space,"
 
 msgctxt "3fec82c6d3c04b98ad28a643f05e222f"
 msgid "སོ་སོ་ རང་རིག་ ཡེ་ཤེས་ སྤྱོད་ཡུལ་བ ། །"
