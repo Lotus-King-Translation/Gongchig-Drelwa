@@ -17267,7 +17267,7 @@ msgstr ""
 
 msgctxt "16f50423500c49ef869edb93807f596d"
 msgid "ཏིང་འཛིན་ རྒྱལ་པོ་ སྟོང་པ་ འདི་ བསྒོམ་པ་␣ས ། །"
-msgstr ""
+msgstr "By meditating on this king of meditative concentration, emptiness,"
 
 msgctxt "498a689593f04bd98c8d2c302ff736bf"
 msgid "ཚུལ་ཁྲིམས་ དག་པ་␣འི་ མགོ་ ལ་ དེ་ འདུག་ སྟེ ། །"
