@@ -16673,6 +16673,7 @@ msgstr "Well then, if it is asked why?"
 msgctxt "05b305baf8a64f25b98a12d28499604f"
 msgid "སྨྲ་ བསམ་བརྗོད་ མེད་ ཤེས་རབ་ ཕ་རོལ་ ཕྱིན །"
 msgstr ""
+"Beyond expression, beyond thought, beyond description, Prajnaparamita."
 
 msgctxt "409e91d6933047c0a17d9d6f24ae88ad"
 msgid "མ་ སྐྱེས་ མི་ འགག་ ནམ་མཁ་␣འི་ ངོ་བོ་ ཉིད །"
