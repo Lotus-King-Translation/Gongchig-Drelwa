@@ -16576,6 +16576,8 @@ msgstr "Though the view is not accepted,"
 msgctxt "fe4368a027f243ad800295d236322149"
 msgid "ཀུན་རྫོབ་ ཙམ་ དུ་ དཔོན་སློབ་ ཀྱི་ རྟེན་འབྲེལ་ ཚོགས་པ་ ལ་␣ས་"
 msgstr ""
+"On the merely relative level, through the interdependent gathering between "
+"the master and disciple,"
 
 msgctxt "f8845be6eb2f48218ca12d9995f3ce73"
 msgid ""
