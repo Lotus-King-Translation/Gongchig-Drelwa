@@ -16584,6 +16584,8 @@ msgid ""
 "ཆོས་ ཐམས་ཅད་ རང་སེམས་ དང་ དེ་ ལ་ ཆོས་སྐུ་ སྤྲོས་བྲལ་ དུ་ རྟོགས་པ་␣འི་ ལྟ་ "
 "རྟོགས་ དབྱེ་␣ར་ མེད་ དམ །"
 msgstr ""
+"All phenomena are as one’s own mind, and the inseparable view and "
+"realization of the realization of dharmakaya is free of elaboration."
 
 msgctxt "5961bd64eff24d6f8e9dffa00cfa2811"
 msgid "ཡུམ་ ལ་␣ས །"
