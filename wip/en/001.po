@@ -16697,7 +16697,7 @@ msgstr "Choegyal Songtsen says:"
 
 msgctxt "4b3a97e10f90499aad338c3ea8270769"
 msgid "བསམ་པ་ ཐམས་ཅད་ བློ་ ཡིན་ གྱི ། །"
-msgstr ""
+msgstr "Since all thoughts are the mind,"
 
 msgctxt "dcf1991ec7db4197ba7940eb799d9a03"
 msgid "བློ་ ཡི་ བྱེད་པ་ ཞོག་ ལ་ ཐོང༌ ། །"
