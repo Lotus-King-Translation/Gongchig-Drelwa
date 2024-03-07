@@ -16614,7 +16614,7 @@ msgstr ""
 
 msgctxt "0b65f709a76c4de2aeb100dae14c909b"
 msgid "གནས་ལུགས་ རྟོགས་པ་ ལ་"
-msgstr ""
+msgstr "To realize the actuality,"
 
 msgctxt "a0f392ce6840477c8204927a8253d57f"
 msgid "དབུ་ ཕྱག་ རྫོགས་ གསུམ་ ཁོ་ན་ མཐོ་བ་ ཡིན་པ་␣ར་ འདོད་ ཀྱང༌ །"
