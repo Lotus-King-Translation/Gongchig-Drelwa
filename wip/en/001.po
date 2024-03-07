@@ -16681,7 +16681,7 @@ msgstr "Unborn and unceasing, the essence of space,"
 
 msgctxt "3fec82c6d3c04b98ad28a643f05e222f"
 msgid "སོ་སོ་ རང་རིག་ ཡེ་ཤེས་ སྤྱོད་ཡུལ་བ ། །"
-msgstr ""
+msgstr "It is the sphere of the wisdom of the individual self-knowing,"
 
 msgctxt "2bd80f11cc22479cb961085bb47579d8"
 msgid "དུས་གསུམ་ རྒྱལ་བ་␣འི་ ཡུམ་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
