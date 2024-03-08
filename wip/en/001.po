@@ -19154,7 +19154,7 @@ msgstr "[One] who becomes a valid [person] and wishes to help migrators,"
 
 msgctxt "f8b95181c427402391930a78b76cf0cf"
 msgid "སྟོན་པ་ བདེ་གཤེགས་ སྐྱོབ་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
-msgstr ""
+msgstr "Homage to the teacher, the Sugata."
 
 msgctxt "edd130c245f14ebf9ca5a417c005b5a6"
 msgid "དེས་ན་ བསམ་ གྱིས་ མི་ ཁྱབ་པ་␣འི་ གནས་ ལ་ སྐུར་བ་ འདེབས་པ་"
