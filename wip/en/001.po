@@ -16748,7 +16748,7 @@ msgstr "The three things that are named are"
 
 msgctxt "35f69c9ebcd3419fa401b895a1600db3"
 msgid "ཟླ་བ་ སྟོན་པ་␣འི་ འཛུབ་ མོ་ བཞིན་ ནོ་␣༑ །"
-msgstr ""
+msgstr "Like the fingers of Dawatonpa."
 
 msgctxt "f2579ac77aba4705a555f3c328eea365"
 msgid "དེས་ན་ འདི་ ལ་ དཀར་པོ་ ཆིག་ཐུབ་ ཅེས་ བཏགས་པ་ ལ་␣ས་"
