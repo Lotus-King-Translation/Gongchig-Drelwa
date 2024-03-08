@@ -16762,7 +16762,7 @@ msgstr ""
 msgctxt "f0a047cc61df45e09405e186a203e411"
 msgid "དེ་ལྟར་ ན་ མཐར་ཐུག་ གཉིས་ མེད་ བྱ་བ་ ཡོད་པ་␣འི་ ཆོས་ ཞིག་"
 msgstr ""
-"In that case, ultimately, no phenomenon that has the action of nonduality"
+"In that case, ultimately, a phenomenon that has the action of nonduality"
 
 msgctxt "ad0fe696d46c4e998250617f1764c071"
 msgid "གཏན་ མི་ རྙེད་པ་␣ར་ འགྱུར་ རོ ། །"
