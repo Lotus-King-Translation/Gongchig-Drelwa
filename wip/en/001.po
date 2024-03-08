@@ -16872,7 +16872,7 @@ msgstr ""
 
 msgctxt "84794251bade43e39bbfe228ebba04d8"
 msgid "དེ་␣འི་ སྟེང་ ནས་ ཞི་གནས་ སྒྲུབ་པ་"
-msgstr ""
+msgstr "Based on that, accomplishing the calm abiding,"
 
 msgctxt "616d9979316a4b95aee5fd6c8b70dcd2"
 msgid "སྒོམ་པ་␣འམ་ གདམ་ངག་ ལྟར་ བསྒོམ་པ་␣ས་"
