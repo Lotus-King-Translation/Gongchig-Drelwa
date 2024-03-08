@@ -18102,7 +18102,7 @@ msgstr "And."
 
 msgctxt "d87a8d1081d7498d92326ecf7deb55e8"
 msgid "བྱམས་མགོན་ གྱིས །"
-msgstr ""
+msgstr "Lord Maitreya says:"
 
 msgctxt "eefd949c5ab0493ba77b3a911f00b200"
 msgid "མགོ་ ལ་ སེམས་ཅན་ ཁུར་ཆེན་ ཁྱེར་བ་ ཡི ། །"
