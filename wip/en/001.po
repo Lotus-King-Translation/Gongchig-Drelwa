@@ -16850,7 +16850,7 @@ msgstr "When meditation comes from without meditation."
 
 msgctxt "ffdf28551e484b10a434001d78a8ed23"
 msgid "རེ་བ་ དེ་ཡང་ བསྒོམ་པ་␣ར་ མི་ བྱ་␣འོ །"
-msgstr ""
+msgstr "Do not meditate on that hope also."
 
 msgctxt "c126d2898df147dd9068778a9266c62c"
 msgid "ཞེས་པ་␣ས་ མདོ་␣ར་ བསྡུ་ ན་ སྟོང་པ་␣ར་ ཤོ་␣ར་ གོལ །"
