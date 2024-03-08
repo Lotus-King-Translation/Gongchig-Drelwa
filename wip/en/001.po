@@ -17450,7 +17450,7 @@ msgstr ""
 
 msgctxt "d3a5f1743119497d8f583c36ba2132b4"
 msgid "ཇོ་བོ་␣ས །"
-msgstr ""
+msgstr "Jowo says:"
 
 msgctxt "a48bc7d34797467d954efa062205c4cd"
 msgid "གལ་ཏེ་ མཉམ་བཞག་ སེམས་ བརྟན་ ན ། །"
