@@ -16886,7 +16886,7 @@ msgstr ""
 
 msgctxt "2a5a001b328c43ab8f540fe044d61fea"
 msgid "དེ་ལས་ བྱུང་བ་␣འི་ དོན་སྤྱི་ ནི་ ལྟ་བ་␣ར་ བྱེད་ དོ །"
-msgstr ""
+msgstr "The generic image that arises from that is the view."
 
 msgctxt "6dd72b944fc94b6385633a1e20c78811"
 msgid "འདི་␣ར་ ནི་ དཔོན་སློབ་ ཀྱི་ རྟེན་འབྲེལ་ ལ་␣ས་ བྱུང་བ་␣འི་"
