@@ -16918,7 +16918,7 @@ msgstr ""
 
 msgctxt "446ebe297f064093aab127f5f1dace45"
 msgid "མགོན་པོ་ འབྲི་གུང་པ་ ཆེན་པོ་␣ས ། །"
-msgstr ""
+msgstr "The great Lord of Drigungpa says:"
 
 msgctxt "da8728ff57424fb9a4864ff9afe06286"
 msgid "བརྩོན་འགྲུས་ ཆེན་པོ་␣འི་ གོ་བ་ ནི ། །"
