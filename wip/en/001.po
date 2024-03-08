@@ -16799,6 +16799,8 @@ msgstr ""
 msgctxt "adc0fc6c49f94f8899c83f349e091b5a"
 msgid "མཚན་ཉིད་པ་ མཐར་ཐུག་ ལྟ་ རྟོགས་ དབྱེ་␣ར་ མེད་པ་"
 msgstr ""
+"This is because it is said that the dialecticians, without any "
+"differentiation of the ultimate view and realization,"
 
 msgctxt "a07ea68b24294f2faf5f6e8462d99296"
 msgid "དེ་␣འི་ ཤོ་␣ར་ ས་ དང་ གོལ་ས་ ཡིན་པ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར །"
