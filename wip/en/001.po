@@ -16876,7 +16876,7 @@ msgstr "Based on that, accomplishing the calm abiding,"
 
 msgctxt "616d9979316a4b95aee5fd6c8b70dcd2"
 msgid "སྒོམ་པ་␣འམ་ གདམ་ངག་ ལྟར་ བསྒོམ་པ་␣ས་"
-msgstr ""
+msgstr "By meditating or by meditating according to the instructions,"
 
 msgctxt "09c8277553414b868feb32f034e09f6e"
 msgid "བདེ་ གསལ་ མི་ རྟོག་ གི་ ཉམས་ སྐྱེས་པ་ སྒོམ་པ་ དང༌ །"
