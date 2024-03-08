@@ -16832,7 +16832,7 @@ msgstr "And."
 
 msgctxt "291b0abbef1b4b1b8bda912ac727c56c"
 msgid "འབྲི་གུང་ ཆོས་རྗེ་ རིན་པོ་ཆེ་␣ས །"
-msgstr ""
+msgstr "Drigung Choje Rinpoche said: "
 
 msgctxt "c8f1f1e0c4f74804b096eb04a322941b"
 msgid "རང་སེམས་ མི་ སྒོམ་ སེམས་ ཀྱི་ ཡུལ་མི་ བསྒོམ ། །"
