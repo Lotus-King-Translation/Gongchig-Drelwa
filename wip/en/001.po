@@ -16724,6 +16724,7 @@ msgstr ""
 msgctxt "77321ff1b4994b74b6ea8e8a1e303e7f"
 msgid "བྱས་པ་␣འི་ ཆོས་ ཀྱི་ བྱར་མེད་ སངས་ མི་ རྒྱ །"
 msgstr ""
+"The non-action of the produced phenomena does not become enlightenment."
 
 msgctxt "7f292c7f65e04ce99a692c9458101f3c"
 msgid "ཞེས་པ་␣ས་ ཚིག་ གིས་ སྨྲ་␣ར་ མེད །"
