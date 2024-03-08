@@ -18898,7 +18898,7 @@ msgstr ""
 
 msgctxt "b1c65020ce7d4f778777518a6f6fff55"
 msgid "ཚད་མ་␣ར་ མི་ འགྱུར་ ཟེར་བ་ དག་ ཀྱང་ ཡོད་ དོ །"
-msgstr ""
+msgstr "There are also called [one] who becomes a valid [person],"
 
 msgctxt "5f26b4b76962466cb1248f0dcc9d2da8"
 msgid "འདི་␣ར་ སངས་རྒྱས་པ་␣འི་ དུས་ རྣམས་"
