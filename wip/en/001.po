@@ -16732,7 +16732,7 @@ msgstr "Therefore, it is not expressed by words,"
 
 msgctxt "46eb1f38a15c4b9ca0e71f23965a17bc"
 msgid "བརྗོད་པ་␣ས་ གཏན་ ལ་ མི་ ཕེབ །"
-msgstr ""
+msgstr "It is not established by expression,"
 
 msgctxt "6927188551304fe1bc8290da6834536d"
 msgid ""
