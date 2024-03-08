@@ -16862,7 +16862,7 @@ msgstr "stray into appearance,"
 
 msgctxt "f631eba316cc4c709842f5a4acc2a73f"
 msgid "རྒྱུ་འབྲས་ ཀྱི་ རྟོག་པ་␣ར་ ཤོར་བ་␣འོ ། །"
-msgstr ""
+msgstr "and stray into the conceptuality of cause and effect."
 
 msgctxt "f233c72a74e14ffd95abb062bb50c6ad"
 msgid "རྡོ་␣༽༽  ཆོས་ཉིད་ གཏན་ ལ་ ཕབ་ ནས་ ཡུལ་ དུ་ བྱེད་པ་ ལྟ་བ་"
