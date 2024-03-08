@@ -16816,7 +16816,7 @@ msgstr "Because it is subtle, it is not an object of hearing,"
 
 msgctxt "ca81dae0507146d6ab765d5481b741bf"
 msgid "དོན་དམ་ ཕྱིར་ ན་ བསམ་པ་␣ས་ མིན ། །"
-msgstr ""
+msgstr "Because it is absolute, it is not [an object] of mind,"
 
 msgctxt "7f21f8a73d7f4ac39d684b2ec62c05f8"
 msgid "ཆོས་ཉིད་ ཟབ་ ཕྱིར་ འཇིག་རྟེན་པ་␣འི ། །"
