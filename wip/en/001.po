@@ -16705,7 +16705,7 @@ msgstr "Place aside the activity of the mind,"
 
 msgctxt "706b929cd53f41d9bc7ad1e01d98f20c"
 msgid "ཞོག་ ཅེས་བྱ་བ་␣འང་ ཚིག་ ཡིན་པ་␣ས ། །"
-msgstr "\"Place aside\" is also a word, "
+msgstr "Since \"place aside\" is also a word, "
 
 msgctxt "a4b854c09df84a7c91ec518de35735ce"
 msgid "ཚིག་ གི་ འཛིན་པ་ བོར་ ལ་ཐོད །"
