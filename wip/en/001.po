@@ -16728,7 +16728,7 @@ msgstr ""
 
 msgctxt "7f292c7f65e04ce99a692c9458101f3c"
 msgid "ཞེས་པ་␣ས་ ཚིག་ གིས་ སྨྲ་␣ར་ མེད །"
-msgstr ""
+msgstr "Therefore, it is not expressed by words,"
 
 msgctxt "46eb1f38a15c4b9ca0e71f23965a17bc"
 msgid "བརྗོད་པ་␣ས་ གཏན་ ལ་ མི་ ཕེབ །"
