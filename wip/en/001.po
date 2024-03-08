@@ -19615,7 +19615,7 @@ msgstr ""
 
 msgctxt "a76509d1ff2f4c079808f472d515f619"
 msgid "ཅེས་པ་␣ས །"
-msgstr ""
+msgstr "Thus,"
 
 msgctxt "5cc3dabd99c748d98339875677e56a08"
 msgid "སངས་རྒྱས་ ཀྱི་ ས་ ན་ ཐུགས་བསྐྱེད་"
