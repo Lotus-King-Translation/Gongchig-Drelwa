@@ -17280,7 +17280,7 @@ msgstr "And."
 
 msgctxt "c8384c2a63304f87a83f222c744ce79e"
 msgid "ཏིང་ རྒྱལ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the King of Meditative Concentration [Sutra]:"
 
 msgctxt "16f50423500c49ef869edb93807f596d"
 msgid "ཏིང་འཛིན་ རྒྱལ་པོ་ སྟོང་པ་ འདི་ བསྒོམ་པ་␣ས ། །"
