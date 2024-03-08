@@ -16824,7 +16824,7 @@ msgstr "Because the true nature of phenomena is profound, "
 
 msgctxt "35ac67c5146d4fb6b234eab4965fe8cc"
 msgid "སྒོམ་པ་ ལ་སོགས་ ཡུལ་ མ་ ཡིན །"
-msgstr ""
+msgstr "It is not an object of worldly meditation, and so forth."
 
 msgctxt "e78cffc19d9e4191b84b69f92dd76fae"
 msgid "ཅེས་ དང༌ །"
