@@ -18549,7 +18549,7 @@ msgstr ""
 
 msgctxt "609c83bd571d4d0fb68c176a080af0a8"
 msgid "གཟུགས་སྐུ །"
-msgstr ""
+msgstr "Rupakaya,"
 
 msgctxt "f81e86e1f930415690eb913022f965f3"
 msgid ""
