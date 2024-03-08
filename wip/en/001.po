@@ -16812,7 +16812,7 @@ msgstr "Lord Maitreya says:"
 
 msgctxt "d612f1a30f814269ae116e92c908ba41"
 msgid "ཕྲ་ ཕྱིར་ ཐོས་པ་␣འི་ ཡུལ་ མིན་ ཏེ ། །"
-msgstr ""
+msgstr "Because it is subtle, it is not an object of hearing,"
 
 msgctxt "ca81dae0507146d6ab765d5481b741bf"
 msgid "དོན་དམ་ ཕྱིར་ ན་ བསམ་པ་␣ས་ མིན ། །"
