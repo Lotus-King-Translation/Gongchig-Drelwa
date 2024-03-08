@@ -16781,6 +16781,8 @@ msgstr ""
 msgctxt "a5f9987458794c329e2c7b27c59ee3e1"
 msgid "འདི་␣ར་ ནི་ ཐོས་བསམ་ སྒོམ་པ་␣འི་ སྟོང་ཉིད་ ནི་ ཤོ་␣ར་ གོལ་ ཡིན་ ཏེ་"
 msgstr ""
+"In this [system], the hearing, contemplation, and meditation of emptiness is"
+" a point at which one becomes lost and goes astray."
 
 msgctxt "a8e72491c1b64f86b1d119b4ef36056f"
 msgid "རིག་པ་␣ས་ གཞལ་ བློ་␣ས་ བརྟགས་ ཚིག་ གིས་ གཏན་ ལ་ ཕབ་པ་ དེ་"
