@@ -19919,7 +19919,7 @@ msgstr ""
 
 msgctxt "d8b30f20f1f04f3b9f7b7f5651317c72"
 msgid "ཅེས་ དང༌ །"
-msgstr ""
+msgstr "And."
 
 msgctxt "ca9aa53b77504402afb650896d5bbcf7"
 msgid "བྱང་སེམས་ ཐབས་ ཀྱི་ སྤྱོད་ཡུལ་ རྣམ་པ་␣ར་ འཁྲུལ་པ་ བསྟན་པ་ ལ་␣ས །"
