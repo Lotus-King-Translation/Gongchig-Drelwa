@@ -16854,7 +16854,7 @@ msgstr "Do not meditate on that hope also."
 
 msgctxt "c126d2898df147dd9068778a9266c62c"
 msgid "ཞེས་པ་␣ས་ མདོ་␣ར་ བསྡུ་ ན་ སྟོང་པ་␣ར་ ཤོ་␣ར་ གོལ །"
-msgstr ""
+msgstr "In conclusion, one will stray into emptiness,"
 
 msgctxt "cc342fb549254c5ebd6c9387ec4dd7ae"
 msgid "སྣང་བ་ ཤོ་␣ར་ གོལ །"
