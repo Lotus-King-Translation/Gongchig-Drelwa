@@ -16881,6 +16881,8 @@ msgstr "By meditating or by meditating according to the instructions,"
 msgctxt "09c8277553414b868feb32f034e09f6e"
 msgid "བདེ་ གསལ་ མི་ རྟོག་ གི་ ཉམས་ སྐྱེས་པ་ སྒོམ་པ་ དང༌ །"
 msgstr ""
+"The meditation on the experience of bliss, clarity, and non-conceptuality "
+"that has arisen and"
 
 msgctxt "2a5a001b328c43ab8f540fe044d61fea"
 msgid "དེ་ལས་ བྱུང་བ་␣འི་ དོན་སྤྱི་ ནི་ ལྟ་བ་␣ར་ བྱེད་ དོ །"
