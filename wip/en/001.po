@@ -16837,6 +16837,8 @@ msgstr "Drigung Choje Rinpoche said: "
 msgctxt "c8f1f1e0c4f74804b096eb04a322941b"
 msgid "རང་སེམས་ མི་ སྒོམ་ སེམས་ ཀྱི་ ཡུལ་མི་ བསྒོམ ། །"
 msgstr ""
+"Without meditating on one's own mind, one will not meditate on the object of"
+" the mind,"
 
 msgctxt "88ffa857ecda4e27b3c93352d9153e77"
 msgid "སྒོམ་ དུ་ མེད་པ་ ཡང་ ནི་ མི་ སྒོམ་ སྟེ ། །"
