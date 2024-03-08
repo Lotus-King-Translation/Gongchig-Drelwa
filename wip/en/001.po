@@ -16739,6 +16739,8 @@ msgid ""
 "དཔེ་␣ས་ མཚོན་ དུ་ མེད་པ་␣འི་ འཁོར་འདས་ གཉིས་ མེད་ ཀྱི་ དོན་ རྟོགས་པ་ དེ་ "
 "ཡིན་ ནོ ། །"
 msgstr ""
+"It is the realization of the meaning of the non-duality of samsara and "
+"nirvana that cannot be illustrated by examples."
 
 msgctxt "df25007d9ad2481686f3867bc048f17c"
 msgid "མིང་ དུ་ བཏགས་པ་ གསུམ་པོ་ ནི་"
