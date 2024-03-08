@@ -16701,7 +16701,7 @@ msgstr "Since all thoughts are the mind,"
 
 msgctxt "dcf1991ec7db4197ba7940eb799d9a03"
 msgid "བློ་ ཡི་ བྱེད་པ་ ཞོག་ ལ་ ཐོང༌ ། །"
-msgstr ""
+msgstr "Place aside the activity of the mind,"
 
 msgctxt "706b929cd53f41d9bc7ad1e01d98f20c"
 msgid "ཞོག་ ཅེས་བྱ་བ་␣འང་ ཚིག་ ཡིན་པ་␣ས ། །"
