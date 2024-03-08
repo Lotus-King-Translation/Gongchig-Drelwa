@@ -16858,7 +16858,7 @@ msgstr "In conclusion, one will stray into emptiness,"
 
 msgctxt "cc342fb549254c5ebd6c9387ec4dd7ae"
 msgid "སྣང་བ་ ཤོ་␣ར་ གོལ །"
-msgstr ""
+msgstr "stray into appearance,"
 
 msgctxt "f631eba316cc4c709842f5a4acc2a73f"
 msgid "རྒྱུ་འབྲས་ ཀྱི་ རྟོག་པ་␣ར་ ཤོར་བ་␣འོ ། །"
