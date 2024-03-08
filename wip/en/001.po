@@ -16787,6 +16787,8 @@ msgstr ""
 msgctxt "a8e72491c1b64f86b1d119b4ef36056f"
 msgid "རིག་པ་␣ས་ གཞལ་ བློ་␣ས་ བརྟགས་ ཚིག་ གིས་ གཏན་ ལ་ ཕབ་པ་ དེ་"
 msgstr ""
+"That which is evaluated by intelligence, analyzed by the mind, and "
+"determined by words, "
 
 msgctxt "1be69dcd592145f6b92dd5944e3949db"
 msgid "སྟོང་ཉིད་ ཀྱི་ དོན་སྤྱི་ བློ་ཡུལ་ དུ་ བྱས་པ་ ལ་␣ས་ མཚན་ཉིད་ མིན་པ་␣ས་"
