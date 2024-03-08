@@ -16820,7 +16820,7 @@ msgstr "Because it is absolute, it is not [an object] of mind,"
 
 msgctxt "7f21f8a73d7f4ac39d684b2ec62c05f8"
 msgid "ཆོས་ཉིད་ ཟབ་ ཕྱིར་ འཇིག་རྟེན་པ་␣འི ། །"
-msgstr ""
+msgstr "Because the true nature of phenomena is profound, "
 
 msgctxt "35ac67c5146d4fb6b234eab4965fe8cc"
 msgid "སྒོམ་པ་ ལ་སོགས་ ཡུལ་ མ་ ཡིན །"
