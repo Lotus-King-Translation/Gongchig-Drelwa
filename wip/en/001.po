@@ -16804,7 +16804,7 @@ msgstr ""
 
 msgctxt "a07ea68b24294f2faf5f6e8462d99296"
 msgid "དེ་␣འི་ ཤོ་␣ར་ ས་ དང་ གོལ་ས་ ཡིན་པ་␣ར་ གསུངས་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "It is a point at which one becomes lost and goes astray."
 
 msgctxt "f61e8d4a3c884ab1bfb1deb6cf702ba1"
 msgid "མགོན་པོ་ བྱམས་པ་␣ས །"
