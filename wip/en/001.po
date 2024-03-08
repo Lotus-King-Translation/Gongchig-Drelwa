@@ -16867,6 +16867,8 @@ msgstr "and stray into the conceptuality of cause and effect."
 msgctxt "f233c72a74e14ffd95abb062bb50c6ad"
 msgid "རྡོ་␣༽༽  ཆོས་ཉིད་ གཏན་ ལ་ ཕབ་ ནས་ ཡུལ་ དུ་ བྱེད་པ་ ལྟ་བ་"
 msgstr ""
+"Vajra: After determining the nature of phenomena, the view that takes it as "
+"its object,"
 
 msgctxt "84794251bade43e39bbfe228ebba04d8"
 msgid "དེ་␣འི་ སྟེང་ ནས་ ཞི་གནས་ སྒྲུབ་པ་"
