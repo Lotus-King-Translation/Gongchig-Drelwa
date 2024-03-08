@@ -20337,7 +20337,7 @@ msgstr ""
 
 msgctxt "7dcc6d71c8414ffd9330ad1acd411b8c"
 msgid "ཅེས་པ་␣ས །"
-msgstr ""
+msgstr "Thus,"
 
 msgctxt "e53b1b77507a4bd88d1f246d840d6d5b"
 msgid "ཡེ་ཤེས་ ཡོན་ཏན་ ཕྲིན་ལས་ རྣམས་ རྒྱུ་རྐྱེན་ ཚོགས་ ན་ འབྱུང་བ་ དང་"
