@@ -16775,6 +16775,8 @@ msgstr "Therefore, this is the supreme realization."
 msgctxt "cb70e80c425e4f0bacfd63028f06d228"
 msgid "རྡོ་␣༽༽  གནས་ལུགས་ ཐོས་བསམ་ སྒོམ་ གསུམ་ གྱི་ རྟོགས་པ་␣ར་ འདོད་ མོད །"
 msgstr ""
+"Vajra: Although it is accepted that the actuality is the realization of the "
+"three of hearing, contemplation, and meditation."
 
 msgctxt "a5f9987458794c329e2c7b27c59ee3e1"
 msgid "འདི་␣ར་ ནི་ ཐོས་བསམ་ སྒོམ་པ་␣འི་ སྟོང་ཉིད་ ནི་ ཤོ་␣ར་ གོལ་ ཡིན་ ཏེ་"
