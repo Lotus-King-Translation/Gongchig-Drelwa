@@ -16744,7 +16744,7 @@ msgstr ""
 
 msgctxt "df25007d9ad2481686f3867bc048f17c"
 msgid "མིང་ དུ་ བཏགས་པ་ གསུམ་པོ་ ནི་"
-msgstr ""
+msgstr "The three things that are named are"
 
 msgctxt "35f69c9ebcd3419fa401b895a1600db3"
 msgid "ཟླ་བ་ སྟོན་པ་␣འི་ འཛུབ་ མོ་ བཞིན་ ནོ་␣༑ །"
