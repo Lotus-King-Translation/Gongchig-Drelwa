@@ -16891,6 +16891,8 @@ msgstr "The generic image that arises from that is the view."
 msgctxt "6dd72b944fc94b6385633a1e20c78811"
 msgid "འདི་␣ར་ ནི་ དཔོན་སློབ་ ཀྱི་ རྟེན་འབྲེལ་ ལ་␣ས་ བྱུང་བ་␣འི་"
 msgstr ""
+"In this [system], the correct view that arises from the interdependence of "
+"master and disciple,"
 
 msgctxt "e23571b7779649f3b9b89941cafc57a8"
 msgid "ལྟ་བ་ ཡང་དག་ རྟོགས་པ་ དབྱེ་␣ར་ མེད་པ་ གསུམ་ གྱིས་"
