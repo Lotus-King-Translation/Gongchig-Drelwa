@@ -16757,7 +16757,7 @@ msgstr "Therefore, this is called an all-curing single white [panacea]."
 msgctxt "b62b4f9f02df48ef996606163230aea7"
 msgid ""
 "འགའ་ཞིག་ གསུམ་ དུ་ འགྱུར་བ་␣འི་ ཐལ་བ་ འཕེན་པ་ ནི་ བློ་གྲོས་ རྩིང་ སྟེ །"
-msgstr ""
+msgstr "Some people imply an absurd consequence of becoming three."
 
 msgctxt "f0a047cc61df45e09405e186a203e411"
 msgid "དེ་ལྟར་ ན་ མཐར་ཐུག་ གཉིས་ མེད་ བྱ་བ་ ཡོད་པ་␣འི་ ཆོས་ ཞིག་"
