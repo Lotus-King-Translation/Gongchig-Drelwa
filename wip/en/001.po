@@ -16766,7 +16766,7 @@ msgstr ""
 
 msgctxt "ad0fe696d46c4e998250617f1764c071"
 msgid "གཏན་ མི་ རྙེད་པ་␣ར་ འགྱུར་ རོ ། །"
-msgstr ""
+msgstr "Would never be found."
 
 msgctxt "68434048f0194062a95d59d9bc4043cb"
 msgid "དེ་བས་ན་ རྟོགས་པ་␣འི་ མཆོག་ གོ  །"
