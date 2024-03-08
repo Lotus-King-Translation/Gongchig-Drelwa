@@ -16808,7 +16808,7 @@ msgstr "Is a point at which one becomes lost and goes astray."
 
 msgctxt "f61e8d4a3c884ab1bfb1deb6cf702ba1"
 msgid "མགོན་པོ་ བྱམས་པ་␣ས །"
-msgstr ""
+msgstr "Lord Maitreya says:"
 
 msgctxt "d612f1a30f814269ae116e92c908ba41"
 msgid "ཕྲ་ ཕྱིར་ ཐོས་པ་␣འི་ ཡུལ་ མིན་ ཏེ ། །"
