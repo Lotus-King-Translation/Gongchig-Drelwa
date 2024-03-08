@@ -16794,7 +16794,7 @@ msgctxt "1be69dcd592145f6b92dd5944e3949db"
 msgid "སྟོང་ཉིད་ ཀྱི་ དོན་སྤྱི་ བློ་ཡུལ་ དུ་ བྱས་པ་ ལ་␣ས་ མཚན་ཉིད་ མིན་པ་␣ས་"
 msgstr ""
 "The generic image of emptiness is taken as the object of the mind but not "
-"its definition."
+"its characteristic."
 
 msgctxt "adc0fc6c49f94f8899c83f349e091b5a"
 msgid "མཚན་ཉིད་པ་ མཐར་ཐུག་ ལྟ་ རྟོགས་ དབྱེ་␣ར་ མེད་པ་"
