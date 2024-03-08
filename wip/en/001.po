@@ -16718,6 +16718,8 @@ msgstr "Thus, Tilopa said:"
 msgctxt "afb1b3f993904f3c93e530ed69bcbc44"
 msgid "བློ་ ཡི་ ཆོས་ ཀྱིས་ བློ་འདས་ དོན་ མི་ རྟོགས །"
 msgstr ""
+"The meaning of those that transcendent over the rational mind is not "
+"realized by the phenomena of the mind,"
 
 msgctxt "77321ff1b4994b74b6ea8e8a1e303e7f"
 msgid "བྱས་པ་␣འི་ ཆོས་ ཀྱི་ བྱར་མེད་ སངས་ མི་ རྒྱ །"
