@@ -16770,7 +16770,7 @@ msgstr "Would never be found."
 
 msgctxt "68434048f0194062a95d59d9bc4043cb"
 msgid "དེ་བས་ན་ རྟོགས་པ་␣འི་ མཆོག་ གོ  །"
-msgstr ""
+msgstr "Therefore, this is the supreme realization."
 
 msgctxt "cb70e80c425e4f0bacfd63028f06d228"
 msgid "རྡོ་␣༽༽  གནས་ལུགས་ ཐོས་བསམ་ སྒོམ་ གསུམ་ གྱི་ རྟོགས་པ་␣ར་ འདོད་ མོད །"
