@@ -16842,7 +16842,7 @@ msgstr ""
 
 msgctxt "88ffa857ecda4e27b3c93352d9153e77"
 msgid "སྒོམ་ དུ་ མེད་པ་ ཡང་ ནི་ མི་ སྒོམ་ སྟེ ། །"
-msgstr ""
+msgstr "Do not meditate on what is not meditation."
 
 msgctxt "ae49e39dc6034a75b2523f236bb70557"
 msgid "མ་ བསྒོམ་པ་ ཡི་ བསྒོམ་ ཞིག་ འོང་བ་ ཡི ། །"
