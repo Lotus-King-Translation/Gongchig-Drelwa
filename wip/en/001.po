@@ -16709,7 +16709,7 @@ msgstr "\"Place aside\" is also a word, "
 
 msgctxt "a4b854c09df84a7c91ec518de35735ce"
 msgid "ཚིག་ གི་ འཛིན་པ་ བོར་ ལ་ཐོད །"
-msgstr ""
+msgstr "Put aside the grasping of words."
 
 msgctxt "fea0b5e030734b97babe19d31616b7ec"
 msgid "ཞེས་ དང༌ །  ཏེ་ལོ་པ་␣ས །"
