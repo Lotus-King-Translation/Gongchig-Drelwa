@@ -19456,7 +19456,7 @@ msgstr ""
 
 msgctxt "27bdc2fc1b3942d7a284caf2e8c0c9be"
 msgid "དེ་ ཆོས་ཅན་"
-msgstr ""
+msgstr "Take that as the subject,"
 
 msgctxt "7dc400053cfa42a69a50bdc58c33ae1f"
 msgid ""
