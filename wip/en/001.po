@@ -18782,7 +18782,7 @@ msgstr ""
 
 msgctxt "bb2388c0fdb34b978583af68b77db694"
 msgid "བཞི་བརྒྱ་པ་␣ར །"
-msgstr ""
+msgstr "The Four Hundred Verses [on the Middle Way]:"
 
 msgctxt "f844124c742a49979b33a745a721848f"
 msgid "གང་ཞིག་ ཆོས་ འདི་ ཐོས་པ་␣འམ །"
