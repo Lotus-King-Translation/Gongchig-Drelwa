@@ -2729,7 +2729,7 @@ msgstr "Became power,"
 
 msgctxt "74cd5b35389049cb885c5b414601862d"
 msgid "ཚད་མ་␣ར་ གྱུར་པ་ ཞེས་ དང༌ །"
-msgstr ""
+msgstr "[One] who becomes a valid [person] and "
 
 msgctxt "536b4a67382340c0863203a558eaf9a5"
 msgid "ཕྱོགས་གླང་ གིས །"
