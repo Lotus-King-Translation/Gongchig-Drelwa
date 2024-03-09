@@ -16961,6 +16961,8 @@ msgstr "The body and speech are in a state of panic."
 msgctxt "a7510e2c09e9444fbf959f9122d634b8"
 msgid "ཅེས་ གསུངས་པ་ བཞིན་ གོམ་ ཞེས་པ་ སེམས་ དྲན་པ་ ཉེར་ བཞག  །"
 msgstr ""
+"It is said that habituation is the close application of mindfulness of the "
+"mind."
 
 msgctxt "5bb1ca858c97483f8862d80037df5458"
 msgid "གྲོགས་ ཡང་དག་ སྤོང་ བཞི་␣ས་ ཉམས་ སུ་ བླངས་པ་␣ས་"
