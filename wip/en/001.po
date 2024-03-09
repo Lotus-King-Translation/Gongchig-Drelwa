@@ -16903,6 +16903,8 @@ msgid ""
 "མ་ རེག་པ་␣འི་ རྟོགས་པ་ དེ་ ལ་ འདྲིས་ ཤིང་ རྒྱུན་ མ་ ཆད་ གོམ་པ་␣ར་ བྱེད་པ་ "
 "ནི་"
 msgstr ""
+"Familiarizing oneself with this realization that has not yet been contacted "
+"and cultivating uninterruptedly is"
 
 msgctxt "9c8a7ca344924b1495a5513891dd9ae4"
 msgid "སྒོམ་པ་ མཐར་ཐུག་ སྟེ །"
