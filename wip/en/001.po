@@ -16932,7 +16932,7 @@ msgstr "The great Lord of Drigungpa says:"
 
 msgctxt "da8728ff57424fb9a4864ff9afe06286"
 msgid "བརྩོན་འགྲུས་ ཆེན་པོ་␣འི་ གོ་བ་ ནི ། །"
-msgstr ""
+msgstr "The understanding of the great perseverance is"
 
 msgctxt "52406d992f514867b64c5fb746a23d85"
 msgid "དྲན་པ་ རྒྱུན་ ཆད་ མེད་པ་ ཡིན །"
