@@ -16966,7 +16966,7 @@ msgstr ""
 
 msgctxt "5bb1ca858c97483f8862d80037df5458"
 msgid "གྲོགས་ ཡང་དག་ སྤོང་ བཞི་␣ས་ ཉམས་ སུ་ བླངས་པ་␣ས་"
-msgstr ""
+msgstr "By practicing the companion of the four right abandonments"
 
 msgctxt "5e84b67dd6644f8bbefb42f5ee0bf741"
 msgid ""
