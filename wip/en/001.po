@@ -16920,7 +16920,7 @@ msgstr "If the mind is brought within,"
 
 msgctxt "f81505356b0047ee99ff828ea42f57a9"
 msgid "གང་ འདོད་པ་ ཡི་ དངོས་གྲུབ་ ཐོབ ། །"
-msgstr ""
+msgstr "One will attain whatever actual accomplishment one desires."
 
 msgctxt "f4dc904cb82e414a82bbb0934f8a430c"
 msgid "ཅེས་ དང་ །"
