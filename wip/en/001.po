@@ -16952,7 +16952,7 @@ msgstr "If one does not know the uninterrupted continuity of time,"
 
 msgctxt "4286d7f0c681418b911ec8fa55d41863"
 msgid "དྲན་པ་␣འི་ རྒྱུན་ ཆད་ མ་ ཤེས་ ན ། །"
-msgstr ""
+msgstr "If one does not know the discontinuation of the mindfulness,"
 
 msgctxt "6bc5b43057294c42ad0da345543efb0d"
 msgid "ལུས་ངག་ ཏབ་ ཏབ་ ཁ་ ན་ ཡོད ། །"
