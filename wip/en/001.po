@@ -16936,7 +16936,7 @@ msgstr "The understanding of the great perseverance is"
 
 msgctxt "52406d992f514867b64c5fb746a23d85"
 msgid "དྲན་པ་ རྒྱུན་ ཆད་ མེད་པ་ ཡིན །"
-msgstr ""
+msgstr "Uninterrupted mindfulness."
 
 msgctxt "b451a6fe990c4dfe9d83c000dc8062ff"
 msgid "ཅེས་ དང་ །"
