@@ -16916,7 +16916,7 @@ msgstr "According to the Root Tantra of Cakrasamvara:"
 
 msgctxt "c9993148e00c409b97ea72e96aa5b5fe"
 msgid "ཡིད་ ནི་ ནང་ དུ་ ཆུད་ གྱུར་ ན ། །"
-msgstr ""
+msgstr "If the mind is brought within,"
 
 msgctxt "f81505356b0047ee99ff828ea42f57a9"
 msgid "གང་ འདོད་པ་ ཡི་ དངོས་གྲུབ་ ཐོབ ། །"
