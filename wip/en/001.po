@@ -16948,7 +16948,7 @@ msgstr "The main path of the buddhas of the three times,"
 
 msgctxt "77abaf40d1004561a83278b85d4fd2c6"
 msgid "དུས་རྒྱུན་ ཆད་ མེད་པ་␣ར་ མ་ ཤེས་ ན ། ། །"
-msgstr ""
+msgstr "If one does not know the uninterrupted continuity of time,"
 
 msgctxt "4286d7f0c681418b911ec8fa55d41863"
 msgid "དྲན་པ་␣འི་ རྒྱུན་ ཆད་ མ་ ཤེས་ ན ། །"
