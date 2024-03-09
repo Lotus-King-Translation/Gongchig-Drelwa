@@ -16956,7 +16956,7 @@ msgstr "If one does not know the discontinuation of the mindfulness,"
 
 msgctxt "6bc5b43057294c42ad0da345543efb0d"
 msgid "ལུས་ངག་ ཏབ་ ཏབ་ ཁ་ ན་ ཡོད ། །"
-msgstr ""
+msgstr "The body and speech are in a state of panic."
 
 msgctxt "a7510e2c09e9444fbf959f9122d634b8"
 msgid "ཅེས་ གསུངས་པ་ བཞིན་ གོམ་ ཞེས་པ་ སེམས་ དྲན་པ་ ཉེར་ བཞག  །"
