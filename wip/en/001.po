@@ -16944,7 +16944,7 @@ msgstr "And."
 
 msgctxt "60e9beb2f05647c0863e7c03ce7a3341"
 msgid "དུས་གསུམ་ སངས་རྒྱས་ ཀྱི་ གཞུང་ལམ་ དེ །"
-msgstr "The main path of the buddhas of the three times"
+msgstr "The main path of the buddhas of the three times,"
 
 msgctxt "77abaf40d1004561a83278b85d4fd2c6"
 msgid "དུས་རྒྱུན་ ཆད་ མེད་པ་␣ར་ མ་ ཤེས་ ན ། ། །"
