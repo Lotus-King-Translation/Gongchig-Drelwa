@@ -16908,7 +16908,7 @@ msgstr ""
 
 msgctxt "9c8a7ca344924b1495a5513891dd9ae4"
 msgid "སྒོམ་པ་ མཐར་ཐུག་ སྟེ །"
-msgstr ""
+msgstr "The ultimate meditation."
 
 msgctxt "be116658e4fd4a3f8c46553c673221a4"
 msgid "བདེ་མཆོག་ རྩ་རྒྱུད་ ལ་␣ས །"
