@@ -17002,6 +17002,8 @@ msgstr "Finally, one accomplishes the state of unmixed mindfulness."
 msgctxt "2d3914da5527401d9ed8cbb8e5fc532f"
 msgid "རྡོ་␣༽༽  དགེ་བ་ དང་ སྡིག་པ་ རིམ་བཞིན་ བླང་དོར་ བྲལ་པ་ སྟེ་"
 msgstr ""
+"Vajra: It is said that virtue and negative action are free from adoption and"
+" discard progressively, "
 
 msgctxt "714ea27ebaf2400da9484cb2ea7680ca"
 msgid "བྱ་ བྱེད་ རྣམ་སྨིན་ ཐམས་ཅད་ སྟོང་ཉིད་ ཡིན་པ་␣ས་ སོ་ ཟེར །"
