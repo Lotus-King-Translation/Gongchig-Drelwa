@@ -17125,7 +17125,7 @@ msgstr "Just as said."
 
 msgctxt "12eb960591d54fccbe8c407b098b6600"
 msgid "དོན་ དུ་ དགེ་བ་ མི་ བླང་ །"
-msgstr "In fact, they do not adopt virtue."
+msgstr "In reality, they do not adopt virtue."
 
 msgctxt "aff81734b5a143d9839f8947e309047c"
 msgid "སྡིག་པ་ མི་ འདོར་ ཞེས་པ་ མིན་ གྱི །"
