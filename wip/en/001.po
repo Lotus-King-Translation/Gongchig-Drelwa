@@ -17007,7 +17007,7 @@ msgstr ""
 
 msgctxt "714ea27ebaf2400da9484cb2ea7680ca"
 msgid "བྱ་ བྱེད་ རྣམ་སྨིན་ ཐམས་ཅད་ སྟོང་ཉིད་ ཡིན་པ་␣ས་ སོ་ ཟེར །"
-msgstr ""
+msgstr "All the complete ripening of karmas of actions are emptiness."
 
 msgctxt "5c699a9b0234488cae067a392657fade"
 msgid "འདི་␣ར་ ནི་ སྤྱོད་པ་ སྡིག་པ་ བླང་བ་ དང་"
