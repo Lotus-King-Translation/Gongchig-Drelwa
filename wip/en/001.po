@@ -17155,6 +17155,8 @@ msgid ""
 "བསླབ་པ་ རིན་པོ་ཆེ་ གསུམ་ ཆགས་སྡང་ མེད་པ་␣འི་ སྒོ་ ནས་ སྤྱོད་ དགོས་པ་ ཞིག་ གོ"
 "  ༑"
 msgstr ""
+"One must practice the three precious trainings without attachment or "
+"aversion."
 
 msgctxt "fcc6f9e5f53947628d7a7d87c96e50aa"
 msgid "རྡོ་␣༽༽  ལྟ་ སྒོམ་ སྤྱོད་ གསུམ་ ཐ་དད་ དུ་ འདོད་པ་ མང་ མོད་ ཀྱང༌ །"
