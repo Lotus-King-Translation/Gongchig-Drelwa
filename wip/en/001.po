@@ -18529,7 +18529,7 @@ msgstr ""
 
 msgctxt "d3bfcd21eae24ef6b02c77884a5a90b7"
 msgid "སློབ་དཔོན་ འཕགས་པ་ རྫ་བུམ་ ལ་ ཆགས་པ་␣ས་"
-msgstr ""
+msgstr "Master Arya because of being attached to a clay vase,"
 
 msgctxt "eb720664f5be4ad6be1af73530bc9a92"
 msgid "གནོད་སྦྱིན་ མ་གྲུབ་པ་ དང་ །"
