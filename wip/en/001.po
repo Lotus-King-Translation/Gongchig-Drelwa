@@ -17234,7 +17234,7 @@ msgstr "Moral conduct also eliminates that."
 
 msgctxt "77737fcf64cd400296d19c1b2539413a"
 msgid "དེ་␣འང་ གཞི་ ཆོས་ཉིད་ ལ་ རག་ ལས་པ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "This is because it depends on the basis, the nature of phenomena."
 
 msgctxt "c11e7b1265624fae98200c850cd90aaf"
 msgid "ཕྱག་རྒྱ་ ཆེན་པོ་␣འི་ མངོན་རྟོགས་"
