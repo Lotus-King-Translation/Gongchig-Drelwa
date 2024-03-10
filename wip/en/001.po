@@ -17398,7 +17398,7 @@ msgstr "According to The Highest Continuum:"
 
 msgctxt "c3d87fe2669d436ba7cc7ef39b9f5066"
 msgid "གལ་ཏེ་ སངས་རྒྱས་ ཁམས་ མེད་ ན །"
-msgstr ""
+msgstr "If there is no element of buddha,"
 
 msgctxt "87c9ab9af2b94b749586f48380626338"
 msgid "སྡུག་བསྔལ་ ལ་ སྐྱོ་བ་␣ར་ མི་ འགྱུར་ ཞིང༌ །"
