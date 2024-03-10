@@ -17138,6 +17138,7 @@ msgstr "In every one, whether superior, inferior, or middling."
 msgctxt "6349d6d7ecd64e20bf152cbce714bff0"
 msgid "དགེ་བ་ ལ་ ཆགས་ ཤིང་ མི་དགེ་བ་ ལ་ སྡང་བ་␣འི་ བསམ་པ་ མེད་པ་ ཞིག་ ཡིན །"
 msgstr ""
+"There is no thought of attraction to virtue and aversion to non-virtue."
 
 msgctxt "f65133fa3add4c2e893d569721cbaed1"
 msgid "དེ་ཡང་ གང་ཟག་ ལྟ་ རྟོགས་ དང་ ལྡན་པ་ དེ་␣ས་ བསྒྲུབས་པ་␣འི་ སྤྱོད་པ་ ནི་"
