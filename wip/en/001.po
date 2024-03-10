@@ -16996,7 +16996,7 @@ msgstr ""
 
 msgctxt "af01544573984edbb6ccbdf76f692a3f"
 msgid "མཐ་␣ར་ མ་ འདྲེས་པ་␣འི་ དྲན་ ཉམས་པ་ མངའ་བ་␣འི་ བར་ དུ་ འགྲུབ་པོ །"
-msgstr ""
+msgstr "Finally, one accomplishes the state of unmixed mindfulness."
 
 msgctxt "2d3914da5527401d9ed8cbb8e5fc532f"
 msgid "རྡོ་␣༽༽  དགེ་བ་ དང་ སྡིག་པ་ རིམ་བཞིན་ བླང་དོར་ བྲལ་པ་ སྟེ་"
