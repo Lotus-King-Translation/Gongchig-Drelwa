@@ -17298,7 +17298,7 @@ msgstr "Individual beings and those born from speech and,"
 
 msgctxt "7d2d07596e9447b3bc50e6e4a5fe341b"
 msgid "རང་ བྱང་ཆུབ་ ལ་ བདག་ཉིད་ ངེས་ རྣམས་ དང༌ །"
-msgstr ""
+msgstr "Those who are definite in the practice of the self-enlightenment,"
 
 msgctxt "743aa6c8acca4791a41b63c3cb82db29"
 msgid "རྒྱལ་སྲས་ རྣམས་ ཀྱི་ ངེས་པར་ ལེགས་པ་ དང༌ ། །"
