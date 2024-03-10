@@ -17063,6 +17063,8 @@ msgctxt "98914c996b6a49c29432e09b79dc5ef9"
 msgid ""
 "སྔགས་ སུའངདཀྱིལ་ འཁོར་ གྱི་ ལྷ་␣ར་ མཆོད་པ་␣ས་ ཆགས་སྡང་  བྲལ་བ་␣ར་ བསྟན་ ཏོ །"
 msgstr ""
+"The mantra also teaches that offerings to the deities of the mandala are "
+"free from attachment and aversion."
 
 msgctxt "7d9fdcd059f745259501854a8a1a979e"
 msgid "མདོར་ན་ གསང་སྤྱོད་ ལ་␣ས །"
