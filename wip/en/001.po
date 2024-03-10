@@ -17094,6 +17094,7 @@ msgstr ""
 msgctxt "355c269f6a974ae8a599f8e15caad26a"
 msgid "སྡུག་བསྔལ་ མདུང་ བརྒྱ་ བཏབ་པ་ གཉིས་ མཉམ་ ཞིང་"
 msgstr ""
+"The suffering of being struck with a hundred spears, these two are equal."
 
 msgctxt "5f874b44cbf348ce81a40b07ecf009b0"
 msgid ""
