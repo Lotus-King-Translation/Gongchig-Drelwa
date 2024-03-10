@@ -17410,7 +17410,7 @@ msgstr "No aspiration for nirvana and,"
 
 msgctxt "05f1bcdaa0fc4b5a9600566984c8df24"
 msgid "དོན་གཉེར་ སྨོན་པ་␣འང་ མེད་པ་␣ར་ འགྱུར །"
-msgstr ""
+msgstr "No aspiration to seek for it."
 
 msgctxt "36a5827ebc6d48d4ab4c1541f2c173ba"
 msgid "ཞེས་ སོ ། །"
