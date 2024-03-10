@@ -4771,7 +4771,8 @@ msgstr ""
 
 msgctxt "55215049bfed41a1b6d1d737a7df7ac1"
 msgid "འདི་␣ར་ ནི་ དགེ་སྡིག་ གཉིས་ ལ་ཐག་ བཅད་ ན་"
-msgstr "In this [system], when it is decided as either virtue or non-virtue,"
+msgstr ""
+"In this [system], when it is decided as either virtue or negative action,"
 
 msgctxt "c9c6bbd65a1f4fee945b453c58e8bdbd"
 msgid "དེ་ གཉིས་ ལ་␣ས་ ལུང་ མ་ བསྟན་ བྱ་བ་ གཞན་ ཞིག་ མེད་ དེ་"
