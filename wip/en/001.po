@@ -17639,7 +17639,7 @@ msgstr ""
 
 msgctxt "5c1cff05ddf14b279e5cfd20a1d87fd6"
 msgid "སེམས་ཅན་ སྨིན་པ །"
-msgstr ""
+msgstr "The ripened sentient beings,"
 
 msgctxt "5d8a6f3229e54a61bf52bf967ae7cd77"
 msgid "དུས་ སྐལ་པ་␣ར་ གནས་པ །"
