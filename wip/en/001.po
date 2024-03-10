@@ -17242,7 +17242,7 @@ msgstr "The manifest realization of the mahamudra,"
 
 msgctxt "462c4004060849d9ab53e2655a23b219"
 msgid "གཞི་ ཚུལ་ཁྲིམས་ ལ་ བརྟེན་ དགོས་པ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr ""
+msgstr "Because it also depends on the basis-moral conduct and "
 
 msgctxt "e1d66a54485d4307b7112391254134c9"
 msgid "དུག་ གསུམ་ སྤོང་བ་ གནས་སྐབས་ དང་"
