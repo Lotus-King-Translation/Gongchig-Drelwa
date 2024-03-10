@@ -17100,6 +17100,8 @@ msgctxt "5f874b44cbf348ce81a40b07ecf009b0"
 msgid ""
 "སོ་སོ་␣ར་ མི་ རྟོག་ ན་ རྒྱུ་འབྲས་ ལ་␣ས་ གྲོལ་བ་ ཡིན་ མ་ གཏོག་ གཞན་ ནི །"
 msgstr ""
+"If these are not considered individually, it is free of cause and effect, "
+"otherwise"
 
 msgctxt "3b9e422acc0c4f10a90846f4a009076f"
 msgid "འདོད་ཆགས་ ཞེ་སྡང་ གཏི་མུག་ གསུམ །"
