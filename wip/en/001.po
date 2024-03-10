@@ -17274,7 +17274,7 @@ msgstr "No wish for nirvana and,"
 
 msgctxt "287a77fb0346403e82dccafd0f1409ea"
 msgid "དོན་གཉེར་ སྨོན་པ་␣འང་ མེད་པ་␣ར་ འགྱུར །"
-msgstr ""
+msgstr "No aspiration to seek for it."
 
 msgctxt "8ddc3c0ea1314dd79d5aeb982b145323"
 msgid "སློབ་དཔོན་ འཕགས་པ་␣ས ༑"
