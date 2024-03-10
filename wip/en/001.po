@@ -19120,7 +19120,7 @@ msgstr "And."
 
 msgctxt "06b3b9b5f8954c27b5df99b6a1db1378"
 msgid "སློབ་དཔོན་ འཕགས་པ་␣ས །"
-msgstr ""
+msgstr "Master Arya said:"
 
 msgctxt "5f84f1bcc0784334b6aa7f1f3817ccf1"
 msgid "ཡོད་ ཅེས་བྱ་བ་ རྟག་པ་␣ར་ ལྟ ། །"
