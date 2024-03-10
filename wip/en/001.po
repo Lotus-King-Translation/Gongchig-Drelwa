@@ -17286,7 +17286,7 @@ msgstr ""
 
 msgctxt "994d63e8a1734d9ca53ead6f0cf77287"
 msgid "༑། ཡོན་ཏན་ ཀུན་ གྱི་ གཞི་ རྟེན་ ཡིན་པ་␣ར་ གསུངས །"
-msgstr ""
+msgstr "Is the foundation of all good qualities."
 
 msgctxt "a63a260c645b468b8922bf4d02df1bef"
 msgid "ཞེས་ དང༌ །"
