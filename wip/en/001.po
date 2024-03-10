@@ -17148,7 +17148,7 @@ msgstr ""
 
 msgctxt "0f667ef703d8444da9c4ab002108eeba"
 msgid "དོན་སྙིང་པོ་␣ར་ གྱུར་པ་"
-msgstr ""
+msgstr "is the essential meaning."
 
 msgctxt "e81c2b10ff0842878d8ae329ff6201ae"
 msgid ""
