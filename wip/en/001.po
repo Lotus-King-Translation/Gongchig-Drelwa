@@ -17072,7 +17072,7 @@ msgstr "In brief, according to the Esoteric Practice:"
 
 msgctxt "8594f289496046189e94e074bf259212"
 msgid "ལྟ་བ་␣ར་ མི་ ལྡན་ སྤྱོད་པ་ དང་ ། །"
-msgstr ""
+msgstr "Conduct not endowed with view and,"
 
 msgctxt "d5861698cba8416190cda0be27cfbda7"
 msgid "སྤྱོད་པ་␣ར་ མི་ ལྡན་ ལྟ་བ་ གཉིས ། །"
