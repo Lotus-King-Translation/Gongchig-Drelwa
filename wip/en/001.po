@@ -17181,6 +17181,8 @@ msgstr "This is because it is especially distinguished as non-contradicting."
 msgctxt "92c403bdec114b3ebbaa477508a53f32"
 msgid "དེ་ གསུམ་ ཀ་ རང་བཞིན་ མེད་པ་␣ར་ ཉམས་ སུ་ ལེན་ དགོས་པ་␣འི་ ཕྱིར་ རོ ། །"
 msgstr ""
+"This is because all three of these must be practiced as a devoid of self-"
+"nature."
 
 msgctxt "dfb6cb546d82417899638b0409504b46"
 msgid "དེ་ལྟར་ ཡང་ །"
