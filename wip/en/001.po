@@ -17302,7 +17302,7 @@ msgstr "Those who are definite in the practice of the self-enlightenment,"
 
 msgctxt "743aa6c8acca4791a41b63c3cb82db29"
 msgid "རྒྱལ་སྲས་ རྣམས་ ཀྱི་ ངེས་པར་ ལེགས་པ་ དང༌ ། །"
-msgstr ""
+msgstr "The definite goodness of the children of the conquerors,"
 
 msgctxt "a1e9a59f305c4ea6acb29d22e4318956"
 msgid "མངོན་མཐོ་␣འི་ རྒྱུ་ ནི་ ཚུལ་ཁྲིམས་ ལ་␣ས་ གཞན་ མེད །"
