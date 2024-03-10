@@ -17080,7 +17080,7 @@ msgstr "View not endowed with conduct, these two"
 
 msgctxt "4d3c2109e4664a5196d65a93b4be6c95"
 msgid "འདི་ ནི་ གསང་སྔགས་ དམ་སྲི་ སྟེ ། །"
-msgstr ""
+msgstr "Are the samaya demon of the secret mantra."
 
 msgctxt "8c511a96d4b24788968b4636611a20b0"
 msgid "མནར་མེད་ སེམས་ཅན་ དམྱལ་བ་␣ར་ སྐྱེ ། །"
