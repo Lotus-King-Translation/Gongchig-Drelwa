@@ -16991,6 +16991,8 @@ msgstr "The limbs of the noble path,"
 msgctxt "72e50b8c92f84beb803ae84d8e47fb75"
 msgid "དེ་ བྱང་ཕྱོགས་ སོ་ བདུན་ རིམ་བཞིན་ མངོན་དུ་ བྱེད་ ཅིང་"
 msgstr ""
+"Gradually, the thirty-seven factors harmonious with enlightenment will "
+"manifest and  "
 
 msgctxt "af01544573984edbb6ccbdf76f692a3f"
 msgid "མཐ་␣ར་ མ་ འདྲེས་པ་␣འི་ དྲན་ ཉམས་པ་ མངའ་བ་␣འི་ བར་ དུ་ འགྲུབ་པོ །"
