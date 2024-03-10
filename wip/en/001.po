@@ -17011,7 +17011,7 @@ msgstr "All the complete ripening of karmas of actions are emptiness."
 
 msgctxt "5c699a9b0234488cae067a392657fade"
 msgid "འདི་␣ར་ ནི་ སྤྱོད་པ་ སྡིག་པ་ བླང་བ་ དང་"
-msgstr ""
+msgstr "In this [system], the conduct of adopting negative action and "
 
 msgctxt "ee11043f1cb740008648e4400d2e641c"
 msgid "དགེ་བ་ དོར་བ་ དང་"
