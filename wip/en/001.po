@@ -17266,7 +17266,7 @@ msgstr "If there is no element of buddha,"
 
 msgctxt "8129c62486a34baf9786f383b17e4bff"
 msgid "སྡུག་ ལ་ སྐྱོ་བ་␣ར་ མི་ འགྱུར་ ཞིང༌ །"
-msgstr ""
+msgstr "There would be no disenchantment with suffering, "
 
 msgctxt "6a00472b10314548b3845c76af2803db"
 msgid "མྱ་ངན་ འདས་ ལ་ འདོད་པ་ དང༌ །"
