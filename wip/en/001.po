@@ -16973,6 +16973,8 @@ msgid ""
 "རྐང་བཞི་ ལ་ གཙོ་བོ་␣ར་ སེམས་ ཀྱི་ ཏིང་ངེ་འཛིན་ སྤོང་བ་␣འི་ འདུ་བྱེད་ དང་ ལྡན"
 " །"
 msgstr ""
+"The four legs [of miracles] are primarily meditative concentration endowed "
+"with the formative factors of abandonment."
 
 msgctxt "a8cc473f07ac49f2915b21da779dfd5c"
 msgid "དྲན་པ་␣འི་ དབང་པོ །  དྲན་ སྟོབས །"
