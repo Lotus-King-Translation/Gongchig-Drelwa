@@ -17222,7 +17222,7 @@ msgstr "It is a distinctive feature not found in others."
 
 msgctxt "b67cf8b257d94e269d657c0edd634c3f"
 msgid "སེམས་ཉིད་ རྟོགས་ ན་"
-msgstr ""
+msgstr "If one realizes the mind itself,"
 
 msgctxt "03c044d3ede94fcab523b445df084ca8"
 msgid "ཆགས་སྡང་ དང་ བྲལ་བ་ དང་"
