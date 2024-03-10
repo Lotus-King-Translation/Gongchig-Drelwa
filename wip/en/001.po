@@ -17048,7 +17048,7 @@ msgstr "To reverse the disease of abscesses,"
 
 msgctxt "10e371a87f0d478cb58cbfb6a657eb3a"
 msgid "བཟའ་ འོ་ སྙམ་པ་␣འི་ སེམས་ ཀྱི་ བཟའ །"
-msgstr ""
+msgstr "By thinking “I will eat” is the food of the mind."
 
 msgctxt "cad057948521478bb69b4ddfc04ad56a"
 msgid "ཞེས་ དང༌ །"
