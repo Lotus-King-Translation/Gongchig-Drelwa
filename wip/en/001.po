@@ -16978,7 +16978,7 @@ msgstr ""
 
 msgctxt "a8cc473f07ac49f2915b21da779dfd5c"
 msgid "དྲན་པ་␣འི་ དབང་པོ །  དྲན་ སྟོབས །"
-msgstr ""
+msgstr "The faculty of mindfulness. The strength of mindfulness."
 
 msgctxt "38ceecf5998d4a058881fc6bfe117eae"
 msgid "དྲན་པ་ ཡང་དག་ བྱང་ཆུབ་ ཡན་ལག་ བདུན །"
