@@ -17238,7 +17238,7 @@ msgstr "This is because it depends on the basis, the nature of phenomena."
 
 msgctxt "c11e7b1265624fae98200c850cd90aaf"
 msgid "ཕྱག་རྒྱ་ ཆེན་པོ་␣འི་ མངོན་རྟོགས་"
-msgstr ""
+msgstr "The manifest realization of the mahamudra,"
 
 msgctxt "462c4004060849d9ab53e2655a23b219"
 msgid "གཞི་ ཚུལ་ཁྲིམས་ ལ་ བརྟེན་ དགོས་པ་␣འི་ ཕྱིར་ དང༌ །"
