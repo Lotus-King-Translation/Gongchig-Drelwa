@@ -17282,7 +17282,7 @@ msgstr "Master Arya said:"
 
 msgctxt "a133b1b597164d70b64730a5781e7011"
 msgid "ཁྲིམས་ ནི་ རྒྱུ་ དང་ མི་ རྒྱུ་␣འི་ ས་ བཞིན་ དུ །"
-msgstr ""
+msgstr "It is said that discipline is, just like animate and inanimate earth,"
 
 msgctxt "994d63e8a1734d9ca53ead6f0cf77287"
 msgid "༑། ཡོན་ཏན་ ཀུན་ གྱི་ གཞི་ རྟེན་ ཡིན་པ་␣ར་ གསུངས །"
