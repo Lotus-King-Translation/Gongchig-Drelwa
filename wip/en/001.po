@@ -17044,7 +17044,7 @@ msgstr "For example, for one thing like food, the Vinaya Karika says:"
 
 msgctxt "efe2d3fe140744749b3311bed3ba259e"
 msgid "ཤུ་བ་␣འི་ ནད་ ལ་␣ས་ ལྡོག་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "To reverse the disease of abscesses,"
 
 msgctxt "10e371a87f0d478cb58cbfb6a657eb3a"
 msgid "བཟའ་ འོ་ སྙམ་པ་␣འི་ སེམས་ ཀྱི་ བཟའ །"
