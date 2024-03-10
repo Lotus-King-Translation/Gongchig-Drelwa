@@ -17176,7 +17176,7 @@ msgstr "It is the meditation of the view that has been realized."
 
 msgctxt "99379dc63560464b946c30689c02b133"
 msgid "དེ་ དང་ མི་འགལ་བ་␣ར་ ཁྱད་པར་ དུ་ བྱེད་པ་ ཡིན་པ་␣འི་ ཕྱིར་ དང་ །"
-msgstr ""
+msgstr "This is because it is especially distinguished as non-contradicting."
 
 msgctxt "92c403bdec114b3ebbaa477508a53f32"
 msgid "དེ་ གསུམ་ ཀ་ རང་བཞིན་ མེད་པ་␣ར་ ཉམས་ སུ་ ལེན་ དགོས་པ་␣འི་ ཕྱིར་ རོ ། །"
