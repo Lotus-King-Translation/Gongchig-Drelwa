@@ -16982,7 +16982,7 @@ msgstr "The faculty of mindfulness. The strength of mindfulness."
 
 msgctxt "38ceecf5998d4a058881fc6bfe117eae"
 msgid "དྲན་པ་ ཡང་དག་ བྱང་ཆུབ་ ཡན་ལག་ བདུན །"
-msgstr ""
+msgstr "Authentic mindfulness, the seven limbs of enlightenment."
 
 msgctxt "df344590aef14d9eb508860a013abbe6"
 msgid "འཕགས་ལམ་ ཡན་ལག་"
