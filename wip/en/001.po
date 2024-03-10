@@ -17015,7 +17015,7 @@ msgstr "In this [system], the conduct of adopting negative action and "
 
 msgctxt "ee11043f1cb740008648e4400d2e641c"
 msgid "དགེ་བ་ དོར་བ་ དང་"
-msgstr ""
+msgstr "Discarding the virtuous action and "
 
 msgctxt "4413f16beed949b3a40ec2ac7674e6e0"
 msgid "བྲལ་བ་␣འི་ ཚུལ་ཁྲིམས་ སུ་ བཞེད་ དེ་"
