@@ -17254,7 +17254,7 @@ msgstr "The ultimate accomplishment of good qualities has the same function."
 
 msgctxt "6a1b22a4011b4b4bb7045e4d231f25eb"
 msgid "གཤིས་ བབས་ སྟོང་ཉིད་ དང་ གཅིག་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "This is because the natural state is identical to emptiness."
 
 msgctxt "7af744f7dbe04faeb334aac5014ab108"
 msgid "དེ་ལྟར་ ཡང༌ །"
