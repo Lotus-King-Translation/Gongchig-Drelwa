@@ -17954,7 +17954,7 @@ msgstr "It is not contradictory because "
 
 msgctxt "7cd1785b24164134a6a9a26ad7926b7b"
 msgid "ཏིང་འཛིན་ རྒྱལ་བོ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The King of Meditative Concentration [Sutra]:"
 
 msgctxt "627e9e304b9a464aaddadc07daa4ee09"
 msgid "ཆོས་ ཐམས་ཅད་ མཉམ་པ་ཉིད་"
