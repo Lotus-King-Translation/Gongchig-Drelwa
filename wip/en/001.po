@@ -17172,7 +17172,7 @@ msgstr ""
 
 msgctxt "f5d54d791e4e49f4acc1b5c29e0ef72e"
 msgid "ལྟ་བ་ རྟོགས་པ་ ལྡན་པ་ སྒོམ་པ་␣ར་ བྱེད་ ཅིང་"
-msgstr ""
+msgstr "It is the meditation of the view that has been realized."
 
 msgctxt "99379dc63560464b946c30689c02b133"
 msgid "དེ་ དང་ མི་འགལ་བ་␣ར་ ཁྱད་པར་ དུ་ བྱེད་པ་ ཡིན་པ་␣འི་ ཕྱིར་ དང་ །"
