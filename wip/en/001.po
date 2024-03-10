@@ -17040,7 +17040,7 @@ msgstr ""
 
 msgctxt "94cb89fe84cb47af88e81cd866eb6870"
 msgid "དཔེར་ན །  ཟས་ ལྟ་བུ་ གཅིག་ ལ་␣འང་ འདུལ་བ་␣ར་ ཀཱ་རི་ཀ་ ལ་␣ས །"
-msgstr ""
+msgstr "For example, for one thing like food, the Vinaya Karika says:"
 
 msgctxt "efe2d3fe140744749b3311bed3ba259e"
 msgid "ཤུ་བ་␣འི་ ནད་ ལ་␣ས་ ལྡོག་པ་␣འི་ ཕྱིར །"
