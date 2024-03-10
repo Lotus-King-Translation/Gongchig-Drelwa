@@ -17278,7 +17278,7 @@ msgstr "No aspiration to seek for it."
 
 msgctxt "8ddc3c0ea1314dd79d5aeb982b145323"
 msgid "སློབ་དཔོན་ འཕགས་པ་␣ས ༑"
-msgstr ""
+msgstr "Master Arya said:"
 
 msgctxt "a133b1b597164d70b64730a5781e7011"
 msgid "ཁྲིམས་ ནི་ རྒྱུ་ དང་ མི་ རྒྱུ་␣འི་ ས་ བཞིན་ དུ །"
