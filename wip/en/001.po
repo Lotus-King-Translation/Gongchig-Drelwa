@@ -17950,7 +17950,7 @@ msgstr ""
 
 msgctxt "b5da782126f642f4979b55513dabec40"
 msgid "མི་ འགལ་ ཏེ །"
-msgstr ""
+msgstr "It is not contradictory because "
 
 msgctxt "7cd1785b24164134a6a9a26ad7926b7b"
 msgid "ཏིང་འཛིན་ རྒྱལ་བོ་ ལ་␣ས །"
