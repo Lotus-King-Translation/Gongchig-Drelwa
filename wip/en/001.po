@@ -17129,7 +17129,7 @@ msgstr "In reality, do not adopt virtue,"
 
 msgctxt "aff81734b5a143d9839f8947e309047c"
 msgid "སྡིག་པ་ མི་ འདོར་ ཞེས་པ་ མིན་ གྱི །"
-msgstr ""
+msgstr "Do not discard negative actions, it is not said that."
 
 msgctxt "6a255851beb94832a407707042d586cd"
 msgid "མཆོག་ དམན་ བར་མ་ གང་ ལ་ ཡང་"
