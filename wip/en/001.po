@@ -17068,7 +17068,7 @@ msgstr ""
 
 msgctxt "7d9fdcd059f745259501854a8a1a979e"
 msgid "མདོར་ན་ གསང་སྤྱོད་ ལ་␣ས །"
-msgstr "In brief, according to the Secret Conduct:"
+msgstr "In brief, according to the Esoteric Practice:"
 
 msgctxt "8594f289496046189e94e074bf259212"
 msgid "ལྟ་བ་␣ར་ མི་ ལྡན་ སྤྱོད་པ་ དང་ ། །"
