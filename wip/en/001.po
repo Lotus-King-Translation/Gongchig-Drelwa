@@ -17003,7 +17003,7 @@ msgctxt "2d3914da5527401d9ed8cbb8e5fc532f"
 msgid "རྡོ་␣༽༽  དགེ་བ་ དང་ སྡིག་པ་ རིམ་བཞིན་ བླང་དོར་ བྲལ་པ་ སྟེ་"
 msgstr ""
 "Vajra: It is said that the successive separation of virtue and negative "
-"action from adoption and discard are "
+"action from adoption and discard, "
 
 msgctxt "714ea27ebaf2400da9484cb2ea7680ca"
 msgid "བྱ་ བྱེད་ རྣམ་སྨིན་ ཐམས་ཅད་ སྟོང་ཉིད་ ཡིན་པ་␣ས་ སོ་ ཟེར །"
