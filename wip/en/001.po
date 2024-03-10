@@ -17191,6 +17191,8 @@ msgstr "Likewise,"
 msgctxt "f2cd0bf67cef4268961b27aff9c83db0"
 msgid "ལྟ་ སྒོམ་ སྤྱོད་ གསུམ་ གཅིག་ ན་ སྐུ་གསུམ་ འདུ་ འབྲེལ་ མེད །"
 msgstr ""
+"If view, meditation, and action are one, the collection of the three kayas "
+"is unrelated."
 
 msgctxt "64326fe62285406d9c1fa5131e21b747"
 msgid "ཅེས་ སོ །"
