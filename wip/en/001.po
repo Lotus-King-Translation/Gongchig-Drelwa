@@ -17307,6 +17307,7 @@ msgstr "The definite goodness of the children of the conquerors,"
 msgctxt "a1e9a59f305c4ea6acb29d22e4318956"
 msgid "མངོན་མཐོ་␣འི་ རྒྱུ་ ནི་ ཚུལ་ཁྲིམས་ ལ་␣ས་ གཞན་ མེད །"
 msgstr ""
+"The cause of the excellent rebirth is discipline, and there is no other."
 
 msgctxt "46023e9fd43743deb94b2ca9895666fd"
 msgid "ཅེས་ དང༌ །"
