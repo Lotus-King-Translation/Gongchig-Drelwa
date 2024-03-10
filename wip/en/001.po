@@ -17031,7 +17031,7 @@ msgstr "That which is associated with negation comes as the origin,"
 
 msgctxt "d562af18e15c4fe7a5de812930ab2802"
 msgid "ཞེ་སྡང་ གི་ ཡུལ་མི་ སྡུག་པ་ དང་"
-msgstr ""
+msgstr "The object of aversion is the unpleasant and "
 
 msgctxt "56d641b997114c5fa3bafbbd8a7f6874"
 msgid "སྒྲུབ་ བཅས་ ཐར་ལམ་ འདོར་ དུ་ མེད་པ་ སྟེ །"
