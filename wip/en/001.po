@@ -19188,7 +19188,7 @@ msgstr ""
 
 msgctxt "dc20cf6500fd4446bd8d8d8eaad78fae"
 msgid "སློབ་དཔོན་ ཕྱོགས་གླང་ གིས །"
-msgstr ""
+msgstr "Master Dignaga said:"
 
 msgctxt "a19873df5a2d4d19b3232d0a44f86ec4"
 msgid "ཚད་མ་␣ར་ གྱུར་པ་ འགྲོ་ ལ་ ཕན་ བཞེད་པ །"
