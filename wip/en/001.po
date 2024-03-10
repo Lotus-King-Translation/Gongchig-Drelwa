@@ -17376,7 +17376,7 @@ msgstr ""
 
 msgctxt "287d326eeb834f0ba2529983510b885e"
 msgid "འདི་␣ར་ ནི་ ཕྱག་ ཆེན་ ནི་"
-msgstr ""
+msgstr "In this [system], Mahamudra is"
 
 msgctxt "04bb9b722d0e4a648fd311b94e259f19"
 msgid ""
