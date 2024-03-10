@@ -17027,7 +17027,7 @@ msgstr "The object of desire is the attractive and "
 
 msgctxt "304893988b434fc1940799140df0fee5"
 msgid "དགག་ བཅས་ ཀུན་འབྱུང་ དུ་ འོང་ཞིང༌ །"
-msgstr ""
+msgstr "That which is associated with negation comes as the origin,"
 
 msgctxt "d562af18e15c4fe7a5de812930ab2802"
 msgid "ཞེ་སྡང་ གི་ ཡུལ་མི་ སྡུག་པ་ དང་"
