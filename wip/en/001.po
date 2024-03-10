@@ -17262,7 +17262,7 @@ msgstr "Likewise,"
 
 msgctxt "6890f3910a344334a9049c4913362b6b"
 msgid "གལ་ཏེ་ སངས་རྒྱས་ ཁམས་ མེད་ ན །"
-msgstr ""
+msgstr "If there is no element of buddha,"
 
 msgctxt "8129c62486a34baf9786f383b17e4bff"
 msgid "སྡུག་ ལ་ སྐྱོ་བ་␣ར་ མི་ འགྱུར་ ཞིང༌ །"
