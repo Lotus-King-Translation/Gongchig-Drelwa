@@ -17143,6 +17143,8 @@ msgstr ""
 msgctxt "f65133fa3add4c2e893d569721cbaed1"
 msgid "དེ་ཡང་ གང་ཟག་ ལྟ་ རྟོགས་ དང་ ལྡན་པ་ དེ་␣ས་ བསྒྲུབས་པ་␣འི་ སྤྱོད་པ་ ནི་"
 msgstr ""
+"Furthermore, the conduct accomplished by a person who has the view and "
+"realization is"
 
 msgctxt "0f667ef703d8444da9c4ab002108eeba"
 msgid "དོན་སྙིང་པོ་␣ར་ གྱུར་པ་"
