@@ -17160,7 +17160,7 @@ msgstr ""
 
 msgctxt "fcc6f9e5f53947628d7a7d87c96e50aa"
 msgid "རྡོ་␣༽༽  ལྟ་ སྒོམ་ སྤྱོད་ གསུམ་ ཐ་དད་ དུ་ འདོད་པ་ མང་ མོད་ ཀྱང༌ །"
-msgstr ""
+msgstr "Vajra: Many accept that view, meditation, and conduct are distinct."
 
 msgctxt "0f8fc6408481453db6a5045d24c48801"
 msgid ""
