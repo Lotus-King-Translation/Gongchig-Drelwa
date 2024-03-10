@@ -17406,7 +17406,7 @@ msgstr "There would be no disenchantment with suffering,"
 
 msgctxt "39b4233658d64742b20d6298194511ce"
 msgid "མྱ་ངན་ འདས་ ལ་ འདུན་པ་ དང༌ །"
-msgstr ""
+msgstr "No aspiration for nirvana and,"
 
 msgctxt "05f1bcdaa0fc4b5a9600566984c8df24"
 msgid "དོན་གཉེར་ སྨོན་པ་␣འང་ མེད་པ་␣ར་ འགྱུར །"
