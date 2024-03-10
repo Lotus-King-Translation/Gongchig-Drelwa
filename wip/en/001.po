@@ -17057,6 +17057,7 @@ msgstr "And."
 msgctxt "ef9307f42452457b8afecf0ef8ba7aba"
 msgid "ཕར་ཕྱིན་ དུ་ ལུས་ ཀྱི་ སྲིན་བུ་␣འི་ ཆེད་ དུ་ བཟའ་བ་␣ར་ གསུངས་ ཤིང༌ །"
 msgstr ""
+"The Paramita says that one should eat for the sake of the body’s worms."
 
 msgctxt "98914c996b6a49c29432e09b79dc5ef9"
 msgid ""
