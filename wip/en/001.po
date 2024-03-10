@@ -17270,7 +17270,7 @@ msgstr "There would be no disenchantment with suffering, "
 
 msgctxt "6a00472b10314548b3845c76af2803db"
 msgid "མྱ་ངན་ འདས་ ལ་ འདོད་པ་ དང༌ །"
-msgstr ""
+msgstr "No wish for nirvana and,"
 
 msgctxt "287a77fb0346403e82dccafd0f1409ea"
 msgid "དོན་གཉེར་ སྨོན་པ་␣འང་ མེད་པ་␣ར་ འགྱུར །"
