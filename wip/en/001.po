@@ -16986,7 +16986,7 @@ msgstr "Authentic mindfulness, the seven limbs of enlightenment."
 
 msgctxt "df344590aef14d9eb508860a013abbe6"
 msgid "འཕགས་ལམ་ ཡན་ལག་"
-msgstr ""
+msgstr "The limbs of the noble path,"
 
 msgctxt "72e50b8c92f84beb803ae84d8e47fb75"
 msgid "དེ་ བྱང་ཕྱོགས་ སོ་ བདུན་ རིམ་བཞིན་ མངོན་དུ་ བྱེད་ ཅིང་"
