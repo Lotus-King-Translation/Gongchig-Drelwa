@@ -17218,7 +17218,7 @@ msgstr "This arising of emptiness as cause and effect,"
 
 msgctxt "e0f80d29f70d4e549c75c86d64050a32"
 msgid "གཞན་ ལ་ མེད་པ་␣འི་ ཁྱད་པར་ གྱི་ ཆོས་ ཡིན་ ཏེ་"
-msgstr ""
+msgstr "It is a distinctive feature not found in others."
 
 msgctxt "b67cf8b257d94e269d657c0edd634c3f"
 msgid "སེམས་ཉིད་ རྟོགས་ ན་"
