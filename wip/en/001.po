@@ -17250,7 +17250,7 @@ msgstr "The temporary elimination of the three poisons and "
 
 msgctxt "d839c88d9c8f406abf769e79d15de9d6"
 msgid "མཐར་ཐུག་ གི་ ཡོན་ཏན་ སྒྲུབ་པ་␣འི་ བྱེད་ལས་ གཅིག་པ་␣འི་ ཕྱིར་ དང་ །"
-msgstr ""
+msgstr "The ultimate accomplishment of good qualities has the same function."
 
 msgctxt "6a1b22a4011b4b4bb7045e4d231f25eb"
 msgid "གཤིས་ བབས་ སྟོང་ཉིད་ དང་ གཅིག་པ་␣འི་ ཕྱིར་ རོ ། །"
