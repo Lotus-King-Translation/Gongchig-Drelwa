@@ -17230,7 +17230,7 @@ msgstr "One is free from attachment and aversion and"
 
 msgctxt "e36bd72a05374ad5bc424d1c4682a6cd"
 msgid "ཚུལ་ཁྲིམས་ ཀྱིས་ ཀྱང་ དེ་ སྤོང་ ཞིང་"
-msgstr ""
+msgstr "Moral conduct also eliminates that."
 
 msgctxt "77737fcf64cd400296d19c1b2539413a"
 msgid "དེ་␣འང་ གཞི་ ཆོས་ཉིད་ ལ་ རག་ ལས་པ་␣འི་ ཕྱིར་ དང༌ །"
