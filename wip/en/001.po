@@ -17246,7 +17246,7 @@ msgstr "Because it also depends on the basis-moral conduct and "
 
 msgctxt "e1d66a54485d4307b7112391254134c9"
 msgid "དུག་ གསུམ་ སྤོང་བ་ གནས་སྐབས་ དང་"
-msgstr ""
+msgstr "The temporary elimination of the three poisons and "
 
 msgctxt "d839c88d9c8f406abf769e79d15de9d6"
 msgid "མཐར་ཐུག་ གི་ ཡོན་ཏན་ སྒྲུབ་པ་␣འི་ བྱེད་ལས་ གཅིག་པ་␣འི་ ཕྱིར་ དང་ །"
