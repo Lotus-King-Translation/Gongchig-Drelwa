@@ -17671,7 +17671,7 @@ msgstr ""
 
 msgctxt "f52636b6d3d54200baf6d92f3dbaca83"
 msgid "སངས་རྒྱས་ ནས་"
-msgstr ""
+msgstr "After enlightenment"
 
 msgctxt "09854a9aae3540a7946108fecfa58a18"
 msgid "འཕྲིན་ལས་ ཀྱིས་ སེམས་ཅན་ སྨིན་གྲོལ་ བྱེད་པ་ དང་"
