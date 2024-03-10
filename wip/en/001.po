@@ -17036,6 +17036,7 @@ msgstr "The object of aversion is the unpleasant and "
 msgctxt "56d641b997114c5fa3bafbbd8a7f6874"
 msgid "སྒྲུབ་ བཅས་ ཐར་ལམ་ འདོར་ དུ་ མེད་པ་ སྟེ །"
 msgstr ""
+"The path of emancipation, which requires practice, is not to be discarded."
 
 msgctxt "94cb89fe84cb47af88e81cd866eb6870"
 msgid "དཔེར་ན །  ཟས་ ལྟ་བུ་ གཅིག་ ལ་␣འང་ འདུལ་བ་␣ར་ ཀཱ་རི་ཀ་ ལ་␣ས །"
