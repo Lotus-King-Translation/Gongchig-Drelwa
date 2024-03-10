@@ -17168,7 +17168,7 @@ msgid ""
 "དེ་"
 msgstr ""
 "In this [system], it is accepted that view, meditation, and conduct are not "
-"distinct but one."
+"distinct but the same."
 
 msgctxt "f5d54d791e4e49f4acc1b5c29e0ef72e"
 msgid "ལྟ་བ་ རྟོགས་པ་ ལྡན་པ་ སྒོམ་པ་␣ར་ བྱེད་ ཅིང་"
