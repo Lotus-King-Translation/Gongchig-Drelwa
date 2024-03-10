@@ -17076,7 +17076,7 @@ msgstr "Conduct not endowed with view and,"
 
 msgctxt "d5861698cba8416190cda0be27cfbda7"
 msgid "སྤྱོད་པ་␣ར་ མི་ ལྡན་ ལྟ་བ་ གཉིས ། །"
-msgstr ""
+msgstr "View not endowed with conduct, "
 
 msgctxt "4d3c2109e4664a5196d65a93b4be6c95"
 msgid "འདི་ ནི་ གསང་སྔགས་ དམ་སྲི་ སྟེ ། །"
