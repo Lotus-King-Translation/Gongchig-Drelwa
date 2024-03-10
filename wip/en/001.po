@@ -17683,7 +17683,7 @@ msgstr ""
 
 msgctxt "3a955c56751b439db023a8e737651aef"
 msgid "རྗེ་ ཕག་གྲུ་␣ས །"
-msgstr "Phagmo Drupa said:"
+msgstr "Lord Phagmo Drupa said:"
 
 msgctxt "431f73f79dd6412da69c63a63daf1789"
 msgid "བྱང་ཆུབ་ སེམས་དཔའ་ ས་བཅུ་ དག  །"
