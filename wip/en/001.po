@@ -17023,7 +17023,7 @@ msgstr "These are accepted as separated disciplines."
 
 msgctxt "d8b1e7b456824da5812f50b60e7c0aa4"
 msgid "འདོད་ཆགས་ ཡུལ་ སྡུག་པ་ དང་"
-msgstr ""
+msgstr "The object of desire is the attractive and "
 
 msgctxt "304893988b434fc1940799140df0fee5"
 msgid "དགག་ བཅས་ ཀུན་འབྱུང་ དུ་ འོང་ཞིང༌ །"
