@@ -17089,6 +17089,7 @@ msgstr "Will born as beings in the Unending Torment Hell."
 msgctxt "90f2dbf46d6046eb9c81e24836da9f4e"
 msgid "ཞེས་པ་␣ས་ ལུས་ འདི་ ལ་ བདེ་བ་ འདོད་ཡོན་ བརྒྱ་ བཏབ་པ་ དང༌ །"
 msgstr ""
+"In this way, planting of a hundred pleasures of the senses to this body and "
 
 msgctxt "355c269f6a974ae8a599f8e15caad26a"
 msgid "སྡུག་བསྔལ་ མདུང་ བརྒྱ་ བཏབ་པ་ གཉིས་ མཉམ་ ཞིང་"
