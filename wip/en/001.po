@@ -17214,7 +17214,7 @@ msgstr ""
 
 msgctxt "bf343316b2934781bb88ec160d4dcba5"
 msgid "སྟོང་ཉིད་ རྒྱུ་འབྲས་ སུ་ འབྱུང་བ་ འདི་"
-msgstr ""
+msgstr "This arising of emptiness as cause and effect,"
 
 msgctxt "e0f80d29f70d4e549c75c86d64050a32"
 msgid "གཞན་ ལ་ མེད་པ་␣འི་ ཁྱད་པར་ གྱི་ ཆོས་ ཡིན་ ཏེ་"
