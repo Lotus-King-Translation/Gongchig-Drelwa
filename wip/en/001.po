@@ -17511,7 +17511,7 @@ msgstr "Jowo says:"
 
 msgctxt "a48bc7d34797467d954efa062205c4cd"
 msgid "གལ་ཏེ་ མཉམ་བཞག་ སེམས་ བརྟན་ ན ། །"
-msgstr ""
+msgstr "If the mind is stable in meditative equipoise,"
 
 msgctxt "5bcd3cb98e72481aa13744b842d7345d"
 msgid "ལུས་ངག་ དགེ་བ་ གཙོ་␣ར་ མི་ བྱ །"
