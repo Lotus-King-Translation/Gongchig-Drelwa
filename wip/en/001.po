@@ -17471,7 +17471,7 @@ msgstr "In brief, in all the ground, path, and result, "
 
 msgctxt "3847a27c76b748778f10e40d6a8fb7a5"
 msgid "སྐྱོན་ཡོན་ བསལ་ གཞག་ མེད་པ་␣ར་ གནས་ ཏེ །"
-msgstr ""
+msgstr "there is no elimination or placing of faults or good qualities."
 
 msgctxt "4403ff0291c045b5bd0771ec2a94ee24"
 msgid "རྒྱུད་བླ་མ་ ལ་␣ས །"
