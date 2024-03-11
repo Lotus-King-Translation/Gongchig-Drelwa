@@ -17635,6 +17635,8 @@ msgstr "On the seventh level, twelve quadrillion [good qualities arise]."
 msgctxt "ae9a8c10432e4f2986fa7ed2f62db1fa"
 msgid "ས་ བརྒྱད་པ་␣ར་ སྟོང་ ཆེན་ འབུམ་ཕྲག་ གཅིག་ གི་ རྡུལ་ གྲངས་ བཅུ་གཉིས །"
 msgstr ""
+"On the eighth level, twelve particles of one hundred thousand of the great "
+"empty."
 
 msgctxt "6e1b5e056b434f84a80d839b4ac59b72"
 msgid "ས་ དགུ་པ་␣ར་ སྟོང་ ཆེན་ འབུམ་ཕྲག་ བཅུ་␣འི་ རྡུལ་ གྲངས་ བཅུ་གཉིས །"
