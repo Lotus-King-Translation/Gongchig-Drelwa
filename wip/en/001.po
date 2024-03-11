@@ -17342,7 +17342,7 @@ msgstr ""
 
 msgctxt "2f82f31654b14798979eacfdc501f315"
 msgid "བྱིས་པ་ མེ་ རེག་ བརྩོན་པ་␣ས་ མི་ ཤེས་ སོ །"
-msgstr ""
+msgstr "Children who pursue to touch a fire, do not understand this."
 
 msgctxt "9941e16ea3d84640811e770fd22d6ce1"
 msgid "ཞེས་ སོ །"
