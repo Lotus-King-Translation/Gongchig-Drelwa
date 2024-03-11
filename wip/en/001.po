@@ -17536,7 +17536,7 @@ msgstr ""
 
 msgctxt "61cef551219c4f7d96d3adc8b33fd842"
 msgid "འདུ་བྱེད་ ཡིན་པ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "Because it is formative."
 
 msgctxt "7a7db1c30507444e86421ec950e55e66"
 msgid "རྩ་ཤེ་␣ར་ ལ །"
