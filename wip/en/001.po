@@ -17552,6 +17552,8 @@ msgid ""
 "ནོ་ ཟེར །  འདི་␣ར་ ནི་ དགེ་བ་␣འི་ ངོ་བོ་␣ས་ གཞི་ ལམ་ འབྲས་བུ་ གསུམ་ དུ་ ཕྱག་"
 " ཆེན་ ལ་ སྒྲིབ་ མི་ སྲིད་ དེ་"
 msgstr ""
+"It is said that it is like white and black clouds that have no difference in obscuring the sun.\n"
+"In this [system], the essence of virtue cannot obscure mahamudra in the ground, path, and result."
 
 msgctxt "8cf286c305c9419ebcca3b11b62b29ea"
 msgid "མཚོ་ དང་ མཚོ་␣འི་ རླབས་ བཞིན་ དུ་"
