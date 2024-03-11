@@ -17573,7 +17573,7 @@ msgstr "It arises from itself and its essence increases more and more."
 
 msgctxt "604433282dc9450788fec3c61c7c28fe"
 msgid "སྐྱབས་  སུ་ འགྲོ་བ་ ལ་སོགས་པ་␣ས་ སངས་རྒྱས་པ་␣འི་ དུས་ སུ་"
-msgstr ""
+msgstr "At the time of enlightenment by going for refuge and so forth,"
 
 msgctxt "8a52f8365f61423aa66a2f238743f50b"
 msgid "དཀོན་མཆོག་ གི་ འཁོར་ལོ་ འབའ་ཞིག་ ཏུ་ འབྱུང་ ངོ༌ །"
