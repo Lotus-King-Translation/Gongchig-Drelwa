@@ -17499,7 +17499,7 @@ msgstr "As said."
 
 msgctxt "fb45d39539544d9a9ba5a97aefd7a4a5"
 msgid "༼༼་␣༡ ༽༽  རྡོ་␣༽༽་␣འགའ་ཞིག་ མཉམ་པ་␣ར་ བཞག་པ་ ལ་␣ས་"
-msgstr ""
+msgstr "Vajra: Some say that from meditative equipoise"
 
 msgctxt "8a2993de71c54dee9f0cb4b0608feeb0"
 msgid "ཡོན་ཏན་ མི་ འབྱུང་ རྗེས་ཐོབ་ ལ་␣ས་ འབྱུང་ སྟེ །"
