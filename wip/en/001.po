@@ -17491,7 +17491,7 @@ msgstr "Truly see the authentic state,"
 
 msgctxt "cacb41406f12459489dfe4aa851327e8"
 msgid "ཡང་དག་ མཐོང་ ནས་ རྣམ་པ་␣ར་ གྲོལ །"
-msgstr ""
+msgstr "By seeing the authentic state, completely liberated"
 
 msgctxt "31fa032745604496b6ff2d83ac41de04"
 msgid "ཅེས་ སོ །"
