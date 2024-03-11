@@ -17595,7 +17595,7 @@ msgctxt "9e21b7ae04c047b3881417cca7385df1"
 msgid ""
 "སེམས་ཅན་ གྱི་ ཁམས་ རྒྱུན་ མི་འཆད་པ་␣ར་ འཇུག་པ་␣ར་ བྱེད་པ་ ཡིན་པ་␣འི་ ཕྱིར་ "
 "རོ །"
-msgstr ""
+msgstr "Which uninterruptedly engages the realms of sentient beings."
 
 msgctxt "83587a673ce24df18fa2eea91b3ee2ba"
 msgid "བཞེད་ ལ་ མཉམ་བཞག་ སྐབས་ ལ་"
