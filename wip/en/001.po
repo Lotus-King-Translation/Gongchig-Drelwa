@@ -17585,7 +17585,7 @@ msgstr "The virtue that is created on the ground and path is"
 
 msgctxt "080baeef047244c39768b810a15408cf"
 msgid "མཐར་ཐུག་ སངས་རྒྱས་ ཀྱི་ དུས་"
-msgstr ""
+msgstr "At the time of the ultimate enlightenment,"
 
 msgctxt "de387233b15843e7b943edb6d25cbad0"
 msgid "ཕྲིན་ལས་ བསམ་ གྱི་ མི་ ཁྱབ་པ་␣ར་"
