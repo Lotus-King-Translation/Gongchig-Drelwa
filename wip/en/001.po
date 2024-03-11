@@ -17431,7 +17431,7 @@ msgstr ""
 
 msgctxt "27855b0beed94d1bbf88429da618c4c0"
 msgid "དགེ་རྩ་ གང་ བྱེད་ ཀྱང་ དེ་␣འི་ མཐུ་␣ས་ དཔག་མེད་ དུ་ འགྱུར་ རོ ། །"
-msgstr ""
+msgstr "Whatever roots of virtue one makes will have immeasurable power."
 
 msgctxt "e90514feb66c4fafab30931e9ad4e526"
 msgid "ཡུམ་ ལ་␣ས །"
