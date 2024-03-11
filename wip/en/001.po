@@ -17581,7 +17581,7 @@ msgstr "It occurs exclusively as the wheel of the three jewels."
 
 msgctxt "4ae913b944ae44ed8fc64de6b060e198"
 msgid "གཞི་ ལམ་ གྱི་ དགེ་བ་ བྱས་ ཚད་"
-msgstr ""
+msgstr "The virtue that is created on the ground and path is"
 
 msgctxt "080baeef047244c39768b810a15408cf"
 msgid "མཐར་ཐུག་ སངས་རྒྱས་ ཀྱི་ དུས་"
