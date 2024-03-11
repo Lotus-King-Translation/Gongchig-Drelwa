@@ -17354,7 +17354,7 @@ msgstr "In conclusion,"
 
 msgctxt "041ae3971b644547a6e4bc8d4fb1809f"
 msgid "གཉིས་ཀ་ ཉོན་མོངས་ ཀྱི་ དབེན་ ཀྱང་"
-msgstr ""
+msgstr "Although both are devoid of afflictions,"
 
 msgctxt "9d4a9c1be43a4b588fe72e92fc56bf1d"
 msgid "དཀར་པོ་␣འི་ ཆོས་སྤྱོད་ རྒྱུན་ མི་ བཅད །"
