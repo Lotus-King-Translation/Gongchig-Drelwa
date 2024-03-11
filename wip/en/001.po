@@ -17629,7 +17629,7 @@ msgstr ""
 
 msgctxt "72af803628b145b8a0b2021f0559a92d"
 msgid "ས་ བདུན་པ་␣ར་ ཁྲག་ཁྲིག་ འབུམ་ཕྲག་ བཅུ་གཉིས །"
-msgstr ""
+msgstr "On the seventh level, twelve trillion [good qualities arise]."
 
 msgctxt "ae9a8c10432e4f2986fa7ed2f62db1fa"
 msgid "ས་ བརྒྱད་པ་␣ར་ སྟོང་ ཆེན་ འབུམ་ཕྲག་ གཅིག་ གི་ རྡུལ་ གྲངས་ བཅུ་གཉིས །"
