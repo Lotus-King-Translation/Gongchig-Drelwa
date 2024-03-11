@@ -17487,7 +17487,7 @@ msgstr "There is nothing to be placed."
 
 msgctxt "4f9b76508ca54fbc881d8f7acfae7e0b"
 msgid "ཡང་དག་ ཉིད་ ལ་ ཡང་དག་ ལྟ །"
-msgstr ""
+msgstr "Truly see the authentic state,"
 
 msgctxt "cacb41406f12459489dfe4aa851327e8"
 msgid "ཡང་དག་ མཐོང་ ནས་ རྣམ་པ་␣ར་ གྲོལ །"
