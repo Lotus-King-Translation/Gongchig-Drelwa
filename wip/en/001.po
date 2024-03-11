@@ -17456,6 +17456,8 @@ msgstr "As said."
 msgctxt "0946849c6eff46a68ffba2a39db3a8bd"
 msgid "འབྲས་བུ་ དུས་ སུ་ ཆོས་སྐུ་ ཡོན་ཏན་ མཛད་པ་ དང་ བཅས་པ་"
 msgstr ""
+"At the time of the result, the truth body endowed with the qualities and "
+"enlightened activities,"
 
 msgctxt "4f40f6e223a64683bae1ced405f57b6d"
 msgid "རྒྱུན་ མི་ ཆད་པ་ འབྱུང་བ་␣ས་ ཡོན་ཏན་ གྱི་ བདག་ཉིད་ དུ་ གནས་ སོ ། །"
