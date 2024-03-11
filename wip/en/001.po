@@ -17358,7 +17358,7 @@ msgstr "Although both are devoid of afflictions,"
 
 msgctxt "9d4a9c1be43a4b588fe72e92fc56bf1d"
 msgid "དཀར་པོ་␣འི་ ཆོས་སྤྱོད་ རྒྱུན་ མི་ བཅད །"
-msgstr ""
+msgstr "Uninterrupted continuity of white Dharma practice."
 
 msgctxt "da331dfa6fec4a9d8e87493d9e9418d6"
 msgid "མར་ ངན་སོང་ ལ་ དོགས་པ་ མེད་ ཀྱང་"
