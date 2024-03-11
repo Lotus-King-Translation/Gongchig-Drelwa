@@ -17392,7 +17392,7 @@ msgstr "The essence of all qualities in all three, ground, path, and result."
 
 msgctxt "84ab4dace28d4cc08d8d87991c2736e2"
 msgid "གཞི་ དུས་ སུ་ སྡུག་བསྔལ་ ལ་ སྐྱོ་བ་"
-msgstr ""
+msgstr "At the time of the ground, there is disenchantment with suffering."
 
 msgctxt "032c1b612e7c47fb8e7015d094ef4dae"
 msgid "མྱང་འདས་ ལ་ འདོད་འདུན་ སྐྱེ་བ་ ཁམས་ ཀྱི་ མཐུ་ ཡིན་ ཏེ །"
