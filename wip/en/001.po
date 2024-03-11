@@ -17639,6 +17639,7 @@ msgstr ""
 msgctxt "6e1b5e056b434f84a80d839b4ac59b72"
 msgid "ས་ དགུ་པ་␣ར་ སྟོང་ ཆེན་ འབུམ་ཕྲག་ བཅུ་␣འི་ རྡུལ་ གྲངས་ བཅུ་གཉིས །"
 msgstr ""
+"On the ninth level, twelve hundred thousand particles of the great empty."
 
 msgctxt "70c17fb845a748b0aabeadfb83d12145"
 msgid "ས་བཅུ་པ་␣ར་ བརྗོད་ དུ་ མེད་པ་␣འི་ རྡུལ་ གྲངས་ ཀྱི་"
