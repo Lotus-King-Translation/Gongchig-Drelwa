@@ -17557,7 +17557,7 @@ msgstr ""
 
 msgctxt "8cf286c305c9419ebcca3b11b62b29ea"
 msgid "མཚོ་ དང་ མཚོ་␣འི་ རླབས་ བཞིན་ དུ་"
-msgstr ""
+msgstr "Like a lake and its waves."
 
 msgctxt "fb3a5dce98ae41338034ef3188f7c9d7"
 msgid "ཐབས་ བྱང་ཕྱོགས་ སོ་ བདུན་ སོགས་"
