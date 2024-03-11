@@ -17366,7 +17366,7 @@ msgstr "Although there is no doubt of the bad migrations,"
 
 msgctxt "d0a187ea79df4b47b0ba33984b5eefbb"
 msgid "སྡིག་པ་ ཕྲ་བ་␣ས་ གཅིག་པ་ ཡིན་ ནོ །"
-msgstr ""
+msgstr "Since the negative actions are subtle, they are the same."
 
 msgctxt "360dae0f32d54566a33bc223cdb5ed5c"
 msgid ""
