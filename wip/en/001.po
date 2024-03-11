@@ -17462,6 +17462,8 @@ msgstr ""
 msgctxt "4f40f6e223a64683bae1ced405f57b6d"
 msgid "རྒྱུན་ མི་ ཆད་པ་ འབྱུང་བ་␣ས་ ཡོན་ཏན་ གྱི་ བདག་ཉིད་ དུ་ གནས་ སོ ། །"
 msgstr ""
+"Since it arises continuously without interruption, it abides by the nature "
+"of good qualities."
 
 msgctxt "c9c1a47b6e324056a7de991b7c3d9725"
 msgid "མདོར་ན་ གཞི་ ལམ་ འབྲས་བུ་ ཐམས་ཅད་ དུ་"
