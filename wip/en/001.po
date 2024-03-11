@@ -17388,7 +17388,7 @@ msgctxt "04bb9b722d0e4a648fd311b94e259f19"
 msgid ""
 "གཞི་ ལམ་ འབྲས་བུ་ གསུམ་ ཐམས་ཅད་ དུ་ ཡོན་ཏན་ ཀུན་ གྱི་ བདག་ཉིད་ དུ་ བཞུགས་ "
 "ཏེ་"
-msgstr ""
+msgstr "The essence of all qualities in all three, ground, path, and result."
 
 msgctxt "84ab4dace28d4cc08d8d87991c2736e2"
 msgid "གཞི་ དུས་ སུ་ སྡུག་བསྔལ་ ལ་ སྐྱོ་བ་"
