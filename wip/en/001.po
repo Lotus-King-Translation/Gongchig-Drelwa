@@ -17483,7 +17483,7 @@ msgstr "There is nothing to eliminate here."
 
 msgctxt "8d8a7b32cd6646c997e274b5056bb9ce"
 msgid "བཞག་པ་␣ར་ བྱ་བ་ ཅུང་ཟད་ མེད །"
-msgstr ""
+msgstr "There is nothing to be placed."
 
 msgctxt "4f9b76508ca54fbc881d8f7acfae7e0b"
 msgid "ཡང་དག་ ཉིད་ ལ་ ཡང་དག་ ལྟ །"
