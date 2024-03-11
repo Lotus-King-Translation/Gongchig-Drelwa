@@ -17426,6 +17426,8 @@ msgstr "As said."
 msgctxt "d08461e15e8e411fadb54879853df26d"
 msgid "གཞི་ དེ་ཉིད་ ལ་ བླ་མ་␣ས་ ངོ་ སྤྲད་ དེ་ གོམ་པ་␣ར་ བྱེད་པ་ ལ་ ལམ་ ཟེར་"
 msgstr ""
+"The guru's introduction to the ground itself and familiarizing it is called "
+"the path."
 
 msgctxt "27855b0beed94d1bbf88429da618c4c0"
 msgid "དགེ་རྩ་ གང་ བྱེད་ ཀྱང་ དེ་␣འི་ མཐུ་␣ས་ དཔག་མེད་ དུ་ འགྱུར་ རོ ། །"
