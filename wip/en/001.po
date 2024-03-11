@@ -17599,7 +17599,7 @@ msgstr "Which uninterruptedly engages the realms of sentient beings."
 
 msgctxt "83587a673ce24df18fa2eea91b3ee2ba"
 msgid "བཞེད་ ལ་ མཉམ་བཞག་ སྐབས་ ལ་"
-msgstr "It is accepted that at the time of meditative equipoise,"
+msgstr "It is accepted that during the time of meditative equipoise,"
 
 msgctxt "b2d7a68e93f9402ca139e6348a37dc2a"
 msgid "ཡོན་ཏན་ ཐམས་ཅད་ འབྱུང་ སྟེ་"
