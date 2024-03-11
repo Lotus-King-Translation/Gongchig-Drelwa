@@ -17503,7 +17503,7 @@ msgstr ""
 
 msgctxt "8a2993de71c54dee9f0cb4b0608feeb0"
 msgid "ཡོན་ཏན་ མི་ འབྱུང་ རྗེས་ཐོབ་ ལ་␣ས་ འབྱུང་ སྟེ །"
-msgstr ""
+msgstr "the good qualities do not arise but they arise from post-attanment."
 
 msgctxt "d3a5f1743119497d8f583c36ba2132b4"
 msgid "ཇོ་བོ་␣ས །"
