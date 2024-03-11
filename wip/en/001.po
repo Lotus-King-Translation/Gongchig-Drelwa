@@ -17479,7 +17479,7 @@ msgstr "According to The Highest Continuum:"
 
 msgctxt "f056fec0e2474e34934c73e8bfd48551"
 msgid "འདི་ ལ་ བསལ་ བྱ་ ཅི་ཡང་ མེད །"
-msgstr ""
+msgstr "There is nothing to eliminate here."
 
 msgctxt "8d8a7b32cd6646c997e274b5056bb9ce"
 msgid "བཞག་པ་␣ར་ བྱ་བ་ ཅུང་ཟད་ མེད །"
