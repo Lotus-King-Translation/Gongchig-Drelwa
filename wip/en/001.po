@@ -17316,6 +17316,7 @@ msgstr "And."
 msgctxt "ed862a77cedf4d129390f07c25a5a593"
 msgid "ཚུལ་ཁྲིམས་ ཀྱིས་ ནི་ ཞི་བ་ འདོད་ རྣམས་ འཕགས་པ་␣ར་ འགྱུར །"
 msgstr ""
+"Those who wish for peace will become a noble one through moral conduct."
 
 msgctxt "e4fea116d6c3495ca7dccdfbf22c3b4d"
 msgid "ཞེས་ དང་ །"
