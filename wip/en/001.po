@@ -17447,7 +17447,7 @@ msgstr ""
 
 msgctxt "7512309a9edf4cc3b064be4cb400392a"
 msgid "ཤེས་རབ་ ཀྱི་ ཕ་རོལ་ ཏུ་ ཕྱིན་པ་ ལ་ བསླབ་པ་␣ར་ བྱ་␣འོ ། །"
-msgstr ""
+msgstr "One must train in the perfection of wisdom."
 
 msgctxt "9e3cbcaaed96497690cf0b60843a183e"
 msgid "ཞེས་ སོ །"
