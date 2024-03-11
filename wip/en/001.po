@@ -17620,7 +17620,7 @@ msgstr "On the fourth level, twelve billion [good qualities]."
 
 msgctxt "88a3e1347f0748aa9893c0800d46a1b8"
 msgid "ས་ ལྔ་པ་␣ར་ བྱེ་བ་ སྟོང་ཕྲག་ བཅུ་གཉིས །"
-msgstr ""
+msgstr "On the fifth level, twelve thousand billion [good qualities arise]."
 
 msgctxt "f3616512129d4294b0360f209802787a"
 msgid "ས་ དྲུག་པ་␣ར་ བྱེ་བ་ འབུམ་ཕྲག་ བཅུ་གཉིས །"
