@@ -17651,6 +17651,8 @@ msgstr "On the tenth level, by inexpressible number of particles"
 msgctxt "a3876fdb696345d8a4265fb6110f876d"
 msgid "སངས་རྒྱས་ ཀྱི་ ཞལ་ ལྟ་བ་␣ས་ སངས་རྒྱས་ ཀྱི་ བྱིན་རླབས་ ཤེས་པ །"
 msgstr ""
+"By gazing at the faces of the buddhas, one knows the blessings of the "
+"buddhas."
 
 msgctxt "5b5bc77e26f246278d2b6281a1008fcb"
 msgid "ཞིང་ཁམས་ སུ་ འགྲོ་བ །"
