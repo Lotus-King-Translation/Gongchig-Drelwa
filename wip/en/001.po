@@ -17544,7 +17544,7 @@ msgstr "According to the Root Stanzas of the Middle Way:"
 
 msgctxt "869629c909984cf5b451ed5d1da3192b"
 msgid "འཁོར་བ་␣འི་ རྩ་བ་ འདུ་བྱེད་ དེ །"
-msgstr ""
+msgstr "The root of cyclic existence is formatives."
 
 msgctxt "754624bbccbc48daad29d8d359ec7bd2"
 msgid ""
