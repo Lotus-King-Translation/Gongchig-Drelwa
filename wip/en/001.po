@@ -17337,6 +17337,8 @@ msgstr "It is on the heads of those who have pure moral conduct."
 msgctxt "ddfac9887a1f4c6195993beaa4d06927"
 msgid "ཆོས་ རྣམས་ རང་བཞིན་ སྟོང་པ་␣ར་ མཉམ་ གཞག་ ནས །།"
 msgstr ""
+"By placing meditative equipoise on empty of the intrinsic nature of all "
+"phenomena,"
 
 msgctxt "2f82f31654b14798979eacfdc501f315"
 msgid "བྱིས་པ་ མེ་ རེག་ བརྩོན་པ་␣ས་ མི་ ཤེས་ སོ །"
