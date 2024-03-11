@@ -17656,7 +17656,7 @@ msgstr ""
 
 msgctxt "5b5bc77e26f246278d2b6281a1008fcb"
 msgid "ཞིང་ཁམས་ སུ་ འགྲོ་བ །"
-msgstr ""
+msgstr "[One] goes to the pure fields."
 
 msgctxt "ee19b5709f654c70ae354d31d81a4fcc"
 msgid "ཏིང་འཛིན་ ལ་ འཇུག་ ཅིང་ ལྡང་བ །"
