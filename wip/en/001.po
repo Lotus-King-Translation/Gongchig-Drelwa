@@ -17523,7 +17523,7 @@ msgstr "And."
 
 msgctxt "aa635b54b7c640088c85c901eb08178b"
 msgid "མཉམ་ གཞག་ ནམ་མཁའ་ ལྟ་བུ་ ཡིན་པ་␣ས་ སོ་␣༑ །"
-msgstr ""
+msgstr "The meditative equipoise is like space."
 
 msgctxt "4319d776c69f4bfe8edab521c62ae71f"
 msgid "ཟེར་ ཡང་ །"
