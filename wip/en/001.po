@@ -17397,6 +17397,7 @@ msgstr "At the time of the ground, there is disenchantment with suffering."
 msgctxt "032c1b612e7c47fb8e7015d094ef4dae"
 msgid "མྱང་འདས་ ལ་ འདོད་འདུན་ སྐྱེ་བ་ ཁམས་ ཀྱི་ མཐུ་ ཡིན་ ཏེ །"
 msgstr ""
+"Arising of desire and aspiration for nirvana is the power of the element."
 
 msgctxt "4bea8fd2931a41b6935a449273e346c3"
 msgid "རྒྱུད་བླ་མ་ ལ་␣ས །"
