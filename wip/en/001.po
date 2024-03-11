@@ -17569,7 +17569,7 @@ msgctxt "b0bf782a82f548e2be5ec278cc96b322"
 msgid ""
 "དེ་ རང་ ལ་␣ས་ བྱུང་ ཞིང་ དེ་␣འི་ ངོ་བོ་ གོང་ ནས་ གོང་ དུ་ འཕེལ་བ་␣ར་ བྱེད་ "
 "ཅིང་"
-msgstr ""
+msgstr "It arises from itself and its essence increases more and more."
 
 msgctxt "604433282dc9450788fec3c61c7c28fe"
 msgid "སྐྱབས་  སུ་ འགྲོ་བ་ ལ་སོགས་པ་␣ས་ སངས་རྒྱས་པ་␣འི་ དུས་ སུ་"
