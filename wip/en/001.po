@@ -17378,7 +17378,7 @@ msgstr ""
 
 msgctxt "7ca69927d3b247cbb66ac9db7cb59d0e"
 msgid "སྐྱོན་ཡོན་ མེད་པ་␣འི་ སྟོང་ཉིད་ ཡིན་ ཟེར །"
-msgstr ""
+msgstr "It is emptiness without faults or good qualities."
 
 msgctxt "287d326eeb834f0ba2529983510b885e"
 msgid "འདི་␣ར་ ནི་ ཕྱག་ ཆེན་ ནི་"
