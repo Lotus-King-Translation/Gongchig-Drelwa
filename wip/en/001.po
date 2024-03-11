@@ -17603,7 +17603,7 @@ msgstr "It is accepted that at the time of meditative equipoise,"
 
 msgctxt "b2d7a68e93f9402ca139e6348a37dc2a"
 msgid "ཡོན་ཏན་ ཐམས་ཅད་ འབྱུང་ སྟེ་"
-msgstr ""
+msgstr "All the qualities arise"
 
 msgctxt "82b3f2bea7124ee3ac2bbd6f6ef1fbab"
 msgid "མཐོང་ལམ་ ཐོབ་ ནས་ ཡོན་ཏན་ བརྒྱ་ ཕྲག་ བཅུ་གཉིས །"
