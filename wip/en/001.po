@@ -17442,6 +17442,8 @@ msgid ""
 "མེ་ཏོག་ གཅིག་ གམ་ གདུགས་ གཅིག་ གིས་ འཇིག་རྟེན་ གྱི་ ཁམས་ ཐམས་ཅད་ ཁྱབ་པ་␣ར་ "
 "འདོད་པ་␣ས་"
 msgstr ""
+"One flower or one parasol is considered to cover all the realms of the "
+"world."
 
 msgctxt "7512309a9edf4cc3b064be4cb400392a"
 msgid "ཤེས་རབ་ ཀྱི་ ཕ་རོལ་ ཏུ་ ཕྱིན་པ་ ལ་ བསླབ་པ་␣ར་ བྱ་␣འོ ། །"
