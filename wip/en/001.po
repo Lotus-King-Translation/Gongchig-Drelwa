@@ -17515,7 +17515,7 @@ msgstr "If the mind is stable in meditative equipoise,"
 
 msgctxt "5bcd3cb98e72481aa13744b842d7345d"
 msgid "ལུས་ངག་ དགེ་བ་ གཙོ་␣ར་ མི་ བྱ །"
-msgstr ""
+msgstr "The physical and verbal virtues are not the most important."
 
 msgctxt "898786c2c6c04cbe99ad9367a2b20127"
 msgid "ཞེས་པ་ དང་ །"
