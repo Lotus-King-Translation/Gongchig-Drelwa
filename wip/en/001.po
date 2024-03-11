@@ -17532,6 +17532,7 @@ msgstr "Although it is said,"
 msgctxt "cecf85ad4d504f28a2987bb369550498"
 msgid "དེ་ལས་ འདི་␣ར་ རང་ ཕྱག་ ཆེན་ ལ་ དགེ་ མི་དགེ་ གཉིས་ཀ་␣ས་ སྒྲིབ་ སྟེ །"
 msgstr ""
+"In this [system], mahamudra is obscured by both virtue and non-virtue."
 
 msgctxt "61cef551219c4f7d96d3adc8b33fd842"
 msgid "འདུ་བྱེད་ ཡིན་པ་␣འི་ ཕྱིར་"
