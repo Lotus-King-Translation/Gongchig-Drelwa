@@ -17589,7 +17589,7 @@ msgstr "At the time of the ultimate enlightenment,"
 
 msgctxt "de387233b15843e7b943edb6d25cbad0"
 msgid "ཕྲིན་ལས་ བསམ་ གྱི་ མི་ ཁྱབ་པ་␣ར་"
-msgstr "with the inconceivable enlightened activity,"
+msgstr "With the inconceivable enlightened activity,"
 
 msgctxt "9e21b7ae04c047b3881417cca7385df1"
 msgid ""
