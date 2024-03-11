@@ -17625,6 +17625,7 @@ msgstr "On the fifth level, twelve thousand billion [good qualities arise]."
 msgctxt "f3616512129d4294b0360f209802787a"
 msgid "ས་ དྲུག་པ་␣ར་ བྱེ་བ་ འབུམ་ཕྲག་ བཅུ་གཉིས །"
 msgstr ""
+"On the sixth level, twelve hundred thousand billion [good qualities arise]"
 
 msgctxt "72af803628b145b8a0b2021f0559a92d"
 msgid "ས་ བདུན་པ་␣ར་ ཁྲག་ཁྲིག་ འབུམ་ཕྲག་ བཅུ་གཉིས །"
