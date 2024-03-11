@@ -17612,7 +17612,7 @@ msgstr ""
 
 msgctxt "1e816b82ccd040b4b5508b0cdd195512"
 msgid "ས་ གཉིས་པ་␣ར་ སྟོང་ཕྲག་ བཅུ་གཉིས་"
-msgstr ""
+msgstr "On the second level, twelve thousand good qualities [arise]."
 
 msgctxt "bc5e602c2af04753ba0ef01e04bc810c"
 msgid "ས་ བཞི་པ་␣ར་ བྱེ་བ་ བརྒྱ་ ཕྲག་ བཅུ་གཉིས །"
