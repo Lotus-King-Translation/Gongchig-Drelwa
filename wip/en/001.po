@@ -17642,7 +17642,7 @@ msgstr ""
 
 msgctxt "70c17fb845a748b0aabeadfb83d12145"
 msgid "ས་བཅུ་པ་␣ར་ བརྗོད་ དུ་ མེད་པ་␣འི་ རྡུལ་ གྲངས་ ཀྱི་"
-msgstr ""
+msgstr "On the tenth level, by inexpressible number of particles"
 
 msgctxt "a3876fdb696345d8a4265fb6110f876d"
 msgid "སངས་རྒྱས་ ཀྱི་ ཞལ་ ལྟ་བ་␣ས་ སངས་རྒྱས་ ཀྱི་ བྱིན་རླབས་ ཤེས་པ །"
