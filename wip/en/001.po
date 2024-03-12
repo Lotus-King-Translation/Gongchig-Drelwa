@@ -17665,6 +17665,8 @@ msgstr "Entering and arising from meditative concentration,"
 msgctxt "b0af57308d31483c843f4ab0e2a70b8a"
 msgid "ཞིང་ གཡོ་བ །  ཞིང་ སྣང་བ །  ཆོས་ ཀྱི་ སྒོ་ འབྱེད་པ །"
 msgstr ""
+"The movement of the field, the appearance of the field, and the opening of "
+"the gate of the Dharma."
 
 msgctxt "5c1cff05ddf14b279e5cfd20a1d87fd6"
 msgid "སེམས་ཅན་ སྨིན་པ །"
