@@ -17660,7 +17660,7 @@ msgstr "[One] goes to the pure fields."
 
 msgctxt "ee19b5709f654c70ae354d31d81a4fcc"
 msgid "ཏིང་འཛིན་ ལ་ འཇུག་ ཅིང་ ལྡང་བ །"
-msgstr ""
+msgstr "Entering and arising from meditative concentration,"
 
 msgctxt "b0af57308d31483c843f4ab0e2a70b8a"
 msgid "ཞིང་ གཡོ་བ །  ཞིང་ སྣང་བ །  ཆོས་ ཀྱི་ སྒོ་ འབྱེད་པ །"
