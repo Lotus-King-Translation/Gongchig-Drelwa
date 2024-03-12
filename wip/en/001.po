@@ -17674,7 +17674,7 @@ msgstr "The ripened sentient beings,"
 
 msgctxt "5d8a6f3229e54a61bf52bf967ae7cd77"
 msgid "དུས་ སྐལ་པ་␣ར་ གནས་པ །"
-msgstr ""
+msgstr "Remain in the time for aeon."
 
 msgctxt "c7846084d5ad447c920c8f0a7bb88ea2"
 msgid "སྔོན་ གྱི་་་ གནས་ ལ་ ཡེ་ཤེས་ ཀྱི་ གཟིགས་པ་ འཇུག་པ །"
