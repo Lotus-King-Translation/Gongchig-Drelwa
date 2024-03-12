@@ -10368,7 +10368,7 @@ msgctxt "85598b47288f4fff88a58e16e6e045e1"
 msgid "དང་པོ་ ནི་ གྲངས་མེད་ གསུམ་ ལ་ རིམ་གྱིས་ བསྒྲོད་པ་ ཤཱཀྱ་ ཐུབ་ ལྟ་བུ་␣ར་"
 msgstr ""
 "The first is like Shakyamuni, who traversed gradually through the three "
-"incalculable [eons]."
+"incalculable [aeons]."
 
 msgctxt "19ece1c0f0ac4dc8b3d424568f67dffc"
 msgid "ཇི་སྐད་ བཤད་པ་␣འི་ ཡོན་ཏན་ འབྱུང་བ་ ཡིན ། །"
