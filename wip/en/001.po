@@ -17701,6 +17701,7 @@ msgstr "The good qualities also increase greatly."
 msgctxt "2d86e39527bc4dfda3c619bb9a6244e8"
 msgid "ས་བཅུ་␣འི་ མཐ་␣ར་ ཡོན་ཏན་ བསམ་ མི་ ཁྱབ་པ་ དང་"
 msgstr ""
+"At the end of the tenth level, the good qualities are inconceivable and"
 
 msgctxt "f52636b6d3d54200baf6d92f3dbaca83"
 msgid "སངས་རྒྱས་ ནས་"
