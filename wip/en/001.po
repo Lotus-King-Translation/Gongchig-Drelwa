@@ -17723,7 +17723,7 @@ msgstr "Lord Phagmo Drupa said:"
 
 msgctxt "431f73f79dd6412da69c63a63daf1789"
 msgid "བྱང་ཆུབ་ སེམས་དཔའ་ ས་བཅུ་ དག  །"
-msgstr ""
+msgstr "The bodhisattvas of the tenth level,"
 
 msgctxt "48991b00a18041e8beff0829301f923e"
 msgid "སྐྱེ་ མེད་ དུ་ གནས་པ་ ཡོན་ཏན་ ཡིན །"
