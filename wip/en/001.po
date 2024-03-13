@@ -17754,7 +17754,7 @@ msgstr "Buddhas never have non-meditative equipoise."
 
 msgctxt "129a0f0c4a834bfe97c87d3c07b3c16f"
 msgid "དེ་␣འང་ སངས་རྒྱས་ དང་ ས་བཅུ་པ་␣འི་ བྱང་སེམས་ ཀྱི་ ཡོན་ཏན་"
-msgstr ""
+msgstr "The qualities of the buddhas and the bodhisattvas of the tenth level,"
 
 msgctxt "dd4451140cec4eeba6cc79bac5ea7a7b"
 msgid ""
