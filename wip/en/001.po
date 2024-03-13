@@ -17741,7 +17741,7 @@ msgstr ""
 
 msgctxt "39bde50e575745c085de5c5991b0562f"
 msgid "སངས་རྒྱས་ ལ་ མི་ འབྱུང་བ་␣ར་ རིགས་ ཏེ་"
-msgstr ""
+msgstr "not arise in buddhas."
 
 msgctxt "68346a574702497592d4531e0af42ea2"
 msgid "སོ་སྐྱེ་ རྣམས་ རྗེ་ ཤེས་ ཁོ་ན་ ཡིན་པ་␣འི་ ཕྱིར་ དང༌ །"
