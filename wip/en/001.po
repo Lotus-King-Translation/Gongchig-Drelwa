@@ -17692,7 +17692,7 @@ msgstr ""
 
 msgctxt "3cb926825bad4712a2a2504a0fa9f43c"
 msgid "མཉམ་བཞག་ ཇེ་ ཆེ་␣ར་ སོང་བ་ ལ་ བརྟེན་ ནས་"
-msgstr ""
+msgstr "In dependence upon increasing the meditative equipoise,"
 
 msgctxt "e19e63be614a47daa00b5d85bda71403"
 msgid "ཡོན་ཏན་ ཡང་ ཇེ་ ཆེ་␣ར་ འཕེལ་ ཏེ་"
