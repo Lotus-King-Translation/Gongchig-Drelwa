@@ -17750,7 +17750,7 @@ msgstr ""
 msgctxt "6102f14240ff449e901c8a4801adc0ea"
 msgid ""
 "སངས་རྒྱས་ དུས་ རྟག་ ཏུ་ མཉམ་པ་␣ར་ མ་ བཞག་པ་ མི་ མངའ་བ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "Buddhas never have non-meditative equipoise."
 
 msgctxt "129a0f0c4a834bfe97c87d3c07b3c16f"
 msgid "དེ་␣འང་ སངས་རྒྱས་ དང་ ས་བཅུ་པ་␣འི་ བྱང་སེམས་ ཀྱི་ ཡོན་ཏན་"
