@@ -17687,6 +17687,8 @@ msgstr "Showing the body."
 msgctxt "8cc725990d044cd8993df776bb7689ee"
 msgid "ལུང་ རིག་ འཁོར་ གྱིས་ བསྐོར་བ་ སྟོན་པ །"
 msgstr ""
+"It shows that a retinue, scriptural authorization, and reasoning surround "
+"it."
 
 msgctxt "3cb926825bad4712a2a2504a0fa9f43c"
 msgid "མཉམ་བཞག་ ཇེ་ ཆེ་␣ར་ སོང་བ་ ལ་ བརྟེན་ ནས་"
