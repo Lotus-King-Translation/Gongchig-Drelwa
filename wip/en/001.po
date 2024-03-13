@@ -17727,7 +17727,7 @@ msgstr "The bodhisattvas of the tenth level,"
 
 msgctxt "48991b00a18041e8beff0829301f923e"
 msgid "སྐྱེ་ མེད་ དུ་ གནས་པ་ ཡོན་ཏན་ ཡིན །"
-msgstr ""
+msgstr "Abiding in the unborn is a good quality."
 
 msgctxt "4d9c9afeed364aec82efa32bf1ec896a"
 msgid "ཞེས་ སོ ། །"
