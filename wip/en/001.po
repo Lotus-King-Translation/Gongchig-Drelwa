@@ -17696,7 +17696,7 @@ msgstr "In dependence upon increasing the meditative equipoise,"
 
 msgctxt "e19e63be614a47daa00b5d85bda71403"
 msgid "ཡོན་ཏན་ ཡང་ ཇེ་ ཆེ་␣ར་ འཕེལ་ ཏེ་"
-msgstr ""
+msgstr "The good qualities also increase greatly."
 
 msgctxt "2d86e39527bc4dfda3c619bb9a6244e8"
 msgid "ས་བཅུ་␣འི་ མཐ་␣ར་ ཡོན་ཏན་ བསམ་ མི་ ཁྱབ་པ་ དང་"
