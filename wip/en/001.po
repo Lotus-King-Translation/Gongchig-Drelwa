@@ -17682,7 +17682,7 @@ msgstr "Having a vision of wisdom that penetrates the previous lives."
 
 msgctxt "ec4588de97734eaca26e95acdc6e602d"
 msgid "ལུས་ སྟོན་པ །"
-msgstr ""
+msgstr "Showing the body."
 
 msgctxt "8cc725990d044cd8993df776bb7689ee"
 msgid "ལུང་ རིག་ འཁོར་ གྱིས་ བསྐོར་བ་ སྟོན་པ །"
