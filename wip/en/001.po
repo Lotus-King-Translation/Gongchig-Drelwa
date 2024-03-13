@@ -17710,6 +17710,8 @@ msgstr "After enlightenment"
 msgctxt "09854a9aae3540a7946108fecfa58a18"
 msgid "འཕྲིན་ལས་ ཀྱིས་ སེམས་ཅན་ སྨིན་གྲོལ་ བྱེད་པ་ དང་"
 msgstr ""
+"Sentient beings are brought to ripening and emancipation by enlightened "
+"activities. "
 
 msgctxt "9b218448f2da4c799a7f041c756cc642"
 msgid "བཅས་པ་ མཉམ་ གཞག་ ལ་␣ས་ བྱུང་བ་ ཡིན་ ནོ ། །"
