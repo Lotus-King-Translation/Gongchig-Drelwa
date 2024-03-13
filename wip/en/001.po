@@ -17678,7 +17678,7 @@ msgstr "Remain in the time for aeon."
 
 msgctxt "c7846084d5ad447c920c8f0a7bb88ea2"
 msgid "སྔོན་ གྱི་་་ གནས་ ལ་ ཡེ་ཤེས་ ཀྱི་ གཟིགས་པ་ འཇུག་པ །"
-msgstr ""
+msgstr "Having a vision of wisdom that penetrates the previous lives."
 
 msgctxt "ec4588de97734eaca26e95acdc6e602d"
 msgid "ལུས་ སྟོན་པ །"
