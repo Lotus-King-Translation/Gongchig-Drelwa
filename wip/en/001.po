@@ -17761,6 +17761,8 @@ msgid ""
 "རྒྱ་མཚོ་ དང་བ་ ལང་ རྨིག་ རྗེས་ ཀྱི་ ཆུ་ ལྟར་ ཁྱད་ ཡོད་པ་␣ར་ གསུངས་པ་␣ས་ བསལ་"
 " ལོ་␣༑།"
 msgstr ""
+"Are like the ocean and the water in a cow’s hoofprint. This statement "
+"clearly shows that there is a difference."
 
 msgctxt "706c8e971dc04bc1b8ba449768a7d137"
 msgid ""
