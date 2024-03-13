@@ -17715,7 +17715,7 @@ msgstr ""
 
 msgctxt "9b218448f2da4c799a7f041c756cc642"
 msgid "བཅས་པ་ མཉམ་ གཞག་ ལ་␣ས་ བྱུང་བ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "These arise from meditative equipoise."
 
 msgctxt "3a955c56751b439db023a8e737651aef"
 msgid "རྗེ་ ཕག་གྲུ་␣ས །"
