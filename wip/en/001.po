@@ -17983,7 +17983,7 @@ msgstr "[You] taught exclusively the complete ripening of karma,"
 
 msgctxt "49b423d5115f40d19e778e4033453c81"
 msgid "ལྟ་བ་␣འི་ མུན་ བྲལ་ ཁྱེད་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
-msgstr ""
+msgstr "Homage to you! You are free from the darkness of views."
 
 msgctxt "167e2a7670544f0eb5ad80b3b2cb9e55"
 msgid "ཞེས་ སོ ། །"
