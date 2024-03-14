@@ -17821,7 +17821,7 @@ msgstr ""
 
 msgctxt "7f7fc5653ef341bf98782f81bb40f03b"
 msgid "དེ་␣འི་ ངང་ ལ་␣ས་ ཐ་དད་ མེད་པ་␣ར་ བསྒྲུབ་པ་␣ས་"
-msgstr ""
+msgstr "Thus, through this, it is established that there is no distinction."
 
 msgctxt "83d3fe22e97b4736997c4d2b8810bb02"
 msgid "རྗེས་ཤེས་ སུ་ མི་ འགྱུར་ ཏེ །"
