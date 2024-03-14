@@ -17792,7 +17792,7 @@ msgstr "According to the Heap of Jewels:"
 
 msgctxt "6ab50228ee784629bd222f7716d37207"
 msgid "ས་ ནི་ བསམ་ གྱིས་ མི་ ཁྱབ་པ་␣འི ། །"
-msgstr ""
+msgstr "The ground is inconceivable."
 
 msgctxt "4e85a5a8e99e42198a431add74689f46"
 msgid "དགེ་བ་␣འི་ ལ་␣ས་ ཀྱི་ རྒྱུ་རྐྱེན་ གྱིས །།"
