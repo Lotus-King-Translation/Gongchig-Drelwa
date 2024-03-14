@@ -17783,6 +17783,8 @@ msgctxt "6aecdea04ce64058aa1d5f886bf72d36"
 msgid ""
 "ཚོགས་ གཉིས་ མ་ བསགས་པ་ ལ་␣འང་ ཡོན་ཏན་ འབྱུང་བ་␣ར་ ཐལ་བ་␣འི་ ཕྱིར་ རོ ། །"
 msgstr ""
+"This is because it absurdly follows that the good qualities would arise even"
+" to those who have not gathered the two accumulations."
 
 msgctxt "3ef78f4376e44c1996de808590cc79fe"
 msgid "དེ་ལྟར་ ཡང་ དཀོན་མཆོག་ བརྩེགས་པ་ ལ་␣ས །"
