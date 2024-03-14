@@ -17903,6 +17903,8 @@ msgid ""
 "དགེ་ མི་དགེ་ ལས་འབྲས་ སོགས་ སྣ་ཚོགས་པ་␣འི་ སྣང་བ་ ཐམས་ཅད་ སྣང་མེད་ སྟོང་ཉིད་"
 " དུ་ རྟོགས་ ཏེ །"
 msgstr ""
+"By realizing all the various appearances of virtuous and non-virtuous karma "
+"and its effects as non-appearing emptiness,"
 
 msgctxt "2f85209faaa84715966e128628d9fe8f"
 msgid "རྒྱུ་འབྲས་ ཀྱི་ རྟེན་འབྲེལ་ མེད་པ་ ནམ་མཁའ་ བཞིན་ ནོ་ ཟེར་ རོ །"
