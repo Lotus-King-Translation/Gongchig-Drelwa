@@ -17874,7 +17874,7 @@ msgstr "This Lesser Vehicle is not the place."
 
 msgctxt "9e56ae3fc86346cbad62db0691d3bac4"
 msgid "སྐབས་མེད་ བསྟན་པ་␣འི་ སྟོབས་ དང་ ལྡན་པ་"
-msgstr ""
+msgstr "Possessing the power of teaching on no occasion,"
 
 msgctxt "dabe45d10e004dda9b869380b37308cf"
 msgid ""
