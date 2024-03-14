@@ -17928,7 +17928,7 @@ msgstr ""
 
 msgctxt "cb375418ec37455a928236297ebf8367"
 msgid "སྟོང་ཉིད་ ཀྱིས་ རྒྱུ་འབྲས་ མི་ ཁེགས་ ཏེ །"
-msgstr ""
+msgstr "Emptiness does not negate cause and effect."
 
 msgctxt "cd49b9b934f7474e9181293326d41938"
 msgid "དཔེར་ན་ ནམ་མཁའ་ ལ་␣ས་ བྱུང་བ་␣འི་ འཇའ་ཚོན་"
