@@ -17808,7 +17808,7 @@ msgstr "Accomplish various rays of light."
 
 msgctxt "8585b0baec2b4267a5e59c16727ca14c"
 msgid "ཅེས་ སོགས་ མཐའ་ཡས་པ་␣ར་ གསུངས་ སོ །"
-msgstr ""
+msgstr "Likewise, there are infinite such statements."
 
 msgctxt "a1a8b2e38e9b4718b0f68bde9eaed8b7"
 msgid "མཉམ་བཞག་ ལ་ ཡོན་ཏན་ འབྱུང་བ་ དང་"
