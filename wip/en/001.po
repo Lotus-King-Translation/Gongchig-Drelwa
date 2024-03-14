@@ -17955,7 +17955,7 @@ msgstr ""
 
 msgctxt "f1540819a2754a4d9d622e93d1bed384"
 msgid "དགེ་ དང་ མི་དགེ་␣འི་ ལ་␣ས་ ནི་ ཆུད་ མི་ ཟ ། །"
-msgstr ""
+msgstr "The results of virtue and non-virtue do not go to waste,"
 
 msgctxt "cd5d216615f34d559df21c937d054b03"
 msgid "ཞི་བ་␣ར་ གནས་པ་ རང་རྒྱལ་ ཐེག་པ་ དེ །"
