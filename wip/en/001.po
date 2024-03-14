@@ -17769,6 +17769,8 @@ msgid ""
 "རྡོ་␣༽༽  ཆོས་སྐུ་ ཕྱག་རྒྱ་ ཆེན་པོ་ རྟོགས་ ན་ རྒྱུ་མ་ བསྒྲུབས་ ཀྱང་ ཡོན་ཏན་ "
 "ཐམས་ཅད་ འབྱུང་ ཟེར །"
 msgstr ""
+"Vajra: It is said that if you realize the dharmakaya mahamudra, all good "
+"qualities will arise even without accomplishing the cause."
 
 msgctxt "3d10aaece08d4d2096fd18ce218892d9"
 msgid ""
