@@ -17854,7 +17854,7 @@ msgstr ""
 
 msgctxt "7c3a41dbe8774006a8ef6d8aefc1d14d"
 msgid "རྒྱུ་ མེད་པ་␣འི་ འབྲས་བུ་ གཤིས་ ལ་ མི་ སྲིད་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "This is because results without causes are naturally impossible."
 
 msgctxt "d1137d3ce29d4689b98cd86f109187b7"
 msgid "དེ་ལྟར་ ཡང་ །"
