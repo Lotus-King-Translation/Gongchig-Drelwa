@@ -17849,6 +17849,8 @@ msgstr ""
 msgctxt "05be7d80bdfe474e852ba788e1068fa6"
 msgid "འདི་␣ར་ བྲལ་འབྲས་ ཐམས་ཅད་ རྒྱུ་ དང་ བཅས་པ་ ཡིན་ ཏེ །"
 msgstr ""
+"In this [system], all the disconnection results are associated with its "
+"causes."
 
 msgctxt "7c3a41dbe8774006a8ef6d8aefc1d14d"
 msgid "རྒྱུ་ མེད་པ་␣འི་ འབྲས་བུ་ གཤིས་ ལ་ མི་ སྲིད་པ་␣འི་ ཕྱིར་ རོ ། །"
