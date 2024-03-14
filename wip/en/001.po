@@ -17896,7 +17896,7 @@ msgstr ""
 
 msgctxt "7053d840f2be45b387d080972df28097"
 msgid "དེ་␣འི་ ཆོས་ཉིད་ ལམ་ གྱིས་ རྟོགས་ ན་"
-msgstr ""
+msgstr "If the path realizes the true nature of phenomena,"
 
 msgctxt "9550becca0444c0aaba8a1a8aa9483a8"
 msgid ""
