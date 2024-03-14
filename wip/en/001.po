@@ -10156,7 +10156,7 @@ msgstr "And"
 
 msgctxt "65393b058f16420295c4048119a835bb"
 msgid "རྣམ་པ་␣ར་ འཕྲུལ་ རྒྱལ་ གྱིས་ ཞུས་ མདོ་␣ར །"
-msgstr "The Sutra requested by Vikurvanaraja says:"
+msgstr "According to the Sutra of Requisition by Vikurvanaraja:"
 
 msgctxt "6150493315014e0f8070716046efe43c"
 msgid "ཆོས་ ཀྱི་ བདག་མེད་ རྟོགས་ ཕྱིན་ཆད་ བདག་ གིས་ སངས་རྒྱས་ མཐོང་ ། །"
