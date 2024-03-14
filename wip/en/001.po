@@ -17932,7 +17932,7 @@ msgstr "Emptiness does not negate cause and effect."
 
 msgctxt "cd49b9b934f7474e9181293326d41938"
 msgid "དཔེར་ན་ ནམ་མཁའ་ ལ་␣ས་ བྱུང་བ་␣འི་ འཇའ་ཚོན་"
-msgstr "For example, when a rainbow occurs in the sky,"
+msgstr "For example, a rainbow that occurs in the sky,"
 
 msgctxt "7bd9ad70e21345c0b27d9774a3688030"
 msgid "ནམ་མཁའ་ དེ་ དང་ དབྱེ་␣ར་ མེད་ དུ་ འཆར་བ་␣འི་ ཚེ་"
