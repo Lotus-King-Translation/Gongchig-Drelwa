@@ -17914,7 +17914,7 @@ msgstr ""
 
 msgctxt "28118400bc3047d7afeb2dd9c41f1eec"
 msgid "འདི་␣ར་ ནི་ སྟོང་ཉིད་ རྟོགས་པ་␣འི་ ཚེ་ ན་"
-msgstr ""
+msgstr "In this [system], When emptiness is realized,"
 
 msgctxt "7473ee623a7a49dc82329138f6730022"
 msgid "དེ་ དང་ དབྱེ་␣ར་ མེད་པ་␣ར་ རྒྱུ་འབྲས་ ཀྱི་ རྟེན་འབྲེལ་ ཉིད་"
