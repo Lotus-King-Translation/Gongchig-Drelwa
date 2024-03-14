@@ -18007,7 +18007,7 @@ msgstr "Although there is doubt about the bad migrations,"
 
 msgctxt "9f44c67fdfc24775a371900ddd76eb2a"
 msgid "སྡིག་པ་ ཕྲ་ ཞིང་ ཕྲ་བ་ ལ་ འཛེམ་ ཞེས་ སོགས་ གསུངས་ སོ ། །"
-msgstr ""
+msgstr "Avoid even the smallest negative actions."
 
 msgctxt "c9a97466ca6d4bd0817d420e332739de"
 msgid "འོ་ན་ འགལ་བ་␣ར་ འགྱུར་ རོ་ སྙམ་ ན་"
