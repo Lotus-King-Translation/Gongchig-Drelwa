@@ -17936,7 +17936,7 @@ msgstr "For example, when a rainbow occurs in the sky,"
 
 msgctxt "7bd9ad70e21345c0b27d9774a3688030"
 msgid "ནམ་མཁའ་ དེ་ དང་ དབྱེ་␣ར་ མེད་ དུ་ འཆར་བ་␣འི་ ཚེ་"
-msgstr ""
+msgstr "When it appears indivisibly with that sky,"
 
 msgctxt "ea5357fdaaa6485db1ff7ff1438aedbb"
 msgid "ནམ་མཁ་␣ས་ འཇའ་ཚོན་ མི་ ཁེགས་པ་ བཞིན་ ནོ ། །"
