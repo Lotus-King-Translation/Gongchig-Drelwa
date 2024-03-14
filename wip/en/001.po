@@ -17835,6 +17835,8 @@ msgctxt "d9180153155242db8c2f9434db76acb7"
 msgid ""
 "བདག་ ནི་ མཉམ་པ་␣ར་ བཞག་ ཅེས་པ་␣འམ་ ལང་ ཞེས་ རློམ་སེམས་ མེད་ ཅེས་པ་␣ས་ སོ །"
 msgstr ""
+"Therefore, one should be free of the conceit, “I am in meditative equipoise”"
+" or “I am arising.”"
 
 msgctxt "49cc1363ede140bcaa073b421893e503"
 msgid ""
