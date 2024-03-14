@@ -17870,7 +17870,7 @@ msgstr ""
 
 msgctxt "9c33a8450b8a40c5bbe422aca417c363"
 msgid "ཐེག་པ་ དམན་པ་ འདི་ ནི་ གནས་མིན །"
-msgstr ""
+msgstr "This Lesser Vehicle is not the place."
 
 msgctxt "9e56ae3fc86346cbad62db0691d3bac4"
 msgid "སྐབས་མེད་ བསྟན་པ་␣འི་ སྟོབས་ དང་ ལྡན་པ་"
