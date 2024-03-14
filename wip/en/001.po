@@ -17804,7 +17804,7 @@ msgstr "Abandoned delusion utterly,"
 
 msgctxt "9732d722ea33469eb93e8d6951a52a65"
 msgid "འོད་ཟེར་ སྣ་ཚོགས་ འགྲུབ་པ་ ཡིན །"
-msgstr ""
+msgstr "Accomplish various rays of light."
 
 msgctxt "8585b0baec2b4267a5e59c16727ca14c"
 msgid "ཅེས་ སོགས་ མཐའ་ཡས་པ་␣ར་ གསུངས་ སོ །"
