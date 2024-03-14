@@ -17950,6 +17950,8 @@ msgstr ""
 msgctxt "fe6e67570f614c62abaabe328e099472"
 msgid "ཆོས་ཉིད་ ལ་␣ས་ ཀྱི་ རྣམ་སྨིན་ མེད་ ཤེས་ ཀྱང་ །"
 msgstr ""
+"Even knowing the absence of the complete ripening of karma of the true "
+"nature of phenomena,"
 
 msgctxt "f1540819a2754a4d9d622e93d1bed384"
 msgid "དགེ་ དང་ མི་དགེ་␣འི་ ལ་␣ས་ ནི་ ཆུད་ མི་ ཟ ། །"
