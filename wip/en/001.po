@@ -17776,6 +17776,8 @@ msgctxt "3d10aaece08d4d2096fd18ce218892d9"
 msgid ""
 "འདི་␣ར་ ནི་ རྒྱུ་ ནི་ མ་ བསྒྲུབ་པ་␣ར་ ཡོན་ཏན་ ཐམས་ཅད་ འབྱུང་ མི་ སྲིད་ དེ་"
 msgstr ""
+"In this [system], Without accomplishing the cause, it is impossible for all "
+"good qualities to arise."
 
 msgctxt "6aecdea04ce64058aa1d5f886bf72d36"
 msgid ""
