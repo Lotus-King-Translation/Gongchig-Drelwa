@@ -17817,6 +17817,7 @@ msgstr "The arising of good qualities in meditative equipoise and "
 msgctxt "e25a700846df4136a2640597dabe258b"
 msgid "རྒྱུ་མ་ བསྒྲུབ་པ་␣ར་ མི་ འབྱུང་བ་ གཉིས་ མི་འགལ་བ་␣ར་"
 msgstr ""
+"Non-arising of it without establishing the cause are not contradictory."
 
 msgctxt "7f7fc5653ef341bf98782f81bb40f03b"
 msgid "དེ་␣འི་ ངང་ ལ་␣ས་ ཐ་དད་ མེད་པ་␣ར་ བསྒྲུབ་པ་␣ས་"
