@@ -17909,6 +17909,8 @@ msgstr ""
 msgctxt "2f85209faaa84715966e128628d9fe8f"
 msgid "རྒྱུ་འབྲས་ ཀྱི་ རྟེན་འབྲེལ་ མེད་པ་ ནམ་མཁའ་ བཞིན་ ནོ་ ཟེར་ རོ །"
 msgstr ""
+"The absence of an interdependent relationship between cause and result is "
+"like space."
 
 msgctxt "28118400bc3047d7afeb2dd9c41f1eec"
 msgid "འདི་␣ར་ ནི་ སྟོང་ཉིད་ རྟོགས་པ་␣འི་ ཚེ་ ན་"
