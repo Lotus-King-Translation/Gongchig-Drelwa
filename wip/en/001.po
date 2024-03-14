@@ -18011,7 +18011,7 @@ msgstr "Avoid even the smallest negative actions."
 
 msgctxt "c9a97466ca6d4bd0817d420e332739de"
 msgid "འོ་ན་ འགལ་བ་␣ར་ འགྱུར་ རོ་ སྙམ་ ན་"
-msgstr ""
+msgstr "Well then, if one wonders that it would be contradictory."
 
 msgctxt "b5da782126f642f4979b55513dabec40"
 msgid "མི་ འགལ་ ཏེ །"
