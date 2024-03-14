@@ -17979,7 +17979,7 @@ msgstr "Never possessing the views of the two extremes,"
 
 msgctxt "ca8420bd9f254beba549cef0bc8692b6"
 msgid "ལ་␣ས་ ཀྱི་ རྣམ་སྨིན་ འབྲས་བུ་ ཁོ་ན་ གསུངས ། །"
-msgstr ""
+msgstr "[You] taught exclusively the complete ripening of karma,"
 
 msgctxt "49b423d5115f40d19e778e4033453c81"
 msgid "ལྟ་བ་␣འི་ མུན་ བྲལ་ ཁྱེད་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
