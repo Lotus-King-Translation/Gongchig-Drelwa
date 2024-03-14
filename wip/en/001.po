@@ -9028,7 +9028,7 @@ msgstr "From virtue come the higher realms and emancipation."
 msgctxt "7d63cdab614b45a8abc34c5adadeb4af"
 msgid "མི་དགེ་བ་ ལ་␣ས་ འཁོར་བ་ ངན་སོང་ གི་ སྡུག་ འསྔལ་ འབྱུང་བ་␣ས་"
 msgstr ""
-"Non-virtue brings about the sufferings of the lower realms of samsara,"
+"Non-virtue brings about the sufferings of the bad migrations of samsara,"
 
 msgctxt "a44d1e8d8d4742efaf7ccd3938891ea0"
 msgid "སེམས་ཅན་ སྨིན་གྲོལ་ མི་ ནུས་པ་␣འི་ ཕྱིར །"
