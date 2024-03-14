@@ -17975,7 +17975,7 @@ msgstr "The Blessed One, you are skilled in relying on causes,"
 
 msgctxt "cb977e8bee7b48f790adf1b0d608f3e0"
 msgid "མཐའ་ གཉིས་ ལྟ་བ་ རྟག་ ཏུ་ མི་ མངའ་བ །"
-msgstr ""
+msgstr "Never possessing the views of the two extremes,"
 
 msgctxt "ca8420bd9f254beba549cef0bc8692b6"
 msgid "ལ་␣ས་ ཀྱི་ རྣམ་སྨིན་ འབྲས་བུ་ ཁོ་ན་ གསུངས ། །"
