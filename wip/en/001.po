@@ -17800,7 +17800,7 @@ msgstr "By the cause and condition of virtuous karma,"
 
 msgctxt "d42b3d52013f412d8536f9314b0f36c5"
 msgid "རྨོངས་པ་ རབ་ཏུ་ སྤངས་པ་ ཡིིས ། །"
-msgstr "Abandoned delusion utterly,"
+msgstr "Abandon delusion utterly,"
 
 msgctxt "9732d722ea33469eb93e8d6951a52a65"
 msgid "འོད་ཟེར་ སྣ་ཚོགས་ འགྲུབ་པ་ ཡིན །"
