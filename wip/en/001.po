@@ -17940,7 +17940,7 @@ msgstr "When it appears indivisibly with that sky,"
 
 msgctxt "ea5357fdaaa6485db1ff7ff1438aedbb"
 msgid "ནམ་མཁ་␣ས་ འཇའ་ཚོན་ མི་ ཁེགས་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "Likewise, the sky cannot block the rainbow."
 
 msgctxt "97b312da83a84b74a9c521da6f094760"
 msgid "དེ་ལྟར་ ཡང་ ཏིང་འཛིན་ རྒྱལ་པོ་ ལ་␣ས །"
