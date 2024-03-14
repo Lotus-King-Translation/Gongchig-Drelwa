@@ -17891,6 +17891,8 @@ msgstr "It is said so forth."
 msgctxt "d0a75d1380e64175a43254795784b125"
 msgid "རྡོ་␣༽༽  ཆོས་ ཐམས་ཅད་ རང་སེམས་ ལས་མི་ གཞན་པ་␣ས་"
 msgstr ""
+"Vajra: It is said that all phenomena are not other than one's own mind "
+"because"
 
 msgctxt "7053d840f2be45b387d080972df28097"
 msgid "དེ་␣འི་ ཆོས་ཉིད་ ལམ་ གྱིས་ རྟོགས་ ན་"
