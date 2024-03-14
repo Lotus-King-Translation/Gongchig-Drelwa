@@ -17924,6 +17924,7 @@ msgstr ""
 msgctxt "cd5a08ac73b4499096e7911f75b3d580"
 msgid "སྒྱུ་མ་␣འི་ སྣང་བ་ བཞིན་ འགོག་␣ས་པ་ མེད་པ་␣ར་ འབྱུང་བ་␣ས་"
 msgstr ""
+"It ceases and becomes non-existence like the appearances in an illusion."
 
 msgctxt "cb375418ec37455a928236297ebf8367"
 msgid "སྟོང་ཉིད་ ཀྱིས་ རྒྱུ་འབྲས་ མི་ ཁེགས་ ཏེ །"
