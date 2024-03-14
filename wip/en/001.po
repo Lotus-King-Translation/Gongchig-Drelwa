@@ -19804,7 +19804,7 @@ msgstr ""
 
 msgctxt "a6010f691f4e4806a35dbab1518401d0"
 msgid "ལྗོན་ ཞུས་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Sutra of Requisition by Jonpa:"
 
 msgctxt "bda985dc5b594c1f98df4534b8d3b640"
 msgid "རྒྱུ་ལ་ བརྟེན་པ་␣འི་ མཁས་པ་ བཅོམ་ལྡན་འདས ། ༑"
