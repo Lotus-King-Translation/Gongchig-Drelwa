@@ -17862,7 +17862,7 @@ msgstr "That as well."
 
 msgctxt "4bf668f4371e44039460453a156871ef"
 msgid "བུ་མོ་ རིན་ཆེན་ གྱིས་ ཞུས་པ་␣འི་ མདོ་␣ར །"
-msgstr ""
+msgstr "According to the Sutra of the Question of Daughter Ratna:"
 
 msgctxt "cb144b649eff4ee799d562ea66675b4b"
 msgid "བུ་མོ་ བྱང་ཆུབ་ སེམས་དཔ་␣འི་ སྤྱད་པ་ སྤྱོད་པ་ ན་"
