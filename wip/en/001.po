@@ -17999,7 +17999,7 @@ msgstr "Even if there is no hope of attaining high enlightenment,"
 
 msgctxt "f69ceda34a7f4d7db767ce1152441ca6"
 msgid "དཀར་པོ་␣འི་ ཆོས་སྤྱོད་ རྒྱུན་ མི་ བཅད །"
-msgstr ""
+msgstr "Uninterrupted continuity in the practice of the white Dharma."
 
 msgctxt "466a213c6d3145e68872cc943ffcedb1"
 msgid "མར་ ངན་སོང༌་␣ལ་ དོགས་པ་ མེད་ ཀྱང་"
