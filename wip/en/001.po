@@ -563,7 +563,7 @@ msgstr "The one which condition and so on."
 
 msgctxt "867b016b54a941c89a1ca9991cf9fa43"
 msgid "ལྗོན་པ་␣ས་ ཞུས་པ་␣འི་ མདོ་␣ར །"
-msgstr "In the sutra requested by Jonpa:"
+msgstr "According to the Sutra of Requisition by Jonpa:"
 
 msgctxt "4dbb6ea876604037b920ce729fd9fa48"
 msgid "རྒྱུ་ལ་ བརྟེན་ པའིམཁས་པ་ བཅོམ་ལྡན་འདས ། །"
