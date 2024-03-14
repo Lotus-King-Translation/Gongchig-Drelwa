@@ -17825,7 +17825,7 @@ msgstr "Thus, through this, it is established that there is no distinction."
 
 msgctxt "83d3fe22e97b4736997c4d2b8810bb02"
 msgid "རྗེས་ཤེས་ སུ་ མི་ འགྱུར་ ཏེ །"
-msgstr ""
+msgstr "It will not become a subsequent cognition."
 
 msgctxt "bfb0ee0d79574d928ca66f11caf484ab"
 msgid "སྡུད་པ་ ལ་␣ས །"
