@@ -17995,7 +17995,7 @@ msgstr "Jetsun said to Gampopa, the dharma for beings."
 
 msgctxt "9c3d82d7bbd24000a6b0efb8ee294f0e"
 msgid "ཡར་ སངས་རྒྱས་ ལ་ རེ་བ་ མེད་ ཀྱང་"
-msgstr ""
+msgstr "Even if there is no hope of attaining high enlightenment,"
 
 msgctxt "f69ceda34a7f4d7db767ce1152441ca6"
 msgid "དཀར་པོ་␣འི་ ཆོས་སྤྱོད་ རྒྱུན་ མི་ བཅད །"
