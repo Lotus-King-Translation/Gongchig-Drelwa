@@ -17959,7 +17959,7 @@ msgstr "The results of virtue and non-virtue do not go to waste,"
 
 msgctxt "cd5d216615f34d559df21c937d054b03"
 msgid "ཞི་བ་␣ར་ གནས་པ་ རང་རྒྱལ་ ཐེག་པ་ དེ །"
-msgstr ""
+msgstr "The pratyekabuddha vehicle that abides in peace."
 
 msgctxt "0011ed6122c745278a56134172efb25b"
 msgid "ཉན་ཐོས་ རྣམ་པ་␣ར་ གྲོལ་བ་␣འི་ སྒྲ་ ཕྱིར་ འབྲང༌ ། །"
