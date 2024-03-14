@@ -17796,7 +17796,7 @@ msgstr "The ground is inconceivable."
 
 msgctxt "4e85a5a8e99e42198a431add74689f46"
 msgid "དགེ་བ་␣འི་ ལ་␣ས་ ཀྱི་ རྒྱུ་རྐྱེན་ གྱིས །།"
-msgstr ""
+msgstr "By the cause and condition of virtuous karma,"
 
 msgctxt "d42b3d52013f412d8536f9314b0f36c5"
 msgid "རྨོངས་པ་ རབ་ཏུ་ སྤངས་པ་ ཡིིས ། །"
