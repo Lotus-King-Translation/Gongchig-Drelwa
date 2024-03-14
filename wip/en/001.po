@@ -17881,6 +17881,8 @@ msgid ""
 "སངས་རྒྱས་པ་␣འི་ དུས་ ན་ གནས་ དང་ གནས་མིན་ མཁྱེན་པ་␣འི་ སྟོབས་ ཐོབ་པ་␣ར་ "
 "འགྱུར་ རོ །"
 msgstr ""
+"During the enlightenment, the primordial wisdom of knowing [what is] "
+"appropriate and [what is] inappropriate will be attained."
 
 msgctxt "5cf1b5a877634a0c9d19fba161247314"
 msgid "ཞེས་ སོགས་ གསུངས་ སོ །"
