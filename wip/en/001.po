@@ -18003,7 +18003,7 @@ msgstr "Uninterrupted continuity in the practice of the white Dharma."
 
 msgctxt "466a213c6d3145e68872cc943ffcedb1"
 msgid "མར་ ངན་སོང༌་␣ལ་ དོགས་པ་ མེད་ ཀྱང་"
-msgstr ""
+msgstr "Although there is doubt about the bad migrations,"
 
 msgctxt "9f44c67fdfc24775a371900ddd76eb2a"
 msgid "སྡིག་པ་ ཕྲ་ ཞིང་ ཕྲ་བ་ ལ་ འཛེམ་ ཞེས་ སོགས་ གསུངས་ སོ ། །"
