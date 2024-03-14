@@ -17971,7 +17971,7 @@ msgstr "According to the Sutra of Requisition by Jonpa:"
 
 msgctxt "c911ccc290764f0f95b48ce43eb22bc1"
 msgid "རྒྱུ་ལ་ བརྟེན་པ་␣འི་ མཁས་པ་ བཅོམ་ལྡན་འདས ། །"
-msgstr ""
+msgstr "The Blessed One, you are skilled in relying on causes,"
 
 msgctxt "cb977e8bee7b48f790adf1b0d608f3e0"
 msgid "མཐའ་ གཉིས་ ལྟ་བ་ རྟག་ ཏུ་ མི་ མངའ་བ །"
