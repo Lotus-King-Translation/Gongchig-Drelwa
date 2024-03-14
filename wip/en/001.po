@@ -17812,7 +17812,7 @@ msgstr "Likewise, there are infinite such statements."
 
 msgctxt "a1a8b2e38e9b4718b0f68bde9eaed8b7"
 msgid "མཉམ་བཞག་ ལ་ ཡོན་ཏན་ འབྱུང་བ་ དང་"
-msgstr ""
+msgstr "The arising of good qualities in meditative equipoise and "
 
 msgctxt "e25a700846df4136a2640597dabe258b"
 msgid "རྒྱུ་མ་ བསྒྲུབ་པ་␣ར་ མི་ འབྱུང་བ་ གཉིས་ མི་འགལ་བ་␣ར་"
