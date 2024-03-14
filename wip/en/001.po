@@ -17991,7 +17991,7 @@ msgstr "As said."
 
 msgctxt "053862b2b5fb47bd9ea061ceae0ede52"
 msgid "རྗེ་བཙུན་ གྱིས་ སྒམ་པོ་པ་ ལ་ འགྲོ་ ཆོས་ སུ་ གསུངས་པ །"
-msgstr ""
+msgstr "Jetsun said to Gampopa, the dharma for beings."
 
 msgctxt "9c3d82d7bbd24000a6b0efb8ee294f0e"
 msgid "ཡར་ སངས་རྒྱས་ ལ་ རེ་བ་ མེད་ ཀྱང་"
