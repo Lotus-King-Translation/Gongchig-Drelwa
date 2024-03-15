@@ -18125,7 +18125,7 @@ msgstr "It is like the mixing of two spaces."
 
 msgctxt "b90afbbfac5142838be157454017ca44"
 msgid "དེ་ ནི་ ཉན་ཐོས་ ཀྱི་ མངོན་རྟོགས་ ཡིན་པ་␣འི་ ཕྱིར་ རོ །"
-msgstr ""
+msgstr "This is the manifest realization of the shravaka."
 
 msgctxt "0ddd5d394ce14890940cd5c3d58b2ae0"
 msgid "རྡོ་␣༽༽  སྨིན་གྲོལ་ གཉིས་ ལ་␣ས་"
