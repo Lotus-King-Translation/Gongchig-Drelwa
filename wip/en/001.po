@@ -18129,7 +18129,7 @@ msgstr "This is the manifest realization of the shravaka."
 
 msgctxt "0ddd5d394ce14890940cd5c3d58b2ae0"
 msgid "རྡོ་␣༽༽  སྨིན་གྲོལ་ གཉིས་ ལ་␣ས་"
-msgstr ""
+msgstr "Vajra: From the two [paths] of ripening and liberating."
 
 msgctxt "20cc761d48e74c6c98f6a48b1c82ba0e"
 msgid "གྲོལ་ ལམ་ བསྐྱེད་རྫོགས་ གཉིས་"
