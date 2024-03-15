@@ -18069,7 +18069,7 @@ msgstr "There is not a single phenomenon,"
 
 msgctxt "78db46263c1d4ca3a8f97aacf7b69b35"
 msgid "དེ་ཕྱིར་ སྟོང་ཉིད་ མ་ཡིན་པ་␣འི །།"
-msgstr ""
+msgstr "Because of that, something not being emptiness,"
 
 msgctxt "f36bd619f2ad4702b24dca82950ffe3a"
 msgid "ཞེས་ སོ ། །"
