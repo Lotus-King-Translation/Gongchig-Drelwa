@@ -18061,7 +18061,7 @@ msgstr "And."
 
 msgctxt "01db148b577e4b618d975a0ce69c060b"
 msgid "རྟེན་ ཅིང་ འབྲེལ་ འབྱུང་ མ་གཏོགས་པ་␣འི ། །"
-msgstr ""
+msgstr "Other than dependent origination,"
 
 msgctxt "12e4e8bd005d40c1b50300673129df26"
 msgid "ཆོས་ འགའ་ ཡོད་པ་ མ་ ཡིན་ ནོ ། །"
