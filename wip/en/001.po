@@ -18143,6 +18143,7 @@ msgstr "The completion stage has the signless mahamudra and "
 msgctxt "feff4dcd65bc49b1a1bea398727df7c9"
 msgid "མཚན་བཅས་ ཆོས་ དྲུག་ སོགས་ ཐབས་ལམ་ རྣམས་ དང་ གཉིས་ ལ་␣ས་"
 msgstr ""
+"The six Dharmas with signs, and other paths of the method. From these two"
 
 msgctxt "83a8b6cfae584f1293128fcc21aa0e47"
 msgid "ཐབས་ལམ་ དེ་ རྟོགས་པ་ མ་ སྐྱེ་བ་␣ར་ དགོངས་ ཤིང་"
