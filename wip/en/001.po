@@ -18155,7 +18155,7 @@ msgstr "When it is produced, it is not required because"
 
 msgctxt "254a3d9c2c6e42c3b612f1c5dbf45be2"
 msgid "ཆུ་ བརྒལ་ ཟིན་པ་␣འི་ ཟམ་པ་ བཞིན་ ནོ་ ཞེས་ ཟེར་ རོ །"
-msgstr ""
+msgstr "It is like a bridge that has already been crossed."
 
 msgctxt "3a03cd6f240242639dc2154cc04a5f42"
 msgid "འདི་␣ར་ ནི་ རྟོགས་པ་ དང་ ལྡན་པ་␣འི་ རྣལ་འབྱོར་པ་ ལ་ ཡང་"
