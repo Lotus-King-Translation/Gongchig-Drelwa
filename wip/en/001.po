@@ -18027,7 +18027,7 @@ msgstr "The equality of all phenomena, "
 
 msgctxt "fc4080154b2d44778e8c27d7f1af174e"
 msgid "རྣམ་པ་␣ར་ སྤྲོས་པ་␣འི་ ཏིང་འཛིན་ གྱི་ རྒྱལ་པོ་ ཞེས་པ་"
-msgstr ""
+msgstr "The king of elaborate meditative concentration means"
 
 msgctxt "5c10236142984a3daeb8314266184b4e"
 msgid "མཉམ་པ་ཉིད་ ནི་ སྟོང་ཉིད་ དང་"
