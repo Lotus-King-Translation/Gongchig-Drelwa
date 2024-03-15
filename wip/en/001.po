@@ -18087,6 +18087,8 @@ msgctxt "979427a7e4624a46a0222be92d316027"
 msgid ""
 "རྒྱུ་འབྲས་ ཀྱི་ སྤུ་རིས་ མི་ འདོར་བ་ ཉིད་ དུ་ ལྡང་བ་␣འམ་ འབྱུང་བ་ ཡིན་ ནོ །"
 msgstr ""
+"It arises or occurs without discarding the fine distinction of cause and "
+"result."
 
 msgctxt "0a9dc060dfbf4f08851aabf5af048b42"
 msgid ""
