@@ -18134,6 +18134,7 @@ msgstr "Vajra: From the two [paths] of ripening and liberating."
 msgctxt "20cc761d48e74c6c98f6a48b1c82ba0e"
 msgid "གྲོལ་ ལམ་ བསྐྱེད་རྫོགས་ གཉིས་"
 msgstr ""
+"The path of liberation is the two [stages] of generation and completion."
 
 msgctxt "40984f4feef74d8eabfcb6fd57c3a280"
 msgid "རྫོགས་རིམ་ ལ་ མཚན་མེད་ ཕྱག་རྒྱ་ ཆེན་པོ་ དང་"
