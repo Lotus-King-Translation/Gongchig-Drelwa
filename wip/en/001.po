@@ -18180,7 +18180,7 @@ msgstr "The causes are all the paths of methods such as tummo and generosity,"
 
 msgctxt "b39ff9f02d0a41f781f52f4cf270d90a"
 msgid "ཉམས་ སུ་ ལེན་པ་␣འི་ སྟོང་ཉིད་"
-msgstr ""
+msgstr "the practice of emptiness,"
 
 msgctxt "ce8aa1468d5b4c29ac65c47c70254557"
 msgid "རྒྱུ་འབྲས་ སུ་ འབྱུང་བ་␣འི་ ཕྱིར་ དང་ །"
