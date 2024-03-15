@@ -18103,7 +18103,7 @@ msgstr "Some accept that the two spaces become mixed together"
 
 msgctxt "831da4868c304b03ac1ff670114b9c44"
 msgid "མཐར་ཐུག་ ཏུ་ འགའ་ཞིག་ འདོད་ དོ །"
-msgstr ""
+msgstr " In the end."
 
 msgctxt "5f48741f461448ce909fc084bbd88a98"
 msgid "འདི་␣ར་ ནི་ དེ་ ནི་ མཐར་ཐུག་ མ་ ཡིན་ ཏེ་"
