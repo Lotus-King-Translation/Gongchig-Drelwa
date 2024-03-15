@@ -18164,7 +18164,7 @@ msgstr "In this [system], Even a yogin who has the realization"
 
 msgctxt "ce154e4edf4d48c983c6884fefccbb9c"
 msgid "ཐབས་ལམ་ ལྷག་པར་ དགོས་ ཏེ་"
-msgstr ""
+msgstr "Needs a special path of method."
 
 msgctxt "ce4356d2ad044b9ebb93be3a7a472b47"
 msgid "མ་ རྟོགས་པ་␣འི་ སེམས་ཅན་ རྣམས་ སྨིན་གྲོལ་ བྱེད་པ་␣འི་ དོན་ དུ་"
