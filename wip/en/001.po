@@ -18081,7 +18081,7 @@ msgstr "Therefore, at the time of attaining the ultimate omniscience,"
 
 msgctxt "a6a4805367aa4493b2432f63ea4e2c06"
 msgid "སྤྲོས་པ་ བྲལ་བ་␣འི་ ངང་ ལ་␣ས་"
-msgstr ""
+msgstr "From within the state free of elaboration,"
 
 msgctxt "979427a7e4624a46a0222be92d316027"
 msgid ""
