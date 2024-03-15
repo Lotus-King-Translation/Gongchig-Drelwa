@@ -18168,7 +18168,7 @@ msgstr "Needs a special path of method."
 
 msgctxt "ce4356d2ad044b9ebb93be3a7a472b47"
 msgid "མ་ རྟོགས་པ་␣འི་ སེམས་ཅན་ རྣམས་ སྨིན་གྲོལ་ བྱེད་པ་␣འི་ དོན་ དུ་"
-msgstr ""
+msgstr "To ripen and liberate sentient beings who have not realized it, "
 
 msgctxt "177779d02d644d9aa5018ed5e7c0693d"
 msgid "རྫུ་འཕྲུལ་ དང་ མངོནཤེས་ ཡ་མ་ཟུང་ དགོས་ ཤིང་ །"
