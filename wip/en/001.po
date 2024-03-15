@@ -18049,7 +18049,7 @@ msgstr "That as well."
 
 msgctxt "00777f9667054024b51bc54548889f87"
 msgid "གང་ ལ་སྟོང་པ་ ཉིད་ རུང་བ ། །"
-msgstr ""
+msgstr "For whomever emptiness is suitable,"
 
 msgctxt "768cc3b951e34f63a17531b52fdb8876"
 msgid "དེ་ ལ་ ཐམས་ཅད་ རུང་བ་␣ར་ གྱུར །"
