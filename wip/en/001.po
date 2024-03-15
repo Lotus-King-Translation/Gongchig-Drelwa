@@ -18041,7 +18041,7 @@ msgstr ""
 
 msgctxt "29b6707743cb4aa2be43acba585d9f3d"
 msgid "མི་འགལ་བ་␣ར་ བསྟན་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "As they are shown as non-contradictory."
 
 msgctxt "88e589161c6f437e84e7c4aef853d1ab"
 msgid "དེ་ལྟར་ ཡང་ །"
