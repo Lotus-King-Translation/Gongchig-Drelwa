@@ -18065,7 +18065,7 @@ msgstr "Other than dependent origination,"
 
 msgctxt "12e4e8bd005d40c1b50300673129df26"
 msgid "ཆོས་ འགའ་ ཡོད་པ་ མ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "There is not a single phenomenon,"
 
 msgctxt "78db46263c1d4ca3a8f97aacf7b69b35"
 msgid "དེ་ཕྱིར་ སྟོང་ཉིད་ མ་ཡིན་པ་␣འི །།"
