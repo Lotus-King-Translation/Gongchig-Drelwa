@@ -18023,7 +18023,7 @@ msgstr "According to The King of Meditative Concentration [Sutra]:"
 
 msgctxt "627e9e304b9a464aaddadc07daa4ee09"
 msgid "ཆོས་ ཐམས་ཅད་ མཉམ་པ་ཉིད་"
-msgstr ""
+msgstr "The equality of all phenomena, "
 
 msgctxt "fc4080154b2d44778e8c27d7f1af174e"
 msgid "རྣམ་པ་␣ར་ སྤྲོས་པ་␣འི་ ཏིང་འཛིན་ གྱི་ རྒྱལ་པོ་ ཞེས་པ་"
