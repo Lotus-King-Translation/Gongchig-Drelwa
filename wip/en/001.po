@@ -18172,7 +18172,7 @@ msgstr "To ripen and liberate sentient beings who have not realized it, "
 
 msgctxt "177779d02d644d9aa5018ed5e7c0693d"
 msgid "རྫུ་འཕྲུལ་ དང་ མངོནཤེས་ ཡ་མ་ཟུང་ དགོས་ ཤིང་ །"
-msgstr ""
+msgstr "[He] must use miraculous powers and clairvoyance."
 
 msgctxt "627bab2e396f4ee2baa00fe4a82dffd6"
 msgid "དེ་␣འི་ རྒྱུ་ གཏུམ་མོ་ དང་ སྦྱིན་ སོགས་ ཐབས་ ཀྱི་ ལམ་ ཐམས་ཅད་"
