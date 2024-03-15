@@ -18151,7 +18151,7 @@ msgstr "The realization of that path of method is considered as not produced,"
 
 msgctxt "7330921383b34e218aea01b116605af1"
 msgid "སྐྱེས་ ནས་ མི་ དགོས་ ཏེ་"
-msgstr ""
+msgstr "When it is produced, it is not required because"
 
 msgctxt "254a3d9c2c6e42c3b612f1c5dbf45be2"
 msgid "ཆུ་ བརྒལ་ ཟིན་པ་␣འི་ ཟམ་པ་ བཞིན་ ནོ་ ཞེས་ ཟེར་ རོ །"
