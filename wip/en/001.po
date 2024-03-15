@@ -18053,7 +18053,7 @@ msgstr "For whomever emptiness is suitable,"
 
 msgctxt "768cc3b951e34f63a17531b52fdb8876"
 msgid "དེ་ ལ་ ཐམས་ཅད་ རུང་བ་␣ར་ གྱུར །"
-msgstr ""
+msgstr "To them, everything becomes suitable."
 
 msgctxt "dd169d56c0654f57aa681d448a625fe9"
 msgid "ཞེས་ དང༌ །"
