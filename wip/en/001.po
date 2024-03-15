@@ -18111,7 +18111,7 @@ msgstr "In this [system], it is not the ultimate because"
 
 msgctxt "8515a8c0494b437197a1623b4016cfa7"
 msgid "ཡུལ་ ཡུལ་ཅན་ གཉིས་ཀ་ སྟོང་ ཞིང་"
-msgstr ""
+msgstr "Both subject and object are empty and "
 
 msgctxt "53f30b4a09954dcc91b24835575f9e85"
 msgid "རྒྱུ་འབྲས་ ཀྱི་ རྟེན་འབྲེལ་ མངོན་དུ་ མ་ གྱུར་པ་␣འི་ སྟོང་པ་ རྐྱང་པ །"
