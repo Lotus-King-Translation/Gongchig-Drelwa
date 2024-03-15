@@ -18121,7 +18121,7 @@ msgstr ""
 
 msgctxt "55b7d8b2bb574e2c95d5522c3b454b75"
 msgid "ནམ་མཁའ་ གཉིས་ འདྲེས་ ལྟ་བུ་"
-msgstr ""
+msgstr "It is like the mixing of two spaces."
 
 msgctxt "b90afbbfac5142838be157454017ca44"
 msgid "དེ་ ནི་ ཉན་ཐོས་ ཀྱི་ མངོན་རྟོགས་ ཡིན་པ་␣འི་ ཕྱིར་ རོ །"
