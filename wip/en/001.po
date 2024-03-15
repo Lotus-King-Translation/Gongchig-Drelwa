@@ -18094,6 +18094,8 @@ msgctxt "0a9dc060dfbf4f08851aabf5af048b42"
 msgid ""
 "ལྷན་␣༽༽  བསྒོམ་ བྱ་ སྒོམ་ བྱེད་ གཉིས་ མེད་ དོན་དམ་ ཆོས་དབྱིངས་ རྟོགས་ ན་"
 msgstr ""
+"Addendum: If you realize the ultimate expanse of dharmas, the nonduality of "
+"meditator and object of meditation,"
 
 msgctxt "bbe27e6bab4d455596cf89b074235591"
 msgid "ནམ་མཁའ་ གཉིས་ འདྲེས་ བཞིན་ དུ་ གྱུར་བ་ དེ་"
