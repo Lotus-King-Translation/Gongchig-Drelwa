@@ -18036,6 +18036,8 @@ msgstr "The equality is emptiness and "
 msgctxt "e809d61ca0f74f3cb0ff59a966db74a2"
 msgid "རྣམ་པ་␣ར་ སྤྲོས་པ་ རྒྱུ་འབྲས་ ཀྱི་ རྟེན་འབྲེལ་ སྤྲོས་པ་ གཉིས་"
 msgstr ""
+"The elaboration is the two elaborations of the interdependent relationship "
+"of cause and effect."
 
 msgctxt "29b6707743cb4aa2be43acba585d9f3d"
 msgid "མི་འགལ་བ་␣ར་ བསྟན་པ་ བཞིན་ ནོ ། །"
