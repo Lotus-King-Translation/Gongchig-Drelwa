@@ -18138,7 +18138,7 @@ msgstr ""
 
 msgctxt "40984f4feef74d8eabfcb6fd57c3a280"
 msgid "རྫོགས་རིམ་ ལ་ མཚན་མེད་ ཕྱག་རྒྱ་ ཆེན་པོ་ དང་"
-msgstr ""
+msgstr "The completion stage has the signless mahamudra and "
 
 msgctxt "feff4dcd65bc49b1a1bea398727df7c9"
 msgid "མཚན་བཅས་ ཆོས་ དྲུག་ སོགས་ ཐབས་ལམ་ རྣམས་ དང་ གཉིས་ ལ་␣ས་"
