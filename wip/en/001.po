@@ -18099,7 +18099,7 @@ msgstr ""
 
 msgctxt "bbe27e6bab4d455596cf89b074235591"
 msgid "ནམ་མཁའ་ གཉིས་ འདྲེས་ བཞིན་ དུ་ གྱུར་བ་ དེ་"
-msgstr ""
+msgstr "Some accept that the two spaces become mixed together"
 
 msgctxt "831da4868c304b03ac1ff670114b9c44"
 msgid "མཐར་ཐུག་ ཏུ་ འགའ་ཞིག་ འདོད་ དོ །"
