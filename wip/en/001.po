@@ -18107,7 +18107,7 @@ msgstr " Accepted by some people as the ultimate."
 
 msgctxt "5f48741f461448ce909fc084bbd88a98"
 msgid "འདི་␣ར་ ནི་ དེ་ ནི་ མཐར་ཐུག་ མ་ ཡིན་ ཏེ་"
-msgstr ""
+msgstr "In this [system], it is not the ultimate because"
 
 msgctxt "8515a8c0494b437197a1623b4016cfa7"
 msgid "ཡུལ་ ཡུལ་ཅན་ གཉིས་ཀ་ སྟོང་ ཞིང་"
