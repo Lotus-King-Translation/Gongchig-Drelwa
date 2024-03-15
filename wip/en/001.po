@@ -18116,6 +18116,8 @@ msgstr "Both subject and object are empty and "
 msgctxt "53f30b4a09954dcc91b24835575f9e85"
 msgid "རྒྱུ་འབྲས་ ཀྱི་ རྟེན་འབྲེལ་ མངོན་དུ་ མ་ གྱུར་པ་␣འི་ སྟོང་པ་ རྐྱང་པ །"
 msgstr ""
+"The non-manifesting of the interdependence of cause and effect is the mere "
+"emptiness."
 
 msgctxt "55b7d8b2bb574e2c95d5522c3b454b75"
 msgid "ནམ་མཁའ་ གཉིས་ འདྲེས་ ལྟ་བུ་"
