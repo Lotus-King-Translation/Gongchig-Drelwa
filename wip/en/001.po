@@ -18031,7 +18031,7 @@ msgstr "The king of elaborated meditative concentration are"
 
 msgctxt "5c10236142984a3daeb8314266184b4e"
 msgid "མཉམ་པ་ཉིད་ ནི་ སྟོང་ཉིད་ དང་"
-msgstr ""
+msgstr "The equality is emptiness and "
 
 msgctxt "e809d61ca0f74f3cb0ff59a966db74a2"
 msgid "རྣམ་པ་␣ར་ སྤྲོས་པ་ རྒྱུ་འབྲས་ ཀྱི་ རྟེན་འབྲེལ་ སྤྲོས་པ་ གཉིས་"
