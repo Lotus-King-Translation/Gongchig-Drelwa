@@ -18147,7 +18147,7 @@ msgstr ""
 
 msgctxt "83a8b6cfae584f1293128fcc21aa0e47"
 msgid "ཐབས་ལམ་ དེ་ རྟོགས་པ་ མ་ སྐྱེ་བ་␣ར་ དགོངས་ ཤིང་"
-msgstr ""
+msgstr "The realization of that path of method is considered as not produced,"
 
 msgctxt "7330921383b34e218aea01b116605af1"
 msgid "སྐྱེས་ ནས་ མི་ དགོས་ ཏེ་"
