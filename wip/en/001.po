@@ -18188,7 +18188,7 @@ msgstr "As they arise in cause and effect, and"
 
 msgctxt "b053a46ba5504d0c99f57f7c10e78a80"
 msgid "དེ་དག་ དང་ དོན་མཐུན་པ་␣ར་ སྤྱོད་ དགོས་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "It needs to act in accord with their meaning."
 
 msgctxt "12d59e7a08d0400d90eea8a2195fa1e4"
 msgid "དེ་ལྟ་ ཡང །"
