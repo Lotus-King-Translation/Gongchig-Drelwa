@@ -18160,7 +18160,7 @@ msgstr "It is like a bridge that has already been crossed."
 
 msgctxt "3a03cd6f240242639dc2154cc04a5f42"
 msgid "འདི་␣ར་ ནི་ རྟོགས་པ་ དང་ ལྡན་པ་␣འི་ རྣལ་འབྱོར་པ་ ལ་ ཡང་"
-msgstr ""
+msgstr "In this [system], Even a yogin who has the realization"
 
 msgctxt "ce154e4edf4d48c983c6884fefccbb9c"
 msgid "ཐབས་ལམ་ ལྷག་པར་ དགོས་ ཏེ་"
