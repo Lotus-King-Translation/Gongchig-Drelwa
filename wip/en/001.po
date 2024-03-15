@@ -18184,7 +18184,7 @@ msgstr "the practice of emptiness,"
 
 msgctxt "ce8aa1468d5b4c29ac65c47c70254557"
 msgid "རྒྱུ་འབྲས་ སུ་ འབྱུང་བ་␣འི་ ཕྱིར་ དང་ །"
-msgstr ""
+msgstr "As they arise in cause and effect, and"
 
 msgctxt "b053a46ba5504d0c99f57f7c10e78a80"
 msgid "དེ་དག་ དང་ དོན་མཐུན་པ་␣ར་ སྤྱོད་ དགོས་པ་␣འི་ ཕྱིར་ རོ ། །"
