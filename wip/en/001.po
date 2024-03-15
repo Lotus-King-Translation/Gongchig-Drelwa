@@ -18176,7 +18176,7 @@ msgstr "[He] must use miraculous powers and clairvoyance."
 
 msgctxt "627bab2e396f4ee2baa00fe4a82dffd6"
 msgid "དེ་␣འི་ རྒྱུ་ གཏུམ་མོ་ དང་ སྦྱིན་ སོགས་ ཐབས་ ཀྱི་ ལམ་ ཐམས་ཅད་"
-msgstr ""
+msgstr "The causes are all the paths of methods such as tummo and generosity,"
 
 msgctxt "b39ff9f02d0a41f781f52f4cf270d90a"
 msgid "ཉམས་ སུ་ ལེན་པ་␣འི་ སྟོང་ཉིད་"
