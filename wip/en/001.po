@@ -18332,7 +18332,7 @@ msgstr "Pass outside and restrain the rest."
 
 msgctxt "cee0a4dcb4804a6a93031abd5d4806e3"
 msgid "དེ་ ནི་ གཞིལ་བ་␣འི་ རླུང་ སྦྱོར་ རོ ། །"
-msgstr ""
+msgstr "That is the prana practice of removing,"
 
 msgctxt "74e2a11dd90d4ac2bf1f54289834c4eb"
 msgid "བསྡམས་པ་␣ས་ མ་ ཐུབ་ གཏོང་ དུས་ སུ ། །"
