@@ -18252,7 +18252,7 @@ msgstr "First, meditate for a few days in an empty [place]."
 
 msgctxt "9c5b24e8cb774bbe8dec20fc02bcfb82"
 msgid "དེ་ནས་ སྣ་བུག་ གཉིས་ ཀྱི་ རླུང་ ། །"
-msgstr ""
+msgstr "Then, the winds of the two nostrils,"
 
 msgctxt "216725e0b3a3420c90204d4e860a8f95"
 msgid "དྲག་པོ་ ལན་ གསུམ་ ཕྱི་རུ་ འབུད ། །"
