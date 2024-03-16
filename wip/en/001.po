@@ -18288,7 +18288,7 @@ msgstr "That is the prana practice of inhalation."
 
 msgctxt "c8c02e55449644588007232be921a911"
 msgid "རླུང་ ནི་ གཡས་གཡོན་ གཉིས་ ན་མ་␣ར ། །"
-msgstr ""
+msgstr "The winds are on the right and left, moving downward,"
 
 msgctxt "7736063489c348f48a2e65885bb454ab"
 msgid "ལུག་ རྒྱུད་ རྒྱུ་མ་ ཕུ་␣ས་ བཏབ་ བཞིན ། །"
