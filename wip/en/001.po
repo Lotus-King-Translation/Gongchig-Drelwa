@@ -18312,7 +18312,7 @@ msgstr "Then, the winds are brought into the stomach,"
 
 msgctxt "3496f67c3be24651a8eb0ae6d1166b4c"
 msgid "ཐུབ་ ཀྱང་ དྲག་ ཏུ་ མནན་པ་␣ར་ བྱ ། །"
-msgstr ""
+msgstr "Even if one can, it should be suppressed strongly."
 
 msgctxt "26af829af72b42cc9759b342fa40107a"
 msgid "མི་ ཐུབ་ དུས་ སུ་ ཅུང་ཟད་ རྔུབ ། །"
