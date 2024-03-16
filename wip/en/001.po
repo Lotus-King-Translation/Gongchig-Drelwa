@@ -18228,7 +18228,7 @@ msgstr "By carrying the great burden of sentient beings on their heads,"
 
 msgctxt "6166ae778f984814a984be235b096975"
 msgid "སེམས་དཔའ་ མཆོག་ རྣམས་ དལ་ གྱིས་ འགྲོ་ མི་ མཛེས ། །"
-msgstr ""
+msgstr "The supreme bodhisattvas do not stroll,"
 
 msgctxt "af71e366b6d640fd811bc1925402a5ca"
 msgid "ཞེས་པ་␣ས་ སྒྲུབ་ རྒྱུད་ འདི་␣འི་ གོང་མ་ རྣམས་ ཀྱིས་ མཛད་པ་ བཞིན་ ནོ །"
