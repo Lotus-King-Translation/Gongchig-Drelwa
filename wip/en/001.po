@@ -18344,7 +18344,7 @@ msgstr "Upward directly from both nostrils,"
 
 msgctxt "cfc5fcfc6aaf4506aef29abbe667a426"
 msgid "ཆ་ གཅིག་ ཙམ་ གཅིག་ དལ་བར་ བཏང༌ ། །"
-msgstr ""
+msgstr "One side of it was released slowly."
 
 msgctxt "087fa9226ce94c0fb961b47a9960ec35"
 msgid "དམིགས་པ་ དབུ་མ་␣འི་ ནང་ ལ་ ཡར ། །"
