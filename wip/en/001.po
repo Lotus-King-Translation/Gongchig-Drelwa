@@ -18212,7 +18212,7 @@ msgstr "The mind is for the sake of others..X"
 
 msgctxt "9fd6da73c093418d918465c5497b67b4"
 msgid "འགྱུར་བ་ ཉིད་ དུ་␣x"
-msgstr ""
+msgstr "In the transformation..X"
 
 msgctxt "a1aeab217d4143aa8ad7eb5ecb1b7e36"
 msgid "ཅེས་ དང༌ །"
