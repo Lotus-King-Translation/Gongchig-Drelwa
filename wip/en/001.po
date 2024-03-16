@@ -18316,7 +18316,7 @@ msgstr "Even if one can, it should be suppressed strongly."
 
 msgctxt "26af829af72b42cc9759b342fa40107a"
 msgid "མི་ ཐུབ་ དུས་ སུ་ ཅུང་ཟད་ རྔུབ ། །"
-msgstr ""
+msgstr "When one is not able to [hold], inhale a little."
 
 msgctxt "7da11c1e753f4fd98e51cf4061dfc65f"
 msgid "དེ་␣ས་ ཀྱང་ མ་ ཐུབ་ སྣ་ གཉིས་ ནས ། །"
