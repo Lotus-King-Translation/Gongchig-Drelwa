@@ -18243,6 +18243,8 @@ msgstr "Addendum: Others accept that,"
 msgctxt "9131822b68c4481d904a507b55adc2e0"
 msgid "མཚན་བཅས་ ཀྱི་ རྫོགས་རིམ་ རླུང་ སྦྱོར་བ་ བཞི་ ལྡན་ ནི་␣༑"
 msgstr ""
+"The completion stage with characteristics, endowed with four wind "
+"connections, is as follows."
 
 msgctxt "771553ec4264474b9f6fb59bd8db0971"
 msgid "དང་པོ་ ཞག་འགའ་ སྟོང་པ་␣ར་ བསྒོམས །"
