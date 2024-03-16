@@ -18300,7 +18300,7 @@ msgstr "Although Harara went away,"
 
 msgctxt "6f780b9ea42e4e1cb5510950f5e5ef6a"
 msgid "དབུ་མ་␣འི་ ནང་ དུ་ ཞུགས་པ་␣ར་ བསམ ། །"
-msgstr ""
+msgstr "Thought that they entered the central [channel]."
 
 msgctxt "0271b606deb045feb4b2fa1a4e96ee69"
 msgid "དེ་ ནི་ འགང་བ་␣འི་ རླུང་ སྦྱོར་ རོ ། །"
