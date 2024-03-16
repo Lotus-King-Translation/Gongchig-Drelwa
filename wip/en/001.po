@@ -18340,7 +18340,7 @@ msgstr "When unable to restrain during realising, "
 
 msgctxt "b684cb97c6244d08b729e8e73f7e18ec"
 msgid "དངོས་ སུ་ སྣ་བུག་ གཉིས་ ན་ ཡར ། །"
-msgstr ""
+msgstr "Upward directly from both nostrils,"
 
 msgctxt "cfc5fcfc6aaf4506aef29abbe667a426"
 msgid "ཆ་ གཅིག་ ཙམ་ གཅིག་ དལ་བར་ བཏང༌ ། །"
