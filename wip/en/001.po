@@ -18268,7 +18268,7 @@ msgstr "Then, the winds from both nostrils"
 
 msgctxt "fe1c84236c934a879560f63b55233593"
 msgid "ལྕགས་ཀྱུ་ བཞིན་ དུ་ དགུག་པ་␣ར་ བྱ ། །"
-msgstr ""
+msgstr "Draw in like an iron hook,"
 
 msgctxt "5c38f0f8e127486f9d20e35d0b6f9417"
 msgid "དེ་ཡང་ འཇམ་ ལ་ རིང་བ་␣འོ ། །"
