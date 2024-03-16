@@ -18280,7 +18280,7 @@ msgstr "By that the winds will enter their own places,"
 
 msgctxt "b12a076de3e14d58b7970e1cfc2e1394"
 msgid "དྲག་ན་ རྩ་ གནས་ གཞན་ དུ་ དབྱེ་␣ར ། །"
-msgstr ""
+msgstr "If strong, they will be classified in other channel locations."
 
 msgctxt "45cc763982374eb5adfa3b0548d12bb8"
 msgid "དེ་ ནི་ རྔུབ་པ་␣འི་ རླུང་ སྦྱོར་ ཡིན་␣༑ ༑"
