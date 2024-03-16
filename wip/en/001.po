@@ -18308,7 +18308,7 @@ msgstr "That is the prana practice of filling."
 
 msgctxt "6ec4a469b8ab46f8acac0f41c6e87fe7"
 msgid "དེ་ནས་ ཕོ་བ་␣ར་ རླུང་ བཅུག་ ལ་␣༑ །"
-msgstr ""
+msgstr "Then, the winds are brought into the stomach,"
 
 msgctxt "3496f67c3be24651a8eb0ae6d1166b4c"
 msgid "ཐུབ་ ཀྱང་ དྲག་ ཏུ་ མནན་པ་␣ར་ བྱ ། །"
