@@ -18324,7 +18324,7 @@ msgstr "If that is not able to, from the two nostrils,"
 
 msgctxt "46c2d15cff704f12a5869a3e214fd439"
 msgid "སེ་གོལ་ གཏོགས་པ་␣འི་ ཚད་ ཙམ་ ཞིག  །"
-msgstr ""
+msgstr "With the span of a finger snap,"
 
 msgctxt "b7f248efadf74d8f95c406cf4c7eb382"
 msgid "ཕྱི་རུ་ བཏང་ ལ་ ལྷག་མ་ བསྡམས ། །"
