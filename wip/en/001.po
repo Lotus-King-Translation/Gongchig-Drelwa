@@ -18224,7 +18224,7 @@ msgstr "Lord Maitreya says:"
 
 msgctxt "eefd949c5ab0493ba77b3a911f00b200"
 msgid "མགོ་ ལ་ སེམས་ཅན་ ཁུར་ཆེན་ ཁྱེར་བ་ ཡི ། །"
-msgstr ""
+msgstr "By carrying the great burden of sentient beings on their heads,"
 
 msgctxt "6166ae778f984814a984be235b096975"
 msgid "སེམས་དཔའ་ མཆོག་ རྣམས་ དལ་ གྱིས་ འགྲོ་ མི་ མཛེས ། །"
