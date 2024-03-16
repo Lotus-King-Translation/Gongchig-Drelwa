@@ -18260,7 +18260,7 @@ msgstr "Blow out three times forcefully,"
 
 msgctxt "b14035a728b346148a0d90e34995999b"
 msgid "དེ་ལྟར་ མ་ བྱས་ ནང་ དུ་ འགྲོ ། །"
-msgstr "Do not do this, go inside,"
+msgstr "Do not do this, go inside."
 
 msgctxt "feb883c378f24c67ad50f689ab5a6ad1"
 msgid "དེ་ནས་ སྣ་ཐུག་ གཉིས་ ཀྱི་ རླུང༌ ། །"
