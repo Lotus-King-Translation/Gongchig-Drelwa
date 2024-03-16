@@ -18200,7 +18200,7 @@ msgstr "The master said:"
 
 msgctxt "769c6b2c96834b62932a4ed87d9fad44"
 msgid "དེ་ལྟར་ རྣལ་འབྱོར་པ་ རྣམས་ ཀྱི ། །"
-msgstr ""
+msgstr "In that way, all the yogins"
 
 msgctxt "a4c83bc5fff4418d9010ae4d09e4a8a1"
 msgid "སྟོང་པ་ཉིད་ ནི་␣x"
