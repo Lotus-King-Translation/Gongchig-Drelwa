@@ -18328,7 +18328,7 @@ msgstr "With the span of a finger snap,"
 
 msgctxt "b7f248efadf74d8f95c406cf4c7eb382"
 msgid "ཕྱི་རུ་ བཏང་ ལ་ ལྷག་མ་ བསྡམས ། །"
-msgstr "Exhale and restrain the rest."
+msgstr "Pass outside and restrain the rest."
 
 msgctxt "cee0a4dcb4804a6a93031abd5d4806e3"
 msgid "དེ་ ནི་ གཞིལ་བ་␣འི་ རླུང་ སྦྱོར་ རོ ། །"
