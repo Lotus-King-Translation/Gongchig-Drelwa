@@ -18304,7 +18304,7 @@ msgstr "Thought that they entered the central [channel]."
 
 msgctxt "0271b606deb045feb4b2fa1a4e96ee69"
 msgid "དེ་ ནི་ འགང་བ་␣འི་ རླུང་ སྦྱོར་ རོ ། །"
-msgstr ""
+msgstr "That is the prana practice of filling."
 
 msgctxt "6ec4a469b8ab46f8acac0f41c6e87fe7"
 msgid "དེ་ནས་ ཕོ་བ་␣ར་ རླུང་ བཅུག་ ལ་␣༑ །"
