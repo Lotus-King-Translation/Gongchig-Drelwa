@@ -18208,7 +18208,7 @@ msgstr "Emptiness is ..X"
 
 msgctxt "676e32e2b05f4ef8961af0caa26537cd"
 msgid "བློ་ ནི་ གཞན་དོན་␣x"
-msgstr ""
+msgstr "The mind is for the sake of others..X"
 
 msgctxt "9fd6da73c093418d918465c5497b67b4"
 msgid "འགྱུར་བ་ ཉིད་ དུ་␣x"
