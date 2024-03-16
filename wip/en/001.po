@@ -18248,7 +18248,7 @@ msgstr ""
 
 msgctxt "771553ec4264474b9f6fb59bd8db0971"
 msgid "དང་པོ་ ཞག་འགའ་ སྟོང་པ་␣ར་ བསྒོམས །"
-msgstr ""
+msgstr "First, meditate for a few days in an empty [place]."
 
 msgctxt "9c5b24e8cb774bbe8dec20fc02bcfb82"
 msgid "དེ་ནས་ སྣ་བུག་ གཉིས་ ཀྱི་ རླུང་ ། །"
