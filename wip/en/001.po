@@ -18276,7 +18276,7 @@ msgstr "That too, gently and long."
 
 msgctxt "b982cbb81473400f83153dc3bd39d901"
 msgid "དེ་ ཡིས་ རླུང་ ནི་ རང་གནས་ ཚུད ། །"
-msgstr ""
+msgstr "By that the winds will enter their own places,"
 
 msgctxt "b12a076de3e14d58b7970e1cfc2e1394"
 msgid "དྲག་ན་ རྩ་ གནས་ གཞན་ དུ་ དབྱེ་␣ར ། །"
