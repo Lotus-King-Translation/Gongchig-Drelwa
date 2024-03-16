@@ -18204,7 +18204,7 @@ msgstr "In that way, all the yogins"
 
 msgctxt "a4c83bc5fff4418d9010ae4d09e4a8a1"
 msgid "སྟོང་པ་ཉིད་ ནི་␣x"
-msgstr ""
+msgstr "Emptiness is ..X"
 
 msgctxt "676e32e2b05f4ef8961af0caa26537cd"
 msgid "བློ་ ནི་ གཞན་དོན་␣x"
