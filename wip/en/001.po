@@ -18336,7 +18336,7 @@ msgstr "That is the prana practice of removing,"
 
 msgctxt "74e2a11dd90d4ac2bf1f54289834c4eb"
 msgid "བསྡམས་པ་␣ས་ མ་ ཐུབ་ གཏོང་ དུས་ སུ ། །"
-msgstr ""
+msgstr "When unable to restrain during realising, "
 
 msgctxt "b684cb97c6244d08b729e8e73f7e18ec"
 msgid "དངོས་ སུ་ སྣ་བུག་ གཉིས་ ན་ ཡར ། །"
