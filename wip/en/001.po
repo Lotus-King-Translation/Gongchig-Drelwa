@@ -18296,7 +18296,7 @@ msgstr ""
 
 msgctxt "b7abb8a7183147899edc4be839ab3c7c"
 msgid "ཧ་ ར་ར་ ནི་ སོང་ ནས་ ཀྱང་ ། །"
-msgstr ""
+msgstr "Although Harara went away,"
 
 msgctxt "6f780b9ea42e4e1cb5510950f5e5ef6a"
 msgid "དབུ་མ་␣འི་ ནང་ དུ་ ཞུགས་པ་␣ར་ བསམ ། །"
