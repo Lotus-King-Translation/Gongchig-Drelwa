@@ -18272,7 +18272,7 @@ msgstr "Draw in like an iron hook,"
 
 msgctxt "5c38f0f8e127486f9d20e35d0b6f9417"
 msgid "དེ་ཡང་ འཇམ་ ལ་ རིང་བ་␣འོ ། །"
-msgstr ""
+msgstr "That too, gently and long."
 
 msgctxt "b982cbb81473400f83153dc3bd39d901"
 msgid "དེ་ ཡིས་ རླུང་ ནི་ རང་གནས་ ཚུད ། །"
