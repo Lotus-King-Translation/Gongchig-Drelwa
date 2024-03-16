@@ -18256,7 +18256,7 @@ msgstr "Then, the winds of the two nostrils,"
 
 msgctxt "216725e0b3a3420c90204d4e860a8f95"
 msgid "དྲག་པོ་ ལན་ གསུམ་ ཕྱི་རུ་ འབུད ། །"
-msgstr ""
+msgstr "Blow out three times forcefully,"
 
 msgctxt "b14035a728b346148a0d90e34995999b"
 msgid "དེ་ལྟར་ མ་ བྱས་ ནང་ དུ་ འགྲོ ། །"
