@@ -18233,6 +18233,8 @@ msgstr "The supreme bodhisattvas do not stroll,"
 msgctxt "af71e366b6d640fd811bc1925402a5ca"
 msgid "ཞེས་པ་␣ས་ སྒྲུབ་ རྒྱུད་ འདི་␣འི་ གོང་མ་ རྣམས་ ཀྱིས་ མཛད་པ་ བཞིན་ ནོ །"
 msgstr ""
+"This is similar to what was done by the previous masters of this practice "
+"lineage."
 
 msgctxt "381c60deba4248fb8dd8cffabe83652a"
 msgid "ལྷན་␣༽༽  གཞན་ བཞེད་ ནི །"
