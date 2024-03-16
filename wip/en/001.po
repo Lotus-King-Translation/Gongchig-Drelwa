@@ -18320,7 +18320,7 @@ msgstr "When one is not able to [hold], inhale a little."
 
 msgctxt "7da11c1e753f4fd98e51cf4061dfc65f"
 msgid "དེ་␣ས་ ཀྱང་ མ་ ཐུབ་ སྣ་ གཉིས་ ནས ། །"
-msgstr ""
+msgstr "If that is not able to, from the two nostrils,"
 
 msgctxt "46c2d15cff704f12a5869a3e214fd439"
 msgid "སེ་གོལ་ གཏོགས་པ་␣འི་ ཚད་ ཙམ་ ཞིག  །"
