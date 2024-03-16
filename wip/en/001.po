@@ -18284,7 +18284,7 @@ msgstr "If strong, they will be classified in other channel locations."
 
 msgctxt "45cc763982374eb5adfa3b0548d12bb8"
 msgid "དེ་ ནི་ རྔུབ་པ་␣འི་ རླུང་ སྦྱོར་ ཡིན་␣༑ ༑"
-msgstr ""
+msgstr "That is the prana practice of inhalation."
 
 msgctxt "c8c02e55449644588007232be921a911"
 msgid "རླུང་ ནི་ གཡས་གཡོན་ གཉིས་ ན་མ་␣ར ། །"
