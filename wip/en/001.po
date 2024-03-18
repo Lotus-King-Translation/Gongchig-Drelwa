@@ -18392,7 +18392,7 @@ msgstr "Although it is done by naming it as the yogic exercises,"
 
 msgctxt "c092b814a2cd4606984d73ee5b0be7e6"
 msgid "སེམས་ དངོས་པོ་␣འི་ གནས་ལུགས་ མ་ མཐོང་ ན་"
-msgstr ""
+msgstr "If the actuality of the thing is not seen by the mind, "
 
 msgctxt "9a1aa2c2a68e463d895ee34cbbe37d03"
 msgid "གནས་སྐབས་ ལྟར་ སྣང་"
