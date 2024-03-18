@@ -18364,7 +18364,7 @@ msgstr "Thinking that green plants heave up,"
 
 msgctxt "46a2895a5377428aaf41a01c81a0b161"
 msgid "མདའ་ ལྟར་ འཕངས་བ་␣འི་ རླུང་ སྦྱོར་ རོ ། །"
-msgstr ""
+msgstr "That is the prana practice like throwing an arrow."
 
 msgctxt "74b9a0fad817411ab66ba3478b445a6d"
 msgid "ཞེས་ དེ་ བཞི་པོ་ ཟབ་པ་␣ར་ འདོད་ ཀྱང་ །"
