@@ -18356,7 +18356,7 @@ msgstr "Like shooting an arrow by the Great Strength."
 
 msgctxt "5071736f476940379744dc49bc27721d"
 msgid "ཚངས་པ་␣འི་ སྒོ་ ནས་ ནམ་མཁའ་ ལ ། །"
-msgstr ""
+msgstr "Through the door of Brahma to the sky,"
 
 msgctxt "94e0d79ec1af43f387d9532cdad304b9"
 msgid "སྔོ་ ནི་ ཕྱུར་ཕྱུར་ འགྲོ་བ་␣ར་ བསམས ། །"
