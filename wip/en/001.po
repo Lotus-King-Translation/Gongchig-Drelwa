@@ -18352,7 +18352,7 @@ msgstr "Visualize upward to the central [channel], "
 
 msgctxt "d3d379f1b83a4288b496a83091be386f"
 msgid "རྩལ་པོ་ཆེ་ ཡིས་ མདའ་ འཕང་ བཞིན །"
-msgstr ""
+msgstr "Like shooting an arrow by the Great Strength."
 
 msgctxt "5071736f476940379744dc49bc27721d"
 msgid "ཚངས་པ་␣འི་ སྒོ་ ནས་ ནམ་མཁའ་ ལ ། །"
