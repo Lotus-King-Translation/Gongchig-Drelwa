@@ -18376,7 +18376,7 @@ msgstr "In this [system], without holding the wind, without altering"
 
 msgctxt "306109c05b5b4b9098339d4c79c385eb"
 msgid "ལྷུག་པ་␣ར་ འཇོག་པ་ ཉིད་ གནད་ ཟབ་པ་␣ས །"
-msgstr ""
+msgstr "Resting loosely is the essential point."
 
 msgctxt "e97b74295a20419a934153682cb4bb3f"
 msgid "རླུང་ སེམས་ ཐ་དད་ མེད་པ་␣ས་"
