@@ -18438,7 +18438,7 @@ msgstr ""
 
 msgctxt "783e8804dcb64c3eadef04b3dfd012a2"
 msgid "དེ་ ནི་ རིམ་གྱིས་པ་␣འི་ དབང་ དུ་ བྱས་ ཀྱི །"
-msgstr ""
+msgstr "This is in terms of the gradual stage."
 
 msgctxt "2330c4de34f94c1ea0aabcc877aaed66"
 msgid ""
