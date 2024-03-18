@@ -18360,7 +18360,7 @@ msgstr "Through the door of Brahma to the sky,"
 
 msgctxt "94e0d79ec1af43f387d9532cdad304b9"
 msgid "སྔོ་ ནི་ ཕྱུར་ཕྱུར་ འགྲོ་བ་␣ར་ བསམས ། །"
-msgstr ""
+msgstr "Thinking that green plants heave up,"
 
 msgctxt "46a2895a5377428aaf41a01c81a0b161"
 msgid "མདའ་ ལྟར་ འཕངས་བ་␣འི་ རླུང་ སྦྱོར་ རོ ། །"
