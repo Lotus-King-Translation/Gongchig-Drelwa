@@ -18372,7 +18372,7 @@ msgstr "Thus, although these four are accepted to be profound."
 
 msgctxt "137d273f5796445ba17a1a86ce03e7c3"
 msgid "འདི་␣ར་ ནི་ རླུང་ མི་ འཛིན་པ་␣ར་ མ་ བཅོ་␣ས་"
-msgstr ""
+msgstr "In this [system], without holding the wind, without altering"
 
 msgctxt "306109c05b5b4b9098339d4c79c385eb"
 msgid "ལྷུག་པ་␣ར་ འཇོག་པ་ ཉིད་ གནད་ ཟབ་པ་␣ས །"
