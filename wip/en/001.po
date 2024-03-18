@@ -18420,7 +18420,7 @@ msgstr "The practice is as stated in the Vajra Garland Explanatory Tantra."
 
 msgctxt "7faa14a5118b4e1aa532675d8544e32c"
 msgid "ཉམས་ སུ་ ལེན་པ་ གནད་ ཆེ་ སྟེ་"
-msgstr ""
+msgstr "The practice is crucial."
 
 msgctxt "5da66fe9a66647ad83dc8fcfb4670016"
 msgid "ཚུལ་ ནི་ གཏུམ་མོ་ གསུམ་ ཁྲིད་ དུ་ རྟོགས་པ་␣ར་ བྱོས་ ཤིག"
