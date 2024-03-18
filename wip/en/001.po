@@ -18368,7 +18368,7 @@ msgstr "That is the prana practice like throwing an arrow."
 
 msgctxt "74b9a0fad817411ab66ba3478b445a6d"
 msgid "ཞེས་ དེ་ བཞི་པོ་ ཟབ་པ་␣ར་ འདོད་ ཀྱང་ །"
-msgstr ""
+msgstr "Thus, although these four are accepted to be profound."
 
 msgctxt "137d273f5796445ba17a1a86ce03e7c3"
 msgid "འདི་␣ར་ ནི་ རླུང་ མི་ འཛིན་པ་␣ར་ མ་ བཅོ་␣ས་"
