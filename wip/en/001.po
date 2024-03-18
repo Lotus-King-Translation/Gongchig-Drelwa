@@ -18411,6 +18411,8 @@ msgid ""
 "རླུང་ སེམས་ དབྱེ་␣ར་ མེད་ ཀྱི་ རྟོགས་པ་␣འི་ ཡེ་ཤེས་ བསྐྱེད་པ་␣འི་ རླུང་ གི་ "
 "གནད་ འཆིང་བ་ མ་ བྱས་ བྱར་མེད་ དུ་"
 msgstr ""
+"The essential points of the winds that generate the wisdom of realizing the "
+"inseparability of the winds and mind are bound and inevitable."
 
 msgctxt "9eff996b7eca45608ed254fc6b69aae0"
 msgid "ཉམས་ སུ་ ལེན་པ་ ནི་ བཤད་རྒྱུད་ རྡོ་རྗེ་ ཕྲེང་བ་ ནས་ གསུངས་པ་ ལྟར་"
