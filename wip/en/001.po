@@ -18380,7 +18380,7 @@ msgstr "Resting loosely is the essential point."
 
 msgctxt "e97b74295a20419a934153682cb4bb3f"
 msgid "རླུང་ སེམས་ ཐ་དད་ མེད་པ་␣ས་"
-msgstr ""
+msgstr "Since there is no difference between wind and mind,"
 
 msgctxt "ab49b15723bd46ee83e6ef6dc7b325f7"
 msgid "རླུང་ ལ་ རྩོལ་ འབུང་ འདོན་པ་␣འི་ རྩ་␣ར་ རྩི་␣ར་ གཡོ་འགུལ་ མང་པོ་ ལ་"
