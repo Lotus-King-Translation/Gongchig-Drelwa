@@ -18400,7 +18400,7 @@ msgstr "It appears as if it were temporary."
 
 msgctxt "7c8c7f02cbbd4893ac7e7cef5ceb7273"
 msgid "ཀུན་རྫོབ་པ་␣འི་ ཡོན་ཏན་ ཕྲན་བུ་ སྐྱེ་སྲིད་ ཀྱང་"
-msgstr ""
+msgstr "Although some good qualities of the relative may arise, "
 
 msgctxt "401faa0d399b4c8eb8156240a8bd3f27"
 msgid "མཐར་ཐུག་ གི་ ས་ཆོད་ ཆེ་བ་␣འི་ གོ་ ཆོད་པོ་ མི་ འབྱུང་བ་␣ས །"
