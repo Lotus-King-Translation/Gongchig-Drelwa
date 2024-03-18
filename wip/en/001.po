@@ -18424,7 +18424,7 @@ msgstr "The practice is crucial."
 
 msgctxt "5da66fe9a66647ad83dc8fcfb4670016"
 msgid "ཚུལ་ ནི་ གཏུམ་མོ་ གསུམ་ ཁྲིད་ དུ་ རྟོགས་པ་␣ར་ བྱོས་ ཤིག"
-msgstr ""
+msgstr "The mode should be realized through the three teachings of tummo."
 
 msgctxt "54d04fb0c20b42a2a81c511291d18c95"
 msgid "༑་␣ལྷན་␣༽༽  འཕོ་བ་ ནི་ ཧཱུཾ་ ངམ་ ཡིག་འབྲུ་ གང་རུང་ ལ་ བརྟེན་ ནས་"
