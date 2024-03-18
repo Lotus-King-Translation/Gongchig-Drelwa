@@ -18396,7 +18396,7 @@ msgstr "If the actuality of the thing is not seen by the mind, "
 
 msgctxt "9a1aa2c2a68e463d895ee34cbbe37d03"
 msgid "གནས་སྐབས་ ལྟར་ སྣང་"
-msgstr ""
+msgstr "It appears as if it were temporary."
 
 msgctxt "7c8c7f02cbbd4893ac7e7cef5ceb7273"
 msgid "ཀུན་རྫོབ་པ་␣འི་ ཡོན་ཏན་ ཕྲན་བུ་ སྐྱེ་སྲིད་ ཀྱང་"
