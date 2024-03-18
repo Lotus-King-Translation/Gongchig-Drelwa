@@ -18428,7 +18428,7 @@ msgstr "The mode should be realized through the three teachings of tummo."
 
 msgctxt "54d04fb0c20b42a2a81c511291d18c95"
 msgid "༑་␣ལྷན་␣༽༽  འཕོ་བ་ ནི་ ཧཱུཾ་ ངམ་ ཡིག་འབྲུ་ གང་རུང་ ལ་ བརྟེན་ ནས་"
-msgstr ""
+msgstr "Addendum: Transference is based on either the HUM or the syllable."
 
 msgctxt "a176de1d6f78462d99d92d6ac09b1869"
 msgid "བླ་མ་␣འམ་ ཡི་དམ་ གྱི་ ཐུགས་ཀ་␣ར་ འཕོ་བ་ ཡིན་ ཟེར་ ཡང་"
