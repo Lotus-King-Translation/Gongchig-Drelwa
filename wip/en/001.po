@@ -18348,7 +18348,7 @@ msgstr "One side of it was released slowly."
 
 msgctxt "087fa9226ce94c0fb961b47a9960ec35"
 msgid "དམིགས་པ་ དབུ་མ་␣འི་ ནང་ ལ་ ཡར ། །"
-msgstr ""
+msgstr "Visualize upward to the central [channel], "
 
 msgctxt "d3d379f1b83a4288b496a83091be386f"
 msgid "རྩལ་པོ་ཆེ་ ཡིས་ མདའ་ འཕང་ བཞིན །"
