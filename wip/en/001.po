@@ -18404,7 +18404,7 @@ msgstr "Although some good qualities of the relative may arise, "
 
 msgctxt "401faa0d399b4c8eb8156240a8bd3f27"
 msgid "མཐར་ཐུག་ གི་ ས་ཆོད་ ཆེ་བ་␣འི་ གོ་ ཆོད་པོ་ མི་ འབྱུང་བ་␣ས །"
-msgstr ""
+msgstr "It will not be useful in the final decisive stage."
 
 msgctxt "1186c5861f01452ea76894486bf1a98b"
 msgid ""
