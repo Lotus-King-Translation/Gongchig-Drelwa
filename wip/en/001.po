@@ -18594,7 +18594,7 @@ msgstr ""
 
 msgctxt "1344a74dd00f4106bcbb47884c34e0bc"
 msgid "མཉམ་བཞག་ ཆེན་པོ་ བྷུ་ སུ་ ཀུ་ སྟེ་"
-msgstr "The great meditative equipoise is Bhu-Su-Ku,"
+msgstr "The great meditative equipoise is Bhusuku,"
 
 msgctxt "d0f9171dd1a2452e85f45947066a3b30"
 msgid "ཟ་ཉལ་ འཆག་ གསུམ་ གྱི་ འདུ་ཤེས་ ཙམ་ མ་གཏོགས་"
