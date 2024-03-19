@@ -18603,6 +18603,8 @@ msgstr "Which is the mere perception of eating, sleeping, and wandering."
 msgctxt "4868e7ad8a6c4e6b853a8d24b3170a89"
 msgid "བདེ་སྡུག་ མཐོ་དམན་ གང་ ལ་␣འང་ ཞུམ་ ཁེངས་མེད་པ་"
 msgstr ""
+"They are not discouraged or conceited in any situation, be it happiness or "
+"suffering, high or low."
 
 msgctxt "d7dc6bb232d9446d8d243f2c25b61b48"
 msgid "ཤིང་ལོ་ རླུང་ ཁྱེར་ བཞིན་ དུ་ སྤྱོད་ དགོས་ ཟེར་ ཡང་"
