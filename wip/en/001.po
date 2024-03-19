@@ -18520,7 +18520,7 @@ msgstr "Also, from the first excellent one,"
 
 msgctxt "7301e849b6ae4a658f0232afc4308d44"
 msgid "རྡོ་རྗེ་ འཛིན་པ་ མཆོག་ དགེ་སློང་ དུ་ གསུངས་པ་ དང༌ །"
-msgstr ""
+msgstr "The supreme vajra holder is said to be a monk and"
 
 msgctxt "15511db564d54e1fa81a8b1645f10d85"
 msgid "བསྟན་པ་ འཛིན་སྐྱོང་ སྤེལ་བ་ ལ་␣འང་"
