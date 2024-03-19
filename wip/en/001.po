@@ -18548,7 +18548,7 @@ msgstr "[They] adorned with a faux bone ornament."
 
 msgctxt "82de66e200824ef3ab3fd4e04da55f14"
 msgid "ཁྱི་ ལྤགས་ དཀྲིས །"
-msgstr ""
+msgstr "Wrapped in dog skin."
 
 msgctxt "e8d8e995bc9f45ba973e976aa5e29f71"
 msgid "རྒྱུ་འབྲས་ ཁྱད་ དུ་ གསོད་ ཅིང་"
