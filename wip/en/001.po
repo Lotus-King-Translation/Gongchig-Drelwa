@@ -18516,7 +18516,7 @@ msgstr "This is the training of negation and assertion."
 
 msgctxt "5879ac085d7d447092a701c2a1244c35"
 msgid "དམ་པ་ དང་པོ་ ལ་␣ས་ ཀྱང༌ །"
-msgstr ""
+msgstr "Also, from the first excellent one,"
 
 msgctxt "7301e849b6ae4a658f0232afc4308d44"
 msgid "རྡོ་རྗེ་ འཛིན་པ་ མཆོག་ དགེ་སློང་ དུ་ གསུངས་པ་ དང༌ །"
