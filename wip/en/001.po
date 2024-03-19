@@ -15606,7 +15606,7 @@ msgstr "The lineage of the two rivers mixed, from Atisha to"
 
 msgctxt "1415978b6ca746b6a32886613387d88d"
 msgid "བླ་མ་ དྭགས་པོ་ ལྷ་རྗེ་ ཕག་གྲུ་ ཆོས་རྗེ་ འབྲི་གུང་པ་ ནས་"
-msgstr "Lama Dakpo Lharje, Phagdru Choje, and Drigungpa,"
+msgstr "Lama Dagpo Lharje, Phagdru Choje, and Drigungpa,"
 
 msgctxt "7385eb13b3f44280821267ad2faa816b"
 msgid "ད་བར་ ཆོས་བརྒྱུད་ རྣམ་པ་␣ར་ དག་པ །"
