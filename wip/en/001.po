@@ -18528,7 +18528,7 @@ msgstr "In upholding, preserving, and spreading the teachings,"
 
 msgctxt "dc453126cdb14ea293e890c608ec17ea"
 msgid "འདི་ཉིད་ མཆོག་ ཡིན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "He is excellent."
 
 msgctxt "914a9cee2a6f42289548db95b203632d"
 msgid "དཔེར་ན་ འཕགས་པ་ ཀླུ་སྒྲུབ་ དང༌ །"
