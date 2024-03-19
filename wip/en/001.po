@@ -18647,6 +18647,8 @@ msgstr "The yakshas are not accomplished and"
 msgctxt "0151b67ab8f3486f97ba7309c8182c9f"
 msgid "ཆོས་མཆོག་ ཉིད་ ཀྱི་ བརྩམས་པ་␣འི་ ཚད་མ་␣ར་ མཉེས་པ་␣ས་"
 msgstr ""
+"[He] was being delighted with the authoritativeness of the compositions of "
+"the supreme Dharma."
 
 msgctxt "acc9a62d9d5b404d83d037a12d5a4cfa"
 msgid "ཤིང་ སྐམ་ ལ་␣ས་ མེ་ཏོག་མ་ སྐྱེས་པ་ བཞིན་ ནོ ། །"
