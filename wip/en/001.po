@@ -18559,6 +18559,8 @@ msgid ""
 "ལུས་སྲོག་ ཐད་ ལ་ འཁོར་བ་␣འི་ རྟོགས་ལྡན་ སྤྱོད་པ་ ལྷ་ ཀླུ་ ཐམས་ཅད་ དཀྲུག་ "
 "ཅིང་"
 msgstr ""
+"For their bodies and lives, [they] disturb all the gods, nagas, and the "
+"conduct of the realized ones of samsara."
 
 msgctxt "6bfb311c62f947488d4fb95ef05515af"
 msgid "ཕཊ་ སྒྲ་ དང་ ཧཱུྃ་ སྒྲ་␣ས་ ལུང་པ་ འགེངས །"
