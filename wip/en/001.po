@@ -18484,6 +18484,7 @@ msgstr ""
 msgctxt "9285f3a961ba462cb91cc0d1f93bd2ca"
 msgid "དུར་ཁྲོད་ དང་ ཚོང་འདུས་ སོགས་ རྒྱུ་ ཞིང་ གླུ་གར་ བྱེད་ དགོས་ ཟེར །"
 msgstr ""
+"And wander in charnel grounds, markets, and so forth, singing and dancing."
 
 msgctxt "a7e2e302cb2b4233bc7b83604c9d2dbd"
 msgid ""
