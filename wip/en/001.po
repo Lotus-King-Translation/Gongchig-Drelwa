@@ -18617,6 +18617,8 @@ msgid ""
 "འདི་␣ར་ དེ་␣འི་ སྟེང་ དུ་ ཆོས་ ཚུལ་ཁྲིམས་ དང་ སྒྲུབ་པ་ དང་ ཚད་ མེད་པ་␣འི་ "
 "སྙིང་རྗེ་ གསུམ་ མི་ ལྡན་ ན་"
 msgstr ""
+"In this [system], in addition to that, if one does not have the three- "
+"dharma, moral conduct, and accomplsiment and immeasurable compassion,"
 
 msgctxt "b9f99def4eaf4cff916325a366438d1e"
 msgid "ཉན་རང་ དང་ ཁྱད་པར་ མེད་པ་␣ས་"
