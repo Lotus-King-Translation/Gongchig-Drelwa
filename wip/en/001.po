@@ -18468,7 +18468,7 @@ msgstr "This is the transference of the highest yogi."
 
 msgctxt "30b287e1a2264fdd8e311538995c885c"
 msgid "རྡོ་␣༽༽  རྟོགས་པ་␣འི་ བོགས་ འདོན་པ་ ལ་"
-msgstr ""
+msgstr "Vajra: It is said that to gain the most benefit of the realization"
 
 msgctxt "92f13fc3ef1a4c7d80b3aebd9017bf3a"
 msgid "རིགས་པ་ བརྟུལ་ཞུགས་ ཀྱི་ སྤྱོད་པ་ སྣ་ཚོགས་པ་␣ས་"
