@@ -18497,7 +18497,7 @@ msgstr ""
 msgctxt "e2a6828b56de47f580eda099f2369ad3"
 msgid "སྤང་བྱ་ ཉོན་མོངས་ དང་ རྣམ་རྟོག་ བརྟུལ་ ནས་"
 msgstr ""
-"Having subdued the afflictions and discursive thoughts that are to be "
+"Having tamed the afflictions and discursive thoughts that are to be "
 "abandoned,"
 
 msgctxt "3114e6b8e20745598bb42781afe6834f"
