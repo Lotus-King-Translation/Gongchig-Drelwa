@@ -18589,6 +18589,8 @@ msgstr "It is required in this way."
 msgctxt "1ea5f2b723924990a827906ed53b51e8"
 msgid "རྡོ་␣༽༽  རྣལ་འབྱོར་ བཞི་␣འི་ མཐར་ཐུག་ སྒོམ་ མེད་རྟོགས་པ་ ན་"
 msgstr ""
+"Vajra: When one realizes non-meditation, the ultimate [stage] of the four "
+"yogas,"
 
 msgctxt "1344a74dd00f4106bcbb47884c34e0bc"
 msgid "མཉམ་བཞག་ ཆེན་པོ་ བྷུ་ སུ་ ཀུ་ སྟེ་"
