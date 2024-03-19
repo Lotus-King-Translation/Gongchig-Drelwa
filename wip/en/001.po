@@ -18451,6 +18451,8 @@ msgstr ""
 msgctxt "2fbd4b670e6142bbb41b9f3b951e54e8"
 msgid "འཕོ་ བྱ་ འཕོ་ བྱེད་ ཀྱི་ རྟེན་ དང་ བྲལ་བ་␣འི་ ཕྱིར་ རོ ། །"
 msgstr ""
+"This is because they are devoid of a basis for something to be transferred "
+"and a transferer."
 
 msgctxt "af732c8457ca4899b205f862aa4b1f88"
 msgid "དེ་ལྟར་ ཡང་ འཕོ་ རྒྱུ་ བྱུང་ ན་ རྣལ་འབྱོར་ མིན །"
