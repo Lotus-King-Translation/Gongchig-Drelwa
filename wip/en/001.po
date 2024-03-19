@@ -18460,7 +18460,7 @@ msgstr "Likewise, If the cause of transference occurs, it is not yoga."
 
 msgctxt "9652cd4237aa4ed9a06f6fbc69d42b31"
 msgid "ཞེས་ གསུངས་པ་␣འི་ ཕྱིར་ ན་"
-msgstr ""
+msgstr "Thus, it is said that"
 
 msgctxt "4729000fccd14303b4fc186360fc884e"
 msgid "རྣལ་འབྱོར་ རབ་ ཀྱི་ འཕོ་བ་␣འོ །"
