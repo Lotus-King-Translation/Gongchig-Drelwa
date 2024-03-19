@@ -18642,7 +18642,7 @@ msgstr "Master Arya because of being attached to a clay vase,"
 
 msgctxt "eb720664f5be4ad6be1af73530bc9a92"
 msgid "གནོད་སྦྱིན་ མ་གྲུབ་པ་ དང་ །"
-msgstr ""
+msgstr "The yakshas are not accomplished and"
 
 msgctxt "0151b67ab8f3486f97ba7309c8182c9f"
 msgid "ཆོས་མཆོག་ ཉིད་ ཀྱི་ བརྩམས་པ་␣འི་ ཚད་མ་␣ར་ མཉེས་པ་␣ས་"
