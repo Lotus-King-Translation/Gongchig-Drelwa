@@ -18472,7 +18472,7 @@ msgstr "Vajra: It is said that to gain the most benefit from the realization"
 
 msgctxt "92f13fc3ef1a4c7d80b3aebd9017bf3a"
 msgid "རིགས་པ་ བརྟུལ་ཞུགས་ ཀྱི་ སྤྱོད་པ་ སྣ་ཚོགས་པ་␣ས་"
-msgstr ""
+msgstr "By the various types of yogic discipline that are based on reasoning,"
 
 msgctxt "d6bd0295ed544889872b57553596a871"
 msgid ""
