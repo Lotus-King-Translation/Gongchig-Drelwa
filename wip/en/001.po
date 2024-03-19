@@ -18464,7 +18464,7 @@ msgstr ""
 
 msgctxt "4729000fccd14303b4fc186360fc884e"
 msgid "རྣལ་འབྱོར་ རབ་ ཀྱི་ འཕོ་བ་␣འོ །"
-msgstr ""
+msgstr "This is the transference of the highest yogi."
 
 msgctxt "30b287e1a2264fdd8e311538995c885c"
 msgid "རྡོ་␣༽༽  རྟོགས་པ་␣འི་ བོགས་ འདོན་པ་ ལ་"
