@@ -18629,6 +18629,8 @@ msgid ""
 "དང་པོ་ རང་རྒྱུད་ ལ་ ཡོད་པ་␣འི་ ལག་མཐིལ་ གྱི་ སྤུ་ཉག་ ལྟ་བུ་␣འི་ ཉེས་པ་ "
 "ཤིན་ཏུ་ ཕྲ་བ་␣འང་ སྤང་ དགོས་ ཏེ་"
 msgstr ""
+"First, one must eliminate even the most subtle faults that exist in one's "
+"own mindstream, such as the hairs on the palm of the hand."
 
 msgctxt "78c25c52095c49ebbe6aebb62b2f91f2"
 msgid "ཡོན་ཏན་ མི་ ཐོབ་པ་␣འི་ ཕྱིར །"
