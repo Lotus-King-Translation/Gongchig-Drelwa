@@ -18572,7 +18572,7 @@ msgstr "[They] stare into the open space with unblinking eyes."
 
 msgctxt "d2921fd4f4954393ab270a1612b00f40"
 msgid "ཁ་ ནས་ ཆོས་ ཐམས་ཅད་ སྟོང་པ་ ཆེན་པོ་␣འོ་ ཟེར་ ནས་"
-msgstr ""
+msgstr "From their mouth, [they] say, “All phenomena are great emptiness."
 
 msgctxt "01db4f5a9f744c94a919e0e174366422"
 msgid "དོན་མེད་ ཁྱི་ ལྟར་ འཁྱམས་པ་ རྣམས་ ཀྱི་"
