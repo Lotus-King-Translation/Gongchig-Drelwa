@@ -18544,7 +18544,7 @@ msgstr "These days, some people as a conduct of yogic discipline,"
 
 msgctxt "adf721e88b034b77b5c60bf6aa9177cc"
 msgid "ཁ་␣ས་ འཆེ་བ་␣འི་ རུས་རྒྱན་ གྱི་ རྒྱན །"
-msgstr ""
+msgstr "[Thry] adorned with a faux bone ornament."
 
 msgctxt "82de66e200824ef3ab3fd4e04da55f14"
 msgid "ཁྱི་ ལྤགས་ དཀྲིས །"
