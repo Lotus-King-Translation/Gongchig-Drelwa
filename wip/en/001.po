@@ -18634,7 +18634,7 @@ msgstr ""
 
 msgctxt "78c25c52095c49ebbe6aebb62b2f91f2"
 msgid "ཡོན་ཏན་ མི་ ཐོབ་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Because one does not attain good qualities."
 
 msgctxt "d3bfcd21eae24ef6b02c77884a5a90b7"
 msgid "སློབ་དཔོན་ འཕགས་པ་ རྫ་བུམ་ ལ་ ཆགས་པ་␣ས་"
