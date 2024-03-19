@@ -18580,7 +18580,7 @@ msgstr "Those who wander like dogs meaninglessly, "
 
 msgctxt "7c3b47c1fe244811bda41b8567a360ee"
 msgid "སྤྱོད་པ་ བརྟུལ་ཞུགས་ ལ་␣ས་ ཆེས་ འཕགས་པ་␣འི་ ཕྱིར་"
-msgstr ""
+msgstr "Because their conduct is far superior to the yogic discipline."
 
 msgctxt "2dbf2535665249b4a5586cb33e3fd634"
 msgid "ཚུལ་ དེ་ལྟར་ དགོས་ སོ ། །"
