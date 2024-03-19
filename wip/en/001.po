@@ -18552,7 +18552,7 @@ msgstr "Wrapped in dog skin."
 
 msgctxt "e8d8e995bc9f45ba973e976aa5e29f71"
 msgid "རྒྱུ་འབྲས་ ཁྱད་ དུ་ གསོད་ ཅིང་"
-msgstr ""
+msgstr "[They] disregard cause and effect,"
 
 msgctxt "7de96d251c134669b916823e0906610e"
 msgid ""
