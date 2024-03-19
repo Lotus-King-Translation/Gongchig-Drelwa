@@ -18598,7 +18598,7 @@ msgstr "The great meditative equipoise is Bhu-Su-Ku,"
 
 msgctxt "d0f9171dd1a2452e85f45947066a3b30"
 msgid "ཟ་ཉལ་ འཆག་ གསུམ་ གྱི་ འདུ་ཤེས་ ཙམ་ མ་གཏོགས་"
-msgstr ""
+msgstr "Which is the mere perception of eating, sleeping, and wandering."
 
 msgctxt "4868e7ad8a6c4e6b853a8d24b3170a89"
 msgid "བདེ་སྡུག་ མཐོ་དམན་ གང་ ལ་␣འང་ ཞུམ་ ཁེངས་མེད་པ་"
