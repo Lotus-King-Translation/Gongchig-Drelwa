@@ -18584,7 +18584,7 @@ msgstr "Because their conduct is far superior to the yogic discipline."
 
 msgctxt "2dbf2535665249b4a5586cb33e3fd634"
 msgid "ཚུལ་ དེ་ལྟར་ དགོས་ སོ ། །"
-msgstr ""
+msgstr "It is required in this way."
 
 msgctxt "1ea5f2b723924990a827906ed53b51e8"
 msgid "རྡོ་␣༽༽  རྣལ་འབྱོར་ བཞི་␣འི་ མཐར་ཐུག་ སྒོམ་ མེད་རྟོགས་པ་ ན་"
