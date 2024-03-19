@@ -18540,7 +18540,7 @@ msgstr "the peerless Dagpo Lhaje."
 
 msgctxt "299b608c82d14d3dbd1a82da4e5ce552"
 msgid "དེང་སང་ འགའ་ཞིག་ བརྟུལ་ཞུགས་ ཀྱི་ སྤྱོད་པ་ ཡིན་པ་␣ར་"
-msgstr ""
+msgstr "These days, some people as a conduct of yogic discipline,"
 
 msgctxt "adf721e88b034b77b5c60bf6aa9177cc"
 msgid "ཁ་␣ས་ འཆེ་བ་␣འི་ རུས་རྒྱན་ གྱི་ རྒྱན །"
