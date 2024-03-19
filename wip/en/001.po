@@ -18491,6 +18491,8 @@ msgid ""
 "འདི་␣ར་ རིགས་ ཤིང་ འོས་པ་␣འི་ སྤྱོད་པ་ ཁྱད་པར་ དུ་ འཕགས་པ་ ནི་ ཚུལ་ཁྲིམས་ "
 "རིན་པོ་ཆེ་ ཡིན་ ཏེ་"
 msgstr ""
+"In this [system], the most excellent conduct that is appropriate and proper "
+"is the precious discipline."
 
 msgctxt "e2a6828b56de47f580eda099f2369ad3"
 msgid "སྤང་བྱ་ ཉོན་མོངས་ དང་ རྣམ་རྟོག་ བརྟུལ་ ནས་"
