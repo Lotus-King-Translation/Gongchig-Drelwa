@@ -18478,6 +18478,8 @@ msgctxt "d6bd0295ed544889872b57553596a871"
 msgid ""
 "རབ་བྱུང་ གི་ རྟགས་ དོར་ ནས་ རྣལ་འབྱོར་ གྱི་ ཆ་ལུགས་ ཕྱག་རྒྱ་ མ་ ཁྲིད་ ནས་"
 msgstr ""
+"Discarding the signs of ordination and taking the costume of a yogi, without"
+" instructing the mudra"
 
 msgctxt "9285f3a961ba462cb91cc0d1f93bd2ca"
 msgid "དུར་ཁྲོད་ དང་ ཚོང་འདུས་ སོགས་ རྒྱུ་ ཞིང་ གླུ་གར་ བྱེད་ དགོས་ ཟེར །"
