@@ -18564,7 +18564,7 @@ msgstr ""
 
 msgctxt "6bfb311c62f947488d4fb95ef05515af"
 msgid "ཕཊ་ སྒྲ་ དང་ ཧཱུྃ་ སྒྲ་␣ས་ ལུང་པ་ འགེངས །"
-msgstr ""
+msgstr "The sounds of PHAT and HUM fill the valley."
 
 msgctxt "fdbded50a39742bc81e0b2d8764c2b47"
 msgid "མིག་ ཧྲིག་ཧྲིག་ དུ་བ་␣ར་ སྣང་ དུ་ བལྟ །"
