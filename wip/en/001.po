@@ -18512,7 +18512,7 @@ msgstr ""
 
 msgctxt "e2bd28690aac41dd9811e96b1d0c28c8"
 msgid "དགག་སྒྲུབ་ ཀྱི་ བསླབ་པ་ འདི་ ཡིན་པ་␣འི་ ཕྱིར་ དང༌ །"
-msgstr "This is the training of negation and assertion,"
+msgstr "This is the training of negation and assertion."
 
 msgctxt "5879ac085d7d447092a701c2a1244c35"
 msgid "དམ་པ་ དང་པོ་ ལ་␣ས་ ཀྱང༌ །"
