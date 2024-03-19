@@ -18502,7 +18502,7 @@ msgstr ""
 
 msgctxt "3114e6b8e20745598bb42781afe6834f"
 msgid "ཡེ་ཤེས་ ཀྱི་ སྟོབས་ ལ་ ཞུགས་པ་␣འི་ སྤྱོད་པ་"
-msgstr ""
+msgstr "The conduct engaging in the strength of primordial wisdom"
 
 msgctxt "52461f8eb2454d56be772094fe0b5481"
 msgid "སངས་རྒྱས་ ཀྱི་ གནས་ དང་ གནས་མིན་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ཀྱིས་ བཅས་པ་␣འི་"
