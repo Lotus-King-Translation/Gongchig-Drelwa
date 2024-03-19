@@ -18445,6 +18445,8 @@ msgid ""
 "འདི་␣ར་ མཐར་ཐུག་ ནི་ རྣམ་ཤེས་ དང་ བླ་མ་ དང་ འོད་གསལ་ ཆོས་སྐུ་ གསུམ་ དབྱེ་␣ར་"
 " མེད་ དུ་ གྱུར་པ་ ནི་ འཕོ་བ་␣འི་ མཆོག་ སྟེ །"
 msgstr ""
+"In this [system], the ultimate is the inseparability of consciousness, guru,"
+" and the luminious dharmakaya, that is the supreme transference."
 
 msgctxt "2fbd4b670e6142bbb41b9f3b951e54e8"
 msgid "འཕོ་ བྱ་ འཕོ་ བྱེད་ ཀྱི་ རྟེན་ དང་ བྲལ་བ་␣འི་ ཕྱིར་ རོ ། །"
