@@ -18622,7 +18622,7 @@ msgstr ""
 
 msgctxt "b9f99def4eaf4cff916325a366438d1e"
 msgid "ཉན་རང་ དང་ ཁྱད་པར་ མེད་པ་␣ས་"
-msgstr ""
+msgstr "Since there is no difference between shravakas and pratyekabuddhas,"
 
 msgctxt "29e291c599c8489da37522c0a347016e"
 msgid ""
