@@ -18524,7 +18524,7 @@ msgstr "The supreme vajra holder is said to be a monk and"
 
 msgctxt "15511db564d54e1fa81a8b1645f10d85"
 msgid "བསྟན་པ་ འཛིན་སྐྱོང་ སྤེལ་བ་ ལ་␣འང་"
-msgstr ""
+msgstr "In upholding, preserving, and spreading the teachings,"
 
 msgctxt "dc453126cdb14ea293e890c608ec17ea"
 msgid "འདི་ཉིད་ མཆོག་ ཡིན་པ་␣འི་ ཕྱིར །"
