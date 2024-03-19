@@ -18532,7 +18532,7 @@ msgstr "Because this is an excellent one."
 
 msgctxt "914a9cee2a6f42289548db95b203632d"
 msgid "དཔེར་ན་ འཕགས་པ་ ཀླུ་སྒྲུབ་ དང༌ །"
-msgstr ""
+msgstr "For example, the noble Nagarjuna and"
 
 msgctxt "a957bc4dd3ad4bb080a9605c8fb9e721"
 msgid "མཉམ་མེད་ དྭགས་པོ་ ལྷ་རྗེ་ བཞིན་ ནོ ། །"
