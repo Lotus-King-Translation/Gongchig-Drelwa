@@ -18568,7 +18568,7 @@ msgstr "The sounds of PHAT and HUM fill the valley."
 
 msgctxt "fdbded50a39742bc81e0b2d8764c2b47"
 msgid "མིག་ ཧྲིག་ཧྲིག་ དུ་བ་␣ར་ སྣང་ དུ་ བལྟ །"
-msgstr ""
+msgstr "[They] stare into the open space with unblinking eyes."
 
 msgctxt "d2921fd4f4954393ab270a1612b00f40"
 msgid "ཁ་ ནས་ ཆོས་ ཐམས་ཅད་ སྟོང་པ་ ཆེན་པོ་␣འོ་ ཟེར་ ནས་"
