@@ -18507,6 +18507,8 @@ msgstr "The conduct engaging in the strength of primordial wisdom"
 msgctxt "52461f8eb2454d56be772094fe0b5481"
 msgid "སངས་རྒྱས་ ཀྱི་ གནས་ དང་ གནས་མིན་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ཀྱིས་ བཅས་པ་␣འི་"
 msgstr ""
+"The Buddha's omniscient wisdom that knows what is appropriate or "
+"inappropriate,"
 
 msgctxt "e2bd28690aac41dd9811e96b1d0c28c8"
 msgid "དགག་སྒྲུབ་ ཀྱི་ བསླབ་པ་ འདི་ ཡིན་པ་␣འི་ ཕྱིར་ དང༌ །"
