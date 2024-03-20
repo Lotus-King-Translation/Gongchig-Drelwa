@@ -6000,7 +6000,7 @@ msgid ""
 " གི་ འགྲེལ་བཤད་ ཀྱི་ སྐབས་ ཏེ་ གཉིས་པ་␣འོ ། ༈"
 msgstr ""
 "This concludes the second section, a commentary on the fifteen vajra verses "
-"and one verse of the addendum, which summarize the essential points of "
+"and one verse of the addendum, summarizing the essential points of "
 "interdependence."
 
 msgctxt "9968324f8faf46eba0046ba58899af67"
