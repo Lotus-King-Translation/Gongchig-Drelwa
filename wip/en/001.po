@@ -14088,7 +14088,7 @@ msgstr "This is how it occurs, just as said in the excellent speech."
 
 msgctxt "4c64488c810b4f63ab4b5576e44ff2e8"
 msgid "རྡོ་␣༽༽  རྟོག་པ་ ཕྲ་མོ་ ཙམ་ ཡང་ མི་ འགྱུ་བ་"
-msgstr "Vajra: Not even the slightest thought moves,"
+msgstr "Vajra: Not even the slightest conceptuality moves,"
 
 msgctxt "85f36836e40f44478efb55ab4612c309"
 msgid "མི་ རྟོག་ ལུས་ ལ་ གྲི་ རྒྱབ་ ཀྱང་ བདེ་བ་␣ར་ འོང་བ་"
