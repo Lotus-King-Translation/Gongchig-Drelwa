@@ -18816,7 +18816,7 @@ msgstr "According to the Vajra Garland Explanatory Tantra:"
 
 msgctxt "637f57f8ff35472fb2f105efcd14753b"
 msgid "ཀུན་རྫོབ་ དང་ ནི་ དོན་དམ་ དག  །"
-msgstr ""
+msgstr "The relative and the absolute,"
 
 msgctxt "b43febab787f45fe93c8b53ab6970c6b"
 msgid "རྟོག་པ་ གཉིས་ དང་ ཡང་དག་ བྲལ ། །"
