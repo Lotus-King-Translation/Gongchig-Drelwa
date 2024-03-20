@@ -18706,7 +18706,7 @@ msgstr ""
 
 msgctxt "cfcf5b0183bb473e95a42dbc4c470f9c"
 msgid "བྲལ་བ་␣འི་ ཡོན་ཏན་ རྣམས་ དོན་དམ །"
-msgstr ""
+msgstr "All the good qualities of freedom are absolute."
 
 msgctxt "609c83bd571d4d0fb68c176a080af0a8"
 msgid "གཟུགས་སྐུ །"
