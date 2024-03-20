@@ -18804,7 +18804,7 @@ msgstr "Non-dual is taught to be without dual."
 
 msgctxt "abcf763edff5484aa0c5d50a6f6078b4"
 msgid "ཡང་དག་ མཐའ་ ལ་ རྣམ་པ་␣ར་ གནས །"
-msgstr "Completely dwell in the pure extremes."
+msgstr "Completely dwell in the true extremes."
 
 msgctxt "2d79622322ec47408bfb9c7555bd40db"
 msgid "ཞེས་ དང་ །"
