@@ -18812,7 +18812,7 @@ msgstr "And."
 
 msgctxt "262575042f654d6b82084770c9a8f090"
 msgid "བཤད་རྒྱུད་ རྡོར་ ཕྲེང་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Vajra Garland Explanatory Tantra:"
 
 msgctxt "637f57f8ff35472fb2f105efcd14753b"
 msgid "ཀུན་རྫོབ་ དང་ ནི་ དོན་དམ་ དག  །"
