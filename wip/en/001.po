@@ -18787,7 +18787,7 @@ msgstr "When it becomes equality,"
 
 msgctxt "46bc37e19ff141a49a0aad9a354c4b53"
 msgid "དོན་དམ་པ་ ལ་ ལྟོས་པ་␣འི་ ཀུན་རྫོབ་ མེད་ ཅིང་ །"
-msgstr ""
+msgstr "There is no relative that depends upon the absolute."
 
 msgctxt "f189d01e8b674bdb884cbe656a34602f"
 msgid "དེ་ ལ་ ལྟོས་པ་␣འི་ དོན་དམ་ མེད་པ་␣འི་ ཕྱིར་ རོ ། །"
