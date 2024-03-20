@@ -18702,6 +18702,7 @@ msgstr "Vajra: According to other's acceptance,"
 msgctxt "cda912b247d74ff7bd8b0257d5492f1f"
 msgid "སངས་རྒྱས་ ཀྱི་ ས་␣ར་ ཆོས་སྐུ་ ཇི་ལྟ་ མཁྱེན་པ་"
 msgstr ""
+"On the level of a buddha, dharmakaya that knows things just as they are,"
 
 msgctxt "cfcf5b0183bb473e95a42dbc4c470f9c"
 msgid "བྲལ་བ་␣འི་ ཡོན་ཏན་ རྣམས་ དོན་དམ །"
