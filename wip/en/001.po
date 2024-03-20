@@ -18825,7 +18825,7 @@ msgstr "Truly free from the two conceptualities."
 
 msgctxt "4303c08950bd45e49d18c0e5e3fef3e1"
 msgid "གང་ དུ་ ཡང་དག་ འདྲེས་ གྱུར་པ ། །"
-msgstr "Wherever that is mixed,"
+msgstr "Wherever that are truly mixed,"
 
 msgctxt "9cd782d57bd243be9cc6c9f62aee789a"
 msgid "དེ་ ནི་ ཟུང་ དུ་ འཇུག་པ་␣ར་ བཤད །"
