@@ -18661,7 +18661,7 @@ msgstr ""
 
 msgctxt "ee4f76b86a714eeaa9d7ab895450e769"
 msgid "རྣམ་སྨིན་ གྱི་ ཡོན་ཏན་ ཚད་ མེད་པ་ དག་ སྒྲུབ་ དགོས་ ཏེ །"
-msgstr ""
+msgstr "One must accomplish the immeasurable qualities of complete ripening."
 
 msgctxt "c2aee18da8c3413194cdbb884e7469dd"
 msgid "རྒྱུ་རྐྱེན་ མེད་པ་␣ར་ མི་ འབྱུང་བ་␣འི་ ཕྱིར་ རོ ། །"
