@@ -5044,7 +5044,7 @@ msgstr ""
 
 msgctxt "2abbc1993e0f4fedb6533aeb4b8fa190"
 msgid "དེ་དག་ རྐྱེན་ དང་ ཕྲད་པ་␣ས་ རྟོག་པ་ སྣ་ཚོགས་ སྐྱེ་ ཞིང་"
-msgstr "When these meet with the conditions, various thoughts arise."
+msgstr "When these meet the conditions, various conceptualities would arise."
 
 msgctxt "93ed85ced82a40bb839ade90465ca6b3"
 msgid "དེ་␣ས་ ཕྱི་མ་␣འི་ ལུས་ འགྲུབ་པ་␣འི་ ཕྱིར །"
