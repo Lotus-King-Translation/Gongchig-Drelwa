@@ -2939,7 +2939,7 @@ msgstr "And."
 
 msgctxt "27f76522c98345d19da0f5d3485d9dec"
 msgid "རྟོག་པ་␣འི་ དྲྭ་བ་ རྣམ་ བསལ་ ཅིང༌ ། །"
-msgstr "Eliminating the webs of conceptual cognitions,"
+msgstr "Eliminating the webs of conceptualities,"
 
 msgctxt "2e62e6052f2e450aa95db73654e6ccd4"
 msgid "ཟབ་ ཅིང་ རྒྱ་ ཆེ་␣འི་ སྐུ་ མངའ་བ ། །"
