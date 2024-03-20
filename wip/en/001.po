@@ -18723,7 +18723,7 @@ msgstr ""
 
 msgctxt "7d8b92c2d9a448428bda8ee94859cc33"
 msgid "ཡང་ རྡོར་ གཅོད་ ལ་␣ས །"
-msgstr ""
+msgstr "Also, according to the Vajra Cutter:"
 
 msgctxt "38521652b609496787207baf24ce9ae9"
 msgid "གང་དག་ ང་ ལ་ གཟུགསུ་ མཐོང་ །།"
