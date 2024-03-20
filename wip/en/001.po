@@ -18718,6 +18718,8 @@ msgctxt "f81e86e1f930415690eb913022f965f3"
 msgid ""
 "ཇི་སྙེད་ མཁྱེན་པ་␣འི་ རྣམ་སྨིན་ གྱི་ ཡོན་ཏན་ ཀུན་རྫོབ་ ཏུ་ འདོད་པ་ དང་ །"
 msgstr ""
+"The qualities of the complete ripening of the entire knowledge of "
+"omniscience are accepted as relative."
 
 msgctxt "7d8b92c2d9a448428bda8ee94859cc33"
 msgid "ཡང་ རྡོར་ གཅོད་ ལ་␣ས །"
