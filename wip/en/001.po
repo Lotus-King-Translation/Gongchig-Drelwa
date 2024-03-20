@@ -18775,6 +18775,7 @@ msgstr ""
 msgctxt "161f6fb1619c453d90fa9446f65e5ee7"
 msgid "དོན་དམ་ དང་ ཀུན་རྫོབ་ ནི་ གཅིག་ ལ་ གཅིག་ ལྟོས་ ནས་ བཞག་པ་␣ས་"
 msgstr ""
+"The absolute and the relative are placed in dependence upon one another."
 
 msgctxt "bba24c248d074d959584e549c6e54c35"
 msgid "འབྲས་བུ་ གཉིས་ མེད་"
