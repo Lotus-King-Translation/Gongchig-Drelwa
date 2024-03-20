@@ -18735,19 +18735,20 @@ msgstr "Those who know me as an enemy,"
 
 msgctxt "8df21ba8f20b4d6f9f1eb6edf78d6182"
 msgid "ལོག་པ་␣འི་ ལམ་ དུ་ ཞུགས་པ་ དེ ། །"
-msgstr ""
+msgstr "Those who enter the wrong path,"
 
 msgctxt "194fd25d1ae74214a831e0ce65072364"
 msgid "སྐྱེས་བུ་ དེ་དག་ ང་ མི་ མཐོང་ ། །"
-msgstr ""
+msgstr "These people do not see me."
 
 msgctxt "3a02c041f0c840489efa37605af75678"
 msgid "ཞེས་པ་␣ས་ ཆོས་སྐུ་ དོན་དམ་པ་ འབའ་ཞིག་ ཡིན་ ཟེར་བ་ དང༌ །"
-msgstr ""
+msgstr "Thus, it is said that the dharmakaya is only the absolute and"
 
 msgctxt "eeed47d5c325486887bacece48aa3ae9"
 msgid "ཡང་ རྟོགས་ བྱ་ དབྱིངས་ དང་"
 msgstr ""
+"Furthermore, the expanse [of the emptiness] that is to be realized and "
 
 msgctxt "2014729b3eb54918bdb01fabfa214321"
 msgid "རྟོགས་ བྱེད་ ཀྱི་ བློ་ འདྲེས་ གང་ཡོད་པ་␣ས་"
