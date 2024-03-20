@@ -18727,11 +18727,11 @@ msgstr "Also, according to the Vajra Cutter:"
 
 msgctxt "38521652b609496787207baf24ce9ae9"
 msgid "གང་དག་ ང་ ལ་ གཟུགསུ་ མཐོང་ །།"
-msgstr ""
+msgstr "Those who see me as a form,"
 
 msgctxt "da03da14e44747a1af3e05d41a9da766"
 msgid "གང་དག་ ང་ ལ་ དགྲ་␣ར་ ཤེས་ ན ། །"
-msgstr ""
+msgstr "Those who know me as an enemy,"
 
 msgctxt "8df21ba8f20b4d6f9f1eb6edf78d6182"
 msgid "ལོག་པ་␣འི་ ལམ་ དུ་ ཞུགས་པ་ དེ ། །"
