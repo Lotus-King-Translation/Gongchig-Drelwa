@@ -15919,7 +15919,7 @@ msgstr ""
 
 msgctxt "950ce45bb1154d1fb024d7d0e15005ad"
 msgid "དེ་ དང་ རིགས་ མཐུན་པ་ ཞིག་ རྟོག་པ་"
-msgstr "A thought that is a similar type of it"
+msgstr "A conceptuality that is similar type of it"
 
 msgctxt "2df04dcacbb54da99f3df834116e531d"
 msgid ""
