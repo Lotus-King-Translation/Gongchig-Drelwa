@@ -18820,7 +18820,7 @@ msgstr "The relative and the absolute,"
 
 msgctxt "b43febab787f45fe93c8b53ab6970c6b"
 msgid "རྟོག་པ་ གཉིས་ དང་ ཡང་དག་ བྲལ ། །"
-msgstr ""
+msgstr "Truly free from the two conceptualities."
 
 msgctxt "4303c08950bd45e49d18c0e5e3fef3e1"
 msgid "གང་ དུ་ ཡང་དག་ འདྲེས་ གྱུར་པ ། །"
