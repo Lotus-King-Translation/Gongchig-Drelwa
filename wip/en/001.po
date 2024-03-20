@@ -18791,7 +18791,7 @@ msgstr "There is no relative that depends upon the absolute."
 
 msgctxt "f189d01e8b674bdb884cbe656a34602f"
 msgid "དེ་ ལ་ ལྟོས་པ་␣འི་ དོན་དམ་ མེད་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "This is because there is no absolute that depends on that."
 
 msgctxt "c40a4768349b4c24ac1a5dff14a8ea3b"
 msgid "དེ་ལྟར་ ཡང་ མཚན་ བརྗོད་ ལ་␣ས །"
