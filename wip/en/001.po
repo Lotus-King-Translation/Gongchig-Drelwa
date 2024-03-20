@@ -11214,7 +11214,7 @@ msgid ""
 " གཅིག་པ་␣འི་ འགྲེལ་བཤད་ ཀྱི་ སྐབས་ ཏེ་ བཞི་པ་␣འོ ། ༈"
 msgstr ""
 "This concludes the fourth section, a commentary on the twenty-five vajra "
-"verses and one verse of addendum, which summarize the essential points of "
+"verses and one verse of addendum, summarizing the essential points of "
 "bodhicitta."
 
 msgctxt "c5303fac69ee4f19ac79a9577a2e5544"
