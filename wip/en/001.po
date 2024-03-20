@@ -18841,7 +18841,7 @@ msgstr "According to the Root Stanzas of the Middle Way:"
 
 msgctxt "489a9b0f05ec4d59a14da3ad0dd3219e"
 msgid "གང་ གི་ རྟེན་ ཅིང་ འབྲེལ་བ་␣ར་ འབྱུང༌ ། །"
-msgstr ""
+msgstr "That which occurs interdependently,"
 
 msgctxt "215b17ec50574ed6985bb6330c15e0c5"
 msgid "འགག་པ་ མེད་པ་ སྐྱེ་ མེད་པ ། །"
