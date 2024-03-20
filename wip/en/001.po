@@ -18657,6 +18657,7 @@ msgstr "It is like a flower not growing on a dry tree."
 msgctxt "a24bb547692e4538be781944341d0248"
 msgid "གཉིས་པ་ རང་རྒྱུད་ ལ་ འཕགས་པ་ རྣམས་ ཀྱི་ བྲལ་བ་ དང་"
 msgstr ""
+"The second is the freedom of the noble ones in one's own continuum and "
 
 msgctxt "ee4f76b86a714eeaa9d7ab895450e769"
 msgid "རྣམ་སྨིན་ གྱི་ ཡོན་ཏན་ ཚད་ མེད་པ་ དག་ སྒྲུབ་ དགོས་ ཏེ །"
