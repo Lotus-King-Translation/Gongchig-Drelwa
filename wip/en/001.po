@@ -18670,6 +18670,8 @@ msgstr "Because they do not occur without causes and conditions."
 msgctxt "9212ce4fc973456395c66c7753a19227"
 msgid "གསུམ་པ་ རང་ཉིད་ གཅིག་པུ་ ཞི་བདེ་ འདོད་པ་␣འི་ སེམས་ སྤངས་ ནས་"
 msgstr ""
+"The third is to abandon the mind that desires peace and happiness for "
+"oneself alone and "
 
 msgctxt "2f25c0bc13104f6fa5ba7b99a60827e3"
 msgid "ཚད་ མེད་པ་␣འི་ སྙིང་རྗེ་ གཞན་དོན་ མཐར་ཐུག་ ཏུ་ བྱེད་ དགོས་ ཏེ །"
