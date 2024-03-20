@@ -18752,21 +18752,25 @@ msgstr ""
 
 msgctxt "2014729b3eb54918bdb01fabfa214321"
 msgid "རྟོགས་ བྱེད་ ཀྱི་ བློ་ འདྲེས་ གང་ཡོད་པ་␣ས་"
-msgstr ""
+msgstr "The mind that realizes it, wherever there is a mixture of them,"
 
 msgctxt "ded9e74c4a234d64b6c2a6398474e26e"
 msgid ""
 "ཆོས་སྐུ་ ལ་ ཡང་ ཀུན་རྫོབ་ ཀྱི་ ཆ་ཤས་ ཅུང་ཟད་ ཡོད་ ཟེར་བ་ སོགས་ སྣང་ ཡང་ །"
 msgstr ""
+"It also appears that some people say that dharmakaya also has a slight "
+"aspect of the relative."
 
 msgctxt "257dde062d4e4f9ab129285c6bea832a"
 msgid "འདི་␣ར་ འབྲས་བུ་ སངས་རྒྱས་ ཀྱི་ ས་ ན་"
-msgstr ""
+msgstr "In this [system], On the level of the resultant Buddhahood,"
 
 msgctxt "35e0468cf836499eb0bd48653a080141"
 msgid ""
 "བདེན་ གཉིས་ ཀྱི་ སྤྲོས་པ་ རྣམ་པ་␣ར་ དབྱེ་བ་␣ར་ བྱ་བ་␣འི་ ཆོས་ ཙམ་ མེད་ དེ་"
 msgstr ""
+"There is not even a phenomenon to be differentiated from the elaborations of"
+" the two truths."
 
 msgctxt "161f6fb1619c453d90fa9446f65e5ee7"
 msgid "དོན་དམ་ དང་ ཀུན་རྫོབ་ ནི་ གཅིག་ ལ་ གཅིག་ ལྟོས་ ནས་ བཞག་པ་␣ས་"
