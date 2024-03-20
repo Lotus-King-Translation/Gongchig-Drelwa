@@ -15454,7 +15454,7 @@ msgid ""
 " བཅུ་བདུན་ བཅས་ ཀྱི་ འགྲེལ་བཤད་ བྱེད་པ་␣འི་ སྐབས་ ཏེ་ ལྔ་པ་␣འོ །"
 msgstr ""
 "This concludes the fifth section, a commentary on the twenty-eight vajra "
-"verses and the seventeen verses of addendums, which summarize the essential "
+"verses and the seventeen verses of addendums, summarizing the essential "
 "points of the secret mantra approach."
 
 msgctxt "f258aa77141b41cdbaab30aa674b39c1"
