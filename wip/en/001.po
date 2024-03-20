@@ -5314,7 +5314,7 @@ msgid ""
 "།"
 msgstr ""
 "Thus, it is established as a complete emergence that all moments from the "
-"arising to the cessation of a single thought."
+"arising to the cessation of a single conceptuality."
 
 msgctxt "85d4dd510e97432a98cdbb9db3c51935"
 msgid ""
