@@ -18800,7 +18800,7 @@ msgstr ""
 
 msgctxt "eb8e9c71f14c43059a837024bb478a4b"
 msgid "གཉིས་ མེད་ གཉིས་ སུ་ མེད་པ་␣ར་ སྟོན ། །"
-msgstr ""
+msgstr "Non-dual is taught to be without dual."
 
 msgctxt "abcf763edff5484aa0c5d50a6f6078b4"
 msgid "ཡང་དག་ མཐའ་ ལ་ རྣམ་པ་␣ར་ གནས །"
