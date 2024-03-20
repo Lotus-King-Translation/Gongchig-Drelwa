@@ -18676,6 +18676,7 @@ msgstr ""
 msgctxt "2f25c0bc13104f6fa5ba7b99a60827e3"
 msgid "ཚད་ མེད་པ་␣འི་ སྙིང་རྗེ་ གཞན་དོན་ མཐར་ཐུག་ ཏུ་ བྱེད་ དགོས་ ཏེ །"
 msgstr ""
+"Immeasurable compassion must be made for the ultimate benefit of others."
 
 msgctxt "d3e55f9751e14976af427b13316913d8"
 msgid "སྟོང་ཉིད་ སྙིང་རྗེ་ དང་ བྲལ་ ན་ དམན་པ་␣ར་ འགྱུར་བ་␣འི་ ཕྱིར །"
