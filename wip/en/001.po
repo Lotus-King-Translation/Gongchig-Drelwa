@@ -18684,7 +18684,7 @@ msgstr "If one separates from emptiness and compassion, one becomes inferior."
 
 msgctxt "5012928765dc44038cd2f1f047416bb3"
 msgid "དེ་ གསུམ་ གཅེས་པ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "Thus, these three are to be cherished."
 
 msgctxt "0ef727766ef94d4688b0f5071d149379"
 msgid ""
