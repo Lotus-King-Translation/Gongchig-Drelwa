@@ -18665,7 +18665,7 @@ msgstr "One must accomplish the immeasurable qualities of complete ripening."
 
 msgctxt "c2aee18da8c3413194cdbb884e7469dd"
 msgid "རྒྱུ་རྐྱེན་ མེད་པ་␣ར་ མི་ འབྱུང་བ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "Because they do not occur without causes and conditions."
 
 msgctxt "9212ce4fc973456395c66c7753a19227"
 msgid "གསུམ་པ་ རང་ཉིད་ གཅིག་པུ་ ཞི་བདེ་ འདོད་པ་␣འི་ སེམས་ སྤངས་ ནས་"
