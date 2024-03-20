@@ -8246,7 +8246,7 @@ msgid ""
 "གསུམ་པ་␣འི་ འགྲེལ་བཤད་ ཀྱི་ སྐབས་ ཏེ་ གསུམ་པ་␣འོ ། །"
 msgstr ""
 "This concludes the third section, a commentary on the twenty vajra verses "
-"and the three verses of addendums, which summarize the essential points of "
+"and the three verses of addendums, summarizing the essential points of "
 "individual emancipation."
 
 msgctxt "6eddbc6188034cb79947ef72fa610937"
