@@ -18779,7 +18779,7 @@ msgstr ""
 
 msgctxt "bba24c248d074d959584e549c6e54c35"
 msgid "འབྲས་བུ་ གཉིས་ མེད་"
-msgstr ""
+msgstr "The result is the non-dual"
 
 msgctxt "6b326d64cb564cff903df287889c3be5"
 msgid "མཉམ་པ་ཉིད་ དུ་ གྱུར་པ་␣ས་ ན་"
