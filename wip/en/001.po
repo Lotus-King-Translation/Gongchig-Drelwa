@@ -18783,7 +18783,7 @@ msgstr "The result is the non-dual"
 
 msgctxt "6b326d64cb564cff903df287889c3be5"
 msgid "མཉམ་པ་ཉིད་ དུ་ གྱུར་པ་␣ས་ ན་"
-msgstr ""
+msgstr "When it becomes equality,"
 
 msgctxt "46bc37e19ff141a49a0aad9a354c4b53"
 msgid "དོན་དམ་པ་ ལ་ ལྟོས་པ་␣འི་ ཀུན་རྫོབ་ མེད་ ཅིང་ །"
