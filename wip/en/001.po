@@ -18882,6 +18882,8 @@ msgstr "Because by infinite others, it is beyond all dualistic phenomena."
 msgctxt "46eefd87b44f427d8b3e628a39641fa9"
 msgid "རྡོ་␣༽༽  བརྟེན་པ་ ཡེ་ཤེས་ ལ་ ཟླ་གྲགས་ སོགས་ ཐལ་འགྱུར་བ་ འགའ་ཞིག་"
 msgstr ""
+"Vajra: To the supported wisdom, Chandrakirti and some followers of the "
+"Prasangika [Madhyamaka] system,"
 
 msgctxt "37a54ae0a11c49499583c62bc523dde3"
 msgid ""
