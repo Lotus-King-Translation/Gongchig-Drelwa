@@ -18895,7 +18895,7 @@ msgstr ""
 
 msgctxt "bc694a1aa26a412b93fc026d8d71d51c"
 msgid "གཉེན་པོ་ ཡེ་ཤེས་ ཀྱང་ ཡོད་ དེ་"
-msgstr ""
+msgstr "The remedy wisdom is also present."
 
 msgctxt "59115100083b44a38496619da583c176"
 msgid "ཤིང་ ཡོད་ ཚེ་ མེ་ལྕེ་ ཡོད་པ་ བཞིན་ ནོ ། །"
