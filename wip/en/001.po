@@ -18877,7 +18877,7 @@ msgstr "Emptiness is form."
 
 msgctxt "8718ef893b8040c7b5d12c925622ed99"
 msgid "ཞེས་ སོགས་ མཐའ་ཡས་པ་␣ས་ གཉིས་ ཆོས་ ཐམས་ཅད་ ལ་␣ས་ འདས་པ་ ཡིན་ ནོ །"
-msgstr ""
+msgstr "Because by infinite others, it is beyond all dualistic phenomena."
 
 msgctxt "46eefd87b44f427d8b3e628a39641fa9"
 msgid "རྡོ་␣༽༽  བརྟེན་པ་ ཡེ་ཤེས་ ལ་ ཟླ་གྲགས་ སོགས་ ཐལ་འགྱུར་བ་ འགའ་ཞིག་"
