@@ -18919,7 +18919,7 @@ msgstr "During that, it is unborn and unceasing."
 
 msgctxt "056e82aa1d3b4aad95c26a651d0eaad7"
 msgid "སེམས་ འགགས་པ་ དེ་ སྐུ་ ཡིས་ མངོན་སུམ་ མཛད །"
-msgstr ""
+msgstr "The cessation of the mind is actualized by the body."
 
 msgctxt "a950b35ee7474630b637749019527bc3"
 msgid "ཅེས་ དང །"
