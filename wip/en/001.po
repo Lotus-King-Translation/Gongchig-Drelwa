@@ -18873,7 +18873,7 @@ msgstr "Form is empty,"
 
 msgctxt "b0ce5a73852940c3a6e67aaf276f3a7d"
 msgid "༑་␣སྟོང་པ་ཉིད་ གཟུགས་ སོ་␣༑ །"
-msgstr ""
+msgstr "Emptiness is form."
 
 msgctxt "8718ef893b8040c7b5d12c925622ed99"
 msgid "ཞེས་ སོགས་ མཐའ་ཡས་པ་␣ས་ གཉིས་ ཆོས་ ཐམས་ཅད་ ལ་␣ས་ འདས་པ་ ཡིན་ ནོ །"
