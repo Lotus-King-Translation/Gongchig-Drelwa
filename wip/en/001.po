@@ -18945,7 +18945,7 @@ msgstr "Also, Bhavaviveka and other proponents of the autonomy system, say:"
 
 msgctxt "2ea0ab18a5864bc4bada361391154a37"
 msgid "མཐར་ཐུག་ ཡེ་ཤེས་ ནི་ ནམ་མཁའ་ ལ་ འདོམ་ གྱི་ གཞལ་བ་␣འམ་"
-msgstr ""
+msgstr "The ultimate wisdom is like measuring the sky by fathom or"
 
 msgctxt "6d191332e4bd487c817d11d09ae73a4c"
 msgid "མཚོན་ གྱི་ རི་མོ་ འབྲི་བ་ བཞིན་ ནོ ། །"
