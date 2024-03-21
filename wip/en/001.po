@@ -13246,7 +13246,7 @@ msgstr "Likewise, "
 
 msgctxt "ed65f39d92a1437b96c1a10510c62f0f"
 msgid "རྟེན་ ཅིང་ འབྲེལ་ འབྱུང་ མ་གཏོགས་པ་␣འི ། །"
-msgstr "Other than dependent origination,"
+msgstr "Other than dependent-related arising,"
 
 msgctxt "884cd2c789274ddda4988ee9107fac37"
 msgid "ཆོས་ འགའ་ ཡོད་པ་ མ་ ཡིན་ ནོ ། །"
