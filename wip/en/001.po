@@ -18907,7 +18907,7 @@ msgstr "That as well,"
 
 msgctxt "653b6a2a45324a508c16de6cc22ba07d"
 msgid "ཤེས་བྱ་␣འི་ བུད་ཤིང་ སྐམ་པོ་ མ་ལུས་པ ། །"
-msgstr ""
+msgstr "Since all the dry firewood of knowlable none excluded"
 
 msgctxt "53c223e0ebd745fabc380c794adb2b1f"
 msgid "བསྲེགས་པ་␣ས་ ཞིང་ དེ་ རྒྱལ་ རྣམས་ ཆོས་སྐུ་ དེ ། །"
