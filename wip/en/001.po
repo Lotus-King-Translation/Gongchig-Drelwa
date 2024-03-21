@@ -18931,7 +18931,7 @@ msgstr "According to The Heart of Wisdom Sutra:"
 
 msgctxt "5f3910d6879848e382836f8eae8a7eb1"
 msgid "ཡེ་ཤེས་ མེད་ ཅེས་པ་␣ས་ སོ ། །"
-msgstr ""
+msgstr "It is said that there is no primordial wisdom."
 
 msgctxt "864a38f977da47dca9ad68fb296b0f25"
 msgid "ཡོད་པ་␣ར་ གསུངས་པ་ ནི་ གཞན་དབང་ ཡིན་ ཟེར་ རོ ། །"
