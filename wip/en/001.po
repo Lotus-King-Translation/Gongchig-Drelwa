@@ -5143,7 +5143,7 @@ msgstr "Monks, when I was staying at the essence of enlightenment, "
 
 msgctxt "d413dbceebbb450ba2d3dfa399ac8be1"
 msgid "རྟེན་ ཅིང་ འབྲེལ་བ་␣ར་ འབྱུང་བ་ འདི་ སྔོན་ དུ་ བྱས་པ་␣ས་"
-msgstr "Because [I] first put an effort into this dependent relation,"
+msgstr "Because [I] first put an effort into this dependent-related arising,"
 
 msgctxt "a30cfe82e8364dac8f803b5c4c998493"
 msgid "ང་ བླ་ ན་ མེད་པ་␣འི་ བྱང་ཆུང་ ཏུ་ སངས་རྒྱས་ སོ ། །"
