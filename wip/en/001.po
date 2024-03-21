@@ -18853,7 +18853,7 @@ msgstr "There is no nihilation and no permanence,"
 
 msgctxt "bca29d9cdb8f4118992293fda2106e81"
 msgid "འོང་བ་ མེད་པ་ འགྲོ་མེད་པ ། །"
-msgstr ""
+msgstr "There is no coming or no going."
 
 msgctxt "47131d3c5b394e938b7450cbd0fb5c07"
 msgid "ཐ་དད་ དོན་ མིན་ དོན་ གཅིག་ མིན །"
