@@ -18911,7 +18911,7 @@ msgstr "Since all the dry firewood of knowlable none excluded"
 
 msgctxt "53c223e0ebd745fabc380c794adb2b1f"
 msgid "བསྲེགས་པ་␣ས་ ཞིང་ དེ་ རྒྱལ་ རྣམས་ ཆོས་སྐུ་ དེ ། །"
-msgstr ""
+msgstr "Is burned up, that field is the dharmakaya of the conquerors."
 
 msgctxt "216d7c045b8a423b896d3ed66e162250"
 msgid "དེ་ ཚེ་ སྐྱེ་བ་ མེད་ ཅིང་ འགག་པ་ མེད ། །"
