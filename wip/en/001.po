@@ -18849,7 +18849,7 @@ msgstr "It is unceasing and unborn."
 
 msgctxt "d3b33559a3b94efe9829b6176f6ad81d"
 msgid "ཆད་པ་ མེད་པ་ རྟག་ མེད་པ ། །"
-msgstr ""
+msgstr "There is no nihilation and no permanence,"
 
 msgctxt "bca29d9cdb8f4118992293fda2106e81"
 msgid "འོང་བ་ མེད་པ་ འགྲོ་མེད་པ ། །"
