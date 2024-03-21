@@ -18857,7 +18857,7 @@ msgstr "There is no coming or no going."
 
 msgctxt "47131d3c5b394e938b7450cbd0fb5c07"
 msgid "ཐ་དད་ དོན་ མིན་ དོན་ གཅིག་ མིན །"
-msgstr ""
+msgstr "[They] are not distinct, nor are [they] the same."
 
 msgctxt "3b1bfc3c1ac442f89abbff5d7cd6eccb"
 msgid "ཞེས་ དང་ །"
