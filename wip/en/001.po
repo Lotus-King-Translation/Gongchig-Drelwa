@@ -728,7 +728,7 @@ msgstr ""
 
 msgctxt "c9b6c4f5aa0e4b0dbb33df53920b9cc5"
 msgid "རྟེན་ ཅིང་ འབྲེལ་ འབྱུང་ མ་གཏོགས་པ་ སོགས་ ཞེས་པ་ ལྟར་"
-msgstr "Other than dependent origination, as said so on. "
+msgstr "Other than dependent-related arising, as said so on. "
 
 msgctxt "77326febb928436b82cf43ffd785b029"
 msgid ""
