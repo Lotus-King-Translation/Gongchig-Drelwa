@@ -18941,7 +18941,7 @@ msgstr ""
 
 msgctxt "989fa7fa21c045119ce7a936ca598b2b"
 msgid "ཡང་ ལེགས་ལྡན་ སོགས་ རང་རྒྱུད་པ་ རྣམས་ ནི་"
-msgstr ""
+msgstr "Also, Bhavaviveka and other proponents of the autonomy system, say:"
 
 msgctxt "2ea0ab18a5864bc4bada361391154a37"
 msgid "མཐར་ཐུག་ ཡེ་ཤེས་ ནི་ ནམ་མཁའ་ ལ་ འདོམ་ གྱི་ གཞལ་བ་␣འམ་"
