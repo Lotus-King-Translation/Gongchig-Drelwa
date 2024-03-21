@@ -18845,7 +18845,7 @@ msgstr "That which occurs in dependent-related arising,"
 
 msgctxt "215b17ec50574ed6985bb6330c15e0c5"
 msgid "འགག་པ་ མེད་པ་ སྐྱེ་ མེད་པ ། །"
-msgstr ""
+msgstr "It is unceasing and unborn."
 
 msgctxt "d3b33559a3b94efe9829b6176f6ad81d"
 msgid "ཆད་པ་ མེད་པ་ རྟག་ མེད་པ ། །"
