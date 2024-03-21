@@ -18936,6 +18936,8 @@ msgstr "It is said that there is no primordial wisdom."
 msgctxt "864a38f977da47dca9ad68fb296b0f25"
 msgid "ཡོད་པ་␣ར་ གསུངས་པ་ ནི་ གཞན་དབང་ ཡིན་ ཟེར་ རོ ། །"
 msgstr ""
+"It is said that the statement that says it exists is the other-powered "
+"[character]."
 
 msgctxt "989fa7fa21c045119ce7a936ca598b2b"
 msgid "ཡང་ ལེགས་ལྡན་ སོགས་ རང་རྒྱུད་པ་ རྣམས་ ནི་"
