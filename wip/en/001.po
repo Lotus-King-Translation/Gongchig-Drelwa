@@ -529,7 +529,7 @@ msgstr "As it is also said:"
 
 msgctxt "e800900bd4d345009a6d5c61f5fd50c3"
 msgid "རྟེན་ ཅིང་ འབྲེལ་ འབྱུང་ མ་གཏོགས་པ་␣འི ། །"
-msgstr "Other than dependent origination,"
+msgstr "Other than dependent-related arising,"
 
 msgctxt "58337c86f23c49afa46021db6715376e"
 msgid "ཆོས་ འགའ་ ཡོད་པ་ མ་ཡིན་པ ། །"
