@@ -18899,7 +18899,7 @@ msgstr "The remedy wisdom is also present."
 
 msgctxt "59115100083b44a38496619da583c176"
 msgid "ཤིང་ ཡོད་ ཚེ་ མེ་ལྕེ་ ཡོད་པ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "Like when there is wood, there is fire."
 
 msgctxt "b2ee1a9160924775991418e738a60506"
 msgid "དེ་ལྟར་ ཡང །"
