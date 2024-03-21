@@ -18949,7 +18949,7 @@ msgstr "The ultimate wisdom is like measuring the sky by fathom or"
 
 msgctxt "6d191332e4bd487c817d11d09ae73a4c"
 msgid "མཚོན་ གྱི་ རི་མོ་ འབྲི་བ་ བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "Drawing a picture with a weapon."
 
 msgctxt "300044d2d5b64e79861d0ab2d56c7a0e"
 msgid "ཡེཤེས་ དེ་ ཐོས་ ནས་ ཐེ་ཚོམ་ ཟོས་པ་ ཙམ་ གྱིས་ ཀྱང་"
