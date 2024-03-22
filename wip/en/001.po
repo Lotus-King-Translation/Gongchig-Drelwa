@@ -18969,7 +18969,7 @@ msgstr "Whoever hears this Dharma or"
 
 msgctxt "9683aa66d3154baaaf46466a2e337ea5"
 msgid "ཐོས་ ནས་ ཐེ་ཚོམ་ ཟོས་པ་␣ས་ ཀྱང༌ ། །"
-msgstr ""
+msgstr "Having a doubt after hearing this,"
 
 msgctxt "6daaedf28fd64e1fbd01b6729d42aa56"
 msgid "སྲིད་པ་ ཧྲུལ་པོ་␣ར་ གཏོང་བ་␣ར་ བྱེད །"
