@@ -19015,7 +19015,7 @@ msgstr ""
 
 msgctxt "211bb57b23134f2faa9bf95fb67c946a"
 msgid "དེ་ལྟར་ ཡང་ ཆོས་ ཀུན་ སྒྱུ་མ་␣ར་ ཐུགས་ སུ་ ཆུད །"
-msgstr ""
+msgstr "Likewise, [he] has realized all phenomena as illusions."
 
 msgctxt "d4910135e86f4ef186ab2e77b2bba36a"
 msgid "སྒྱུ་མ་ ཉིད་ ཀྱང་ མཆིས་ མ་ ལགས ། །"
