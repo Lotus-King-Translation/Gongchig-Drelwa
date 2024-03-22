@@ -18953,7 +18953,7 @@ msgstr "Drawing a picture with a weapon."
 
 msgctxt "300044d2d5b64e79861d0ab2d56c7a0e"
 msgid "ཡེཤེས་ དེ་ ཐོས་ ནས་ ཐེ་ཚོམ་ ཟོས་པ་ ཙམ་ གྱིས་ ཀྱང་"
-msgstr ""
+msgstr "Merely hearing about this wisdom and having doubts about it."
 
 msgctxt "6be368844c8a4d8f80afb427422b3efe"
 msgid "འཁོར་བ་ ནུས་ མེད་ དུ་ གཏོང་ སྟེ །"
