@@ -18965,7 +18965,7 @@ msgstr "The Four Hundred Verses [on the Middle Way]:"
 
 msgctxt "f844124c742a49979b33a745a721848f"
 msgid "གང་ཞིག་ ཆོས་ འདི་ ཐོས་པ་␣འམ །"
-msgstr ""
+msgstr "Whoever hears this Dharma or"
 
 msgctxt "9683aa66d3154baaaf46466a2e337ea5"
 msgid "ཐོས་ ནས་ ཐེ་ཚོམ་ ཟོས་པ་␣ས་ ཀྱང༌ ། །"
