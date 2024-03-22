@@ -19083,7 +19083,7 @@ msgstr ""
 
 msgctxt "6e96d68bd7f64f3a9ab3a177cdc9a2c0"
 msgid "ཐུགས་ ཚད་མ་ ཡིན་ ལ་"
-msgstr ""
+msgstr "The mind is valid cognition."
 
 msgctxt "1721fbfa61104dfaa2ccb29b922a2a64"
 msgid "གཉིས་པ་ ཕྱིན་ཆད་ བཅད་ཤེས་ སྒྲོ་འདོགས་ ཆོད་པ་ ཡིན་པ་␣ས་"
