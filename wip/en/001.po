@@ -18993,7 +18993,7 @@ msgstr ""
 
 msgctxt "a54d6782830047eea55a9edf03380797"
 msgid "སངས་རྒྱས་ ཆོས་ཅན་"
-msgstr ""
+msgstr "Take the subject the Buddha,"
 
 msgctxt "62cb1e02ba6d4a3a9ece58102ef4b1f5"
 msgid "ཁྱོད་ སྒྱུ་མ་ ལྟ་བུ་␣འི་ ཆོས་ ལ་␣ས་ ཀྱང་ ཡང་དག་པ་␣ར་ འདས་པ་ ཡིན་ ཏེ་"
