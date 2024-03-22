@@ -19088,6 +19088,8 @@ msgstr "The mind is valid cognition."
 msgctxt "1721fbfa61104dfaa2ccb29b922a2a64"
 msgid "གཉིས་པ་ ཕྱིན་ཆད་ བཅད་ཤེས་ སྒྲོ་འདོགས་ ཆོད་པ་ ཡིན་པ་␣ས་"
 msgstr ""
+"From the second [moment], it is subsequent cognition that eliminates "
+"exaggeration."
 
 msgctxt "b1c65020ce7d4f778777518a6f6fff55"
 msgid "ཚད་མ་␣ར་ མི་ འགྱུར་ ཟེར་བ་ དག་ ཀྱང་ ཡོད་ དོ །"
