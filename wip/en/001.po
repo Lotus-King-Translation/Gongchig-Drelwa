@@ -19105,7 +19105,7 @@ msgstr "[They] always dwell in valid cognition."
 
 msgctxt "a0f2af9ec69348d6bc76b027b0a0d0c3"
 msgid "དེ་བཞིན་ གཤེགས་པ་ འཇིག་རྟེན་ ན་མཉམ་པ་ མེད་པ་ དང་"
-msgstr ""
+msgstr "Because the Tathagata is peerless in the world and "
 
 msgctxt "bdba5fd5ac4c4e07ab3852ee07d6bc14"
 msgid "མི་ བསླུ་བ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ ། །"
