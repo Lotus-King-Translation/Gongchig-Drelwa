@@ -19005,6 +19005,8 @@ msgid ""
 "འཁོར་འདས་ ཀྱི་ ཆོས་མ་ ལུས་པ་ སྤྲོས་པ་ དང་ བྲལ་བ་␣འི་ ངོ་བོ་␣ར་ "
 "སངས་རྒྱས་པ་␣འི་ ཕྱིར་ དང་ ༑"
 msgstr ""
+"Because [he] is enlightened from all the phenomena of samsara and nirvana "
+"none excluded, in the essence of free from elaboration."
 
 msgctxt "9422a03ce1f8442cb664a7ee5f9cbac2"
 msgid "སྒྱུ་མ་ ནི་ འཁྲུལ་ཤེས་ མི་རྟག་པ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ ། །"
