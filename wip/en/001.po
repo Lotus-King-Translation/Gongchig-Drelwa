@@ -19101,7 +19101,7 @@ msgstr "In this [system], the times of buddhas"
 
 msgctxt "5b6809bc60d9494ba0f8777ca1307293"
 msgid "རྟག་ ཏུ་ ཚད་མ་␣ར་ བཞུགས་པ་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "[They] always dwell in valid cognition."
 
 msgctxt "a0f2af9ec69348d6bc76b027b0a0d0c3"
 msgid "དེ་བཞིན་ གཤེགས་པ་ འཇིག་རྟེན་ ན་མཉམ་པ་ མེད་པ་ དང་"
