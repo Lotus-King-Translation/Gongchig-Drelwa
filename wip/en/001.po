@@ -18997,7 +18997,7 @@ msgstr "Take the subject the Buddha,"
 
 msgctxt "62cb1e02ba6d4a3a9ece58102ef4b1f5"
 msgid "ཁྱོད་ སྒྱུ་མ་ ལྟ་བུ་␣འི་ ཆོས་ ལ་␣ས་ ཀྱང་ ཡང་དག་པ་␣ར་ འདས་པ་ ཡིན་ ཏེ་"
-msgstr "He has genuinely transcended from the illusory-like phenomena because"
+msgstr "He has genuinely transcended from the illusory-like phenomena."
 
 msgctxt "f3f026d25858435e8d0d21b2638b8ceb"
 msgid ""
