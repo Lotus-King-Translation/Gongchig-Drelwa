@@ -19039,7 +19039,7 @@ msgstr "It is beyond the mind."
 
 msgctxt "5ed441e4b1fc4aab990f25f5ddf96658"
 msgid "འོ་ན་ སྒྱུ་མ་ ལྟར་ གསུངས་པ་ ཅི་ ཞེ་ན །"
-msgstr ""
+msgstr "One may ask, \"Well then, why is it said to be like an illusion?\""
 
 msgctxt "95486545b39b4147abb68e05de1f9446"
 msgid "དེ་ ནི་ སྒྱུ་མ་ ལ་␣ས་ འདས་པ་␣ར་"
