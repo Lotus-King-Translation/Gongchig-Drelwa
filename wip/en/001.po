@@ -19109,7 +19109,7 @@ msgstr "Because the Tathagata is peerless in the world and "
 
 msgctxt "bdba5fd5ac4c4e07ab3852ee07d6bc14"
 msgid "མི་ བསླུ་བ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "And is non-deceptive."
 
 msgctxt "280945db37124dedb670483e542952ff"
 msgid "དེ་ལྟར་ ཡང་ ལག་ ན་ རྡོ་རྗེ་ དབར་ བསྐུར་བ་␣འི་ རྒྱུད་ ལ་␣ས །"
