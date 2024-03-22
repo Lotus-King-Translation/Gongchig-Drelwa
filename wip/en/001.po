@@ -18973,7 +18973,7 @@ msgstr "Having a doubt after hearing this,"
 
 msgctxt "6daaedf28fd64e1fbd01b6729d42aa56"
 msgid "སྲིད་པ་ ཧྲུལ་པོ་␣ར་ གཏོང་བ་␣ར་ བྱེད །"
-msgstr ""
+msgstr "It will make samsara to tear and tatter."
 
 msgctxt "dcd45bb7504a4fb6b260996681b78155"
 msgid "ཅེས་ སོ ། །"
