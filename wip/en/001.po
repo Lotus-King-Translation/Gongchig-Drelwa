@@ -19043,7 +19043,7 @@ msgstr "One may ask, \"Well then, why is it said to be like an illusion?\""
 
 msgctxt "95486545b39b4147abb68e05de1f9446"
 msgid "དེ་ ནི་ སྒྱུ་མ་ ལ་␣ས་ འདས་པ་␣ར་"
-msgstr ""
+msgstr "This is beyond illusion and"
 
 msgctxt "29f62fadfea640c08385619f9782466a"
 msgid "མ་ རྟོགས་པ་␣འི་ སེམས་ཅན་ སྒྱུ་མ་ དང་ རྨི་ལམ་ བཞིིན་"
