@@ -18957,7 +18957,7 @@ msgstr "Merely hearing about this wisdom and having doubts about it."
 
 msgctxt "6be368844c8a4d8f80afb427422b3efe"
 msgid "འཁོར་བ་ ནུས་ མེད་ དུ་ གཏོང་ སྟེ །"
-msgstr "It will drive samsara powerless."
+msgstr "It will render samsara powerless."
 
 msgctxt "bb2388c0fdb34b978583af68b77db694"
 msgid "བཞི་བརྒྱ་པ་␣ར །"
