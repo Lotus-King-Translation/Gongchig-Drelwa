@@ -19097,7 +19097,7 @@ msgstr "There are also called [one] who becomes a valid [person],"
 
 msgctxt "5f26b4b76962466cb1248f0dcc9d2da8"
 msgid "འདི་␣ར་ སངས་རྒྱས་པ་␣འི་ དུས་ རྣམས་"
-msgstr ""
+msgstr "In this [system], the times of enlightenment"
 
 msgctxt "5b6809bc60d9494ba0f8777ca1307293"
 msgid "རྟག་ ཏུ་ ཚད་མ་␣ར་ བཞུགས་པ་ ཡིན་ ཏེ །"
