@@ -19071,7 +19071,7 @@ msgstr ""
 
 msgctxt "7c771ef74b114202946a0d77335d0eb3"
 msgid "བདུན་ དུ་ གསུསངས་པ་␣ས ༑"
-msgstr ""
+msgstr "As they are said to be seven."
 
 msgctxt "9904a58d62ea40749298f9f014d5fb02"
 msgid ""
