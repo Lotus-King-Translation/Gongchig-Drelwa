@@ -19048,6 +19048,7 @@ msgstr "This is beyond illusion and"
 msgctxt "29f62fadfea640c08385619f9782466a"
 msgid "མ་ རྟོགས་པ་␣འི་ སེམས་ཅན་ སྒྱུ་མ་ དང་ རྨི་ལམ་ བཞིིན་"
 msgstr ""
+"The sentient beings without realization are like illusions and dreams."
 
 msgctxt "5fa08f9c6d3e4d11886e56c38cf86253"
 msgid "ཁམས་ གསུམ་ དུ་ འཁོར་བ་ རྣམས་ ཀྱི་ ངོ་␣ར་ གསུངས་ སོ ། །"
