@@ -19027,7 +19027,7 @@ msgstr "Completely liberated from illusory phenomena."
 
 msgctxt "b6f8d858b6ac4908aab079a51c7511c3"
 msgid "མི་ རྟེན་ ཁྱོད་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
-msgstr ""
+msgstr "I pay homage to you, the one who is not dependent."
 
 msgctxt "1514ddc556494d52b7cfbb5fa9e43a5b"
 msgid "ཞེས་ ཡེ་ཤེས་ སྣང་བ་ རྒྱན་ ལ་␣ས་ གསུངས་པ་␣ས་"
