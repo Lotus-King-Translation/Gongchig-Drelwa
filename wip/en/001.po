@@ -19078,6 +19078,8 @@ msgid ""
 "ཐོ་ རང་ རྣམ་པ་ ཐམས་ཅད་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ བརྙེས་པ་␣འི་ སྐད་ཅིག་ དང་པོ་ "
 "ཕན་ཆད་"
 msgstr ""
+"Upto the first moment of attaining the primordial wisdom of knowing, all the"
+" aspects of dawn are"
 
 msgctxt "6e96d68bd7f64f3a9ab3a177cdc9a2c0"
 msgid "ཐུགས་ ཚད་མ་ ཡིན་ ལ་"
