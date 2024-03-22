@@ -19053,6 +19053,7 @@ msgstr ""
 msgctxt "5fa08f9c6d3e4d11886e56c38cf86253"
 msgid "ཁམས་ གསུམ་ དུ་ འཁོར་བ་ རྣམས་ ཀྱི་ ངོ་␣ར་ གསུངས་ སོ ། །"
 msgstr ""
+"This is said from the perspective of those who circle in the three realms."
 
 msgctxt "ea2d85d737114ade84d0b6d1fe13ac83"
 msgid "རྡོ་␣༽༽  ཚད་མ་␣འི་ བློ་ མངོན་སུམ་ དང་ རྗེས་དཔག་ གཉིས་"
