@@ -19011,6 +19011,7 @@ msgstr ""
 msgctxt "9422a03ce1f8442cb664a7ee5f9cbac2"
 msgid "སྒྱུ་མ་ ནི་ འཁྲུལ་ཤེས་ མི་རྟག་པ་ ཡིན་པ་␣འི་ ཕྱིར་ རོ ། །"
 msgstr ""
+"This is because an illusion is a confused consciousness that is impermanent."
 
 msgctxt "211bb57b23134f2faa9bf95fb67c946a"
 msgid "དེ་ལྟར་ ཡང་ ཆོས་ ཀུན་ སྒྱུ་མ་␣ར་ ཐུགས་ སུ་ ཆུད །"
