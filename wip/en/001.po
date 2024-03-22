@@ -19023,7 +19023,7 @@ msgstr "The illusion itself does not exist."
 
 msgctxt "439c64ef80d048109fc4f13f6debce14"
 msgid "སྒྱུ་མ་␣འི་ ཆོས་ ལ་␣ས་ རྣམ་གྲོལ་བ ། །"
-msgstr "Being completely liberated from illusory phenomena."
+msgstr "Completely liberated from illusory phenomena."
 
 msgctxt "b6f8d858b6ac4908aab079a51c7511c3"
 msgid "མི་ རྟེན་ ཁྱོད་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
