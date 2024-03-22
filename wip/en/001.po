@@ -18988,6 +18988,8 @@ msgid ""
 "ཡང་ སྒྱུ་མ་ ལྟ་བུ་ གསུངས་པ་␣ས་ སངས་རྒྱས་ ཀྱང་ སྒྱུ་མ་ ལྟ་བུ་ ཞེས་ འག་␣ར་ "
 "སོགས་ ཀྱིས་ ཟེར་ རོ ། །"
 msgstr ""
+"Also, because when it is like an illusion, some say that even the Buddha is "
+"like an illusion."
 
 msgctxt "a54d6782830047eea55a9edf03380797"
 msgid "སངས་རྒྱས་ ཆོས་ཅན་"
