@@ -19031,11 +19031,11 @@ msgstr "I pay homage to you, the one who is not dependent."
 
 msgctxt "1514ddc556494d52b7cfbb5fa9e43a5b"
 msgid "ཞེས་ ཡེ་ཤེས་ སྣང་བ་ རྒྱན་ ལ་␣ས་ གསུངས་པ་␣ས་"
-msgstr ""
+msgstr "The Ornament of the Light of Wisdom says:"
 
 msgctxt "44fbe493c17f4d2996ea704ef1898498"
 msgid "བློ་ ལ་␣ས་ འདས་པ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "It is beyond the mind."
 
 msgctxt "5ed441e4b1fc4aab990f25f5ddf96658"
 msgid "འོ་ན་ སྒྱུ་མ་ ལྟར་ གསུངས་པ་ ཅི་ ཞེ་ན །"
