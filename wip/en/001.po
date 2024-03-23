@@ -19236,7 +19236,7 @@ msgstr "As said,"
 
 msgctxt "86d66deaec2a48ab944fda020d251420"
 msgid "དེས་ན་ ཆོས་ ཐམས་ཅད་ ཀྱི་ གནས་ལུགས་ ཇི་ལྟ་བ་ མཁྱེན་པ་ དང༌ །"
-msgstr ""
+msgstr "Therefore, knowing the actuality of all phenomena just  as it is and"
 
 msgctxt "dacbb7f74c2f46fb98adfaeaaceea95a"
 msgid "སྟོང་ཉིད་ རྒྱུ་འབྲས་ སུ་ འབྱུང་བ་␣འི་ ཆོས་ ཐམས་ཅད་ ཀྱི་"
