@@ -19199,7 +19199,7 @@ msgstr "This is because it is not only that the final wisdom,"
 
 msgctxt "6ae74ff8940443509b52dd1c99d7d3d8"
 msgid "ལམ་ གྱི་ དོན་དམ་ ཡང་ བློ་␣འི་ ཡུལ་ མིན་པ་␣འི་ ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "But also the absolute of the path is not an object of the mind."
 
 msgctxt "214776bb5e5c48778bcfae66651196e1"
 msgid "དེ་ལྟར་ ཡང་ མཚན་ བརྗོད་ ལ་␣ས །"
