@@ -19228,7 +19228,7 @@ msgstr "The absolute [truth] is beyond the reach of the mind."
 
 msgctxt "418afc6a623b4742a7c19b92940e7ff8"
 msgid "བློ་ ནི་ ཀུན་རྫོབ་ ཡིན་པ་␣ར་ འདོད །"
-msgstr ""
+msgstr "The mind is accpeted as the relative."
 
 msgctxt "315bd21886de4b049b2f716f10c57e29"
 msgid "ཅེས་ སོ །"
