@@ -19120,6 +19120,8 @@ msgid ""
 "དེ་བཞིན་ གཤེགས་པ་ ལྷ་ དང་ བཅས་པ་␣འི་ འཇིག་རྟེན་ གྱི་ ཚད་མ་ མི་ བསླུ་བ་␣འོ "
 "། །"
 msgstr ""
+"The Tathagata is a valid [person] and non-deceptive of the world and its "
+"gods."
 
 msgctxt "c18007938267400ab25c44a7d1f38068"
 msgid "ཞེས་ དང༌ །"
