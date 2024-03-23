@@ -19191,6 +19191,7 @@ msgstr "[He] is seated in the inconceivable profound wheel."
 msgctxt "101bc3e511d84c018630c1585ada1b2f"
 msgid "ཡོད་མེད་ དུ་ འདོད་པ་ ནི་ གཉིས་ སྣང་ གི་ བློ་ ཡིན་ ལ་"
 msgstr ""
+"The acceptance of existence or non-existence is a mind of dual appearances."
 
 msgctxt "f4a36f6e1ea24152acc96bc67a412488"
 msgid "མཐའ་ ཐུག་ གི་ ཡེ་ཤེས་ སུ་ མ་ཟད་"
