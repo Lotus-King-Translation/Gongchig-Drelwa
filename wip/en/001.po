@@ -19166,6 +19166,8 @@ msgid ""
 "མ་ འདྲེས་པ་ བཅོ་བརྒྱད་ ལ་␣ས་ ཡེ་ཤེས་ ཀྱི་ བསྡུས་པ་ གསུམ་ དུ་ གསུངས་པ་␣འི་ "
 "ཕྱིར་ ཡོད་ དོ་"
 msgstr ""
+"It is said that from the eighteen unsharings, the three  are summarized in "
+"primordial wisdom."
 
 msgctxt "04d335643d894b3ba511aa48f1b82baf"
 msgid "ཞེས་ སྨྲ་ ཡང་ །"
