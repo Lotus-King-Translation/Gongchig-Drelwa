@@ -19208,7 +19208,7 @@ msgstr ""
 
 msgctxt "eaf9a2de5d8d4de6aa2c34d52f0a70d4"
 msgid "གཉིས་ མེད་ ཡེ་ཤེས་ ཚུལ་ འཆང་བ ། །"
-msgstr ""
+msgstr "By holding the way of non-dual primordial wisdom."
 
 msgctxt "0777a1dd980647118c82be6d55a81b7d"
 msgid "རྣམ་པ་␣ར་ ཤེས་པ་␣འི་ ཆོས་ཉིད་ འདས །"
