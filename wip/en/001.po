@@ -19212,7 +19212,7 @@ msgstr "By holding the way of non-dual primordial wisdom."
 
 msgctxt "0777a1dd980647118c82be6d55a81b7d"
 msgid "རྣམ་པ་␣ར་ ཤེས་པ་␣འི་ ཆོས་ཉིད་ འདས །"
-msgstr ""
+msgstr "Transcend the nature of phenomena of consciousness."
 
 msgctxt "58ffc14921e34604ad7ebe64eab1b400"
 msgid "ཞེས་ དང༌ །"
