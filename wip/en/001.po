@@ -19143,7 +19143,7 @@ msgstr ""
 
 msgctxt "b01ff9b8c5c7402dbda7c8830e74adce"
 msgid "རྒྱ་མཚོ་ འདྲ་བ་␣འི་ སངས་རྒྱས་ ཆོས་ ཀྱང་ མེད་པ་␣ར་ གྱུར །"
-msgstr ""
+msgstr "The ocean-like Buddhadharma will also become non-existence."
 
 msgctxt "6688e4a92e8645f18c929fc869eaa626"
 msgid "ཞེས་ དང །"
