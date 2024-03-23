@@ -19195,7 +19195,7 @@ msgstr ""
 
 msgctxt "f4a36f6e1ea24152acc96bc67a412488"
 msgid "མཐའ་ ཐུག་ གི་ ཡེ་ཤེས་ སུ་ མ་ཟད་"
-msgstr ""
+msgstr "This is because it is not only that the final wisdom,"
 
 msgctxt "6ae74ff8940443509b52dd1c99d7d3d8"
 msgid "ལམ་ གྱི་ དོན་དམ་ ཡང་ བློ་␣འི་ ཡུལ་ མིན་པ་␣འི་ ཕྱིར་ རོ ། །"
