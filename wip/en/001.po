@@ -19182,7 +19182,7 @@ msgstr ""
 
 msgctxt "a9fcbed690864dec83fbae4eb1551f88"
 msgid "སྤྲོས་པ་␣འི་ མཐའ་ ཐམས་ཅད་ དང་ བྲལ་བ་"
-msgstr ""
+msgstr "It is free from all the extremes of elaboration."
 
 msgctxt "0e60ae497e8440c691fb0d69bd5a0601"
 msgid "ཟབ་མོ་ བསམ་ གྱིས་ མི་ ཁྱབ་པ་␣འི་ འཁོར་ལོ་␣ར་ བཞུགས་པ་ ཡིན་ ཏེ །"
