@@ -19186,7 +19186,7 @@ msgstr "It is free from all the extremes of elaboration."
 
 msgctxt "0e60ae497e8440c691fb0d69bd5a0601"
 msgid "ཟབ་མོ་ བསམ་ གྱིས་ མི་ ཁྱབ་པ་␣འི་ འཁོར་ལོ་␣ར་ བཞུགས་པ་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "[He] is seated in the inconceivable profound wheel."
 
 msgctxt "101bc3e511d84c018630c1585ada1b2f"
 msgid "ཡོད་མེད་ དུ་ འདོད་པ་ ནི་ གཉིས་ སྣང་ གི་ བློ་ ཡིན་ ལ་"
