@@ -19177,6 +19177,8 @@ msgctxt "22393ae7587e422699ec4744e0344159"
 msgid ""
 "རང་ལུགས་ ལ་ སངས་རྒྱས་ ཀྱི་ ས་␣ར་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ གཉིས་ སུ་ མེད་ ཅིང་"
 msgstr ""
+"In our own system, the primordial wisdom of knowing of the buddha is non-"
+"dual."
 
 msgctxt "a9fcbed690864dec83fbae4eb1551f88"
 msgid "སྤྲོས་པ་␣འི་ མཐའ་ ཐམས་ཅད་ དང་ བྲལ་བ་"
