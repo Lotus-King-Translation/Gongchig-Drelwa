@@ -19129,7 +19129,7 @@ msgstr "And."
 
 msgctxt "6d1361b6511148059f5cc19326d757b2"
 msgid "གསེར་འོད་ དང་ ལྟུང་བཤགས་ ཡོད་ དེ །"
-msgstr ""
+msgstr "There are the golden light and laying aside downfalls."
 
 msgctxt "a597c1f041384fbdb197f247ead75954"
 msgid "མདོ་ སྡུད་པ་ ལ་␣ས །"
