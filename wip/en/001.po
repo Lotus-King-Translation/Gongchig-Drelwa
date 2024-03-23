@@ -19113,7 +19113,7 @@ msgstr "And is non-deceptive."
 
 msgctxt "280945db37124dedb670483e542952ff"
 msgid "དེ་ལྟར་ ཡང་ ལག་ ན་ རྡོ་རྗེ་ དབར་ བསྐུར་བ་␣འི་ རྒྱུད་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Vajra Bearer Empowerment Tantra:"
 
 msgctxt "4affe5e3bd5842cf9cc3c205d5287f99"
 msgid ""
