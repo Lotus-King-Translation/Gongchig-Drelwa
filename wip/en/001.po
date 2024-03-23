@@ -19224,7 +19224,7 @@ msgstr "According to the Engaging in the Bodhisattva's Conduct:"
 
 msgctxt "7b2eb5df42a24c14a97e6d332019baf2"
 msgid "དོན་དམ་ བློ་ ཡི་ སྤྱོད་ཡུལ་ མིན ། །"
-msgstr ""
+msgstr "The absolute [truth] is beyond the reach of the mind."
 
 msgctxt "418afc6a623b4742a7c19b92940e7ff8"
 msgid "བློ་ ནི་ ཀུན་རྫོབ་ ཡིན་པ་␣ར་ འདོད །"
