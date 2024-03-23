@@ -19138,6 +19138,8 @@ msgstr "According to the Sutra of Condensed [Prajnaparamita In Verse]:"
 msgctxt "f753cf7830974bafb74c457bb25c266c"
 msgid "ཡེཤེས་ མེད་ ན་ ཡོན་ཏན་ འཕེལ་ མེད་ བྱང་ཆུབ་ མེད ། །"
 msgstr ""
+"Without primordial wisdom, there is no development of good qualities, and "
+"there is no enlightenment."
 
 msgctxt "b01ff9b8c5c7402dbda7c8830e74adce"
 msgid "རྒྱ་མཚོ་ འདྲ་བ་␣འི་ སངས་རྒྱས་ ཆོས་ ཀྱང་ མེད་པ་␣ར་ གྱུར །"
