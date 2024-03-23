@@ -19158,6 +19158,8 @@ msgid ""
 "ཉིན་མཚན་ དུས་ དྲུག་ ཏུ་ འཇིག་རྟེན་ ལ་ ཡེ་ཤེས་ ཀྱི་ གཟིགས་པ་ འཇུག་པ་␣ར་ "
 "གསུངས་པ་ དང༌ །"
 msgstr ""
+"It is said that the vision of primordial wisdom enters the world all the six"
+" times of day and night,"
 
 msgctxt "4e472afdda7343c6ae66372d19d52356"
 msgid ""
