@@ -19258,6 +19258,8 @@ msgstr "Accepting it as existence and non-existence is"
 msgctxt "d096ca0051814c4d98fff324fa85c163"
 msgid "རྟག་ཆད་ དང་ བདེ་འགྲོ་␣འི་ ལམ་ དང་ ངན་འགྲོ་ ལས་མ་ འདས་ ཏེ །"
 msgstr ""
+"It does not transcend the paths of permanence and nihilation, the paths of "
+"happy migrations and bad migrations."
 
 msgctxt "bda2cca2a03d4a519ad3c42c593d6a3e"
 msgid "ཏིང་འཛིན་  རྒྱལ་པོ་ ལ་␣ས །"
