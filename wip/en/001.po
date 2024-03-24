@@ -19244,7 +19244,7 @@ msgstr "All phenomena arising of emptiness as cause and effect,"
 
 msgctxt "dda62ddf442d4975afc93a499ac84c72"
 msgid "གཞི་ ལམ་ འབྲས་བུ་␣འི་ རྟེན་འབྲེལ་ ཇི་སྙེད་ མཁྱེན་པ་"
-msgstr ""
+msgstr "knowing all the interdependence of ground, path, and result."
 
 msgctxt "ef422899fc8d494fb40e7412a8d1c09c"
 msgid "དེ་ གཉིས་ ཡོད་མེད་ སྤྲོས་པ་ ཐམས་ཅད་ ལ་␣ས་ གྲོལ་བ་ ཡིན་ ནོ ། །"
