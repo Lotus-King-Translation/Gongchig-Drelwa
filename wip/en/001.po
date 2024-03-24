@@ -19267,7 +19267,7 @@ msgstr "According to The King of Meditative Concentration [Sutra]:"
 
 msgctxt "aef47db201c4475eb7cd088dc7ad1821"
 msgid "ཡོད་ དང་ མེད་ ཅེས་བྱ་བ་ མཐའ་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "What is called existence and non-existence are extremes."
 
 msgctxt "1b93b575cbee4a6d8e8a54c1ffb7ffc9"
 msgid "དེ་བཞིན་ གཙང་ དང་ མི་གཙང་ འདི་ ཡང་ མཐའ ། །"
