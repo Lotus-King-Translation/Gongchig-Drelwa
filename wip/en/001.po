@@ -19299,7 +19299,7 @@ msgstr "To say \"it is non-existence\" is a view of nihilation."
 
 msgctxt "573361314fff4636bd4834f528076d18"
 msgid "དེ་ཕྱིར་ ཡོད་  དང་ མེད་པ་ གཉིས ། །"
-msgstr ""
+msgstr "Therefore, in two, existence and non-existence,"
 
 msgctxt "695fd3165601431fa1d303c145328000"
 msgid "མཁས་པ་␣ས་ གནས་པ་␣ར་ མི་ བྱ་␣འོ ། །"
