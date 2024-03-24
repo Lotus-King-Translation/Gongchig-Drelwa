@@ -19253,7 +19253,7 @@ msgstr ""
 
 msgctxt "5859658f5d654cd3a576f06b15b6449a"
 msgid "ཡོད་མེད་ དུ་ འདོད་པ་ ནི་"
-msgstr ""
+msgstr "Accepting it as existence and non-existence is"
 
 msgctxt "d096ca0051814c4d98fff324fa85c163"
 msgid "རྟག་ཆད་ དང་ བདེ་འགྲོ་␣འི་ ལམ་ དང་ ངན་འགྲོ་ ལས་མ་ འདས་ ཏེ །"
