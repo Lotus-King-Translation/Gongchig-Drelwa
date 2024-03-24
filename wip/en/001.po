@@ -19279,7 +19279,7 @@ msgstr "Therefore, having abandoned these extremes,"
 
 msgctxt "453b3526f02843e2a9a4c725e56b7d53"
 msgid "མཁས་པ་␣ས་ དབུས་ ལ་␣འང་ གནས་པ་␣ར་ མི་ བྱ་␣འོ ། ༑"
-msgstr ""
+msgstr "The wise never even abide in the middle."
 
 msgctxt "49a2fc5572234431a155a7ce36021d53"
 msgid "ཞེས་ དང་ །"
