@@ -19249,6 +19249,7 @@ msgstr "knowing all the interdependence of ground, path, and result."
 msgctxt "ef422899fc8d494fb40e7412a8d1c09c"
 msgid "དེ་ གཉིས་ ཡོད་མེད་ སྤྲོས་པ་ ཐམས་ཅད་ ལ་␣ས་ གྲོལ་བ་ ཡིན་ ནོ ། །"
 msgstr ""
+"These two are free from all elaborations of existence and non-existence."
 
 msgctxt "5859658f5d654cd3a576f06b15b6449a"
 msgid "ཡོད་མེད་ དུ་ འདོད་པ་ ནི་"
