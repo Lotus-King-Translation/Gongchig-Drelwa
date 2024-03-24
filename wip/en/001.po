@@ -19271,7 +19271,7 @@ msgstr "So-called existence and non-existence are extremes."
 
 msgctxt "1b93b575cbee4a6d8e8a54c1ffb7ffc9"
 msgid "དེ་བཞིན་ གཙང་ དང་ མི་གཙང་ འདི་ ཡང་ མཐའ ། །"
-msgstr ""
+msgstr "Likewise, purity and impurity are also extremes,"
 
 msgctxt "e508afd0bfaa410f99afeeb49839a934"
 msgid "དེ་ཕྱིར་ མཐའ་ འདི་དག་ ནི་ རྣམ་ སྤངས་ ཏེ །"
