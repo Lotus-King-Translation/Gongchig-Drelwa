@@ -19275,7 +19275,7 @@ msgstr "Likewise, purity and impurity are also extremes,"
 
 msgctxt "e508afd0bfaa410f99afeeb49839a934"
 msgid "དེ་ཕྱིར་ མཐའ་ འདི་དག་ ནི་ རྣམ་ སྤངས་ ཏེ །"
-msgstr ""
+msgstr "Therefore, having abandoned these extremes,"
 
 msgctxt "453b3526f02843e2a9a4c725e56b7d53"
 msgid "མཁས་པ་␣ས་ དབུས་ ལ་␣འང་ གནས་པ་␣ར་ མི་ བྱ་␣འོ ། ༑"
