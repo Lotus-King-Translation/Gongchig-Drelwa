@@ -19303,7 +19303,7 @@ msgstr "Therefore, in two, existence and non-existence,"
 
 msgctxt "695fd3165601431fa1d303c145328000"
 msgid "མཁས་པ་␣ས་ གནས་པ་␣ར་ མི་ བྱ་␣འོ ། །"
-msgstr ""
+msgstr "The wise should not abide."
 
 msgctxt "f75d75f193ca4533a34369df3459b295"
 msgid "ཞེས་ སོ །"
