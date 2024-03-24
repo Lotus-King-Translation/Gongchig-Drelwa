@@ -19291,7 +19291,7 @@ msgstr "Master Arya said:"
 
 msgctxt "5f84f1bcc0784334b6aa7f1f3817ccf1"
 msgid "ཡོད་ ཅེས་བྱ་བ་ རྟག་པ་␣ར་ ལྟ ། །"
-msgstr ""
+msgstr "To say \"it exists\" is a view of permanence,"
 
 msgctxt "2d9ad2f63425405793f56d449405dea4"
 msgid "མེད་ ཅེས་བྱ་བ་ ཆད་པ་␣ར་ ལྟ ། །"
