@@ -19295,7 +19295,7 @@ msgstr "To say \"it exists\" is a view of permanence,"
 
 msgctxt "2d9ad2f63425405793f56d449405dea4"
 msgid "མེད་ ཅེས་བྱ་བ་ ཆད་པ་␣ར་ ལྟ ། །"
-msgstr ""
+msgstr "To say \"it is non-existence\" is a view of nihilation."
 
 msgctxt "573361314fff4636bd4834f528076d18"
 msgid "དེ་ཕྱིར་ ཡོད་  དང་ མེད་པ་ གཉིས ། །"
