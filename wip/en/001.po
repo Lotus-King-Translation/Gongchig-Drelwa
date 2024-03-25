@@ -19382,6 +19382,7 @@ msgstr "Vajra: The [abandonement] of obscurations from the first level and"
 msgctxt "f7b228f7a8964feb9b073f36893531ef"
 msgid "ས་ བདུན་ ལ་ ཉོན་སྒྲིབ །"
 msgstr ""
+"The seven levels are the [abandonement] of afflictional obscurations, "
 
 msgctxt "12610d5981c14515b8c4e039ecfa01a8"
 msgid "རྒྱུན་ མཐརཤེས་ སྒྲིབ་ སྤོང་བ་␣འམ །"
