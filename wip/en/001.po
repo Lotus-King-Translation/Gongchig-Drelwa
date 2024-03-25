@@ -19349,7 +19349,7 @@ msgstr "Thus, from the mental assessment,"
 
 msgctxt "2a7174f8b3c54bdf98bc8987e765a43a"
 msgid "ཚད་མ་␣ར་ གཟིགས་པ །"
-msgstr "Sees it as a valid cognition."
+msgstr "It is seen as a valid cognition."
 
 msgctxt "201a0cc2f0f44d70ad1d6e3d45661755"
 msgid "མཁྱེན་པ་␣ར་ གཟིགས་པ་ ཞེས་ དང༌ །"
