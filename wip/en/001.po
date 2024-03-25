@@ -19436,6 +19436,7 @@ msgstr "At the point of the secret of the mind,"
 msgctxt "76ab38854904494a80a284b5d40370f5"
 msgid "འདུ་ཤེས་ མེད་པ་␣འི་ ལྷ་␣ར་ དཔེ་ མཛད་པ་ ཡང་ དོན་ འདི་ ཡིན་ ནོ །"
 msgstr ""
+"The example of the deity without perception is also the meaning of this."
 
 msgctxt "bccb093fafbf4569af8b78bf458b7b42"
 msgid "རྣམ་རྟོག་ མེད་ བཞིན་ དུ་ སྔར་ ཚོགས་ བསགས་པ་␣ས་"
