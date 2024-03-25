@@ -19431,7 +19431,7 @@ msgstr "According to the Inconceivable Secret Sutra:"
 
 msgctxt "b7f437c19ef84ab39e571af33dde036f"
 msgid "ཐུགས་ ཀྱི་ གསང་བ་␣འི་ སྐབས་"
-msgstr "At the time of the secret of mind,"
+msgstr "At the point of the secret of the mind,"
 
 msgctxt "76ab38854904494a80a284b5d40370f5"
 msgid "འདུ་ཤེས་ མེད་པ་␣འི་ ལྷ་␣ར་ དཔེ་ མཛད་པ་ ཡང་ དོན་ འདི་ ཡིན་ ནོ །"
