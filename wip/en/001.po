@@ -19387,6 +19387,7 @@ msgstr ""
 msgctxt "12610d5981c14515b8c4e039ecfa01a8"
 msgid "རྒྱུན་ མཐརཤེས་ སྒྲིབ་ སྤོང་བ་␣འམ །"
 msgstr ""
+"The abandonement of the knowables obscuration at the end of the continuum."
 
 msgctxt "6d4b37cf0a654c93ae6357c982f44bee"
 msgid "མཐོང་ལམ་ གྱིས་ ཉོན་མོངས །"
