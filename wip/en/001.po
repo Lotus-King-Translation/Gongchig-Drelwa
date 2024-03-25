@@ -19395,7 +19395,7 @@ msgstr "The path of seeing eliminates the afflictions."
 
 msgctxt "3b8ca37ef9ff4700935f611ea35275c8"
 msgid "སྒོམ་ལམ་ སྒོམ་ སྤངས་ ཏེ །"
-msgstr ""
+msgstr "That to be abandoned by the path of meditation."
 
 msgctxt "f1813e5239404376af2652daa621c39c"
 msgid "མོས་པ་ བྲལ་བ་␣འི་ ངོ་བོ་␣ར་ སངས་རྒྱས་པ་ ན་"
