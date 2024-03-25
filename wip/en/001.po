@@ -19419,7 +19419,7 @@ msgstr ""
 
 msgctxt "d2cc122814964a2da26fe079684aa5cf"
 msgid "མེ་ ཆེ་␣ར་ འབར་ ན་ དུ་བ་ ཆད་པ་ བཞིན་ ནོ །"
-msgstr ""
+msgstr "Just as smoke is nihilitated when a great fire blazes."
 
 msgctxt "262db71bf24548a58be46a9c54393483"
 msgid "ཅི་ཕྱིར །"
