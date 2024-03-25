@@ -19427,7 +19427,7 @@ msgstr "Why is this?"
 
 msgctxt "e7b125ee5cd04c2c86b669e76bf14705"
 msgid "གསང་བ་ བསམ་ གྱིས་ མི་ ཁྱབ་པ་␣འི་ མདོ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Inconceivable Secret Sutra:"
 
 msgctxt "b7f437c19ef84ab39e571af33dde036f"
 msgid "ཐུགས་ ཀྱི་ གསང་བ་␣འི་ སྐབས་"
