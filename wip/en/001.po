@@ -19400,6 +19400,7 @@ msgstr "That to be abandoned by the path of meditation."
 msgctxt "f1813e5239404376af2652daa621c39c"
 msgid "མོས་པ་ བྲལ་བ་␣འི་ ངོ་བོ་␣ར་ སངས་རྒྱས་པ་ ན་"
 msgstr ""
+"When one becomes enlightened in the essence of freedom from adherence,"
 
 msgctxt "b5fd4be62b684c3896e5b69b9b712687"
 msgid "མཉམ་བཞག་ སྟོབས་ ཆེ་བ་␣ས་ རྗེས་ཐོབ་ ཆད་ དེ །"
