@@ -19410,7 +19410,7 @@ msgstr ""
 
 msgctxt "fd45c07d8b814c5daff23b650ea050bf"
 msgid "རྟེན་ སྐུ་བསོད །"
-msgstr ""
+msgstr "The supporting body, merit,"
 
 msgctxt "4c41f178fdc34c6992b05c024234d3fc"
 msgid "བརྟེན་པ་ ཡེ་ཤེས་ མཛད་འཕྲིན་ རྣམས་ ཀྱང་ མེད་ དེ །"
