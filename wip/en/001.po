@@ -19373,7 +19373,7 @@ msgstr "Thus, denigration to the inconceivable places [or subjects]."
 
 msgctxt "1e8bce600dba4ef090d67a6fdb5063d2"
 msgid "འདི་ ལྟ་བུ་ ལ་ རྣ་བ་ བགབ་པ་␣ར་ བྱ་␣འོ ། །"
-msgstr ""
+msgstr "One should cover their ears. "
 
 msgctxt "e75c1646243a4259ad754593b02dc4ee"
 msgid "རྡོ་␣༽༽  ས་ དང་པོ་ ཡན་ ལས་སྒྲིབ་ དང༌ །"
