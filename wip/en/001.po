@@ -19353,7 +19353,7 @@ msgstr "It is seen as a valid cognition."
 
 msgctxt "201a0cc2f0f44d70ad1d6e3d45661755"
 msgid "མཁྱེན་པ་␣ར་ གཟིགས་པ་ ཞེས་ དང༌ །"
-msgstr ""
+msgstr "It is seen as a knowledge and "
 
 msgctxt "dc20cf6500fd4446bd8d8d8eaad78fae"
 msgid "སློབ་དཔོན་ ཕྱོགས་གླང་ གིས །"
