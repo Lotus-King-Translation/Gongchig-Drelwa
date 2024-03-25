@@ -20035,7 +20035,7 @@ msgstr "And."
 
 msgctxt "d4fd0e44498641228e54554e8921ee1e"
 msgid "གསང་བ་ བསམ་ གྱིས་ མི་ ཁྱབ་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Inconceivable Secret Sutra:"
 
 msgctxt "ca89730ab1fc49db935f38356ba727a5"
 msgid "སངས་རྒྱས་ ཀྱི་ ཐུགས་"
