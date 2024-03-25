@@ -19391,7 +19391,7 @@ msgstr ""
 
 msgctxt "6d4b37cf0a654c93ae6357c982f44bee"
 msgid "མཐོང་ལམ་ གྱིས་ ཉོན་མོངས །"
-msgstr ""
+msgstr "The path of seeing eliminates the afflictions."
 
 msgctxt "3b8ca37ef9ff4700935f611ea35275c8"
 msgid "སྒོམ་ལམ་ སྒོམ་ སྤངས་ ཏེ །"
