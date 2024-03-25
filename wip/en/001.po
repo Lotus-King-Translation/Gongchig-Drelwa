@@ -19340,6 +19340,8 @@ msgstr ""
 msgctxt "3ea0db36502445968a3f7157c22ff4b7"
 msgid "དོན་དམ་ བློ་ ཡི་ སྤྱོད་ཡུལ་ མིན་ སོགས་ ཀྱིས་ ཤེས་པ་␣ར་ ནུས་ སོ ། །"
 msgstr ""
+"It can be known by the [verse], the absolute [truth] is beyond the reach of "
+"the mind and so on. "
 
 msgctxt "8709ac8057b54fd7b3c3580b9221ee2c"
 msgid "དེས་ན་ བློ་␣ས་ དཔག་པ་ ལ་␣ས །"
