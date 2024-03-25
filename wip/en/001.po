@@ -19415,6 +19415,7 @@ msgstr "The supporting body, merit,"
 msgctxt "4c41f178fdc34c6992b05c024234d3fc"
 msgid "བརྟེན་པ་ ཡེ་ཤེས་ མཛད་འཕྲིན་ རྣམས་ ཀྱང་ མེད་ དེ །"
 msgstr ""
+"And supported wisdom, as well as the deeds and activities, are also absent."
 
 msgctxt "d2cc122814964a2da26fe079684aa5cf"
 msgid "མེ་ ཆེ་␣ར་ འབར་ ན་ དུ་བ་ ཆད་པ་ བཞིན་ ནོ །"
