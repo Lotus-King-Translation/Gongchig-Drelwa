@@ -19405,6 +19405,8 @@ msgstr ""
 msgctxt "b5fd4be62b684c3896e5b69b9b712687"
 msgid "མཉམ་བཞག་ སྟོབས་ ཆེ་བ་␣ས་ རྗེས་ཐོབ་ ཆད་ དེ །"
 msgstr ""
+"The post-attainment is nihilitated by the great power of meditative "
+"equipoise."
 
 msgctxt "fd45c07d8b814c5daff23b650ea050bf"
 msgid "རྟེན་ སྐུ་བསོད །"
