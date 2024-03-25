@@ -19377,7 +19377,7 @@ msgstr "One should cover their ears. "
 
 msgctxt "e75c1646243a4259ad754593b02dc4ee"
 msgid "རྡོ་␣༽༽  ས་ དང་པོ་ ཡན་ ལས་སྒྲིབ་ དང༌ །"
-msgstr ""
+msgstr "Vajra: The [abandonement] of obscurations from the first level and"
 
 msgctxt "f7b228f7a8964feb9b073f36893531ef"
 msgid "ས་ བདུན་ ལ་ ཉོན་སྒྲིབ །"
