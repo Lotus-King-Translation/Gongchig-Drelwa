@@ -19345,7 +19345,7 @@ msgstr ""
 
 msgctxt "8709ac8057b54fd7b3c3580b9221ee2c"
 msgid "དེས་ན་ བློ་␣ས་ དཔག་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "Thus, from the mental assessment,"
 
 msgctxt "2a7174f8b3c54bdf98bc8987e765a43a"
 msgid "ཚད་མ་␣ར་ གཟིགས་པ །"
