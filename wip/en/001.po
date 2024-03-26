@@ -19445,7 +19445,7 @@ msgstr ""
 
 msgctxt "4523a555ac5a4c18a163e2f52c287123"
 msgid "ནམ་མཁའ་ ལྡིང་ གི་ མཆོད་སྡོང་ དང་"
-msgstr ""
+msgstr "The offering post of the garuda and"
 
 msgctxt "1b655e02877541cab8aac28f1b17f3ad"
 msgid "ནོར་བུ་ དཔག་བསམ་ ཉི་མ་ བཞིན་"
