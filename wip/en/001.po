@@ -19519,7 +19519,7 @@ msgstr "And,"
 
 msgctxt "13497b1cbd93454480c3661c98f367fd"
 msgid "མཚན་ བརྗོད་ ལ་␣ས་ ༑"
-msgstr ""
+msgstr "According to the Expressing the Names [sutra]:"
 
 msgctxt "8e9ad49de19b4d55b4ecd46b4b664bce"
 msgid "ཡེ་ཤེས་ སྣང་བ་ ལམ་མེ་བ །"
