@@ -19441,6 +19441,7 @@ msgstr ""
 msgctxt "bccb093fafbf4569af8b78bf458b7b42"
 msgid "རྣམ་རྟོག་ མེད་ བཞིན་ དུ་ སྔར་ ཚོགས་ བསགས་པ་␣ས་"
 msgstr ""
+"While without discursive thoughts, because of previously accumulating merit,"
 
 msgctxt "4523a555ac5a4c18a163e2f52c287123"
 msgid "ནམ་མཁའ་ ལྡིང་ གི་ མཆོད་སྡོང་ དང་"
