@@ -19551,7 +19551,7 @@ msgstr "Thus, according to the Precious Blazing Tantra:"
 
 msgctxt "904686d215a6426bb00b8c510247d579"
 msgid "ཐམས་ཅད་ སེམས་ ལ་ གནས་པ་␣ས་ ན ། །"
-msgstr ""
+msgstr "If everything abides in the mind,"
 
 msgctxt "43a8c1a6758e45d59e2d2a46e3f8fea9"
 msgid "སེམས་ མེད་ སངས་རྒྱས་ མ་ ཡིན་ ཏེ །"
