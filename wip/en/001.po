@@ -19449,7 +19449,7 @@ msgstr "The offering post of the garuda and"
 
 msgctxt "1b655e02877541cab8aac28f1b17f3ad"
 msgid "ནོར་བུ་ དཔག་བསམ་ ཉི་མ་ བཞིན་"
-msgstr ""
+msgstr "Like a wish-fulfilling jewel or the sun."
 
 msgctxt "3390edd0dce44121b9cc399f0ae9d02a"
 msgid "གདུལ་བྱ་␣འི་ བློ་ ངོ་␣ར་ སྣང་བ་ མི་ འགལ་ ཟེར་ རོ ། །"
