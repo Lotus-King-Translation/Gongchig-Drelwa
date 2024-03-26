@@ -19547,7 +19547,7 @@ msgstr "Because it has ceased, like matter."
 
 msgctxt "40955ec8c95b4394bd325abe72d9e1a5"
 msgid "དེ་ལྟར་ ཡང་ རིན་ཆེན་ འབར་བ་␣འི་ རྒྱུད་ ལ་␣ས །"
-msgstr ""
+msgstr "Thus, according to the Precious Blazing Tantra:"
 
 msgctxt "904686d215a6426bb00b8c510247d579"
 msgid "ཐམས་ཅད་ སེམས་ ལ་ གནས་པ་␣ས་ ན ། །"
