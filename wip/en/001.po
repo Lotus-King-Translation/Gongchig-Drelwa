@@ -19454,6 +19454,8 @@ msgstr "Like a wish-fulfilling jewel or the sun."
 msgctxt "3390edd0dce44121b9cc399f0ae9d02a"
 msgid "གདུལ་བྱ་␣འི་ བློ་ ངོ་␣ར་ སྣང་བ་ མི་ འགལ་ ཟེར་ རོ ། །"
 msgstr ""
+"It is said that there is no contradiction in terms of appearing to the minds"
+" of disciples."
 
 msgctxt "569bb807832949868fec76a6ba44f782"
 msgid "འདི་␣ར་ ནི་ སྤང་བྱ་ སྒྲིབ་པ་ ཐམས་ཅད་ དང་ བྲལ་བ་␣འི་ འབྲས་བུ་␣ས་"
