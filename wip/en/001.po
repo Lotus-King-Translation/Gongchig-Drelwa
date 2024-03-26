@@ -19532,6 +19532,8 @@ msgstr "As said"
 msgctxt "49a8c6aff1054c7aa58dc7bd8bcb12b3"
 msgid "སངས་རྒྱས་ ཐུགས་ ཀྱི་ འཇུག་པ་ ཆད་པ་␣ར་ འདོད་པ་ དེ་ ཆོས་ཅན །"
 msgstr ""
+"Take the subject, the acceptance that the discontinuance of the engagement "
+"of the Buddha’s mind,"
 
 msgctxt "5ea2dfc153f84810955c90f905466fd2"
 msgid "མཁྱེན་ གཉིས་ དང་ ཐུགས་ མི་ཟད་པ་ རྒྱན་ གྱི་ འཁོར་ལོ་ རྒྱུན་ ཆད་ དུ་ཐལ །"
