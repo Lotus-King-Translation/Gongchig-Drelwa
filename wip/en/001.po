@@ -19503,7 +19503,7 @@ msgstr "According to the Retainer that Pacifies All Illnesses:"
 
 msgctxt "24e2ef9e41a3484d8e51690e288d429f"
 msgid "འདི་ ལ་ སངས་རྒྱས་ ནི་ སེམས་ཅན་ གྱི་ མཆོག་ གོ  །"
-msgstr ""
+msgstr "Here, the Buddha is the supreme of the sentient beings."
 
 msgctxt "4bd5083a66044a7f876a511e15df853e"
 msgid "དཔའ་བོ་␣ས །"
