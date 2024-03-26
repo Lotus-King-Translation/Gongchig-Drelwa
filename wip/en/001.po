@@ -19523,7 +19523,7 @@ msgstr "According to the Expressing the Names [sutra]:"
 
 msgctxt "8e9ad49de19b4d55b4ecd46b4b664bce"
 msgid "ཡེ་ཤེས་ སྣང་བ་ ལམ་མེ་བ །"
-msgstr ""
+msgstr "The light of primordial wisdom is brilliant."
 
 msgctxt "ea7a883097874eb5ae2b6ddf12218342"
 msgid "ཞེས་ སོ་␣༑ །"
