@@ -19499,7 +19499,7 @@ msgstr "Likewise,"
 
 msgctxt "5bd5184bfcfd4b8d90fb211320714896"
 msgid "ནད་ ཐམས་ཅད་ ཞི་བ་␣ར་ བྱེད་པ་␣འི་ གཟུངས་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Retainer that Pacifies All Illnesses:"
 
 msgctxt "24e2ef9e41a3484d8e51690e288d429f"
 msgid "འདི་ ལ་ སངས་རྒྱས་ ནི་ སེམས་ཅན་ གྱི་ མཆོག་ གོ  །"
