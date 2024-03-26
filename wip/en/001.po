@@ -19490,6 +19490,8 @@ msgid ""
 "དུས་གསུམ་ ལ་མ་ ཆགས་ མ་ ཐོག་པ་␣འི་ ཡེ་ཤེས་ ཀྱི་ གཟིགས་པ་ འཇུག་པ་␣ར་ "
 "གསུངས་པ་␣འི་ ཕྱིར་ རོ ། །"
 msgstr ""
+"This is because it is said that it engages in the observation of the "
+"primordial wisdom that is unattached and unimpeded in the three times."
 
 msgctxt "df8ca7464e3a4d0e8044dd95d5d93ea4"
 msgid "དེ་ལྟར་ ཡང་ །"
