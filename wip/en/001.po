@@ -19507,7 +19507,7 @@ msgstr "Here, the Buddha is the supreme of the sentient beings."
 
 msgctxt "4bd5083a66044a7f876a511e15df853e"
 msgid "དཔའ་བོ་␣ས །"
-msgstr "The Hero says"
+msgstr "Heroes"
 
 msgctxt "54d323cc8d394849b0ac940d8c0515bd"
 msgid "རྣམ་རྟོག་ མི་ མངའ་ ཅིར་ ཡང་ ས་ལེ་␣ར་ མཁྱེན །"
