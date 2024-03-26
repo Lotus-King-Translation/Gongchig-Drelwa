@@ -19483,7 +19483,7 @@ msgstr ""
 
 msgctxt "00e83e7106b14b0aa128cbe4e79f1baa"
 msgid "རྗེས་སུ་ འབྲང་བ་ དང༌ །"
-msgstr ""
+msgstr "Follow and "
 
 msgctxt "3a6ff075aa014034b7fdecbb2e6453d5"
 msgid ""
