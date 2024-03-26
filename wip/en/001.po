@@ -19538,6 +19538,8 @@ msgstr ""
 msgctxt "5ea2dfc153f84810955c90f905466fd2"
 msgid "མཁྱེན་ གཉིས་ དང་ ཐུགས་ མི་ཟད་པ་ རྒྱན་ གྱི་ འཁོར་ལོ་ རྒྱུན་ ཆད་ དུ་ཐལ །"
 msgstr ""
+"It follows that the continuum of the two [enlightened] knowledges and the "
+"wheel of the inexhaustible ornament of the mind is discontinuous."
 
 msgctxt "796b98124a2e42b08df3b79ac425c69f"
 msgid "འགགས་པ་␣འི་ ཕྱིར་ བེམ་པོ་ བཞིན་ ནོ ། །"
