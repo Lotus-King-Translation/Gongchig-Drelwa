@@ -19511,7 +19511,7 @@ msgstr "Heroes"
 
 msgctxt "54d323cc8d394849b0ac940d8c0515bd"
 msgid "རྣམ་རྟོག་ མི་ མངའ་ ཅིར་ ཡང་ ས་ལེ་␣ར་ མཁྱེན །"
-msgstr ""
+msgstr "Do not possess discursive thoughts and know everything clearly."
 
 msgctxt "32552230125549e3ac226f685ea52165"
 msgid "ཅེས་ དང་ །"
