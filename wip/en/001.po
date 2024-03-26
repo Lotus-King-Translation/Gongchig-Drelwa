@@ -19478,7 +19478,8 @@ msgstr "Which are free from all discursive thoughts."
 
 msgctxt "f53a7f6b8a6949589f5516a18ef783a9"
 msgid "སྐུ་གསུང་ཐུགས་ ཀྱི་ ཕྲིན་ལས་ ཐམས་ཅད་ ཀྱི་ སྔོན་ དུ་ འགྲོ་ ཞིང་"
-msgstr "The enlightened activities of body, speech, and mind go before all."
+msgstr ""
+"The enlightened activities of body, speech, and mind go before all and"
 
 msgctxt "00e83e7106b14b0aa128cbe4e79f1baa"
 msgid "རྗེས་སུ་ འབྲང་བ་ དང༌ །"
