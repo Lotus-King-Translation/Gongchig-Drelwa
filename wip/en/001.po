@@ -19460,6 +19460,8 @@ msgstr ""
 msgctxt "569bb807832949868fec76a6ba44f782"
 msgid "འདི་␣ར་ ནི་ སྤང་བྱ་ སྒྲིབ་པ་ ཐམས་ཅད་ དང་ བྲལ་བ་␣འི་ འབྲས་བུ་␣ས་"
 msgstr ""
+"In this [system], the result of being free from all obscurations that are to"
+" be abandoned"
 
 msgctxt "d1b528594e314d04af3d27de6425e835"
 msgid ""
