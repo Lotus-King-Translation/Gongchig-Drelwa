@@ -19622,6 +19622,7 @@ msgstr "When [one] transcends all phenomena of cause and condition and "
 msgctxt "899a657df9654c7dbacfef4f534687d7"
 msgid "བྱང་ཆུབ་པ་ ན་ སྐྱོན་ཡོན་ གང་ཡང་ མེད་ ཟེར་ རོ །"
 msgstr ""
+"And is enlightened, it is said that there are no faults or good qualities."
 
 msgctxt "2192d55f194849b0a7221fb19ede4b5b"
 msgid "འདི་␣ར་ ནི་ ཆོས་སྐུ་␣འི་ ཡོན་ཏན་ ལོངས་སྐུ་ དང་ སྤྲུལ་སྐུ་ ནི་"
