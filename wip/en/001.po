@@ -19627,6 +19627,8 @@ msgstr ""
 msgctxt "2192d55f194849b0a7221fb19ede4b5b"
 msgid "འདི་␣ར་ ནི་ ཆོས་སྐུ་␣འི་ ཡོན་ཏན་ ལོངས་སྐུ་ དང་ སྤྲུལ་སྐུ་ ནི་"
 msgstr ""
+"In this system, the qualities of the Dharmakaya are the sambhogakaya and the"
+" nirmanakaya,"
 
 msgctxt "f33cba657a794118a398da94cd5c28c3"
 msgid "དེ་␣འི་ མཛད་པ་␣འི་ ཕྲིན་ལས་ དང་ བཅས་པ་ སྟེ་"
