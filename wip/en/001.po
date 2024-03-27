@@ -19617,7 +19617,7 @@ msgstr "It will grow until the end of the continuum of the tenth level."
 
 msgctxt "b73d948c0bff47769a8210d5a6987300"
 msgid "རྒྱུ་རྐྱེན་ གཉིས་ ཆོས་ ཐམས་ཅད་ ལ་␣ས་ འདས་ ཏེ་"
-msgstr ""
+msgstr "When [one] transcends all phenomena of cause and condition and "
 
 msgctxt "899a657df9654c7dbacfef4f534687d7"
 msgid "བྱང་ཆུབ་པ་ ན་ སྐྱོན་ཡོན་ གང་ཡང་ མེད་ ཟེར་ རོ །"
