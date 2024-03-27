@@ -19591,7 +19591,7 @@ msgstr ""
 
 msgctxt "12f66ebf2e6646f5a133f60702cb6eda"
 msgid "སྣང་བ་ མེད་པ་␣ར་ གསུངས་པ་ ཡང་"
-msgstr ""
+msgstr "The statement that appearances do not exist is also"
 
 msgctxt "8e80608381354d0597c34acd04c4dead"
 msgid "ཕྱི་དོན་ དུ་ གྲུབ་པ་ མེད་པ་␣ས་ ཡིན་ ནོ་␣༑ ༑"
