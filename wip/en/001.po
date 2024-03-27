@@ -19572,6 +19572,8 @@ msgstr "As said."
 msgctxt "570f0715fe434cf1ac864704c8cc223b"
 msgid "འོ་ན་ མེད་པ་␣ར་ གསུངས་བ་ མཐའ་ཡས་པ་␣ས་ ཅི་ ཞེ་ན །"
 msgstr ""
+"Well then, if it is asked \"why is it infinitely stated that it does not "
+"exist?\""
 
 msgctxt "0e079c31832646fc8cbcfb6869300127"
 msgid "དེ་ ནི་ རྣམ་རྟོག་ གཉིས་ སུ་ འཛིན་པ་␣འི་ སེམས་ མེད་ གསུངས་ ཀྱི །"
