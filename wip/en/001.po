@@ -19603,7 +19603,7 @@ msgstr "Vajra: Even though dharmakaya is not realized as emptiness,"
 
 msgctxt "f19d597fab3942229a782f2de0b9d723"
 msgid "རང་བཞིན་ གྱིས་ སེམས་ཅན་ རྣམས་ ལ་ ཡོད་པ་␣ས་"
-msgstr ""
+msgstr "Because it is present as intrinsic nature in sentient beings"
 
 msgctxt "6f896181254b4d548ab68cb76bfa014e"
 msgid "ཚེས་ གཅིག་ གི་ ཟླ་བ་ ཉ་␣ར་ འཕེལ་བ་ བཞིན་"
