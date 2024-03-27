@@ -19613,7 +19613,7 @@ msgstr ""
 
 msgctxt "83dc62702b99454d9af0314cfa72887f"
 msgid "ས་བཅུ་ རྒྱུན་མཐ་␣འི་ བར་ འཕེལ་བ་␣ས་"
-msgstr ""
+msgstr "It will grow until the end of the continuum of the tenth level."
 
 msgctxt "b73d948c0bff47769a8210d5a6987300"
 msgid "རྒྱུ་རྐྱེན་ གཉིས་ ཆོས་ ཐམས་ཅད་ ལ་␣ས་ འདས་ ཏེ་"
