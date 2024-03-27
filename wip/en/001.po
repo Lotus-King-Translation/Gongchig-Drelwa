@@ -19563,7 +19563,7 @@ msgstr ""
 
 msgctxt "fc2e6a4fe5b04060a9a92cbd6a2141e7"
 msgid "སེམས་ཉིད་ སངས་རྒྱས་ ཡིན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "Because the mind itself is the Buddha."
 
 msgctxt "b281c1be1a2b44268db98cd256afaf25"
 msgid "ཞེས་ སོ་␣༑ ༑"
