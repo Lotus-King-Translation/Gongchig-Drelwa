@@ -19578,6 +19578,8 @@ msgstr ""
 msgctxt "0e079c31832646fc8cbcfb6869300127"
 msgid "དེ་ ནི་ རྣམ་རྟོག་ གཉིས་ སུ་ འཛིན་པ་␣འི་ སེམས་ མེད་ གསུངས་ ཀྱི །"
 msgstr ""
+"It says that the absence of the mind that apprehends the two discursive "
+"thoughts."
 
 msgctxt "8071c8888ac445b8bc9fa3fd646666ed"
 msgid ""
