@@ -19599,7 +19599,7 @@ msgstr "Because they are not established as external objects."
 
 msgctxt "2f844729dc294191b18cdf8e276b5b23"
 msgid "རྡོ  ༽༽  ཆོས་སྐུ་ སྟོང་པ་ཉིད་ མ་ རྟོགས་ ཀྱང་"
-msgstr ""
+msgstr "Vajra: Even though dharmakaya is not realized as emptiness,"
 
 msgctxt "f19d597fab3942229a782f2de0b9d723"
 msgid "རང་བཞིན་ གྱིས་ སེམས་ཅན་ རྣམས་ ལ་ ཡོད་པ་␣ས་"
