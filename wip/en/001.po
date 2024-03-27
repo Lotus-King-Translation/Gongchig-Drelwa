@@ -19632,7 +19632,7 @@ msgstr ""
 
 msgctxt "f33cba657a794118a398da94cd5c28c3"
 msgid "དེ་␣འི་ མཛད་པ་␣འི་ ཕྲིན་ལས་ དང་ བཅས་པ་ སྟེ་"
-msgstr ""
+msgstr "Together with their deeds and enlightened activities."
 
 msgctxt "fd67dbc32ad248018cffc770f0ed7b08"
 msgid "དེ་དག་ ཆོས་སྐུ་␣ར་ མངའ་བ་ ཡིན་ ཏེ །"
