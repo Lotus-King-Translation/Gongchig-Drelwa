@@ -19586,6 +19586,8 @@ msgid ""
 "སྒྲིབ་པ་ ཐམས་ཅད་ བྲལ་བ་␣འི་ ཡེ་ཤེས་ ཀྱི་ ཐུགས་ མེད་ ཅེས་ གསུངས་པ་ མིན་པ་␣འི་"
 " ཕྱིར་ རོ ། །"
 msgstr ""
+"It does not say that there is no mind of primordial wisdom free from all "
+"obscurations."
 
 msgctxt "12f66ebf2e6646f5a133f60702cb6eda"
 msgid "སྣང་བ་ མེད་པ་␣ར་ གསུངས་པ་ ཡང་"
