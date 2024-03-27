@@ -19640,7 +19640,7 @@ msgstr "They are endowed with the dharmakaya."
 
 msgctxt "583a1a381ce740968d41398b4e7775cc"
 msgid "རྗེ་བཙུན་ བྱམས་པ་␣ས །"
-msgstr ""
+msgstr "The venerable Maitreya said:"
 
 msgctxt "313a9a04da7e48ea8cc7c9425a298819"
 msgid "རང་དོན་ གཞན་དོན་ དོན་དམ་ སྐུ་ རང་ ནི ། །"
