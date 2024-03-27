@@ -19555,7 +19555,7 @@ msgstr "If everything abides in the mind,"
 
 msgctxt "43a8c1a6758e45d59e2d2a46e3f8fea9"
 msgid "སེམས་ མེད་ སངས་རྒྱས་ མ་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "The mindless is not the Buddha,"
 
 msgctxt "81c09aafe80f4746adbd1d43419b043d"
 msgid "ངམ་གྲོག་␣ས་ ལ་སོགས་ བེམ་བོ་␣འོ ། །"
