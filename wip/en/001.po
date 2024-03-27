@@ -19595,7 +19595,7 @@ msgstr "The statement that appearances do not exist is also"
 
 msgctxt "8e80608381354d0597c34acd04c4dead"
 msgid "ཕྱི་དོན་ དུ་ གྲུབ་པ་ མེད་པ་␣ས་ ཡིན་ ནོ་␣༑ ༑"
-msgstr ""
+msgstr "Because they are not established as external objects."
 
 msgctxt "2f844729dc294191b18cdf8e276b5b23"
 msgid "རྡོ  ༽༽  ཆོས་སྐུ་ སྟོང་པ་ཉིད་ མ་ རྟོགས་ ཀྱང་"
