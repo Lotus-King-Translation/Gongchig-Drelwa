@@ -19636,7 +19636,7 @@ msgstr "Together with their deeds and enlightened activities."
 
 msgctxt "fd67dbc32ad248018cffc770f0ed7b08"
 msgid "དེ་དག་ ཆོས་སྐུ་␣ར་ མངའ་བ་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "They are endowed with the dharmakaya."
 
 msgctxt "583a1a381ce740968d41398b4e7775cc"
 msgid "རྗེ་བཙུན་ བྱམས་པ་␣ས །"
