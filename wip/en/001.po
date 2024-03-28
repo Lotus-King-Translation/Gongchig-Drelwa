@@ -19740,7 +19740,7 @@ msgstr "The body of the nature of bodhicitta,"
 
 msgctxt "9dadda497ac5482fa807e7f7358a1a00"
 msgid "དཔལ་ལྡན་ རྡོ་རྗེ་ འཆང་ ལ་ འདུད །"
-msgstr ""
+msgstr "The glorious Vajradhara, to you I bow."
 
 msgctxt "4c1d1ea8989e49809f49f10b7e7ab6c3"
 msgid "ཅེས་པ་␣ས་"
