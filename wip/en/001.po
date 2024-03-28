@@ -19778,7 +19778,7 @@ msgstr ""
 
 msgctxt "108d601676cb41b0a351340c41d47d3d"
 msgid "དཔའ་བོ་ ཆེན་པོ་ རྣམ་པ་␣ར་ འཕྲུལ ། །"
-msgstr ""
+msgstr "The great hero is the emanation."
 
 msgctxt "ad87694465f14a57b04742415dd84bc4"
 msgid "བྱང་ཆུབ་ མཆོག་ ཏུ་ ཐུགས་ ཀྱང་ འཇུག  །"
