@@ -19652,7 +19652,7 @@ msgstr "In dependence upon that, the relative body itself,"
 
 msgctxt "2c9023c077f4496ca2da775e68a7cc51"
 msgid "ཞེས་ སོགས་ གསུངས་པ་␣འི་ ཕྱིར་ རོ་␣༑ ༑"
-msgstr ""
+msgstr "And so forth."
 
 msgctxt "272f7d288335429780bd3eb7362887c4"
 msgid "དེ་ལྟར་ ན་ སྐུ་གསུང་ཐུགས་ མི་ཟད་པ་ རྒྱན་ གྱི་ འཁོར་ལོ་"
