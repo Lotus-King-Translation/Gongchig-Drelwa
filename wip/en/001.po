@@ -19736,7 +19736,7 @@ msgstr "Likewise, according to A Commentary on Bodhicitta:"
 
 msgctxt "074b15235b254fcb936e941e4fddb37b"
 msgid "བྱང་ཆུབ་ སེམས་ ཀྱི་ རང་བཞིན་ སྐུ ། །"
-msgstr ""
+msgstr "The body of the nature of bodhicitta,"
 
 msgctxt "9dadda497ac5482fa807e7f7358a1a00"
 msgid "དཔལ་ལྡན་ རྡོ་རྗེ་ འཆང་ ལ་ འདུད །"
