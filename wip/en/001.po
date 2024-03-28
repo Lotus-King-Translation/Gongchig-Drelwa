@@ -19770,7 +19770,7 @@ msgstr "The very conqueror of eight hundred million."
 
 msgctxt "ddd1da0681304b479e48848b0bc1a548"
 msgid "སངས་རྒྱས་ ཉིད་ དུ་ བསྟན་ གྱུར་ ཀྱང་ ། །"
-msgstr ""
+msgstr "Although he was shown to be a buddha,"
 
 msgctxt "ba6cdf1dd40343a2ba13363972510955"
 msgid "ད་དུང་ ཆོག་པ་␣འི་ འདུ་ཤེས་ གསལ ། །"
