@@ -19657,6 +19657,7 @@ msgstr "And so forth."
 msgctxt "272f7d288335429780bd3eb7362887c4"
 msgid "དེ་ལྟར་ ན་ སྐུ་གསུང་ཐུགས་ མི་ཟད་པ་ རྒྱན་ གྱི་ འཁོར་ལོ་"
 msgstr ""
+"Thus, the wheel of the inexhaustible ornaments of body, speech, and mind is "
 
 msgctxt "8ad89ac2dfe1413c9a1a75ced80bdf30"
 msgid "སེམས་ཅན་ གྱི་ ཁམས་ དང་ མཉམ་པ་"
