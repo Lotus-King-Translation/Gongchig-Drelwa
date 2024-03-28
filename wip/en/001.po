@@ -19774,7 +19774,7 @@ msgstr "Although he was shown to be a buddha,"
 
 msgctxt "ba6cdf1dd40343a2ba13363972510955"
 msgid "ད་དུང་ ཆོག་པ་␣འི་ འདུ་ཤེས་ གསལ ། །"
-msgstr ""
+msgstr "[He] Still clearly has the perception of contentment."
 
 msgctxt "108d601676cb41b0a351340c41d47d3d"
 msgid "དཔའ་བོ་ ཆེན་པོ་ རྣམ་པ་␣ར་ འཕྲུལ ། །"
