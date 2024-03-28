@@ -19674,6 +19674,7 @@ msgstr "If this is not the case, and at the final level of buddhahood,"
 msgctxt "22d7f0512e2e495ea0ec4e0ab201ba97"
 msgid "ཆོས་སྐུ་␣འི་ ས་␣ར་ ཡོན་ཏན་ ཕྲིན་ལས་ མེད་ ན་"
 msgstr ""
+"If there are no good qualities and enlightened activities of dharmakaya,"
 
 msgctxt "0b8eb3180ff8443298928203fa00ebba"
 msgid "རྒྱུན་ ཆད་ དེ་ ཕྲིན་ལས་ མི་ འཇུག་ ཅིང་"
