@@ -19669,7 +19669,7 @@ msgstr "It will continue until the end of the latter one."
 
 msgctxt "986714c32bbb4e0ab1479946017f7972"
 msgid "དེ་ལྟར་ མིན་པ་ སངས་རྒྱས་པ་ མཐར་ཐུག་"
-msgstr ""
+msgstr "If this is not the case, and at the final level of buddhahood,"
 
 msgctxt "22d7f0512e2e495ea0ec4e0ab201ba97"
 msgid "ཆོས་སྐུ་␣འི་ ས་␣ར་ ཡོན་ཏན་ ཕྲིན་ལས་ མེད་ ན་"
