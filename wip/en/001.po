@@ -19713,6 +19713,8 @@ msgid ""
 "འབྲས་བུ་ མཐར་ཐུག་ རྣམ་པ་ ཐམས་ཅད་ མཁྱེན་པ་ སངས་རྒྱས་ ཀྱི་ ས་ ན་␣འང་ "
 "ཐུགས་བསྐྱེད་ ཡོད་ དེ །"
 msgstr ""
+"The ultimate result, the knower of every aspect, the mind [for "
+"enlightenment] is also present at the level of buddhahood."
 
 msgctxt "0e8350288d514804bf79b456e6a3c78a"
 msgid ""
