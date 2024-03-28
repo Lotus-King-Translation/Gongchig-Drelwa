@@ -19762,7 +19762,7 @@ msgstr "According to the Meeting of the Father and Son:"
 
 msgctxt "52db63ddd2ec41dc8cdac719f9f73c3b"
 msgid "དཔའ་བོ་ ཆེན་པོ་ ཐབས་མཁས་ ཏེ ། །"
-msgstr ""
+msgstr "The great hero, skilled in means,"
 
 msgctxt "7ebe8e0f14f742cc9731b04555ededa5"
 msgid "བྱེ་བ་ བརྒྱད་ཅུ་␣ར་ རྒྱལ་བ་ ཉིད ། །"
