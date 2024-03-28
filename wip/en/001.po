@@ -19692,7 +19692,7 @@ msgstr "Vajra: It is said that the buddhas, before the result,"
 
 msgctxt "5a4472172db6466489a94cd97b97184b"
 msgid "རྒྱུ་ བྱང་ཆུབ་ ཏུ་ ཐུགས་བསྐྱེད་ དེ་"
-msgstr ""
+msgstr "Arise the causal mind of enlightenment and"
 
 msgctxt "9eee78cb4fa24228b823956e3090b7a7"
 msgid "འབྲས་བུ་ མཐ་␣ར་ ཕྱིན་པ་ ན་"
