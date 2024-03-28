@@ -19728,6 +19728,7 @@ msgctxt "b02bbac072834cafbcc265ae069eb3a1"
 msgid ""
 "དཔེར་ན་ ཉི་མ་␣འི་ དཀྱིལ་འཁོར་ ལ་ འོད་ཟེར་ རྒྱུན་ མི་ ཆད་པ་ བཞིན་ ནོ ། །"
 msgstr ""
+"For example, it is like the sun's disk, which has uninterrupted light rays."
 
 msgctxt "b7845e5e9ee847fead920532e34a177e"
 msgid "དེ་ལྟར་ ཡང་ བྱང་ཆུབ་ སེམས་ འགྲེལ་ ལ་␣ས །"
