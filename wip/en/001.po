@@ -19661,7 +19661,7 @@ msgstr ""
 
 msgctxt "8ad89ac2dfe1413c9a1a75ced80bdf30"
 msgid "སེམས་ཅན་ གྱི་ ཁམས་ དང་ མཉམ་པ་"
-msgstr ""
+msgstr "Equal to the realms of sentient beings."
 
 msgctxt "9bf09c0a59b443d0a65d6ff9ee98a888"
 msgid "ཕྱི་མ་␣འི་ མཐ་␣འི་ མུ་␣ར་ ཐུག་ གི་ བར་ དུ་ འབྱུང་བ་ ཡིན་ ནོ ། །"
