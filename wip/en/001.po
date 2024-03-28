@@ -19790,7 +19790,7 @@ msgstr "And."
 
 msgctxt "adb50e71e8904dfe82c7b684193852a0"
 msgid "དབུ་མ་ འཇུག་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Entrance to the Middle Way:"
 
 msgctxt "0a72574cec8442c3a7a0392d4909573a"
 msgid "བདེ་བ་␣ར་ གཤེགས་པ་ མ་ ལུས་ ཕྱོགས་ ཞིང་ སངས་རྒྱས་ མཐའ་དག་ ན ། །"
