@@ -19679,6 +19679,8 @@ msgstr ""
 msgctxt "0b8eb3180ff8443298928203fa00ebba"
 msgid "རྒྱུན་ ཆད་ དེ་ ཕྲིན་ལས་ མི་ འཇུག་ ཅིང་"
 msgstr ""
+"The continuum would be interrupted, and enlightened activity would not be "
+"engaged."
 
 msgctxt "8cd1c094c5d04c16a2cd45ee64a53908"
 msgid "ཆད་ལྟ་བ་ དང་ ཁྱད་མེད་པ་␣ར་ འགྱུར་ རོ་␣༑"
