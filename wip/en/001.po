@@ -19758,7 +19758,7 @@ msgstr "[He] will not transcend into nirvana because."
 
 msgctxt "8594b456114d4925b01ec9a9937f69f4"
 msgid "ཡབ་ སྲས་ མཇལ་བ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Meeting of the Father and Son:"
 
 msgctxt "52db63ddd2ec41dc8cdac719f9f73c3b"
 msgid "དཔའ་བོ་ ཆེན་པོ་ ཐབས་མཁས་ ཏེ ། །"
