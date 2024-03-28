@@ -19688,7 +19688,7 @@ msgstr "This would become no different from the view of nihilism."
 
 msgctxt "04aeaeb381e24b98b5155ed4a5738a52"
 msgid "རྡོ་␣༽༽  སངས་རྒྱས་ རྣམས་ འབྲས་བུ་␣འི་ སྔོན་ དུ་"
-msgstr ""
+msgstr "Vajra: It is said that the buddhas, before the result,"
 
 msgctxt "5a4472172db6466489a94cd97b97184b"
 msgid "རྒྱུ་ བྱང་ཆུབ་ ཏུ་ ཐུགས་བསྐྱེད་ དེ་"
