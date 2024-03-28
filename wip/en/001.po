@@ -19782,7 +19782,7 @@ msgstr "The great hero is the emanation."
 
 msgctxt "ad87694465f14a57b04742415dd84bc4"
 msgid "བྱང་ཆུབ་ མཆོག་ ཏུ་ ཐུགས་ ཀྱང་ འཇུག  །"
-msgstr ""
+msgstr "[He] also enters into the mind of supreme enlightenment."
 
 msgctxt "7c1de73a082047a69f1f23e4f03d790d"
 msgid "ཅེས་ དང་ །"
