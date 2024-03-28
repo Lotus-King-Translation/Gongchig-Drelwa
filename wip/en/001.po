@@ -19749,6 +19749,8 @@ msgstr "Thus,"
 msgctxt "3e2e861923f84c4ab30a33afc6521a41"
 msgid "གཞན་དོན་ དུ་ ཐུགས་བསྐྱེད་པ་ འཁོར་བ་ མ་ སྟོང་ གི་ བར་ དུ་ འབྱུང་ ཞིང་"
 msgstr ""
+"The arousing of the mind of enlightenment for the sake of others will "
+"continue until samsara is emptied."
 
 msgctxt "d1c05c811f1e486989e2e78014a6c0db"
 msgid "མྱ་ངན་ ལས་མི་ འདའ་ སྟེ །"
