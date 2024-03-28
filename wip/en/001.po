@@ -19648,7 +19648,7 @@ msgstr "The absolute body, for the sake of self and the sake of others,"
 
 msgctxt "2030d6eb40f54383a396a22593733fb3"
 msgid "དེ་ ལ་ བརྟེན་ ནས་ ཀུན་རྫོབ་ སྐུ་ ཉིད་ དེ །"
-msgstr ""
+msgstr "In dependence upon that, the relative body itself,"
 
 msgctxt "2c9023c077f4496ca2da775e68a7cc51"
 msgid "ཞེས་ སོགས་ གསུངས་པ་␣འི་ ཕྱིར་ རོ་␣༑ ༑"
