@@ -19766,7 +19766,7 @@ msgstr "The great hero, skilled in means,"
 
 msgctxt "7ebe8e0f14f742cc9731b04555ededa5"
 msgid "བྱེ་བ་ བརྒྱད་ཅུ་␣ར་ རྒྱལ་བ་ ཉིད ། །"
-msgstr ""
+msgstr "For eight hundred million, only victory."
 
 msgctxt "ddd1da0681304b479e48848b0bc1a548"
 msgid "སངས་རྒྱས་ ཉིད་ དུ་ བསྟན་ གྱུར་ ཀྱང་ ། །"
