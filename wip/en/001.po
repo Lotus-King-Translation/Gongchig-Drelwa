@@ -19864,7 +19864,7 @@ msgstr "Serve as her attendant."
 
 msgctxt "47515d25dd8f417badc46d17f415cd5a"
 msgid "དེ་བཞིན་ ཕྱོགས་ བཅུ་␣འི་ འཇིག་རྟེན་ ཁམས་ ཀྱི་ སངས་རྒྱས་ ཀྱང༌ ། །"
-msgstr ""
+msgstr "Likewise, the buddhas of the world realms in the ten directions,"
 
 msgctxt "d5ffc8a36e5e4e35a8c9411c88f52de8"
 msgid "ཡུམ་ གྱུར་ ཤེས་རབ་ དམ་པ་ འདི་ ལ་ དགོངས་པ་ མཛད །"
