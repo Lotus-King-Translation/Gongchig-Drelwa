@@ -19886,7 +19886,7 @@ msgstr "According to the Ornament of Manifest Realization:"
 
 msgctxt "ea0e0a6336a34efba640b2bb7e71ebc0"
 msgid "ཆོས་ ཀྱི་ དགའ་སྟོན་ སྒྲ་སྙན་ ལྟ་བུ་ དང༌ ། །"
-msgstr ""
+msgstr "The Dharma festival is like a melodious sound."
 
 msgctxt "e369eae8e5c9402994500cc52eff6911"
 msgid "བགྲོད་ གཅིག་ ལམ་ ཆུ་བོ་ ལྟ་བུ་ དང༌ །"
