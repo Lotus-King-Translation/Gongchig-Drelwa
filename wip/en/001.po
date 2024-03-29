@@ -20064,7 +20064,7 @@ msgstr "According to the Nirvana Sutra:"
 
 msgctxt "18a0734cb0344d4f8ea3f9ecd8f76915"
 msgid "ལོང་བ་ མ་ ལགས་ ལོང་བ་ ལྟར ། །"
-msgstr ""
+msgstr "Like a blind, but not blind."
 
 msgctxt "388d39b2c9a34cee9afe089a8ddfbae8"
 msgid "ཞ་བོ་ མ་ ལགས་ ཞ་པོ་ ལྟར ། །"
