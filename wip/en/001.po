@@ -19933,6 +19933,8 @@ msgstr ""
 msgctxt "614e941042dd4871b05f8ca424fe3beb"
 msgid "སྐུ་␣འི་ གདུལ་བྱ་ ཟད་ ནས་ གསུང་ གི་ གདུལ་བྱ་␣ར་ བསྟན་ ཏེ་"
 msgstr ""
+"When the disciples of the body have been exhausted, the disciples of the "
+"speech are taught."
 
 msgctxt "83787a6ab2f94eeaa0252043ccbc6838"
 msgid "འོག་མིན་ དུ་ གཤེགས་ ཏེ་ བཞུགས་པ་␣ས་"
