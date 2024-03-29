@@ -20030,7 +20030,7 @@ msgid ""
 "ཟེར་བ་ དང་"
 msgstr ""
 "The wheel of the inexhaustible ornament says that a mere manifestation "
-"occurs to others' appearances."
+"occurs in others' appearances."
 
 msgctxt "27c27488a79e43c9a65aab9ad1e00931"
 msgid "ཡང་འཇུག་པ་ མི་འཆད་པ་␣ར་ བཟང་བ་ འབའ་ཞིག་ ཏུ་ འབྱུང་བ་␣ར་ འདོད་ ཀྱང༌ །"
