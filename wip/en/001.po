@@ -19938,7 +19938,7 @@ msgstr ""
 
 msgctxt "83787a6ab2f94eeaa0252043ccbc6838"
 msgid "འོག་མིན་ དུ་ གཤེགས་ ཏེ་ བཞུགས་པ་␣ས་"
-msgstr ""
+msgstr "[He] went to Akanistha and dwelled there."
 
 msgctxt "e305ab03711343fa8a6a310a847025c3"
 msgid "བསོད་ནམས་ བསགས་པ་␣འི་ ངོ་␣ར་"
