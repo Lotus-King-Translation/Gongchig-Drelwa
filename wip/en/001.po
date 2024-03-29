@@ -19903,6 +19903,8 @@ msgstr "According to the Ornament of Manifest Realization:"
 msgctxt "0b937d40dd204d0bba70c1c055bf5dbd"
 msgid "སྒྲིབ་པ་ སྤངས་པ་␣འི་ སེམས་བསྐྱེད་ སོགས་ བཤད་ ཅིང་ །"
 msgstr ""
+"It explains the generation of mind of awakening that abandons the "
+"obscurations, and so forth."
 
 msgctxt "8bb223c113ec4508b04afd1977f9ec4f"
 msgid "གསང་འདུས་ གཉིས་ མེད་ རྣམས་ ལ་␣ས །"
