@@ -19916,7 +19916,7 @@ msgstr "Because bodhicitta is inexhaustible, "
 
 msgctxt "80b3960b3e59427da03b9597a3a2ba77"
 msgid "དེ་ཕྱིར་ ཕྲིན་ལས་ རྒྱུན་ མི་ ཆད །"
-msgstr "Thus, enlightened activity is uninterrupted."
+msgstr "Thus, the enlightened activity is uninterrupted."
 
 msgctxt "63d2db56d5d0431ea891af11cef3fca9"
 msgid "ཅེས་ སོ །"
