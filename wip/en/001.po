@@ -19942,7 +19942,7 @@ msgstr "[He] went to Akanistha and dwelled there."
 
 msgctxt "e305ab03711343fa8a6a310a847025c3"
 msgid "བསོད་ནམས་ བསགས་པ་␣འི་ ངོ་␣ར་"
-msgstr ""
+msgstr "To those who had accumulated merit,"
 
 msgctxt "ef895dc927ee4deca73567b961efc446"
 msgid "ལན་ རེ་ སྣང་བ་ ཡིན་ ཟེར་ རོ ། །"
