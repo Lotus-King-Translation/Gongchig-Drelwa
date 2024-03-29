@@ -19912,7 +19912,7 @@ msgstr "According to all the Non-dual Gathered Secret:"
 
 msgctxt "9ca9187278d642b6b81064ff9b2d5a3a"
 msgid "བྱང་ཆུབ་ སེམས་ ནི་ མི་ཟད་ ཕྱིར ། །"
-msgstr ""
+msgstr "Because the mind of enlightenment is inexhaustible."
 
 msgctxt "80b3960b3e59427da03b9597a3a2ba77"
 msgid "དེ་ཕྱིར་ ཕྲིན་ལས་ རྒྱུན་ མི་ ཆད །"
