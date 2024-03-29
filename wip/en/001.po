@@ -20017,6 +20017,8 @@ msgid ""
 "རྡོ་␣༽༽  ཆོས་སྐུ་ སྟོང་པ་ གཟུགས་སྐུ་␣འི་ ཡོན་ཏན་ ཕྲིན་ལས་ ཐམས་ཅད་ དང་ "
 "འབྲེལ་བ་ མེད་ ཅིང་"
 msgstr ""
+"Vajra: It is said that the emptiness of dharmakaya is not connected to any "
+"of the good qualities and enlightened activities of the rupakaya."
 
 msgctxt "24743b669c724411a7550de91fb5205b"
 msgid "གདུལ་བྱ་ འདི་ ལྟ་བུ་␣ས་ འདུལ་བ་␣ར་ བྱེད་ སྙམ་པ་␣འི་ ཐུགས་ མེད་ ཀྱང་ །"
