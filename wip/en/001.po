@@ -20088,7 +20088,7 @@ msgstr "Performs for the sake of sentient beings,"
 
 msgctxt "871456afdcef4732b2cad0c75fb6f692"
 msgid "འཇིག་རྟེན་ རྣམས་ ཀྱིས་ རྟོགས་ མི་ ནུས །"
-msgstr ""
+msgstr "The worldly people are unable to realize this."
 
 msgctxt "4f1c5bbe369a46f0a57c77c063d7f181"
 msgid "ཞེས་ དང་ །"
