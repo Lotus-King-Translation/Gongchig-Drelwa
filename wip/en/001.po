@@ -19869,6 +19869,8 @@ msgstr "Likewise, the buddhas of the world realms in the ten directions,"
 msgctxt "d5ffc8a36e5e4e35a8c9411c88f52de8"
 msgid "ཡུམ་ གྱུར་ ཤེས་རབ་ དམ་པ་ འདི་ ལ་ དགོངས་པ་ མཛད །"
 msgstr ""
+"Have given their attention to this supreme wisdom that becomes as their "
+"mother."
 
 msgctxt "a76509d1ff2f4c079808f472d515f619"
 msgid "ཅེས་པ་␣ས །"
