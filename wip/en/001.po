@@ -20042,10 +20042,12 @@ msgctxt "16995fa96051409594e739596aaa52c0"
 msgid ""
 "འདི་␣ར་ ཐུགས་ ནི་ ཐ་ན་ རྟག་ཆད་ ཀྱི་ ལྟ་བ་ ཚུན་ཆད་ ལ་ ཡང་ འབྱུང་བ་ ཡིན་ ཏེ་"
 msgstr ""
+"In this [system], thoughts occur even in the views of permanence and "
+"nihilation."
 
 msgctxt "4ec8c186ced842ff83e04b1246c084a5"
 msgid "གདུལ་བྱ་␣འི་ རྣམ་རྟོག་ དང་"
-msgstr ""
+msgstr "The discursive thoughts of disciples and"
 
 msgctxt "07536f75016443de839cc8730a050939"
 msgid "ཡིད་ ཀྱི་ འཇུག་པ་␣འི་ བྱེ་བྲག་ བསམ་ གྱིས་ མི་ ཁྱབ་པ་ ཅི་ སྙེད་པ་"
