@@ -20072,7 +20072,7 @@ msgstr "Like a cripple, but not crippled."
 
 msgctxt "72b6a948bcaa47ab9b40b1f985223ac0"
 msgid "བྱིས་པ་ མ་ ལགས་ བྱིས་ ཚུལ་ གྱིས ། །"
-msgstr "Like a child, but acted like a child."
+msgstr " In a childish way, but not a child."
 
 msgctxt "0d18eb9cc8f14031a9bb0cd6c01bbe4d"
 msgid "སེམས་ཅན་ རྣམས་ ནི་ སྨིན་པ་␣ར་ མཛད །། །"
