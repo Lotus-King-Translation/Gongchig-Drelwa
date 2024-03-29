@@ -21071,7 +21071,7 @@ msgstr ""
 
 msgctxt "a61e069506ba4d17a97ac8186be6d5a8"
 msgid "མདོ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the sutra:"
 
 msgctxt "2be4fd53254d4aa99066f90b45f440f5"
 msgid "མེ་ ཚོགས་ སྤུ་གྲི་␣འི་ སོ་ ཡང་ བརྒལ་ ནས་ ནི ། །"
