@@ -19953,6 +19953,8 @@ msgid ""
 "འདི་␣ར་ བྱང་ཆུབ་ ཀྱི་ སེམས་ གཉིས་ ཀྱི་ རང་བཞིན་ གྱི་ གཟུགས་སྐུ་ སངས་རྒྱས་ "
 "དེ་"
 msgstr ""
+"In this [system], the buddha of the rupakaya is the intrinsic nature of the "
+"two types of bodhicitta."
 
 msgctxt "a1e0292526514634a518e55d14fc5583"
 msgid ""
