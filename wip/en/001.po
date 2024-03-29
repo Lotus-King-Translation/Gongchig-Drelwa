@@ -19970,7 +19970,7 @@ msgstr "According to the Sutra of Requisition by Jonpa:"
 
 msgctxt "bda985dc5b594c1f98df4534b8d3b640"
 msgid "རྒྱུ་ལ་ བརྟེན་པ་␣འི་ མཁས་པ་ བཅོམ་ལྡན་འདས ། ༑"
-msgstr ""
+msgstr "The Blessed One is the expert who relies on the cause."
 
 msgctxt "0e3f41a27b3f4de18a81ca916050dee4"
 msgid "མཐའ་ གཉིས་ ལྟ་བ་ རྟག་ ཏུ་ མི་ མངའ་བ །"
