@@ -20084,7 +20084,7 @@ msgstr "Although Kaushika, in the costume of Brahma,"
 
 msgctxt "0514a22ffa0544d28227624239c70f51"
 msgid "སེམས་ཅན་ རྣམས་ ཀྱི་ དོན་ མཛད་ ཀྱང༌ ། །"
-msgstr ""
+msgstr "Performs for the sake of sentient beings,"
 
 msgctxt "871456afdcef4732b2cad0c75fb6f692"
 msgid "འཇིག་རྟེན་ རྣམས་ ཀྱིས་ རྟོགས་ མི་ ནུས །"
