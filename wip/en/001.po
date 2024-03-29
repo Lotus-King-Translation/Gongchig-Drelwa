@@ -19856,7 +19856,7 @@ msgstr "A mother with many sons has become sick,"
 
 msgctxt "09cc50cff0fc4a988e460458241ee4da"
 msgid "དེ་ ཀུན་ ཡིད་ མི་ བདེ་ ཞིང་"
-msgstr ""
+msgstr "All of them are unhappy and "
 
 msgctxt "1fe93391526a472bbbc32c3532f2cebb"
 msgid "དེ་ ལ་ རིམ་གྲོ་ བྱེད ། །"
