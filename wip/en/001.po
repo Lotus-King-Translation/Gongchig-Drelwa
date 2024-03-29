@@ -19852,7 +19852,7 @@ msgstr "According to the Condensed [Prajnaparamita In Verse]:"
 
 msgctxt "17633856018d4efe844ae570929edc38"
 msgid "མ་ ཞིག་ ན་བ་␣ར་ གྱུར་པ་ བུ་ ནི་ མང་ ཡོད་པ ། །"
-msgstr ""
+msgstr "A mother with many sons has become sick,"
 
 msgctxt "09cc50cff0fc4a988e460458241ee4da"
 msgid "དེ་ ཀུན་ ཡིད་ མི་ བདེ་ ཞིང་"
