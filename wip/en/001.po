@@ -19961,6 +19961,8 @@ msgid ""
 "སྐུ་གསུང་ཐུགས་ མི་ཟད་པ་ རྒྱན་ གྱི་ འཁོར་ལོ་ མཐའ་ ཐམས་ཅད་ དང་ བྲལ་བ་ ཡིན་ ཏེ "
 "།"
 msgstr ""
+"The wheel of the inexhaustible ornaments of body, speech, and mind is free "
+"from all the extremes."
 
 msgctxt "a6010f691f4e4806a35dbab1518401d0"
 msgid "ལྗོན་ ཞུས་ ལ་␣ས །"
