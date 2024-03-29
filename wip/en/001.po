@@ -19978,7 +19978,7 @@ msgstr "Never having the views of the two extremes."
 
 msgctxt "ceec88f3060c4c34aa43034c86c29c18"
 msgid "ལ་␣ས་ ཀྱི་ རྣམ་སྨིན་ འབྲས་བུ་ ཁོ་ན་ གསུངས ། །"
-msgstr ""
+msgstr "For the complete ripening of karma, the result of thusness is said."
 
 msgctxt "7d83a918814744adae74b956b329c0e7"
 msgid "ལྟ་བ་␣འི་ མུན་ བྲལ་ ཁྱོད་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
