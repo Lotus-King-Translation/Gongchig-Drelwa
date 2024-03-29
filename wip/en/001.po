@@ -20060,7 +20060,7 @@ msgstr "So as the engagement of the disciplines' minds occurs."
 
 msgctxt "f31ebddac1974d139a8a6c0c7ca35f75"
 msgid "མྱ་ངན་ འདས་ མདོ་ ལ་␣ས ། །"
-msgstr ""
+msgstr "According to the Nirvana Sutra:"
 
 msgctxt "18a0734cb0344d4f8ea3f9ecd8f76915"
 msgid "ལོང་བ་ མ་ ལགས་ ལོང་བ་ ལྟར ། །"
