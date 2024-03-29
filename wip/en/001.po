@@ -20022,7 +20022,7 @@ msgstr ""
 
 msgctxt "24743b669c724411a7550de91fb5205b"
 msgid "གདུལ་བྱ་ འདི་ ལྟ་བུ་␣ས་ འདུལ་བ་␣ར་ བྱེད་ སྙམ་པ་␣འི་ ཐུགས་ མེད་ ཀྱང་ །"
-msgstr ""
+msgstr "There is no thought of such and such disciple will be tame."
 
 msgctxt "c705b3db2844418eaf5fb977ac659dbf"
 msgid ""
