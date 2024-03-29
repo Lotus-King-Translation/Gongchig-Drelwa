@@ -19927,6 +19927,8 @@ msgid ""
 "ལྷན་␣༽༽  སངས་རྒྱས་ མྱ་ངན་ འདས་ ན་ བུད་ཤིང་ ཟད་པ་␣འི་ མེ་ བཞིན་ དུ་ འདོད་པ་ "
 "དང་"
 msgstr ""
+"Addendum: It is accepted that when a buddha has passed into nirvana, it is "
+"like a fire whose firewood is exhausted."
 
 msgctxt "614e941042dd4871b05f8ca424fe3beb"
 msgid "སྐུ་␣འི་ གདུལ་བྱ་ ཟད་ ནས་ གསུང་ གི་ གདུལ་བྱ་␣ར་ བསྟན་ ཏེ་"
