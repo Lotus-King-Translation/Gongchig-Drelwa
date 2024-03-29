@@ -20076,7 +20076,7 @@ msgstr " In a childish way, but not a child."
 
 msgctxt "0d18eb9cc8f14031a9bb0cd6c01bbe4d"
 msgid "སེམས་ཅན་ རྣམས་ ནི་ སྨིན་པ་␣ར་ མཛད །། །"
-msgstr ""
+msgstr "[He] ripens the sentient beings."
 
 msgctxt "0d601d57b95b4e5ca2755197d24a1ec9"
 msgid "བརྒྱ་བྱིན་ ཚངས་པ་␣འི་ ཆ་བྱད་ ཀྱིས ། །"
