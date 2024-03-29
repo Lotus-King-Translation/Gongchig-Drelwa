@@ -20068,7 +20068,7 @@ msgstr "Like a blind, but not blind."
 
 msgctxt "388d39b2c9a34cee9afe089a8ddfbae8"
 msgid "ཞ་བོ་ མ་ ལགས་ ཞ་པོ་ ལྟར ། །"
-msgstr ""
+msgstr "Like a cripple, but not crippled."
 
 msgctxt "72b6a948bcaa47ab9b40b1f985223ac0"
 msgid "བྱིས་པ་ མ་ ལགས་ བྱིས་ ཚུལ་ གྱིས ། །"
