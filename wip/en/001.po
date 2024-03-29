@@ -20035,6 +20035,8 @@ msgstr ""
 msgctxt "27c27488a79e43c9a65aab9ad1e00931"
 msgid "ཡང་འཇུག་པ་ མི་འཆད་པ་␣ར་ བཟང་བ་ འབའ་ཞིག་ ཏུ་ འབྱུང་བ་␣ར་ འདོད་ ཀྱང༌ །"
 msgstr ""
+"Also, it is accepted that the engagement is uninterrupted and that only "
+"excellence occurs."
 
 msgctxt "16995fa96051409594e739596aaa52c0"
 msgid ""
