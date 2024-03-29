@@ -19994,7 +19994,7 @@ msgstr "According to the Ornament of the Sutra Section:"
 
 msgctxt "6a8dc75835b14bf1bae5d89951d2ef7b"
 msgid "འཛིན་པ་ མི་ མངའ་ ཉེ་␣ས་ མི་ མངའ ། །"
-msgstr "[You] possess no grasping, no fault,"
+msgstr "[You] possess no grasping, possess no fault,"
 
 msgctxt "94835fe296584a4a9187cb858dc318fd"
 msgid "རྙོག་པ་ མི་ མངའ་ མི་ གནས་པ ། །"
