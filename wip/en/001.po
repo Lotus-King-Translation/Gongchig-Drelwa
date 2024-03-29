@@ -19974,7 +19974,7 @@ msgstr "The Blessed One is the expert who relies on the cause."
 
 msgctxt "0e3f41a27b3f4de18a81ca916050dee4"
 msgid "མཐའ་ གཉིས་ ལྟ་བ་ རྟག་ ཏུ་ མི་ མངའ་བ །"
-msgstr ""
+msgstr "Never having the views of the two extremes."
 
 msgctxt "ceec88f3060c4c34aa43034c86c29c18"
 msgid "ལ་␣ས་ ཀྱི་ རྣམ་སྨིན་ འབྲས་བུ་ ཁོ་ན་ གསུངས ། །"
