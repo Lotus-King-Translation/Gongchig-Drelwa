@@ -20056,7 +20056,7 @@ msgstr ""
 
 msgctxt "2372acfeb5b44f02b439e36829c4ea7d"
 msgid "དེ་སྙེད་ དུ་ འདུལ་ བྱེད་ ཐུགས་ ཀྱི་ འཇུག་པ་ ཡང་ འབྱུང་བ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "So as the engagement of the disciplines' minds occurs."
 
 msgctxt "f31ebddac1974d139a8a6c0c7ca35f75"
 msgid "མྱ་ངན་ འདས་ མདོ་ ལ་␣ས ། །"
