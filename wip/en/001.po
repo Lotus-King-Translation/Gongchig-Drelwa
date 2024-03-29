@@ -20051,7 +20051,8 @@ msgstr "The discursive thoughts of disciples and"
 
 msgctxt "07536f75016443de839cc8730a050939"
 msgid "ཡིད་ ཀྱི་ འཇུག་པ་␣འི་ བྱེ་བྲག་ བསམ་ གྱིས་ མི་ ཁྱབ་པ་ ཅི་ སྙེད་པ་"
-msgstr "For as many particulars of mental engagement as there are,"
+msgstr ""
+"For as many inconceivable particulars of mental engagement as there are,"
 
 msgctxt "2372acfeb5b44f02b439e36829c4ea7d"
 msgid "དེ་སྙེད་ དུ་ འདུལ་ བྱེད་ ཐུགས་ ཀྱི་ འཇུག་པ་ ཡང་ འབྱུང་བ་␣འི་ ཕྱིར །"
