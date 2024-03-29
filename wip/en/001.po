@@ -19860,7 +19860,7 @@ msgstr "All of them are unhappy and "
 
 msgctxt "1fe93391526a472bbbc32c3532f2cebb"
 msgid "དེ་ ལ་ རིམ་གྲོ་ བྱེད ། །"
-msgstr ""
+msgstr "Serve as her attendant."
 
 msgctxt "47515d25dd8f417badc46d17f415cd5a"
 msgid "དེ་བཞིན་ ཕྱོགས་ བཅུ་␣འི་ འཇིག་རྟེན་ ཁམས་ ཀྱི་ སངས་རྒྱས་ ཀྱང༌ ། །"
