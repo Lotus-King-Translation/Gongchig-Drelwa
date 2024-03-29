@@ -20080,7 +20080,7 @@ msgstr "[He] ripens the sentient beings."
 
 msgctxt "0d601d57b95b4e5ca2755197d24a1ec9"
 msgid "བརྒྱ་བྱིན་ ཚངས་པ་␣འི་ ཆ་བྱད་ ཀྱིས ། །"
-msgstr ""
+msgstr "Although Kaushika, in the costume of Brahma,"
 
 msgctxt "0514a22ffa0544d28227624239c70f51"
 msgid "སེམས་ཅན་ རྣམས་ ཀྱི་ དོན་ མཛད་ ཀྱང༌ ། །"
