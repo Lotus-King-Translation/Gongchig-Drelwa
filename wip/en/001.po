@@ -19890,7 +19890,7 @@ msgstr "The Dharma festival is like a melodious sound."
 
 msgctxt "e369eae8e5c9402994500cc52eff6911"
 msgid "བགྲོད་ གཅིག་ ལམ་ ཆུ་བོ་ ལྟ་བུ་ དང༌ །"
-msgstr ""
+msgstr "The path that one traverses is like a river and"
 
 msgctxt "3f1eb38c8e334747bab19bc6cbbe7f67"
 msgid "ཆོས་སྐུ་ སྤྲིན་ ལྟ་བུ་ གསུམ་ དུ་ གསུངས་པ་ དང༌ །"
