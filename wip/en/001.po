@@ -20100,7 +20100,7 @@ msgstr "According to the Inconceivable Secret Sutra:"
 
 msgctxt "ca89730ab1fc49db935f38356ba727a5"
 msgid "སངས་རྒྱས་ ཀྱི་ ཐུགས་"
-msgstr "The mind of the Buddha,"
+msgstr "The mind of the Buddha"
 
 msgctxt "2f7171dec55b45b69de645252310f1ef"
 msgid "སེམས་ ཀྱི་ དམིགས་པ་ དང་ ཡང་ བྲལ་ ལ །"
