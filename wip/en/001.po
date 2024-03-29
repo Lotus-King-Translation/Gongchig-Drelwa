@@ -19946,7 +19946,7 @@ msgstr "To those who had accumulated merit,"
 
 msgctxt "ef895dc927ee4deca73567b961efc446"
 msgid "ལན་ རེ་ སྣང་བ་ ཡིན་ ཟེར་ རོ ། །"
-msgstr ""
+msgstr "It is said that [here] he appeared once."
 
 msgctxt "d8cf8dee8a8a452ea1dbdbcace908c7c"
 msgid ""
