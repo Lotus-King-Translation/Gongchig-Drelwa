@@ -20006,7 +20006,7 @@ msgstr "[You are] unmoving, in all phenomena "
 
 msgctxt "f5951fcd31d44f328ac44ee4a275e793"
 msgid "སྤྲོས་མེད་ ཁྱོད་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
-msgstr ""
+msgstr "With elaboration, I pay homage to you."
 
 msgctxt "12e695ee356641d6b7eca6a801c615ba"
 msgid "ཞེས་པ་ བཞིན་ ཡིན་ ནོ །"
