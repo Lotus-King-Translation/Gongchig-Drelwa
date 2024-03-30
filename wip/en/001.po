@@ -20247,7 +20247,7 @@ msgstr ""
 
 msgctxt "a2179a505d27487cacb606964c8d4e1a"
 msgid "ཕ་རོལ་ ཏུ་ ཕྱིན་པ་ ལ་ ངེས་པར་ འབྱིན་པ་ ལ་"
-msgstr ""
+msgstr "To be certain in leading to transcendental perfection,"
 
 msgctxt "2ece7e06059940dabefd5c5a7b876048"
 msgid "ཐབས་མཁས་པ་␣ས་ སྣེར་ བརྩེ་བ་ ཤ་སྟག་ གོ  །"
