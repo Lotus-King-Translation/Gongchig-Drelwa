@@ -20224,7 +20224,7 @@ msgstr "Manjushri, in this buddha realm,"
 
 msgctxt "a173f7c08ef640fb9748a4de18ebb062"
 msgid "གཞན་ མུ་སྟེགས་ ཅན་ ཀུན་ ཏུ་ དཔྱོད་པ་བ་ གང་དག་ སྣང་བ་"
-msgstr ""
+msgstr "The appearance of the other tirthikas who analyze,   "
 
 msgctxt "bffbd0a6d754429a99c6379b48464981"
 msgid ""
