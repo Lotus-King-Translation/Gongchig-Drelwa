@@ -20311,7 +20311,7 @@ msgstr ""
 
 msgctxt "9512543b36db42bd93b1b2ced947ab2e"
 msgid "དེ་ལྟར་ ཐམས་ཅད་ ཀྱིས་ བྱ་བ་ བྱེད་ ཀྱང་"
-msgstr ""
+msgstr "In this way, even though all of these perform their work,"
 
 msgctxt "e1d03bde366340b6a65badeee1c53362"
 msgid "དུས་ ལ་མ་ བབས་པ་␣ར་ མི་ འགྱུར་ ཏེ །"
