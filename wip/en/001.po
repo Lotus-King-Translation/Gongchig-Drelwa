@@ -20110,6 +20110,7 @@ msgctxt "4262104574a64043a5f49b35e0ec642b"
 msgid ""
 "སེམས་ཅན་ ཐམས་ཅད་ ཀྱི་ སེམས་ ཀྱི་ དཔྱོད་པ་ དང་ བསམ་པ་ ཡང་ རབ་ཏུ་ ཤེས་ སོ ། །"
 msgstr ""
+"It also knows the thoughts and analyses of the minds of all sentinet beings."
 
 msgctxt "f139d33756c8404d817c5ef7124dd947"
 msgid "ཞེས་ གསུངས་པ་␣ས །"
