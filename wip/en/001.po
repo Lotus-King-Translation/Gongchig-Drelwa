@@ -20292,7 +20292,7 @@ msgstr "The monk Tenpe Lotro and "
 
 msgctxt "d585fedb10de4459af98b8f827072f89"
 msgid "སོ་␣ར་ འཕྲེང་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ མཐོང་ ན་ དགའ་བ་ ཅན་ དང་ །"
-msgstr ""
+msgstr "Angulimala, when seeing the Buddha Bhagavan, was delighted, and"
 
 msgctxt "ab2ceb8195ca4ad4b5138a13fdc357ab"
 msgid "འོད་སྲུང་ རྫོགས་བྱེད་ ལྟ་བུ་ ཡིན་ ནོ །"
