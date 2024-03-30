@@ -20236,7 +20236,7 @@ msgstr ""
 
 msgctxt "21c02e3852fc43ebac3348eb14d3ee56"
 msgid "དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །"
-msgstr ""
+msgstr "If asked why it is so?"
 
 msgctxt "ba642607cf464bdca1af256af1e9493b"
 msgid ""
