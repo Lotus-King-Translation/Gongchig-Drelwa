@@ -20350,6 +20350,8 @@ msgid ""
 "རྡོ་␣༽༽  སངས་རྒྱས་ རྣམས་ ནི་ ཞིང་ དག་པ་ དང་ མ་ དག་པ་ དབྱིབས་ ཀྱང་ "
 "སྣ་ཚོགས་པ་␣འི་ ཞིང་ ཐ་དད་པ་ དེ་␣ར་ སངས་ རྒྱ་བ་ ཡིན་ ཟེར་ ཡང༌ །"
 msgstr ""
+"Vajra: It is said that buddhas attain enlightenment in different kinds of "
+"pure and impure realms, that are also distinct in shape."
 
 msgctxt "572ac40262d14b21814b9f1347cfe0fb"
 msgid ""
