@@ -20296,7 +20296,7 @@ msgstr "Angulimala, when seeing the Buddha Bhagavan, was delighted, and"
 
 msgctxt "ab2ceb8195ca4ad4b5138a13fdc357ab"
 msgid "འོད་སྲུང་ རྫོགས་བྱེད་ ལྟ་བུ་ ཡིན་ ནོ །"
-msgstr ""
+msgstr "It is like Purana Kasyapa."
 
 msgctxt "b7fee49ac7ca46bbbe6f54154db90aa8"
 msgid "དེ་ལྟར་ ཡང་ཡང་ དག་སྦྱོར་བ་␣འི་ རྒྱུད་ ལ་␣ས །"
