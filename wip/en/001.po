@@ -20182,7 +20182,7 @@ msgstr "The immeasurable mansions, multistoried buildings and "
 
 msgctxt "8317d70c5ae44f4bad4d5d7c0720701e"
 msgid "སྤྲུལ་པ་ དང་ ནམ་མཁའ་ དང༌ །"
-msgstr ""
+msgstr "The emanations, sky and"
 
 msgctxt "fc76fb2b585e4afd8e6161bb0d629b23"
 msgid "བར་སྣང་ དང །  རྨི་ལམ་ དང༌ །  གཟུགས་བརྙན་ དང་ །"
