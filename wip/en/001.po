@@ -20166,7 +20166,7 @@ msgstr "Ananda, there are buddhafields where the Buddha performs his deeds."
 
 msgctxt "02c054330cbc4af5bd8f6e90081f0c9a"
 msgid "དེ་བཞིན་ དུ་ སྦྱར་ ཏེ་ འོད་ དང༌ །"
-msgstr ""
+msgstr "Connect in the same way, light and "
 
 msgctxt "aa87c75d388e421ca20a7c69a0ff9a79"
 msgid "བྱང་ཆུབ་ ཀྱི་ ཤིང་ དང་ཁ་ ཟས་ དང་ །"
