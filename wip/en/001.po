@@ -20162,7 +20162,7 @@ msgctxt "1d7346d7b0be4be6a5e51919ed4ffb1b"
 msgid ""
 "ཀུན་དགའ་བོ་ གང་དག་ ན་ སངས་རྒྱས་ ཀྱི་ མཛད་པ་ བྱེད་པ་␣འི་ སངས་རྒྱས་ ཀྱི་ ཞིང་ "
 "རྣམས་ ཀྱང་ ཡོད་ དོ ། །"
-msgstr ""
+msgstr "Ananda, there are buddhafields where the Buddha performs his deeds."
 
 msgctxt "02c054330cbc4af5bd8f6e90081f0c9a"
 msgid "དེ་བཞིན་ དུ་ སྦྱར་ ཏེ་ འོད་ དང༌ །"
