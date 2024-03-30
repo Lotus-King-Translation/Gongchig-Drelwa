@@ -20275,7 +20275,7 @@ msgstr "Similarly, the Sutra of Requisition by Sagaramati and"
 
 msgctxt "6ccc431860cb4ddaa509b938718864fb"
 msgid "ཆོས་ ཀུན་འགྲོ་བ་ སོགས་ མདོ་ མང་པོ་␣ར་"
-msgstr ""
+msgstr "All Phenomena are Transmigrating, and in many other sutras,"
 
 msgctxt "7d3f0629fc1c45ab979ff02fbf5d01a7"
 msgid "མཐའ་ཡས་པ་␣ར་ གསུངས་ ཤིང་"
