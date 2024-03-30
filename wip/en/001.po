@@ -20156,7 +20156,7 @@ msgstr ""
 
 msgctxt "fb7be21ad9a14095852ccd43e4bccdd5"
 msgid "དྲི་མ་ མེད་པ་␣ར་ གྲགས་པ་␣འི་ མདོ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Vimalakirti Sutra:"
 
 msgctxt "1d7346d7b0be4be6a5e51919ed4ffb1b"
 msgid ""
