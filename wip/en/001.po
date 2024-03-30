@@ -20104,7 +20104,7 @@ msgstr "The mind of the Buddha"
 
 msgctxt "2f7171dec55b45b69de645252310f1ef"
 msgid "སེམས་ ཀྱི་ དམིགས་པ་ དང་ ཡང་ བྲལ་ ལ །"
-msgstr ""
+msgstr "Is free from the observation of the mind."
 
 msgctxt "4262104574a64043a5f49b35e0ec642b"
 msgid ""
