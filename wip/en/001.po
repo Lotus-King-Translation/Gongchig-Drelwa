@@ -20220,7 +20220,7 @@ msgstr ""
 
 msgctxt "38c0e841b1ce4c0aac18c312f3aa31ef"
 msgid "འཇམ་དཔལ་ སངས་རྒྱས་ ཀྱི་ ཞིང་ འདི་ ན་"
-msgstr ""
+msgstr "Manjushri, in this buddha realm,"
 
 msgctxt "a173f7c08ef640fb9748a4de18ebb062"
 msgid "གཞན་ མུ་སྟེགས་ ཅན་ ཀུན་ ཏུ་ དཔྱོད་པ་བ་ གང་དག་ སྣང་བ་"
