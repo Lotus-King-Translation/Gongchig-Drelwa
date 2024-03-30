@@ -20323,7 +20323,7 @@ msgstr "In the Transmigration of All Phenomena:"
 
 msgctxt "d37ce74ec1444cc899bd5c50e0a303e0"
 msgid "དཔེར་ན་ མེ་ ནི་ ཤིང་ ཐམས་ཅད་ ལ་ གནས་ མོད་ ཀྱི །"
-msgstr ""
+msgstr "For example, fire is indeed present in all kinds of wood."
 
 msgctxt "334664be3b264fff83bb6b9d0e85519e"
 msgid "རྐྱེན་ དང་ རྩོལ་བ་ མ་ཚང་ ན་ མི་ འབར་ ཞིང་ དགོས་པ་ རྣམས་ མི་ བྱེད་ དོ །"
