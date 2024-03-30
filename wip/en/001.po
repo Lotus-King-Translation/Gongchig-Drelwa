@@ -20288,7 +20288,7 @@ msgstr ""
 
 msgctxt "8955f670f7294e208fdf93b66fa063b8"
 msgid "དགེ་སློང་ བསྟན་པ་␣འི་ བློ་གྲོས་ དང་ ༑"
-msgstr ""
+msgstr "The monk Tenpe Lotro and "
 
 msgctxt "d585fedb10de4459af98b8f827072f89"
 msgid "སོ་␣ར་ འཕྲེང་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ མཐོང་ ན་ དགའ་བ་ ཅན་ དང་ །"
