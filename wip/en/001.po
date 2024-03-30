@@ -20190,7 +20190,7 @@ msgstr "The unobstracted space, dreams, reflections, and "
 
 msgctxt "e86cb79668a54752afa5fc17fb170dfd"
 msgid "ཆུ་ཟླ་ དང༌ །  བྲག་ཆ་ དང༌ །  སྒྱུ་མ་ དང༌ །"
-msgstr ""
+msgstr "The water moon, echo, illusion, and"
 
 msgctxt "d43625b2ff6f4c17aec7a7504edfbfc0"
 msgid "སྨིག་རྒྱུ་ དང་ །  ཡི་གེ་␣ར་ སྟོན་པ་ དང༌ །  བརྗེད་པ་ མེད་པ་ དང་ །"
