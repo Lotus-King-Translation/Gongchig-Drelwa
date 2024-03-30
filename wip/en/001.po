@@ -20127,7 +20127,7 @@ msgstr ""
 
 msgctxt "f77e4c0ae57343718ad70d3d35474f91"
 msgid "མཐ་␣ར་ ནང་པ་␣འི་ ལམ་ ལ་ དྲངས་ ཏེ་"
-msgstr ""
+msgstr "Finally, [sentient beings] are drawn onto the Buddhist path."
 
 msgctxt "727c39f1d7a74a109d37366733930a4e"
 msgid ""
