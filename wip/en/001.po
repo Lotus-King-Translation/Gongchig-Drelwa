@@ -20178,7 +20178,7 @@ msgstr "The water, the pleasure grove, and"
 
 msgctxt "06d93ca0dc8b469cab69027c9b86f5f3"
 msgid "གཞལ་མེད་ ཁང་ དང་ ཁང་པ་ བརྩེགས་པ་ དང་"
-msgstr ""
+msgstr "The immeasurable mansions, multistoried buildings and "
 
 msgctxt "8317d70c5ae44f4bad4d5d7c0720701e"
 msgid "སྤྲུལ་པ་ དང་ ནམ་མཁའ་ དང༌ །"
