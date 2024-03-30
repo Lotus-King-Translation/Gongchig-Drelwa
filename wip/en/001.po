@@ -20338,6 +20338,8 @@ msgstr "Similarly, although buddhas are present in all knowables,"
 msgctxt "1b6b8a025ba94b3d9a293c2827505b6a"
 msgid "དད་པ་ སོགས་ རྐྱེན་ མ་ཚང་ ན་ མི་ འབྱུང་ ཞིང་ བྱ་བ་ མི་ མཛད་ དོ ། །"
 msgstr ""
+"If the conditions of faith and so forth are not complete, they will not "
+"arise or perform their functions."
 
 msgctxt "ae59bb47b23149b182d46b52a8aa65b9"
 msgid "ཞེས་ སོ །"
