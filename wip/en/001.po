@@ -20198,7 +20198,7 @@ msgstr "Mirage, teaching in writing, unforgetfulness, and"
 
 msgctxt "3069c19f1faa48ecb403bf2f81403454"
 msgid "ལོངས་སྤྱོད་ དང་ །  བདུད་ བཞི་པོ་ དང༌ །"
-msgstr ""
+msgstr "Possessions, the four demons and "
 
 msgctxt "5f2e9762d02c451c877486cf5ef4f482"
 msgid ""
