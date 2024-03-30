@@ -20186,7 +20186,7 @@ msgstr "The emanations, sky and"
 
 msgctxt "fc76fb2b585e4afd8e6161bb0d629b23"
 msgid "བར་སྣང་ དང །  རྨི་ལམ་ དང༌ །  གཟུགས་བརྙན་ དང་ །"
-msgstr ""
+msgstr "The unobstracted space, dreams, reflections, and "
 
 msgctxt "e86cb79668a54752afa5fc17fb170dfd"
 msgid "ཆུ་ཟླ་ དང༌ །  བྲག་ཆ་ དང༌ །  སྒྱུ་མ་ དང༌ །"
