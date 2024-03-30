@@ -20242,6 +20242,8 @@ msgctxt "ba642607cf464bdca1af256af1e9493b"
 msgid ""
 "འདི་དག་ ནི་ རྣམ་པ་␣ར་ ཐར་པ་ བསམ་ གྱིས་ མི་ ཁྱབ་པ་␣འི་ སྒོ་ ལ་ གནས་པ་ དང་"
 msgstr ""
+"They abide in the skillful methods of the inconceivable gateways to "
+"emancipation and "
 
 msgctxt "a2179a505d27487cacb606964c8d4e1a"
 msgid "ཕ་རོལ་ ཏུ་ ཕྱིན་པ་ ལ་ ངེས་པར་ འབྱིན་པ་ ལ་"
