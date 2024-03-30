@@ -20271,7 +20271,7 @@ msgstr "And."
 
 msgctxt "00aa0e2e52d94de187ae24b7e0e29c11"
 msgid "དེ་བཞིན་ དུ་ བློ་གྲོས་ རྒྱ་མཚོ་␣ས་ ཞུས་པ་ དང༌ །"
-msgstr ""
+msgstr "Similarly, the Sutra of Requisition by Sagaramati and"
 
 msgctxt "6ccc431860cb4ddaa509b938718864fb"
 msgid "ཆོས་ ཀུན་འགྲོ་བ་ སོགས་ མདོ་ མང་པོ་␣ར་"
