@@ -20315,7 +20315,7 @@ msgstr "In this way, even though all of these perform their work,"
 
 msgctxt "e1d03bde366340b6a65badeee1c53362"
 msgid "དུས་ ལ་མ་ བབས་པ་␣ར་ མི་ འགྱུར་ ཏེ །"
-msgstr ""
+msgstr "It will not become till the time arrives."
 
 msgctxt "077c52c8003c4020916d4bd9739b76e8"
 msgid "ཆོས་ ཀུན་འགྲོ་ བར །"
