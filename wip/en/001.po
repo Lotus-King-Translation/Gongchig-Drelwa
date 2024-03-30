@@ -20251,7 +20251,7 @@ msgstr "To be certain in leading to transcendental perfection,"
 
 msgctxt "2ece7e06059940dabefd5c5a7b876048"
 msgid "ཐབས་མཁས་པ་␣ས་ སྣེར་ བརྩེ་བ་ ཤ་སྟག་ གོ  །"
-msgstr ""
+msgstr "Soley love on the top of the skillful method."
 
 msgctxt "0f1b0c7f05e64d2eabb57be1e7459aaf"
 msgid "དཀོན་མཆོག་ གསུམ་ ཡིད་ ལ་ བྱ་བ་ མ་ བཏང་བ་"
