@@ -20307,6 +20307,7 @@ msgid ""
 "རྡུལ་ དང༌ །  མུན་པ །  སྙིང་སྟོབས་ ཀྱང་ སེམས་ཅན་ གྱི་ དོན་ བྱེད་ དོ་ ཞེས་ སོ "
 "། །"
 msgstr ""
+"Dust, darkness, and determination also work for the sake of sentient beings."
 
 msgctxt "9512543b36db42bd93b1b2ced947ab2e"
 msgid "དེ་ལྟར་ ཐམས་ཅད་ ཀྱིས་ བྱ་བ་ བྱེད་ ཀྱང་"
