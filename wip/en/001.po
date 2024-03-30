@@ -20170,7 +20170,7 @@ msgstr "Likewise, light and "
 
 msgctxt "aa87c75d388e421ca20a7c69a0ff9a79"
 msgid "བྱང་ཆུབ་ ཀྱི་ ཤིང་ དང་ཁ་ ཟས་ དང་ །"
-msgstr "The tree of enlightenment, and food, and"
+msgstr "The tree of enlightenment, food, and,"
 
 msgctxt "3e24122b391340b99cb3d54d41c2f16b"
 msgid "ཆུ་ དང་ །  བསྐྱེད་ མོས་ ཚལ་ དང༌ །"
