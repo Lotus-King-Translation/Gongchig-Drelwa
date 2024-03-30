@@ -20284,6 +20284,7 @@ msgstr "It is taught infinitely."
 msgctxt "07652e2b09e94d1697b3f4a8a7991595"
 msgid "འདོད་ཆགས་ དང༌ །  ཞེ་སྡང་ །  གཏི་མུག་ གིས་ བྱ་བ་ བྱས་པ་ རིམ་བཞིན །"
 msgstr ""
+"The functions of desire, aversion, and delusion are performed progressively."
 
 msgctxt "8955f670f7294e208fdf93b66fa063b8"
 msgid "དགེ་སློང་ བསྟན་པ་␣འི་ བློ་གྲོས་ དང་ ༑"
