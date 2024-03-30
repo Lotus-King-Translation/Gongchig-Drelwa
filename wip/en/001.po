@@ -20255,7 +20255,7 @@ msgstr "Soley love on the top of the skillful method."
 
 msgctxt "0f1b0c7f05e64d2eabb57be1e7459aaf"
 msgid "དཀོན་མཆོག་ གསུམ་ ཡིད་ ལ་ བྱ་བ་ མ་ བཏང་བ་"
-msgstr ""
+msgstr "Not giving up the three jewels in your mind."
 
 msgctxt "dd6c5df46f664384b05b971ff7e74465"
 msgid ""
