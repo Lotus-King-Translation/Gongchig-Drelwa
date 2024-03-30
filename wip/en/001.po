@@ -20134,6 +20134,7 @@ msgid ""
 "རྣམ་མཁྱེན་ ལ་ འགོད་པ་␣ར་ མཛད་པ་␣འི་ ཐབས་མཁས་ བསམ་ གྱིས་ མི་ ཁྱབ་པ་␣འི་ གནས་ "
 "ཡིན་ ནོ །"
 msgstr ""
+"This is the inconceivable skillful means of setting [them] to omniscience."
 
 msgctxt "709803845b3b4642b3002fa5dbd8ba53"
 msgid ""
