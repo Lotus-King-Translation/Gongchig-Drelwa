@@ -20122,6 +20122,8 @@ msgid ""
 "འཇིག་རྟེན་ ཐ་མལ་པ་␣འི་ གཏམ་ དང་ ཆད་པ་ དང་ རྟག་པ་ ལས་རིམ་ གྱིས་ གོང་ དུ་ "
 "ཁྲིད་ དེ །"
 msgstr ""
+"[He] gradually leads [sentient beings] beyond the talk of ordinary worldly "
+"people, beyond nihilism and permanence."
 
 msgctxt "f77e4c0ae57343718ad70d3d35474f91"
 msgid "མཐ་␣ར་ ནང་པ་␣འི་ ལམ་ ལ་ དྲངས་ ཏེ་"
