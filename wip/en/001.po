@@ -20194,7 +20194,7 @@ msgstr "The water moon, echo, illusion, and"
 
 msgctxt "d43625b2ff6f4c17aec7a7504edfbfc0"
 msgid "སྨིག་རྒྱུ་ དང་ །  ཡི་གེ་␣ར་ སྟོན་པ་ དང༌ །  བརྗེད་པ་ མེད་པ་ དང་ །"
-msgstr ""
+msgstr "Mirage, teaching in writing, unforgetfulness, and"
 
 msgctxt "3069c19f1faa48ecb403bf2f81403454"
 msgid "ལོངས་སྤྱོད་ དང་ །  བདུད་ བཞི་པོ་ དང༌ །"
