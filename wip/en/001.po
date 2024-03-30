@@ -20231,6 +20231,8 @@ msgid ""
 "འདི་ ཡང་ དེ་བཞིན་ གཤེགས་པ་␣འི་ བྱིན་རླབས་ དང་ ཐབས་མཁས་ བསམ་ གྱིས་ མི་ "
 "ཁྱབ་པ་␣ར་ རིགས་པ་␣ར་ བྱ་␣འོ ། །"
 msgstr ""
+"This, too, should be seen as the inconceivable blessing and skillful method "
+"of the tathagatas."
 
 msgctxt "21c02e3852fc43ebac3348eb14d3ee56"
 msgid "དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །"
