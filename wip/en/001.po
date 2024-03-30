@@ -20333,7 +20333,7 @@ msgstr ""
 
 msgctxt "fe6b9d6080634427bad4c903d528f5d7"
 msgid "དེ་བཞིན་ དུ་ སངས་རྒྱས་ རྣམས་ ཤེས་བྱ་ ཐམས་ཅད་ ལ་ གནས་ མོད་ ཀྱང་ །"
-msgstr ""
+msgstr "Similarly, although buddhas are present in all knowables,"
 
 msgctxt "1b6b8a025ba94b3d9a293c2827505b6a"
 msgid "དད་པ་ སོགས་ རྐྱེན་ མ་ཚང་ ན་ མི་ འབྱུང་ ཞིང་ བྱ་བ་ མི་ མཛད་ དོ ། །"
