@@ -20328,6 +20328,8 @@ msgstr "For example, fire is indeed present in all kinds of wood."
 msgctxt "334664be3b264fff83bb6b9d0e85519e"
 msgid "རྐྱེན་ དང་ རྩོལ་བ་ མ་ཚང་ ན་ མི་ འབར་ ཞིང་ དགོས་པ་ རྣམས་ མི་ བྱེད་ དོ །"
 msgstr ""
+"If the conditions and effort are not complete, it will not blaze and will "
+"not perform its functions."
 
 msgctxt "fe6b9d6080634427bad4c903d528f5d7"
 msgid "དེ་བཞིན་ དུ་ སངས་རྒྱས་ རྣམས་ ཤེས་བྱ་ ཐམས་ཅད་ ལ་ གནས་ མོད་ ཀྱང་ །"
