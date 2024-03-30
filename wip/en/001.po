@@ -20215,6 +20215,8 @@ msgstr "And."
 msgctxt "ca9aa53b77504402afb650896d5bbcf7"
 msgid "བྱང་སེམས་ ཐབས་ ཀྱི་ སྤྱོད་ཡུལ་ རྣམ་པ་␣ར་ འཁྲུལ་པ་ བསྟན་པ་ ལ་␣ས །"
 msgstr ""
+"According to The Display of Miracles in Skillful Methods that is the Sphere "
+"of Activity of the Bodhisattvas:"
 
 msgctxt "38c0e841b1ce4c0aac18c312f3aa31ef"
 msgid "འཇམ་དཔལ་ སངས་རྒྱས་ ཀྱི་ ཞིང་ འདི་ ན་"
