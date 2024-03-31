@@ -20500,7 +20500,7 @@ msgstr ""
 
 msgctxt "c93cf46fe30a4f22afe75463c34e6dca"
 msgid "རི་བོང་ གི་ རང་བཞིན་ ནོ ། །"
-msgstr ""
+msgstr "It is of the nature of a rabbit."
 
 msgctxt "8fc86522844b4014a09ec7b1f2129d95"
 msgid "མ་ གྲུབ་ ན་"
