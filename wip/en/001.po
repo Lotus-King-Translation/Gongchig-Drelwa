@@ -20434,7 +20434,7 @@ msgstr ""
 
 msgctxt "77857015d5844ffaaceff59df0681992"
 msgid "དེ་ ན་མ་ གྲུབ་ ན་ ཚོགས་ མཐའ་ཡས་པ་␣འི་ འབྲས་བུ་␣ས་"
-msgstr ""
+msgstr "If it is not accomplished, by the result of limitless accumulations"
 
 msgctxt "1c9869136d6843dcb4387ecf33d85421"
 msgid "འཁོར་ལོ་␣ས་ བསྒྱུར་བ་ ལ་␣ས་ ཆུང་བ་␣ར་ འགྱུར་ ཏེ་"
