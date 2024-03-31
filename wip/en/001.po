@@ -20466,7 +20466,7 @@ msgstr "Vajra: The nirmanakaya is supremely arising from the power of birth."
 
 msgctxt "fedac915103d4793a4311e40e187f74e"
 msgid "མཆན་ མཛད་པ་␣༡༢ །"
-msgstr ""
+msgstr "Annotation: the twelve deeds,"
 
 msgctxt "7c95b3bb20f74bfab6f8469a69c61c06"
 msgid ""
