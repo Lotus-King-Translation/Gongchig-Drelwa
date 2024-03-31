@@ -20443,6 +20443,8 @@ msgstr "It will become less than a monarch."
 msgctxt "0efc9394da2b4b2b82cf75479c8c65e2"
 msgid "ཕལ་ཆེན་ ལ་␣ས་ འཇིག་རྟེན་ ཁམས་ རྒྱ་མཚོ་ བཅུ་␣འི་ གྲངས་ ཀྱི་"
 msgstr ""
+"Buddha Avatamsaka Sutra Section says in the world systems equal to the "
+"number of atoms in ten oceans, "
 
 msgctxt "5b0932b601604b8fad862e33d828e845"
 msgid ""
