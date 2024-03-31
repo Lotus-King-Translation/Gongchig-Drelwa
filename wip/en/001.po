@@ -20458,7 +20458,7 @@ msgstr "Therefore, this is the essence of generating bodhicitta."
 
 msgctxt "927d16a1e9e942e8b929e2ba31ccd881"
 msgid "ཕྱིས་ ཐམས་ཅད་ དུ་ སངས་རྒྱས་པ་ ཡིན་ ནོ །"
-msgstr ""
+msgstr "Later, he became awakened in all of them."
 
 msgctxt "b7dd006e07ec4327987d612688999786"
 msgid "རྡོ་␣༽༽་␣སྤྲུལ་སྐུ་ སྐྱེས་སྟོབས་ ལ་␣ས་ བྱུང་བ་ མཆོག་ དང༌ །"
