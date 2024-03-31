@@ -20504,7 +20504,7 @@ msgstr ""
 
 msgctxt "8fc86522844b4014a09ec7b1f2129d95"
 msgid "མ་ གྲུབ་ ན་"
-msgstr ""
+msgstr "If it is not established,"
 
 msgctxt "a370a1907c1e457bab4dab9e99a901ce"
 msgid "ཕུར་བུ་པ་␣འི་ འདོད་པ་ ཁ་␣ས་ ལོངས་ ཤིག  །"
