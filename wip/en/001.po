@@ -20357,6 +20357,8 @@ msgctxt "572ac40262d14b21814b9f1347cfe0fb"
 msgid ""
 "འདི་␣ར་ ནི་ ཆོས་དབྱིངས་ མ་ལུས་པ་ ཀུན་ ཏུ་ འཚང་ རྒྱ་ དགོས་པ་␣ར་ བཞེད་ དེ་"
 msgstr ""
+"In this [system], it is accepted that one must become awakened in all "
+"expanse of dharmas."
 
 msgctxt "76fb2de66de5489f962a38117ed33eb8"
 msgid ""
