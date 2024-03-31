@@ -20381,7 +20381,7 @@ msgstr "Have not become awakened."
 
 msgctxt "d2223bd647e64eacb51ffa23963eedf3"
 msgid "ཚངས་པ་ ང་ ནི་ ཚད་ མེད་ ཅིང་ རིས་ སུ་ མ་ ཆད་པ་␣འི་ རྣམ་པ་␣ས་"
-msgstr ""
+msgstr "Brahma, I, with immeasurable and without limited aspect,"
 
 msgctxt "7a044c0b67d140778cdec1fae5ec97bc"
 msgid "ཆོས་ ཐམས་ཅད་ མཉམ་པ་ཉིད་ དུ་ མངོན་པར་ རྫོགས་པ་␣ར་ བྱ་␣འོ ། །"
