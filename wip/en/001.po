@@ -20426,7 +20426,7 @@ msgstr ""
 
 msgctxt "4b91da5cf25d4eb59bada3e65b4b510a"
 msgid "གཞན་ ཡང་ དཔའ་བ་␣ར་ འགྲོ་བ་ དཀོན་མཆོག་ འབྱུང་གནས །"
-msgstr ""
+msgstr "Furthermore, the heroic one is Ratnakara,"
 
 msgctxt "f9568460f08d498689c8507c545bfd28"
 msgid "སོ་␣ར་ འཕྲེང་ ལ་ ཕན་པ་ སོགས་ མཐའ་ཡས་པ་␣ར་ གསུངས་ སོ ། །"
