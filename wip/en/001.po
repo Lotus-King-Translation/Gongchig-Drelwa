@@ -20365,6 +20365,7 @@ msgid ""
 "བདེ་བ་␣ར་ གཤེགས་པ་ ཆོས་ ཐམས་ཅད་ མངོན་པར་ རྫོགས་པ་␣ར་ བྱང་ཆུབ་པ་ ཡིན་པ་␣འི་ "
 "ཕྱིར་ རོ ། །"
 msgstr ""
+"Because the Sugata has manifestly and completely awakened to all dharmas."
 
 msgctxt "dc9dffd53afd450fad85f5176c8ed850"
 msgid "དེ་ལྟར་ ཡང་ རྒྱ་ ཆེ་␣ར་ རོལ་པ་ ལ་␣ས །"
