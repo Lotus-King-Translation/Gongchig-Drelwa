@@ -20409,7 +20409,7 @@ msgstr ""
 
 msgctxt "63fe504dc2394cc4a1ea151efcd698e8"
 msgid "ཤེར་ཕྱིན་ ལ་ བསླབ་པ་␣ར་ བྱ་␣འོ ། །"
-msgstr ""
+msgstr "[You] should train in the Perfection of Wisdom."
 
 msgctxt "70b236099e3e49589e085c8c88e913d8"
 msgid "ཞེས་ དང་ ཕལ་ཆེན་ ལ་␣ས །"
