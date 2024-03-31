@@ -20450,7 +20450,7 @@ msgctxt "5b0932b601604b8fad862e33d828e845"
 msgid ""
 "རྡུལ་ དང་ མཉམ་པ་ ལ་ དབང་ བྱེད་པ་␣འི་ འཁོར་ བསྒྱུར་ ཡོད་པ་␣ར་ གསུངས་པ་␣འི་ "
 "ཕྱིར་ རོ ། །"
-msgstr ""
+msgstr "The universal monarchs will rule."
 
 msgctxt "df35161cae454ff3a8ddaef3eabfabb8"
 msgid "དེ་བས་ན་ སེམས་བསྐྱེད་པ་␣འི་ གནད་"
