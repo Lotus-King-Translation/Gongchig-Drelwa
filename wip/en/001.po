@@ -20373,7 +20373,7 @@ msgstr "According to The Play in Full [sutra]:"
 
 msgctxt "5210db319421465eaaa75288bf496ba6"
 msgid "ཚངས་པ་ ངས་ ཡོངས་སུ་ ཆད་པ་␣འི་ རྣམ་པ་␣ས་"
-msgstr ""
+msgstr "Brahma, I, by a limited aspect,"
 
 msgctxt "de3bc1db182347bfbe71e7b103038989"
 msgid "ཚད་ དང་ ལྡན་པ་␣ར་ སངས་རྒྱས་པ་ མ་ ཡིན་ གྱི །"
