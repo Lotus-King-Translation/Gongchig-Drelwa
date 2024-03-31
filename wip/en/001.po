@@ -20473,6 +20473,8 @@ msgid ""
 "དམན་པ་ ཉན་རང་ དང༌ །  བཟོ་ དང༌ །  སྒྱེ་བ་ རི་བོང་ སོགས་ སྟེ་ བཞི་ བསྒོམས་པ་ "
 "ལ་␣ས་ བྱུང་བ་"
 msgstr ""
+"The lesser ones shravakas and pratyekabuddhas, artisans, Gyewa rabbits, and "
+"so forth, occur by meditating on the four."
 
 msgctxt "bf55a725426d4fdfbe810f0422501904"
 msgid ""
