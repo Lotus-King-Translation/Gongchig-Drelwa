@@ -20462,7 +20462,7 @@ msgstr "Later, he became awakened in all of them."
 
 msgctxt "b7dd006e07ec4327987d612688999786"
 msgid "རྡོ་␣༽༽་␣སྤྲུལ་སྐུ་ སྐྱེས་སྟོབས་ ལ་␣ས་ བྱུང་བ་ མཆོག་ དང༌ །"
-msgstr ""
+msgstr "Vajra: The nirmanakaya is supremely arising from the power of birth."
 
 msgctxt "fedac915103d4793a4311e40e187f74e"
 msgid "མཆན་ མཛད་པ་␣༡༢ །"
