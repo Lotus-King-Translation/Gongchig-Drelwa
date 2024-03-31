@@ -20417,7 +20417,7 @@ msgstr "And according to the Avatamsaka [Sutra]:"
 
 msgctxt "4ec59816cb3143d5ae5eb2665d2e9ac3"
 msgid "སྟོང་གསུམ་ འདི་ཉིད་ དུ་"
-msgstr ""
+msgstr "In this very third order chiliocosm,"
 
 msgctxt "d3c6704a171d4893b53fc758fcb2edaf"
 msgid "གླིང་བཞི་ བྱེ་བ་ ཕྲག་ བརྒྱ་␣ར་ སངས་རྒྱས་པ་␣ར་ གསུངས་ ཤིང་ །"
