@@ -20385,7 +20385,7 @@ msgstr "Brahma, I, with immeasurable and without limited aspect,"
 
 msgctxt "7a044c0b67d140778cdec1fae5ec97bc"
 msgid "ཆོས་ ཐམས་ཅད་ མཉམ་པ་ཉིད་ དུ་ མངོན་པར་ རྫོགས་པ་␣ར་ བྱ་␣འོ ། །"
-msgstr ""
+msgstr "Become awakened in the sameness of all phenomena."
 
 msgctxt "b4393fa52cbb4818a6207f9ed4c88c4b"
 msgid "ཞེས་ དང༌ །"
