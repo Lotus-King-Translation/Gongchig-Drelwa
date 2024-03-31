@@ -20438,7 +20438,7 @@ msgstr "If it is not accomplished, by the result of limitless accumulations"
 
 msgctxt "1c9869136d6843dcb4387ecf33d85421"
 msgid "འཁོར་ལོ་␣ས་ བསྒྱུར་བ་ ལ་␣ས་ ཆུང་བ་␣ར་ འགྱུར་ ཏེ་"
-msgstr ""
+msgstr "It will become less than a monarch."
 
 msgctxt "0efc9394da2b4b2b82cf75479c8c65e2"
 msgid "ཕལ་ཆེན་ ལ་␣ས་ འཇིག་རྟེན་ ཁམས་ རྒྱ་མཚོ་ བཅུ་␣འི་ གྲངས་ ཀྱི་"
