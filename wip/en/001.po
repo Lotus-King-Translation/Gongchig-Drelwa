@@ -20454,7 +20454,7 @@ msgstr "The universal monarchs will rule."
 
 msgctxt "df35161cae454ff3a8ddaef3eabfabb8"
 msgid "དེ་བས་ན་ སེམས་བསྐྱེད་པ་␣འི་ གནད་"
-msgstr ""
+msgstr "Therefore, this is the essence of generating bodhicitta."
 
 msgctxt "927d16a1e9e942e8b929e2ba31ccd881"
 msgid "ཕྱིས་ ཐམས་ཅད་ དུ་ སངས་རྒྱས་པ་ ཡིན་ ནོ །"
