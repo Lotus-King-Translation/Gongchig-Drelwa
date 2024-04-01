@@ -20533,7 +20533,7 @@ msgstr "The complete ripening of karma, the result of thusness is taught."
 
 msgctxt "9165524f0b4049e89eff47e82d30bc38"
 msgid "མ་སྐྱེས་དགྲ་␣འི་ འགྱོད་ བསལ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The Elimination of Ajatashatru’s Regret:"
 
 msgctxt "c5fd87d6a2714eea81f4a627be53965c"
 msgid "ཆོས་ ཐམས་ཅད་ རྒྱུ་␣འི་ རྗེས་སུ་ འགྲོ་བ །"
