@@ -20563,7 +20563,7 @@ msgstr "According to the Mother [Sutra]:"
 
 msgctxt "a007078dbda24a348f35ff8f457dbd7e"
 msgid "རབ་འབྱོར་ ཁ་ཅིག་ ནི་ ཉོན་མོངས་པ་␣འི་ སྤྲུལ་པ་␣འོ ། །"
-msgstr ""
+msgstr "Subhuti, some are the emanations of the afflictions."
 
 msgctxt "1cb98c49e5e8461fbcc6c2aabc695657"
 msgid ""
