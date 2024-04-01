@@ -20583,7 +20583,7 @@ msgstr "According to you, it absurdly follows that everything is causeless."
 
 msgctxt "24c87e72251e4a5bb9f09006812eaec9"
 msgid "དེས་ན་ སངས་རྒྱས་ རང་ ལ་␣ས་ རྒྱུད་པ་␣འི་ རྒྱུ་ཅན་ ནོ །"
-msgstr ""
+msgstr "Therefore, that is the cause of the continuum of the Buddha himself."
 
 msgctxt "65d38a1cbdbd423f95c506a7f544b840"
 msgid "རྡོ་␣༽༽  གཟུགས་སྐུ་ གཉིས་ དང་ ཡེ་ཤེས་ སངས་རྒྱས་ ཆོས་སྐུ་ ལ་ མེད་ ཀྱང་"
