@@ -20579,7 +20579,7 @@ msgstr "As it is said."
 
 msgctxt "6f258424a05742a79c8d8de307fd2f71"
 msgid "ཁྱེད་ ལྟར་ ན་ ཐམས་ཅད་ རྒྱུ་ མེད་ དུ་ཐལ་ བར་ འགྱུར་ རོ ། །"
-msgstr ""
+msgstr "According to you, it absurdly follows that everything is causeless."
 
 msgctxt "24c87e72251e4a5bb9f09006812eaec9"
 msgid "དེས་ན་ སངས་རྒྱས་ རང་ ལ་␣ས་ རྒྱུད་པ་␣འི་ རྒྱུ་ཅན་ ནོ །"
