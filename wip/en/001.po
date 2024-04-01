@@ -20537,7 +20537,7 @@ msgstr "According to The Elimination of Ajatashatru’s Regret:"
 
 msgctxt "c5fd87d6a2714eea81f4a627be53965c"
 msgid "ཆོས་ ཐམས་ཅད་ རྒྱུ་␣འི་ རྗེས་སུ་ འགྲོ་བ །"
-msgstr ""
+msgstr "All phenomena follow their causes."
 
 msgctxt "14465e20d5ec482cb3e72d2dab70beec"
 msgid "ཞེས་ དང་ འདུལ་བ་␣འི་ དུས་ ལ་ བབ་པ་ ན །"
