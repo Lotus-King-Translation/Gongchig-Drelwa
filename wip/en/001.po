@@ -20545,7 +20545,7 @@ msgstr "And when the time comes to subdue,"
 
 msgctxt "e1cb55eebb124095942b51b6b0b3cda9"
 msgid "ཏིང་ངེ་འཛིན་ འདི་ ཞེས་ བྱ་བ་ ལ་ སྙོམས་པར་ ཞུགས་ སོ །"
-msgstr ""
+msgstr "Remain in an equanimity called meditative concentration."
 
 msgctxt "28b3767f5ff94446857eed8e393548d9"
 msgid "ཞེས་པ་ དེ་"
