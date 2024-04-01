@@ -20554,6 +20554,8 @@ msgstr "This is so-called "
 msgctxt "668a2c9c88334673a2fd974b6012f554"
 msgid "རྒྱུ་ བསྒྲུབ་པ་ ཡིན་ ཅིང་ སྤྱིར་ ཆོས་ ཐམས་ཅད་ སྤྲུལ་པ་ ཡིན་པ །"
 msgstr ""
+"It is the accomplishment of the cause. In general, all phenomena are "
+"emanations."
 
 msgctxt "85f1665fe7d44d1b8aa196ff8ebf55dd"
 msgid "ཡུམ་ ལ་␣ས །"
