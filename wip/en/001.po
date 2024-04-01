@@ -20486,7 +20486,7 @@ msgstr ""
 
 msgctxt "8e8d78c636d64d78b5fc2164dae52472"
 msgid "རྣམ་འཕྲུལ་ ཙམ་ དུ་ འབྱུང་ ཞིང་"
-msgstr ""
+msgstr "They merely arise as a manifestation."
 
 msgctxt "028a17a8f9614678b48ba748f83f24e2"
 msgid "དགེ་ མི་དགེ་␣འི་ འབྲས་བུ་ མི་ དགོས་ ཟེར་བ་ དག་ ཆོས་ཅན །"
