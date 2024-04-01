@@ -20588,10 +20588,12 @@ msgstr "Therefore, that is the cause of the continuum of the Buddha himself."
 msgctxt "65d38a1cbdbd423f95c506a7f544b840"
 msgid "རྡོ་␣༽༽  གཟུགས་སྐུ་ གཉིས་ དང་ ཡེ་ཤེས་ སངས་རྒྱས་ ཆོས་སྐུ་ ལ་ མེད་ ཀྱང་"
 msgstr ""
+"Vajra: It is said that although the two rupakayas and the wisdom buddha are "
+"not present in the dharmakaya, "
 
 msgctxt "a4a73432ece94f08a2ee917de912ffa7"
 msgid "གདུལ་བྱ་␣འི་ གཞན་ སྣང་ ཡིན་ ཟེར་ ཡང༌ །"
-msgstr ""
+msgstr "They are the others' appearances of disciples."
 
 msgctxt "fb867d1479c74806886676392d72373f"
 msgid "འདི་␣ར་ ནི་ ཆོས་སྐུ་ རྣམ་པ་␣ར་ དག་པ་ བརྙེས་པ་ དང༌ །"
