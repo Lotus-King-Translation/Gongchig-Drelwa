@@ -20501,6 +20501,7 @@ msgstr "It follows that a causeless emanation is not possible."
 msgctxt "37232549df65420b9a9c12afa72f6039"
 msgid "གང་ ལ་མ་ ལྟོས་པ་␣འི་ ཆོས་ མི་ འགྲུབ་པ་␣འི་ ཕྱིར །"
 msgstr ""
+"Because a phenomenon that does not depend on anything is not established."
 
 msgctxt "c93cf46fe30a4f22afe75463c34e6dca"
 msgid "རི་བོང་ གི་ རང་བཞིན་ ནོ ། །"
