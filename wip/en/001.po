@@ -20597,7 +20597,7 @@ msgstr "They are the others' appearances of disciples."
 
 msgctxt "fb867d1479c74806886676392d72373f"
 msgid "འདི་␣ར་ ནི་ ཆོས་སྐུ་ རྣམ་པ་␣ར་ དག་པ་ བརྙེས་པ་ དང༌ །"
-msgstr ""
+msgstr "In this [system], after attaining the pure dharmakaya and"
 
 msgctxt "46f1def46f924b8ab1795df9e214858d"
 msgid "སེམས་ཅན་ རྣམས་ སངས་རྒྱས་ ཀྱི་ ས་␣ར་ འགོད་པ་␣འི་ ཐུགས་དམ་ བཞེས་པ་ དང༌ །"
