@@ -20525,7 +20525,7 @@ msgstr "The Blessed One, you are an expert in relying on causes."
 
 msgctxt "c6d81ca08a704e1dbebf0fbcde1b0898"
 msgid "མཇའ་ གཉིས་ ལྟ་བ་ རྟག་ ཏུ་ མི་ མངའ་ ཞིང༌ ། །"
-msgstr ""
+msgstr "Never having the views of the two extremes."
 
 msgctxt "f4a1e0f7b6394f95be38074afdfb2535"
 msgid "ལ་␣ས་ ཀྱི་ རྣམ་སྨིན་ འབྲས་བུ་ དེ་དག་ གསུངས ། །"
