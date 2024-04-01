@@ -20481,6 +20481,8 @@ msgid ""
 "བསྟན་པ་␣འི་ བློ་གྲོས་ བརྟུལ་བ་␣འི་ སྨད་ ཚོང་ མ་ ལྟ་བུ་ དེ་དག་ རྒྱུ་ མེད་ "
 "ཀྱང་"
 msgstr ""
+"It is like the tamed prostitutes of Tenpe Lotro, even though they have no "
+"cause,"
 
 msgctxt "8e8d78c636d64d78b5fc2164dae52472"
 msgid "རྣམ་འཕྲུལ་ ཙམ་ དུ་ འབྱུང་ ཞིང་"
