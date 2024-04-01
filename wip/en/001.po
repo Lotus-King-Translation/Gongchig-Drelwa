@@ -20496,7 +20496,7 @@ msgstr ""
 
 msgctxt "be4905e7fcb94cc19dfcfd451abcea23"
 msgid "རྒྱུ་ མེད་པ་␣འི་ སྤྲུལ་པ་ མི་ སྲིད་པ་␣ར་ ཐལ །"
-msgstr ""
+msgstr "It follows that a causeless emanation is not possible."
 
 msgctxt "37232549df65420b9a9c12afa72f6039"
 msgid "གང་ ལ་མ་ ལྟོས་པ་␣འི་ ཆོས་ མི་ འགྲུབ་པ་␣འི་ ཕྱིར །"
