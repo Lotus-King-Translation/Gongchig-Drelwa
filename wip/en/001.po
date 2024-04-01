@@ -20541,7 +20541,7 @@ msgstr "All phenomena follow their causes."
 
 msgctxt "14465e20d5ec482cb3e72d2dab70beec"
 msgid "ཞེས་ དང་ འདུལ་བ་␣འི་ དུས་ ལ་ བབ་པ་ ན །"
-msgstr ""
+msgstr "And when the time ccmes to subdue,"
 
 msgctxt "e1cb55eebb124095942b51b6b0b3cda9"
 msgid "ཏིང་ངེ་འཛིན་ འདི་ ཞེས་ བྱ་བ་ ལ་ སྙོམས་པར་ ཞུགས་ སོ །"
