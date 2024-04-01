@@ -20491,6 +20491,8 @@ msgstr "They merely arise as a manifestation."
 msgctxt "028a17a8f9614678b48ba748f83f24e2"
 msgid "དགེ་ མི་དགེ་␣འི་ འབྲས་བུ་ མི་ དགོས་ ཟེར་བ་ དག་ ཆོས་ཅན །"
 msgstr ""
+"Take the subject, those who say that virtuous and non-virtuous effects are "
+"not required."
 
 msgctxt "be4905e7fcb94cc19dfcfd451abcea23"
 msgid "རྒྱུ་ མེད་པ་␣འི་ སྤྲུལ་པ་ མི་ སྲིད་པ་␣ར་ ཐལ །"
