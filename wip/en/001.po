@@ -20570,6 +20570,8 @@ msgid ""
 "དེ་བཞིན་ དུ་ ལ་␣ས་ དང་ །  ཉན་ཐོས་ དང་ །  རང་རྒྱལ་ དང་ །  སངས་རྒྱས་ ཀྱི་ "
 "སྤྲུལ་པ་␣འོ ། །"
 msgstr ""
+"Likewise, [they]are the emanation of karma, the shravakas, pratyekabuddhas, "
+"and buddhas."
 
 msgctxt "b2b3f13b36d749ef81857fc9683720e9"
 msgid "གསུངས་པ་␣ས །"
