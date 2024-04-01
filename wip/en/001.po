@@ -20521,7 +20521,7 @@ msgstr "Likewise,"
 
 msgctxt "cb21093478774847a72abfcc49bb3345"
 msgid "རྒྱུ་ལ་ བརྟེན་་ པ་␣འི་ མཁས་པ་ བཅོམ་ལྡན་འདས ། །"
-msgstr ""
+msgstr "The Blessed One, you are an expert in relying on causes."
 
 msgctxt "c6d81ca08a704e1dbebf0fbcde1b0898"
 msgid "མཇའ་ གཉིས་ ལྟ་བ་ རྟག་ ཏུ་ མི་ མངའ་ ཞིང༌ ། །"
