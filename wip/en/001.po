@@ -20654,7 +20654,7 @@ msgstr ""
 
 msgctxt "fbb5b5713a304b3f8861e3d338df72e6"
 msgid "སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ རྣམས་ ནི་ སྐུ་ གཅིག་ གིས་ མ་ ཡིན །"
-msgstr "The buddhas, the blessed ones, are not by a single body, "
+msgstr "The buddhas, the blessed ones, are not by a single body."
 
 msgctxt "d896b1c7bdef467987742d7183f659f1"
 msgid "རྐྱེན་ གཅིག་ གིས་ མ་ ཡིན །"
