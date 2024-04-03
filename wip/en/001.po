@@ -20629,7 +20629,7 @@ msgstr "How the reflection of the body of the lord of the gods appears."
 
 msgctxt "20652800707948fbbbb77da2c22333d2"
 msgid "དེ་བཞིན་ འགྲོ་ སེམས་ ས་གཞི་ གཙང་མ་ ལ ། །"
-msgstr ""
+msgstr "Likewise, in the pure ground of the migrators' mind,"
 
 msgctxt "567398dbe589451fa49da8683058603e"
 msgid "ཐུབ་པ་␣འི་ དབང་པོ་␣འི་ སྐུ་ ཡི་ གཟུགས་བརྙན་ འཆར །"
