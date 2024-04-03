@@ -20601,7 +20601,7 @@ msgstr "In this [system], after attaining the pure dharmakaya and"
 
 msgctxt "46f1def46f924b8ab1795df9e214858d"
 msgid "སེམས་ཅན་ རྣམས་ སངས་རྒྱས་ ཀྱི་ ས་␣ར་ འགོད་པ་␣འི་ ཐུགས་དམ་ བཞེས་པ་ དང༌ །"
-msgstr "Committed to establishing sentient beings on the level of buddhahood."
+msgstr "Took commitment to set sentient beings on the level of buddhahood and"
 
 msgctxt "ea548e7ff62649548e734db6bc156fe9"
 msgid ""
