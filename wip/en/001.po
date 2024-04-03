@@ -20625,7 +20625,7 @@ msgstr "Just as on the surface of a pure lapis lazuli,"
 
 msgctxt "b5031db96e44486aa15d9909b8e273ff"
 msgid "ལྷ་དབང་ ལུས་ ཀྱི་ གཟུགས་བརྙན་ སྣང་བ་ ལྟར ། །"
-msgstr ""
+msgstr "As the reflection of the body of the lord of the gods appears."
 
 msgctxt "20652800707948fbbbb77da2c22333d2"
 msgid "དེ་བཞིན་ འགྲོ་ སེམས་ ས་གཞི་ གཙང་མ་ ལ ། །"
