@@ -20621,7 +20621,7 @@ msgstr "According to The Highest Continuum:"
 
 msgctxt "be60e565364e48efa015c9af1613fbbb"
 msgid "ཇི་ལྟར་ བཻཌཱུར་ ས་གཞི་ གཙང་མ་ ལ ། །"
-msgstr ""
+msgstr "Just as on the surface of a pure lapis lazuli,"
 
 msgctxt "b5031db96e44486aa15d9909b8e273ff"
 msgid "ལྷ་དབང་ ལུས་ ཀྱི་ གཟུགས་བརྙན་ སྣང་བ་ ལྟར ། །"
