@@ -20680,7 +20680,7 @@ msgstr ""
 
 msgctxt "e9954439395e46a9be42435d1a677f0c"
 msgid "སངས་རྒྱས་ ཉག་གཅིག་ གི་ སྤྱོད་ཡུལ་ ཡིན་པ་␣ས་"
-msgstr ""
+msgstr "Because they are the scope of the Buddha alone."
 
 msgctxt "4119ac8fadca401c81531e76ad91d29f"
 msgid "གཞན་ སྣང་ ཁོ་ན་␣འང་ མིན་པ་ དེ་␣འི་ ཕྱིར །"
