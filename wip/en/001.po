@@ -20662,7 +20662,7 @@ msgstr "[They] are not by a single condition."
 
 msgctxt "106750d000ce42cca8b087d1cdb0ff5e"
 msgid "དགེ་བ་␣འི་ རྩ་བ་ གཅིག་ གིས་ མ་ ཡིན །"
-msgstr ""
+msgstr "[They] are not by a single root of virtue."
 
 msgctxt "7dcc6d71c8414ffd9330ad1acd411b8c"
 msgid "ཅེས་པ་␣ས །"
