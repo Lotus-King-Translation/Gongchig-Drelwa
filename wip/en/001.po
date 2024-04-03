@@ -18765,7 +18765,7 @@ msgstr ""
 
 msgctxt "257dde062d4e4f9ab129285c6bea832a"
 msgid "འདི་␣ར་ འབྲས་བུ་ སངས་རྒྱས་ ཀྱི་ ས་ ན་"
-msgstr "In this [system], On the level of the resultant Buddhahood,"
+msgstr "In this [system], On the level of the resultant buddhahood,"
 
 msgctxt "35e0468cf836499eb0bd48653a080141"
 msgid ""
