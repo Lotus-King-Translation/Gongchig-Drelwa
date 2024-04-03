@@ -20645,7 +20645,7 @@ msgstr "According to the Eight Thousand Verses:"
 
 msgctxt "ce7467684ccb48e48d2e4fb7050f7337"
 msgid "པི་ཝང་ གི་ དཔེ་␣ས་ བསྟན་པ་ དང་ །"
-msgstr ""
+msgstr "The example of vina shows it and "
 
 msgctxt "66e9c2e749bc479c94c55d72884cdd4a"
 msgid "དབྱེན་ གྱི་ གཞི་ ལ་␣ས །"
