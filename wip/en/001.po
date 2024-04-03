@@ -20676,7 +20676,7 @@ msgstr ""
 
 msgctxt "dadd52e4850046ae82d8e015c69f4711"
 msgid "སྐུ་ དང་ ཡེ་ཤེས་ མཛད་པ་ བསམ་ གྱིས་ མི་ ཁྱབ་པ་ རྣམས་"
-msgstr ""
+msgstr "Since the inconceivable deeds of the kayas and primordial wisdom are"
 
 msgctxt "e9954439395e46a9be42435d1a677f0c"
 msgid "སངས་རྒྱས་ ཉག་གཅིག་ གི་ སྤྱོད་ཡུལ་ ཡིན་པ་␣ས་"
