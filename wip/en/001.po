@@ -20613,7 +20613,7 @@ msgstr ""
 
 msgctxt "7e0ea21ad87b48f99c24ea2004012ffc"
 msgid "སངས་རྒྱས་ མཐོང་ སྟེ །"
-msgstr "[They] see the buddhas."
+msgstr "[They] see the Buddha."
 
 msgctxt "09a692ffe6a94e26a67b5f486eb67875"
 msgid "རྒྱུད་བླ་མ་ ལ་␣ས །"
