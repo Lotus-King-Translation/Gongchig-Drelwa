@@ -20641,7 +20641,7 @@ msgstr "And."
 
 msgctxt "dc2e6e832bd94832913918691324810a"
 msgid "བརྒྱད་ སྟོང་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to the Eight Thousand Verses:"
 
 msgctxt "ce7467684ccb48e48d2e4fb7050f7337"
 msgid "པི་ཝང་ གི་ དཔེ་␣ས་ བསྟན་པ་ དང་ །"
