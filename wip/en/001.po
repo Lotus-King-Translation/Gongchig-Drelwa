@@ -20633,7 +20633,7 @@ msgstr "Likewise, in the pure ground of the migrators' mind,"
 
 msgctxt "567398dbe589451fa49da8683058603e"
 msgid "ཐུབ་པ་␣འི་ དབང་པོ་␣འི་ སྐུ་ ཡི་ གཟུགས་བརྙན་ འཆར །"
-msgstr ""
+msgstr "The reflection of the body of the Lord of Sages appears."
 
 msgctxt "35c930a0c9f6490ba9d038a92e6fea14"
 msgid "ཞེས་ དང་ །"
