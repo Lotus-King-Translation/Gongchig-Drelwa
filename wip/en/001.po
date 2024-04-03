@@ -20608,6 +20608,8 @@ msgid ""
 "གདུལ་བྱ་ རྣམས་ ཀྱི་ སངས་རྒྱས་ དང་ ཕྲད་པ་␣འི་ ལ་␣ས་ བསགས་པ་␣འི་ དད་པ་␣འི་ "
 "སྣང་བ་ གསུམ་ འཛོམས་ ན་"
 msgstr ""
+"When the three lights of confidence, which are the karma accumulated by "
+"disciples after meeting the Buddha, are gathered,"
 
 msgctxt "7e0ea21ad87b48f99c24ea2004012ffc"
 msgid "སངས་རྒྱས་ མཐོང་ སྟེ །"
