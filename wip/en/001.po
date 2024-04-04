@@ -20727,7 +20727,7 @@ msgstr ""
 
 msgctxt "af855c018e874c25bf59fc2f1474194c"
 msgid "རབ་འབྱམས་ ཕྱོགས་ བཅུ་␣འི་ སངས་རྒྱས་ ལ་"
-msgstr ""
+msgstr "Buddhas of the infinite ten directions"
 
 msgctxt "6139483604054353b919e967c8fa0f05"
 msgid "འདོད་འདུན་ གྱིས་ བསྐྱེད་པ་␣འི་ ཕྱིར་"
