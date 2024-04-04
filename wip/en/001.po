@@ -20722,6 +20722,8 @@ msgid ""
 "སེམས་ཅན་ བློ་␣འི་ ཁོངས་ སུ་ ཆུད་པ་␣འི་ སྨོན་པ་ འདི་␣འི་ འབྲས་བུ་ ཡང་ ཚད་  "
 "མེད་པ་␣འི་ ཕྱིར་ དང༌ །"
 msgstr ""
+"Sentient beings are taken into the aspiring mind [for enlightenment] and the"
+" result of this is also immeasurable."
 
 msgctxt "af855c018e874c25bf59fc2f1474194c"
 msgid "རབ་འབྱམས་ ཕྱོགས་ བཅུ་␣འི་ སངས་རྒྱས་ ལ་"
