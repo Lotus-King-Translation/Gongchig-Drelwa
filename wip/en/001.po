@@ -20747,7 +20747,7 @@ msgstr ""
 
 msgctxt "0a4c94948b2949ea97abac16fb5c8783"
 msgid "ཆོས་དབྱིངས་ ཐམས་ཅད་ དུ་ སངས་ རྒྱ་བ་ དང་ །"
-msgstr ""
+msgstr "One must become awakened in all expanse of dharmas and"
 
 msgctxt "eefd5c1341224fbf95342c0cecc424e3"
 msgid ""
