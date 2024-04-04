@@ -20691,6 +20691,7 @@ msgid ""
 "སངས་རྒྱས་ ཞེས་ བྱ་བ་ ནི་ རྟེན་ ཅིང་ འབྲེལ་ འབྱུང་ ལ་སོགས་པ་␣འི་ སྐུ་ ཡིན་ ནོ"
 " །"
 msgstr ""
+"What is called Buddha is the body of dependent-related arising and so forth."
 
 msgctxt "9a6d2bed5f994cacb79a6354ed64b6b5"
 msgid ""
