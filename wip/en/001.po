@@ -20754,6 +20754,8 @@ msgid ""
 "སྐུ་རྟེན་ འབྲེལ་ དུ་ བཞེད་པ་ དག་ སྤྲུལ་པ་ རྒྱུ་ཅན་ དུ་ བཞེད་པ་␣འི་ གནད་ "
 "ཀྱིས་ ཡིན་ ནོ །"
 msgstr ""
+"Those who accept that the kayas are interdependent do so because of the "
+"essence that [they] accept that emanations are caused."
 
 msgctxt "3fbed35e77b542cea43e47a79ffef73c"
 msgid "༑་␣སྔ་མ་ ལྟར་ རྫ་མཁན་ ཡང་པ་␣འི་ འོད་ ལྟར་"
