@@ -20735,7 +20735,7 @@ msgstr "Because [they] are produced by desire and motivatedness."
 
 msgctxt "995b800389034be3af539186739a419c"
 msgid "སྨོན་པ་ ལ་␣ས་ ལོངས་སྐུ་ འབྱུང་ ཞིང༌ །"
-msgstr ""
+msgstr "The sambhogakaya arises from aspiration and"
 
 msgctxt "a7cd583f96b749c8aecfb031f1479100"
 msgid ""
