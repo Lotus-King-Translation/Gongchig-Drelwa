@@ -20807,7 +20807,7 @@ msgstr ""
 
 msgctxt "6dc621a3c442409592bab6e83d5bdce2"
 msgid "རྒྱུ་ བླ་མ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The Highest Continuum:"
 
 msgctxt "f40c25437b94422cb1c87bab221bb96e"
 msgid "དེ་ ནི་ རང་བཞིན་ དག་ ཕྱིར་ དང་ ། །"
