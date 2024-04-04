@@ -20785,7 +20785,7 @@ msgstr ""
 
 msgctxt "b7bed558d46e4dbd9be788e672bf8deb"
 msgid "ཆོས་ ཟབ་མོ་ སྐྱེ་ མེད་ དང༌ །"
-msgstr ""
+msgstr "The profound Dharma of non-arising and"
 
 msgctxt "4bbf1557c86b4d619e9adf64fb863e5d"
 msgid "ཐེག་ཆེན་ དང་ ཐེག་པ་ སྣ་ཚོགས་ དང་ །"
