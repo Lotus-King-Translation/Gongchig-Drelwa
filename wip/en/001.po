@@ -20793,7 +20793,7 @@ msgstr "The Great Vehicle and the various vehicles, and"
 
 msgctxt "78c4011322d94d72b87753240177def5"
 msgid "དུས་ དུས་གསུམ་ དུས་ མེད་ དང་ །"
-msgstr ""
+msgstr "The three times, the timeless, and "
 
 msgctxt "e062ee1351074ee9812182f3e9e799e8"
 msgid "རྟག་པ་ རྒྱུན་ འཁོར་ དང་ འདུལ་བ་␣འི་ དུས་ ཏེ་ གསུམ་ ལ་"
