@@ -20789,7 +20789,7 @@ msgstr "The profound Dharma of non-arising and"
 
 msgctxt "4bbf1557c86b4d619e9adf64fb863e5d"
 msgid "ཐེག་ཆེན་ དང་ ཐེག་པ་ སྣ་ཚོགས་ དང་ །"
-msgstr ""
+msgstr "The Great Vehicle and the various vehicles, and"
 
 msgctxt "78c4011322d94d72b87753240177def5"
 msgid "དུས་ དུས་གསུམ་ དུས་ མེད་ དང་ །"
