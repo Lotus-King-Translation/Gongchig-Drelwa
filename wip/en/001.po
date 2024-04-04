@@ -20768,7 +20768,7 @@ msgstr "Generate wishes and motivation for a single Buddha,"
 msgctxt "ed31c4ee646c4c8aa071e0807de0c81e"
 msgid "རྡོ་␣༽༽  སྐུ་གསུམ་པོ་ རིམ་བཞིན་ གནས་ ཆོས་དབྱིངས་ ཀྱི་ ཕོ་བྲང་ དང༌ །"
 msgstr ""
-"Vajra: The three kayas are successively the palace of the dharmadhatu, "
+"Vajra: Successively, the three kayas are the palace of the dharmadhatu, "
 
 msgctxt "60b75eaf217b4996b00d6519b7070909"
 msgid "འོག་མིན་ དང༌ །"
