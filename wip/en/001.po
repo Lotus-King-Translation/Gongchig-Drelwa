@@ -20710,6 +20710,8 @@ msgid ""
 "སྨོན་ འཇུག་ གཉིས་ ལས་རིམ་ བཞིན་ ལོངས་སྐུ་ དང་ སྤྲུལ་སྐུ་ རུ་ འབྱུང་བ་␣འང་ "
 "ཡོད་པ་␣ར་ སྲིད་ དེ །"
 msgstr ""
+"It is possible that the sambhogakaya and nirmanakaya arise from the two, the"
+" aspiring and engaging [minds for enlightenment], respectively."
 
 msgctxt "c29ec7d8511d4277921fce5a598fac4e"
 msgid "ནམ་མཁ་␣འི་ མཐའ་ དང་ མཉམ་པ་␣འི་"
