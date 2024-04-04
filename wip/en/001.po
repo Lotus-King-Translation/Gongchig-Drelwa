@@ -20771,7 +20771,7 @@ msgstr "Vajra: The three kayas are the palace of the dharmadhatu, "
 
 msgctxt "60b75eaf217b4996b00d6519b7070909"
 msgid "འོག་མིན་ དང༌ །"
-msgstr ""
+msgstr "Akanishtha, and "
 
 msgctxt "e11ee04e721b4694b1ae55958a973666"
 msgid "བྱ་རྒོད་ ཕུང་ རི་ སོགས་ སུ །"
