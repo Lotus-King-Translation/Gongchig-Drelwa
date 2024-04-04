@@ -20731,7 +20731,7 @@ msgstr "Buddhas of the infinite ten directions"
 
 msgctxt "6139483604054353b919e967c8fa0f05"
 msgid "འདོད་འདུན་ གྱིས་ བསྐྱེད་པ་␣འི་ ཕྱིར་"
-msgstr "Because [they] are produced by desire."
+msgstr "Because [they] are produced by desire and motivatedness."
 
 msgctxt "995b800389034be3af539186739a419c"
 msgid "སྨོན་པ་ ལ་␣ས་ ལོངས་སྐུ་ འབྱུང་ ཞིང༌ །"
