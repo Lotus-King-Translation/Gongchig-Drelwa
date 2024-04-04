@@ -20780,6 +20780,8 @@ msgstr "Vulture Peak, and so forth, respectively."
 msgctxt "ecb2840e258948a28dbc23111c34ef7a"
 msgid "འཁོར་ སངས་རྒྱས་ དང་ །  ས་བཅུ་པ་ དང་ །  ཐེག་པ་ གསུམ་ གྱི་ རིགས་ཅན་ ལ་"
 msgstr ""
+"To the retinue of buddhas, the tenth-level bodhisattvas, and the lineages of"
+" the three vehicles,"
 
 msgctxt "b7bed558d46e4dbd9be788e672bf8deb"
 msgid "ཆོས་ ཟབ་མོ་ སྐྱེ་ མེད་ དང༌ །"
