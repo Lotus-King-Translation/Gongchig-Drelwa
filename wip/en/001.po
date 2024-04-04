@@ -20684,7 +20684,7 @@ msgstr "The scope of the Buddha alone."
 
 msgctxt "4119ac8fadca401c81531e76ad91d29f"
 msgid "གཞན་ སྣང་ ཁོ་ན་␣འང་ མིན་པ་ དེ་␣འི་ ཕྱིར །"
-msgstr "Thus, it is not exclusively others' appearance."
+msgstr "Because of that, it is not exclusively others' appearance."
 
 msgctxt "9e7f9a264f3840c394b75137840679fc"
 msgid ""
