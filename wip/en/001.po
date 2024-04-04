@@ -20759,7 +20759,7 @@ msgstr ""
 
 msgctxt "3fbed35e77b542cea43e47a79ffef73c"
 msgid "༑་␣སྔ་མ་ ལྟར་ རྫ་མཁན་ ཡང་པ་␣འི་ འོད་ ལྟར་"
-msgstr ""
+msgstr "As before, like the light of a potter"
 
 msgctxt "43308815f6d14ae1be0675e9bdf23e04"
 msgid "སངས་རྒྱས་ གཅིག་ ལ་ འདོད་འདུན་ བསྐྱེད་པ་␣ས་ སོ ། །"
