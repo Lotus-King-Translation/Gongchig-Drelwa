@@ -20803,7 +20803,7 @@ msgstr ""
 
 msgctxt "22c1ea27fd894306ad1e8f296f81334f"
 msgid "སོ་སོ་ ཐ་དད་ དུ་ སྟོན་པ་ ཡིན་ ཟེར་ རོ ། །"
-msgstr ""
+msgstr "It is said that the Buddha taught distinctly in these."
 
 msgctxt "25d1bcbe3bad4e86b07a7f10e43de7d6"
 msgid "འདི་␣ར་ ནི་ སྐུ་གསུམ་པོ་ ཐ་དད་ མེད་པ་␣ར་ བཞུགས་པ་ ཡིན་ ཏེ་"
