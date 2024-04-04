@@ -20715,7 +20715,7 @@ msgstr ""
 
 msgctxt "c29ec7d8511d4277921fce5a598fac4e"
 msgid "ནམ་མཁ་␣འི་ མཐའ་ དང་ མཉམ་པ་␣འི་"
-msgstr ""
+msgstr "Equal to the limits of space,"
 
 msgctxt "0cbeecdef5704c4994759974a6a05204"
 msgid ""
