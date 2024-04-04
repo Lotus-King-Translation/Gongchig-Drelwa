@@ -20699,7 +20699,7 @@ msgid ""
 "ཁོ་ན་␣ར་ ངེས་ ཟེར་ ཡང །"
 msgstr ""
 "Vajra: It is said that it is certain that the nirmanakayas arise only from "
-"the aspiration of relative bodhichitta,"
+"the aspiration of relative bodhichitta."
 
 msgctxt "be264e5514cf404889e64182a4068690"
 msgid "དེ་ གཅིག་པུ་␣ར་ མ་ ངེས་ ཏེ །"
