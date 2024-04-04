@@ -20798,6 +20798,8 @@ msgstr "The three times, the timeless, and "
 msgctxt "e062ee1351074ee9812182f3e9e799e8"
 msgid "རྟག་པ་ རྒྱུན་ འཁོར་ དང་ འདུལ་བ་␣འི་ དུས་ ཏེ་ གསུམ་ ལ་"
 msgstr ""
+"The permanence, the cycle of existence, and the time of discipline are the "
+"three [times],"
 
 msgctxt "22c1ea27fd894306ad1e8f296f81334f"
 msgid "སོ་སོ་ ཐ་དད་ དུ་ སྟོན་པ་ ཡིན་ ཟེར་ རོ ། །"
