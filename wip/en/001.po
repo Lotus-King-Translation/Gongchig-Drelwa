@@ -20703,7 +20703,7 @@ msgstr ""
 
 msgctxt "be264e5514cf404889e64182a4068690"
 msgid "དེ་ གཅིག་པུ་␣ར་ མ་ ངེས་ ཏེ །"
-msgstr ""
+msgstr "However, it is not certain solely to that."
 
 msgctxt "9cf7c466ee2b4bb09b3fb9a2b387feaf"
 msgid ""
