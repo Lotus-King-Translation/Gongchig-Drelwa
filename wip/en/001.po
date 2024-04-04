@@ -20807,7 +20807,7 @@ msgstr "It is said that the Buddha taught distinctly in these."
 
 msgctxt "25d1bcbe3bad4e86b07a7f10e43de7d6"
 msgid "འདི་␣ར་ ནི་ སྐུ་གསུམ་པོ་ ཐ་དད་ མེད་པ་␣ར་ བཞུགས་པ་ ཡིན་ ཏེ་"
-msgstr ""
+msgstr "In this [system], the three kayas dwell without distinction."
 
 msgctxt "6dc621a3c442409592bab6e83d5bdce2"
 msgid "རྒྱུ་ བླ་མ་ ལ་␣ས །"
