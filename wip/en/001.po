@@ -21041,7 +21041,7 @@ msgstr "The conclusion of the text."
 
 msgctxt "fc17b660e89f474eb6369969e774db50"
 msgid "ཇི་ལྟར་ འཇིག་རྟེན་ གྱི་ ཁམས་ འདི་ ན་"
-msgstr ""
+msgstr "Like how in this realm of the world,"
 
 msgctxt "ce8077bc4e9c49d79e003ccb30f73f4d"
 msgid "ཕ་ ཡི་ བུ་ ཞིག་ ལ་ ལོངས་སྤྱོད་ ཕལ་པ་␣འི་ འབྱོར་བ་"
