@@ -20986,7 +20986,7 @@ msgstr ""
 
 msgctxt "b9216db435be4adcb6376c52921bd3f2"
 msgid "རང་བཞིན་ དྲི་མེད་ དེ་ ནི་ གཉིས་ མེད་ དེ །"
-msgstr ""
+msgstr "Since its stainless intrinsic nature is non-dual,"
 
 msgctxt "f45f0e5779254b27a584de9aafa4d991"
 msgid "སངས་རྒྱས་ རིགས་ ལ་ དེ་ འབྲས་ ཉེར་ བརྟགས་ ཕྱིར ། །"
