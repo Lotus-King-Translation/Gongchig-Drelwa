@@ -21053,7 +21053,7 @@ msgstr "Substantial entities that are renowned to others, and"
 
 msgctxt "7658e580f96a4f0a94b31bcf71f1179d"
 msgid "ཟབ་ དགུ་ ཚོགས་ སུ་ བཤད་ ན་ ཡང་ །"
-msgstr ""
+msgstr "Even if the nine profound collections are explained,"
 
 msgctxt "daea96628cec486a9129df48cf746e6f"
 msgid "ཉམས་ སུ་ མ་ མྱོང་ སྨྲས་པ་ མེད་ ཅེས་པ་ ལྟར་"
