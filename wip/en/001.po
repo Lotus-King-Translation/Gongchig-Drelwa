@@ -20931,7 +20931,7 @@ msgstr ""
 
 msgctxt "c91ea05360a540db8d260638f1d9f04b"
 msgid "མྱ་ངན་ ལ་␣ས་ འདས་པ་ ལ་ མི་ གནས་པ་"
-msgstr ""
+msgstr "[They] do not dwell in nirvana,"
 
 msgctxt "4298b0438f5d4a5eaea1a51063879e8f"
 msgid "ཡང་དག་པ་␣འི་ མཉམ་པ་ཉིད་ ལ་ གནས་པ །"
