@@ -2806,7 +2806,7 @@ msgstr "In order to refute the arguments of the tirthikas,"
 
 msgctxt "21444adf50d24c6ba02cec170a9708c5"
 msgid "མཁས་པ་ རྣམས་ ཀྱིས་ བྱས་པ་ ཡིན །"
-msgstr "It is done by the learned ones."
+msgstr "It is made by the learned ones.\""
 
 msgctxt "2cc8b38f35184259ba63dc097ca7622c"
 msgid "ཞེས་ འགའ་ཞིག་ ཟེར་ རོ ། །"
