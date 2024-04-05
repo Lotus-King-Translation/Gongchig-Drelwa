@@ -21010,7 +21010,7 @@ msgstr "However, this is not concordant with sophists."
 
 msgctxt "da3d6781d4ac4a3086dbb1a576abb477"
 msgid "དེ་ཕྱིར་ སྒོ་གསུམ་ སྤྱོད་པ་ ངན་པ་ སྤང་བ་␣ར་ བྱ་ སྟེ །"
-msgstr ""
+msgstr "Therefore, one should abandon the three doors of bad conduct."
 
 msgctxt "f4f84c1060f141bca02f95854f156808"
 msgid "མ་ སྤངས་ ན་ ཐུགས་ ཁྲེལ་བ་␣ར་ འགྱུར་བ་ དང་ །"
