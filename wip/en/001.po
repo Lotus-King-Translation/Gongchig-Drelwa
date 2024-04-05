@@ -20850,6 +20850,8 @@ msgid ""
 "དེ་ གཉིས་ དབྱེ་␣ར་ མེད་པ་␣ར་ སེམས་ཅན་ གྱི་ དོན་ མཛད་པ་ སྤྲུལ་སྐུ་ ཡིན་པ་␣འི་"
 " ཕྱིར་ རོ ། །"
 msgstr ""
+"The nirmanakaya is the inseparable of these two that performs the benefit of"
+" sentient beings."
 
 msgctxt "3f03d6b4c1fd45b6911bbfefe6bb4009"
 msgid "དེ་ལྟར་ ཟླ་ སྒྲོན་ ལ་␣ས །"
