@@ -20907,6 +20907,8 @@ msgid ""
 "འདི་␣ར་ ནི །  དུས་གསུམ་ གྱི་ སངས་རྒྱས་ ཐམས་ཅད་ སེམས་ཅན་ རྣམས་ ཀྱི་ ཁམས་ "
 "རྒྱུད་ ལ་ བཞུགས་པ་ ཡིན་ ཏེ །"
 msgstr ""
+"In this [system], all the buddhas of the three times reside in the "
+"continuums of the constituents of sentient beings."
 
 msgctxt "245879c4e35145a2bc75485fcad46420"
 msgid "དང་པོ་ ཐུགས་བསྐྱེད་པ་ ནས་ དམ་པ་␣འི་ ཆོས་ གནས་ ཀྱི་ བར་"
