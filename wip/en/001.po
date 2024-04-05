@@ -20815,7 +20815,7 @@ msgstr "According to The Highest Continuum:"
 
 msgctxt "f40c25437b94422cb1c87bab221bb96e"
 msgid "དེ་ ནི་ རང་བཞིན་ དག་ ཕྱིར་ དང་ ། །"
-msgstr ""
+msgstr "As the intrinsic nature is pure and,"
 
 msgctxt "7759f750ba6b4e33ae8cfb797f23af3d"
 msgid "བག་ཆགས་ སྤངས་ ཕྱིར་ གཙང་བ་ ཡིན ། །"
