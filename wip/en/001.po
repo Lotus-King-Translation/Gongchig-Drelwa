@@ -20972,7 +20972,7 @@ msgstr "As thusness is inseparable,"
 
 msgctxt "a5cf2162cc5443eca166d1dbd7f8263d"
 msgid "རིགས་ ཡོད་ ཕྱིར་ ན་ ལུས་ཅན་ ཀུན །"
-msgstr ""
+msgstr "Because of having the lineage [of the Buddha], all embodied [beings],"
 
 msgctxt "447a614a6be24550a2a205235e7fabd4"
 msgid "རྟག་ ཏུ་ སངས་རྒྱས་ སྙིང་པོ་ ཅན །"
