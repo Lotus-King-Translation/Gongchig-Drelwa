@@ -20843,7 +20843,7 @@ msgstr "Thus, the dharmakaya endowed with the four characteristics is "
 
 msgctxt "65f07dd8c468466184858bc28167f3b7"
 msgid "མཚན་ དང་ དཔེ་བྱད་ ཀྱིས་ བརྒྱན་པ་ ལོངས་སྐུ །"
-msgstr ""
+msgstr "Sambhogakaya adorned with the major and minor marks."
 
 msgctxt "fb107224c2944e248b819e3909db34cf"
 msgid ""
