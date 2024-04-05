@@ -20917,7 +20917,7 @@ msgstr ""
 
 msgctxt "852fd10cce2e42edb4e141b7c531fcf0"
 msgid "མཐའ་ཡས་པ་␣འི་ སེམས་ཅན་ གྱི་ དོན་ བསྒྲུབས་ ནས་"
-msgstr ""
+msgstr "After having accomplished for sake of limitless sentient beings,"
 
 msgctxt "f7d4e852cc694e0f9aedbc5b203555a1"
 msgid "ད་ ཐུགས་ལས་ ཆུང་ངུ་␣ར་ བཞུགས་པ་ མི་ སྲིད་པ་␣འི་ ཕྱིར་ རོ ། །"
