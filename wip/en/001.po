@@ -20896,7 +20896,7 @@ msgstr "After passing into nirvana."
 
 msgctxt "b0ad475f9368402696dba6e9fc08c0a1"
 msgid "འོག་མིན་ ཆོས་དབྱིངས་ ཀྱི་ ཕོ་བྲང་ ན་ བཞུགས་པ་ ཡིན །"
-msgstr ""
+msgstr "[They] dwell in the Akanishtha palace of Dharmadhatu."
 
 msgctxt "c4baed9076294d8aae5ea08be7ec2313"
 msgid "ཟེར་ ཡང༌ །"
