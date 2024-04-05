@@ -21006,7 +21006,7 @@ msgstr ""
 
 msgctxt "e2ee7baf787640a7b32283a9ecd8d0a6"
 msgid "རྟོག་གེ་བ་ རྣམས་ དང་ ནི་ མི་མཐུན་པ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "However, this is not concordant with sophists."
 
 msgctxt "da3d6781d4ac4a3086dbb1a576abb477"
 msgid "དེ་ཕྱིར་ སྒོ་གསུམ་ སྤྱོད་པ་ ངན་པ་ སྤང་བ་␣ར་ བྱ་ སྟེ །"
