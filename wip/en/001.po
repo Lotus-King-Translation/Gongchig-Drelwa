@@ -20990,7 +20990,7 @@ msgstr "Since its stainless intrinsic nature is non-dual,"
 
 msgctxt "f45f0e5779254b27a584de9aafa4d991"
 msgid "སངས་རྒྱས་ རིགས་ ལ་ དེ་ འབྲས་ ཉེར་ བརྟགས་ ཕྱིར ། །"
-msgstr ""
+msgstr "Because the buddha family is named after its result,"
 
 msgctxt "376dc21113864192862a0e8d79157866"
 msgid "འགྲོ་ ཀུན་ སངས་རྒྱས་ སྙིང་པོ་ ཅན་ དུ་ གསུངས །"
