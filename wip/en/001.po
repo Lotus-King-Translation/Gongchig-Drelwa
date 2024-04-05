@@ -20879,7 +20879,7 @@ msgstr "As said."
 
 msgctxt "755d77a22d7f47dab7074d872decceeb"
 msgid "དེས་ན་ ལྡོག་པ་ ཙམ་ ལ་␣ས་ ཐ་དད་ མེད་ དོ །"
-msgstr ""
+msgstr "Therefore, they are not distinct but a mere reverse."
 
 msgctxt "56197c2ff7fe4e32aa381c5bcd2e6ef5"
 msgid "རྡོ དུས་ གསུམ་ གྱི་ སངས་རྒྱས་ རྣམས་"
