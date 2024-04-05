@@ -21067,7 +21067,7 @@ msgstr ""
 
 msgctxt "63094e6d4c83408ea010219c3e38d238"
 msgid "སུ་␣ས་ དེ་ ཆུད་ གསོན་པ་␣ར་ བྱེད་ ན་"
-msgstr ""
+msgstr "Whoever wastes it,"
 
 msgctxt "316cf51713994b35919f1be9135ac32f"
 msgid "གཞན་ གྱིས་ སྨད་པ་␣འི་ གནས་ སུ་ ཡིན་པ་␣ར་ གྱུར་ ན །"
