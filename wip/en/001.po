@@ -20892,7 +20892,7 @@ msgstr ""
 
 msgctxt "465f974c5241491dbe5e742dd4026329"
 msgid "མྱ་ངན་ ལ་␣ས་ འདས་ ཏེ་"
-msgstr ""
+msgstr "After passing into nirvana."
 
 msgctxt "b0ad475f9368402696dba6e9fc08c0a1"
 msgid "འོག་མིན་ ཆོས་དབྱིངས་ ཀྱི་ ཕོ་བྲང་ ན་ བཞུགས་པ་ ཡིན །"
