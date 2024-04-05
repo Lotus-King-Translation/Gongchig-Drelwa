@@ -19753,7 +19753,7 @@ msgstr ""
 
 msgctxt "d1c05c811f1e486989e2e78014a6c0db"
 msgid "མྱ་ངན་ ལས་མི་ འདའ་ སྟེ །"
-msgstr "[He] will not transcend into nirvana because."
+msgstr "[He] will not pass into nirvana because."
 
 msgctxt "8594b456114d4925b01ec9a9937f69f4"
 msgid "ཡབ་ སྲས་ མཇལ་བ་ ལ་␣ས །"
