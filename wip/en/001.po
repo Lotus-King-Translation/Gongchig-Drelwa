@@ -20994,7 +20994,7 @@ msgstr "Because the buddha family is named after its result,"
 
 msgctxt "376dc21113864192862a0e8d79157866"
 msgid "འགྲོ་ ཀུན་ སངས་རྒྱས་ སྙིང་པོ་ ཅན་ དུ་ གསུངས །"
-msgstr ""
+msgstr "All beings are said to possess the buddha essence."
 
 msgctxt "0b7882e0cb3048b7a7c131653a5fdd32"
 msgid ""
