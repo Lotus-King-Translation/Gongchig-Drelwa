@@ -20831,7 +20831,7 @@ msgstr "The complete pacification [of these] is the true self."
 
 msgctxt "2760d9c2206042cfa4501989d996b1ae"
 msgid "ཡིད་ ཀྱི་ རང་བཞིན་ ཕུང་པོ་ དང༌ ། །"
-msgstr ""
+msgstr "The nature of the mind, the aggregates and"
 
 msgctxt "b26c76cf54704cad82fa90b1e02605a8"
 msgid "དེ་ རྒྱུ་␣འི་ ལོག་ ཕྱིར་ བདེ་བ་ ཉིད ། །"
