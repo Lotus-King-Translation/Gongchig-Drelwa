@@ -20956,6 +20956,7 @@ msgstr "Being present in the continuum of each sentient being’s constituent."
 msgctxt "f707d533b6e744e0b671f75e9c5955b4"
 msgid "སེམས་ཅན་ དོན་ ལ་␣ས་ མཛད་པ་ གཞན་ མེད་པ་␣འི་ ཕྱིར་ རོ ། །"
 msgstr ""
+"This is because there is no activity other than benefiting sentient beings."
 
 msgctxt "9cbab26337a044da9c79baae4d00d069"
 msgid "ཚུལ་ ཇི་ལྟར་ བཞུགས་ ན །"
