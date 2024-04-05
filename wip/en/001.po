@@ -21057,7 +21057,7 @@ msgstr "Even if the nine profound collections are explained,"
 
 msgctxt "daea96628cec486a9129df48cf746e6f"
 msgid "ཉམས་ སུ་ མ་ མྱོང་ སྨྲས་པ་ མེད་ ཅེས་པ་ ལྟར་"
-msgstr ""
+msgstr "As it is said, “Nothing is stated without experiencing.”"
 
 msgctxt "3f56093dcd024418bf9da9bfe1f93950"
 msgid "ཚད་མ་ བཞི་␣འི་ སྒོ་ ནས་ ངེས་ཤེས་ ཁྱད་པར་ཅན་ ལྡན་པ་␣ར་ གྱུར་ ཀྱང་"
