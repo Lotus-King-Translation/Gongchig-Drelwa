@@ -20951,7 +20951,7 @@ msgstr "All the tathagatas of the three times, without incomplete,"
 
 msgctxt "f2c86ad21ca54f3c85b5806162f18270"
 msgid "སེམས་ཅན་ རེ་རེ་␣འི་ ཁམས་ རྒྱུད་ ལ་ བཞུགས་པ་ ནི་"
-msgstr "Being present in the continuum of each sentient being’s constituent,"
+msgstr "Being present in the continuum of each sentient being’s constituent."
 
 msgctxt "f707d533b6e744e0b671f75e9c5955b4"
 msgid "སེམས་ཅན་ དོན་ ལ་␣ས་ མཛད་པ་ གཞན་ མེད་པ་␣འི་ ཕྱིར་ རོ ། །"
