@@ -20883,7 +20883,7 @@ msgstr "Therefore, they are not distinct but a mere reverse."
 
 msgctxt "56197c2ff7fe4e32aa381c5bcd2e6ef5"
 msgid "རྡོ དུས་ གསུམ་ གྱི་ སངས་རྒྱས་ རྣམས་"
-msgstr ""
+msgstr "Vajra: The buddhas of the three times,"
 
 msgctxt "f3cae9adb5af4b5ebaca9538e76c7e17"
 msgid "མཛད་པ་ མཛད་ ནས་ བུད་ཤིང་ ཟད་པ་␣འི་ མེ་ བཞིན་"
