@@ -20872,7 +20872,7 @@ msgstr ""
 
 msgctxt "4fc44dd1c17e4f65a7e442622425662f"
 msgid "དེ་དག་ ཐམས་ཅད་ མཚན་ཉིད་ གཅིག  །"
-msgstr ""
+msgstr "All of these have the same characteristic."
 
 msgctxt "cef54bf7ca064a3ba09b31ea8170d6ed"
 msgid "ཅེས་ སོ །"
