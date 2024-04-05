@@ -20964,7 +20964,7 @@ msgstr "How it dwells is:"
 
 msgctxt "60f9f728876647a396c4a8858741c023"
 msgid "རྫོགས་ སངས་ སྐུ་ ནི་ འཕྲོ་ ཕྱིར་ དང་ །"
-msgstr "As the complete buddhakaya radiates,"
+msgstr "Since the complete buddhakaya radiates,"
 
 msgctxt "0d467be9357046e79b629c2d85bf1174"
 msgid "དེ་བཞིན་ཉིད་ དབྱེ་␣ར་ མེད་ ཕྱིར་ དང༌ ། །"
