@@ -20968,7 +20968,7 @@ msgstr "Since the complete buddhakaya radiates,"
 
 msgctxt "0d467be9357046e79b629c2d85bf1174"
 msgid "དེ་བཞིན་ཉིད་ དབྱེ་␣ར་ མེད་ ཕྱིར་ དང༌ ། །"
-msgstr "As thusness is inseparable,"
+msgstr "Since thusness is inseparable,"
 
 msgctxt "a5cf2162cc5443eca166d1dbd7f8263d"
 msgid "རིགས་ ཡོད་ ཕྱིར་ ན་ ལུས་ཅན་ ཀུན །"
