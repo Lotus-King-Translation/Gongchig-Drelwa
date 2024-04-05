@@ -20947,7 +20947,7 @@ msgstr "Thus,"
 
 msgctxt "03db7934788343438d5736196bf6df30"
 msgid "དུས་གསུམ་ གྱི་ དེ་བཞིན་ གཤེགས་པ་ ཐམས་ཅད་ མ་ཚང་བ་ མེད་པ་"
-msgstr ""
+msgstr "All the tathagatas of the three times, without incomplete,"
 
 msgctxt "f2c86ad21ca54f3c85b5806162f18270"
 msgid "སེམས་ཅན་ རེ་རེ་␣འི་ ཁམས་ རྒྱུད་ ལ་ བཞུགས་པ་ ནི་"
