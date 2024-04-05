@@ -20827,7 +20827,7 @@ msgstr "The elaborations of self and selflessness,"
 
 msgctxt "22c5747677ce4232a0d66e59ae22e3f4"
 msgid "ཉེ་བར་ ཞི་བ་ དམ་པ་␣འི་ བདག  །"
-msgstr ""
+msgstr "The complete pacification [of these] is the true self."
 
 msgctxt "2760d9c2206042cfa4501989d996b1ae"
 msgid "ཡིད་ ཀྱི་ རང་བཞིན་ ཕུང་པོ་ དང༌ ། །"
