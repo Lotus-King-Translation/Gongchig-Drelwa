@@ -21014,7 +21014,7 @@ msgstr "Therefore, one should abandon the three doors of bad conduct."
 
 msgctxt "f4f84c1060f141bca02f95854f156808"
 msgid "མ་ སྤངས་ ན་ ཐུགས་ ཁྲེལ་བ་␣ར་ འགྱུར་བ་ དང་ །"
-msgstr ""
+msgstr "If one does not abandon them, one's mind will become ashamed and"
 
 msgctxt "321d9e2a32544077b28cb085bf9921a2"
 msgid ""
