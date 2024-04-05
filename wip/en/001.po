@@ -20939,7 +20939,7 @@ msgstr "But dwell in the genuine state of equality."
 
 msgctxt "b4fd0b9382bf4c26a4ce10c7325012f6"
 msgid "སེམས་ཅན་ ཐམས་ཅད་ ལ་ གཟིགས་པ་␣འི་ ས་ ལ་ བཞུགས་པ་ སྟེ །"
-msgstr ""
+msgstr "[They] dwell on the level of seeing all sentient beings."
 
 msgctxt "4b52ce316c044ffb9fd431d4ecc941e1"
 msgid "ཞེས་པ་␣ས །"
