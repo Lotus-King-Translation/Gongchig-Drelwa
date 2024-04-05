@@ -21045,7 +21045,7 @@ msgstr "Like how in this realm of the world,"
 
 msgctxt "ce8077bc4e9c49d79e003ccb30f73f4d"
 msgid "ཕ་ ཡི་ བུ་ ཞིག་ ལ་ ལོངས་སྤྱོད་ ཕལ་པ་␣འི་ འབྱོར་བ་"
-msgstr ""
+msgstr "A father’s son, with the riches of ordinary possessions,"
 
 msgctxt "32fc917a8df2409dbb7abf0c03cffbdb"
 msgid "གཞན་ ལ་ གྲགས་པ་␣འི་ རྫས་ མང་པོ་ དང་ །"
