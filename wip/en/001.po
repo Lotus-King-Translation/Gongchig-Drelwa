@@ -20839,7 +20839,7 @@ msgstr "It is all bliss because of the reversal of their cause."
 
 msgctxt "e488e49f0ffa41f9949eef6ef2bcf559"
 msgid "ཅེས་པ་␣ས་ མཚན་ཉིད་ བཞི་ ལྡན་ གྱི་ ཆོས་སྐུ་ དེ་ཉིད་"
-msgstr ""
+msgstr "Thus, the dharmakaya endowed with the four characteristics is "
 
 msgctxt "65f07dd8c468466184858bc28167f3b7"
 msgid "མཚན་ དང་ དཔེ་བྱད་ ཀྱིས་ བརྒྱན་པ་ ལོངས་སྐུ །"
