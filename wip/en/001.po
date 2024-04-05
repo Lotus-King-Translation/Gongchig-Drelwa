@@ -20868,6 +20868,7 @@ msgstr "Also, the buddha-field is likewise; "
 msgctxt "5f0950030d264f8691ddf87238b832fc"
 msgid "སྟོབས་ དང་ རྣམ་ཐར་ བསམ་གཏན་ དང་ ། །"
 msgstr ""
+"The strengths, the complete liberation, and the་meditative absorptions,"
 
 msgctxt "4fc44dd1c17e4f65a7e442622425662f"
 msgid "དེ་དག་ ཐམས་ཅད་ མཚན་ཉིད་ གཅིག  །"
