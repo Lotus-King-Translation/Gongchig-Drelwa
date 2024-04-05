@@ -21037,7 +21037,7 @@ msgstr ""
 
 msgctxt "a26c4942ba4044af8e86ce53b35d8296"
 msgid "གཞུང་ གི་ མཇུག་ བསྡུ་བ་ ནི །"
-msgstr ""
+msgstr "The conclusion of the text."
 
 msgctxt "fc17b660e89f474eb6369969e774db50"
 msgid "ཇི་ལྟར་ འཇིག་རྟེན་ གྱི་ ཁམས་ འདི་ ན་"
