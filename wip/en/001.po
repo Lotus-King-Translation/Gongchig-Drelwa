@@ -20900,7 +20900,7 @@ msgstr "[They] dwell in the Akanishtha palace of Dharmadhatu."
 
 msgctxt "c4baed9076294d8aae5ea08be7ec2313"
 msgid "ཟེར་ ཡང༌ །"
-msgstr ""
+msgstr "Although it is said."
 
 msgctxt "5e15330be1404cf1acb8c59ef37032fd"
 msgid ""
