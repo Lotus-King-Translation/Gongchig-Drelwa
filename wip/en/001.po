@@ -20819,7 +20819,7 @@ msgstr "As the intrinsic nature is pure and,"
 
 msgctxt "7759f750ba6b4e33ae8cfb797f23af3d"
 msgid "བག་ཆགས་ སྤངས་ ཕྱིར་ གཙང་བ་ ཡིན ། །"
-msgstr ""
+msgstr "It is clean because it has abandoned latency."
 
 msgctxt "12699cf22ffb460787e1d2ed34a42101"
 msgid "བདག་ དང་ བདག་མེད་ སྤྲོས་པ་ དག  །"
