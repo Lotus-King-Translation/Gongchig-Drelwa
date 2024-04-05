@@ -20912,6 +20912,8 @@ msgstr ""
 msgctxt "245879c4e35145a2bc75485fcad46420"
 msgid "དང་པོ་ ཐུགས་བསྐྱེད་པ་ ནས་ དམ་པ་␣འི་ ཆོས་ གནས་ ཀྱི་ བར་"
 msgstr ""
+"From the first generation of the mind [for enlightenment] until the abiding "
+"of the holy Dharma,"
 
 msgctxt "852fd10cce2e42edb4e141b7c531fcf0"
 msgid "མཐའ་ཡས་པ་␣འི་ སེམས་ཅན་ གྱི་ དོན་ བསྒྲུབས་ ནས་"
