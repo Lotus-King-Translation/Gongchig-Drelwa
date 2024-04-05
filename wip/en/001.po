@@ -21021,6 +21021,8 @@ msgid ""
 "སྤང་ ན་ དགྱེས་ ནས་ འཕྲིན་ལས་ ཀྱི་ འཇུག་ སྒོ་ ཡོད་པ་␣ར་ འགྱུར་བ་␣འི་ ཕྱིར་ རོ"
 " ། །"
 msgstr ""
+"If one abandons, one will be glad and have the entrance-way to enlightened "
+"activities."
 
 msgctxt "f1e82e42c7b6430288ee10787f49a4b0"
 msgid ""
