@@ -20922,6 +20922,7 @@ msgstr "After having accomplished for sake of limitless sentient beings,"
 msgctxt "f7d4e852cc694e0f9aedbc5b203555a1"
 msgid "ད་ ཐུགས་ལས་ ཆུང་ངུ་␣ར་ བཞུགས་པ་ མི་ སྲིད་པ་␣འི་ ཕྱིར་ རོ ། །"
 msgstr ""
+"It is impossible for [him] to remain in a state of very small mind now."
 
 msgctxt "58bf31470cf74621a370ad9e4fe59880"
 msgid "དེ་ལྟར་ ཡང་ གཏན་ ལ་ ཕབ་པ་ དང༌ །  ཟླ་བ་ སྒྲོན་མེ་ ལ་␣ས །"
