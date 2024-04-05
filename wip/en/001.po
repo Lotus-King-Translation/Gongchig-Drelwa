@@ -20859,7 +20859,7 @@ msgstr "According to the Moon Lamp [sutra]:"
 
 msgctxt "85b6222791c1459f818ff8ed826983c8"
 msgid "སྐུ་ ནི་ ནམ་མཁ་␣འི་ མཚན་ཉིད་ དེ ། །"
-msgstr ""
+msgstr "The kaya has the characteristic of space,"
 
 msgctxt "a2754fdb07c84402a6f3f281271c9152"
 msgid "སངས་རྒྱས་ ཞིང་ ཡང་ དེ་ འདྲ་ སྟེ ། །"
