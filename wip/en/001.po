@@ -21103,7 +21103,7 @@ msgstr "From Dharma Lord Jigten Sumgon, "
 
 msgctxt "4bd4dd4b68ef476bb431d9496b609353"
 msgid "དོན་ མཐའ་དག་ མངོན་དུ་ མཛད་པ་␣འི་ ཁྱད་པར་ གྱི་ ཆོས་ འདི་དག་"
-msgstr ""
+msgstr "These special dharmas that manifest all meanings are born."
 
 msgctxt "b6a7300c512e4a3eadf7b5d73e70cda1"
 msgid "གངས་ཅན་ འདི་␣ར་ སྔོན་ཆད་ མ་ གྲགས་པ་ ཞིག་"
