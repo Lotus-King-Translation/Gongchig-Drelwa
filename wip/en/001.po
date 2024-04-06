@@ -21001,7 +21001,7 @@ msgid ""
 "ཞེས་པ་ འདི་ ཆོས་ ཀྱི་ རྗེ་ སངས་རྒྱས་ ཐམས་ཅད་ སེམས་ཅན་ གྱི་ རྒྱུད་ ལ་ "
 "བཞུགས་པ་ ལ་ བཞེད་ ཅིང་"
 msgstr ""
-"Thus, the Lord of Dharma accepts that all the buddhas are present in the "
+"Thus, the Dharma Lord accepts that all the buddhas are present in the "
 "continuum of sentient beings."
 
 msgctxt "e2ee7baf787640a7b32283a9ecd8d0a6"
