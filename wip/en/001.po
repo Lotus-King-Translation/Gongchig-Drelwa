@@ -21091,7 +21091,7 @@ msgstr "If one does not wish to hold it,"
 
 msgctxt "65405e15e54b4e81b3e0afee318ea507"
 msgid "དེ་ ནི་ སྨད་པ་␣ར་ བྱེད་པ་ ལྟ་ཅི་ སྨྲོས །"
-msgstr ""
+msgstr "Thus, criticism does not need to be expressed."
 
 msgctxt "a5be25df984a4b2bbecc7acf51e91a5f"
 msgid "དཔེ་␣ར་ བསྟན་པ་ དེ་བཞིན་ དུ་ མཚུངས་མེད་"
