@@ -21141,7 +21141,7 @@ msgstr ""
 
 msgctxt "1055d67305364f329dd8caf454ac636b"
 msgid "སུ་␣འི་ ཆོས་ ཀྱི་ རྗེས་སུ་ མི་ འབྲང་"
-msgstr ""
+msgstr "Because of not following any Dharma,"
 
 msgctxt "2b94a442f96f46268043d8313252bf1d"
 msgid "གང་ གི་ རྗེས་སུ་ མ་ འབྲངས་པ་␣ས་"
