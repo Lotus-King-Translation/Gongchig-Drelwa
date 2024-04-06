@@ -21127,7 +21127,7 @@ msgstr "For this reason, those endowed with a rational mind,"
 
 msgctxt "d500b2f2bd024fa6bb511b374929f2ba"
 msgid "ཕ་ ཡི་ གདུངས་ འཚོབ་པ་␣ར་ འདོད་ ན་"
-msgstr ""
+msgstr "If [they] want to fill up their father’s lineage,"
 
 msgctxt "d412339e813443bfa64ae89ebf662268"
 msgid "རྗེའི་ ཞལ་ ནས་ སུ་␣འི་ ཆོས་ ལ་ ཡང་ མི་ སྨོད །"
