@@ -21099,7 +21099,7 @@ msgstr "For example, the teaching is likewise peerless,"
 
 msgctxt "c454561e4a144fef802fdf5dc5132a49"
 msgid "ཆོས་ ཀྱི་ རྒྱལ་པོ་ འཇིག་རྟེན་ གསུམ་ གྱི་ མགོན་པོ་ ཡིས་ འཁྲུངས་ ཏེ་"
-msgstr "Dharma Lord Jigten Sumgon produced "
+msgstr "From Dharma Lord Jigten Sumgon, "
 
 msgctxt "4bd4dd4b68ef476bb431d9496b609353"
 msgid "དོན་ མཐའ་དག་ མངོན་དུ་ མཛད་པ་␣འི་ ཁྱད་པར་ གྱི་ ཆོས་ འདི་དག་"
