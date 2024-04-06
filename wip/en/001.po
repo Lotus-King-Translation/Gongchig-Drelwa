@@ -21087,7 +21087,7 @@ msgstr "That which is not heard by anyone before."
 
 msgctxt "f0dd420a4c794d57963c79d57ea4a817"
 msgid "དེ་ རང་ཉིད་ ཀྱིས་ མི་ འཛིན་པ་␣ར་ འདོད་ ན་"
-msgstr ""
+msgstr "If one does not wish to hold it,"
 
 msgctxt "65405e15e54b4e81b3e0afee318ea507"
 msgid "དེ་ ནི་ སྨད་པ་␣ར་ བྱེད་པ་ ལྟ་ཅི་ སྨྲོས །"
