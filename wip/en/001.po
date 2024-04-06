@@ -21083,7 +21083,7 @@ msgstr ""
 
 msgctxt "ecd5982801fe44e684ecfdf10c1d2fff"
 msgid "སྔོན་ སུ་␣ས་ ཀྱང་ མ་ ཐོས་པ་"
-msgstr ""
+msgstr "That was not heard by anyone earlier."
 
 msgctxt "f0dd420a4c794d57963c79d57ea4a817"
 msgid "དེ་ རང་ཉིད་ ཀྱིས་ མི་ འཛིན་པ་␣ར་ འདོད་ ན་"
