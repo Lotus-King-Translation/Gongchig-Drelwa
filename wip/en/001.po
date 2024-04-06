@@ -21115,7 +21115,7 @@ msgstr "Later Jigten Gonpo made it clear in this way."
 
 msgctxt "3e2782c6ed9f45f8973763da43fd294e"
 msgid "རྗེས་ འབྲངས་ སྲས་ ཀྱིས་ མི་ འཛིན་པ་ ནི་"
-msgstr ""
+msgstr "The follower sons who do not hold it is"
 
 msgctxt "b573884205d94905833588e6307e36c3"
 msgid "དེ་ དང་ ཚུལ་ མཚུངས་པ་ ཡིན་ ནོ ། །"
