@@ -21149,7 +21149,7 @@ msgstr "Or not following anyone."
 
 msgctxt "c97d71aa36b549f2a87bd1b6d2e3c083"
 msgid "ལོག་པ་␣ར་ ཞུགས་པ་␣འི་ ཉེས་པ་ མི་ འབྱུང་ ཞེས་ གསུངས་པ་ ལྟར །"
-msgstr ""
+msgstr "It is said that the fault of engaging in wrongdoing does not occur."
 
 msgctxt "b402d7cf395446ca8d5186946212e1ca"
 msgid ""
