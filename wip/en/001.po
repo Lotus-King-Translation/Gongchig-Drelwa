@@ -21119,7 +21119,7 @@ msgstr "The follower sons who do not hold it is"
 
 msgctxt "b573884205d94905833588e6307e36c3"
 msgid "དེ་ དང་ ཚུལ་ མཚུངས་པ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "similar in that manner."
 
 msgctxt "5db7bf9d8df648f1aebdf890293c922a"
 msgid "རྒྱུ་མཚན་ དེ་␣འི་ ཕྱིར་ རིགས་པ་ དང་ ལྡན་པ་"
