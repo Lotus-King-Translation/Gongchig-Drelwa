@@ -21111,7 +21111,7 @@ msgstr "This is something not known before in this Land of Snow,"
 
 msgctxt "ef9eaedf7010404dbc79edfb6fe21f22"
 msgid "ཕྱི་དུས་ འཇིག་རྟེན་ མགོན་པོ་␣ས་ འདི་ལྟར་ གསལ་བ་␣ར་ མཛད་པ་"
-msgstr ""
+msgstr "Later Jigten Gonpo made it clear in this way."
 
 msgctxt "3e2782c6ed9f45f8973763da43fd294e"
 msgid "རྗེས་ འབྲངས་ སྲས་ ཀྱིས་ མི་ འཛིན་པ་ ནི་"
