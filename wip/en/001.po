@@ -21107,7 +21107,7 @@ msgstr "These special dharmas that manifest all meanings are born."
 
 msgctxt "b6a7300c512e4a3eadf7b5d73e70cda1"
 msgid "གངས་ཅན་ འདི་␣ར་ སྔོན་ཆད་ མ་ གྲགས་པ་ ཞིག་"
-msgstr ""
+msgstr "This is something not known before in this Land of Snow,"
 
 msgctxt "ef9eaedf7010404dbc79edfb6fe21f22"
 msgid "ཕྱི་དུས་ འཇིག་རྟེན་ མགོན་པོ་␣ས་ འདི་ལྟར་ གསལ་བ་␣ར་ མཛད་པ་"
