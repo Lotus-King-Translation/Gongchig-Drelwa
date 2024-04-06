@@ -21095,7 +21095,7 @@ msgstr "Thus, criticism does not need to be expressed."
 
 msgctxt "a5be25df984a4b2bbecc7acf51e91a5f"
 msgid "དཔེ་␣ར་ བསྟན་པ་ དེ་བཞིན་ དུ་ མཚུངས་མེད་"
-msgstr ""
+msgstr "For example, the teaching is likewise peerless,"
 
 msgctxt "c454561e4a144fef802fdf5dc5132a49"
 msgid "ཆོས་ ཀྱི་ རྒྱལ་པོ་ འཇིག་རྟེན་ གསུམ་ གྱི་ མགོན་པོ་ ཡིས་ འཁྲུངས་ ཏེ་"
