@@ -21136,6 +21136,8 @@ msgstr "The Lord said, “No one’s dharma is to be criticized;"
 msgctxt "ddc9032d0d5045778afdf9590ae3dcfc"
 msgid "གང་ ལ་ ཡང་ མ་སྨད་པ་␣ས་ ཆོས་ ལ་ བརྟེན་པ་␣འི་ གཡང་ས་ མེད །"
 msgstr ""
+"Because of not blaming anything, there is no cliff that depends on the "
+"Dharma."
 
 msgctxt "1055d67305364f329dd8caf454ac636b"
 msgid "སུ་␣འི་ ཆོས་ ཀྱི་ རྗེས་སུ་ མི་ འབྲང་"
