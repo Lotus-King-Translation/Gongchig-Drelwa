@@ -21131,7 +21131,7 @@ msgstr "If [they] want to fill up their father’s lineage,"
 
 msgctxt "d412339e813443bfa64ae89ebf662268"
 msgid "རྗེའི་ ཞལ་ ནས་ སུ་␣འི་ ཆོས་ ལ་ ཡང་ མི་ སྨོད །"
-msgstr ""
+msgstr "The Lord said, “I do not criticize anyone’s dharma."
 
 msgctxt "ddc9032d0d5045778afdf9590ae3dcfc"
 msgid "གང་ ལ་ ཡང་ མ་སྨད་པ་␣ས་ ཆོས་ ལ་ བརྟེན་པ་␣འི་ གཡང་ས་ མེད །"
