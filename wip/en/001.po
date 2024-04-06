@@ -21078,6 +21078,8 @@ msgid ""
 "དེ་བ་␣ས་ ཀྱང་ གཅེས་པ་ ཕ་ ཡི་ ཁྱད་ནོར་ གཞན་ ལ་ མེད་པ་␣འི་ ནོར་བུ་␣འི་ རིགས་ "
 "དག་"
 msgstr ""
+"Moreover, the special riches cherished by a father and other types of jewels"
+" that other people do not have,"
 
 msgctxt "ecd5982801fe44e684ecfdf10c1d2fff"
 msgid "སྔོན་ སུ་␣ས་ ཀྱང་ མ་ ཐོས་པ་"
