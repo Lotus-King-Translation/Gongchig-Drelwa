@@ -21123,7 +21123,7 @@ msgstr "similar in that manner."
 
 msgctxt "5db7bf9d8df648f1aebdf890293c922a"
 msgid "རྒྱུ་མཚན་ དེ་␣འི་ ཕྱིར་ རིགས་པ་ དང་ ལྡན་པ་"
-msgstr ""
+msgstr "For this reason, those endowed with a rational mind,"
 
 msgctxt "d500b2f2bd024fa6bb511b374929f2ba"
 msgid "ཕ་ ཡི་ གདུངས་ འཚོབ་པ་␣ར་ འདོད་ ན་"
