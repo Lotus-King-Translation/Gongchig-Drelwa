@@ -21223,7 +21223,7 @@ msgstr "superior."
 
 msgctxt "49bad86c1c674cf7a84f6cf3d58e2848"
 msgid "དེ་␣འང་ གང་ གིས་ ལྷག་པ་ ཡིན་ སྙམ་ ན །"
-msgstr ""
+msgstr "If one wonders, What makes them superior?"
 
 msgctxt "36d77409333d45ab84a3b286c746ce5f"
 msgid "ཐུན་མོང་ མ་ཡིན་པ་ གཞི་ བདེ་བ་␣ར་ གཤེགས་པ་ དམ་པ་␣འི་ སྙིང་པོ་ དང་"
