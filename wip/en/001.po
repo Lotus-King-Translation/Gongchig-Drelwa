@@ -21202,6 +21202,8 @@ msgid ""
 "སྐྱེས་བུ་ དམ་པ་ རྣམས་ ནི་ འབངས་ ཕལ་པ་␣འི་ བུ་ སྟོང་ གི་ ནང་ དུ་ འཁོར་ལོ་␣ས་ "
 "བསྒྱུར་ རྒྱལ་ གྱི་ རིགས་རུས་ ལ་␣ས་ འཁྲུངས་པ་␣འི་ མཚན་ལྡན་ གྱི་ སྲས་ དེ་ ནི་"
 msgstr ""
+"Sublime beings are like the son having the marks of those who were born in "
+"the family line of a universal monarch, among a thousand sons of commoners, "
 
 msgctxt "a7d1789caf1f46bc9e9b02b048baf5fa"
 msgid "ཡོན་ཏན་ དུ་མ་␣འི་ སྒོ་ ནས་ ཁྱད་པར་ འཕགས་པ་ བཞིན་ དུ་"
