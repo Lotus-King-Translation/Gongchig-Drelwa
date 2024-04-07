@@ -21162,7 +21162,7 @@ msgstr "The Dharma Lord of the three realms, Choje Rinpoche, "
 
 msgctxt "ecae6db4c6fc47f88b3cfedbf39b37d9"
 msgid "སྲིད་པ་ གསུམ་ ན་ གྲགས་པ་ དང་ ལྡན་པ་"
-msgstr ""
+msgstr "Who is renowned in the three existences."
 
 msgctxt "c4dc6bf6d39041b194bdbfb9fb85cf36"
 msgid ""
