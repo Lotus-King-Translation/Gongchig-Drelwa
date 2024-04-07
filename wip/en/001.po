@@ -21211,7 +21211,7 @@ msgstr " Being superior with many good qualities, enter into "
 
 msgctxt "0c03b8fcafe3469e9c173b3806dedde0"
 msgid "བསྟན་པ་␣འི་ སྒོར་ ཞུགས་"
-msgstr ""
+msgstr "Enter into the gate of the teachings."
 
 msgctxt "ad2a1009e7e74d46ab01125522767dbe"
 msgid "ཀུན་ གྱི་ ནང་ ན་ ཡོན་ཏན་ དུ་མ་␣ས་ མཛེས་ ཤིང་"
