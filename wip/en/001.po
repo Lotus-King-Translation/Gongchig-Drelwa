@@ -21158,7 +21158,7 @@ msgstr "Because of a mixed lineage, do not criticize other tenets and people."
 
 msgctxt "e9a2103624524c9e8ad0b5cb095041ad"
 msgid "ཁམས་ གསུམ་ ཆོས་ ཀྱི་ རྒྱལ་པོ་ ཆོས་རྗེ་ རིན་པོ་ཆེ་"
-msgstr ""
+msgstr "The Dharma Lord of the three realms, Choje Rinpoche, "
 
 msgctxt "ecae6db4c6fc47f88b3cfedbf39b37d9"
 msgid "སྲིད་པ་ གསུམ་ ན་ གྲགས་པ་ དང་ ལྡན་པ་"
