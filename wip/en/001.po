@@ -21195,7 +21195,7 @@ msgstr "That is greatly marvelous."
 
 msgctxt "66245e0559344cb88997d0a5c0a279c0"
 msgid "བསྟན་པ་ གང་ གིས་ འཛིན་པ་␣འི་ ཆོས་མཛད་"
-msgstr ""
+msgstr "The Dharma activities of the one who holds the teachings. "
 
 msgctxt "8407e7b264c748d297d46a156d99238f"
 msgid ""
