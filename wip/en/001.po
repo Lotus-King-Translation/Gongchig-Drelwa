@@ -21207,7 +21207,7 @@ msgstr ""
 
 msgctxt "a7d1789caf1f46bc9e9b02b048baf5fa"
 msgid "ཡོན་ཏན་ དུ་མ་␣འི་ སྒོ་ ནས་ ཁྱད་པར་ འཕགས་པ་ བཞིན་ དུ་"
-msgstr ""
+msgstr " Being superior with many good qualities, enter into "
 
 msgctxt "0c03b8fcafe3469e9c173b3806dedde0"
 msgid "བསྟན་པ་␣འི་ སྒོར་ ཞུགས་"
