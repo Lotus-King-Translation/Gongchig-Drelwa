@@ -21178,7 +21178,7 @@ msgstr "According to the sutra:"
 
 msgctxt "2be4fd53254d4aa99066f90b45f440f5"
 msgid "མེ་ ཚོགས་ སྤུ་གྲི་␣འི་ སོ་ ཡང་ བརྒལ་ ནས་ ནི ། །"
-msgstr ""
+msgstr "Even if it needs walking through fire or a razor's edge,"
 
 msgctxt "6e40073c04f64e929b105bcc3812444b"
 msgid "ཕྱི་མཐ་␣ར་ ཐུག་ གི་ བར་ དུ་ བཟུང་བ་␣ར་ བགྱི །"
