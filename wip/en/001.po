@@ -21182,7 +21182,7 @@ msgstr "Even if it needs walking through fire or a razor's edge,"
 
 msgctxt "6e40073c04f64e929b105bcc3812444b"
 msgid "ཕྱི་མཐ་␣ར་ ཐུག་ གི་ བར་ དུ་ བཟུང་བ་␣ར་ བགྱི །"
-msgstr "I will uphold it until the end of time."
+msgstr "[I] will uphold it until the end of time."
 
 msgctxt "1715002716c9436e835174696c44d15e"
 msgid "ཞེས་པ་ ལྟར་ ནན་ཏན་ ཆེན་པོ་␣འི་ སྒོ་ ནས་ འཛིན་པ་ ཞིག་ བྱུང་ ན་"
