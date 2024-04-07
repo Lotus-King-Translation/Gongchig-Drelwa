@@ -21187,7 +21187,7 @@ msgstr "[I] will uphold it until the end of time."
 msgctxt "1715002716c9436e835174696c44d15e"
 msgid "ཞེས་པ་ ལྟར་ ནན་ཏན་ ཆེན་པོ་␣འི་ སྒོ་ ནས་ འཛིན་པ་ ཞིག་ བྱུང་ ན་"
 msgstr ""
-"As it is said, holding [the holy dharma] with tremendous assiduousness"
+"As it is said if one holds [the holy dharma] with tremendous assiduousness,"
 
 msgctxt "846bdc54c3f04314be2eeff778716980"
 msgid "ངོ་མཚར་ ཤིན་ཏུ་ ཆེ་བ་ ཡིན་ ནོ ། །"
