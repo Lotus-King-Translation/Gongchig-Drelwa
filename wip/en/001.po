@@ -21191,7 +21191,7 @@ msgstr ""
 
 msgctxt "846bdc54c3f04314be2eeff778716980"
 msgid "ངོ་མཚར་ ཤིན་ཏུ་ ཆེ་བ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "Is greatly marvelous."
 
 msgctxt "66245e0559344cb88997d0a5c0a279c0"
 msgid "བསྟན་པ་ གང་ གིས་ འཛིན་པ་␣འི་ ཆོས་མཛད་"
