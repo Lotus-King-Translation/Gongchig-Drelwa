@@ -21219,7 +21219,7 @@ msgstr "Among all, with many good qualities, they are beautiful and"
 
 msgctxt "34ad5611683c4b4781d06bf33386f643"
 msgid "ལྷག་པ་ ཡིན་ ནོ །"
-msgstr ""
+msgstr "superior."
 
 msgctxt "49bad86c1c674cf7a84f6cf3d58e2848"
 msgid "དེ་␣འང་ གང་ གིས་ ལྷག་པ་ ཡིན་ སྙམ་ ན །"
