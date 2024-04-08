@@ -21339,7 +21339,7 @@ msgstr "Whoever in the three spheres,"
 
 msgctxt "92b4e813c0ca4cd4a2fe9369c9bf053a"
 msgid "ཇི་ལྟར་ བསྔོ་བ་␣འི་ ཆོས་ མི་ དམིགས་རྣམ་པ་␣ར་ དག་པ་"
-msgstr ""
+msgstr "As the dedication of Dharma is non-apprehensible and utterly pure."
 
 msgctxt "0970174fffc349bcbe1b4bbcac739e2c"
 msgid "གངས་ ཀྱི་ རི་ ལྟར་ དཀར་བ་␣འི་ དགེ་བ་ འདི་␣ས ། །"
