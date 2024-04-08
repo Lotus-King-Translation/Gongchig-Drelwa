@@ -21290,7 +21290,7 @@ msgstr ""
 
 msgctxt "31fed210655141b3ad000f1bc29e00ca"
 msgid "བསྟན་པ་␣ས་ བྱང༌ཆུབ་ གསུམ་ ལ་ འགོད་པ་␣ར་ བྱེད་ ཅིང་"
-msgstr ""
+msgstr "The teaching will arrange [them] to the three types of enlightenment."
 
 msgctxt "ca40b625a429429f88c581aea038cbe5"
 msgid ""
