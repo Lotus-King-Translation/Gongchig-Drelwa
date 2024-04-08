@@ -21236,6 +21236,8 @@ msgid ""
 "དེ་ མངོན་དུ་ བྱེད་པ་␣འི་ ཐབས་ལམ་ གྱི་ རིམ་པ་ རབ་འབྱམས་ ཐུབ་པ་␣འི་ བཀའ་ "
 "མཐའ་དག་ གམ །"
 msgstr ""
+"All the infinite instructions of the Able One on the stages of the path of "
+"methods for actualizing it."
 
 msgctxt "a9dde874ec264e07a31987c460a9797a"
 msgid ""
