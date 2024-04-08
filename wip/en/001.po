@@ -21317,7 +21317,7 @@ msgstr ""
 
 msgctxt "088df43e7f9445bc84496a3f409e582d"
 msgid "དགོངས་པ་ རྒྱ་མཚོ་ ཆེ་ ལྟར་"
-msgstr "[His] intent is like a great ocean."
+msgstr "[His] intent is like a great ocean"
 
 msgctxt "2a355b23801e4ca0acdb71e30f8d821e"
 msgid "ཤིན་ཏུ་ ཡངས་པ་␣ར་ གྱུར་པ་ ལ་␣ས །"
