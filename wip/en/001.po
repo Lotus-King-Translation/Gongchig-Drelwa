@@ -21331,7 +21331,7 @@ msgctxt "255ee316a01e4c6ca21453a4b2c23b1c"
 msgid ""
 "འདི་ ནི་ བསོད་སྙོམས་ ཀྱི་ འཚོ་བ་␣འི་ བན་དེ་ ལྡོམ་བུ་པ་ ཤེས་རབ་ འབྱུང་གནས་ "
 "བདག་ གིས་ བྲིས་ ཞེས་ སོ ། །"
-msgstr ""
+msgstr "I, Sherab Jungne, a mendicant living on alms, wrote this."
 
 msgctxt "97661bfccb3e44d08e9780d531cae7e2"
 msgid "འཁོར་གསུམ་ གང་ དུ་ གང་ཞིག་"
