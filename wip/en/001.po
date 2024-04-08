@@ -21261,7 +21261,7 @@ msgstr "Therefore, the skulk of foxes of the bad non-Buddhist opponents,"
 
 msgctxt "d86f6ebf48b44544bf964232c0b384a9"
 msgid "གངས་ཅན་ སེང་གེ་ ལྟ་བུ་␣ར་ ཉམས་ ང་ །"
-msgstr ""
+msgstr "Even intimidate the lion of the Snow Land,"
 
 msgctxt "17ecce39c1004df2ac52e611380c04fe"
 msgid "བག་ཚ་ བ་སྤུ་ ཙམ་ ཡང་ མེད་ དོ །"
