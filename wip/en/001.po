@@ -21243,6 +21243,7 @@ msgctxt "a9dde874ec264e07a31987c460a9797a"
 msgid ""
 "ཡང་ན་ གཉིས་ ཆོས་ ཐམས་ཅད་ ལ་␣ས་ འདས་པ་␣འི་ སྟོང་ཉིད་ ཕྱག་རྒྱ་ ཆེན་པོ་ དང་ །"
 msgstr ""
+"It is the emptiness that is beyond all dualistic phenomena, mahamudra, and"
 
 msgctxt "129fbb7c55714e2ebd4ff7b746dcf5e2"
 msgid "དེ་ རྒྱུ་འབྲས་ སུ་ འབྱུང་བ་"
