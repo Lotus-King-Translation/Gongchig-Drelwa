@@ -1183,7 +1183,7 @@ msgid ""
 "འདྲེས་པ་ ཡིན་ ཟེར་ ཡང༌ །"
 msgstr ""
 "Vajra: Someone said, the objects being expressed in the three Dharma wheels "
-"are distinct, and earlier and later [subjects] and so on are not mixed."
+"are distinct, and earlier and later [objects] and so on are not mixed."
 
 msgctxt "db40468328a94daba0d1d3e621d244f1"
 msgid ""
