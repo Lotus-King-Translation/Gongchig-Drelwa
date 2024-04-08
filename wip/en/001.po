@@ -21373,7 +21373,7 @@ msgstr "[May all attain] the ultimate three buddha kayas and "
 
 msgctxt "5eac976a087942dc9add4aba867528a0"
 msgid "ཡེ་ཤེས་ ལྔ་␣འི་ བདག་ཉིད་ མྱུར་ དུ་ ཐོབ་པ་␣ར་ ཤོག་ ཅིག་ ཅེས་པ་␣འོ ། །"
-msgstr ""
+msgstr "five wisdoms, May all swiftly attain in these nature."
 
 msgctxt "d4fc672194ac4f85aa819e6bdf94efa9"
 msgid "ཞེས་པ་ བཤེར་ འབྱུང་ གིས་ མཛད་པ་␣འི་ གཞུང་ རྩ་བ་ དེ་ཉིད་"
