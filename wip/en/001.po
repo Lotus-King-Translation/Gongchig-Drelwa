@@ -21325,7 +21325,7 @@ msgstr "Became very vast."
 
 msgctxt "902ac40142c841e5beda550308be27a3"
 msgid "སྐྲ་␣འི་ རྩེ་མོ་ བླངས་པ་␣འི་ ཆུ་ ཐིག་ ཙམ་ ཞིག་ སྨྲས་པ་"
-msgstr ""
+msgstr "From that, [I] stated a drop of water taken by a hair tip."
 
 msgctxt "255ee316a01e4c6ca21453a4b2c23b1c"
 msgid ""
