@@ -21307,7 +21307,7 @@ msgstr "In that way, the subject matter is equal to phenomena,"
 
 msgctxt "3a9a8f8039fe466ca86a39ba101c41aa"
 msgid "སྦྲང་རྩི་ རོ་ གཅིག་པ་ ལྟར་ ཟབ་ ཅིང་"
-msgstr ""
+msgstr "And is profound like the same taste as honey."
 
 msgctxt "1877462fe5a54359b8f3a39b6dcea2d8"
 msgid "རྗོད་ བྱེད་ མདོ་ རྒྱུད་ དང་ བསྟན་བཅོས་ རྒྱ་ ཆེ་ བླ་ ན་ མེད་པ་␣འི །"
