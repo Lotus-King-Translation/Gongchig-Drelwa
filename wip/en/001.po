@@ -21343,7 +21343,7 @@ msgstr "As the dedication of Dharma is non-apprehensible and utterly pure."
 
 msgctxt "0970174fffc349bcbe1b4bbcac739e2c"
 msgid "གངས་ ཀྱི་ རི་ ལྟར་ དཀར་བ་␣འི་ དགེ་བ་ འདི་␣ས ། །"
-msgstr ""
+msgstr "By this virtue, which is as white as a snow mountain,"
 
 msgctxt "e0d578a814584d229bc436ab64d90d0d"
 msgid "རིན་ཆེན་ རྒྱལ་བ་␣འི་ བསྟན་པ་ ཕྱོགས་ བཅུ་ མུ་མེད་པ་"
