@@ -21348,6 +21348,8 @@ msgstr "By this virtue, which is as white as a snow mountain,"
 msgctxt "e0d578a814584d229bc436ab64d90d0d"
 msgid "རིན་ཆེན་ རྒྱལ་བ་␣འི་ བསྟན་པ་ ཕྱོགས་ བཅུ་ མུ་མེད་པ་"
 msgstr ""
+"The precious teachings of the conqueror will [flourish] in ten directions "
+"without limits,"
 
 msgctxt "6a7ca62003c14dab9728effb3fc1ad77"
 msgid "ཕྱི་མ་␣འི་ མཐ་␣འི་ བར་ དུ་ རྒྱས་པ་ དང༌ །"
