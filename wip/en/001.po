@@ -21257,7 +21257,7 @@ msgstr ""
 
 msgctxt "c2e1b6a65a5242b7a2fa79b6fa346bca"
 msgid "དེ་ཕྱིར་ ཕྱི་རོལ་ རྒོལ་བ་ ངན་པ་␣འི་ ཝ་ ཚོགས་ ཀྱིས ། །"
-msgstr ""
+msgstr "Therefore, the skulk of foxes of the bad non-Buddhist opponents,"
 
 msgctxt "d86f6ebf48b44544bf964232c0b384a9"
 msgid "གངས་ཅན་ སེང་གེ་ ལྟ་བུ་␣ར་ ཉམས་ ང་ །"
