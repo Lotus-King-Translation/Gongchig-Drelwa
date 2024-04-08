@@ -21276,6 +21276,8 @@ msgid ""
 "རིགས་ཅན་ སྣ་ཚོགས་པ་␣འི་ གདུལ་བྱ་ སོ་སོ་ ལ་མ་ འདྲེས་པ་␣འི་ ཆོས་  ཀྱི་ ཁྱད་པར་"
 " ལེགས་པ་␣ར་ བསྟན་པ་"
 msgstr ""
+"To each of the various classes of disciples, the distinctive features of the"
+" Dharma are excellently taught."
 
 msgctxt "e4adea6fbe2a4e1cb640ad19e29e51ce"
 msgid ""
