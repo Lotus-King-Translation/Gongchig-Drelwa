@@ -21369,7 +21369,7 @@ msgstr "Will be separated along with its adventitious stain."
 
 msgctxt "7ec0bc4ac15a4336a34648a65458f9ce"
 msgid "མཐ་␣ར་ ཕྱིན་པ་␣འི་ སངས་རྒྱས་ སྐུ་གསུམ་ དང་"
-msgstr ""
+msgstr "The ultimate three buddha kayas and "
 
 msgctxt "5eac976a087942dc9add4aba867528a0"
 msgid "ཡེ་ཤེས་ ལྔ་␣འི་ བདག་ཉིད་ མྱུར་ དུ་ ཐོབ་པ་␣ར་ ཤོག་ ཅིག་ ཅེས་པ་␣འོ ། །"
