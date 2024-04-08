@@ -477,7 +477,7 @@ msgstr ""
 msgctxt "ca11e078ef2c4ad4a60a48469d6ace22"
 msgid "དགེ་བ་ བདེ་ལེགས་ ཀྱི་ ལ་␣ས་ སྒྲུབ་པ་␣འི་ ཐབས་ཚུལ་ ལ་"
 msgstr ""
-"To put one on the method to accomplish the karma of virtue, happiness and "
+"To put one on the method to accomplish the karma of virtue, happiness, and "
 "goodness,"
 
 msgctxt "8140bd0581e242679140e7daccf8f470"
