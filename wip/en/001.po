@@ -21247,7 +21247,7 @@ msgstr ""
 
 msgctxt "129fbb7c55714e2ebd4ff7b746dcf5e2"
 msgid "དེ་ རྒྱུ་འབྲས་ སུ་ འབྱུང་བ་"
-msgstr ""
+msgstr "That occurs as cause and effect,"
 
 msgctxt "ed56d13e422745a88c7c16f401fbd7df"
 msgid "འཁོར་འདས་ ཀྱི་ རྟེན་འབྲེལ་ ཀུན་ ལ་མ་ རྨོངས་པ་␣ས་"
