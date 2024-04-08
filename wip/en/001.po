@@ -21361,7 +21361,7 @@ msgstr "By the power of that, the root of samsara,"
 
 msgctxt "ac073bec93764abc847f508b2d269ddd"
 msgid "མི་ ཤེས་པ་␣འི་ གཏི་མུག་"
-msgstr ""
+msgstr "the delusion of not knowing,"
 
 msgctxt "f80ba238843748e7a6952ad6db7a298d"
 msgid "གློ་བུར་པ་␣འི་ དྲི་མ་ དང་ རྣམ་པ་␣ར་ བྲལ་ ཞིང༌ །"
