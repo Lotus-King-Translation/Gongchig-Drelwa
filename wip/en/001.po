@@ -21353,7 +21353,7 @@ msgstr ""
 
 msgctxt "6a7ca62003c14dab9728effb3fc1ad77"
 msgid "ཕྱི་མ་␣འི་ མཐ་␣འི་ བར་ དུ་ རྒྱས་པ་ དང༌ །"
-msgstr ""
+msgstr "Until the end of time and"
 
 msgctxt "24b45ef8c4ac4e5eb7c7a2bf30b5eaef"
 msgid "དེ་␣འི་ མཐུ་␣ས་ འཇིག་རྟེན་ འཁོར་བ་␣འི་ རྩ་བ་"
