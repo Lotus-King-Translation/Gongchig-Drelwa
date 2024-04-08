@@ -21335,7 +21335,7 @@ msgstr "I, Sherab Jungne, a mendicant living on alms, wrote this."
 
 msgctxt "97661bfccb3e44d08e9780d531cae7e2"
 msgid "འཁོར་གསུམ་ གང་ དུ་ གང་ཞིག་"
-msgstr ""
+msgstr "Whoever in the three spheres,"
 
 msgctxt "92b4e813c0ca4cd4a2fe9369c9bf053a"
 msgid "ཇི་ལྟར་ བསྔོ་བ་␣འི་ ཆོས་ མི་ དམིགས་རྣམ་པ་␣ར་ དག་པ་"
