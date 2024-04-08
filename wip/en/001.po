@@ -21265,7 +21265,7 @@ msgstr "Even intimidate the lion of the Snow Land,"
 
 msgctxt "17ecce39c1004df2ac52e611380c04fe"
 msgid "བག་ཚ་ བ་སྤུ་ ཙམ་ ཡང་ མེད་ དོ །"
-msgstr ""
+msgstr "There is not even a hair of anxiety."
 
 msgctxt "4d9e0583c6b64d4b92756273d4bceb1c"
 msgid "རིགས་ དང་ དབང་པོ་ དང་ མཐུན་པ་␣ར་ རྗེས་ འབྲང་ ཀྱི་ འཁོར་ དང་"
