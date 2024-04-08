@@ -21312,6 +21312,8 @@ msgstr "And is profound like the same taste as honey."
 msgctxt "1877462fe5a54359b8f3a39b6dcea2d8"
 msgid "རྗོད་ བྱེད་ མདོ་ རྒྱུད་ དང་ བསྟན་བཅོས་ རྒྱ་ ཆེ་ བླ་ ན་ མེད་པ་␣འི །"
 msgstr ""
+"The means of expression are the vast and unsurpassable sutras, tantras, and "
+"treatises."
 
 msgctxt "088df43e7f9445bc84496a3f409e582d"
 msgid "དགོངས་པ་ རྒྱ་མཚོ་ ཆེ་ ལྟར་"
