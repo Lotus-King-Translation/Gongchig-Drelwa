@@ -21252,6 +21252,8 @@ msgstr "That occurs as cause and effect,"
 msgctxt "ed56d13e422745a88c7c16f401fbd7df"
 msgid "འཁོར་འདས་ ཀྱི་ རྟེན་འབྲེལ་ ཀུན་ ལ་མ་ རྨོངས་པ་␣ས་"
 msgstr ""
+"Because of not being confused about the entire interdependence of samsara "
+"and nirvana."
 
 msgctxt "c2e1b6a65a5242b7a2fa79b6fa346bca"
 msgid "དེ་ཕྱིར་ ཕྱི་རོལ་ རྒོལ་བ་ ངན་པ་␣འི་ ཝ་ ཚོགས་ ཀྱིས ། །"
