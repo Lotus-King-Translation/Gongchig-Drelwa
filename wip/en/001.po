@@ -21298,6 +21298,8 @@ msgid ""
 "སྙན་པ་ དང་ གྲགས་པ་␣འི་ སྒྲ་ ཆེན་ འབྲུག་སྒྲ་ བཞིན་ དུ་ ཕྱོགས་ བཅུར་ "
 "སྒྲོགས་པ་␣ར་ བྱེད་ དོ ། །"
 msgstr ""
+"The great sound of its fame and renown resounds in the ten directions like "
+"thunder."
 
 msgctxt "3ca0f2a24553479fb40b74d2428c8cf3"
 msgid "དེ་ལྟར་ བརྗོད་བྱ་ ཆོས་ཐུན་ མཉམ་པ་ཉིད་"
