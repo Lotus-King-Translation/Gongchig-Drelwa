@@ -21269,7 +21269,7 @@ msgstr "There is not even a hair of anxiety."
 
 msgctxt "4d9e0583c6b64d4b92756273d4bceb1c"
 msgid "རིགས་ དང་ དབང་པོ་ དང་ མཐུན་པ་␣ར་ རྗེས་ འབྲང་ ཀྱི་ འཁོར་ དང་"
-msgstr "The retinues of followers of the same class and faculties, and "
+msgstr "To the retinues of followers of the same class and faculties, and "
 
 msgctxt "90171b31960246899ff2eaefe2fb08fb"
 msgid ""
