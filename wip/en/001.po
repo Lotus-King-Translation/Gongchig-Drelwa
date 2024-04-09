@@ -21421,7 +21421,7 @@ msgstr "At the Gangnon Tashi Chozong Monastery,"
 
 msgctxt "4bac813634b44dea88d2d90a0db41c29"
 msgid "འབྱུང་བ་ བཞི་ ལྡན་"
-msgstr ""
+msgstr "Endowed with the four elements,"
 
 msgctxt "dd610cf5589f499c825748d974f7c1cf"
 msgid "ས་མོ་ བྱ་ལོ་␣འི་ དུས་འཁོར་ གྱི་ གསོ་དཔྱད་ རྒྱ་རྩིས་ ཀྱི་ སྟོན་ ར །"
