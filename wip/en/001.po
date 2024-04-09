@@ -21431,7 +21431,7 @@ msgstr ""
 
 msgctxt "f3d443b1a3a647a6a77f0ded647b47d7"
 msgid "སྐར་རྩིས་ རྒྱ་གར་ གྱི་ དབྱར་ ཐ་ གྲོ་ཞིན་"
-msgstr ""
+msgstr "In the summer month of the Indian astrological system,"
 
 msgctxt "3c5019ac64e148b889ef558f76cb4968"
 msgid "ཟླ་བ་ མར་ངོ་␣འི་ ཚེས་  ༡༣  ལ་ བྲིས་པ་ དགེ་ལེགས་ འཕེལ །།"
