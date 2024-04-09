@@ -21393,7 +21393,7 @@ msgstr "In the verses. "
 
 msgctxt "b5cb72a5e9e8484f99076fba7f36d973"
 msgid "སླར་ ལྷན་ཐབས་ བཅས་ དཀྱུས་ སུ་ བསྒྲིགས་ ནས་"
-msgstr "Later, it was arranged in section-wise and "
+msgstr "Later, it was arranged into sections and "
 
 msgctxt "38c4139228b243aaa121093c33e7ce5d"
 msgid "མཆན་ གྱིས་ བཀྲལ་བ་"
