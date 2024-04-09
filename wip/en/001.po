@@ -21389,7 +21389,7 @@ msgstr ""
 
 msgctxt "1a20246ee0c04fd9a8cf85f3d677ed31"
 msgid "ཚིག་ བཅད་ དུ་ ལྡེབས་པ་ ལ་␣ས་"
-msgstr ""
+msgstr "In the verses. "
 
 msgctxt "b5cb72a5e9e8484f99076fba7f36d973"
 msgid "སླར་ ལྷན་ཐབས་ བཅས་ དཀྱུས་ སུ་ བསྒྲིགས་ ནས་"
