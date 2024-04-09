@@ -21426,6 +21426,8 @@ msgstr "Endowed with the four elements,"
 msgctxt "dd610cf5589f499c825748d974f7c1cf"
 msgid "ས་མོ་ བྱ་ལོ་␣འི་ དུས་འཁོར་ གྱི་ གསོ་དཔྱད་ རྒྱ་རྩིས་ ཀྱི་ སྟོན་ ར །"
 msgstr ""
+"In the autumn of the Earth-Female-Bird Year of the wheel of time of the "
+"Chinese astrological and medicine year,"
 
 msgctxt "f3d443b1a3a647a6a77f0ded647b47d7"
 msgid "སྐར་རྩིས་ རྒྱ་གར་ གྱི་ དབྱར་ ཐ་ གྲོ་ཞིན་"
