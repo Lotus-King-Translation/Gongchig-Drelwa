@@ -21377,7 +21377,7 @@ msgstr "five wisdoms, May all swiftly attain in these nature."
 
 msgctxt "d4fc672194ac4f85aa819e6bdf94efa9"
 msgid "ཞེས་པ་ བཤེར་ འབྱུང་ གིས་ མཛད་པ་␣འི་ གཞུང་ རྩ་བ་ དེ་ཉིད་"
-msgstr "This root text composed by Sherab Jungne is [combined]"
+msgstr "This root text composed by Sherab Jungne is [compiled]"
 
 msgctxt "bc7b5e0cee3b45e7a8c048f62d288ad5"
 msgid ""
