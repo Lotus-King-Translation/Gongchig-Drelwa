@@ -21384,6 +21384,8 @@ msgid ""
 "འབྲི་གུང་ གདན་ རབ་ རྗེ་བཙུན་ དཀོན་མཆོག་ རིན་ཆེན་ ཕྲིན་ལས་ རྣམ་རྒྱལ་ དཔལ་ "
 "འཟང་པོ་␣ས་"
 msgstr ""
+"By the succession of Drigung, the venerable Konchok Rinchen Trinle Namgyal "
+"Pal Zangpo, "
 
 msgctxt "1a20246ee0c04fd9a8cf85f3d677ed31"
 msgid "ཚིག་ བཅད་ དུ་ ལྡེབས་པ་ ལ་␣ས་"
