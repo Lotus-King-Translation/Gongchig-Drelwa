@@ -21404,6 +21404,8 @@ msgid ""
 "སྔོན་བྱོན་ སྐྱེས་ཆེན་ དམ་པ་ བཅུ་ཕྲག་ རིགས་པ་␣འི་ གནས་ ལ་ མཁས་པ་ ཤཱཀྱའི་ "
 "དགེ་སློང་ དཔལ་འབྱོར་ རིན་པོ་ཆེ་␣ས་ མཆན་ ཐོར་བུ་␣ར་ སྡེབས་པ་ ལ་ གཞི་ བྱས་ ཏེ་"
 msgstr ""
+"Based on the fragmented notes compiled by the Shakya monk Paljor Rinpoche, a"
+" scholar of the various fields of knowledge."
 
 msgctxt "a5ddf198fb564888b9ffab951dfdbbe8"
 msgid ""
