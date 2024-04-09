@@ -21412,6 +21412,8 @@ msgid ""
 "སྙིགས་དུས་ ཀྱི་ ལྡོམ་བུ་བ་ འབྲི་ སྤྲུལ་ རྟོགས་ལྡན་ དཀོན་མཆོག་ ཐུབ་བསྟན་ "
 "བསྟན་པ་␣འི་ རྒྱལ་མཚན་ གྱིས་"
 msgstr ""
+"The Drigung emanation Togden Konchok Thupten Tenpai Gyaltsen, a mendicant of"
+" this degenerate age,"
 
 msgctxt "5256a9abbfb54f5583b4615697a35f61"
 msgid "མང་ཡུལ་ ལ་དྭགས་ སྒང་ སྔོན་ བཀྲཤིས་ ཆོས་རྫོང་ དུ་"
