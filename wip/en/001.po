@@ -21417,7 +21417,7 @@ msgstr ""
 
 msgctxt "5256a9abbfb54f5583b4615697a35f61"
 msgid "མང་ཡུལ་ ལ་དྭགས་ སྒང་ སྔོན་ བཀྲཤིས་ ཆོས་རྫོང་ དུ་"
-msgstr ""
+msgstr "At the Gangnon Tashi Chozong Monastery,"
 
 msgctxt "4bac813634b44dea88d2d90a0db41c29"
 msgid "འབྱུང་བ་ བཞི་ ལྡན་"
