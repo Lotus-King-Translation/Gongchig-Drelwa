@@ -21397,7 +21397,7 @@ msgstr "Later, it was arranged into sections and "
 
 msgctxt "38c4139228b243aaa121093c33e7ce5d"
 msgid "མཆན་ གྱིས་ བཀྲལ་བ་"
-msgstr ""
+msgstr "Elucidated with annotations."
 
 msgctxt "ba81de9a22a848b6a06719ebf7cb2daa"
 msgid ""
