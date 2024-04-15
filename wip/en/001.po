@@ -8948,7 +8948,7 @@ msgstr ""
 
 msgctxt "02db86bf7f544b28b178608420b4b31f"
 msgid "འཕྲུལ་ དག་ བདེན་པ་␣འི་ མདོ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The Pure Emanation- The Sutra of Truth:"
 
 msgctxt "5817e7ea49f74ad4945bbd5c25a8afb8"
 msgid "དབང་མེད་ ལ་␣ས་ ཀྱི་ རྣམ་སྨིན་ འབྱུང་བ་ ལ །"
