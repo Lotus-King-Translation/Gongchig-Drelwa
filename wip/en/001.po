@@ -11207,7 +11207,7 @@ msgstr "Because of the dedication, at dawn, [they] attained buddhahood and "
 
 msgctxt "3a8d8b2d51174e5baabcaf929ffb4509"
 msgid "ལྷ་ སྦྱིན་ གྱི་ འགྱོགས་ རྡོས་ ཞབས་ ཀྱི་ སྐུ་མཚལ་ ལ་"
-msgstr ""
+msgstr "The shooting stone of Devadatta bleeds the bare feet."
 
 msgctxt "7074851060654e5eafadbb15a26f0f68"
 msgid "འོད་སྲུང་ གིས་ བདེན་པ་ བརྗོད་པ་␣ས་ ཆད་པ་ བཞིན་ ནོ ། །"
