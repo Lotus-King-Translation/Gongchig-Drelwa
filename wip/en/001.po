@@ -3264,7 +3264,7 @@ msgstr "And."
 
 msgctxt "a83fadf031464542b18a6cfcbb15e415"
 msgid "དེ་བཞིན་ དུ་ བརྡོལ་བོན་ འགྱར་ བོན་ བསྒྱུར་བོན་ རྣམས་ ཀྱང་ རོ །"
-msgstr ""
+msgstr "Likewise, Dol Bon, Gyar Bon, and Gyur Bon."
 
 msgctxt "0abba85512c94c03a93c12e15b7aede4"
 msgid "ལྷན་␣༽༽་␣ཡང་ དགའ་ ཞིག་ གིས་"
