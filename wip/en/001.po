@@ -9224,6 +9224,8 @@ msgctxt "7849ece1f894441aab8908ff2de35a42"
 msgid ""
 "མར་ སེམས་ཅན་ རྣམས་ ལ་ བུ་ དང་ ཆུང་མ་ གཏོང་བ་ སོགས་ བསགས་ དགོས་ ཟེར་ རོ ། །"
 msgstr ""
+"It is said that one must accumulate merit by giving away one's children and "
+"spouse to sentient beings."
 
 msgctxt "0a59be6ec3e5474cb246a435ecf40f3e"
 msgid "དེ་ ནི་ བདག་ཅག་ གི་ སྟོན་པ་␣འི་ མཛད་པ་ ཡིན་པ་␣ས་ སྒྲུབ་ མི་ ནུས་"
