@@ -21165,7 +21165,7 @@ msgstr "It is said that the fault of engaging in wrongdoing does not occur."
 msgctxt "b402d7cf395446ca8d5186946212e1ca"
 msgid ""
 "རིགས་ འཆོལ་བ་␣ས་ གཞན་ གྱི་ གྲུབ་མཐའ་ དང་ གང་ཟག་ ལ་ སྨོད་པ་␣ར་ མི་ བྱེད་པ་"
-msgstr "Because of a mixed lineage, do not criticize other tenets and people."
+msgstr "Because of a mixed lineage, do not disparage other tenets and people."
 
 msgctxt "e9a2103624524c9e8ad0b5cb095041ad"
 msgid "ཁམས་ གསུམ་ ཆོས་ ཀྱི་ རྒྱལ་པོ་ ཆོས་རྗེ་ རིན་པོ་ཆེ་"
