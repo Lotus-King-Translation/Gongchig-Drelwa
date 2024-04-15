@@ -8634,7 +8634,7 @@ msgstr "The way of practice"
 
 msgctxt "26abd8b4513d4a1e9fe56ac3a8e05180"
 msgid "ཟུང་ རེ་ ཚེ་ བརྟགས་ གཞན་ ཤེས་པ་␣ར་ ནུས་"
-msgstr ""
+msgstr "It is rare the [one] can know it by analyzing it once."
 
 msgctxt "54a09ea71cb7434b87da7f1c8273c80f"
 msgid "རེ་ ཀན་ ཞེས་ གསུང་པ་ བཞིན་ ནོ ། །"
