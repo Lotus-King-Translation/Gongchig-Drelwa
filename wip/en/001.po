@@ -4238,7 +4238,7 @@ msgstr "They are inseparable from it."
 
 msgctxt "1a95f4bd2aac4ad682328725544cda99"
 msgid "དེ་␣ས་ བརྗོད་ བླ་མ་ ལ་␣ས །"
-msgstr ""
+msgstr "According to The Highest Continuum:"
 
 msgctxt "4e25abcb52a44f50adce78931b2fb96d"
 msgid "བྱང་ཆུབ་ ཕྱོགས་ ནི་ སུམ་ཅུ་ བདུན ། །"
