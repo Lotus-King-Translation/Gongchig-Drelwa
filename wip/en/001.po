@@ -5281,6 +5281,8 @@ msgstr "In this [system], the twelve [links] are"
 msgctxt "b5e6cf18bf8f4ab2a7e377ed937d8bcc"
 msgid "རིམ་བཞིན་ ལྷག་ སྔ་མ་ ད་ལྟ་ ཕྱི་མ་ གསུམ་ ལ་␣ས་ རྫོགས་ ཟེར །"
 msgstr ""
+"Subsequently, the remaining ones are said to be completed from the previous "
+"[ones], present [ones], and latter [ones]."
 
 msgctxt "9b955332d693457ab9b6b72c2747ac6c"
 msgid "འདི་␣ར་ བཅུ་གཉིས་པོ་ དེ་ཡང་"
