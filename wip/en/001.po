@@ -7791,7 +7791,7 @@ msgstr "The classification from the ground"
 
 msgctxt "84367314076d4a3fa4c393c1004ca061"
 msgid "བསྐལ་པ་ དང་པོ་␣འི་ མི་␣ས་ ས་ལུ་ སོགས་ འཇོག་ བྱས་པ་␣ས་"
-msgstr ""
+msgstr "In the first eon, people stored rice and so on."
 
 msgctxt "6c7cf8cbb3af4b719c2dfa93e97e7653"
 msgid "ཕྱིས་ ཉེས་པ་ དུ་མ་ བསྐྱེད་པ་ དང་ །"
