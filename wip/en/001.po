@@ -3220,7 +3220,7 @@ msgstr ""
 
 msgctxt "1c33b14138ef4b51bed04492bb10be66"
 msgid "ཕྲན་ ཚེག་ ལ་␣ས །"
-msgstr ""
+msgstr "The Finer Points of Discipline:"
 
 msgctxt "b119db92e68442078692ab92b561b1ea"
 msgid "རབ་ བཟང་ གང་ཡང་ འཕགས་པ་␣འི་ ལམ་ ཡན་ལག་ བརྒྱད་པ་ མི་སྣང་བ་"
