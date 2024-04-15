@@ -3438,6 +3438,8 @@ msgstr ""
 msgctxt "c8d2059f1c31492886545e2464a79c92"
 msgid "ཆུ་ མི་ འཐུང་བ་ འདོད་ཆགས་ སྐྱེས་ ཀྱི་ དོག་ ན་ འགྲོགས་ སྟེ་ འདུག་པ །"
 msgstr ""
+"If [one] is skeptical that desire can arise without drinking water, then "
+"[one] remains in its company."
 
 msgctxt "403ea3caa887472393b9c529ef5c48db"
 msgid "རྫུན་ བསྲུང་བ་␣ར་ མི་སྨྲ་བ་ སྟེ་"
