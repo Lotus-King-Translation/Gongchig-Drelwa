@@ -4130,7 +4130,7 @@ msgstr ""
 
 msgctxt "de33ac5a6b6e4c15b06549bd5cd86c10"
 msgid "གཟུང་ དབང་ ཞུས་ མདོ་␣ར་ ནོར་བུ་ སྦྱོང་བ་␣འི་ དཔེ་␣ས་ བསྟན་ ཏེ །"
-msgstr ""
+msgstr "According to the Sutra of Requisition by [King] Dharanishvara Sutra:"
 
 msgctxt "28760694d6a945e6ac6cc0a9923767eb"
 msgid "ཡོན་ཏན་ ཞི་ དུས་ ན་ ཇི་ལྟར་ ཡོད་པ་ མངོན་དུ་ བྱ་བ་␣ར་ གསུངས་  ཏེ་␣༑"
