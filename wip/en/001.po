@@ -168,7 +168,9 @@ msgstr "For those of lesser intellect like me,"
 
 msgctxt "79b1d88d89cc4d028b4c124452dc137d"
 msgid "ཕན་ ཕྱིར་ ཚིག་དོན་ འགྲེལ་ འདི་ བརྩམས ། །"
-msgstr "To benefit [them], this commentary of word meanings is composed.  "
+msgstr ""
+"To benefit [them], [I] have composed this commentary on the meanings of the "
+"words.  "
 
 msgctxt "617921dbbdfb45eeb87d36dbd1a5c803"
 msgid "སྔོན་ཆད་ མ་ བྱུང་ འདི་␣ར་ བརྗོད་ མེད ། །"
