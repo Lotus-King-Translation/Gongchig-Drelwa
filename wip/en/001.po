@@ -164,7 +164,7 @@ msgstr "The unique teaching- the Single Intent. "
 
 msgctxt "e490d8dbeadf41988ea1b8ea04e81d16"
 msgid "བློ་ དམན་ བདག་ འདྲ་ རྣམས་ ལ་ ནི ། །"
-msgstr "to those with lesser intelligence like me."
+msgstr "For those of lesser intellect like me,"
 
 msgctxt "79b1d88d89cc4d028b4c124452dc137d"
 msgid "ཕན་ ཕྱིར་ ཚིག་དོན་ འགྲེལ་ འདི་ བརྩམས ། །"
