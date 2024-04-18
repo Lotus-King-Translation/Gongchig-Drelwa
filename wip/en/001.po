@@ -178,7 +178,7 @@ msgstr "Nothing is said here that has not happened before."
 
 msgctxt "461226f560f24c9f9d275b7910f56489"
 msgid "སྡེབ་སྦྱོར་ སྙན་པ་␣འང་ བདག་ ལ་ མེད ། །"
-msgstr "I have no fame in the art of composition."
+msgstr "I do not have a pleasant art of composition."
 
 msgctxt "a0548b0c382e4f69b3f70fd5c331e688"
 msgid "གཞན་ ལ་ ཕན་པ་␣འི་ བློ་ ཡང་ དཀའ ། །"
@@ -190,7 +190,7 @@ msgstr "Doing it to clean my karmic obscurations."
 
 msgctxt "bf0e8345245949c8b69f9deeea58cf27"
 msgid "དེང་ འདི་␣ར་ རང་ཅག་ རྣམས་ ཀྱི་ མེ་ཏོག་ གང་ ལ་ ཕོག་པ་␣འི་ ལྷ་ སྐལ །"
-msgstr "In the present times, our destined deity where we bestow our flowers."
+msgstr "At present, our destined deity on whom we bestow our flowers."
 
 msgctxt "87547b540be34b28afacb4fdd7d7d402"
 msgid ""
@@ -205,12 +205,12 @@ msgid ""
 "ལྷན་ཐབས་ བཞི་ བཅུ་པ་␣འི་ དོན་ བཟང་པོ་ བདེ་བླག་ ཏུ་ རྟོགས་ ཆེད་ ཚིག་དོན་ གྱི་"
 " རྣམ་བཤད་ འདི་ཉིད་ འཆད་པ་ ལ །"
 msgstr ""
-"This complete explanation of word meanings is expounded for easy "
-"comprehension of the excellent meanings of the forty addendums."
+"This complete explanation of the words and their meanings is expounded to "
+"easily comprehend the excellent meanings of the forty addendums. "
 
 msgctxt "14e06ad73c8f4a0ea810cecb91a364d7"
 msgid "ཐོག་མ་␣ར་ དགེ་བ་ མཚན་ གྱི་ དོན་ དང༌ །"
-msgstr "The initial auspiciousness of the title's meaning and "
+msgstr "The virtuous in the beginning are the meaning of the title and"
 
 msgctxt "c5db631a1c24444781cb7d467ccdb835"
 msgid "འགྱུར་ཕྱག་ གཉིས་ ལ་␣ས །"
