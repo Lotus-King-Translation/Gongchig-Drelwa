@@ -408,7 +408,7 @@ msgstr "As Tathagata is the powerful lord of the Dharma,"
 
 msgctxt "de118e9afeec4ab6a343bb06b503465f"
 msgid "དེ་␣ས་ ཇི་ལྟར་ བཞེད་པ་ དེ་ལྟར་ འགྱུར་ ཏེ །"
-msgstr "It becomes like how he accepts,"
+msgstr "Whatever he accepts, it will become that way."
 
 msgctxt "6a569e54ef104dad8af8a94fdd8d659b"
 msgid "ཆོས་ ཐམས་ཅད་ ལ་ དབང་ བསྒྱུར་བ་ ཉིད་ ཀྱིས་ སོ་ ཞེས་ འདོད་ དོ ། །"
