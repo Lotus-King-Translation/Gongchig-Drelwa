@@ -4288,7 +4288,7 @@ msgstr ""
 msgctxt "1e5923449b7e440e8656967e3be409c9"
 msgid "ལམ་ གྱི་ ཆོས་ མིན་ གྱི་ སངས་རྒྱས་ ཀྱི་ ས་ ནི་ དེ་␣འི་ ཕ་རོལ་ ན་ ཡོད །"
 msgstr ""
-"The level of buddha is not a phenomenon of path, but it is beyond that."
+"The level of buddhahood is not a phenomenon of path, but it is beyond that."
 
 msgctxt "e3bb0adc92a34d66bebf23654fc18fed"
 msgid "ཚོགས་ལམ་ འབྲིང་པོ་␣ར་ དྲན་པ་ ཉེར་ བཞག་ ལ་དོན་ མེད་ ཟེར །"
