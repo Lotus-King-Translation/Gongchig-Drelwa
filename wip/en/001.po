@@ -8960,7 +8960,7 @@ msgstr "The occurrence of complete ripening of karma beyond [our] control,"
 
 msgctxt "bca61636b1834e7fa93cf21d4a6378ed"
 msgid "སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ ནི་ མངའ་ མི་ མཛད །"
-msgstr "Buddha, the Blessed One, does not possess it. "
+msgstr "The Buddha, the Blessed One, does not possess it. "
 
 msgctxt "c1b9e186eae346e5b211bac59f9c6b2c"
 msgid "ཅེས་ དང་ །"
