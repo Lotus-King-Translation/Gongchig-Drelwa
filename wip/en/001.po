@@ -494,7 +494,7 @@ msgid ""
 "དེ་ལྟར་ བསྟན་ ཏེ །"
 msgstr ""
 "Appearances are interdependent, and interdependence is empty. This is the "
-"intrinsic nature of things, thus it is shown in this way."
+"intrinsic nature of things. Thus, it is taught in this way."
 
 msgctxt "221d8295aa004997b2a286a07de37232"
 msgid "འོ་ན་ དབང་ བསྒྱུར་བ་ མི་ འགྲུབ་བོ་ སྙམ་ ན །"
