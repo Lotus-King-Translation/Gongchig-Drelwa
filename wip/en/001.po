@@ -21231,7 +21231,7 @@ msgstr "Enter into the gate of the teachings."
 
 msgctxt "ad2a1009e7e74d46ab01125522767dbe"
 msgid "ཀུན་ གྱི་ ནང་ ན་ ཡོན་ཏན་ དུ་མ་␣ས་ མཛེས་ ཤིང་"
-msgstr "Among all, with many good qualities, they are beautiful and"
+msgstr "Among all, with many good qualities, [they] are beautiful and"
 
 msgctxt "34ad5611683c4b4781d06bf33386f643"
 msgid "ལྷག་པ་ ཡིན་ ནོ །"
