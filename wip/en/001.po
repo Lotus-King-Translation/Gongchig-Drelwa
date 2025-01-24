@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Tenzin Norgyal, 2024
 # Mikko Kotila, 2024
+# Tenzin Norgyal, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Mikko Kotila, 2024\n"
-"Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/162865/en/)\n"
+"Last-Translator: Tenzin Norgyal, 2025\n"
+"Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/204218/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,9 +19,9 @@ msgid ""
 "དགོངས་པ་ གཅིག་པ་␣འི་ རྣམ་བཤད་ བློ་ གས་␣ར་ དགའ་བ་␣འི་ རྣ་རྒྱན་ དབྱར་ གྱི་ "
 "རྔ་སྒྲ་ ཞེས་ བྱ་བ་ བཞུགས་ སོ ། །"
 msgstr ""
-"The true transmission of the Buddha's doctrine, A Thorough Explanation of "
-"the Holy Dharma Single Intent by Lord Drigungpa, called the Summer Drum, the"
-" Ear Ornament of Joy for the New Minds. "
+"A true transmission of the Buddha's doctrine, A Thorough Explanation of the "
+"Holy Dharma Single Intent by Lord Drigungpa, called the Summer Drum, the Ear"
+" Ornament of Joy for the New Minds. "
 
 msgctxt "d040936945854546a7449761291d81dd"
 msgid "༄༅། ། ན་མོ་ གུ་རུ་ རཏྣ་ ཤྲཱི་ ཡེ །"
