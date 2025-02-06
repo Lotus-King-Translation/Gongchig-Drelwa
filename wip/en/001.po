@@ -12793,7 +12793,7 @@ msgstr "As principal, the eighty minor marks."
 
 msgctxt "c506c30f53e54912b2a3a699c2e6baf9"
 msgid "གུ་བ་ ཞེས་ བྱ་␣འི་ རྣམ་པ་␣ར་ གནས ། །"
-msgstr ""
+msgstr "Thoroughly abides in the so-called Guwa."
 
 msgctxt "f891b80b2e6e4eb28b2ef52c3881b5ca"
 msgid "ཞེས་ སོགས་ མཐའ་ ཡས་ སོ ། །"
