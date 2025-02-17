@@ -19338,7 +19338,7 @@ msgstr "The defeating nihilation of the Shravakas,"
 
 msgctxt "ebf0e18362b44c8088d83bf426b3016d"
 msgid "མུ་སྟེགས་ ཆད་ལྟ་བ་␣འི་ ཤི་ཆད །"
-msgstr ""
+msgstr "The dead-end nihilation of Tirthikas,"
 
 msgctxt "db08480f0c2f4977ae6f9b836a1a426b"
 msgid "བློ་␣ས་ བྱས་ ཀྱི་ སྟོང་པ་ ཕྱལ་ ཆད །"
