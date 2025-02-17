@@ -19326,7 +19326,7 @@ msgstr "As said."
 
 msgctxt "4770187a65354c83ab24456fe6fc9d83"
 msgid "དེས་ན་ ཆད་པ་ ལྔ་ དང་ བྲལ་བ་ སྟེ །"
-msgstr "Therefore, to be free from the five nihilations are"
+msgstr "Therefore, to be free from the five [extremes] of nihilation are:"
 
 msgctxt "ea3ac20b62f9412998bd8f328038263f"
 msgid "སྟོང་ཉིད་ དབུ་མ་ ཐལ་འགྱུར་བ་␣འི་ རྒྱ་ཆད །"
