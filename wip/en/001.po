@@ -19330,7 +19330,7 @@ msgstr "Therefore, to be free from the five [extremes] of nihilation are:"
 
 msgctxt "ea3ac20b62f9412998bd8f328038263f"
 msgid "སྟོང་ཉིད་ དབུ་མ་ ཐལ་འགྱུར་བ་␣འི་ རྒྱ་ཆད །"
-msgstr "The nihilation of the Prasangika Middle Way emptiness,"
+msgstr "The vast nihilation of the Prasangika Middle Way emptiness,"
 
 msgctxt "3980df351d5b4462927576506dbef16b"
 msgid "ཉན་ཐོས་པ་␣འི་ བཅོམ་ ཆད །"
