@@ -19346,7 +19346,7 @@ msgstr "The empty nihilation produced by conceptual thought,"
 
 msgctxt "ce92ce98ef0d45859801f8cabd882019"
 msgid "རྫོགས་ཆེན་པ་␣འི་ གདོད་ ནས་ ཡེ་ ཆད །"
-msgstr ""
+msgstr "The primordial nihilation of Dzogchen,"
 
 msgctxt "aa25942807d74aaa85953487b1d8be4a"
 msgid "དེ་ ལྔ་ ནི་ བློ་␣ས་ གཞལ་བ་␣འི་ ཆོས་ ལས་མ་ འདས་ ཏེ །"
