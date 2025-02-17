@@ -19351,6 +19351,8 @@ msgstr "The primordial nihilation of Dzogchen,"
 msgctxt "aa25942807d74aaa85953487b1d8be4a"
 msgid "དེ་ ལྔ་ ནི་ བློ་␣ས་ གཞལ་བ་␣འི་ ཆོས་ ལས་མ་ འདས་ ཏེ །"
 msgstr ""
+"These five do not transcend phenomena that are merely measured by a rational"
+" mind."
 
 msgctxt "3ea0db36502445968a3f7157c22ff4b7"
 msgid "དོན་དམ་ བློ་ ཡི་ སྤྱོད་ཡུལ་ མིན་ སོགས་ ཀྱིས་ ཤེས་པ་␣ར་ ནུས་ སོ ། །"
