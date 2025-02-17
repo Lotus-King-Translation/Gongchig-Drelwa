@@ -19334,7 +19334,7 @@ msgstr "The vast nihilation of the Prasangika Middle Way emptiness,"
 
 msgctxt "3980df351d5b4462927576506dbef16b"
 msgid "ཉན་ཐོས་པ་␣འི་ བཅོམ་ ཆད །"
-msgstr ""
+msgstr "The defeating nihilation of the Shravakas,"
 
 msgctxt "ebf0e18362b44c8088d83bf426b3016d"
 msgid "མུ་སྟེགས་ ཆད་ལྟ་བ་␣འི་ ཤི་ཆད །"
