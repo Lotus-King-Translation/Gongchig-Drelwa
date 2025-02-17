@@ -18403,6 +18403,7 @@ msgstr "Since there is no difference between wind and mind,"
 msgctxt "ab49b15723bd46ee83e6ef6dc7b325f7"
 msgid "རླུང་ ལ་ རྩོལ་ འབུང་ འདོན་པ་␣འི་ རྩ་␣ར་ རྩི་␣ར་ གཡོ་འགུལ་ མང་པོ་ ལ་"
 msgstr ""
+"Many subtle movements of channels with effort breathing and exhalation,"
 
 msgctxt "890f16ece0094114bbb16f1019a72ca9"
 msgid "འཁྲུལ་ འཁོར་ སྐད་ དུ་ བཏགས་ ནས་ བྱས་ ཀྱང་"
