@@ -17981,7 +17981,7 @@ msgstr "The pratyekabuddha vehicle that abides in peace."
 
 msgctxt "0011ed6122c745278a56134172efb25b"
 msgid "ཉན་ཐོས་ རྣམ་པ་␣ར་ གྲོལ་བ་␣འི་ སྒྲ་ ཕྱིར་ འབྲང༌ ། །"
-msgstr ""
+msgstr "Follow the path of liberation like the Hearers."
 
 msgctxt "f8792914d005456fa2496ad569e50bcb"
 msgid "ལྗོན་པ་␣ས་ ཞུས་པ་␣འི་ མདོ་ ལ་␣ས །"
