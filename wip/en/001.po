@@ -19831,7 +19831,7 @@ msgstr "Victors as long as the world has not attained,"
 
 msgctxt "513bf6e0733742c184700c0427deefb8"
 msgid "འགྲོ་བ་ མིན་ ཅིང་ ནམ་མཁའ་ རྣམ་ འཇིག་ འགྱུར་ མིན་ དེ་སྲིད་ དུ །"
-msgstr ""
+msgstr "Will not be gone, until all the space destruct,"
 
 msgctxt "c5c32c50c409456097a48021975519e4"
 msgid "ཤེས་རབ་ ཡུམ་ གྱིས་ བསྐྱེད་པ་ ཁྱོད་ ལ་ ཐུགས་ བརྩེ་ མ་མ་ ཡི ། །"
