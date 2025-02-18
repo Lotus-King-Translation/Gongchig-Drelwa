@@ -19854,6 +19854,7 @@ msgid ""
 "དེ་ལྟར་ དུག་ ཟོས་ ཉེན་པ་␣འི་ བུ་ ལ་མ་ ཡི་ སྡུག་བསྔལ་ མིན་པ་␣ར་ འགྱུར་ མ་ "
 "ལགས་␣༎"
 msgstr ""
+"Just as a mother feels such pain when her dear child has taken poison,"
 
 msgctxt "c8c0bf7fc710430f9582b80ea3907a7d"
 msgid "དེས་ན་ མགོན་པོ་ མཆོག་ ཏུ་ རབ་ ཞི་␣ར་ གཤེགས་པ་␣ར་ གྱུར་ མ་ ལགས ། །"
