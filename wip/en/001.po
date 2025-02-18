@@ -19815,7 +19815,7 @@ msgstr "In all the buddha realms of all the sugatas,"
 
 msgctxt "c8a681694d4248e6925acd4146cb32d9"
 msgid "ཕྲ་རབ་ རྡུལ་ གྱི་ རྡུལ་ རྣམས་ བདོག་པ་␣ར་ གྱུར་པ་ ཇི་སྙེད་པ །"
-msgstr ""
+msgstr "As many as there exist finest particles,"
 
 msgctxt "82f0cf323cb1496c8d97be169f54bbba"
 msgid "བྱང་ཆུབ་ མཆོག་རབ་ དམ་པ་␣ར་ གཤེགས་པ་␣འི་ བསྐལ་པ་␣འང་ དེ་སྙེད་ དེ །"
