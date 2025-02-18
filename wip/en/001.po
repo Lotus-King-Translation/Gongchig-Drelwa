@@ -19811,7 +19811,7 @@ msgstr "According to the Entrance to the Middle Way:"
 
 msgctxt "0a72574cec8442c3a7a0392d4909573a"
 msgid "བདེ་བ་␣ར་ གཤེགས་པ་ མ་ ལུས་ ཕྱོགས་ ཞིང་ སངས་རྒྱས་ མཐའ་དག་ ན ། །"
-msgstr "In all the buddha realms, all the sugatas,"
+msgstr "In all the buddha realms of all the sugatas,"
 
 msgctxt "c8a681694d4248e6925acd4146cb32d9"
 msgid "ཕྲ་རབ་ རྡུལ་ གྱི་ རྡུལ་ རྣམས་ བདོག་པ་␣ར་ གྱུར་པ་ ཇི་སྙེད་པ །"
