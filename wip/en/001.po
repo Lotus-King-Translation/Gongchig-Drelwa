@@ -19858,7 +19858,7 @@ msgstr ""
 
 msgctxt "c8c0bf7fc710430f9582b80ea3907a7d"
 msgid "དེས་ན་ མགོན་པོ་ མཆོག་ ཏུ་ རབ་ ཞི་␣ར་ གཤེགས་པ་␣ར་ གྱུར་ མ་ ལགས ། །"
-msgstr ""
+msgstr "Thus, guardians will not pass into supreme peace."
 
 msgctxt "20adcd390b3b4dcd8e18379e49f9054b"
 msgid "ཞེས་ དང༌ །"
