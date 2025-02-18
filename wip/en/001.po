@@ -19847,7 +19847,7 @@ msgstr "For beings who consume the worldly poisoned food of ignorance,"
 
 msgctxt "078bdd90db0a4cbaa405dd8f2e98b93f"
 msgid "སྐྱེ་བོ་ ཉིད་ ཀྱི་ ནང་མི་ དེ་ ལ་ ཁྱོད་ བརྩེ་ ཇི་ལྟ་བ ། །"
-msgstr ""
+msgstr "Just as your compassion extends to your family members,"
 
 msgctxt "684297f18c8b485996af81661d05f125"
 msgid ""
