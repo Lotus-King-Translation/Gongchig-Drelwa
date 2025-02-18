@@ -19843,7 +19843,7 @@ msgstr "In this way, having become the highest peace, how could one remains,"
 
 msgctxt "c7e08866d2c5466ab1aca30574e07139"
 msgid "གཏི་མུག་ སྐྱོན་ གྱིས་ འཇིག་རྟེན་ ཁ་ཟས་ དུག་ བཅས་ ཟ་བ་ ཉིད ། །"
-msgstr ""
+msgstr "For beings who consume the worldly poisoned food of ignorance,"
 
 msgctxt "078bdd90db0a4cbaa405dd8f2e98b93f"
 msgid "སྐྱེ་བོ་ ཉིད་ ཀྱི་ ནང་མི་ དེ་ ལ་ ཁྱོད་ བརྩེ་ ཇི་ལྟ་བ ། །"
