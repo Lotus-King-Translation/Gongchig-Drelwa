@@ -19827,7 +19827,7 @@ msgstr "Yet your secret can still not be explained."
 
 msgctxt "70c39cd26fd5448bb0d3b43b485dfef4"
 msgid "རྒྱལ་བ་ ཇི་སྲིད་ འཇིག་རྟེན་ མཐའ་དག་ མཆོག་ ཏུ་ རབ་ ཞི་བ་␣ར །"
-msgstr "As long as the world has not attained the victor"
+msgstr "Victors as long as the world has not attained,"
 
 msgctxt "513bf6e0733742c184700c0427deefb8"
 msgid "འགྲོ་བ་ མིན་ ཅིང་ ནམ་མཁའ་ རྣམ་ འཇིག་ འགྱུར་ མིན་ དེ་སྲིད་ དུ །"
