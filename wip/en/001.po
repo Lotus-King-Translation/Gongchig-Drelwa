@@ -19819,7 +19819,7 @@ msgstr "As many as there exist finest particles,"
 
 msgctxt "82f0cf323cb1496c8d97be169f54bbba"
 msgid "བྱང་ཆུབ་ མཆོག་རབ་ དམ་པ་␣ར་ གཤེགས་པ་␣འི་ བསྐལ་པ་␣འང་ དེ་སྙེད་ དེ །"
-msgstr ""
+msgstr "That many are the eons of supreme enlightenment;"
 
 msgctxt "1720c3cd68e84b91b0b75a55ee9e477a"
 msgid "འོན་ཀྱང་ ཁྱོད་ ཀྱི་ གསང་བ་ འདི་ ནི་ བསྙད་ བགྱི་ མ་ ལགས་སོ ། །"
