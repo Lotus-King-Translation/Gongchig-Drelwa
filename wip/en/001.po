@@ -19835,7 +19835,7 @@ msgstr "Will not be gone, until all the space destruct,"
 
 msgctxt "c5c32c50c409456097a48021975519e4"
 msgid "ཤེས་རབ་ ཡུམ་ གྱིས་ བསྐྱེད་པ་ ཁྱོད་ ལ་ ཐུགས་ བརྩེ་ མ་མ་ ཡི ། །"
-msgstr ""
+msgstr "Born from wisdom-mother's love to you,"
 
 msgctxt "10fba32db18c48ce90e76628521b1378"
 msgid "ཚུལ་ ལུགས་ བྱེད་པ་␣ས་ རབ་ཏུ་ ཞི་བ་␣ར་ འགྱུར་བ་ ག་ལ་ མངའ ། །"
