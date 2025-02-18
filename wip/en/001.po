@@ -19823,7 +19823,7 @@ msgstr "That many are the eons of supreme enlightenment;"
 
 msgctxt "1720c3cd68e84b91b0b75a55ee9e477a"
 msgid "འོན་ཀྱང་ ཁྱོད་ ཀྱི་ གསང་བ་ འདི་ ནི་ བསྙད་ བགྱི་ མ་ ལགས་སོ ། །"
-msgstr ""
+msgstr "Yet your secret can still not be explained."
 
 msgctxt "70c39cd26fd5448bb0d3b43b485dfef4"
 msgid "རྒྱལ་བ་ ཇི་སྲིད་ འཇིག་རྟེན་ མཐའ་དག་ མཆོག་ ཏུ་ རབ་ ཞི་བ་␣ར །"
